@@ -2,15 +2,14 @@
 <NormalInvitation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.1</Version>
   <Workshop>
-    <ID>CieloAoi</ID>
-    <Title>Traducción al Español</Title>
-    <Description>Traducido por: Cielo Aoi
-    
-    Recuerda que tienes que ir a Configuraciones para seleccionar el idioma en español la primera vez que instalas el mod
-    
-    Especiales gracias al Equipo de Traducción Rusa por facilitar el codigo que hizo todo esto posible</Description>
+    <ID>Detayli oynamak toplulugu</ID>
+    <Title>Turkce Ceviri</Title>
+    <Description>Ceviri: Detayli oynamak toplulugu
+	
+	https://discord.gg/A7ktrBUFTR
+	</Description>
     <Tag>Localizations</Tag>
-    <PreviewImage>D:\Games\Steam\steamapps\common\Library Of Ruina\LibraryOfRuina_Data\Mods\Localizer_RU\preview.jpg</PreviewImage>
+    <PreviewImage>\preview.jpg</PreviewImage>
   </Workshop>
   <InvitationFile>
     <Stage Exist="true">
