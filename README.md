@@ -9,3 +9,5 @@ Bu xml dosyalarını yazılmış olan çeviriyle değiştirip oyunu mod'lu başl
 Tabii diğer çevirmediğimiz kısımlar ispanyolca gözükeceğinden Data klasörü içindeki BattleDialogues ve Localize klasörlerini siliyoruz + Resource Klasöründe(İÇİNDEKİ Fonts Klasörü HARİÇ) siliyoruz.
 
 Kurulum böyle, onun dışında herhangi bir role başlamak isterseniz hangi diyaloğu çevireceğinizi belirtebilirsiniz.
+
+Save dosyasına ihtiyacınız olursa burda: https://drive.google.com/drive/folders/1G5WvsiKL8cObY0QYAZMYLezs4-6EP32u
