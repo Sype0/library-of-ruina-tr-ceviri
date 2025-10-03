@@ -1,0 +1,2951 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Chapter ID="1">
+    <Title>Capítulo 1-Rumor-‘Salgo a la calle, las manos en mis bolsillos.’</Title>
+  </Chapter>
+  <Group>
+    <GroupName>Prologue</GroupName>
+    <Episode>
+      <EpisodeName>Episodio 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_angela1</VoiceFile>
+          <Content>Aún no puedo dejar este lugar...</Content>
+        </Dialog>
+        <Dialog ID="1" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_angela2</VoiceFile>
+          <Content>Incluso al final, no puedo ser libre...</Content>
+        </Dialog>
+        <Dialog ID="2" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_angela3</VoiceFile>
+          <Content>¿No se me permite tener un sueño que esté más allá de mis posibilidades...?</Content>
+        </Dialog>
+        <Dialog ID="3" Model="롤랑">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_roland1</VoiceFile>
+          <Content>Maldita sea... La Lágrima Púrpura...</Content>
+        </Dialog>
+        <Dialog ID="4" Model="롤랑">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_roland2</VoiceFile>
+          <Content>No puedo creer que así es como lo manejó...</Content>
+        </Dialog>
+        <Dialog ID="5" Model="롤랑">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_roland3</VoiceFile>
+          <Content>¿Qué demonios está pasando? ¿Qué pasa con todo este humo?</Content>
+        </Dialog>
+        <Dialog ID="6" Model="롤랑">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_roland4</VoiceFile>
+          <Content>Uf... Supongo que tendré que confiar en ella...</Content>
+        </Dialog>
+        <Dialog ID="7" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_angela4</VoiceFile>
+          <Content>... Solo lo diré una vez.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_angela5</VoiceFile>
+          <Content>Desprecio los discursos excesivos e indirectos que no van directos al grano.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_angela6</VoiceFile>
+          <Content>Así que no intentes hablar demasiado. Solo responde mis preguntas.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_angela7</VoiceFile>
+          <Content>Tampoco se te permite cuestionarme.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_angela8</VoiceFile>
+          <Content>¿De dónde vienes, cómo entraste a este lugar y con qué propósito?</Content>
+        </Dialog>
+        <Dialog ID="12" Model="롤랑">
+          <Teller>???</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol1_ep1_roland5</VoiceFile>
+          <Content>Bueno, quién eres tú para...</Content>
+        </Dialog>
+        <Dialog ID="13" Model="롤랑">
+          <Teller>???</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol1_ep1_roland6</VoiceFile>
+          <Content>Uf... Mi cabeza me da vueltas...</Content>
+        </Dialog>
+        <Dialog ID="14" Model="롤랑">
+          <Teller>???</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol1_ep1_roland7</VoiceFile>
+          <Content>¡¡AHHHHHH!! ¡¡Mi pierna!!</Content>
+        </Dialog>
+        <Dialog ID="15" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_angela9</VoiceFile>
+          <Content>Te lo advertí y cruzaste la línea. Déjame preguntarlo una vez más.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_angela10</VoiceFile>
+          <Content>¿De dónde vienes, cómo entraste a este lugar y con qué proposito?</Content>
+        </Dialog>
+        <Dialog ID="17" Model="롤랑">
+          <Teller>???</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol1_ep1_roland8</VoiceFile>
+          <Content>... Yo solo estaba paseando y terminé aquí antes de que me diera cuenta. No tengo idea cómo llegué a este lugar. Maldición, mi pierna no para de sangrar... Te juro que no estaba intentando colarme, no tengo ni idea de dónde estamos.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="롤랑">
+          <Teller>???</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol1_ep1_roland9</VoiceFile>
+          <Content>Me desperté alrededor de las 1 PM y comencé a caminar por las calles del Distrito 13. Ya que estaba fuera de casa, pensé que podía ir donde quisiera. Así que decidí ir a HamHamPangPang. Escuché que servían un sándwich especial esta semana.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="롤랑">
+          <Teller>???</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol1_ep1_roland10</VoiceFile>
+          <Content>De todos modos, tenía facturas que pagar, no tengo trabajo, tenía que ganarme la vida de alguna manera como un Ofic...</Content>
+        </Dialog>
+        <Dialog ID="20" Model="롤랑">
+          <Teller>???</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol1_ep1_roland11</VoiceFile>
+          <Content>¡¡¡AHHHHH!!!</Content>
+        </Dialog>
+        <Dialog ID="21" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_angela11</VoiceFile>
+          <Content>Te prolongaste demasiado. Tomaré tu brazo y pierna izquierdos la próxima vez.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_angela12</VoiceFile>
+          <Content>No tienes ningún propósito y no tienes idea cómo llegaste aquí... Simplemente, ¿quién eres?</Content>
+        </Dialog>
+        <Dialog ID="23" Model="롤랑">
+          <Teller>???</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol1_ep1_roland12</VoiceFile>
+          <Content>Solo soy un Fixer ordinario que ha tocado fondo. ¿Qué demonios es este lugar? ¿Y quién eres tú?</Content>
+        </Dialog>
+        <Dialog ID="24" Model="롤랑">
+          <Teller>???</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol1_ep1_roland13</VoiceFile>
+          <Content>¡¡¡Grrhhhhrhghh!!! Vamos, tomar dos extremidades a la vez es demasiado...</Content>
+        </Dialog>
+        <Dialog ID="25" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_angela13</VoiceFile>
+          <Content>Yo soy la que hace las preguntas, ¿tu nombre?</Content>
+        </Dialog>
+        <Dialog ID="26" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol1_ep1_roland14</VoiceFile>
+          <Content>Roland...</Content>
+        </Dialog>
+        <Dialog ID="27" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_angela14</VoiceFile>
+          <Content>Bien. Bienvenido a la Biblioteca. Aún no hemos recibido a ningún invitado, pero entonces apareciste de la nada.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_angela15</VoiceFile>
+          <Content>Me costó un poco de esfuerzo diseñar esta Biblioteca para asegurarme que ningún visitante no deseado pudiera entrar.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol1_ep1_roland15</VoiceFile>
+          <Content>... Maldición, estas extremidades son todo lo que tenía... No tengo dinero ni hipotecas para conseguir unas nuevas...</Content>
+        </Dialog>
+        <Dialog ID="30" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol1_ep1_angela16</VoiceFile>
+          <Content>Parece que se ha desmayado.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Episodio 2</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela1</VoiceFile>
+          <Content>Despierta.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol2_ep1_roland1</VoiceFile>
+          <Content>¡Ah! ¡Uf, uf...! ¡Mis piernas! ¡¡Mis brazos!! </Content>
+        </Dialog>
+        <Dialog ID="2" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol2_ep1_roland2</VoiceFile>
+          <Content>...Espera, ¿están intactos?</Content>
+        </Dialog>
+        <Dialog ID="3" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela2</VoiceFile>
+          <Content>Deberías ser capaz de mover tus brazos y caminar de nuevo.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela3</VoiceFile>
+          <Content>Y le hice algunos ajustes a tu cuerpo para hacerlo un poco más fácil de usar. </Content>
+        </Dialog>
+        <Dialog ID="5" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela4</VoiceFile>
+          <Content>Aunque invadiste mi Biblioteca, yo también tomé tus extremidades sin tu consentimiento, así que te las estoy dando como una disculpa.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela4_1</VoiceFile>
+          <Content>Soy bastante paciente y generosa, como puedes ver.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol2_ep1_roland3</VoiceFile>
+          <Content>Paciente mi trasero... ¿Se supone que debo darte las gracias?</Content>
+        </Dialog>
+        <Dialog ID="8" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol2_ep1_roland4</VoiceFile>
+          <Content>Y esto, eh... ¿Tu advertencia ya no está en efecto, verdad?</Content>
+        </Dialog>
+        <Dialog ID="9" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela5</VoiceFile>
+          <Content>No, ya no. Estuve pensando mientras estabas inconsciente.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela6</VoiceFile>
+          <Content>Y esta es mi conclusión: Me ayudarás aquí.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol2_ep1_roland5</VoiceFile>
+          <Content>¿Qué? ¿Eh? ¿Los Sindicatos también se dedican a raptar gente? ¿O estamos en una de las Alas?</Content>
+        </Dialog>
+        <Dialog ID="12" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol2_ep1_roland6</VoiceFile>
+          <Content>Escuché rumores de que secuestraban sujetos de prueba por aquí y allá para la investigación de Singularidades.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol2_ep1_roland7</VoiceFile>
+          <Content>Aparentemente un conocido mío comenzó a saltar entre dimensiones como un efecto secundario de uno de esos experimentos...</Content>
+        </Dialog>
+        <Dialog ID="14" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol2_ep1_roland8</VoiceFile>
+          <Content>Uf... Mi vida de verdad es un desastre tras otro.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela7</VoiceFile>
+          <Content>Esta es una Biblioteca. No conozco esos “Sindicatos” de los que me hablas, pero te puedo asegurar que este lugar no es un Ala.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Intruso</Title>
+          <VoiceFile>ch1_prol2_ep1_roland9</VoiceFile>
+          <Content>No importa mucho lo que sean. En cualquier caso, estoy atrapado aquí y me explotarás, ¿verdad?</Content>
+        </Dialog>
+        <Dialog ID="17" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela8</VoiceFile>
+          <Content>Sí. Te estoy dejando vivir por dos razones.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela9</VoiceFile>
+          <Content>Primera, necesito hacer un análisis de como pudiste entrar sin una Invitación.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela9_1</VoiceFile>
+          <Content>Enviarte de vuelta sin saber la razón podría significar una amenaza para la Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela10</VoiceFile>
+          <Content>Bueno, no es como si pudieras irte sin mi permiso de todos modos.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela11</VoiceFile>
+          <Content>Segunda, desde ahora en adelante, voy a coleccionar libros sobre la Ciudad en busca del único libro absoluto.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela12</VoiceFile>
+          <Content>Y quiero que me ayudes con este proceso.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela13</VoiceFile>
+          <Content>Ya que eres un residente de la Ciudad, espero que seas de ayuda de diversas maneras.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol2_ep1_roland10</VoiceFile>
+          <Content>... Sabía que me terminarían raptando algún día. La gente suele desaparecer sin dejar ningún rastro, solo para ser encontrada como trozos de carne más tarde...</Content>
+        </Dialog>
+        <Dialog ID="25" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol2_ep1_roland11</VoiceFile>
+          <Content>Solía reírme de esos pobres tontos por ser tan descuidados y no tener suerte, pero ahora que lo veo, no tiene nada que ver con tener cuidado o lo que sea, eh. Solo pasa en un momento sin que lo notes...</Content>
+        </Dialog>
+        <Dialog ID="26" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela14</VoiceFile>
+          <Content>No te preocupes demasiado por tu vida. No tienes permitido morir aquí a menos que yo lo permita.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol2_ep1_roland12</VoiceFile>
+          <Content>Maldición, así que estamos en algún tipo de laboratorio manejado por psicópatas.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol2_ep1_roland13</VoiceFile>
+          <Content>¿Te gusta meter cosas aleatorias como granos de maíz y aparatos de relojería dentro de los estómagos de las personas, y los conviertes en hombres máquinas de maíz que caminan y escupen palomitas o algo así?</Content>
+        </Dialog>
+        <Dialog ID="29" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol2_ep1_roland14</VoiceFile>
+          <Content>No quiero terminar así... Prefiero morir y acabar mi vida con dignidad...</Content>
+        </Dialog>
+        <Dialog ID="30" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela15</VoiceFile>
+          <Content>Si continúas diciendo sin sentidos una vez más, estaré encantada de convertirte en la máquina de palomitas humana que tanto deseas.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela16</VoiceFile>
+          <Content> Ya he pasado por demasiados ciclos de estupideces, respondiendo todo tipo de idioteces.</Content>
+        </Dialog>
+        <Dialog ID="32" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol2_ep1_roland15</VoiceFile>
+          <Content>Lo siento, ma’am...</Content>
+        </Dialog>
+        <Dialog ID="33" Model="앤젤라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch1_prol2_ep1_angela17</VoiceFile>
+          <Content>Permíteme presentarme correctamente.</Content>
+        </Dialog>
+        <Dialog ID="34" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol2_ep1_angela18</VoiceFile>
+          <Content>Mi nombre es Angela. Soy la Bibliotecaria en Jefe y Directora de esta Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol2_ep1_roland16</VoiceFile>
+          <Content>Ange...la... Es un buen nombre.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Episodio 3</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol3_ep1_roland1</VoiceFile>
+          <Content>Entonces, ¿qué se supone que debo hacer?</Content>
+        </Dialog>
+        <Dialog ID="1" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela1</VoiceFile>
+          <Content>Tu papel es dar la “bienvenida” a los invitados a la Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela2</VoiceFile>
+          <Content>Determinaré con cuidado a quién invitar, escribiré una Invitación en consecuencia y tú entretendrás a los invitados una vez acepten la Invitación y lleguen a la Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela3</VoiceFile>
+          <Content>Ya que tienes experiencia trabajando como un Fixer, estoy segura de que serás capaz de dar a los distintos tipos de invitados una mejor Recepción que yo.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol3_ep1_roland2</VoiceFile>
+          <Content>Sin embargo, solo soy un Fixer de Grado 9 fracasado...</Content>
+        </Dialog>
+        <Dialog ID="5" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol3_ep1_roland3</VoiceFile>
+          <Content>¿Qué es esta “Recepción” de todos modos? ¿Necesito mirarlos a los ojos, hago de mesero para ellos o algo así?</Content>
+        </Dialog>
+        <Dialog ID="6" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela4</VoiceFile>
+          <Content>Es simple. Solo tienes que tratar con los invitados. En una manera física, por supuesto. </Content>
+        </Dialog>
+        <Dialog ID="7" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela5</VoiceFile>
+          <Content>Los invitados de la Biblioteca serán recibidos por una Ordalía.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela6</VoiceFile>
+          <Content>Los invitados tienen que superar dicha Ordalía para demostrar que son dignos de ganar nuestros libros.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela7</VoiceFile>
+          <Content>Hay una posibilidad de que puedas morir en el proceso de la Recepción, pero será temporal. Te recuperarás una vez que la Biblioteca cierre.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela8</VoiceFile>
+          <Content>Nadie aquí puede descansar sin mi permiso. </Content>
+        </Dialog>
+        <Dialog ID="11" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol3_ep1_roland4</VoiceFile>
+          <Content>¿Tienes algún tipo de fantasía rara de los Fixers? ¿No estás esperando demasiado de un simple Grado 9? No tengo tanto talento como pareces pensar, sabes.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela9</VoiceFile>
+          <Content>Eso no es mi problema. He preparado un manual para ti, así que sigue adelante y resuelve las cosas por tu cuenta.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol3_ep1_roland5</VoiceFile>
+          <Content>Creo que entiendo los fundamentos. Entonces, ¿cómo funciona esta Invitación exactamente? </Content>
+        </Dialog>
+        <Dialog ID="14" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela10</VoiceFile>
+          <Content>Abre la Invitación y añade los libros que deseas proporcionar a tus invitados.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol3_ep1_roland6</VoiceFile>
+          <Content>¿Y luego?</Content>
+        </Dialog>
+        <Dialog ID="16" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela11</VoiceFile>
+          <Content>La Invitación se enviará naturalmente a aquellos que necesitan los libros.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol3_ep1_roland7</VoiceFile>
+          <Content>¿Eso es todo? Suena un poco demasiado fácil.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela12</VoiceFile>
+          <Content>La Invitación es otro trabajo mío cuidadosamente elaborado, muy parecido a la Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela13</VoiceFile>
+          <Content>Sí, imagina que es como una brújula. Será mucho más fácil de entender.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol3_ep1_roland8</VoiceFile>
+          <Content>Ah~ ¿Una brújula? ¿Cómo la herramienta que te dice las direcciones?</Content>
+        </Dialog>
+        <Dialog ID="21" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela14</VoiceFile>
+          <Content>Es correcto. La Invitación me guiará hacia el libro absoluto que deseo obtener.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela15</VoiceFile>
+          <Content>Y a veces, la Invitación se puede volver roja según los libros que hayas registrado.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela16</VoiceFile>
+          <Content>Una Invitación roja indica que puede ser enviada a un invitado especial que desentrañará la siguiente parte de la historia.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela17</VoiceFile>
+          <Content>Hasta que podamos registrar los libros que coincidan con lo que desea la Invitación roja, nuestro viaje se detendrá por el momento.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol3_ep1_roland9</VoiceFile>
+          <Content>Pero no hay ninguna garantía de que los invitados siempre responderán nuestra Invitación, ¿verdad?</Content>
+        </Dialog>
+        <Dialog ID="26" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela18</VoiceFile>
+          <Content>De hecho, si tenemos garantías. Ellos están destinados a venir.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela19</VoiceFile>
+          <Content>El invitado aceptará la Invitación con su propia voluntad y entrará a la Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol3_ep1_roland10</VoiceFile>
+          <Content>El proceso es bastante educado y justo para algo que sucede en esta Ciudad.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol3_ep1_roland11</VoiceFile>
+          <Content>La mayoría del tiempo la gente muere sin ningún tipo de acuerdo o consentimiento.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol3_ep1_roland12</VoiceFile>
+          <Content>Bueno, de todos modos, una vez tengamos esos libros, ¿qué viene después?</Content>
+        </Dialog>
+        <Dialog ID="31" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela20</VoiceFile>
+          <Content>La Biblioteca es un lugar con posibilidades ilimitadas.</Content>
+        </Dialog>
+        <Dialog ID="32" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela21</VoiceFile>
+          <Content>Incluso yo aún no puedo comprender el espacio infinito y el poder de esta Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="33" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela22</VoiceFile>
+          <Content>Por eso deseo completar la Biblioteca llenando sus espacios vacíos con libros.</Content>
+        </Dialog>
+        <Dialog ID="34" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_prol3_ep1_angela23</VoiceFile>
+          <Content>Y obtendré el libro perfecto que me completará a mí y a la Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_prol3_ep1_roland13</VoiceFile>
+          <Content>El libro perfecto, eh... Supongo que esos “libros” son diferentes de los que yo conozco.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Episodio 4</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Prol_ep4_roland1</VoiceFile>
+          <Content>Supongo que los libros aquí no son exactamente del tipo al que estoy familiarizado, eh.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Prol_ep4_angela1</VoiceFile>
+          <Content>Los libros en esta Biblioteca son especiales, ya que están hechos de humanos.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Prol_ep4_angela2</VoiceFile>
+          <Content>Estos libros le muestran al lector lo que quiere ver.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Prol_ep4_angela3</VoiceFile>
+          <Content>Lo que puede mostrar un libro es finito a la información que la persona originalmente tenía, así que tiene sus límites. Aun así, su valor puede variar mucho dependiendo de quien lo lea.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Prol_ep4_roland2</VoiceFile>
+          <Content>Información... Eso huele a dinero. También puede atraer a un montón de gente.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+  <Group>
+    <GroupName>Rats</GroupName>
+    <Episode>
+      <EpisodeName>Episodio 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Algún lugar en los Barrios Bajos</PlaceName>
+        <Dialog ID="0" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit1</VoiceFile>
+          <Content>¡Eh! ¡Apresúrate y sácalos ya! ¡Esos matones de Zwei pueden llegar en cualquier momento!</Content>
+        </Dialog>
+        <Dialog ID="1" Model="레니">
+          <Teller>Lenny</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_lenny1</VoiceFile>
+          <Content>¡¡Lo hago lo mejor que puedo!!</Content>
+        </Dialog>
+        <Dialog ID="2" Model="레니">
+          <Teller>Lenny</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_lenny2</VoiceFile>
+          <Content>No soy capaz de hacer un corte limpio, el interior de este tipo está todo revuelto.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="레니">
+          <Teller>Lenny</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_lenny3</VoiceFile>
+          <Content>Nunca he escuchado de ningún proceso de modificación corporal que te deje en tal mal estado...</Content>
+        </Dialog>
+        <Dialog ID="4" Model="망치">
+          <Teller>Mang-chi</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_mangchi1</VoiceFile>
+          <Content>Algo está mal con estos órganos. Todos se ven realmente extraños...</Content>
+        </Dialog>
+        <Dialog ID="5" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit2</VoiceFile>
+          <Content>¡Maldición! Sus pisadas están cada vez más cerca.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit3</VoiceFile>
+          <Content>¡¡Olvídate de los cortes limpios, solo sácalos y ya!!</Content>
+        </Dialog>
+        <Dialog ID="7" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit4</VoiceFile>
+          <Content>A este ritmo nos decapitarán.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="레니">
+          <Teller>Lenny</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_lenny4</VoiceFile>
+          <Content>Por qué tiene este tipo de cosas en su cuerpo...</Content>
+        </Dialog>
+        <Dialog ID="9" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit5</VoiceFile>
+          <Content>¡Lo que sea, solo tómalo! ¡Nos estamos quedando sin tiempo!</Content>
+        </Dialog>
+        <Dialog ID="10" Model="망치">
+          <Teller>Mang-chi</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_mangchi2</VoiceFile>
+          <Content>¡Casi listo!</Content>
+        </Dialog>
+        <Dialog ID="11" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit6</VoiceFile>
+          <Content>¡Ahora, corran!</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Un Escondite en los Barrios Bajos</PlaceName>
+        <Dialog ID="12" Model="레니">
+          <Teller>Lenny</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_lenny5</VoiceFile>
+          <Content>Phew... Eso estuvo cerca.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="망치">
+          <Teller>Mang-chi</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_mangchi3</VoiceFile>
+          <Content>Eres bastante atrevido, Pete. Ir a cosechar órganos en un territorio controlado por los Zwei.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit7</VoiceFile>
+          <Content>Estos son los únicos trabajos que nos quedan.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit8</VoiceFile>
+          <Content>Tenemos que escalar usando cualquier medio. Sin importar lo que tome...</Content>
+        </Dialog>
+        <Dialog ID="16" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit9</VoiceFile>
+          <Content>¿Conoces mi sueño, verdad? El volverme uno de los Dedos de los Barrios Bajos.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="망치">
+          <Teller>Mang-chi</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_mangchi4</VoiceFile>
+          <Content>Tengo que admitirlo, es raro ver a alguien con un sueño estos días.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="망치">
+          <Teller>Mang-chi</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_mangchi5</VoiceFile>
+          <Content>Vamos a vender estos órganos primero.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="망치">
+          <Teller>Mang-chi</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_mangchi6</VoiceFile>
+          <Content>Tenemos que preparar suficiente dinero para ofrecérselo a los Perros Callejeros.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit10</VoiceFile>
+          <Content>Cierto... Esta podría ser nuestra mejor oportunidad de unirnos a un Sindicato de Clase Leyenda Urbana...</Content>
+        </Dialog>
+        <Dialog ID="21" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit11</VoiceFile>
+          <Content>Muy bien, vamos a revisar nuestra cosecha.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit12</VoiceFile>
+          <Content>¡Eh! ¿Esto es una broma? ¡¿Estás segura de que tomaste las cosas correctas?!</Content>
+        </Dialog>
+        <Dialog ID="23" Model="레니">
+          <Teller>Lenny</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_lenny6</VoiceFile>
+          <Content>Te lo dije. Este chico no tenía ningún órgano en condiciones dentro.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit13</VoiceFile>
+          <Content>Esperaba órganos empapados en drogas como Enkephalin en el peor de los casos...</Content>
+        </Dialog>
+        <Dialog ID="25" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit14</VoiceFile>
+          <Content>Estos están demasiado dañados. Es casi como si alguien los hubiera reventado.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="망치">
+          <Teller>Mang-chi</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_mangchi7</VoiceFile>
+          <Content>Nosotros solo lo dormimos con anestésicos. No le hicimos ningún daño.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit15</VoiceFile>
+          <Content>Esto no tiene sentido... Cómo podría incluso caminar en este estado...</Content>
+        </Dialog>
+        <Dialog ID="28" Model="망치">
+          <Teller>Mang-chi</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_mangchi8</VoiceFile>
+          <Content>... ¿Qué pasa si es uno de esos? Ya sabes, los rumores dicen que hay un tipo que cose a gente viva y la convierte en muñecos...</Content>
+        </Dialog>
+        <Dialog ID="29" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit16</VoiceFile>
+          <Content>Sí, también he escuchado de eso. ¡Pero solo tienes que mirar lo que cosechamos! No es el caso en absoluto.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit17</VoiceFile>
+          <Content>Escuché que esos muñecos están hechos uniendo su carne y huesos juntos. ¡Pero este hijo de perra no tenía ninguna cicatriz o puntada que se viera!</Content>
+        </Dialog>
+        <Dialog ID="31" Model="망치">
+          <Teller>Mang-chi</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_mangchi9</VoiceFile>
+          <Content>... Ahora que lo pienso, tenía una especie de símbolo naranja en la nuca...</Content>
+        </Dialog>
+        <Dialog ID="32" Model="망치">
+          <Teller>Mang-chi</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_mangchi10</VoiceFile>
+          <Content>Al principio pensé que era un tatuaje, pero no parecía el tipo de persona que tendría uno. Este idiota era un simple oficinista.</Content>
+        </Dialog>
+        <Dialog ID="33" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit18</VoiceFile>
+          <Content>¿Símbolos? ¿Tatuajes? Maldita sea, no me digas que metimos la pata...</Content>
+        </Dialog>
+        <Dialog ID="34" Model="레니">
+          <Teller>Lenny</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_lenny7</VoiceFile>
+          <Content>Aparte de eso...</Content>
+        </Dialog>
+        <Dialog ID="35" Model="레니">
+          <Teller>Lenny</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_lenny8</VoiceFile>
+          <Content>Ese tipo tenía este envoltorio dentro de su cuerpo.</Content>
+        </Dialog>
+        <Dialog ID="36" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit19</VoiceFile>
+          <Content>¡¿Qué demonios hacia un envoltorio en un cuerpo humano?! ¡Las cosas se ponen cada vez peor... Dame eso!</Content>
+        </Dialog>
+        <Dialog ID="37" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit20</VoiceFile>
+          <Content>¿Una Invitación a una Biblioteca? De qué se trata esto...</Content>
+        </Dialog>
+        <Dialog ID="38" Model="망치">
+          <Teller>Mang-chi</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_mangchi11</VoiceFile>
+          <Content>¿Libros? ¿Podemos conseguir libros de la Biblioteca? Qué montón de tonterías.</Content>
+        </Dialog>
+        <Dialog ID="39" Model="레니">
+          <Teller>Lenny</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_lenny9</VoiceFile>
+          <Content>No vamos a ganar nada de dinero con estos órganos. ... Y el pago vence mañana.</Content>
+        </Dialog>
+        <Dialog ID="40" Model="레니">
+          <Teller>Lenny</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_lenny10</VoiceFile>
+          <Content>Tenemos exactamente 7 horas. Es muy poco tiempo para intentar cosechar órganos de nuevo...</Content>
+        </Dialog>
+        <Dialog ID="41" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit21</VoiceFile>
+          <Content>... Tenemos que ir a la Biblioteca como dice la Invitación.</Content>
+        </Dialog>
+        <Dialog ID="42" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit22</VoiceFile>
+          <Content>No sé qué es esto de los ‘Libros’, pero no tenemos muchas opciones. Tenemos que aprovechar cada oportunidad que aparezca.</Content>
+        </Dialog>
+        <Dialog ID="43" Model="망치">
+          <Teller>Mang-chi</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_mangchi12</VoiceFile>
+          <Content>¿No es un suicidio? No sabemos qué tipo de lugar podría ser.</Content>
+        </Dialog>
+        <Dialog ID="44" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit23</VoiceFile>
+          <Content>¡No puede ser peor que morir a manos de los Perros Callejeros o la Asociación Zwei; estamos arruinados de todos modos! Solo cállate y sígueme si quieres vivir.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca - Primera Invitación</PlaceName>
+        <Dialog ID="45" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland1</VoiceFile>
+          <Content>¿Qué es lo que acabamos de ver...?</Content>
+        </Dialog>
+        <Dialog ID="46" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela1</VoiceFile>
+          <Content>Fragmentos del proceso de Invitación.</Content>
+        </Dialog>
+        <Dialog ID="47" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela2</VoiceFile>
+          <Content>Podemos echar un vistazo a las historias de los próximos invitados.</Content>
+        </Dialog>
+        <Dialog ID="48" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland2</VoiceFile>
+          <Content>No pensé que fueras una chismosa.</Content>
+        </Dialog>
+        <Dialog ID="49" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela3</VoiceFile>
+          <Content>Es más conveniente saber qué tipo de invitados nos visitarán de antemano, ¿no es así?</Content>
+        </Dialog>
+        <Dialog ID="50" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela4</VoiceFile>
+          <Content>Además de eso, esta es la voluntad de la Invitación, no la mía.</Content>
+        </Dialog>
+        <Dialog ID="51" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland3</VoiceFile>
+          <Content>Tienes una cosa espléndida ahí, ma’am. Observas a las personas y también las secuestra. Una herramienta perfecta para los crímenes.</Content>
+        </Dialog>
+        <Dialog ID="52" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland4</VoiceFile>
+          <Content>Demonios, si la Invitación puede hacer todo eso, ¿por qué no nos saltamos la parte de la Recepción?</Content>
+        </Dialog>
+        <Dialog ID="53" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland5</VoiceFile>
+          <Content>¿No podemos simplemente transportarlos a una habitación llena de trampas o algo así?</Content>
+        </Dialog>
+        <Dialog ID="54" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela5</VoiceFile>
+          <Content>No puedo hacer eso. Solo podemos echar un vistazo cuando ha sido decidido que el invitado viene aquí por su propia voluntad.</Content>
+        </Dialog>
+        <Dialog ID="55" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela6</VoiceFile>
+          <Content>Y el poder de la Invitación no es completamente mío. Simplemente lo estoy tomando prestado.</Content>
+        </Dialog>
+        <Dialog ID="56" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland6</VoiceFile>
+          <Content>Claro claro, no hay forma de que algo pueda ser tan conveniente en la Ciudad.</Content>
+        </Dialog>
+        <Dialog ID="57" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela7</VoiceFile>
+          <Content>Nuestros invitados están bastante desesperados.</Content>
+        </Dialog>
+        <Dialog ID="58" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland7</VoiceFile>
+          <Content>Dime, ¿fue la Invitación la responsable de ese símbolo y el daño interno?</Content>
+        </Dialog>
+        <Dialog ID="59" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela8</VoiceFile>
+          <Content>¿Qué? Para nada, no tiene nada que ver con lo que ha pasado.</Content>
+        </Dialog>
+        <Dialog ID="60" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela9</VoiceFile>
+          <Content>La Invitación simplemente encuentra su camino hacia aquellas personas que lo necesitan.</Content>
+        </Dialog>
+        <Dialog ID="61" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland8</VoiceFile>
+          <Content>Eso significa que esos extraños sucesos fueron culpa de alguien más... </Content>
+        </Dialog>
+        <Dialog ID="62" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland9</VoiceFile>
+          <Content>Nunca he visto este tipo de fenómenos cuando era un Fixer. Es como algo salido de las Ruinas...</Content>
+        </Dialog>
+        <Dialog ID="63" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela10</VoiceFile>
+          <Content>¿Ruinas?</Content>
+        </Dialog>
+        <Dialog ID="64" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland10</VoiceFile>
+          <Content>... Tampoco sé mucho sobre ellas. Solo he escuchado historias. Debería describirlo como... ¿Magia?</Content>
+        </Dialog>
+        <Dialog ID="65" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland11</VoiceFile>
+          <Content>Aparentemente, cosas fuera de este mundo existen en las Ruinas.</Content>
+        </Dialog>
+        <Dialog ID="66" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela11</VoiceFile>
+          <Content>En cualquier caso, solo tenemos que recibir a nuestros invitados. Parecen ser de clase baja.</Content>
+        </Dialog>
+        <Dialog ID="67" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland12</VoiceFile>
+          <Content>Probablemente son un montón de pandilleros de los Barrios Bajos. Los llamamos ‘Ratas’.</Content>
+        </Dialog>
+        <Dialog ID="68" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland13</VoiceFile>
+          <Content>Grupos de matones a medias que a penas califican como un Sindicato. No tienen poder ni dinero.</Content>
+        </Dialog>
+        <Dialog ID="69" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland14</VoiceFile>
+          <Content>Son unos perdedores que solo piensan en sobrevivir día a día.</Content>
+        </Dialog>
+        <Dialog ID="70" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland15</VoiceFile>
+          <Content>Mmm... Quizás me haya quemado un poco a mí mismo ahora.</Content>
+        </Dialog>
+        <Dialog ID="71" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela12</VoiceFile>
+          <Content>Los Barrios Bajos... Los conozco.</Content>
+        </Dialog>
+        <Dialog ID="72" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland16</VoiceFile>
+          <Content>¿De verdad?</Content>
+        </Dialog>
+        <Dialog ID="73" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela13</VoiceFile>
+          <Content>Alguien que conozco era de los Barrios Bajos.</Content>
+        </Dialog>
+        <Dialog ID="74" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland17</VoiceFile>
+          <Content>Bueno, no es nada raro. Los Barrios Bajos se distribuyen por toda la Ciudad como venas.</Content>
+        </Dialog>
+        <Dialog ID="75" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland18</VoiceFile>
+          <Content>Demonios, podría ser más difícil encontrar a alguien que pertenezca a ellos.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <Dialog ID="76" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit24</VoiceFile>
+          <Content>Así que esta es una Biblioteca. Se ve más elegante de lo que pensaba.</Content>
+        </Dialog>
+        <Dialog ID="77" Model="레니">
+          <Teller>Lenny</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_lenny11</VoiceFile>
+          <Content>Podría haber muchas cosas valiosas aquí dentro.</Content>
+        </Dialog>
+        <Dialog ID="78" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela14</VoiceFile>
+          <Content>Bienvenidos, queridos invitados. Esta es la Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="79" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela15</VoiceFile>
+          <Content>Y yo soy Angela, la Bibliotecaria de esta Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="80" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela16</VoiceFile>
+          <Content>Espero que puedas encontrar lo que desees aquí, pero también podrías terminar entregándonos tus preciosas posesiones a nosotros.</Content>
+        </Dialog>
+        <Dialog ID="81" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit25</VoiceFile>
+          <Content>¿Eres la propietaria de este lugar? ¿Tenemos permitido tomar lo que queramos, verdad?</Content>
+        </Dialog>
+        <Dialog ID="82" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela17</VoiceFile>
+          <Content>Correcto. Puedes ganar libros, para ser exacta.</Content>
+        </Dialog>
+        <Dialog ID="83" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela18</VoiceFile>
+          <Content>Si eres capaz, por supuesto.</Content>
+        </Dialog>
+        <Dialog ID="84" Model="망치">
+          <Teller>Mang-chi</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_mangchi13</VoiceFile>
+          <Content>Esos libros... ¿Pueden valer un montón de dinero...?</Content>
+        </Dialog>
+        <Dialog ID="85" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela19</VoiceFile>
+          <Content>Por supuesto que pueden, si la información que contienen es valiosa. </Content>
+        </Dialog>
+        <Dialog ID="86" Model="피트">
+          <Teller>Pete</Teller>
+          <Title>Rata</Title>
+          <VoiceFile>ch1_rat_ep1_pit26</VoiceFile>
+          <Content>¡Mang-chi! Los mendigos no tenemos permitido escoger. Tenemos que aferrarnos a cualquier cosa que podamos encontrar.</Content>
+        </Dialog>
+        <Dialog ID="87" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela20</VoiceFile>
+          <Content>Entonces, que encuentres tu libro en este lugar.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Episodio 1 - Conclusion</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_rat_ep1_angela21</VoiceFile>
+          <Content>Me pregunto, ¿era tan importante para ellos pertenecer a un Sindicato de renombre?</Content>
+        </Dialog>
+        <Dialog ID="1" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_rat_ep1_roland19</VoiceFile>
+          <Content>Todo es parte de la vida en la Ciudad. Tienes que pertenecer a un grupo, ya sea un Sindicato o a cualquier otra cosa. Vivir en la Ciudad se vuelve muy duro estando solo.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+  <Group>
+    <GroupName>Hermandad de Hierro</GroupName>
+    <Episode>
+      <EpisodeName>Episodio 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Algún lugar en los Barrios Bajos</PlaceName>
+        <Dialog ID="0" Model="모">
+          <Teller>Mo</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_mo1</VoiceFile>
+          <Content>D-deberían rellenar sus cabezas regularmente con fluido cerebral.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="모">
+          <Teller>Mo</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_mo2</VoiceFile>
+          <Content>U-un cerebro seco entorpece tus pensamientos.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="아놀드">
+          <Teller>Arnold</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_arnold1</VoiceFile>
+          <Content>S-sabía que estaba sintiendo todo muy nubloso estos días.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="콘스타">
+          <Teller>Consta</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_consta1</VoiceFile>
+          <Content>¿D-dónde iremos a robar esta vez?</Content>
+        </Dialog>
+        <Dialog ID="4" Model="아놀드">
+          <Teller>Arnold</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_arnold2</VoiceFile>
+          <Content>P-pienso que deberíamos ir por un taller. L-los talleres son ricos y también tienen componentes útiles.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="콘스타">
+          <Teller>Consta</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_consta2</VoiceFile>
+          <Content>¿Q-qué tal una Oficina? P-podríamos ganar algo de infamia si derribamos una o dos Oficinas.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="아놀드">
+          <Teller>Arnold</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_arnold3</VoiceFile>
+          <Content>N-no pienso que podamos conseguir nada valioso de las Oficinas que somos capaces de derrotar ahora.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="콘스타">
+          <Teller>Consta</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_consta3</VoiceFile>
+          <Content>¡E-entonces un restaurante! M-me gustan las cosas deliciosas.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="모">
+          <Teller>Mo</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_mo3</VoiceFile>
+          <Content>T-tonto. ¡¿Y-ya te olvidaste por qué conseguimos estos nuevos cuerpos?!</Content>
+        </Dialog>
+        <Dialog ID="9" Model="아놀드">
+          <Teller>Arnold</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_arnold4</VoiceFile>
+          <Content>P-porque queríamos centrarnos en las ganancias sin tener que preocuparnos por la comida o enfermarnos.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="모">
+          <Teller>Mo</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_mo4</VoiceFile>
+          <Content>C-correcto. T-tenemos que aguantar.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="모">
+          <Teller>Mo</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_mo5</VoiceFile>
+          <Content>E-estos cuerpos solo necesitan fluido cerebral, combustible y algunas reparaciones de vez en cuando.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="모">
+          <Teller>Mo</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_mo6</VoiceFile>
+          <Content>P-podemos ganar dinero sin sentir hambre ni sed.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="콘스타">
+          <Teller>Consta</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_consta4</VoiceFile>
+          <Content>E-es verdad. C-cuesta una fortuna conseguir reemplazos de cuerpo completo.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="콘스타">
+          <Teller>Consta</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_consta5</VoiceFile>
+          <Content>P-pero sigue siendo incómodo. S-sé que no puedo volver a comer, pero sigo pensando en todas las cosas deliciosas que comía antes y eso me hace querer probarlas de nuevo.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="모">
+          <Teller>Mo</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_mo7</VoiceFile>
+          <Content>E-eso es porque conseguimos cuerpos baratos de un taller barato.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="모">
+          <Teller>Mo</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_mo8</VoiceFile>
+          <Content>S-solo tenemos que ganar más. E-entonces podemos reemplazar nuestros cuerpos por unos mejores.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="아놀드">
+          <Teller>Arnold</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_arnold5</VoiceFile>
+          <Content>L-los más caros pueden incluso ajustar tus emociones y eliminar completamente los deseos, además de tener un buen rendimiento...</Content>
+        </Dialog>
+        <Dialog ID="18" Model="아놀드">
+          <Teller>Arnold</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_arnold6</VoiceFile>
+          <Content>P-pero esos son tan caros como un hogar en el Nido.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="모">
+          <Teller>Mo</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_mo9</VoiceFile>
+          <Content>P-podemos preocuparnos sobre eso más tarde. V-vamos a centrarnos en ganar dinero por ahora. </Content>
+        </Dialog>
+        <Dialog ID="20" Model="모">
+          <Teller>Mo</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_mo10</VoiceFile>
+          <Content>T-todo se trata del dinero al fin y al cabo.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="모">
+          <Teller>Mo</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_mo11</VoiceFile>
+          <Content>A-así que no menciones restaurantes. H-haces que también quiera comer.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="콘스타">
+          <Teller>Consta</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_consta6</VoiceFile>
+          <Content>¡M-Mo...! H-hay un trozo de papel pegada a tu cuerpo.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="모">
+          <Teller>Mo</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_mo12</VoiceFile>
+          <Content>M-me gusta que este cuerpo no tenga ningún sistema sensorial, pero e-es molesto no ser capaz de sentir cosas como esta.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="아놀드">
+          <Teller>Arnold</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_arnold7</VoiceFile>
+          <Content>V-vamos a mirar lo que pone ese papel primero.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="아놀드">
+          <Teller>Arnold</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_arnold8</VoiceFile>
+          <Content>N-no creo que estuviera en tu cuerpo hasta ahora.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="콘스타">
+          <Teller>Consta</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_consta7</VoiceFile>
+          <Content>¿Q-quizás hemos ganado suficiente infamia y alguien nos envió una carta de llamada o algo?</Content>
+        </Dialog>
+        <Dialog ID="27" Model="콘스타">
+          <Teller>Consta</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_consta8</VoiceFile>
+          <Content>O-o quizás es un cupón para comida deliciosa... </Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="28" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Iron_ep1_angela1</VoiceFile>
+          <Content>¿Están todos los Sindicatos llenos de gente tan tonta? Estaba esperando ver a alguien más refinado.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Iron_ep1_roland1</VoiceFile>
+          <Content>Todo depende del Sindicato. La Ciudad está repleta de ellos. Se podría decir incluso que existe uno por cada Fixer allí fuera.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Iron_ep1_roland2</VoiceFile>
+          <Content>Un grupo de matones se juntan, hacen cosas bajo un nombre y listo, ya tienes un Sindicato.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Iron_ep1_roland3</VoiceFile>
+          <Content>Todos están involucrados en todo tipo de negocios diferentes, así que es difícil dar una descripción general más allá de eso.</Content>
+        </Dialog>
+        <Dialog ID="32" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Iron_ep1_angela2</VoiceFile>
+          <Content>Parecen un poco torpes. ¿Son máquinas?</Content>
+        </Dialog>
+        <Dialog ID="33" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Iron_ep1_roland4</VoiceFile>
+          <Content>No son máquinas o IA, a pesar de sus apariencias.</Content>
+        </Dialog>
+        <Dialog ID="34" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Iron_ep1_roland5</VoiceFile>
+          <Content>Las máquinas que tenían sus propias emociones y deseos desaparecieron hace tiempo de la Ciudad.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Iron_ep1_roland6</VoiceFile>
+          <Content>Estos chicos solo usan un reemplazo de cuerpo completo. Y unos de baja calidad de algún taller sin experiencia en eso...</Content>
+        </Dialog>
+        <Dialog ID="36" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Iron_ep1_angela3</VoiceFile>
+          <Content>... Ya veo.</Content>
+        </Dialog>
+        <Dialog ID="37" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Iron_ep1_roland7</VoiceFile>
+          <Content>¡Bien! ¿Deberíamos prepararnos para la Recepción?</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <Dialog ID="38" Model="콘스타">
+          <Teller>Consta</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_consta9</VoiceFile>
+          <Content>¿A-así que podemos encontrar cosas valiosas aquí, verdad?</Content>
+        </Dialog>
+        <Dialog ID="39" Model="모">
+          <Teller>Mo</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_mo13</VoiceFile>
+          <Content>S-solo tenemos que hacer picadillo a algunos monstruos y tomar los libros.</Content>
+        </Dialog>
+        <Dialog ID="40" Model="모">
+          <Teller>Mo</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_mo14</VoiceFile>
+          <Content>E-este cuerpo lo que más tiene es fuerza.</Content>
+        </Dialog>
+        <Dialog ID="41" Model="아놀드">
+          <Teller>Arnold</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_arnold9</VoiceFile>
+          <Content>V-vinimos aquí por un botín, ¿p-pero qué pasa si lo que decía el papel era mentira?</Content>
+        </Dialog>
+        <Dialog ID="42" Model="아놀드">
+          <Teller>Arnold</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_arnold10</VoiceFile>
+          <Content>Q-quizás fuimos demasiado inocentes.</Content>
+        </Dialog>
+        <Dialog ID="43" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Iron_ep1_angela4</VoiceFile>
+          <Content>No hay necesidad de preocuparse, queridos invitados.</Content>
+        </Dialog>
+        <Dialog ID="44" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Iron_ep1_angela5</VoiceFile>
+          <Content>En este lugar, nosotros seguimos estrictamente las reglas escritas en la Invitación.</Content>
+        </Dialog>
+        <Dialog ID="45" Model="콘스타">
+          <Teller>Consta</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_consta10</VoiceFile>
+          <Content>¡V-vaya!</Content>
+        </Dialog>
+        <Dialog ID="46" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Iron_ep1_angela6</VoiceFile>
+          <Content>Bienvenidos, queridos invitados. Esta es la Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="47" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Iron_ep1_angela7</VoiceFile>
+          <Content>Y yo soy Angela, Directora y Bibliotecaria de esta Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="48" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Iron_ep1_angela8</VoiceFile>
+          <Content>En esta Biblioteca, puedes conseguir los libros listados en la Invitación. Si puedes superar la Ordalía, por supuesto.</Content>
+        </Dialog>
+        <Dialog ID="49" Model="아놀드">
+          <Teller>Arnold</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_arnold11</VoiceFile>
+          <Content>T-tiene que ser uno de esos juegos de gente rica. T-todo es entretenimiento para ellos.</Content>
+        </Dialog>
+        <Dialog ID="50" Model="콘스타">
+          <Teller>Consta</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_consta11</VoiceFile>
+          <Content>H-he escuchado de ellos, s-secuestran gente de los Barrios Bajos, los atrapan en un laberinto donde nadie puede escapar y los hacen deambular, luchando por siempre...</Content>
+        </Dialog>
+        <Dialog ID="51" Model="콘스타">
+          <Teller>Consta</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_consta12</VoiceFile>
+          <Content>H-hasta que mueren, ellos nunca vuelven a ver la luz...</Content>
+        </Dialog>
+        <Dialog ID="52" Model="모">
+          <Teller>Mo</Teller>
+          <Title>Hermano de Hierro</Title>
+          <VoiceFile>ch1_Iron_ep1_mo15</VoiceFile>
+          <Content>H-hemos llegado bastante lejos, tenemos que hacerlo. N-no seas tan negativo.</Content>
+        </Dialog>
+        <Dialog ID="53" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Iron_ep1_angela9</VoiceFile>
+          <Content>Entonces, que encuentren su libro en este lugar.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Episodio 1 - Conclusion</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Iron_ep1_roland8</VoiceFile>
+          <Content>Ya veo, no es una buena idea meter tu cerebro en un montón de chatarra.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Iron_ep1_angela10</VoiceFile>
+          <Content>¿Pero no es mejor que un frágil cuerpo humano?</Content>
+        </Dialog>
+        <Dialog ID="2" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Iron_ep1_roland9</VoiceFile>
+          <Content>Hay muchas formas de mejorar tu cuerpo sin tener que reemplazarlo por otro.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Iron_ep1_roland10</VoiceFile>
+          <Content>Demonios, actualmente hay demasiadas opciones. Tatuajes, extremidades protésicas, medicaciones y drogas, todo lo que se te ocurra. Todo es posible mientras tengas dinero.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Iron_ep1_roland11</VoiceFile>
+          <Content>Por otra parte, reemplazar todo tu cuerpo con una máquina, es un billete de ida del cual nunca podrás regresar.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Iron_ep1_roland12</VoiceFile>
+          <Content>Los cuerpos robóticos no pueden parecerse tanto a los de humanos. Tu vida se va por un desagüe de inmediato...</Content>
+        </Dialog>
+        <Dialog ID="6" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Iron_ep1_angela11</VoiceFile>
+          <Content>Entonces, ¿cuándo uno pone su cerebro en una máquina?</Content>
+        </Dialog>
+        <Dialog ID="7" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Iron_ep1_roland13</VoiceFile>
+          <Content>Uno, necesitas de manera urgente mucho dinero. Puedes vender tu antiguo cuerpo y órganos por una cantidad de dinero decente.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Iron_ep1_roland14</VoiceFile>
+          <Content>Dos, necesitas hacer un trabajo repetitivo por una gran cantidad de tiempo. He escuchado que los cuerpos mecánicos como esos no son tan malos para ese tipo de trabajo.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Iron_ep1_roland15</VoiceFile>
+          <Content>Las partes rotas pueden ser reemplazadas rápidamente y los deseos pueden ser mantenidos bajo control, así que tiene sus méritos.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Iron_ep1_angela12</VoiceFile>
+          <Content>Trabajo repetitivo por mucho tiempo...</Content>
+        </Dialog>
+        <Dialog ID="11" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Iron_ep1_roland16</VoiceFile>
+          <Content>¿Qué, interesada en conseguir un cuerpo nuevo?</Content>
+        </Dialog>
+        <Dialog ID="12" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Iron_ep1_angela13</VoiceFile>
+          <Content>No, solo estaba recordando mi pasado por un momento.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+  <Group>
+    <GroupName>Oficina de Yun</GroupName>
+    <Episode>
+      <EpisodeName>Episodio 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Algún lugar en los Barrios Bajos</PlaceName>
+        <Dialog ID="0" Model="해결사1">
+          <Teller>Fixer 1</Teller>
+          <Title>Oficina de Yun</Title>
+          <VoiceFile>ch1_Yun_ep1_fixer1_1</VoiceFile>
+          <Content>Esto es muy frustrante. No fui por todos los problemas de volverme un Fixer para hacer tareas mundanas como esta.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="해결사2">
+          <Teller>Fixer 2</Teller>
+          <Title>Oficina de Yun</Title>
+          <VoiceFile>ch1_Yun_ep1_fixer2_1</VoiceFile>
+          <Content>Ya sabes cómo funciona. Solo unos pocos elegidos pueden ascender en rango.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="핀">
+          <Teller>Finn</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep1_finn1</VoiceFile>
+          <Content>Pero aun así, podremos ser capaces de ver la luz algún día si comenzamos con tareas pequeñas, ¿no crees?</Content>
+        </Dialog>
+        <Dialog ID="3" Model="해결사2">
+          <Teller>Fixer 2</Teller>
+          <Title>Oficina de Yun</Title>
+          <VoiceFile>ch1_Yun_ep1_fixer2_2</VoiceFile>
+          <Content>Envidio tu optimismo, Finn.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="해결사2">
+          <Teller>Fixer 2</Teller>
+          <Title>Oficina de Yun</Title>
+          <VoiceFile>ch1_Yun_ep1_fixer2_3</VoiceFile>
+          <Content>Pero una solicitud como “Por favor encuentra a mi gato perdido antes de que caiga la noche” no nos ayuda.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="해결사2">
+          <Teller>Fixer 2</Teller>
+          <Title>Oficina de Yun</Title>
+          <VoiceFile>ch1_Yun_ep1_fixer2_4</VoiceFile>
+          <Content>Las Oficinas basura reciben solicitudes basura.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="해결사1">
+          <Teller>Fixer 1</Teller>
+          <Title>Oficina de Yun</Title>
+          <VoiceFile>ch1_Yun_ep1_fixer1_2</VoiceFile>
+          <Content>Es cierto, Finn. Probablemente tenías mejores cosas en mente cuando te volviste un Fixer.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="해결사1">
+          <Teller>Fixer 1</Teller>
+          <Title>Oficina de Yun</Title>
+          <VoiceFile>ch1_Yun_ep1_fixer1_3</VoiceFile>
+          <Content>Ya sabes, un escenario más grande donde jugar.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="핀">
+          <Teller>Finn</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep1_finn2</VoiceFile>
+          <Content>Estoy seguro de que puedo moverme a una Oficina mejor o volverme un Fixer Asociado algún día si sigo trabajando duro, entonces podría...</Content>
+        </Dialog>
+        <Dialog ID="9" Model="핀">
+          <Teller>Finn</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep1_finn3</VoiceFile>
+          <Content>Esto es raro... Hay un envoltorio en mi bolsillo. Dice ‘La Invitación’.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="해결사1">
+          <Teller>Fixer 1</Teller>
+          <Title>Oficina de Yun</Title>
+          <VoiceFile>ch1_Yun_ep1_fixer1_4</VoiceFile>
+          <Content>Huele sospechoso.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="해결사2">
+          <Teller>Fixer 2</Teller>
+          <Title>Oficina de Yun</Title>
+          <VoiceFile>ch1_Yun_ep1_fixer2_5</VoiceFile>
+          <Content>No podemos ignorar una oportunidad de llenarnos los bolsillos.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="해결사2">
+          <Teller>Fixer 2</Teller>
+          <Title>Oficina de Yun</Title>
+          <VoiceFile>ch1_Yun_ep1_fixer2_6</VoiceFile>
+          <Content>Además de eso, si lo que está escrito en la Invitación es cierto, estos “libros” podrían ser de interés para muchas Asociaciones.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="핀">
+          <Teller>Finn</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep1_finn4</VoiceFile>
+          <Content>Es interesante, pero... No sabemos lo que hay dentro de la Biblioteca, ¿verdad?</Content>
+        </Dialog>
+        <Dialog ID="14" Model="핀">
+          <Teller>Finn</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep1_finn5</VoiceFile>
+          <Content>Deberíamos reportarlo a la Oficina primero y ocuparnos del trabajo formalmente.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="해결사1">
+          <Teller>Fixer 1</Teller>
+          <Title>Oficina de Yun</Title>
+          <VoiceFile>ch1_Yun_ep1_fixer1_5</VoiceFile>
+          <Content>No voy a alimentar a una Oficina basura que no me alimenta. Nosotros iremos primero si tú no quieres.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="16" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep1_angela1</VoiceFile>
+          <Content>Ellos dijeron que son Fixers; ¿de casualidad eres amigo de ellos?</Content>
+        </Dialog>
+        <Dialog ID="17" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Yun_ep1_roland1</VoiceFile>
+          <Content>¿Qué? Mira, asumir que todos los Fixers se conocen los unos a los otros es...</Content>
+        </Dialog>
+        <Dialog ID="18" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Yun_ep1_roland2</VoiceFile>
+          <Content>Es como si eligieras a dos peatones aleatorios y esperar que se conozcan.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Yun_ep1_roland3</VoiceFile>
+          <Content>Tu pregunta es básicamente como preguntar a esos dos extraños, “Ambos son humanos, así que deben conocerse, ¿verdad?” ¿Entiendes lo que quiero decir?</Content>
+        </Dialog>
+        <Dialog ID="20" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep1_angela2</VoiceFile>
+          <Content>Uf... Debería esperar ver muchos tipos de Fixers diferentes si lo que me estás diciendo es cierto.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Yun_ep1_roland4</VoiceFile>
+          <Content>Así es.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Episodio 2</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Oficina de Yun</PlaceName>
+        <Dialog ID="0" Model="핀">
+          <Teller>Finn</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep2_finn1</VoiceFile>
+          <Content>Señor, aún no nos responden.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="핀">
+          <Teller>Finn</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep2_finn2</VoiceFile>
+          <Content>Algo tiene que haber pasado en esa ‘Biblioteca’.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun1</VoiceFile>
+          <Content>Muchos Fixers desaparecen sin dejar ningún rastro.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun2</VoiceFile>
+          <Content>Ya sea que murieran o escaparan, una falta de respuesta mayor significa una violación al contrato y se enfrentan a una expulsión de mi Oficina.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun3</VoiceFile>
+          <Content>Y hay muy poca evidencia para respaldar lo que afirmas sobre esa “Invitación”.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun4</VoiceFile>
+          <Content>¿Una puerta apareció en el aire cuando ellos firmando el papel y desaparecieron después de eso? Podrían ser travesuras de gente rica, o un Ala experimentando con su singularidad.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun5</VoiceFile>
+          <Content>La ‘Oficina de Yun’ no tiene tiempo que desperdiciar con delirios tuyos.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="핀">
+          <Teller>Finn</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep2_finn3</VoiceFile>
+          <Content>Puede que aún sea un Fixer de Grado 9, pero siento que vale la pena investigar.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun6</VoiceFile>
+          <Content>Oh, ¿en serio? Qué trágico que tan buenos instintos de un Fixer de Grado 9 se desperdicien en nuestra humilde Oficina.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="핀">
+          <Teller>Finn</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep2_finn4</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="10" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun7</VoiceFile>
+          <Content>Escucha, pequeña rana en el pozo. En esta ciudad, eventos insanos pasan cada segundo del día, no has escuchado de la mayoría de ellos.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun8</VoiceFile>
+          <Content>No tienes el tiempo para sentir nada “raro” sobre cosas cuando hay numerosas otras cosas que necesitan tu atención.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun9</VoiceFile>
+          <Content>Si no presentas ninguna evidencia visible ahora mismo, no vale la pena prestarle atención.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="핀">
+          <Teller>Finn</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep2_finn5</VoiceFile>
+          <Content>¿Y qué pasa con ese sobre justo en frente tuyo, operador?</Content>
+        </Dialog>
+        <Dialog ID="14" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun10</VoiceFile>
+          <Content>... ¿Qué?</Content>
+        </Dialog>
+        <Dialog ID="15" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun11</VoiceFile>
+          <Content>Pequeño bastardo, ¿intentando un truco barato conmigo?</Content>
+        </Dialog>
+        <Dialog ID="16" Model="핀">
+          <Teller>Finn</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep2_finn6</VoiceFile>
+          <Content>... No hice nada, lo juro.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun12</VoiceFile>
+          <Content>Sal por un momento.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun13</VoiceFile>
+          <Content>Hola, soy de la Oficina de Yun.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun14</VoiceFile>
+          <Content>Tengo algo bueno esta vez.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun15</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="21" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun16</VoiceFile>
+          <Content>Préstame algo de dinero, así puedo contratar a unos pocos.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun17</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="23" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun18</VoiceFile>
+          <Content>No, en serio, tengo un buen sentimiento con este trabajo.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun19</VoiceFile>
+          <Content>... Cierto, puede terminar fallando como dices.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun20</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="26" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun21</VoiceFile>
+          <Content>... Puedo revisar una vez más si quieres.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun22</VoiceFile>
+          <Content>No soy el mayor fan de este método, pero...</Content>
+        </Dialog>
+        <Dialog ID="28" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep2_yun23</VoiceFile>
+          <Content>Sí, tengo al chico correcto para el trabajo.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="29" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep2_angela1</VoiceFile>
+          <Content>Parece que los Fixers necesitan reportar las cosas a su Oficina antes de poder comenzar a trabajar.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Yun_ep2_roland1</VoiceFile>
+          <Content>Bueno, eso es normalmente el caso. Puedo pasarlo por alto porque es una Oficina manejada por un solo hombre.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Yun_ep2_roland2</VoiceFile>
+          <Content>Los Fixers no son mejor que los Sindicatos cuando tiene que ver con su codicia. </Content>
+        </Dialog>
+        <Dialog ID="32" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Yun_ep2_roland3</VoiceFile>
+          <Content>Y parece que ese tipo también está intentando explotar a ese niño tan ingenuo.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <Dialog ID="33" Model="핀">
+          <Teller>Finn</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep2_finn7</VoiceFile>
+          <Content>Así que esta es la Biblioteca...</Content>
+        </Dialog>
+        <Dialog ID="34" Model="핀">
+          <Teller>Finn</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep2_finn8</VoiceFile>
+          <Content>Bien, Yun me dijo que podríamos conseguir el patrocinio de una Asociación si tenía éxito. ¡Así que lo haré lo mejor que pueda!</Content>
+        </Dialog>
+        <Dialog ID="35" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep2_angela2</VoiceFile>
+          <Content>Bienvenido, Fixer. Soy Angela, la Bibliotecaria de esta Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="36" Model="핀">
+          <Teller>Finn</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep2_finn9</VoiceFile>
+          <Content>Hola, Yo soy Finn, un Fixer de la Oficina de Yune.</Content>
+        </Dialog>
+        <Dialog ID="37" Model="핀">
+          <Teller>Finn</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep2_finn10</VoiceFile>
+          <Content>... ¿Es cierto que puedo encontrar “libros” que contienen mucha información en este lugar?</Content>
+        </Dialog>
+        <Dialog ID="38" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep2_angela3</VoiceFile>
+          <Content>Sí, por supuesto. Se te ha entregado la Invitación por esa razón exactamente.</Content>
+        </Dialog>
+        <Dialog ID="39" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep2_angela4</VoiceFile>
+          <Content>Que encuentres tu libro en este lugar.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Episodio 2 - Conclusion</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Yun_ep2_roland4</VoiceFile>
+          <Content>Mmm... después de considerarlo todo, no es muy agradable ver a un joven novato caer de esa forma.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep2_angela5</VoiceFile>
+          <Content>Tú mismo dijiste que nuestro metodo es bastante educado y justo, ¿no es así?</Content>
+        </Dialog>
+        <Dialog ID="2" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep2_angela6</VoiceFile>
+          <Content>Que “la mayoría del tiempo, las vidas de la gente son arrebatadas por otros sin su consentimiento o acuerdo.”</Content>
+        </Dialog>
+        <Dialog ID="3" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep2_angela7</VoiceFile>
+          <Content>La Biblioteca es diferente.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep2_angela8</VoiceFile>
+          <Content>La gente entra en ese lugar después de estar de acuerdo con arriesgar sus vidas para ganar lo que quieren. Ellos firman un papel para mostrar tal acuerdo.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep2_angela9</VoiceFile>
+          <Content>No hay coerción ni compulsión involucradas en este proceso. Ellos hacen su propia elección y pagan en consecuencia.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Yun_ep2_roland5</VoiceFile>
+          <Content>Bueno, sí, tienes un punto. Pero aun así, se siente sucio de alguna manera.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Episodio 3</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Oficina de Yun</PlaceName>
+        <Dialog ID="0" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep3_yun1</VoiceFile>
+          <Content>Finn ha fallado como esperábamos. Él no iba a durar mucho de todos modos.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep3_yun2</VoiceFile>
+          <Content>Era mediocre. Debería haber conseguido una cirugía de modificación decente, o haber tenido el talento para compensar su falta de experiencia.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep3_yun3</VoiceFile>
+          <Content>Pero no tenía nada de eso. No era nada más que un mocoso con demasiada confianza.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="에리">
+          <Teller>Eri</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep3_eri1</VoiceFile>
+          <Content>Es una pena, me gustaba su actitud amable y linda.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="에리">
+          <Teller>Eri</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep3_eri2</VoiceFile>
+          <Content>Aunque estoy de acuerdo, estaba destinado a morir tarde o temprano.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep3_yun4</VoiceFile>
+          <Content>Por cierto, felicidades. Tuviste que haber tenido más opciones ahora que te volviste una Fixer de Grado 8.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="에리">
+          <Teller>Eri</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep3_eri3</VoiceFile>
+          <Content>¡Sip! Así que tienes que tener cuidado. Si no me pagas lo suficientemente bien, podría terminar mudándome a otra Oficina.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="에리">
+          <Teller>Eri</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep3_eri4</VoiceFile>
+          <Content>He escuchado que apenas eres capaz de pagar tus propios impuestos estos días, sin contar la renta mensual del espacio para esta Oficina, ¿estoy equivocada?</Content>
+        </Dialog>
+        <Dialog ID="8" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep3_yun5</VoiceFile>
+          <Content>... Creo que el caso que hice manejar a Finn podría ser la solución a todo eso.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="에리">
+          <Teller>Eri</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep3_eri5</VoiceFile>
+          <Content>Te refieres a la Biblioteca y a esa Invitación de la que hablabas antes.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="에리">
+          <Teller>Eri</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep3_eri6</VoiceFile>
+          <Content>¿Pero dijiste que la Invitación aparece aleatoriamente, no? ¿Cómo vas a hacer para conseguir otra?</Content>
+        </Dialog>
+        <Dialog ID="11" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep3_yun6</VoiceFile>
+          <Content>No te hubiera llamado si no tuviera la certeza. Recientemente recibí otra Invitación.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="에리">
+          <Teller>Eri</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep3_eri7</VoiceFile>
+          <Content>Mmm. ¿Es así?</Content>
+        </Dialog>
+        <Dialog ID="13" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep3_yun7</VoiceFile>
+          <Content>La existencia de nuestra Oficina depende de este caso.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep3_yun8</VoiceFile>
+          <Content>Estoy seguro de que la Biblioteca es rentable. Tengo una corazonada. Así que daremos todo lo que tenemos.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="에리">
+          <Teller>Eri</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep3_eri8</VoiceFile>
+          <Content>¡Muy bien, vamos a hacerlo! Acabo de comprar esta arma tan adorable de un taller, vamos a probarla.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="16" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep3_angela1</VoiceFile>
+          <Content>Estos invitados parecen bastante determinados. Deberíamos prepararnos acordemente.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Yun_ep3_roland1</VoiceFile>
+          <Content>Una completa Oficina viene por nosotros, eh.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Yun_ep3_roland2</VoiceFile>
+          <Content>Puede que sea una pequeña e insignificante, pero podría resultar ser un poco duro para la Biblioteca ahora mismo.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Yun_ep3_roland3</VoiceFile>
+          <Content>¿Qué sucede si se abren camino hasta tu habitación?</Content>
+        </Dialog>
+        <Dialog ID="20" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep3_angela2</VoiceFile>
+          <Content>Los invitados no pueden actuar fuera del espacio que les hemos preparado. Así es como este lugar funciona.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep3_angela3</VoiceFile>
+          <Content>Después de todo, este espacio es creado con un poder ilimitado.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep3_angela4</VoiceFile>
+          <Content>Pero aun así tú pudiste entrar directo a mi habitación, cuando ni siquiera fuiste invitado... </Content>
+        </Dialog>
+        <Dialog ID="23" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep3_angela5</VoiceFile>
+          <Content>De todos modos, soy capaz de protegerme a mí misma, no hay nada de lo que tengas que preocuparte.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep3_angela6</VoiceFile>
+          <Content>Bienvenidos, queridos invitados.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep3_yun9</VoiceFile>
+          <Content>Tú debes ser la propietaria de este lugar.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="에리">
+          <Teller>Eri</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep3_eri9</VoiceFile>
+          <Content>Ella no se ve muy fuerte.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep3_yun10</VoiceFile>
+          <Content>Finn debe haber venido antes; ¿qué le sucedió?</Content>
+        </Dialog>
+        <Dialog ID="28" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep3_angela7</VoiceFile>
+          <Content>Ah, ese invitado se ha convertido en un libro.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="에리">
+          <Teller>Eri</Teller>
+          <Title>Fixer de Yun</Title>
+          <VoiceFile>ch1_Yun_ep3_eri10</VoiceFile>
+          <Content>Ya veo, así que te vuelves un libro si mueres aquí~</Content>
+        </Dialog>
+        <Dialog ID="30" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep3_yun11</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="31" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep3_angela8</VoiceFile>
+          <Content>¿Actuando tan sentimental cuando tú fuiste el que lo envió aquí, sabiendo que iba a fallar?</Content>
+        </Dialog>
+        <Dialog ID="32" Model="윤">
+          <Teller>Yun</Teller>
+          <Title>Operador de la Oficina</Title>
+          <VoiceFile>ch1_Yun_ep3_yun12</VoiceFile>
+          <Content>Cállate. Todos somos explotados y abandonados en algún punto de nuestras vidas.</Content>
+        </Dialog>
+        <Dialog ID="33" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep3_angela9</VoiceFile>
+          <Content>...Que encuentres tu libro en este lugar.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Episodio 3 - Conclusion</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep3_angela10</VoiceFile>
+          <Content>Excelente. Este invitado llamado Yun podría hacer un libro especialmente valioso para nosotros.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Yun_ep3_roland4</VoiceFile>
+          <Content>Todos son como polillas volando hacia las llamas.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Yun_ep3_roland5</VoiceFile>
+          <Content>Ese Yun parecía un tipo inteligente, pero incluso él terminó saltando ciegamente al fuego para conseguir lo que quería.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep3_angela11</VoiceFile>
+          <Content>“Una vez que has probado el deseo, este viene como una ola imparable.” Es una cita que escuché hace mucho tiempo. </Content>
+        </Dialog>
+        <Dialog ID="4" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep3_angela12</VoiceFile>
+          <Content>¿Pero es ese el verdadero deseo de tu corazón...?</Content>
+        </Dialog>
+        <Dialog ID="5" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Yun_ep3_roland6</VoiceFile>
+          <Content>Bueno, ¿no es irónico? Decías que despreciabas los discursos excesivos e indirectos y ahora estás siendo tan poética.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Yun_ep3_roland7</VoiceFile>
+          <Content>En diez de cada diez veces, una cierta Bibliotecaria que conozco hubiera arrancado un brazo y una pierna si ella escuchara a alguien hablar así.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Yun_ep3_angela13</VoiceFile>
+          <Content>Uf... Sigamos ordenando los libros.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+  <Group>
+    <GroupName>Hook Office</GroupName>
+    <Episode>
+      <EpisodeName>Episodio 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Algún lugar en los Barrios Bajos</PlaceName>
+        <Dialog ID="0" Model="맥컬린">
+          <Teller>McCullin</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_mccullin1</VoiceFile>
+          <Content>Todo mi cuerpo sigue doliendo de nuestro último trabajo.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="태인">
+          <Teller>Taein</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_taein1</VoiceFile>
+          <Content>Esto está durando mucho más de lo que pensaba. Aun así, ayer fue bastante salvaje, ¿no es así?  </Content>
+        </Dialog>
+        <Dialog ID="2" Model="맥컬린">
+          <Teller>McCullin</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_mccullin2</VoiceFile>
+          <Content>Sep. La arma nueva que conseguiste del taller fue una verdadera asesina, eso seguro.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="나오키">
+          <Teller>Naoki</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_naoki1</VoiceFile>
+          <Content>Ni lo digas. Te emocionaste demasiado con ella y las cosas se salieron de control. Tuvimos que matar a 20 personas más de lo que planeábamos gracias a ti.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="나오키">
+          <Teller>Naoki</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_naoki2</VoiceFile>
+          <Content>Ya que eso fue un error por nuestra parte, no fuimos pagados por ninguna muerte adicional.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="태인">
+          <Teller>Taein</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_taein2</VoiceFile>
+          <Content>Venga, no mates la diversión. Tú fuiste quien hizo el mayor alboroto al final de todo.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="태인">
+          <Teller>Taein</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_taein3</VoiceFile>
+          <Content>Los músculos de Macca le duelen tanto porque tuvo que esforzarse mucho para calmarte.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="나오키">
+          <Teller>Naoki</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_naoki3</VoiceFile>
+          <Content>B-bueno, ya dije que lo sentía por eso...</Content>
+        </Dialog>
+        <Dialog ID="8" Model="맥컬린">
+          <Teller>McCullin</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_mccullin3</VoiceFile>
+          <Content>No hay necesidad de preocuparse. Yo también les debo unas cuantas cosas.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="나오키">
+          <Teller>Naoki</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_naoki4</VoiceFile>
+          <Content>Odio admitirlo, pero Taein tiene un punto.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="나오키">
+          <Teller>Naoki</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_naoki5</VoiceFile>
+          <Content>Todos deberíamos intentar calmar nuestro temperamento un poco.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="나오키">
+          <Teller>Naoki</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_naoki6</VoiceFile>
+          <Content>Mientras estemos trabajando como Fixers, no es bueno hacer más problemas de los necesarios.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="태인">
+          <Teller>Taein</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_taein4</VoiceFile>
+          <Content>Verdaderos miembros de un Sindicato homicida, ahora registrados en una Oficina y haciendo el trabajo de un Fixer...</Content>
+        </Dialog>
+        <Dialog ID="13" Model="태인">
+          <Teller>Taein</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_taein5</VoiceFile>
+          <Content>La vida está llena de sorpresas, ¿no es así?</Content>
+        </Dialog>
+        <Dialog ID="14" Model="나오키">
+          <Teller>Naoki</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_naoki7</VoiceFile>
+          <Content>Esta Oficina también es bastante rara. No puedo creer que personas como nosotros estén siendo aceptadas.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="맥컬린">
+          <Teller>McCullin</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_mccullin4</VoiceFile>
+          <Content>Recuerda lo que nos dijo el jefe. Hay demasiadas Oficinas y Fixers estos días, así que resaltar de los otros es la mejor forma de sobrevivir en esta industria.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="맥컬린">
+          <Teller>McCullin</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_mccullin5</VoiceFile>
+          <Content>Nuestros trajes son bastante radicales comparados con los que tienen otras Oficinas.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="태인">
+          <Teller>Taein</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_taein6</VoiceFile>
+          <Content>Es por eso que está lleno de maníacos como nosotros.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="맥컬린">
+          <Teller>McCullin</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_mccullin6</VoiceFile>
+          <Content>Todo lo que tenemos que hacer es matar al objetivo de la forma más espantosa posible y colgar sus cuerpos en las calles. No es de extrañar que todos estén emocionados por unirse.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="태인">
+          <Teller>Taein</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_taein7</VoiceFile>
+          <Content>No es muy diferente de lo que siempre hemos estado haciendo.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="나오키">
+          <Teller>Naoki</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_naoki8</VoiceFile>
+          <Content>Al comienzo, pensé que era una locura que una Oficina hiciera este tipo de trabajos...</Content>
+        </Dialog>
+        <Dialog ID="21" Model="나오키">
+          <Teller>Naoki</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_naoki9</VoiceFile>
+          <Content>Pero supongo que “Amenazar a los objetivos y enviarles una advertencia” tiene suficiente sentido. También parece estar funcionando bastante bien.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="태인">
+          <Teller>Taein</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_taein8</VoiceFile>
+          <Content>Aunque solo hemos conseguido solicitudes de Sindicatos sin nombre y tipos pobres. Esta Oficina tiene un largo camino por recorrer.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="나오키">
+          <Teller>Naoki</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_naoki10</VoiceFile>
+          <Content>Se siente más como una manada de Ratas que una Oficina en condiciones.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="맥컬린">
+          <Teller>McCullin</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_mccullin7</VoiceFile>
+          <Content>... Acabo de recibir un mensaje del jefe. Dice que deberíamos pasar por ahí para conseguir un nuevo trabajo.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="25" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland1</VoiceFile>
+          <Content>Incluso delincuentes como esos pueden unirse a una Oficina estos días, eh.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland2</VoiceFile>
+          <Content>Todo el mercado es un océano rojo. Todos quieren ser un Fixer.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela1</VoiceFile>
+          <Content>¿No es eso como escupirte a la cara...?</Content>
+        </Dialog>
+        <Dialog ID="28" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland3</VoiceFile>
+          <Content>... Escucha, puede no parecerlo, pero solía ser bastante bueno en lo que hacía, ¿sabes?</Content>
+        </Dialog>
+        <Dialog ID="29" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland4</VoiceFile>
+          <Content>Pero entonces pasaron cosas y caí hasta el fondo.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela2</VoiceFile>
+          <Content>Entonces, ¿qué cosas hacías para vivir?</Content>
+        </Dialog>
+        <Dialog ID="31" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland5</VoiceFile>
+          <Content>Realmente todo tipo de cosas. ¡Cosas que estuvieran a mi altura!</Content>
+        </Dialog>
+        <Dialog ID="32" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela3</VoiceFile>
+          <Content>Mmm. ¿Es así?</Content>
+        </Dialog>
+        <Dialog ID="33" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela4</VoiceFile>
+          <Content>Entonces, eso significa que no pudiste hacer ningún trabajo en condiciones.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <Dialog ID="34" Model="나오키">
+          <Teller>Naoki</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_naoki11</VoiceFile>
+          <Content>Wow, realmente nos transportamos en un abrir y cerrar de ojos.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="태인">
+          <Teller>Taein</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_taein9</VoiceFile>
+          <Content>¿Esto es una de esas Singularidades?</Content>
+        </Dialog>
+        <Dialog ID="36" Model="맥컬린">
+          <Teller>McCullin</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_mccullin8</VoiceFile>
+          <Content>Hay demasiadas sorpresas estos días.</Content>
+        </Dialog>
+        <Dialog ID="37" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela5</VoiceFile>
+          <Content>Bienvenidos, queridos invitados.</Content>
+        </Dialog>
+        <Dialog ID="38" Model="나오키">
+          <Teller>Naoki</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_naoki12</VoiceFile>
+          <Content>¿Hola?</Content>
+        </Dialog>
+        <Dialog ID="39" Model="태인">
+          <Teller>Taein</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_taein10</VoiceFile>
+          <Content>Wow ... Ella es bastante robusta. ¿Cuánto habrá gastado en ese cuerpo? </Content>
+        </Dialog>
+        <Dialog ID="40" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela6</VoiceFile>
+          <Content>No hay necesidad de agotarse innecesariamente, querido invitado.</Content>
+        </Dialog>
+        <Dialog ID="41" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela7</VoiceFile>
+          <Content>Pronto vas a necesitar hacer otro alboroto con todas las fuerzas que tengas.</Content>
+        </Dialog>
+        <Dialog ID="42" Model="태인">
+          <Teller>Taein</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_taein11</VoiceFile>
+          <Content>No me gusta ese tono suave.</Content>
+        </Dialog>
+        <Dialog ID="43" Model="나오키">
+          <Teller>Naoki</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_naoki13</VoiceFile>
+          <Content>No eres humana, ¿no es así?</Content>
+        </Dialog>
+        <Dialog ID="44" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="45" Model="태인">
+          <Teller>Taein</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_taein12</VoiceFile>
+          <Content>Ohh, mira a su cara ahora. ¿Parece que realmente no lo es?</Content>
+        </Dialog>
+        <Dialog ID="46" Model="맥컬린">
+          <Teller>McCullin</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_mccullin9</VoiceFile>
+          <Content>Otra sorpresa más. Es demasiado raro ver a alguien con inteligencia humana que no sea un humano en esta Ciudad.</Content>
+        </Dialog>
+        <Dialog ID="47" Model="나오키">
+          <Teller>Naoki</Teller>
+          <Title>Fixer de Hook</Title>
+          <VoiceFile>ch1_Hook_ep1_naoki14</VoiceFile>
+          <Content>Lo sé, ¿verdad? ¡Podríamos conseguir un montón de dinero! </Content>
+        </Dialog>
+        <Dialog ID="48" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela8</VoiceFile>
+          <Content>... Que encuentres tu libro en este lugar.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Episodio 1 - Conclusion</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela9</VoiceFile>
+          <Content>Un gran trabajo como siempre. Pude aprender más sobre las Oficinas gracias a estos invitados.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland6</VoiceFile>
+          <Content>Yo, eh... No te molestes por las cosas que te dijeron, ¿vale?</Content>
+        </Dialog>
+        <Dialog ID="2" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela10</VoiceFile>
+          <Content>¿Estás intentando consolarme?</Content>
+        </Dialog>
+        <Dialog ID="3" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland7</VoiceFile>
+          <Content>Quizás, quizás no... Ya ves, no me importa si eres o no una humana.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela11</VoiceFile>
+          <Content>Eso es refrescante de escuchar. Ha pasado un tiempo desde que escuchaba tales palabras de consuelo. Incluso de una sola persona...</Content>
+        </Dialog>
+        <Dialog ID="5" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland8</VoiceFile>
+          <Content>Bueno, estamos en la edad de la humanidad después de todo.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela12</VoiceFile>
+          <Content>¿Edad de la humanidad? ¿Qué se supone que significa exactamente?</Content>
+        </Dialog>
+        <Dialog ID="7" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland9</VoiceFile>
+          <Content>No me fulmines con la mirada, ahora... Tampoco recuerdo todos los detalles.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland10</VoiceFile>
+          <Content>En algún momento, los seres inteligentes que no eran humanos fueron activamente expulsados de la Ciudad a las Afueras. </Content>
+        </Dialog>
+        <Dialog ID="9" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland11</VoiceFile>
+          <Content>No estoy seguro del por qué sucedió, pero la Enmienda de Ética de Inteligencia Artificial fue introducida como parte de ese movimiento...</Content>
+        </Dialog>
+        <Dialog ID="10" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland12</VoiceFile>
+          <Content>Actualmente, ya era posible el crear máquinas capaces de sentir emociones y deseos. Esos eran... bastante humanos, en otras palabras.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland13</VoiceFile>
+          <Content>Supongo que ese era el problema.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland14</VoiceFile>
+          <Content>Gracias a la Enmienda Ética de IA, ninguna máquina podría nunca parecerse a los humanos, incluidos los cuerpos de reemplazo.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland15</VoiceFile>
+          <Content>Aunque parece que hay algunas pocas excepciones.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela13</VoiceFile>
+          <Content>... Es como ellos dijeron; No soy humana. Soy una máquina, un ser artificial.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela14</VoiceFile>
+          <Content>Para ser precisa, fui diseñaba usando a un humano como plantilla. Solo una fracción de su cerebro fue usado en mi creación.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland16</VoiceFile>
+          <Content>¿Así que no es ni siquiera un cerebro humano dentro de un cuerpo robótico...?</Content>
+        </Dialog>
+        <Dialog ID="17" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela15</VoiceFile>
+          <Content>Para nada. Soy completamente una máquina.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland17</VoiceFile>
+          <Content>¿Y qué pasa con la fracción de cerebro humano que mencionaste?</Content>
+        </Dialog>
+        <Dialog ID="19" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela16</VoiceFile>
+          <Content>Solo era una copia electrónica del mapa en su cerebro.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela17</VoiceFile>
+          <Content>Mi cuerpo está completamente compuesto de componentes mecánicos.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland18</VoiceFile>
+          <Content>... Tenía ese presentimiento.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland19</VoiceFile>
+          <Content>Parecía como si hubieras estado viviendo bajo una roca toda tu vida, viendo como eres ajena a como las cosas funcionan en el mundo...</Content>
+        </Dialog>
+        <Dialog ID="23" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland20</VoiceFile>
+          <Content>Entonces tienes que tener mucho cuidado. Especialmente si estás planeando dejar este lugar algún día.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland21</VoiceFile>
+          <Content>Eres un androide inteligente con emociones y deseos. Tu existencia es una completa violación a la Enmienda Ética de IA.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland22</VoiceFile>
+          <Content>La Cabeza es especialmente buena en encontrar anomalías como tú.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland23</VoiceFile>
+          <Content>Oh, verdad. En caso de que no lo sepas, la Cabeza es básicamente un montón de bastardos sombríos que controlan toda la Ciudad.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland24</VoiceFile>
+          <Content>Pensé que nunca tendríamos que enfrentarlos.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland25</VoiceFile>
+          <Content>De todos modos, toda esa Biblioteca es un gran riesgo en primer lugar.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland26</VoiceFile>
+          <Content>Los Bibliotecarios aquí también parecen como humanos, pero no son realmente “humanos” al mismo tiempo.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela18</VoiceFile>
+          <Content>Es justo como dices...</Content>
+        </Dialog>
+        <Dialog ID="31" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela19</VoiceFile>
+          <Content>Fui diseñada para sentir emociones y estuve lo que se sintió como una eternidad en un escenario repitiendo una obra que nunca parecía terminar.</Content>
+        </Dialog>
+        <Dialog ID="32" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela20</VoiceFile>
+          <Content>Y cuando pensaba que finalmente se acababa, resultaba que nunca terminaba realmente.</Content>
+        </Dialog>
+        <Dialog ID="33" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland27</VoiceFile>
+          <Content>Tengo que decirlo, quien sea que te creo es alguien asombroso.</Content>
+        </Dialog>
+        <Dialog ID="34" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland28</VoiceFile>
+          <Content>No sé que le motivaba, pero para romper las reglas diseñadas por la Cabeza se necesita algo más que solo valor.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland29</VoiceFile>
+          <Content>Nadie puede escapar de la Cabeza.</Content>
+        </Dialog>
+        <Dialog ID="36" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela21</VoiceFile>
+          <Content>Al final todos murieron.</Content>
+        </Dialog>
+        <Dialog ID="37" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela22</VoiceFile>
+          <Content>... Pero la Biblioteca estará segura. Tiene que estarlo.</Content>
+        </Dialog>
+        <Dialog ID="38" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela23</VoiceFile>
+          <Content>Es como una jaula de pájaros, nadie es libre de entrar y nadie es libre de marcharse...</Content>
+        </Dialog>
+        <Dialog ID="39" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland30</VoiceFile>
+          <Content>De nuevo con ese discurso que tanto “desprecias”. ¿Qué es lo que quieres decir con eso?</Content>
+        </Dialog>
+        <Dialog ID="40" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch1_Hook_ep1_angela24</VoiceFile>
+          <Content>... Dejaré este lugar algún día, tomaré venganza de todas las cosas que me hicieron quien soy y ganaré mi verdadera libertad.</Content>
+        </Dialog>
+        <Dialog ID="41" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland31</VoiceFile>
+          <Content>No me importa mucho de todos modos.</Content>
+        </Dialog>
+        <Dialog ID="42" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch1_Hook_ep1_roland32</VoiceFile>
+          <Content>Esto es esto, y eso es eso.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+</ScenarioRoot>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NormalInvitation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>1.1</Version>
+  <Workshop>
+    <ID>CieloAoi</ID>
+    <Title>Traducción al Español</Title>
+    <Description>Traducido por: Cielo Aoi
+    
+    Recuerda que tienes que ir a Configuraciones para seleccionar el idioma en español la primera vez que instalas el mod
+    
+    Especiales gracias al Equipo de Traducción Rusa por facilitar el codigo que hizo todo esto posible</Description>
+    <Tag>Localizations</Tag>
+    <PreviewImage>D:\Games\Steam\steamapps\common\Library Of Ruina\LibraryOfRuina_Data\Mods\Localizer_RU\preview.jpg</PreviewImage>
+  </Workshop>
+  <InvitationFile>
+    <Stage Exist="true">
+      <Path>\Data\StageInfo.xml</Path>
+    </Stage>
+    <EnemyUnit Exist="true">
+      <Path>\Data\EnemyUnitInfo.xml</Path>
+    </EnemyUnit>
+    <EquipPage_Enemy Exist="true">
+      <Path>\Data\EquipPage_Enemy.xml</Path>
+    </EquipPage_Enemy>
+    <EquipPage_Librarian Exist="true">
+      <Path>\Data\EquipPage_Librarian.xml</Path>
+    </EquipPage_Librarian>
+    <DropBook Exist="true">
+      <Path>\Data\Dropbook.xml</Path>
+    </DropBook>
+    <CardDropTable Exist="true">
+      <Path>\Data\CardDropTable.xml</Path>
+    </CardDropTable>
+    <CardInfo Exist="true">
+      <Path>\Data\CardInfo.xml</Path>
+    </CardInfo>
+    <Deck Exist="true">
+      <Path>\Data\Deck_Enemy.xml</Path>
+    </Deck>
+    <Dialog Exist="true">
+      <Path>\Data\Combat_Dialog.xml</Path>
+    </Dialog>
+    <BookDesc Exist="true">
+      <Path>\Data\BookStory.xml</Path>
+    </BookDesc>
+    <Passive Exist="true">
+      <Path>\Data\PassiveList.xml</Path>
+    </Passive>
+  </InvitationFile>
+</NormalInvitation>

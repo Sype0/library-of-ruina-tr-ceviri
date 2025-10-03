@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Chapter ID="999">
+    <Title>Abnormality Battle</Title>
+  </Chapter>
+  <Group>
+    <GroupName>The Library</GroupName>
+    <Episode>
+      <EpisodeName>Episodio 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch0_prol_ep0_Angela1</VoiceFile>
+          <Content>Parece que estás haciendo tu trabajo dócil y correctamente para alguien que se quejaba tanto.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland1</VoiceFile>
+          <Content>... ¿Qué más esperabas que hiciera después de darme la bienvenida de forma tan violenta?</Content>
+        </Dialog>
+        <Dialog ID="2" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland2</VoiceFile>
+          <Content>Heck, Me sorprendió mucho. Me encuentro a mí mismo en medio de la nada y la primera persona que veo me corta mis extremidades...</Content>
+        </Dialog>
+        <Dialog ID="3" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland3</VoiceFile>
+          <Content>Estaba muy perdido al principio, pero entiendo la esencia de recibir invitados ahora que lo he intentado algunas veces.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland4</VoiceFile>
+          <Content>Aunque aún tengo una queja...</Content>
+        </Dialog>
+        <Dialog ID="5" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch0_prol_ep0_Angela2</VoiceFile>
+          <Content>¿Queja?</Content>
+        </Dialog>
+        <Dialog ID="6" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland5</VoiceFile>
+          <Content>Sheesh hombre, de nuevo con esa mirada. No se puede decir nada...</Content>
+        </Dialog>
+        <Dialog ID="7" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch0_prol_ep0_Angela3</VoiceFile>
+          <Content>... Solo dime lo que querías decir.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland6</VoiceFile>
+          <Content>Quiero decir, bueno... Es bastante duro recibir a todos los invitados solo.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland7</VoiceFile>
+          <Content>Puedo tratar con los invitados cuando llegan uno por uno, pero cuando todo un grupo entra, la primera cosa que viene a mi mente es: “Cómo demonios se supone que pelearé con todos ellos”</Content>
+        </Dialog>
+        <Dialog ID="10" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland8</VoiceFile>
+          <Content>Va a haber un punto donde una persona no va a ser suficiente, ¿verdad? Solo está funcionando ahora porque solo estamos enfrentando a Sindicatos menores y esas cosas.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland9</VoiceFile>
+          <Content>Y todo el tema sobre incrementar sus emociones... Dijiste que no puedo solo matarlos de inmediato por culpa de eso.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch0_prol_ep0_Angela4</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="13" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland10</VoiceFile>
+          <Content>... ¿Qué es lo que pasa?</Content>
+        </Dialog>
+        <Dialog ID="14" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch0_prol_ep0_Angela5</VoiceFile>
+          <Content>Hay una manera, técnicamente hablando. Aunque no estoy segura de si es lo mejor...</Content>
+        </Dialog>
+        <Dialog ID="15" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland11</VoiceFile>
+          <Content>¿Vas a unirte a pelear conmigo?</Content>
+        </Dialog>
+        <Dialog ID="16" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch0_prol_ep0_Angela6</VoiceFile>
+          <Content>No. Sin embargo, hay entidades que podrían ser de ayuda..</Content>
+        </Dialog>
+        <Dialog ID="17" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland12</VoiceFile>
+          <Content>¿Y esas “entidades” son?</Content>
+        </Dialog>
+        <Dialog ID="18" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch0_prol_ep0_Angela7</VoiceFile>
+          <Content>Los seres que solían ejercer tremenda fuerza y poder, pero que ahora son demasiado transitorios para mantener una forma física, apenas aferrándose a la existencia...</Content>
+        </Dialog>
+        <Dialog ID="19" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland13</VoiceFile>
+          <Content>No recuerdo ver ningún otro ser vivo en esta Biblioteca aparte de tú y yo.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch0_prol_ep0_Angela8</VoiceFile>
+          <Content>Ellos están durmiendo dentro de los libros donde un ambiente perfecto para ellos es simulado, junto a los bibliotecarios que te ayudarán.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland14</VoiceFile>
+          <Content>¿Bibliotecarios? ¿Entidades dentro de los libros?</Content>
+        </Dialog>
+        <Dialog ID="22" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch0_prol_ep0_Angela9</VoiceFile>
+          <Content>Eso es todo lo que necesitas saber sobre ellos por ahora. Lo que importa es que pueden ser de ayuda para el desarrollo de la Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland15</VoiceFile>
+          <Content>Okay, vamos a decir que ese es el caso... ¿Cómo se supone que esas entidades durmientes nos ayudarán exactamente?</Content>
+        </Dialog>
+        <Dialog ID="24" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch0_prol_ep0_Angela10</VoiceFile>
+          <Content>Tienes que entrar en sus libros y liberar a los Bibliotecarios atrapados en ellos. Por varias razones creo que están bajo la influencia del poder de las Anormalidades.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch0_prol_ep0_Angela11</VoiceFile>
+          <Content>Ya que son altamente inestables, no confiarán fácilmente en nosotros.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland16</VoiceFile>
+          <Content>Básicamente, estás diciendo que nos recibirán como invasores...</Content>
+        </Dialog>
+        <Dialog ID="27" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch0_prol_ep0_Angela12</VoiceFile>
+          <Content>Correcto. Si puedes superar todas las Ordalías que nos presenten, ellos te aceptarán.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland17</VoiceFile>
+          <Content>Ma’am, las instrucciones siguen sin ser claras... Estás diciendo que son tan poderosos como el papel mojado ahora mismo. ¿Estás segura de que serán de ayuda?</Content>
+        </Dialog>
+        <Dialog ID="29" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch0_prol_ep0_Angela13</VoiceFile>
+          <Content>No vamos a hacer que las Anormalidades reciban a los invitados por nosotros.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch0_prol_ep0_Angela14</VoiceFile>
+          <Content>Si pueden ser entendidos y aceptados, ellos potenciarán a los bibliotecarios, directa o indirectamente.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland18</VoiceFile>
+          <Content>Aún es muy ambiguo, tengo que decirlo...</Content>
+        </Dialog>
+        <Dialog ID="32" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland19</VoiceFile>
+          <Content>Básicamente, lo que dices es que nos presentarán Ordalías. Y tenemos que superarlas para ganar su reconocimiento y tomar prestados sus poderes.</Content>
+        </Dialog>
+        <Dialog ID="33" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland20</VoiceFile>
+          <Content>Entrar a los libros... Suena como algo salido de un cuento de hadas...</Content>
+        </Dialog>
+        <Dialog ID="34" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch0_prol_ep0_Angela15-01</VoiceFile>
+          <Content>Después de todo, vamos a necesitar sus poderes para poder incrementar la emoción de nuestros invitados hasta el límite... Deseo que tengas éxito.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch0_prol_ep0_Roland21</VoiceFile>
+          <Content>Seguro, lo que sea por ti, ma’am...</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+</ScenarioRoot>

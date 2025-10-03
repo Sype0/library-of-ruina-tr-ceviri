@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Chapter ID="8">
+    <Title>Epilogue–‘La Biblioteca perdurará.’</Title>
+  </Chapter>
+  <Group>
+    <GroupName>Epilogue</GroupName>
+    <Episode>
+      <EpisodeName>Episode 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Sede de la Asociación Hana</PlaceName>
+        <Dialog ID="0" Model="하나 협회 본부장">
+          <Teller>Gerente General de la Asociación Hana</Teller>
+          <Title></Title>
+          <VoiceFile />
+          <Content>Incluso aunque la Estrella que llamamos la Biblioteca ha caído, el fenómeno de la Distorsión sigue sucediendo.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="하나 서부 지부장">
+          <Teller>Gerente de Hana Rama Oeste</Teller>
+          <Title></Title>
+          <VoiceFile />
+          <Content>Es hora de que establezcamos una nueva Asociación, como alguien sugirió.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="하나 동부 지부장">
+          <Teller>Gerente de Hana Rama Este</Teller>
+          <Title></Title>
+          <VoiceFile />
+          <Content>¿Te refieres a una Asociación que se haga cargo de las Distorsiones exclusivamente, como innumerable gente ha perdido?</Content>
+        </Dialog>
+        <Dialog ID="3" Model="하나 서부 지부장">
+          <Teller>Gerente de Hana Rama Oeste</Teller>
+          <Title></Title>
+          <VoiceFile />
+          <Content>La Lágrima Púrpura ha estado presentando una gran cantidad de documentos como si hubiera estado esperando por este momento.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="하나 북부 지부장">
+          <Teller>Gerente de Hana Rama Norte</Teller>
+          <Title></Title>
+          <VoiceFile />
+          <Content>Ella era la que se decía que era capaz de caminar entre múltiples dimensiones gracias a la influencia de una Singularidad.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="하나 동부 지부장">
+          <Teller>Gerente de Hana Rama Este</Teller>
+          <Title></Title>
+          <VoiceFile />
+          <Content>Quizás caminó hasta los límites del más allá. Parece que sigue estando varios pasos más adelante que nadie y aun así no mirará atrás por sí misma.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="하나 협회장">
+          <Teller>Presidente de la Asociación Hana</Teller>
+          <Title></Title>
+          <VoiceFile />
+          <Content>Una Asociación de Fixers especializada en tratar con Distorsiones, eso es...</Content>
+        </Dialog>
+        <Dialog ID="7" Model="이오리">
+          <Teller>Iori</Teller>
+          <Title>La Lágrima Púrpura</Title>
+          <VoiceFile />
+          <Content>Knock-knock~ Hay bastante demanda, ¿saben?</Content>
+        </Dialog>
+        <Dialog ID="8" Model="이오리">
+          <Teller>Iori</Teller>
+          <Title>La Lágrima Púrpura</Title>
+          <VoiceFile />
+          <Content>No hay necesidad de rascarse la cabeza pensando en las ganancias. Algunas Alas ya han comenzado a moverse.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="이오리">
+          <Teller>Iori</Teller>
+          <Title>La Lágrima Púrpura</Title>
+          <VoiceFile />
+          <Content>Las Oficinas centradas en las Distorsiones son una fábrica de dinero en auge. Mejor ser el primero en apoderarse del mercado.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="이오리">
+          <Teller>Iori</Teller>
+          <Title>La Lágrima Púrpura</Title>
+          <VoiceFile />
+          <Content>Además, el Fenómeno de la Distorsión está tomando un nuevo rumbo desde el caso de la Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="이오리">
+          <Teller>Iori</Teller>
+          <Title>La Lágrima Púrpura</Title>
+          <VoiceFile />
+          <Content>¿Han escuchado sobre la torre que se mostró mágicamente a sí misma en las Afueras, verdad?</Content>
+        </Dialog>
+        <Dialog ID="12" Model="하나 남부 지부장">
+          <Teller>Gerente de Hana Rama Sur</Teller>
+          <Title></Title>
+          <VoiceFile />
+          <Content>¡Sigues siendo tan ruda como siempre! ¿No sabes llamar a la puerta apropiadamente?</Content>
+        </Dialog>
+        <Dialog ID="13" Model="이오리">
+          <Teller>Iori</Teller>
+          <Title>La Lágrima Púrpura</Title>
+          <VoiceFile />
+          <Content>Sheesh, no es como que no lo hiciera~</Content>
+        </Dialog>
+        <Dialog ID="14" Model="하나 북부 지부장">
+          <Teller>Gerente de Hana Rama Norte</Teller>
+          <Title></Title>
+          <VoiceFile />
+          <Content>Tienes razón. Recibimos reportes de una estructura con forma de torre que apareció en las Afueras.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="하나 북부 지부장">
+          <Teller>Gerente de Hana Rama Norte</Teller>
+          <Title></Title>
+          <VoiceFile />
+          <Content>Pero aparentemente desaparece como un espejismo cuando intentas acercarte.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="이오리">
+          <Teller>Iori</Teller>
+          <Title>La Lágrima Púrpura</Title>
+          <VoiceFile />
+          <Content>Sí, eso. Esa es probablemente la nueva Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="이오리">
+          <Teller>Iori</Teller>
+          <Title>La Lágrima Púrpura</Title>
+          <VoiceFile />
+          <Content>Aunque ahora está operando de una manera diferente.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="하나 협회장">
+          <Teller>Presidente de la Asociación Hana</Teller>
+          <Title></Title>
+          <VoiceFile />
+          <Content>Presionarnos no hará que nos saltemos los procedimientos estándar, Lágrima Púrpura. Incluso tienes la audacia de sugerir estar a cargo de organizar la Asociación tú sola.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="이오리">
+          <Teller>Iori</Teller>
+          <Title>La Lágrima Púrpura</Title>
+          <VoiceFile />
+          <Content>Para tratar con las Anormalidades nacidas de las torceduras y distorsiones de los humanos, se tendrá que usar equipo especializado, el equipo que L Corp. nombró como ‘E.G.O’, es el más apropiado para el trabajo.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="이오리">
+          <Teller>Iori</Teller>
+          <Title>La Lágrima Púrpura</Title>
+          <VoiceFile />
+          <Content>El problema del E.G.O es que no todos están capacitados para manejarlo. Necesitamos gente que cumpla con los requisitos.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="하나 협회장">
+          <Teller>Presidente de la Asociación Hana</Teller>
+          <Title></Title>
+          <VoiceFile />
+          <Content>Quieres decir los tan llamados... ‘E.G.O.I.S.T.As’, de acuerdo con tus documentos.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="이오리">
+          <Teller>Iori</Teller>
+          <Title>La Lágrima Púrpura</Title>
+          <VoiceFile />
+          <Content>Exacto. Saben que tengo un ojo agudo para la gente... No haría daño que me hiciera cargo.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="이오리">
+          <Teller>Iori</Teller>
+          <Title>La Lágrima Púrpura</Title>
+          <VoiceFile />
+          <Content>Deberíamos tomar la iniciativa en dar forma al sistema a nuestra manera.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="이오리">
+          <Teller>Iori</Teller>
+          <Title>La Lágrima Púrpura</Title>
+          <VoiceFile />
+          <Content>Ahora mismo, las ideas del público están por todas partes—como es evidente con términos como “Distorsiones”, “Anormalidades”, e incluso el simple “criaturas” siendo mencionados por ahí.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="이오리">
+          <Teller>Iori</Teller>
+          <Title>La Lágrima Púrpura</Title>
+          <VoiceFile />
+          <Content>El primero en definir los conceptos y términos ganará la ventaja en este juego. Lo saben mejor que nadie.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="하나 협회장">
+          <Teller>Presidente de la Asociación Hana</Teller>
+          <Title></Title>
+          <VoiceFile />
+          <Content>... Consideraremos tu propuesta con la mente abierta.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="이오리">
+          <Teller>Iori</Teller>
+          <Title>La Lágrima Púrpura</Title>
+          <VoiceFile />
+          <Content>¡Muy bien! Estaré esperando buenas noticias suyas, ¿vale?</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+</ScenarioRoot>

@@ -1,0 +1,2013 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Chapter ID="101">
+    <Title>Sephirah Side Stories</Title>
+  </Chapter>
+  <Group>
+    <GroupName>Chitchats</GroupName>
+    <Episode>
+      <EpisodeName>Chitchat 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch8_Talk_ep1_Roland1-01</VoiceFile>
+          <Content>Eh, chicos. ¿De qué están hablando tan seriamente?</Content>
+        </Dialog>
+        <Dialog ID="1" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch8_Talk_ep1_Yesod1</VoiceFile>
+          <Content>Sin lugar a duda es un problema serio...</Content>
+        </Dialog>
+        <Dialog ID="2" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch8_Talk_ep1_Hod1</VoiceFile>
+          <Content>Correcto. Este problema tiene que ser solucionado ahora mismo.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Jefa Bibliotecaria - Historia</Title>
+          <VoiceFile>ch8_Talk_ep1_Malkuth1-01</VoiceFile>
+          <Content>¡Estamos en muchos problemas!</Content>
+        </Dialog>
+        <Dialog ID="4" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch8_Talk_ep1_Angela1</VoiceFile>
+          <Content>Solo díganme qué está pasando.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Jefa Bibliotecaria - Historia</Title>
+          <VoiceFile>ch8_Talk_ep1_Malkuth2</VoiceFile>
+          <Content>¡Netzach se escapó!</Content>
+        </Dialog>
+        <Dialog ID="6" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch8_Talk_ep1_Yesod2-01</VoiceFile>
+          <Content>El Piso de Arte era el responsable de limpiar los pasillos de la Biblioteca esta semana.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch8_Talk_ep1_Roland2-01</VoiceFile>
+          <Content>¿Qué?</Content>
+        </Dialog>
+        <Dialog ID="8" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch8_Talk_ep1_Yesod3</VoiceFile>
+          <Content>¿Tienes alguna idea de dónde podría estar?</Content>
+        </Dialog>
+        <Dialog ID="9" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch8_Talk_ep1_Roland3-01</VoiceFile>
+          <Content>Nah, por supuesto que no. No hay manera. Mmm...</Content>
+        </Dialog>
+        <Dialog ID="10" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch8_Talk_ep1_Hod2</VoiceFile>
+          <Content>Sus otros Bibliotecarios también han desaparecido con él...</Content>
+        </Dialog>
+        <Dialog ID="11" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch8_Talk_ep1_Angela2</VoiceFile>
+          <Content>¿Limpieza? No recuerdo haberles ordenado limpiar este lugar.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch8_Talk_ep1_Yesod4-02</VoiceFile>
+          <Content>Hemos concluido que mientras cada Bibliotecario debería limpiar sus propias habitaciones, es mejor tomar turnos para limpiar los pasillos, ya que son espacios públicos que todos usamos.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch8_Talk_ep1_Angela3</VoiceFile>
+          <Content>Ustedes siempre hacen un escándalo mucho mayor del necesario.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch8_Talk_ep1_Hod3</VoiceFile>
+          <Content>¿Quieres que dejemos de hacerlo?</Content>
+        </Dialog>
+        <Dialog ID="15" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch8_Talk_ep1_Angela4</VoiceFile>
+          <Content>No, no me importa.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch8_Talk_ep1_Hod4</VoiceFile>
+          <Content>Menos mal...</Content>
+        </Dialog>
+        <Dialog ID="17" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Jefa Bibliotecaria - Historia</Title>
+          <VoiceFile>ch8_Talk_ep1_Malkuth3-02</VoiceFile>
+          <Content>¡De todos modos, ese es el motivo de que nos lo estemos preguntando! ¡Dónde se escondió Netzach!</Content>
+        </Dialog>
+        <Dialog ID="18" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch8_Talk_ep1_Angela5</VoiceFile>
+          <Content>Uf...</Content>
+        </Dialog>
+        <Dialog ID="19" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch8_Talk_ep1_Angela6</VoiceFile>
+          <Content>Bien, aquí está Netzach.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch8_Talk_ep1_Netzach1-01</VoiceFile>
+          <Content>Q... qué... Qué ha pasado...</Content>
+        </Dialog>
+        <Dialog ID="21" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch8_Talk_ep1_Angela7</VoiceFile>
+          <Content>No tengo que hacer ningún esfuerzo para encontrarte y recolocarte, sin importar en que lugar de la Biblioteca estás.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Jefa Bibliotecaria - Historia</Title>
+          <VoiceFile>ch8_Talk_ep1_Malkuth4-01</VoiceFile>
+          <Content>¡Netzaaaach~! ¡Prometimos mantener el orden que decidimos!</Content>
+        </Dialog>
+        <Dialog ID="23" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch8_Talk_ep1_Hod5</VoiceFile>
+          <Content>Eres tan malo, escapar cuando es tu turno...</Content>
+        </Dialog>
+        <Dialog ID="24" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch8_Talk_ep1_Yesod5</VoiceFile>
+          <Content>Apestas a alcohol y también lo hacen tus Bibliotecarios a tu espalda...</Content>
+        </Dialog>
+        <Dialog ID="25" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch8_Talk_ep1_Netzach2</VoiceFile>
+          <Content>... Puedo explicarlo, tengo una buena explicación sobre esto.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Jefa Bibliotecaria - Historia</Title>
+          <VoiceFile>ch8_Talk_ep1_Malkuth5-02</VoiceFile>
+          <Content>¿Qué explicación?</Content>
+        </Dialog>
+        <Dialog ID="27" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch8_Talk_ep1_Yesod6-02</VoiceFile>
+          <Content>Déjanos escuchar tu historia.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch8_Talk_ep1_Roland4-01</VoiceFile>
+          <Content>Espera espera, Netzach será más cuidadoso la próxima vez. Es suficiente regaño.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch8_Talk_ep1_Yesod7-02</VoiceFile>
+          <Content>No. Necesito escuchar lo que tiene que decir.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Jefa Bibliotecaria - Historia</Title>
+          <VoiceFile>ch8_Talk_ep1_Malkuth6-03</VoiceFile>
+          <Content>¡Netzaaaaaach!</Content>
+        </Dialog>
+        <Dialog ID="31" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch8_Talk_ep1_Netzach3-01</VoiceFile>
+          <Content>... Mira, no tenía ganas de limpiar, pero aun así iba a hacerlo.</Content>
+        </Dialog>
+        <Dialog ID="32" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch8_Talk_ep1_Netzach4</VoiceFile>
+          <Content>Me estaba quejando conmigo mismo sobre eso, entonces Roland vino y me dijo que encontró un buen lugar donde perder el tiempo...</Content>
+        </Dialog>
+        <Dialog ID="33" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch8_Talk_ep1_Netzach5</VoiceFile>
+          <Content>Me dijo que me iba a decir dónde estaba si le compartía algo de alcohol y cómo podría saltarme mi turno de limp— ¡¡Mh, mmh!!</Content>
+        </Dialog>
+        <Dialog ID="34" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch8_Talk_ep1_Roland5</VoiceFile>
+          <Content>Vaya, parece que está demasiado borracho como para decir algo coherente.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch8_Talk_ep1_Roland6</VoiceFile>
+          <Content>De verdad que le encanta beber para alguien con tan poca resistencia. Hahaha...</Content>
+        </Dialog>
+        <Dialog ID="36" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch8_Talk_ep1_Hod6</VoiceFile>
+          <Content>... Roland. ¿Lo que dijo Netzach es cierto?</Content>
+        </Dialog>
+        <Dialog ID="37" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch8_Talk_ep1_Roland7</VoiceFile>
+          <Content>Haha... Nah, no puede ser.</Content>
+        </Dialog>
+        <Dialog ID="38" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch8_Talk_ep1_Yesod8-01</VoiceFile>
+          <Content>También puedo percibir un ligero olor a Alcohol proviniendo de ti, ahora que Netzach lo ha confesado.</Content>
+        </Dialog>
+        <Dialog ID="39" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Jefa Bibliotecaria - Historia</Title>
+          <VoiceFile>ch8_Talk_ep1_Malkuth7-04</VoiceFile>
+          <Content>¡Estoy tan decepcionada de ambos!</Content>
+        </Dialog>
+        <Dialog ID="40" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch8_Talk_ep1_Roland8</VoiceFile>
+          <Content>¡Vale, lo siento! ¡Ayudaré a Netzach a limpiar los pasillos por hoy, así que perdónenme!</Content>
+        </Dialog>
+        <Dialog ID="41" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch8_Talk_ep1_Angela8</VoiceFile>
+          <Content>Hm, no. Sería mejor que te unieras a la lista de limpieza desde ahora, en lugar de solo por hoy, ¿no creen?</Content>
+        </Dialog>
+        <Dialog ID="42" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch8_Talk_ep1_Roland9</VoiceFile>
+          <Content>¿Queeeé?</Content>
+        </Dialog>
+        <Dialog ID="43" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch8_Talk_ep1_Hod7</VoiceFile>
+          <Content>Esa es una buena idea.</Content>
+        </Dialog>
+        <Dialog ID="44" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch8_Talk_ep1_Yesod9</VoiceFile>
+          <Content>Podría perdonar tu comportamiento hoy si ese es el caso.</Content>
+        </Dialog>
+        <Dialog ID="45" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Jefa Bibliotecaria - Historia</Title>
+          <VoiceFile>ch8_Talk_ep1_Malkuth8-03</VoiceFile>
+          <Content>¡Buena suerte con la limpieza entonces!</Content>
+        </Dialog>
+        <Dialog ID="46" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch8_Talk_ep1_Netzach6-01</VoiceFile>
+          <Content>... También eres propenso a armar jaleo, ¿verdad, Roland?</Content>
+        </Dialog>
+        <Dialog ID="47" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch8_Talk_ep1_Roland10</VoiceFile>
+          <Content>Eh.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Chitchat 2</EpisodeName>
+      <Place>
+        <PlaceName>Localización: La Biblioteca – Piso de Ciencias Sociales</PlaceName>
+        <Dialog ID="0" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch8_Talk_ep2_Gebura1</VoiceFile>
+          <Content>Quita esa cara de mi vista.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch8_Talk_ep2_Chesed1</VoiceFile>
+          <Content>Vamos~ Estás actuando de nuevo.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch8_Talk_ep2_Gebura2</VoiceFile>
+          <Content>Bah... Me gustabas mucho más cuando eras solo una caja de acero.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch8_Talk_ep2_Chesed2</VoiceFile>
+          <Content>¿Wow, en serio? Supongo que hoy es mi día de suerte, conseguir cumplidos de Gebura de toda la gente~</Content>
+        </Dialog>
+        <Dialog ID="4" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch8_Talk_ep2_Gebura3</VoiceFile>
+          <Content>¿Eh? Eso no se suponía que fuera un cumplido, tú...</Content>
+        </Dialog>
+        <Dialog ID="5" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch8_Talk_ep2_Tiphereth1</VoiceFile>
+          <Content>Bien, deténganse. ¿No están cansados de pelear a estas alturas?</Content>
+        </Dialog>
+        <Dialog ID="6" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch8_Talk_ep2_Gebura4</VoiceFile>
+          <Content>Este idiota peli-azul sigue restregándome su café en mi cara.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch8_Talk_ep2_Gebura5</VoiceFile>
+          <Content>No entiendo que es tan bueno sobre una taza de agua amarga.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch8_Talk_ep2_Chesed3</VoiceFile>
+          <Content>Es un gusto adquirido, ya sabes~</Content>
+        </Dialog>
+        <Dialog ID="9" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch8_Talk_ep2_Gebura6</VoiceFile>
+          <Content>Vete con ese gusto por tu cuenta entonces. No quiero molestarme en acostumbrarme a eso.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch8_Talk_ep2_Chesed4</VoiceFile>
+          <Content>No seas tan agría~ Tengo algo dulce para ambas esta vez, así que denle un intento por mi bien, ¿por favor~?</Content>
+        </Dialog>
+        <Dialog ID="11" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch8_Talk_ep2_Gebura7</VoiceFile>
+          <Content>¿Te refieres a ese... muckhairytoe o algo así?</Content>
+        </Dialog>
+        <Dialog ID="12" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch8_Talk_ep2_Chesed5</VoiceFile>
+          <Content>Mhm. Es correcto~</Content>
+        </Dialog>
+        <Dialog ID="13" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch8_Talk_ep2_Chesed6</VoiceFile>
+          <Content>Aunque se llama macchiato...</Content>
+        </Dialog>
+        <Dialog ID="14" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch8_Talk_ep2_Gebura8</VoiceFile>
+          <Content>... No importa, todo se escucha igual para mí. Pero tengo que admitir que ese se podía beber.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch8_Talk_ep2_Tiphereth2</VoiceFile>
+          <Content>No soy una gran fan de ese. El sabor a caramelo era demasiado fuerte para mi gusto...</Content>
+        </Dialog>
+        <Dialog ID="16" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch8_Talk_ep2_Chesed7</VoiceFile>
+          <Content>Así que he preparado una taza de Vienna esta vez~ Este te gustará más.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch8_Talk_ep2_Tiphereth3</VoiceFile>
+          <Content>Gracias por ser tan considerado, pero... ¿Por qué sigues recomendándonos café?</Content>
+        </Dialog>
+        <Dialog ID="18" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch8_Talk_ep2_Chesed8</VoiceFile>
+          <Content>Bueno, ya ves~ Pensé que sería genial hacer al menos un amigo que entendiera el sabor del café, ¿sabes?</Content>
+        </Dialog>
+        <Dialog ID="19" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch8_Talk_ep2_Tiphereth4</VoiceFile>
+          <Content>Digo, puedo beber café contigo si estás tan desesperado por un colega del café. Pero eres raramente insistente con Gebura.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch8_Talk_ep2_Gebura9</VoiceFile>
+          <Content>Sí, me pregunto el motivo.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch8_Talk_ep2_Chesed9</VoiceFile>
+          <Content>Bueno... ¿Cómo debería decirlo?</Content>
+        </Dialog>
+        <Dialog ID="22" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch8_Talk_ep2_Chesed10</VoiceFile>
+          <Content>Ves, la cosa sobre Gebura es que...</Content>
+        </Dialog>
+        <Dialog ID="23" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch8_Talk_ep2_Chesed11</VoiceFile>
+          <Content>¿Sus reacciones son divertidas de ver?</Content>
+        </Dialog>
+        <Dialog ID="24" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch8_Talk_ep2_Gebura10</VoiceFile>
+          <Content>¿Qué?</Content>
+        </Dialog>
+        <Dialog ID="25" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch8_Talk_ep2_Tiphereth5</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="26" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch8_Talk_ep2_Chesed12</VoiceFile>
+          <Content>El aire ha dado un giro brusco a uno muy agresivo... Solo estaba bromeando~</Content>
+        </Dialog>
+        <Dialog ID="27" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch8_Talk_ep2_Chesed13</VoiceFile>
+          <Content>Digo, es genial que podamos reunirnos de vez en cuando por una bebida, ¿no es así~?</Content>
+        </Dialog>
+        <Dialog ID="28" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch8_Talk_ep2_Chesed14</VoiceFile>
+          <Content>No hay una mejor razón que una taza de café caliente para reunirnos y relajarnos~</Content>
+        </Dialog>
+        <Dialog ID="29" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch8_Talk_ep2_Tiphereth6</VoiceFile>
+          <Content>Es cierto, estaríamos encerrados en nuestros propios pisos haciendo nuestros trabajos, si no fuera por descansos como este...</Content>
+        </Dialog>
+        <Dialog ID="30" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch8_Talk_ep2_Gebura11</VoiceFile>
+          <Content>Si ese es el verdadero motivo, no hay razón de que siempre sea sobre café, ¿verdad?</Content>
+        </Dialog>
+        <Dialog ID="31" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch8_Talk_ep2_Tiphereth7</VoiceFile>
+          <Content>¿Quizás él no tiene otro tipo de excusas?</Content>
+        </Dialog>
+        <Dialog ID="32" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch8_Talk_ep2_Chesed15</VoiceFile>
+          <Content>Has dado en el clavo, Tiph~</Content>
+        </Dialog>
+        <Dialog ID="33" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch8_Talk_ep2_Gebura12</VoiceFile>
+          <Content>Olvídalo. En ese caso, solo puedo venir junto con Tiphereth más a menudo.</Content>
+        </Dialog>
+        <Dialog ID="34" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch8_Talk_ep2_Tiphereth8</VoiceFile>
+          <Content>No creo que seamos tan amigables entre nosotros...</Content>
+        </Dialog>
+        <Dialog ID="35" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch8_Talk_ep2_Tiphereth9</VoiceFile>
+          <Content>Pero si estás intentando crear motivos para reunirnos, solo tenías que habernos preguntado.</Content>
+        </Dialog>
+        <Dialog ID="36" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch8_Talk_ep2_Chesed16</VoiceFile>
+          <Content>Me siento honrado de escuchar eso~</Content>
+        </Dialog>
+        <Dialog ID="37" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch8_Talk_ep2_Chesed17</VoiceFile>
+          <Content>Pero, volviendo al café... ¿Quieres darle un intento?</Content>
+        </Dialog>
+        <Dialog ID="38" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch8_Talk_ep2_Tiphereth10</VoiceFile>
+          <Content>¡No tengo ningún motivo para rechazar una taza que preparaste para mí!</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Chitchat 3</EpisodeName>
+      <Place>
+        <PlaceName>Localización: La Biblioteca – Piso de Filosofía</PlaceName>
+        <Dialog ID="0" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Hokma_1</VoiceFile>
+          <Content>Pareces bastante tranquila aquí.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Binah_1</VoiceFile>
+          <Content>¿Qué más se necesita decir? Mi papel es simplemente observar.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Hokma_2</VoiceFile>
+          <Content>Observar, hmh...</Content>
+        </Dialog>
+        <Dialog ID="3" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Binah_2</VoiceFile>
+          <Content>Correcto. Algunos podrían pensar que esto es una forma de negligencia. Veo que eres uno de ellos.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Hokma_3</VoiceFile>
+          <Content>Solo tenía curiosidad. No hemos tenido muchas oportunidades para hablar entre nosotros.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Binah_3</VoiceFile>
+          <Content>No hemos tenido prácticamente ninguna, ¿verdad? Ninguno de nosotros ha dejado sus respectivos puestos.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Binah_4</VoiceFile>
+          <Content>Pero ahora tienes el tiempo para visitarme a mí, de toda la gente para una charla... Eso debe indicar que somos más libres que antes, capaces de dedicar más tiempo a nuestros momentos.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Hokma_4</VoiceFile>
+          <Content>¿No te gusta este cambio?</Content>
+        </Dialog>
+        <Dialog ID="8" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Binah_5</VoiceFile>
+          <Content>No estoy muy segura de mis sentimientos.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Binah_6</VoiceFile>
+          <Content>Pero... Ten una taza de té, ahora que estás aquí.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Hokma_5</VoiceFile>
+          <Content>... Si eres tan amable.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Hokma_6</VoiceFile>
+          <Content>Dime, ¿has intentado otros tipos de té? Parece que el té negro es todo lo que bebes.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Binah_7</VoiceFile>
+          <Content>Quizás. Hay suficientes variedades de té negro que no me he molestado en intentar ingerir otras variedades.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Binah_8</VoiceFile>
+          <Content>Ah, aunque el chico noble de melena azul me ha insistido todo el día a que debería intentar beber café.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Hokma_7</VoiceFile>
+          <Content>Es cierto que muchas cosas han cambiado. Nunca hubiera esperado que él se acercaría a ti primero para recomendarte café.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Binah_9</VoiceFile>
+          <Content>Un día, quizás, todos nosotros nos reunamos.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Binah_10</VoiceFile>
+          <Content>Ciertamente... Esta vez será muy diferente de la primera vez que esa reunión tuvo lugar.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Hokma_8</VoiceFile>
+          <Content>Me pregunto si llegará el día en que todos podamos tener una conversación casual y compartir historias triviales. Tengo bastantes dudas de eso.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Binah_11</VoiceFile>
+          <Content>Sin embargo, en el fondo, también quieres eso. Quizás todos compartimos los mismos sentimientos.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Hokma_9</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="20" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Hokma_10</VoiceFile>
+          <Content>He terminado mi taza, así que me iré ahora. Aprecio tu hospitalidad.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep3_Binah_12</VoiceFile>
+          <Content>Vuelve cuando quieras. El té siempre estará listo y esperando.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Chitchat 4</EpisodeName>
+      <Place>
+        <PlaceName>Localización: La Biblioteca – Piso de Filosofía</PlaceName>
+        <Dialog ID="0" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Binah_1-01</VoiceFile>
+          <Content>Me pregunto cómo me perciben, ahora que sus memorias han regresado completamente.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Gebura_1-01</VoiceFile>
+          <Content>¿Qué? Ese tipo de cosas ya no me importan.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Binah_2-01</VoiceFile>
+          <Content>Eres mucho más serena de lo que esperaba.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Gebura_2-01</VoiceFile>
+          <Content>No puedo decir que no estoy un poco incómoda, pero ahora estamos en el mismo barco.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Hod_1</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="5" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Gebura_3-01</VoiceFile>
+          <Content>Venga, Hod, ten algo de confianza. Te ves incluso más pequeña que de costumbre...</Content>
+        </Dialog>
+        <Dialog ID="6" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Gebura_4</VoiceFile>
+          <Content>Ella no es la misma persona que recuerdas del pasado, ya no lo es. No puedo garantizar qué pasará en el futuro, pero no nos hará ningún daño por un tiempo.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Hod_2</VoiceFile>
+          <Content>Oh... Umm. ¡Correcto...! Lo siento, Gebura.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Binah_3-01</VoiceFile>
+          <Content>Fascinante. Por mucho que me gustaría molestarte por tu estado lamentable...</Content>
+        </Dialog>
+        <Dialog ID="9" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Binah_4-01</VoiceFile>
+          <Content>Lo que Gebura dice es correcto. No soy el mismo ser con el que interactuaste en el pasado.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Binah_5</VoiceFile>
+          <Content>Cuando parecía que todo se había terminado, un nuevo aliento de vida se me fue dado... Por supuesto, no estoy completamente separada de mi pasado.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Binah_6</VoiceFile>
+          <Content>Me he vuelto alguien que no puede dañarte, pero aún puedo sentir el miedo en tus ojos.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Binah_7-01</VoiceFile>
+          <Content>De qué tienes tanto miedo, niña. Ahora estoy en las mismas circunstancias que tú.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Hod_3</VoiceFile>
+          <Content>Solo... estaba nerviosa, ya que es la primera vez que nos sentamos a hablar cara a cara.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Binah_8</VoiceFile>
+          <Content>No temas. Las he llamado por una simple razón... para tomar un té juntas.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Binah_9-02</VoiceFile>
+          <Content>Sugiero que bebas antes de que se enfríe. Se disfruta mucho más cuando la esencia es cálida y eres capaz de saborearlo.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Hod_4-01</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="17" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Hod_5_a</VoiceFile>
+          <Content>El té es claro... Sabe un poco dulce.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Binah_10-01</VoiceFile>
+          <Content>Añadí jugo de limón y un poco de miel al té negro. Lo preparé especialmente para ti.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Hod_6</VoiceFile>
+          <Content>No olía a miel para nada, pensé que le pusiste azúcar.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Binah_11</VoiceFile>
+          <Content>Es porque la esencia de la miel se perdió cuando se puso en contacto con el té.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Binah_12</VoiceFile>
+          <Content>Poner demasiado azúcar hace que el té se sienta fangoso. Pero supongo que es un tema de preferencias.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Gebura_5-01</VoiceFile>
+          <Content>... Es dulce. No está mal.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Binah_13-01</VoiceFile>
+          <Content>¿Lo sabían? El té negro tiene muchos nombres en distintas regiones.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Hod_7</VoiceFile>
+          <Content>Oh... He escuchado sobre eso. Algunos lo llaman “té negro” basado en el color de sus hojas, pero algunos lo llaman “té rojo” porque el color del té es rojo.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Gebura_6</VoiceFile>
+          <Content>Supongo que es la diferencia entre valorar la esencia y el resultado.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Binah_14</VoiceFile>
+          <Content>Quizás puedes verlo de esa forma.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Binah_15-01</VoiceFile>
+          <Content>Entonces, me gustaría preguntarlos cómo les gustaría que nos refiramos a este té.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Hod_8-01</VoiceFile>
+          <Content>... Esa es una pregunta bastante difícil.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Gebura_7-01</VoiceFile>
+          <Content>No importa mucho, ¿verdad? Solo llámalo con el nombre con el que estás más acostumbrada.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Binah_16-02</VoiceFile>
+          <Content>Si eso es lo que tienen que decir.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep4_Binah_17_b</VoiceFile>
+          <Content>Es bastante divertido conversar con ustedes. Vengan de nuevo cuando anhelen la esencia del té.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Chitchat 5</EpisodeName>
+      <Place>
+        <PlaceName>Localización: La Biblioteca – Piso de Ciencias Naturales</PlaceName>
+        <Dialog ID="0" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Yesod_1-01</VoiceFile>
+          <Content>“Origen de los Elementos”... “Carga nuclear efectiva”...</Content>
+        </Dialog>
+        <Dialog ID="1" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Yesod_2-01</VoiceFile>
+          <Content>... Ah, ¿es la estantería correcta?</Content>
+        </Dialog>
+        <Dialog ID="2" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_1-01</VoiceFile>
+          <Content>Esa es la indicada. Coloca los libros en orden, por favor.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Hod_1-01</VoiceFile>
+          <Content>¿Este va aquí... Malkuth? ¿Puedes traerme esos libros de ahí?</Content>
+        </Dialog>
+        <Dialog ID="4" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Jefa Bibliotecaria - Historia</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Malkuth_1</VoiceFile>
+          <Content>¡Lo tengo! Hay un montón de libros complicados aquí~</Content>
+        </Dialog>
+        <Dialog ID="5" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Netzach_1</VoiceFile>
+          <Content>... Por qué estamos en este piso ayudándote con tareas como esta.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_2</VoiceFile>
+          <Content>¡Qué otra opción tengo! Tengo una montaña de libros por organizar y las únicas estanterías vacías estaban demasiado alto...</Content>
+        </Dialog>
+        <Dialog ID="7" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_3</VoiceFile>
+          <Content>Subir ahí arriba con los libros... es una tarea difícil de hacer por mi cuenta.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_4</VoiceFile>
+          <Content>Usualmente tengo la ayuda de Chesed y Gebura, pero parecen bastante ocupados hoy.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_5</VoiceFile>
+          <Content>Y no puedo encontrar a Roland en ningún lugar. ¡Dónde se fue ese larguirucho!</Content>
+        </Dialog>
+        <Dialog ID="10" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Yesod_3-01</VoiceFile>
+          <Content>Oh, vi a Roland ir escaleras arriba hace un rato.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_6-01</VoiceFile>
+          <Content>Supongo que tiene algunos asuntos ahí...</Content>
+        </Dialog>
+        <Dialog ID="12" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Netzach_2</VoiceFile>
+          <Content>Te parece que tenemos un montón de tiempo libre, ¿eh?...</Content>
+        </Dialog>
+        <Dialog ID="13" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_7</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="14" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Jefa Bibliotecaria - Historia</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Malkuth_2-01</VoiceFile>
+          <Content>¡Venga, Netzach! Tiphereth se acercó a nosotros a preguntarnos por ayuda por primera vez, ¿sabes?</Content>
+        </Dialog>
+        <Dialog ID="15" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Jefa Bibliotecaria - Historia</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Malkuth_3-01</VoiceFile>
+          <Content>Ella raramente venía a la Capa Superior en el pasado, así que era difícil para mí verla. Estoy bastante feliz de que viniera a nosotros esta vez, ¿sabes?</Content>
+        </Dialog>
+        <Dialog ID="16" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Hod_2-01</VoiceFile>
+          <Content>Sí, tu apartamento estaba en la cima del todo, así que debiste haber tenido muy pocas oportunidades de verla.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Jefa Bibliotecaria - Historia</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Malkuth_4-02</VoiceFile>
+          <Content>Correcto. También estábamos ocupados con nuestro trabajo.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Yesod_4-01</VoiceFile>
+          <Content>Por cierto, ¿qué es lo que está manteniendo a los Jefes Bibliotecarios de los pisos superiores ocupados ahora mismo?</Content>
+        </Dialog>
+        <Dialog ID="19" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_8</VoiceFile>
+          <Content>Ya sabes como es Chesed. Los Bibliotecarios pasan por su piso para disfrutar de su café todo el tiempo y él siempre está complacido de hacerlo...</Content>
+        </Dialog>
+        <Dialog ID="20" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_9</VoiceFile>
+          <Content>Y Gebura ha estado sentada con sus ojos cerrados por un tiempo. No estoy segura de si está durmiendo o meditando.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Hod_3</VoiceFile>
+          <Content>Gebura ha estado meditando más a menudo desde que se despertó aquí. ¿Quizás tiene un montón de cosas sobre que pensar?</Content>
+        </Dialog>
+        <Dialog ID="22" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_10</VoiceFile>
+          <Content>Quizás. Me siento mal cuando invado sus momentos privados tan a menudo solo para que me ayude con algunos mandados...</Content>
+        </Dialog>
+        <Dialog ID="23" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_11</VoiceFile>
+          <Content>¡No es como si los estuviera ignorando a ustedes ni nada! No tienen... que ayudarme si no quieren.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Jefa Bibliotecaria - Historia</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Malkuth_5</VoiceFile>
+          <Content>No te preocupes. Netzach puede ser un poco quejica, pero no tiene problemas en echar una mano.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Yesod_5-01</VoiceFile>
+          <Content>Realmente estás tratando con libros que tienen temas bastante avanzados, como Roland nos comentó. Algunos son bastante difíciles de comprender, incluso para mí.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_12</VoiceFile>
+          <Content>¿Qué es eso? ¿Me estás tratando como una niña justo como ese larguirucho hizo?</Content>
+        </Dialog>
+        <Dialog ID="27" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Yesod_6-01</VoiceFile>
+          <Content>No estoy intentando empequeñecerte. Es solo que...</Content>
+        </Dialog>
+        <Dialog ID="28" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_13</VoiceFile>
+          <Content>¿Estás preocupado de que podría tener problemas intentando entender estos libros, verdad? Yo nunca tuve una educación adecuada, no como ustedes.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Yesod_7-01</VoiceFile>
+          <Content>... Sí, ese es el caso. No era mi intención compadecerme de ti, pero... ¿estás realmente bien con esto?</Content>
+        </Dialog>
+        <Dialog ID="30" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_14</VoiceFile>
+          <Content>Si me preguntas, estoy un poco molesta. Y la pregunta podría ser tomada como una burla, si quisiera tomarlo de esa manera.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_15</VoiceFile>
+          <Content>Puedo ignorarlo porque sé que no eres el tipo de persona que se burlaría de mí, Yesod.</Content>
+        </Dialog>
+        <Dialog ID="32" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Jefa Bibliotecaria - Historia</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Malkuth_6-01</VoiceFile>
+          <Content>¿En serio? ¿Pensé que nos odiabas a todos por igual?</Content>
+        </Dialog>
+        <Dialog ID="33" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Netzach_3-01</VoiceFile>
+          <Content>El Síndrome de las Capas Superiores...</Content>
+        </Dialog>
+        <Dialog ID="34" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_16</VoiceFile>
+          <Content>... ¡Mira, lo siento sobre eso! Era muy inmadura en ese entonces... Pensaba que mis opiniones siempre eran correctas.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_17</VoiceFile>
+          <Content>Pero ya no más. Sigo siendo buena en lo que hago, pero ahora soy capaz de admitir que ustedes no son tan malos.</Content>
+        </Dialog>
+        <Dialog ID="36" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_18</VoiceFile>
+          <Content>¡Eso no significa que quiera estar en términos amigables con todos ustedes para compensar por el pasado, no se equivoquen!</Content>
+        </Dialog>
+        <Dialog ID="37" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_19</VoiceFile>
+          <Content>Todo lo que pido es que no sientan ninguna presión sobre relacionarse conmigo. Estamos bien de la forma que es ahora.</Content>
+        </Dialog>
+        <Dialog ID="38" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Hod_4</VoiceFile>
+          <Content>Debes haber cambiado bastante tu manera de pensar.</Content>
+        </Dialog>
+        <Dialog ID="39" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_20-01</VoiceFile>
+          <Content>Hmph, es una ventaja de ser más madura.</Content>
+        </Dialog>
+        <Dialog ID="40" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_21</VoiceFile>
+          <Content>De todos modos... No tomé como ofensa lo que dijiste, Yesod.</Content>
+        </Dialog>
+        <Dialog ID="41" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_22-01</VoiceFile>
+          <Content>Estoy contenta de ver que entiendes lo mucho que me estoy esforzando.</Content>
+        </Dialog>
+        <Dialog ID="42" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_23-01</VoiceFile>
+          <Content>Después de todo, yo soy la que lee todos los libros aquí, intentando entender de qué tratan y etiquetarlos.</Content>
+        </Dialog>
+        <Dialog ID="43" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Hod_5-03</VoiceFile>
+          <Content>¿Eres bastante positiva, verdad?</Content>
+        </Dialog>
+        <Dialog ID="44" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_24-01</VoiceFile>
+          <Content>No lo soy. Habría estado furiosa si otra persona me preguntara eso.</Content>
+        </Dialog>
+        <Dialog ID="45" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_25-01</VoiceFile>
+          <Content>... Bien, ese es el último por ahora. Y...</Content>
+        </Dialog>
+        <Dialog ID="46" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep5_Tiphereth_26-01</VoiceFile>
+          <Content>Gracias por ayudarme, chicos.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Chitchat 6</EpisodeName>
+      <Place>
+        <PlaceName>Localización: La Biblioteca - Piso de Arte</PlaceName>
+        <Dialog ID="0" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile />
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="1" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Hokma_1-01</VoiceFile>
+          <Content>¿Sobre qué podrías estar reflexionando, intoxicado por tu soledad?</Content>
+        </Dialog>
+        <Dialog ID="2" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Netzach_2-01</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="3" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Hokma_2</VoiceFile>
+          <Content>... No pareces tener el ánimo para una conversación.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Netzach_3</VoiceFile>
+          <Content>No tengo ganar de tratarte amablemente...</Content>
+        </Dialog>
+        <Dialog ID="5" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Hokma_3</VoiceFile>
+          <Content>¿Estás enojado porque interrumpí tu tiempo de soledad, o son los grilletes del pasado los que te atan?</Content>
+        </Dialog>
+        <Dialog ID="6" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Netzach_4-01</VoiceFile>
+          <Content>Ambos, supongo. Me disgustan ambos.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Netzach_5-01</VoiceFile>
+          <Content>Se me niega algo que es mío, entonces y ahora.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Netzach_6-01</VoiceFile>
+          <Content>Pero... Disfruto compartir bebidas con otros a veces.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Hokma_4-01</VoiceFile>
+          <Content>¿En la premisa de que no estoy entre esos “otros”?</Content>
+        </Dialog>
+        <Dialog ID="10" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Netzach_7</VoiceFile>
+          <Content>Solo estoy diciendo que no estoy completamente en contra de esto.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Netzach_8</VoiceFile>
+          <Content>... No creo que muerdas, pero déjame preguntarte por cortesía. ¿Quieres tomar una bebida?</Content>
+        </Dialog>
+        <Dialog ID="12" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Hokma_5</VoiceFile>
+          <Content>Sabes cuál podría ser mi respuesta. Como sospechas, no tengo ganas de tomar una bebida.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Netzach_9-01</VoiceFile>
+          <Content>Entonces, por qué estás aquí. No hay nada aquí para ver.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Hokma_6</VoiceFile>
+          <Content>... Vamos a decir que he estado visitando a los otros para presentarme.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Netzach_10-01</VoiceFile>
+          <Content>No eres como antes.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Hokma_7</VoiceFile>
+          <Content>Quizás también estoy experimentando cambios, como nadie es nunca verdaderamente inmutable.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Hokma_8</VoiceFile>
+          <Content>Sí. Hablando de eso... parece que la mayoría de los Jefes Bibliotecarios han ordenado sus pensamientos y organizado sus mentes.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Hokma_9</VoiceFile>
+          <Content>¿Qué pasa contigo?</Content>
+        </Dialog>
+        <Dialog ID="19" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Netzach_11</VoiceFile>
+          <Content>No lo sé. Estoy asustado de organizar definitivamente mi mente.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Netzach_12-01</VoiceFile>
+          <Content>Si lo que elijo termina siendo la respuesta incorrecta... No sé lo que haría.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Hokma_10</VoiceFile>
+          <Content>Ningún hombre puede elegir el camino correcto todo el tiempo. Uno solo tiene que creer que el camino que está tomando es el correcto.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Hokma_11</VoiceFile>
+          <Content>Tal es la naturaleza de la verdad; es similar a la fe.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Hokma_12</VoiceFile>
+          <Content>El camino que has escuchado, dónde estás ahora mismo... Todo lo que has visto, escuchado y tocado por tu cuenta constituye el camino de la verdad.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Hokma_13</VoiceFile>
+          <Content>Tienes que tener la fe de que lo que está delante es la verdad.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Netzach_13-01</VoiceFile>
+          <Content>... Gracias por las palabras amables, lo que sea que signifiquen.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Netzach_14</VoiceFile>
+          <Content>Lo que estás diciendo es demasiado difícil para mi cabeza. Siempre lo ha sido.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Netzach_15-01</VoiceFile>
+          <Content>¿Has conseguido aclarar tu cabeza?</Content>
+        </Dialog>
+        <Dialog ID="28" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Hokma_14-01</VoiceFile>
+          <Content>Quizás, o quizás no. Expresaré mis pensamientos cuando todos hayan formado su propia opinión.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep6_Hokma_15_b-01</VoiceFile>
+          <Content>Supongo que no debería gastar más tu tiempo. Fue una corta, pero agradable conversación.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Chitchat 7</EpisodeName>
+      <Place>
+        <PlaceName>Localización: La Biblioteca - Piso de Arte</PlaceName>
+        <Dialog ID="0" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Chessed_1</VoiceFile>
+          <Content>Eh, Netzach~ Tenemos una pregunta...</Content>
+        </Dialog>
+        <Dialog ID="1" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Chessed_2-01</VoiceFile>
+          <Content>¿Oh? Gebura y Roland también están aquí~ ¿Qué están haciendo?</Content>
+        </Dialog>
+        <Dialog ID="2" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Tiphereth_1-01</VoiceFile>
+          <Content>Es obvio. Están todos holgazaneando. ¿Y qué es todo esto... Alcohol?</Content>
+        </Dialog>
+        <Dialog ID="3" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Tiphereth_2-02</VoiceFile>
+          <Content>¡Comportense! ¡Miren todo el lío que ha creado ese borracho sin esperanza!</Content>
+        </Dialog>
+        <Dialog ID="4" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Netzach_1-01</VoiceFile>
+          <Content>Hola, Tiphereth.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Tiphereth_3-01</VoiceFile>
+          <Content>¡No tengo el humor para saludarte de vuelta! Estoy segura de que a Angela no le gustará esto cuando lo escuche.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Roland_1</VoiceFile>
+          <Content>Cierto, nos regañaron bastante ese día...</Content>
+        </Dialog>
+        <Dialog ID="7" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Gebura_1</VoiceFile>
+          <Content>Estaba teniendo una pequeña conversación con Netzach, entonces el del traje negro entró aquí.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Roland_2</VoiceFile>
+          <Content>Hngh... Solo vine por una bebida, eso es todo...</Content>
+        </Dialog>
+        <Dialog ID="9" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Roland_3</VoiceFile>
+          <Content>De todos modos, ¿todos acordaron tener una reunión aquí o algo? Hay mucha gente en este piso a la vez. Eres bastante popular, Netz~</Content>
+        </Dialog>
+        <Dialog ID="10" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Tiphereth_4-01</VoiceFile>
+          <Content>¡Nunca me reuniría para beber! ¡Especialmente si es con Netzach!</Content>
+        </Dialog>
+        <Dialog ID="11" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Chessed_3-01</VoiceFile>
+          <Content>Estoy aquí porque Tiphereth dijo que tenía algo que quería preguntar~</Content>
+        </Dialog>
+        <Dialog ID="12" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Netzach_2-04</VoiceFile>
+          <Content>Entonces solo pregúntalo y vete...</Content>
+        </Dialog>
+        <Dialog ID="13" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Tiphereth_5</VoiceFile>
+          <Content>¡Como si fueras a darme una respuesta coherente en ese estado! Olvídalo. Solo lo preguntaré en otra ocasión.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Tiphereth_6_b</VoiceFile>
+          <Content>¡Gosh, el hedor a alcohol está en todos lados... Deja de beber tanto, incluso los libros apestarán a este ritmo!</Content>
+        </Dialog>
+        <Dialog ID="15" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Netzach_3-01</VoiceFile>
+          <Content>... Eso duele. Para de golpearme.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Gebura_2-03</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="17" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Chessed_4-02</VoiceFile>
+          <Content>Oh no, Gebura~ No deberías fumar en un lugar como este~ Otros Bibliotecarios están pasando por aquí~</Content>
+        </Dialog>
+        <Dialog ID="18" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile />
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="19" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Tiphereth_7-03</VoiceFile>
+          <Content>¡Chesed tiene razón! ¡Fumar al lado de los libros es una mala idea! ¡Este lugar está lleno de madera!</Content>
+        </Dialog>
+        <Dialog ID="20" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Tiphereth_8-01</VoiceFile>
+          <Content>No sé si los libros pueden quemarse en este lugar, pero no se ve muy bien.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Gebura_4</VoiceFile>
+          <Content>... Vale.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Roland_4</VoiceFile>
+          <Content>Ella parece más abierta a las palabras de Tiph que a las tuyas.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Chessed_5-02</VoiceFile>
+          <Content>Estoy acostumbrado a eso~</Content>
+        </Dialog>
+        <Dialog ID="24" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Netzach_4-01</VoiceFile>
+          <Content>Eh, no es como nos reuniéramos de esta forma a menudo... ¿Por qué no toman algunas bebidas antes de irse?</Content>
+        </Dialog>
+        <Dialog ID="25" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Tiphereth_9-03</VoiceFile>
+          <Content>¡Uf, eres fastidio! ¡¡Tú nunca, pero nunca me verás beber contigo!!</Content>
+        </Dialog>
+        <Dialog ID="26" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Tiphereth_10-03</VoiceFile>
+          <Content>Solo estaba comenzando a advertirte, pero ahora estás comenzando a desagradarme de nuevo. ¡Quizás reemplazarte era la mejor opción!</Content>
+        </Dialog>
+        <Dialog ID="27" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Netzach_5</VoiceFile>
+          <Content>Hombre, son palabras muy duras...</Content>
+        </Dialog>
+        <Dialog ID="28" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Chessed_6</VoiceFile>
+          <Content>No te preocupes demasiado, Netzie~ Ella realmente no quiere decir eso~</Content>
+        </Dialog>
+        <Dialog ID="29" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Chessed_7-01</VoiceFile>
+          <Content>Tenemos cosas que hacer arriba. Gracias por la oferta, pero no~</Content>
+        </Dialog>
+        <Dialog ID="30" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Angela_1</VoiceFile>
+          <Content>Puedo escucharlos gritar por todo el edificio.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Yesod_1-01</VoiceFile>
+          <Content>¿De qué se trata todo este alboroto?</Content>
+        </Dialog>
+        <Dialog ID="32" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Roland_5</VoiceFile>
+          <Content>... Eh, nada importante, solo estamos reforzando nuestros lazos.</Content>
+        </Dialog>
+        <Dialog ID="33" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Yesod_2-01</VoiceFile>
+          <Content>... Ese es el motivo de que vea tantas latas tiradas por el piso.</Content>
+        </Dialog>
+        <Dialog ID="34" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Roland_6</VoiceFile>
+          <Content>Hahaa...</Content>
+        </Dialog>
+        <Dialog ID="35" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Tiphereth_11-01</VoiceFile>
+          <Content>¿Qué están haciendo los dos juntos?</Content>
+        </Dialog>
+        <Dialog ID="36" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Angela_2</VoiceFile>
+          <Content>Me pidió que encontrara un libro que necesitaba.</Content>
+        </Dialog>
+        <Dialog ID="37" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Yesod_3-01</VoiceFile>
+          <Content>Me figuraba que un libro del Piso de Lenguaje podría ser buen material suplementario, así que íbamos para allá.</Content>
+        </Dialog>
+        <Dialog ID="38" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Gebura_5</VoiceFile>
+          <Content>Oh, ¿es así? Supongo que debería irme. Gracias por las bebidas, Netzach. La historia que me contaste fue muy interesante.</Content>
+        </Dialog>
+        <Dialog ID="39" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Gebura_7</VoiceFile>
+          <Content>Entonces, Yesod. ¿Qué libro querías?</Content>
+        </Dialog>
+        <Dialog ID="40" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Jefe Bibliotecario - Arte</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Netzach_6</VoiceFile>
+          <Content>Ella no nos regañó esta vez.</Content>
+        </Dialog>
+        <Dialog ID="41" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep7_Tiphereth_12</VoiceFile>
+          <Content>Me hubiera encantado verlo...</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Chitchat 8</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Biblioteca – Piso de Religión</PlaceName>
+        <Dialog ID="0" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Tiphereth_1</VoiceFile>
+          <Content>Aquí están los libros que me pediste.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Jefa Bibliotecaria - Historia</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Malkuth_1</VoiceFile>
+          <Content>¡Eh Tiphy! ¡Eh Roland! ¿Qué los trae aquí?</Content>
+        </Dialog>
+        <Dialog ID="2" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Roland_1</VoiceFile>
+          <Content>Nada importante. Estos libros parecían demasiado pesados para que ella los llevara por su cuenta. Aunque... ya estoy llevando un montón de libros por mi cuenta. ¿Qué más quiere este viejo...?</Content>
+        </Dialog>
+        <Dialog ID="3" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Hokma_1</VoiceFile>
+          <Content>No es exactamente lo más apropiado de decir en frente de la persona a la que te estás refiriendo, ¿no es así?</Content>
+        </Dialog>
+        <Dialog ID="4" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Roland_2</VoiceFile>
+          <Content>... ¿Y desde cuándo empezaste a dirigirte a mí tan cortésmente?</Content>
+        </Dialog>
+        <Dialog ID="5" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Hokma_2</VoiceFile>
+          <Content>Simplemente deseo leer muchos libros. Preferiría no pasar mi tiempo sin hacer nada.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Roland_3</VoiceFile>
+          <Content>Vamos a ver... ¿Qué tipo de libros nuestro residente geriátrico quiere leer tanto que le pidió a Tiphereth que los trajera?</Content>
+        </Dialog>
+        <Dialog ID="7" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Roland_4</VoiceFile>
+          <Content>“Continuidad de la Vida” ...“Tecnología de Bioingeniería”... Esto viene de una estantería de biología.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Tiphereth_2</VoiceFile>
+          <Content>El otro día el tema era la química.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Hokma_3</VoiceFile>
+          <Content>No te hubiera hecho pasar por tantos problemas si hubiera sabido que me traerías tantos libros... Te debo mucha gratitud por tu continua asistencia, joven señorita.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Tiphereth_3</VoiceFile>
+          <Content>Pensaba pedir ayuda... Pero Roland vino y me dio una mano, así que elegí no hacerlo.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Tiphereth_4</VoiceFile>
+          <Content>No esperaba que me preguntaras cosas como esta, Sr. Hokma. Pensé que ya sabias todo esto.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Jefe Bibliotecario - Religión</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Hokma_4</VoiceFile>
+          <Content>Estoy leyéndolos múltiples veces para que el conocimiento no se vaya de mi mente.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Yesod_1</VoiceFile>
+          <Content>Una lectura nunca es suficiente. Especialmente cuando quieres aprender.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Tiphereth_5</VoiceFile>
+          <Content>Entiendo lo que quieren decir. La misma frase puede darte diferentes impresiones cada vez que la lees.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Roland_5</VoiceFile>
+          <Content>Mmh... Personas cultas hablando sobre cosas cultas que no entiendo.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Roland_6</VoiceFile>
+          <Content>Por cierto, ¿qué están haciendo aquí?</Content>
+        </Dialog>
+        <Dialog ID="17" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Binah_1</VoiceFile>
+          <Content>Tenemos una más que insignificante charla relacionada con el trabajo que hacemos en este lugar.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Jefa Bibliotecaria - Historia</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Malkuth_2</VoiceFile>
+          <Content>Eso es lo que estábamos haciendo. ¡Mientras te dedicas al trabajo, apilas todo tipo de sentimientos!</Content>
+        </Dialog>
+        <Dialog ID="19" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Roland_7</VoiceFile>
+          <Content>... ¡¿Eso significa que se estaban quejando de su jefa?!</Content>
+        </Dialog>
+        <Dialog ID="20" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Roland_8</VoiceFile>
+          <Content>Escuchen, Angela puede pretender que no lo hace, pero ella ve todo lo que pasa en la Biblioteca... Incluso ahora, ella podría estar escuchando esta conversación.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Roland_9</VoiceFile>
+          <Content>Y entonces ella aparecerá por aquí como si no supiera nada y...</Content>
+        </Dialog>
+        <Dialog ID="22" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Tiphereth_6</VoiceFile>
+          <Content>¿No eres tú el que está hablando de su jefa a su espalda?</Content>
+        </Dialog>
+        <Dialog ID="23" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Jefa Bibliotecaria - Historia</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Malkuth_3</VoiceFile>
+          <Content>La mayoría de lo que hablábamos era sobre los invitados. Mmm... Oh, verdad, ¡Yesod también se quejó sobre Angela!</Content>
+        </Dialog>
+        <Dialog ID="24" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Yesod_2</VoiceFile>
+          <Content>Malkuth, no digas cosas que pueden causar confusión.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Yesod_3</VoiceFile>
+          <Content>Mi queja era simplemente sobre las pilas de libros en los pasillos que están desordenados.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Jefa Bibliotecaria - Historia</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Malkuth_4</VoiceFile>
+          <Content>Digo, ¿básicamente te estás quejando de que no te gusta cómo está organiza la Biblioteca, verdad?</Content>
+        </Dialog>
+        <Dialog ID="27" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Jefe Bibliotecario - Teconología</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Yesod_4</VoiceFile>
+          <Content>La responsabilidad de eso recae en todos nosotros. No estaba apuntando particularmente a Angela.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Binah_2</VoiceFile>
+          <Content>Aun así, se hacen grandes esfuerzos para recibir constantemente a una variedad de invitados y eso es digno de admiración.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Binah_3</VoiceFile>
+          <Content>Eso se extiende a ti también.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch100_Smallstory_ep8_Roland_11</VoiceFile>
+          <Content>Bueno, estoy bastante acostumbrado a esto, así que no es para tanto.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Chitchat 9</EpisodeName>
+      <Place>
+        <PlaceName>Localización: La Biblioteca – Piso de Filosofía</PlaceName>
+        <Dialog ID="0" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Chessed_1</VoiceFile>
+          <Content>Lo siento, pero el café sigue siendo el rey de todas las bebidas~</Content>
+        </Dialog>
+        <Dialog ID="1" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Binah_1</VoiceFile>
+          <Content>Es una lástima saber que vivirás toda tu vida teniendo un gusto tan lamentable. Quizás tu lengua se ha paralizado por el fuerte olor y esencia de esa bebida.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Angela_1</VoiceFile>
+          <Content>No estoy segura de si estoy en una Biblioteca o en un café.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Hod_1</VoiceFile>
+          <Content>Oh, es Angela. ¿Qué estás haciendo aquí?</Content>
+        </Dialog>
+        <Dialog ID="4" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Angela_2</VoiceFile>
+          <Content>... Solo estaba caminando para usar el poco tiempo libre que tengo.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Angela_3</VoiceFile>
+          <Content>¿Qué tal ustedes? ¿Están discutiendo sobre algún libro o algo?</Content>
+        </Dialog>
+        <Dialog ID="6" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Binah_2</VoiceFile>
+          <Content>Mientras esa actividad también tiene mi interés... En este momento, estamos teniendo una conversación amigable entre Jefes Bibliotecarios.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Chessed_2</VoiceFile>
+          <Content>Fuimos arrastrados aquí por sus Asistentes~</Content>
+        </Dialog>
+        <Dialog ID="8" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Binah_3</VoiceFile>
+          <Content>Suena lamentable si lo pones de esa forma.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Angela_4</VoiceFile>
+          <Content>¿Los Asistentes Bibliotecarios?</Content>
+        </Dialog>
+        <Dialog ID="10" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Chessed_3</VoiceFile>
+          <Content>Mmm~ A veces visitan mi piso por una taza de café. No en todos los pisos se tiene el hábito de disfrutar bebidas finas.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Chessed_4</VoiceFile>
+          <Content>Estaba tomando algo de café con Hod y Gebura~ Entonces fuimos traídos aquí, diciendo que les gustaría devolver el favor. ¿No es una sorpresa?</Content>
+        </Dialog>
+        <Dialog ID="12" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Gebura_1</VoiceFile>
+          <Content>Debí haberme dado cuenta que eran de ella por el color de sus atuendos...</Content>
+        </Dialog>
+        <Dialog ID="13" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Angela_5</VoiceFile>
+          <Content>Suena como que están en términos amigables con los Asistentes Bibliotecarios.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Gebura_2</VoiceFile>
+          <Content>Son nuestros compañeros de equipo, no hay necesidad de ser fríos con ellos.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Chessed_5</VoiceFile>
+          <Content>Es correcto~ Por cierto, Angela, ¿tienes un minuto?</Content>
+        </Dialog>
+        <Dialog ID="16" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Angela_6</VoiceFile>
+          <Content>Quizás. ¿Por qué lo preguntas?</Content>
+        </Dialog>
+        <Dialog ID="17" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Chessed_6</VoiceFile>
+          <Content>Me preguntaba si podrías quedarte para una taza de té.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Chessed_7</VoiceFile>
+          <Content>Ya que estás aquí, ¿por qué no te sirves~? No es café; solo traje el mío.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Hod_2</VoiceFile>
+          <Content>No solemos tener la oportunidad de hablar contigo a menudo.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Angela_7</VoiceFile>
+          <Content>... Bien, aceptaré tu oferta.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Angela_8</VoiceFile>
+          <Content>Los otros Asistentes también están bebiendo té.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Binah_4</VoiceFile>
+          <Content>No seas muy dura con ellos. Momentos de relajación como estos son necesarios de vez en cuando.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Jefa Bibliotecaria - Filosofía</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Binah_5</VoiceFile>
+          <Content>Todos son trabajadores ocupados, corriendo para terminar el trabajo.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Chessed_8</VoiceFile>
+          <Content>Bueno, incluso cuando estamos juntos, eso no significa que estemos todos cómodos con el otro~</Content>
+        </Dialog>
+        <Dialog ID="25" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Hod_3</VoiceFile>
+          <Content>Pero, pienso que es maravilloso que podamos reunirnos cara a cara en primer lugar.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Angela_10</VoiceFile>
+          <Content>... Es desafortunado que no pueda probar u oler el té que te has molestado en prepararme.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Hod_4</VoiceFile>
+          <Content>Pienso que absorber esta atmosfera es lo suficientemente bueno, ¿no crees?</Content>
+        </Dialog>
+        <Dialog ID="28" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Chessed_9</VoiceFile>
+          <Content>Lo es, tan bueno como podría ser reunirnos juntos la próxima vez~</Content>
+        </Dialog>
+        <Dialog ID="29" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Angela_11</VoiceFile>
+          <Content>... Gracias por la conversación. Me marcharé ahora.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Chessed_10</VoiceFile>
+          <Content>Ven a mi piso cuando quieras~ Roland nos visita ocasionalmente, así que siéntete libre de venir con él si no quieres venir por tu cuenta~</Content>
+        </Dialog>
+        <Dialog ID="31" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Angela_12</VoiceFile>
+          <Content>Lo consideraré si tengo tiempo libre más tarde.</Content>
+        </Dialog>
+        <Dialog ID="32" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Hod_5</VoiceFile>
+          <Content>¿Nos volverá a visitar Angela?</Content>
+        </Dialog>
+        <Dialog ID="33" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <VoiceFile>ch100_Smallstory_ep9_Chessed_11</VoiceFile>
+          <Content>Tengo la corazonada de que sí~</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+</ScenarioRoot>

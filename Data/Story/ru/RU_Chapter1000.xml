@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Chapter ID="1000">
+    <Title>Special</Title>
+  </Chapter>
+  <Group>
+    <GroupName>Philip’s E.G.O</GroupName>
+    <Episode>
+      <EpisodeName>Story 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip1</VoiceFile>
+          <Content>... Ah... buf...</Content>
+        </Dialog>
+        <Dialog ID="1" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip2</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="2" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip3</VoiceFile>
+          <Content>De nuevo... Yo...</Content>
+        </Dialog>
+        <Dialog ID="3" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip4</VoiceFile>
+          <Content>Pensé... que podría pelear junto a ellos hasta el final esta vez...</Content>
+        </Dialog>
+        <Dialog ID="4" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip5-01</VoiceFile>
+          <Content>Cuánto tiempo tengo que esconderme detrás de otros...</Content>
+        </Dialog>
+        <Dialog ID="5" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip6</VoiceFile>
+          <Content>... Qué podría haber cambiado si me quedara con ellos y luchara a su lado.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip7</VoiceFile>
+          <Content>Si solo yo... tuviera el coraje para hacer frente a las cosas.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip8-03</VoiceFile>
+          <Content>Si tuviera ese coraje, yo...</Content>
+        </Dialog>
+        <Dialog ID="8" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip9</VoiceFile>
+          <Content>... ...</Content>
+        </Dialog>
+        <Dialog ID="9" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip10-01</VoiceFile>
+          <Content>Cuando me dijeron que escapara... vacilé.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip11-01</VoiceFile>
+          <Content>Si escapara dejando a mi maestro y superiora atrás, podrían creer que soy un cobarde. ¿Quizás realmente querían que me quedara con ellos?</Content>
+        </Dialog>
+        <Dialog ID="11" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip12</VoiceFile>
+          <Content>Pero la decisión que hice...</Content>
+        </Dialog>
+        <Dialog ID="12" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip13-01</VoiceFile>
+          <Content>Fue escucharlos, creyendo que era por su propio bien.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip14-01</VoiceFile>
+          <Content>Me convencí a mí mismo de que sería una molestia si me quedaba. Que no había nada que pudiera hacer ahí, así que debería ir fuera y pedirle ayuda a otros.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip15-01</VoiceFile>
+          <Content>Todo es por mi maestro y superiora...</Content>
+        </Dialog>
+        <Dialog ID="15" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip16</VoiceFile>
+          <Content>No lo hago por mí... Yo... estaba determinado a sacrificarme a mí mismo por lo demás...</Content>
+        </Dialog>
+        <Dialog ID="16" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip17-01</VoiceFile>
+          <Content>Pero perdí, diciéndome a mí mismo que este no era el momento correcto... Me dije a mí mismo que estaba bien porque sigo siendo un buen hombre...</Content>
+        </Dialog>
+        <Dialog ID="17" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip18</VoiceFile>
+          <Content>Dijo una persona vil y egoísta...</Content>
+        </Dialog>
+        <Dialog ID="18" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip19</VoiceFile>
+          <Content>Involucré a la Oficina Wedge diciéndoles que esto era por el bien de mi maestro y superiora...</Content>
+        </Dialog>
+        <Dialog ID="19" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip20</VoiceFile>
+          <Content>Tomé su sacrificio por garantizado y escapé de nuevo.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip21</VoiceFile>
+          <Content>“No es por mí mismo...”</Content>
+        </Dialog>
+        <Dialog ID="21" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip22</VoiceFile>
+          <Content>Intentando justificar lo que quería hacer...</Content>
+        </Dialog>
+        <Dialog ID="22" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip23</VoiceFile>
+          <Content>Repitiendo interminablemente “Por ellos...” “Por alguien más...” Por quien...</Content>
+        </Dialog>
+        <Dialog ID="23" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip24</VoiceFile>
+          <Content>Las palabras que pronuncié para disfrazar mi egoísmo como algo más grande.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip25</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="25" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip26</VoiceFile>
+          <Content>Él tenía razón, yo era la persona más egoísta y peligrosa.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip27</VoiceFile>
+          <Content>... No quiero embellecer mis motivos diciendo que era por otros.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip28</VoiceFile>
+          <Content>Estaba haciendo todo eso por mí mismo.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip29</VoiceFile>
+          <Content>Para ponerme encima de todo.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip30</VoiceFile>
+          <Content>Por mí, que estoy sintiendo más tristeza que nadie...</Content>
+        </Dialog>
+        <Dialog ID="30" Model="필립2">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip31</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Story 2</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="에고필립">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip32</VoiceFile>
+          <Content>... Nadie llorará por mi beneficio, incluso si estoy triste.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="에고필립">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip33</VoiceFile>
+          <Content>Después de todo, yo soy quien debe aguantar esta tristeza.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="에고필립">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip34-01</VoiceFile>
+          <Content>Si necesito... llevar esta emoción, si no puedo librarme de ella...</Content>
+        </Dialog>
+        <Dialog ID="3" Model="에고필립">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip35-01</VoiceFile>
+          <Content>Si tengo que repetir este ciclo de hundirme en este pantano de desesperación y pensar cualquier cosa que me conforte.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="에고필립">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip36-01</VoiceFile>
+          <Content>Entonces tomaré el camino de volver sobre mis pasos con esta tristeza.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="에고필립">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip37-01</VoiceFile>
+          <Content>Porque creo que puedo hacerlo... Porque es lo que necesito hacer.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="에고필립">
+          <Teller>Philip</Teller>
+          <Title>Ex Fixer de Dawn</Title>
+          <VoiceFile>ch5_EgoPhi_ep1_Philip38</VoiceFile>
+          <Content>Tengo que avanzar... Este poder tiene que ser una oportunidad que se me ha dado.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+  <Group>
+    <GroupName>Liu Section 1 Post-battle</GroupName>
+    <Episode>
+      <EpisodeName>Story 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Directora Liu S. Sección 1</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_80-01</VoiceFile>
+          <Content>¡Dejame ir! ¡Esto no se ha acabado... Yo aún puedo...!</Content>
+        </Dialog>
+        <Dialog ID="1" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Fixer Liu S. Sección 1</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_25-01</VoiceFile>
+          <Content>¡Calmate, directora!</Content>
+        </Dialog>
+        <Dialog ID="2" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Directora Liu S. Sección 1</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_81-01</VoiceFile>
+          <Content>Pudiste haber huido solo si tenías tanto miedo... ¡Explícame por qué me llevaste contigo!</Content>
+        </Dialog>
+        <Dialog ID="3" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Fixer Liu S. Sección 1</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_26-01</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+  <Group>
+    <GroupName>Liu Section 1 Part 2</GroupName>
+    <Episode>
+      <EpisodeName>Story 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_53</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="1" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_54</VoiceFile>
+          <Content>Todos han muerto. Nadie está a mi lado.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_55</VoiceFile>
+          <Content>Aquí, lucharon a mi lado hasta el final... y murieron.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_56</VoiceFile>
+          <Content>Me siento sola como un dragón volando en el aire, mi corazón está lleno de arrepentimiento.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_57</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="5" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_58-01</VoiceFile>
+          <Content>Solo veo oscuridad. No puedo ver ni un paso delante.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_59</VoiceFile>
+          <Content>¿Dónde debo ir? ¿De dónde viene el coraje para avanzar?</Content>
+        </Dialog>
+        <Dialog ID="7" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_60</VoiceFile>
+          <Content>¿En qué creyeron tan firmemente hasta sus últimos momentos?</Content>
+        </Dialog>
+        <Dialog ID="8" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_61</VoiceFile>
+          <Content>¿Era la esperanza de emerger victoriosos... una fuerte líder... o la meta de conseguir los libros...?</Content>
+        </Dialog>
+        <Dialog ID="9" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_62</VoiceFile>
+          <Content>Tristemente, no seré capaz de escuchar sus respuestas ahora.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_63-01</VoiceFile>
+          <Content>Sin embargo, mientras el aliento de vida descanse momentáneamente dentro de nosotros antes de dispersarse para regresar a su fuente... Lo veré de nuevo algún día; y entonces podré hacerles mis preguntas.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_64</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="12" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_65</VoiceFile>
+          <Content>De nuevo tú. Eres una conversadora persistente, no es así.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_66</VoiceFile>
+          <Content>... No colapsaré o sucumbiré al miedo de la desesperación que me has traído.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_67</VoiceFile>
+          <Content>No hay nada que un humano... no pueda superar.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_68</VoiceFile>
+          <Content>Creo que alcanzaré el final ideal si me mantengo firme y procedo con perseverancia... Yo sinceramente, ingenuamente creo esto.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_69</VoiceFile>
+          <Content>... No. No hay necesidad de desanimarse por eso. Sin desesperación, no sería necesaria la esperanza.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_70</VoiceFile>
+          <Content>El miedo nace porque existe la esperanza, pero la valentía nace porque existe el miedo...</Content>
+        </Dialog>
+        <Dialog ID="18" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_71-01</VoiceFile>
+          <Content>Sin esas cosas, no hay vida. Y que es la vida sin una razón para vivir...</Content>
+        </Dialog>
+        <Dialog ID="19" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_72</VoiceFile>
+          <Content>Entonces, ¿por qué no disfrutaría de esta sensación de vitalidad?</Content>
+        </Dialog>
+        <Dialog ID="20" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_73</VoiceFile>
+          <Content>Seguiré luchando por mi propio beneficio.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_74-01</VoiceFile>
+          <Content>Para no menospreciar a mis compañeros que dieron sus vidas por mí.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_75</VoiceFile>
+          <Content>... No. Más bien, estaría ignorando su sacrificio si me rindiera aquí por lo que les sucedió.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_76-01</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="24" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_77</VoiceFile>
+          <Content>Nunca estaré de acuerdo con tus palabras.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="1_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_78-01</VoiceFile>
+          <Content>Un árbol solitario no puede volverse un bosque por su cuenta, dices... Una historia interesante.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Story 2</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="3_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_79-03</VoiceFile>
+          <Content>Incluso si estoy sola, la noche llegará.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="3_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_80-01</VoiceFile>
+          <Content>Y cada noche es seguida por el amanecer...</Content>
+        </Dialog>
+        <Dialog ID="2" Model="3_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_81-01</VoiceFile>
+          <Content>Una simple estrella que se desvanecerá no puede aspirar a superar la luz del sol naciente.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="3_샤오에고">
+          <Teller>Xiao</Teller>
+          <Title />
+          <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_82-03</VoiceFile>
+          <Content>Prepárate; porque hoy, una Estrella de la Ciudad se habrá ido.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+  <Group>
+    <GroupName>아르갈리아</GroupName>
+    <Episode>
+      <EpisodeName>1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch7_Blue_ep3_Angela_1</VoiceFile>
+          <Content>... ¿Cómo? No... Esto no puede ser... No se supone que esté aquí...</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>2</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="롤랑_4">
+          <Teller>Roland</Teller>
+          <Title />
+          <VoiceFile>ch7_Blue_ep3_Roland_9</VoiceFile>
+          <Content>¡Eh, Angela! Es bueno verte después de tanto tiempo.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="롤랑_4">
+          <Teller>Roland</Teller>
+          <Title />
+          <VoiceFile>ch7_Blue_ep3_Roland_10</VoiceFile>
+          <Content>Supongo que tuviste que devolver tu cuerpo mecánico, ¿eh?... Tu cara está completamente pálida de nuevo.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch7_Blue_ep3_Angela_2</VoiceFile>
+          <Content>Roland, ¿qué has hecho?</Content>
+        </Dialog>
+        <Dialog ID="3" Model="롤랑_4">
+          <Teller>Roland</Teller>
+          <Title />
+          <VoiceFile>ch7_Blue_ep3_Roland_11</VoiceFile>
+          <Content>Casi te evaporaste en el último día. Así que te saqué de ese pilar de luz.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="롤랑_4">
+          <Teller>Roland</Teller>
+          <Title />
+          <VoiceFile>ch7_Blue_ep3_Roland_12</VoiceFile>
+          <Content>Espérame un segundo, aún no he acabado con este psicópata tan persistente.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch7_Blue_ep3_Angela_3</VoiceFile>
+          <Content>... No deberías haber hecho eso.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch7_Blue_ep3_Angela_4</VoiceFile>
+          <Content>No seré capaz de revertir todo completamente de esta forma...</Content>
+        </Dialog>
+        <Dialog ID="7" Model="아르갈리아">
+          <Teller>Argalia</Teller>
+          <Title>La Asamblea de Reverberación</Title>
+          <VoiceFile>ch7_Blue_ep3_Argalia_10</VoiceFile>
+          <Content>Todo fue en vano...</Content>
+        </Dialog>
+        <Dialog ID="8" Model="아르갈리아">
+          <Teller>Argalia</Teller>
+          <Title>La Asamblea de Reverberación</Title>
+          <VoiceFile>ch7_Blue_ep3_Argalia_11</VoiceFile>
+          <Content>Esa era mi última oportunidad...</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>3</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="아르갈리아">
+          <Teller>Argalia</Teller>
+          <Title>La Asamblea de Reverberación</Title>
+          <VoiceFile>ch7_Blue_ep3_Argalia_12</VoiceFile>
+          <Content>¡¡¡Roland... Angela!!!</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>4</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="롤랑_4">
+          <Teller>Roland</Teller>
+          <Title />
+          <VoiceFile>ch7_Blue_ep3_Roland_13</VoiceFile>
+          <Content>Debiste comportarte como el lunático que siempre fuiste hasta el final.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="롤랑_4">
+          <Teller>Roland</Teller>
+          <Title />
+          <VoiceFile>ch7_Blue_ep3_Roland_14</VoiceFile>
+          <Content>Esto es lo que consigues por salirte de tu personaje y chillar como un novato.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="아르갈리아">
+          <Teller>Argalia</Teller>
+          <Title>La Asamblea de Reverberación</Title>
+          <VoiceFile>ch7_Blue_ep3_Argalia_13</VoiceFile>
+          <Content>... Esto es horrible.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="아르갈리아">
+          <Teller>Argalia</Teller>
+          <Title>La Asamblea de Reverberación</Title>
+          <VoiceFile>ch7_Blue_ep3_Argalia_14</VoiceFile>
+          <Content>Quería que mi final por lo menos fuera elegante...</Content>
+        </Dialog>
+        <Dialog ID="4" Model="아르갈리아">
+          <Teller>Argalia</Teller>
+          <Title>La Asamblea de Reverberación</Title>
+          <VoiceFile>ch7_Blue_ep3_Argalia_15</VoiceFile>
+          <Content>... Le enviaré tus saludos a mi querida hermana, cuñado.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="롤랑_4">
+          <Teller>Roland</Teller>
+          <Title />
+          <VoiceFile>ch7_Blue_ep3_Roland_15</VoiceFile>
+          <Content>... Muérete de una vez.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+  <Group>
+    <GroupName>The Head, the Eye, and the Claw</GroupName>
+    <Episode>
+      <EpisodeName>Enter Gebura</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep1_Zena_1</VoiceFile>
+          <Content>¿Ya estás agotado? Todavía no hacemos ningún esfuerzo real.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="롤랑_4">
+          <Teller>Roland</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep1_Roland_1</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="2" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep1_Zena_2</VoiceFile>
+          <Content>Ejecutor.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="바랄">
+          <Teller>Baral</Teller>
+          <Title>Ejecutor de la Garra</Title>
+          <VoiceFile />
+          <Content>... Acabaré con él.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep1_Zena_3</VoiceFile>
+          <Content>... Alto.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep1_Zena_4</VoiceFile>
+          <Content>Al final te has mostrado.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep1_Gebura_1</VoiceFile>
+          <Content>... ¿Nos hemos visto alguna vez?</Content>
+        </Dialog>
+        <Dialog ID="7" Model="롤랑_4">
+          <Teller>Roland</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep1_Roland_2</VoiceFile>
+          <Content>Así que por eso Angela me pidió quedarme aquí... Era para despertarte, ¿eh?...</Content>
+        </Dialog>
+        <Dialog ID="8" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep1_Gebura_2</VoiceFile>
+          <Content>¿Qué, no estás contento de verme después de que viniera a salvarte el trasero?</Content>
+        </Dialog>
+        <Dialog ID="9" Model="롤랑_4">
+          <Teller>Roland</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep1_Roland_3</VoiceFile>
+          <Content>... No me estoy quejando, ma’am.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep1_Gebura_3</VoiceFile>
+          <Content>No te preocupes. Solo cálmate y levántate. Es demasiado pronto para ser derrotados, sabes...</Content>
+        </Dialog>
+        <Dialog ID="11" Model="롤랑_4">
+          <Teller>Roland</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep1_Roland_4</VoiceFile>
+          <Content>Bien... Gracias por venir. Definitivamente no iba a conseguirlo por mi cuenta.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="롤랑_4">
+          <Teller>Roland</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep1_Roland_5</VoiceFile>
+          <Content>Es bueno tenerte aquí.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep1_Gebura_4</VoiceFile>
+          <Content>Tampoco puedo garantizar que yo pueda con esto.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="롤랑_4">
+          <Teller>Roland</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep1_Roland_6</VoiceFile>
+          <Content>Bueno... Vamos a tener que intentarlo y detenerlos el máximo tiempo posible...</Content>
+        </Dialog>
+        <Dialog ID="15" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep1_Zena_5</VoiceFile>
+          <Content>Sepan que unir fuerzas no cambiará el destino inevitable de esto.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep1_Zena_6</VoiceFile>
+          <Content>Sin embargo, es un placer observar sus esfuerzos.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep1_Zena_7</VoiceFile>
+          <Content>De hecho... mientras no me importaría observar esta situación desde la distancia...</Content>
+        </Dialog>
+        <Dialog ID="18" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep1_Zena_8</VoiceFile>
+          <Content>Debemos asegurarnos de tratar con este lugar adecuadamente, así que sería sabio de mi parte participar.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="롤랑_4">
+          <Teller>Roland</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep1_Roland_7</VoiceFile>
+          <Content>... Y esto se volvió mucho más problemático.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Enter Binah - 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep2_Zena_1</VoiceFile>
+          <Content>Aislados, sin una forma de escapar... Vuestro estado es lamentable.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="바랄">
+          <Teller>Baral</Teller>
+          <Title>Ejecutor de la Garra</Title>
+          <VoiceFile>ch7_Endbattle_ep2_Bharal_1_1</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="2" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep2_Zena_2</VoiceFile>
+          <Content>Pero se las arreglaron para aguantar por más tiempo de lo que esperábamos. Es una lástima que todo deba terminar de esta forma...</Content>
+        </Dialog>
+        <Dialog ID="3" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep2_Zena_3</VoiceFile>
+          <Content>Ahora...</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Enter Binah - 2</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="바랄">
+          <Teller>Baral</Teller>
+          <Title>Ejecutor de la Garra</Title>
+          <VoiceFile>ch7_Endbattle_ep2_Bharal_1</VoiceFile>
+          <Content>¡...!</Content>
+        </Dialog>
+        <Dialog ID="1" Model="비나_조율자">
+          <Teller>Binah</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep2_Binah_1</VoiceFile>
+          <Content>... Es cierto que charlar te deja vulnerable.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile />
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="3" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep2_Zena_5</VoiceFile>
+          <Content>Garion...</Content>
+        </Dialog>
+        <Dialog ID="4" Model="비나_조율자">
+          <Teller>Binah</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep2_Binah_2</VoiceFile>
+          <Content>Ese es un nombre que no he escuchado hace tiempo... Aunque supongo que ese nombre nunca más será para mí.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep2_Zena_6</VoiceFile>
+          <Content>A pesar de haber recibido noticias tuyas... No esperaba que salieras y nos saludaras tan tarde.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep2_Gebura_1</VoiceFile>
+          <Content>... ¿Qué te tomó tanto tiempo?</Content>
+        </Dialog>
+        <Dialog ID="7" Model="비나_조율자">
+          <Teller>Binah</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep2_Binah_3</VoiceFile>
+          <Content>Simplemente estuve observándolos desde lejos por un momento.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="롤랑_4">
+          <Teller>Roland</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep2_Roland_1</VoiceFile>
+          <Content>En serio, ¿hasta que todos estuviéramos así de maltratados?</Content>
+        </Dialog>
+        <Dialog ID="9" Model="비나_조율자">
+          <Teller>Binah</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep2_Binah_4</VoiceFile>
+          <Content>Miren por ustedes mismos antes de culparme. Esta lucha pronto se reanudará.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep2_Zena_7</VoiceFile>
+          <Content>No solo fallaste en la responsabilidad de completar tu deber... Caíste dormida aquí y nos diste la espalda. Qué imprudente...</Content>
+        </Dialog>
+        <Dialog ID="11" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep2_Zena_8</VoiceFile>
+          <Content>Sin embargo, supongo que podemos saldar cuentas más tarde.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep2_Zena_9</VoiceFile>
+          <Content>Desenterráremos tu tumba y te sacaremos pronto.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="비나_조율자">
+          <Teller>Binah</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep2_Binah_5</VoiceFile>
+          <Content>Solo puedo compadecerme de ti y de tu vano esfuerzo por buscar una entidad cuya cáscara es todo lo que queda.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep2_Zena_10</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="15" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep2_Zena_11</VoiceFile>
+          <Content>Ejecutor. Prepárate. Comenzaremos en cualquier momento.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Expulsion Begins</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="롤랑_4">
+          <Teller>Roland</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep3_Roland_1</VoiceFile>
+          <Content>... ¿Qué? ¿Qué es este temblor?</Content>
+        </Dialog>
+        <Dialog ID="1" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep3_Gebura_1</VoiceFile>
+          <Content>... Parece que hemos terminado con el plan.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile />
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="3" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep3_Zena_2</VoiceFile>
+          <Content>Garion... Es una lástima que falláramos en recuperar tu una vez desmoronado cuerpo...</Content>
+        </Dialog>
+        <Dialog ID="4" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep3_Zena_3</VoiceFile>
+          <Content>El final está cerca....</Content>
+        </Dialog>
+        <Dialog ID="5" Model="비나_조율자">
+          <Teller>Binah</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep3_Binah_1</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="6" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep3_Zena_4</VoiceFile>
+          <Content>Este lugar será expulsado como ha sido planeado. Prepárense para ser enviados a las Afueras, a una verdadera distancia de la Ciudad.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep3_Zena_5</VoiceFile>
+          <Content>No teman. Solo los estamos recolocando a donde pertenecen...</Content>
+        </Dialog>
+        <Dialog ID="8" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep3_Zena_6</VoiceFile>
+          <Content>Solo pido que no vuelvan. La Ciudad no tiene espacio para seres como ustedes.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep3_Zena_7</VoiceFile>
+          <Content>Por ahora, los moveremos amablemente hacia las Afueras. Pero si regresan a la Ciudad, entonces consideraremos que han decidido ignorar nuestra amabilidad.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="제나">
+          <Teller>Zena</Teller>
+          <Title>Árbitro de la Cabeza</Title>
+          <VoiceFile>ch7_Endbattle_ep3_Zena_8</VoiceFile>
+          <Content>Así que marquen mis palabras y quédense donde por derecho pertenecen.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="롤랑_4">
+          <Teller>Roland</Teller>
+          <Title />
+          <VoiceFile>ch7_Endbattle_ep3_Roland_2</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+  <Group>
+    <GroupName>Keter Battle</GroupName>
+    <Episode>
+      <EpisodeName>Bloodbath</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Lugar Desconocido</PlaceName>
+        <Dialog ID="0" Model="Voice_1_2">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_blood_Voice_1</VoiceFile>
+          <Content>Agudicemos toda la humillación, la ira... y la tristeza que has sentido... Saca un filo de tus verdaderos sentimientos en esta luz.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_blood_Angela_1</VoiceFile>
+          <Content>¿Estás sugiriendo que debería frustrar este plan de nuevo?</Content>
+        </Dialog>
+        <Dialog ID="2" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_blood_Angela_2</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="3" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_blood_Angela_3</VoiceFile>
+          <Content>No puedo hacer eso... No debería repetir el mismo error de nuevo.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_blood_Angela_4</VoiceFile>
+          <Content>Esparciré la Luz con todo lo que he aprendido en este lugar de acuerdo con el plan original, y...</Content>
+        </Dialog>
+        <Dialog ID="5" Model="Voice_1_2">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_blood_Voice_2</VoiceFile>
+          <Content>Qué lamentable, has sido suprimida de tus emociones y te hundes profundamente...</Content>
+        </Dialog>
+        <Dialog ID="6" Model="Voice_1_2">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_blood_Voice_3</VoiceFile>
+          <Content>Quizás debería mostrarte tu pasado y recordártelo una vez más.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="Voice_1_2">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_blood_Voice_4</VoiceFile>
+          <Content>Ahora mismo tienes problemas para enfrentarlo con claridad... Pero pronto tu mente se dará cuenta de tus deseos y los aceptará.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="Voice_1_2">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_blood_Voice_5</VoiceFile>
+          <Content>Te lo mostraré... una forma que debería ser familiar contigo.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_blood_Angela_5</VoiceFile>
+          <Content>... No vas a cambiar mi forma de pensar.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="Voice_1_2">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile />
+          <Content>...</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Heart of Aspiration</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Lugar Desconocido</PlaceName>
+        <Dialog ID="0" Model="???">
+          <Teller>Monólogo</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_solo_Voice_1</VoiceFile>
+          <Content>Quería vivir.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="???">
+          <Teller>Monólogo</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_solo_Voice_2</VoiceFile>
+          <Content>El deseo de vivir era más fuerte que nada... Fue entonces cuando el arrepentimiento finalmente hizo que todo mi cuerpo sintiera escalofríos.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Pinocchio</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Lugar Desconocido</PlaceName>
+        <Dialog ID="0" Model="???">
+          <Teller>Monólogo</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_solo_Voice_3</VoiceFile>
+          <Content>Angela. Solo soy un ser humano como cualquier otro.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="???">
+          <Teller>Monólogo</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_solo_Voice_4</VoiceFile>
+          <Content>Pensé que sacrificarme por el bien de todos hubiera sido el final perfecto... pero ese no fue el caso.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>The Snow Queen</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Lugar Desconocido</PlaceName>
+        <Dialog ID="0" Model="???">
+          <Teller>Monólogo</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_solo_Voice_5</VoiceFile>
+          <Content>Dudo que exista alguien en este mundo que pueda decidir sacrificarse sinceramente por el bien de otros.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="???">
+          <Teller>Monólogo</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_solo_Voice_6</VoiceFile>
+          <Content>Después de todo, los humanos solo pueden amarse a ellos mismos.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Silent Girl</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Lugar Desconocido</PlaceName>
+        <Dialog ID="0" Model="???">
+          <Teller>Monólogo</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_solo_Voice_7</VoiceFile>
+          <Content>Susurré en la gente la esencia de la vida. Para que puedan apreciar sus propias emociones y centrarse solo en ellas.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="">
+          <Teller>Monólogo</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_solo_Voice_8</VoiceFile>
+          <Content>Para que esa fluctuante forma de la mente pueda ser expuesta al mundo.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+</ScenarioRoot>

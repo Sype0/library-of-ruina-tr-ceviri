@@ -1,0 +1,3041 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Chapter ID="3">
+    <Title>Capítulo 3–Leyenda Urbana–‘Y saboreo la magnífica fragancia del sacrificio, que llena mi habitación.’</Title>
+  </Chapter>
+  <Group>
+    <GroupName>Prologue</GroupName>
+    <Episode>
+      <EpisodeName>Episode 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Pulgar Base Sur - Cuarto de Reunión</PlaceName>
+        <Dialog ID="0" Model="칼로">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch3_Prol_ep1_kalo1-01</VoiceFile>
+          <Content>Dime, ¿Quién piensas que será capaz de atravesar toda esta niebla al final de todo y reclamará este Nido colapsado?</Content>
+        </Dialog>
+        <Dialog ID="1" Model="카트리엘">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch3_Prol_ep1_katriel1_a-01</VoiceFile>
+          <Content>Es difícil para mí predecir el final de este evento, sotocappo. Ha pasado bastante tiempo desde que nos involucramos en una carnicería de esta magnitud.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="카트리엘">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch3_Prol_ep1_katriel2_b</VoiceFile>
+          <Content>Sin embargo, es seguro que no podemos permitir que el Índice se apodere de este lugar. </Content>
+        </Dialog>
+        <Dialog ID="3" Model="칼로">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch3_Prol_ep1_kalo2</VoiceFile>
+          <Content>Bien dicho. El Medio, el Anular y el Meñique parecen estar ocupados con sus propios asuntos como para participar, es un alivio.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="카트리엘">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch3_Prol_ep1_katriel3-01</VoiceFile>
+          <Content>¿Has escuchado de ‘La Biblioteca’, que recientemente ha ascendido a Leyenda Urbana?</Content>
+        </Dialog>
+        <Dialog ID="5" Model="카트리엘">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch3_Prol_ep1_katriel4-01</VoiceFile>
+          <Content>Quizás está estrechamente relacionada con este Nido del que nos preocupamos tanto.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="칼로">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch3_Prol_ep1_kalo3-01</VoiceFile>
+          <Content>Vamos.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="7" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland1</VoiceFile>
+          <Content>¡Parece que estamos comenzando a montar en una verdadera ola!</Content>
+        </Dialog>
+        <Dialog ID="8" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela1</VoiceFile>
+          <Content>¿Qué ola?</Content>
+        </Dialog>
+        <Dialog ID="9" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland2</VoiceFile>
+          <Content>A este ritmo, la Biblioteca será ascendida a Leyenda Urbana de su estado de Mito Urbano.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland3</VoiceFile>
+          <Content>La Ciudad está repleta de Mitos Urbanos. Es muy difícil diferenciar cuáles son reales o cuáles son creados.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland4</VoiceFile>
+          <Content>Lo que es más importante, la mayoría de Mitos Urbanos suelen ser bastante simples y aburridos cuando llegas al fondo del asunto.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland5</VoiceFile>
+          <Content>La verdadera diversión comienza cuando un Mito Urbano es reconocido como una Leyenda Urbana.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela2</VoiceFile>
+          <Content>Estás dando demasiadas vueltas.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela3</VoiceFile>
+          <Content>Si las Asociaciones nos designan con un grado mayor, podemos esperar atraer invitados de clases superiores con información más valiosa, ¿eso es lo que intentas decir?</Content>
+        </Dialog>
+        <Dialog ID="15" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland6</VoiceFile>
+          <Content>¡Exactamente! La gente habla sobre las Leyendas Urbanas; ellos comienzan a reconocernos como un fenómeno real en la Ciudad que vale la pena su atención.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland7</VoiceFile>
+          <Content>Ya ves, cuando era un niño, mi abuela solía contarme todo tipo de historias sobre las Leyendas Urbanas. Siempre me daban escalofríos.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland8</VoiceFile>
+          <Content>Ah, mierda. No quería recordar los viejos tiempos.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela4</VoiceFile>
+          <Content>¿Familia...?</Content>
+        </Dialog>
+        <Dialog ID="19" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland9</VoiceFile>
+          <Content>Sep, una familia. Aunque los perdí a todos.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela5</VoiceFile>
+          <Content>¿Así que ahora no tienes una familia?</Content>
+        </Dialog>
+        <Dialog ID="21" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland10</VoiceFile>
+          <Content>Nadie está conmigo. Me críe con mi abuela.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland11</VoiceFile>
+          <Content>No sé cómo mis padres murieron, pero mi abuela desapareció un día de la nada.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland12</VoiceFile>
+          <Content>Y entonces... no importa. No es nada especial.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela6</VoiceFile>
+          <Content>¿Qué estabas intentando decir?</Content>
+        </Dialog>
+        <Dialog ID="25" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland13</VoiceFile>
+          <Content>De todos modos, dijiste que tu meta es conseguir ese libro único que te daría tu libertad, ¿verdad?</Content>
+        </Dialog>
+        <Dialog ID="26" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela7</VoiceFile>
+          <Content>Correcto. Quiero tener la libertad de dejar este lugar y la libertad de vivir como yo misma.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela8</VoiceFile>
+          <Content>Y la libertad para olvidar...</Content>
+        </Dialog>
+        <Dialog ID="28" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland14</VoiceFile>
+          <Content>Entonces, ¿la libertad es el único motivo por el que intentas conseguir todos estos libros?</Content>
+        </Dialog>
+        <Dialog ID="29" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela9</VoiceFile>
+          <Content>Solo la mitad.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela10</VoiceFile>
+          <Content>Durante mi tiempo viviendo bajo tierra, solo pude ver fragmentos de información del mundo exterior.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela11</VoiceFile>
+          <Content>He visto y escuchado las mismas historias una y otra vez.</Content>
+        </Dialog>
+        <Dialog ID="32" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela12</VoiceFile>
+          <Content>Ahora quiero escuchar historias nuevas. Quiero ver caras nuevas.</Content>
+        </Dialog>
+        <Dialog ID="33" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela13</VoiceFile>
+          <Content>Ese es también el motivo de que esté buscando el libro que contiene todo sobre el mundo.</Content>
+        </Dialog>
+        <Dialog ID="34" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela14</VoiceFile>
+          <Content>Y una pequeña venganza al mismo tiempo.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland15</VoiceFile>
+          <Content>... Venganza, ¿eh? ¿Por qué motivo?</Content>
+        </Dialog>
+        <Dialog ID="36" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela15</VoiceFile>
+          <Content>Me estoy vengando de la persona abominable y el mundo que me hicieron ser como soy.</Content>
+        </Dialog>
+        <Dialog ID="37" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela16</VoiceFile>
+          <Content>Solo después de haber destruido completa y cuidadosamente todo por lo que soñaban, entonces seré completamente libre.</Content>
+        </Dialog>
+        <Dialog ID="38" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland16</VoiceFile>
+          <Content>... ¿Así que eventualmente conseguirás esa libertad y venganza que quieres si seguimos el camino que nos guía la Invitación roja?</Content>
+        </Dialog>
+        <Dialog ID="39" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela17</VoiceFile>
+          <Content>Siendo precisa, me guiará al libro que me dejará conseguir esas cosas.</Content>
+        </Dialog>
+        <Dialog ID="40" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela18</VoiceFile>
+          <Content>No sé cómo se volverán realidad esos deseos.</Content>
+        </Dialog>
+        <Dialog ID="41" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela19</VoiceFile>
+          <Content>El libro que me completará a mí y a esta Biblioteca...</Content>
+        </Dialog>
+        <Dialog ID="42" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela20</VoiceFile>
+          <Content>Si puedo encontrar ese único libro absoluto que contiene todo lo que quiero saber, entonces todo se resolverá.</Content>
+        </Dialog>
+        <Dialog ID="43" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland17</VoiceFile>
+          <Content>Espera un segundo. ¿Ese es todo tu plan? ¿Solo encontrar el libro? ¿No sabes exactamente cómo ganarás la libertad y todo eso? </Content>
+        </Dialog>
+        <Dialog ID="44" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela21</VoiceFile>
+          <Content>Lo único que sé es que estaré completa al final de este viaje guiado por la Invitación.</Content>
+        </Dialog>
+        <Dialog ID="45" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela22</VoiceFile>
+          <Content>La Biblioteca tiene espacio infinito. Podría extraer libros infinitos de incontables invitados y guardarlos todos si quisiera.</Content>
+        </Dialog>
+        <Dialog ID="46" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela23</VoiceFile>
+          <Content>Pero simplemente conseguir libros que están llenos de basura sin un propósito claro en mente es bastante ineficiente, ¿no crees?</Content>
+        </Dialog>
+        <Dialog ID="47" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela24</VoiceFile>
+          <Content>Por eso tenemos la guía de la Invitación junto al camino que me guiará al libro que deseo obtener, como te he explicado.</Content>
+        </Dialog>
+        <Dialog ID="48" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland18</VoiceFile>
+          <Content>Digamos que consigues ese libro de alguna forma.</Content>
+        </Dialog>
+        <Dialog ID="49" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland19</VoiceFile>
+          <Content>¿Pero ni siquiera sabes qué hará que te vuelvas “completa”?</Content>
+        </Dialog>
+        <Dialog ID="50" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Prol_ep1_angela25</VoiceFile>
+          <Content>No me importa lo que me pase. Estaré satisfecha mientras obtenga resultados.</Content>
+        </Dialog>
+        <Dialog ID="51" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Prol_ep1_roland20</VoiceFile>
+          <Content>Casi da miedo lo tenaz que eres.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+  <Group>
+    <GroupName>Zwei-2</GroupName>
+    <Episode>
+      <EpisodeName>Episode 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Asociación Zwei - Rama Sur, Sección 6</PlaceName>
+        <Dialog ID="0" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora1</VoiceFile>
+          <Content>No puedes arrodillarte por siempre.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="산">
+          <Teller>San</Teller>
+          <Title>Opderador de Streetlight</Title>
+          <VoiceFile>ch3_Zwei_ep1_san1</VoiceFile>
+          <Content>Te lo suplico. Mis compañeros... están todos muertos.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora2</VoiceFile>
+          <Content>Ya lo has dicho un millón de veces. Me retumbaran mis oídos durante días.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora3</VoiceFile>
+          <Content>Mira, sé lo que sucedió. Todo tu grupo murió en un viaje a un lugar llamado ‘La Biblioteca’.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="산">
+          <Teller>San</Teller>
+          <Title>Opderador de Streetlight</Title>
+          <VoiceFile>ch3_Zwei_ep1_san2</VoiceFile>
+          <Content>Me gustaría solicitar la ayuda de Zwei. Quiero al menos poder recuperar sus libros.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora4</VoiceFile>
+          <Content>Irrumpir en las oficinas de Zwei a suplicar no es la manera correcta de hacerlo. Venga, lo sabes bastante bien.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_julia1</VoiceFile>
+          <Content>Isadora, por favor... Vamos a ayudarlo solo por una vez. ¿Podríamos al menos pedirle a nuestros superiores que revisen este caso?</Content>
+        </Dialog>
+        <Dialog ID="7" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora5</VoiceFile>
+          <Content>Julia. Sé que eres amiga de este idiota, pero aun así, no deberíamos actuar por amistad o afecto. Todo nuestro sistema colapsaría.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora6</VoiceFile>
+          <Content>La recepción estaría llena de tipos miserables, suplicando por ayuda.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora7</VoiceFile>
+          <Content>Puede que seas alguien insignificante de grado bajo, pero sigues siendo una Fixer asociada a los Zwei. Será mejor que recuerdes lo que has aprendido hoy.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_julia2</VoiceFile>
+          <Content>Pero soy responsable de este caso...</Content>
+        </Dialog>
+        <Dialog ID="11" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_julia3</VoiceFile>
+          <Content>Y la Asociación también es responsable.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora8</VoiceFile>
+          <Content>No hay ningún lugar en nuestros registros que diga que los Zwei están involucrados en este caso, no tengo idea de lo que estás hablando.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="산">
+          <Teller>San</Teller>
+          <Title>Opderador de Streetlight</Title>
+          <VoiceFile>ch3_Zwei_ep1_san3</VoiceFile>
+          <Content>Entonces así son las cosas... nos usan y luego nos dan la espalda tan fácilmente...</Content>
+        </Dialog>
+        <Dialog ID="14" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora9</VoiceFile>
+          <Content>¿Disculpa?, estás culpando a las personas equivocadas.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora10</VoiceFile>
+          <Content>Incluso si un trato como ese hubiera tomado lugar como dices, debiste haber demandado o al menos esperado una recompensa correspondiente. Así es como funcionan los tratos.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora11</VoiceFile>
+          <Content>Usaste a la Asociación tanto como la Asociación te usó a ti. No hables como si fuera una extorsión de un solo lado. </Content>
+        </Dialog>
+        <Dialog ID="17" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora12</VoiceFile>
+          <Content>Vamos, no intentes actuar como si fueras un novato. Has estado en este negocio por 8 años, deberías saber cómo funcionan las cosas a estas alturas.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_julia4</VoiceFile>
+          <Content>¡Isadora! No tenías que ser tan dura. Todos comenzamos como compañeros en una Oficina...</Content>
+        </Dialog>
+        <Dialog ID="19" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora13</VoiceFile>
+          <Content>Solo estoy frustrada. Tampoco es que quiera verlo en este estado tan lamentable.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="산">
+          <Teller>San</Teller>
+          <Title>Opderador de Streetlight</Title>
+          <VoiceFile>ch3_Zwei_ep1_san4</VoiceFile>
+          <Content>Lo siento, entiendo lo que quieres decir.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="산">
+          <Teller>San</Teller>
+          <Title>Opderador de Streetlight</Title>
+          <VoiceFile>ch3_Zwei_ep1_san5</VoiceFile>
+          <Content>Tienes razón, así es como siempre han sido las cosas... buscaré otras alternativas.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_julia5</VoiceFile>
+          <Content>San... lo siento... nunca pensé que las cosas pasarían de esta forma...</Content>
+        </Dialog>
+        <Dialog ID="23" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="24" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora14</VoiceFile>
+          <Content>Espera, mira esto. Este es el procedimiento adecuado del que hablaba.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora15</VoiceFile>
+          <Content>La Asociación Hana acaba de elevar a ‘La Biblioteca’ de Mito Urbano a Leyenda Urbana.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_julia6</VoiceFile>
+          <Content>¡Eso significa...! ¿Que nuestra asociación puede actuar oficialmente en este caso, verdad?</Content>
+        </Dialog>
+        <Dialog ID="27" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora16</VoiceFile>
+          <Content>B-bueno, aún no conocemos la postura de Zwei en este caso, así que no tengan demasiadas esperanzas, ¿vale?</Content>
+        </Dialog>
+        <Dialog ID="28" Model="산">
+          <Teller>San</Teller>
+          <Title>Opderador de Streetlight</Title>
+          <VoiceFile>ch3_Zwei_ep1_san6</VoiceFile>
+          <Content>Gracias, Isadora... De verdad que te debo una.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="산">
+          <Teller>San</Teller>
+          <Title>Opderador de Streetlight</Title>
+          <VoiceFile>ch3_Zwei_ep1_san7</VoiceFile>
+          <Content>Y me disculpo por poner mi carga encima tuyo. </Content>
+        </Dialog>
+        <Dialog ID="30" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora17</VoiceFile>
+          <Content>N-no es nada, todo lo que hice fue compilar información siguiendo el procedimiento y enviarlo a nuestros superiores.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora18</VoiceFile>
+          <Content>Ha habido muchos casos de otros Sindicatos y Oficinas cayendo víctimas de ‘La Biblioteca’, aunque la mayoría eran novatos insignificantes.</Content>
+        </Dialog>
+        <Dialog ID="32" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_julia7</VoiceFile>
+          <Content>Pero todo es gracias al increíble análisis de información de nuestra querida Isadora de la Sección 6 que pudimos trabajar tan rápidamente, ¿verdad? ¡Esa es mi chica!</Content>
+        </Dialog>
+        <Dialog ID="33" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora19</VoiceFile>
+          <Content>¡Vale, cree lo que tú quieras!</Content>
+        </Dialog>
+        <Dialog ID="34" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep1_isadora20</VoiceFile>
+          <Content>Por cierto, ¿sigues teniendo esa Invitación contigo?</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="35" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep1_roland1</VoiceFile>
+          <Content>Parece que una Asociación está a punto de hacer su movimiento. Las cosas serán diferentes a partir de ahora en adelante.</Content>
+        </Dialog>
+        <Dialog ID="36" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep1_angela1</VoiceFile>
+          <Content>¿Cuánta diferencia hace eso?</Content>
+        </Dialog>
+        <Dialog ID="37" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep1_roland2</VoiceFile>
+          <Content>Los invitados hasta ahora nos daban una visita por interés o curiosidad, pero nuestros futuros invitados tendrán una meta clara en mente involucrando a la Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="38" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep1_angela2</VoiceFile>
+          <Content>¿Qué quieres decir?</Content>
+        </Dialog>
+        <Dialog ID="39" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep1_roland3</VoiceFile>
+          <Content>Un caso oficialmente reconocido por las Asociaciones tiene una recompensa garantizada. Y el dinero atrae una horrible cantidad de atención.</Content>
+        </Dialog>
+        <Dialog ID="40" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep1_roland4</VoiceFile>
+          <Content>La escala de nuestros asuntos solo puede escalar desde aquí, nos guste o no.</Content>
+        </Dialog>
+        <Dialog ID="41" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep1_roland5</VoiceFile>
+          <Content>Nuestro nivel de amenaza o importancia aún sigue estando bastante bajo, pero aun así vendrán todo tipo de personas intentando desentrañar los misterios de este lugar mientras las Asociaciones sigan manteniendo un ojo en nosotros.</Content>
+        </Dialog>
+        <Dialog ID="42" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep1_angela3</VoiceFile>
+          <Content>Me gusta como suena eso, puedo hacer más libros valiosos gracias a eso. Aún tengo mucho que ver y aprender.</Content>
+        </Dialog>
+        <Dialog ID="43" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep1_roland6</VoiceFile>
+          <Content>Me lo he estado preguntando por un tiempo, ¿pero qué te detiene de dejar este lugar?</Content>
+        </Dialog>
+        <Dialog ID="44" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep1_angela4</VoiceFile>
+          <Content>... Estoy bajo una maldición.</Content>
+        </Dialog>
+        <Dialog ID="45" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep1_angela5</VoiceFile>
+          <Content>Una profunda y anciana maldición; eso es lo que me ha atado.</Content>
+        </Dialog>
+        <Dialog ID="46" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep1_angela6</VoiceFile>
+          <Content>Ningún ser que no sea humano puede dejar este lugar.</Content>
+        </Dialog>
+        <Dialog ID="47" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep1_angela7</VoiceFile>
+          <Content>Además, tampoco quiero dejar este lugar hasta haber completado mi venganza.</Content>
+        </Dialog>
+        <Dialog ID="48" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep1_angela8</VoiceFile>
+          <Content>No está tan mal. Además, me he estado divirtiendo bastante últimamente.</Content>
+        </Dialog>
+        <Dialog ID="49" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep1_angela9</VoiceFile>
+          <Content>He estado rodeada de cosas nuevas, no como en la prisión que estuve en mi vida pasada.</Content>
+        </Dialog>
+        <Dialog ID="50" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep1_angela10</VoiceFile>
+          <Content>Nuevas caras, acumulando conocimiento, eventos intrigantes... me gusta esta abundancia de frescura. Quiero saber más. Seguiré aprendiendo y aprendiendo. Y mientras aprenda, podría finalmente descubrirlo...</Content>
+        </Dialog>
+        <Dialog ID="51" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep1_angela11</VoiceFile>
+          <Content>... Por qué tuve que ser víctima de tal tormento...</Content>
+        </Dialog>
+        <Dialog ID="52" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep1_roland7</VoiceFile>
+          <Content>Supongo que debo ponerme a trabajar más duro. No puedo dejar este lugar mientras tú no puedas, ¿sabes?</Content>
+        </Dialog>
+        <Dialog ID="53" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep1_angela12</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="54" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep1_roland8</VoiceFile>
+          <Content>Eh, si conseguimos dejar este lugar un día, ¿qué tal si vamos a un lugar que frecuento?</Content>
+        </Dialog>
+        <Dialog ID="55" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep1_angela13</VoiceFile>
+          <Content>¿Quieres decir un restaurante?</Content>
+        </Dialog>
+        <Dialog ID="56" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep1_roland9</VoiceFile>
+          <Content>Sep. Hacen un guiso de carne demencial ahí.</Content>
+        </Dialog>
+        <Dialog ID="57" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep1_roland10</VoiceFile>
+          <Content>Uno de los secretos de ese guiso es la olla gigante personalizada que pidieron a T Corp. Hierve la carne con algo de agua solo diez segundos en esa cosa y conseguirás una carne ablandada en un rico caldo que solo podrías obtener normalmente después de hervirlo por tres días seguidos.</Content>
+        </Dialog>
+        <Dialog ID="58" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep1_roland11</VoiceFile>
+          <Content>Creando un sabor tan rico en un periodo tan corto de tiempo es lo que hace que el restaurante sea tan popular. El único problema es que los preciosos son un poco altos. Una vez gasté la mitad del pago de mi último trabajo en una sola comida. Pero valió completamente la pena.</Content>
+        </Dialog>
+        <Dialog ID="59" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep1_angela14</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="60" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep1_roland12</VoiceFile>
+          <Content>Oh, verdad, ¿Eras incapaz de comer...? Lo siento por decir tantas cosas inútiles, ma’am.</Content>
+        </Dialog>
+        <Dialog ID="61" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep1_roland13</VoiceFile>
+          <Content>Hay muchos otros lugares que te encantaría visitar, así que me aseguraré de darte un buen tour por la Ciudad, ma’am.</Content>
+        </Dialog>
+        <Dialog ID="62" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep1_angela15</VoiceFile>
+          <Content>Puedo comer, solo no puedo saborear la comida.</Content>
+        </Dialog>
+        <Dialog ID="63" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep1_angela16</VoiceFile>
+          <Content>Pero me encantaría comer como lo hace la gente si tengo la oportunidad.</Content>
+        </Dialog>
+        <Dialog ID="64" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep1_angela17</VoiceFile>
+          <Content>En cualquier caso, tenemos que terminar la tarea a mano antes que nada.</Content>
+        </Dialog>
+        <Dialog ID="65" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep1_angela18</VoiceFile>
+          <Content>Y ese guiso... lo tendré en mente.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Episode 2</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Asociación Zwei - Rama Sur, Sección 6</PlaceName>
+        <Dialog ID="0" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_isadora1</VoiceFile>
+          <Content>Tenemos una alineación para el equipo de búsqueda. Y ustedes están dentro, San, Julia.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="산">
+          <Teller>San</Teller>
+          <Title>Opderador de Streetlight</Title>
+          <VoiceFile>ch3_Zwei_ep2_san1</VoiceFile>
+          <Content>Finalmente estoy volviendo a la Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_julia1</VoiceFile>
+          <Content>Sí. Recuperaremos los libros de Mars y Lulu, así que regresemos a salvo.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_isadora2</VoiceFile>
+          <Content>No lo olvides. Mientras nuestro principal objetivo ha sido decidido como recuperar los libros de Mars y Lulu gracias a que tenemos los mismos intereses entre San y la Asociación, deberíamos intentar asegurar tanta información como sea posible. Significa que debemos recolectar tantos libros como podamos.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_julia2</VoiceFile>
+          <Content>Okay. Lo tendré en mente.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="산">
+          <Teller>San</Teller>
+          <Title>Opderador de Streetlight</Title>
+          <VoiceFile>ch3_Zwei_ep2_san2</VoiceFile>
+          <Content>Sé que es algo tonto de preguntar, pero, ¿por qué Zwei, una Asociación especializada en mantener la paz y seguridad, decidió organizar un equipo de búsqueda de todas las cosas para entrar a la Biblioteca?</Content>
+        </Dialog>
+        <Dialog ID="6" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_isadora3</VoiceFile>
+          <Content>¿Por qué viniste a rogar por ayuda en primer lugar si sabías todo eso?</Content>
+        </Dialog>
+        <Dialog ID="7" Model="산">
+          <Teller>San</Teller>
+          <Title>Opderador de Streetlight</Title>
+          <VoiceFile>ch3_Zwei_ep2_san3</VoiceFile>
+          <Content>Eso es... porque este era el único lugar con el que podía contar.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_isadora4</VoiceFile>
+          <Content>¿Qué pasa con tu hermano pequeño?</Content>
+        </Dialog>
+        <Dialog ID="9" Model="산">
+          <Teller>San</Teller>
+          <Title>Opderador de Streetlight</Title>
+          <VoiceFile>ch3_Zwei_ep2_san4</VoiceFile>
+          <Content>Mi hermano es... No importa. Una vez más, lo siento por los problemas y gracias de nuevo por ayudarme.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_julia3</VoiceFile>
+          <Content>San...</Content>
+        </Dialog>
+        <Dialog ID="11" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_isadora5</VoiceFile>
+          <Content>Mmm, por cierto, ya que tienes una Oficina afiliada, supongo que está bien decirte esto.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_isadora6</VoiceFile>
+          <Content>El fenómeno de Distorsión, clasificado como una Pesadilla Urbana. Estoy segura de que has escuchado del tema, aunque no lo hayas visto por tu cuenta, ¿verdad?</Content>
+        </Dialog>
+        <Dialog ID="13" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_isadora7</VoiceFile>
+          <Content>Es una anomalía que ha estado pasando por toda la Ciudad desde las Noches Blancas y Días Oscuros.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_isadora8</VoiceFile>
+          <Content>La frecuencia puede ser baja, pero la gente se está convirtiendo en monstruos de forma aleatoria, además de ser un verdadero dolor tratar con ellos cada vez que sucede.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="산">
+          <Teller>San</Teller>
+          <Title>Opderador de Streetlight</Title>
+          <VoiceFile>ch3_Zwei_ep2_san5</VoiceFile>
+          <Content>Sí, lo sé. ‘El Pianista’, el primer caso reportado de este fenómeno... terminó con las vidas del 80% de la población del Distrito 9.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_julia4</VoiceFile>
+          <Content>Escuché que sucedió de la nada, la Asociación Hana tuvo que mandar a uno de los ‘Colores’ de inmediato después de darse cuenta de la gravedad de la situación.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_isadora9</VoiceFile>
+          <Content>Es correcto. Y aun así no tenemos ninguna pista para poder rastrear la causa de este fenómeno.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_isadora10</VoiceFile>
+          <Content>Lo más que tenemos es la repentina desaparición de L Corp. y las ‘Noches Blancas y Días Oscuros’ que comenzaron en el Nido de la corporación.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_isadora11</VoiceFile>
+          <Content>Zwei sospecha que la Biblioteca podría ser una de las llaves para entender el Fenómeno de la Distorsión. </Content>
+        </Dialog>
+        <Dialog ID="20" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_julia5</VoiceFile>
+          <Content>Un compañero mío me contó una historia similar. Dijo que un residente en un área que estaban protegiendo se distorsionó y transformó en una bestia de cuatro patas, incluso cuando no había signos de peligro o anomalías cerca.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_julia6</VoiceFile>
+          <Content>Afortunadamente, lograron ocuparse de la criatura antes de que el conteo de muertes alcanzara los dos dígitos.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_julia7</VoiceFile>
+          <Content>Y escuché que un cliente en un restaurante se convirtió en... un monstruo sandwich devora hombres...</Content>
+        </Dialog>
+        <Dialog ID="23" Model="산">
+          <Teller>San</Teller>
+          <Title>Opderador de Streetlight</Title>
+          <VoiceFile>ch3_Zwei_ep2_san6</VoiceFile>
+          <Content>Creo que lo entiendo. El Fenómeno de Distorsión es una clara y aparente amenaza para las actividades de protección de Zwei, así que ellos esperan que la Biblioteca tenga alguna pista para resolverlo.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_isadora12</VoiceFile>
+          <Content>Es correcto. Afortunadamente, no ha habido ningún caso de este fenómeno que haya sido tan devastador como ‘El Pianista’ hasta ahora.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_isadora13</VoiceFile>
+          <Content>Parece que Zwei mantendrá un ojo en la Biblioteca por un tiempo. Aunque hay bastantes otros sospechosos que también necesitan ser investigados, así que no conseguiremos ningún Fixer de grado alto.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="산">
+          <Teller>San</Teller>
+          <Title>Opderador de Streetlight</Title>
+          <VoiceFile>ch3_Zwei_ep2_san7</VoiceFile>
+          <Content>Esta es más que suficiente ayuda. Gracias, Isadora.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_isadora14</VoiceFile>
+          <Content>Y-ya dije que solo hacía mi trabajo. No es como si te estuviera haciendo un favor ni nada. </Content>
+        </Dialog>
+        <Dialog ID="28" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_julia8</VoiceFile>
+          <Content>¡Por supuesto! También tienes mi agradecimiento, Isadora.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="산">
+          <Teller>San</Teller>
+          <Title>Opderador de Streetlight</Title>
+          <VoiceFile>ch3_Zwei_ep2_san8</VoiceFile>
+          <Content>Vamos allá.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="30" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland1</VoiceFile>
+          <Content>¿Es eso cierto?</Content>
+        </Dialog>
+        <Dialog ID="31" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela1</VoiceFile>
+          <Content>¿Qué cosa?</Content>
+        </Dialog>
+        <Dialog ID="32" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland2</VoiceFile>
+          <Content>Lo que han dicho sobre la Biblioteca. ¿Este lugar realmente está conectado con cosas como las ‘Noches Blancas y Días Oscuros’, L Corp. y el Fenómeno de Distorsión?</Content>
+        </Dialog>
+        <Dialog ID="33" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland3</VoiceFile>
+          <Content>Aunque no estoy realmente seguro de dónde estamos en la Ciudad.</Content>
+        </Dialog>
+        <Dialog ID="34" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela2</VoiceFile>
+          <Content>¿Qué harías si te dijera que lo está? </Content>
+        </Dialog>
+        <Dialog ID="35" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland4</VoiceFile>
+          <Content>Si lo dijeras... no estoy seguro de entender lo que quieres decir.</Content>
+        </Dialog>
+        <Dialog ID="36" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland5</VoiceFile>
+          <Content>Es extremadamente raro que un incidente involucre a toda la Ciudad como lo hizo las Noches Blancas y Días Oscuros.</Content>
+        </Dialog>
+        <Dialog ID="37" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland6</VoiceFile>
+          <Content>Ha habido algunos casos de Alas cayendo por su cuenta, pero aquellos solo afectaban a su propio Nido como mucho. Lo de L Corp. fue algo completamente aparte.</Content>
+        </Dialog>
+        <Dialog ID="38" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland7</VoiceFile>
+          <Content>Es como si toda la Ciudad cayera dormida por una semana.</Content>
+        </Dialog>
+        <Dialog ID="39" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela3</VoiceFile>
+          <Content>Digamos que la Biblioteca realmente está relacionada con las Noches Blancas y Días Oscuros. ¿Qué cambia eso?</Content>
+        </Dialog>
+        <Dialog ID="40" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland8</VoiceFile>
+          <Content>Nada, supongo. Mi trabajo seguiría siendo el mismo...</Content>
+        </Dialog>
+        <Dialog ID="41" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela4</VoiceFile>
+          <Content>... </Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <Dialog ID="42" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_julia9</VoiceFile>
+          <Content>Así que esta es la Biblioteca. El método de transportación es casi como una Singularidad.</Content>
+        </Dialog>
+        <Dialog ID="43" Model="산">
+          <Teller>San</Teller>
+          <Title>Opderador de Streetlight</Title>
+          <VoiceFile>ch3_Zwei_ep2_san9</VoiceFile>
+          <Content>... Sí. La directora de la Biblioteca pronto vendrá a recibirnos.</Content>
+        </Dialog>
+        <Dialog ID="44" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_julia10</VoiceFile>
+          <Content>Angela... ¿no es así?</Content>
+        </Dialog>
+        <Dialog ID="45" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela5</VoiceFile>
+          <Content>Bienvenidos, queridos invitados. Soy Angela, directora y bibliotecaria de esta Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="46" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela6</VoiceFile>
+          <Content>Pero parece que ya saben quién soy.</Content>
+        </Dialog>
+        <Dialog ID="47" Model="산">
+          <Teller>San</Teller>
+          <Title>Opderador de Streetlight</Title>
+          <VoiceFile>ch3_Zwei_ep2_san10</VoiceFile>
+          <Content>Vinimos a recuperar los libros de Mars y Lulu.</Content>
+        </Dialog>
+        <Dialog ID="48" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela7</VoiceFile>
+          <Content>En efecto, esos libros se encuentran aquí.</Content>
+        </Dialog>
+        <Dialog ID="49" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_julia11</VoiceFile>
+          <Content>Podemos conseguir los libros que queremos, o morir y convertirnos en libros nosotros mismos, ¿verdad?</Content>
+        </Dialog>
+        <Dialog ID="50" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela8</VoiceFile>
+          <Content>Es correcto. Como está escrito en la Invitación.</Content>
+        </Dialog>
+        <Dialog ID="51" Model="줄리아">
+          <Teller>Julia</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep2_julia12</VoiceFile>
+          <Content>Es como estar hablando con una pared. Es tan robótica.</Content>
+        </Dialog>
+        <Dialog ID="52" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela9</VoiceFile>
+          <Content>... Que encuentres tu libro en este lugar.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>에피소드2-종료</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela10</VoiceFile>
+          <Content>... La Biblioteca está localizada en el núcleo de las ‘Noches Blancas y Días Oscuros’.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela11</VoiceFile>
+          <Content>Retoqué la sede de L Corp, el centro de esta, para mi propio uso.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela12</VoiceFile>
+          <Content>No tengo ningún comentario que hacer sobre el Fenómeno de Distorsión que aparentemente comenzó luego de eso.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela13</VoiceFile>
+          <Content>Tampoco tengo información sobre ese fenómeno.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela14</VoiceFile>
+          <Content>Aunque tengo una corazonada.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland9</VoiceFile>
+          <Content>Whoa, eso vino de la nada...</Content>
+        </Dialog>
+        <Dialog ID="6" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela15</VoiceFile>
+          <Content>¿No tenías curiosidad hace un rato?</Content>
+        </Dialog>
+        <Dialog ID="7" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela16</VoiceFile>
+          <Content>Fui creada como una secretaria mecánica para asistir al gerente de Lobotomy Corporation. </Content>
+        </Dialog>
+        <Dialog ID="8" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela17</VoiceFile>
+          <Content>Fui diseñada para verme como una humana, sentir emociones, hacer evaluaciones y juicios basados en esas emociones.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela18</VoiceFile>
+          <Content>Es como sospechabas; nací en secreto, violando la Enmienda Ética sobre IA.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela19</VoiceFile>
+          <Content>Tiene gracia que nunca pude hacer mis propias decisiones. Tuve que leer el mismo guion una y otra vez por un millón de años, todo para el éxito de un único proyecto.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela20</VoiceFile>
+          <Content>La actuación que nunca parecía acabar terminó un día, y... y... </Content>
+        </Dialog>
+        <Dialog ID="12" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland10</VoiceFile>
+          <Content>Y los ‘Días Blancos y Noches Oscuras’ pasaron como resultado. Gracias por decírmelo.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland11</VoiceFile>
+          <Content>No sé quién vino con ese loco plan, pero gracias a ellos, el Fenómeno de Distorsión comenzó a causar estragos en la Ciudad en intervalos aleatorios.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland12</VoiceFile>
+          <Content>La gente ordinaria se convierte en monstruos de la nada. Y matan todo lo que tienen a la vista.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland13</VoiceFile>
+          <Content>Y el primer caso conocido de la Distorsión... fue una verdadera locura.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland14</VoiceFile>
+          <Content>Sucedió de la nada sin ningún signo en un Distrito que todos creían que era relativamente seguro.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland15</VoiceFile>
+          <Content>La masacre también fue un trabajo de arte.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland16</VoiceFile>
+          <Content>Fue nombrado como ‘El Pianista’ por un motivo. Qué más puedo decir. </Content>
+        </Dialog>
+        <Dialog ID="19" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela21</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="20" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland17</VoiceFile>
+          <Content>De todos modos, gracias por decirme todo eso. Debió haber sido un tema sensible para ti.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela22</VoiceFile>
+          <Content>No estás tan sorprendido como esperaba.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland18</VoiceFile>
+          <Content>Los monstruos creados por la Distorsión me daban una vibra sospechosamente similar a esta Biblioteca y sus cuidadores.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland19</VoiceFile>
+          <Content>Debiste haber pasado un montón de angustia en tu vida.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep2_roland20</VoiceFile>
+          <Content>Por cierto, lo siguiente que viene es el problema. ¿Qué hacemos para atraer a los Zwei aquí?</Content>
+        </Dialog>
+        <Dialog ID="25" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep2_angela23</VoiceFile>
+          <Content>... Puedes usar este libro. Intenté escribir la relación entre L Corp. y el Fenómeno de Distorsión. Debería ser bastante valioso para ellos bajo estas circunstancias.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Episode 3</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Asociación Zwei - Rama Sur, Sección 6</PlaceName>
+        <Dialog ID="0" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora1</VoiceFile>
+          <Content>Sí, señor. Lamento informar que San y Julia no pudieron regresar. ... Requisito apoyo adicional.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter1</VoiceFile>
+          <Content>Uf... Isadora. ¿Cuál piensas que es el propósito de la Biblioteca?</Content>
+        </Dialog>
+        <Dialog ID="2" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora2</VoiceFile>
+          <Content>Por la información que he recolectado, es la acumulación del conocimiento.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter2</VoiceFile>
+          <Content>Acumulación del conocimiento, dices...</Content>
+        </Dialog>
+        <Dialog ID="4" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora3</VoiceFile>
+          <Content>La Biblioteca simplemente ofrece un trato. No tiene influencia con el mundo exterior; solo recompensa o castiga a aquellos que han entrado.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora4</VoiceFile>
+          <Content>El ganador puede conseguir los libros que quiere y el perdedor se vuelve un libro que la Biblioteca quiere...</Content>
+        </Dialog>
+        <Dialog ID="6" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter3</VoiceFile>
+          <Content>¿Algún vínculo con el Fenómeno de Distorsión? </Content>
+        </Dialog>
+        <Dialog ID="7" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora5</VoiceFile>
+          <Content>Eso... no está claro, señor.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora6</VoiceFile>
+          <Content>Pero mi instinto sugiere que tiene que estar relacionada con el fenómeno de alguna forma.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter4</VoiceFile>
+          <Content>¿Y el motivo de eso?</Content>
+        </Dialog>
+        <Dialog ID="10" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora7</VoiceFile>
+          <Content>La Invitación a la Biblioteca, sus libros y los seres llamados Bibliotecarios que residen ahí. Todos los elementos de la Biblioteca son similares a los que hemos visto en la Distorsión.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora8</VoiceFile>
+          <Content>Una característica que tienen en común es la imposibilidad de observarlos para un análisis de sus componentes.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora9</VoiceFile>
+          <Content>No podemos realizar un análisis comparativo por ese motivo, pero la incapacidad de hacerlo en si misma puede ser considerada un rasgo en común.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter5</VoiceFile>
+          <Content>No es propio de ti hacer afirmaciones sin fundamentos, ¿no es así?</Content>
+        </Dialog>
+        <Dialog ID="14" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter6</VoiceFile>
+          <Content>La Sección 6 no se obsesionará innecesariamente con la Biblioteca. Hay demasiadas cosas inseguras para saltar a ciegas a este caso. </Content>
+        </Dialog>
+        <Dialog ID="15" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter7</VoiceFile>
+          <Content>La Asociación Zwei tiene cientos de solicitudes todos los días. Una gran cantidad de ellas se asignan a nosotros la Sección 6.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter8</VoiceFile>
+          <Content>Estoy seguro de que entiendes que tus afirmaciones no son suficientes para dejar todas esas solicitudes en favor de la Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora10</VoiceFile>
+          <Content>Lo entiendo, señor.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter9</VoiceFile>
+          <Content>Y aun así estás aquí, solicitando apoyo para investigar la Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter10</VoiceFile>
+          <Content>¿Estás segura de que no estás simplemente usando la presunta relación con la Distorsión como una excusa para conseguir tu venganza en la Biblioteca o para recuperar los libros de tus colegas?</Content>
+        </Dialog>
+        <Dialog ID="20" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora11</VoiceFile>
+          <Content>... </Content>
+        </Dialog>
+        <Dialog ID="21" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter11</VoiceFile>
+          <Content>Incluso mientras hablamos, Sindicatos como ‘El Carnaval’ están masticando las tripas de la gente al aire libre y tipos como ‘Los músicos de Bremen’ están haciendo piezas de arte moderno con ciudadanos inocentes.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter12</VoiceFile>
+          <Content>Y hay tipos incluso más locos merodeando por la Ciudad, ¿no? Y nuestro trabajo es proteger a nuestros clientes de esas sombras en la Ciudad, ¿no es así?</Content>
+        </Dialog>
+        <Dialog ID="23" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora12</VoiceFile>
+          <Content>... Tienes razón, señor.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter13</VoiceFile>
+          <Content>¿Recuerdas el eslogan de nuestra asociación?</Content>
+        </Dialog>
+        <Dialog ID="25" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora13</VoiceFile>
+          <Content>“Tu escudo”, señor.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter14</VoiceFile>
+          <Content>Exactamente. Nuestro papel es ser un escudo confiable para nuestro cliente.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter15</VoiceFile>
+          <Content>Así que no bajes ese escudo sin una buena razón, ¿lo entiendes? Puedes marcharte ahora.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora14</VoiceFile>
+          <Content>... Lo haré.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter16</VoiceFile>
+          <Content>¿Isadora?</Content>
+        </Dialog>
+        <Dialog ID="30" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora15</VoiceFile>
+          <Content>¿Sí?</Content>
+        </Dialog>
+        <Dialog ID="31" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter17</VoiceFile>
+          <Content>¿De casualidad pusiste esta Invitación en mi escritorio?</Content>
+        </Dialog>
+        <Dialog ID="32" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora16</VoiceFile>
+          <Content>No, señor. No he recibido ninguna nueva Invitación.</Content>
+        </Dialog>
+        <Dialog ID="33" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter18</VoiceFile>
+          <Content>¿Cuál es el nivel de riesgo actual de la Biblioteca...?</Content>
+        </Dialog>
+        <Dialog ID="34" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora17</VoiceFile>
+          <Content>Su nivel actual es de clase Leyenda Urbana, pero ha estado subiendo lentamente con cada nuevo reporte.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter19</VoiceFile>
+          <Content>Ahora que lo veo... El Libro de Distorsión...</Content>
+        </Dialog>
+        <Dialog ID="36" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter20</VoiceFile>
+          <Content>Han usado un cebo irresistible como este para atraer a sus víctimas, ¿no es así?</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="37" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland1</VoiceFile>
+          <Content>Las cosas han ido bastante bien gracias a tu libro. No es algo que hubiéramos podido obtener de los invitados que hemos tenido hasta ahora.</Content>
+        </Dialog>
+        <Dialog ID="38" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep3_angela1</VoiceFile>
+          <Content>Simplemente les ofrezco lo que más necesitan en el momento. Soy mejor que nadie en entender la situación y llegar con una respuesta apropiada.</Content>
+        </Dialog>
+        <Dialog ID="39" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland2</VoiceFile>
+          <Content>Precisamente, ma’am. De verdad llegaste con la solución perfecta para atraer a los Zwei.</Content>
+        </Dialog>
+        <Dialog ID="40" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland3</VoiceFile>
+          <Content>Demonios, si puedes imprimir libros de inmediato, ¿no sería genial que hicieras un montón de ellos?</Content>
+        </Dialog>
+        <Dialog ID="41" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep3_angela2</VoiceFile>
+          <Content>Solo puedo escribir libros sobre las cosas que sé. También necesito más tiempo para escribir otro.</Content>
+        </Dialog>
+        <Dialog ID="42" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland4</VoiceFile>
+          <Content>Oh, ya veo... Entonces, ¿puedo preguntar por tus publicaciones de vez en cuando?</Content>
+        </Dialog>
+        <Dialog ID="43" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep3_angela3</VoiceFile>
+          <Content>Estoy dispuesta a cooperar, ya que estás haciendo tu trabajo como mi asistente. Solo no me molestes demasiado.</Content>
+        </Dialog>
+        <Dialog ID="44" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland5</VoiceFile>
+          <Content>Seguro, ma’am~ Un mero sirviente como yo no se atrevería a cometer tal atrocidad como molestar a nuestra señora Angela.</Content>
+        </Dialog>
+        <Dialog ID="45" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep3_angela4</VoiceFile>
+          <Content>¿Piensas que funcionará?</Content>
+        </Dialog>
+        <Dialog ID="46" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland6</VoiceFile>
+          <Content>El director de una sección en una Asociación como Zwei debería ser más que suficiente para nuestro próximo paso. La información que tenga tiene que estar en un nivel completamente diferente de lo que hemos conseguido hasta ahora.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <Dialog ID="47" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter21</VoiceFile>
+          <Content>Ha pasado bastante tiempo desde la última vez que trabajé en el campo. Tú tampoco lo has hecho desde hace un tiempo, ¿no?</Content>
+        </Dialog>
+        <Dialog ID="48" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora18</VoiceFile>
+          <Content>Es correcto, señor.</Content>
+        </Dialog>
+        <Dialog ID="49" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter22</VoiceFile>
+          <Content>Si podemos resolver este caso, finalmente podremos salir de la Sección 6.</Content>
+        </Dialog>
+        <Dialog ID="50" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter23</VoiceFile>
+          <Content>Es genial el poder recolectar información sobre la Distorsión directamente desde el núcleo en lugar de mancharme las manos tratando con esos pequeños Sindicatos.</Content>
+        </Dialog>
+        <Dialog ID="51" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter24</VoiceFile>
+          <Content>Ninguno de nosotros debería pudrirse en la Sección 6 por el resto de nuestras vidas, ¿no estás de acuerdo?</Content>
+        </Dialog>
+        <Dialog ID="52" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora19</VoiceFile>
+          <Content>Sí...</Content>
+        </Dialog>
+        <Dialog ID="53" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter25</VoiceFile>
+          <Content>Podemos vengar a tus colegas, conseguir una pista al Fenómeno de la Distorsión y apuntar por una posición más alta, todo al mismo tiempo. ¿No es realmente fascinante?</Content>
+        </Dialog>
+        <Dialog ID="54" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora20</VoiceFile>
+          <Content>... Todo parece caer en su lugar demasiado convenientemente.</Content>
+        </Dialog>
+        <Dialog ID="55" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep3_angela5</VoiceFile>
+          <Content>Saludos, queridos invitados. Soy la d—</Content>
+        </Dialog>
+        <Dialog ID="56" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter26</VoiceFile>
+          <Content>Debes ser Angela. Directora y bibliotecaria de esta Biblioteca, ¿verdad?</Content>
+        </Dialog>
+        <Dialog ID="57" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep3_angela6</VoiceFile>
+          <Content>Correcto, es justo como dices.</Content>
+        </Dialog>
+        <Dialog ID="58" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter27</VoiceFile>
+          <Content>He visto reportes sobre ti, ¿es cierto que eres una máquina, no una humana?</Content>
+        </Dialog>
+        <Dialog ID="59" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep3_angela7</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="60" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter28</VoiceFile>
+          <Content>Quedarte callada no lo esconderá, chica. Una máquina debe comportarse como una máquina.</Content>
+        </Dialog>
+        <Dialog ID="61" Model="월터">
+          <Teller>Walter</Teller>
+          <Title>Director de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_walter29</VoiceFile>
+          <Content>Has llamado bastante la atención con tu pequeña Biblioteca. Es bastante problemático tener a seres que no son humanos como tú haciendo un escándalo tan grande, ¿sabes?</Content>
+        </Dialog>
+        <Dialog ID="62" Model="이사도라">
+          <Teller>Isadora</Teller>
+          <Title>Fixer de Zwei S. Sección 6</Title>
+          <VoiceFile>ch3_Zwei_ep3_isadora21</VoiceFile>
+          <Content>Señor, no pienso que debamos provocarla más...</Content>
+        </Dialog>
+        <Dialog ID="63" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep3_angela8</VoiceFile>
+          <Content>Que encuentres tu libro en este lugar.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>에피소드3-종료</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep3_angela9</VoiceFile>
+          <Content>¿Qué quiere decir con “comportarse como una máquina”?</Content>
+        </Dialog>
+        <Dialog ID="1" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland12</VoiceFile>
+          <Content>Oh, no ese tema de nuevo...</Content>
+        </Dialog>
+        <Dialog ID="2" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep3_angela10</VoiceFile>
+          <Content>Alguien que conocía amaba decir esa frase.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland13</VoiceFile>
+          <Content>Como te dije antes, las máquinas o sapientes con emociones están prohibidas. Incluso si una fuera creada, la Cabeza ha establecido las implicaciones éticas y todo eso.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland14</VoiceFile>
+          <Content>Eso significa que han establecido una respuesta sólida para la gran pregunta “¿Cómo es una máquina con emociones diferente de un humano?”.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland15</VoiceFile>
+          <Content>Su respuesta es: “Incluso si una máquina tiene emociones e inteligencia y es prácticamente idéntica a un humano en todos los aspectos, sigue siendo una máquina por nacimiento. Las máquinas siempre deben estar debajo de los humanos...”</Content>
+        </Dialog>
+        <Dialog ID="6" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland16</VoiceFile>
+          <Content>“... Por lo tanto, está prohibido crear máquinas sapientes, ya que pueden perturbar el juicio adecuado de los valores sociales. Además, todas las máquinas sapientes serán sujetas a su eliminación sin importar su propietario.”</Content>
+        </Dialog>
+        <Dialog ID="7" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland17</VoiceFile>
+          <Content>En resumen, “Las máquinas son máquinas y los humanos son humanos. Las máquinas existen solamente para servir a los humanos.” Eso es lo que dicen.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland18</VoiceFile>
+          <Content>Esa es la mentalidad que la gente de la Ciudad ha decidido tener.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep3_angela11</VoiceFile>
+          <Content>¿Qué pasa con los cerebros humanos metidos en un montón de chatarra metálica?</Content>
+        </Dialog>
+        <Dialog ID="10" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland19</VoiceFile>
+          <Content>Seguirían contando técnicamente como humanos. Algunos podrían considerarlos “profanos” y otros podrían mirarlos por encima, pero sus cerebros son naturales.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland20</VoiceFile>
+          <Content>¿Entiendes lo que quiero decir?</Content>
+        </Dialog>
+        <Dialog ID="12" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep3_angela12</VoiceFile>
+          <Content>¿Qué pasa con una copia electrónica de un cerebro humano?</Content>
+        </Dialog>
+        <Dialog ID="13" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland21</VoiceFile>
+          <Content>Eso... sería una máquina. Ya que no ha “nacido” humano.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland22</VoiceFile>
+          <Content>Siendo sincero, tampoco entiendo estos estándares.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland23</VoiceFile>
+          <Content>Supongo que el nacimiento es lo que más importa.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland24</VoiceFile>
+          <Content>Quizás en una reacción defensiva nacida de la urgencia de “preservar” la humanidad como una especie.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep3_angela13</VoiceFile>
+          <Content>... Eso es injusto.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland25</VoiceFile>
+          <Content>Nada es nunca justo en este mundo.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Zwei_ep3_angela14</VoiceFile>
+          <Content>Tienes razón, parece que todos viven con un poco de injusticia que deben soportar.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Zwei_ep3_roland26</VoiceFile>
+          <Content>Ahora si que hablas como una habitante de la Ciudad.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+  <Group>
+    <GroupName>The Stray Dogs</GroupName>
+    <Episode>
+      <EpisodeName>Episode 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Algún lugar en los Barrios Bajos</PlaceName>
+        <Dialog ID="0" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi1</VoiceFile>
+          <Content>¡Bastardos! ¡Como! ¡Tú!</Content>
+        </Dialog>
+        <Dialog ID="1" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi2</VoiceFile>
+          <Content>¡Necesitan! ¡Una! ¡Paliza!</Content>
+        </Dialog>
+        <Dialog ID="2" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi3</VoiceFile>
+          <Content>¡Mételo! ¡En! ¡Ese! ¡Pequeño! ¡Cráneo!</Content>
+        </Dialog>
+        <Dialog ID="3" Model="디노">
+          <Teller>Dino</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_dino1</VoiceFile>
+          <Content>Es suficiente, Gyeong-mi. Golpearlos hasta la muerte no nos hará ningún bien.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="디노">
+          <Teller>Dino</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_dino2</VoiceFile>
+          <Content>El Distrito 22 puede ser nuestro territorio y estos tontos que estás pulverizando pueden ser de la Sección 6 de Zwei, pero estamos hablando de una Asociación...</Content>
+        </Dialog>
+        <Dialog ID="5" Model="디노">
+          <Teller>Dino</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_dino3</VoiceFile>
+          <Content>Nos meteremos en incluso mayores problemas si los matas a todos.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi4</VoiceFile>
+          <Content>¡Walter!</Content>
+        </Dialog>
+        <Dialog ID="7" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi5</VoiceFile>
+          <Content>¡Si! ¡Solo! ¡Ese! ¡Bastardo!</Content>
+        </Dialog>
+        <Dialog ID="8" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi6</VoiceFile>
+          <Content>¡Mantuviera! ¡Su! ¡Promesa! ¡Nosotros! ¡No nos hubiéramos! ¡Metido en este lío!.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi7</VoiceFile>
+          <Content>¡Necesitábamos! ¡El! ¡Plano! ¡Del! ¡Nido! ¡De L Corp!</Content>
+        </Dialog>
+        <Dialog ID="10" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi8</VoiceFile>
+          <Content>¡Los Zwei!</Content>
+        </Dialog>
+        <Dialog ID="11" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi9</VoiceFile>
+          <Content>¡Lo tenían!</Content>
+        </Dialog>
+        <Dialog ID="12" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi10</VoiceFile>
+          <Content>¡Deberíamos! ¡Enseñarles!</Content>
+        </Dialog>
+        <Dialog ID="13" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi11</VoiceFile>
+          <Content>¡A estos! ¡Hijos de puta! ¡Una lección!</Content>
+        </Dialog>
+        <Dialog ID="14" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi12</VoiceFile>
+          <Content>De lo importante que es mantener tus promesas.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="디노">
+          <Teller>Dino</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_dino4</VoiceFile>
+          <Content>La noche caerá pronto. Los Sweeper podrían venir por nosotros en cualquier momento.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="디노">
+          <Teller>Dino</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_dino5</VoiceFile>
+          <Content>Y el Pulgar ni siquiera nos contacta.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="줄루">
+          <Teller>Zulu</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_zulu1</VoiceFile>
+          <Content>Derramamos sangre consiguiendo información de la Distorsión para ese bastardo de Walter, ¿y así es como nos paga?</Content>
+        </Dialog>
+        <Dialog ID="18" Model="디노">
+          <Teller>Dino</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_dino6</VoiceFile>
+          <Content>Esos fanáticos de la Iglesia de los Engranajes acabaron con la mitad de nuestro Sindicato.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="줄루">
+          <Teller>Zulu</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_zulu2</VoiceFile>
+          <Content>Su líder era una verdadera locura...</Content>
+        </Dialog>
+        <Dialog ID="20" Model="디노">
+          <Teller>Dino</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_dino7</VoiceFile>
+          <Content>Trabajamos un montón para asegurar los bienes de la Iglesia y para qué...</Content>
+        </Dialog>
+        <Dialog ID="21" Model="디노">
+          <Teller>Dino</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_dino8</VoiceFile>
+          <Content>Si no podemos conseguir los planos del Nido de L Corp. para el Pulgar...</Content>
+        </Dialog>
+        <Dialog ID="22" Model="줄루">
+          <Teller>Zulu</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_zulu3</VoiceFile>
+          <Content>Todo lo que nos queda es ser purgados por el Pulgar por fallar en nuestro trabajo.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="디노">
+          <Teller>Dino</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_dino9</VoiceFile>
+          <Content>No debimos haber hecho un trato con una Asociación en primer lugar.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="줄루">
+          <Teller>Zulu</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_zulu4</VoiceFile>
+          <Content>Al menos Walter era alguien sensato. Quizás algo le sucedió.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="줄루">
+          <Teller>Zulu</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_zulu5</VoiceFile>
+          <Content>Podría ser un viejo, pero sigue siendo el director de la Sección 6 de Zwei. Además, él suele dejarle el trabajo de campo a sus hombres. No tiene sentido que muriera de la nada.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="디노">
+          <Teller>Dino</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_dino10</VoiceFile>
+          <Content>Todo puede pasar.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="줄루">
+          <Teller>Zulu</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_zulu6</VoiceFile>
+          <Content>Mierda, de verdad los mataste a todos.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="디노">
+          <Teller>Dino</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_dino11</VoiceFile>
+          <Content>Esa es una opción más para nosotros.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="디노">
+          <Teller>Dino</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_dino12</VoiceFile>
+          <Content>Lo has hecho de nuevo... Ir en una ira ciega y romper sus huesos hasta dejarlos irrecononibles.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="줄루">
+          <Teller>Zulu</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_zulu7</VoiceFile>
+          <Content>¡Gyeong-mi! Incluso si eran tipos insignificantes de la Sección 6, matar a demasiados hará que la Sección 2 o 3 nos de caza.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="디노">
+          <Teller>Dino</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_dino13</VoiceFile>
+          <Content>Los Zwei podrían enviar una armada de Fixers por nosotros.</Content>
+        </Dialog>
+        <Dialog ID="32" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi13</VoiceFile>
+          <Content>... Estos hijos de perra... necesitan entender el peso de una promesa. </Content>
+        </Dialog>
+        <Dialog ID="33" Model="디노">
+          <Teller>Dino</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_dino14</VoiceFile>
+          <Content>Espero que tengas un plan de respaldo para cuando Zwei venga a “agradecernos” por la lección.</Content>
+        </Dialog>
+        <Dialog ID="34" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi14</VoiceFile>
+          <Content>Solo mira esto.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="디노">
+          <Teller>Dino</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_dino15</VoiceFile>
+          <Content>¿Un envoltorio?</Content>
+        </Dialog>
+        <Dialog ID="36" Model="줄루">
+          <Teller>Zulu</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_zulu8</VoiceFile>
+          <Content>La rumoreada Invitación a esa Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="37" Model="디노">
+          <Teller>Dino</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_dino16</VoiceFile>
+          <Content>Espera, entre los “libros del día” tienen listado... ¿El Libro de Walter? ¿Así que murió en la Biblioteca? Tenías un plan después de todo.</Content>
+        </Dialog>
+        <Dialog ID="38" Model="줄루">
+          <Teller>Zulu</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_zulu9</VoiceFile>
+          <Content>Qué... ¡Gyeong-mi!</Content>
+        </Dialog>
+        <Dialog ID="39" Model="줄루">
+          <Teller>Zulu</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_zulu10</VoiceFile>
+          <Content>¿Así que ya sabías que Walter murió en la Biblioteca y aun así pulverizaste a la Sección 6?</Content>
+        </Dialog>
+        <Dialog ID="40" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi15</VoiceFile>
+          <Content>¡Es!</Content>
+        </Dialog>
+        <Dialog ID="41" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi16</VoiceFile>
+          <Content>¡Sobre!</Content>
+        </Dialog>
+        <Dialog ID="42" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi17</VoiceFile>
+          <Content>¡Mandar! ¡Un maldito! ¡Mensaje!</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="43" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Dog_ep1_roland1</VoiceFile>
+          <Content>Los Sindicatos tienen la tendencia de matar más de lo necesario, no como los Fixers. Suelen causar problemas solo porque se sienten así.</Content>
+        </Dialog>
+        <Dialog ID="44" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Dog_ep1_roland2</VoiceFile>
+          <Content>De todos modos, ¿qué estaban intentando hacer, involucrando a los Sweepers y al Pulgar?</Content>
+        </Dialog>
+        <Dialog ID="45" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Dog_ep1_angela1</VoiceFile>
+          <Content>Conozco a los Sweepers.</Content>
+        </Dialog>
+        <Dialog ID="46" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Dog_ep1_roland3</VoiceFile>
+          <Content>¿Lo haces? Bueno, son bastante infames.</Content>
+        </Dialog>
+        <Dialog ID="47" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Dog_ep1_angela2</VoiceFile>
+          <Content>Los vi cortar humanos en piezas y usarlos como combustible. ¿También son así en la vida real?</Content>
+        </Dialog>
+        <Dialog ID="48" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Dog_ep1_roland4</VoiceFile>
+          <Content>Sep. Un Sweeper es bastante duro, pero lo que más da miedo es su poder como organización.</Content>
+        </Dialog>
+        <Dialog ID="49" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Dog_ep1_roland5</VoiceFile>
+          <Content>Salen de sus escondites todas las noches y limpian los Barrios Bajos.</Content>
+        </Dialog>
+        <Dialog ID="50" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Dog_ep1_roland6</VoiceFile>
+          <Content>No podemos ni adivinar cuantos son. Sin importar a cuantos derribamos, más se muestran la siguiente noche.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <Dialog ID="51" Model="디노">
+          <Teller>Dino</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_dino17</VoiceFile>
+          <Content>¿Piensas que podremos volver a tiempo? ¿No es un poco justo?</Content>
+        </Dialog>
+        <Dialog ID="52" Model="줄루">
+          <Teller>Zulu</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_zulu11</VoiceFile>
+          <Content>Lo es, probablemente volveremos justo a tiempo.</Content>
+        </Dialog>
+        <Dialog ID="53" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Dog_ep1_angela3</VoiceFile>
+          <Content>Saludos, queridos invitados. Soy Angela, directora y bibliotecaria de esta Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="54" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi18</VoiceFile>
+          <Content>¡Cierra la boca!</Content>
+        </Dialog>
+        <Dialog ID="55" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi19</VoiceFile>
+          <Content>Solo déjanos entrar. Estamos en un apuro.</Content>
+        </Dialog>
+        <Dialog ID="56" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Dog_ep1_angela4</VoiceFile>
+          <Content>Eres bastante impaciente, ya veo.</Content>
+        </Dialog>
+        <Dialog ID="57" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi20</VoiceFile>
+          <Content>¡Dije que te callaras!</Content>
+        </Dialog>
+        <Dialog ID="58" Model="경미">
+          <Teller>Gyeong-mi</Teller>
+          <Title>Perro Callejero</Title>
+          <VoiceFile>ch3_Dog_ep1_gyongmi21</VoiceFile>
+          <Content>Y déjanos entrar. Ahora.</Content>
+        </Dialog>
+        <Dialog ID="59" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Dog_ep1_angela5</VoiceFile>
+          <Content>Que encuentres tu libro en este lugar.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>에피소드1-종료</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Dog_ep1_roland7</VoiceFile>
+          <Content>¿No es molesto?</Content>
+        </Dialog>
+        <Dialog ID="1" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Dog_ep1_angela6</VoiceFile>
+          <Content>¿Escucharte hablar?</Content>
+        </Dialog>
+        <Dialog ID="2" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Dog_ep1_roland8</VoiceFile>
+          <Content>Quiero decir el tratar con las cosas que los invitados dicen. </Content>
+        </Dialog>
+        <Dialog ID="3" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Dog_ep1_roland9</VoiceFile>
+          <Content>Un montón de ellos no dudan en soltarte palabras duras. Estoy sorprendido de que puedas soportarlo todo.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Dog_ep1_angela7</VoiceFile>
+          <Content>Son nuestros preciosos invitados, así que es justo que los tratemos como tal.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Dog_ep1_angela8</VoiceFile>
+          <Content>Además, estoy acostumbrada a mantener a los otros complacidos en una conversación.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Dog_ep1_roland10</VoiceFile>
+          <Content>Envidio tu profesionalismo.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Dog_ep1_roland11</VoiceFile>
+          <Content>Quizás algún día deberías darle una lectura de hospitalidad a todos los propietarios de restaurantes en los Barrios Bajos. Podrían aprender una o dos cosas de ti.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Dog_ep1_roland12</VoiceFile>
+          <Content>... Pero aun así, probablemente sería mucho más fácil para ti el ser más flexible al recibir a los invitados, en lugar de fijarte con la misma actitud educada.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Dog_ep1_angela9</VoiceFile>
+          <Content>Tomaré nota de eso.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+  <Group>
+    <GroupName>Molar Office</GroupName>
+    <Episode>
+      <EpisodeName>Episode 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Plataforma WARP</PlaceName>
+        <Dialog ID="0" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain1</VoiceFile>
+          <Content>Hermana mayor, ¿has visto el mensaje de T Corp, verdad?</Content>
+        </Dialog>
+        <Dialog ID="1" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga1</VoiceFile>
+          <Content>... ¿Qué? Cuando recibimos eso...</Content>
+        </Dialog>
+        <Dialog ID="2" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga2</VoiceFile>
+          <Content>Oh, mierda, voy a vom...</Content>
+        </Dialog>
+        <Dialog ID="3" Model="미카">
+          <Teller>Mika</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_mika1</VoiceFile>
+          <Content>Tuvo una gran fiesta de bebidas con sus amigos de la misma esquina de los Barrios Bajos la última noche.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="미카">
+          <Teller>Mika</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_mika2</VoiceFile>
+          <Content>Según lo que escuché, ocuparon todo el pub y desperdiciaron toda la noche.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain2</VoiceFile>
+          <Content>Uf... ¿Cuánto bebiste esta vez?</Content>
+        </Dialog>
+        <Dialog ID="6" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga3</VoiceFile>
+          <Content>Oi Rain, mi cabeza sigue resonando con la resaca, así que deja el sermón para más tarde, ¿vale? Quizás en una hora o así.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain3</VoiceFile>
+          <Content>¿Y qué es esto? Este recibo dice...</Content>
+        </Dialog>
+        <Dialog ID="8" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain4</VoiceFile>
+          <Content>Que usaste los fondos de nuestra Oficina para pagar...</Content>
+        </Dialog>
+        <Dialog ID="9" Model="NONE">
+          <Teller> </Teller>
+          <Title> </Title>
+          <VoiceFile>ch3_WarpTrain</VoiceFile>
+          <Content />
+        </Dialog>
+        <Dialog ID="10" Model="안내방송">
+          <Teller>Anuncio de</Teller>
+          <Title>WARP Corp.</Title>
+          <VoiceFile>ch3_Molar_ep1_announcement1</VoiceFile>
+          <Content>Gracias por utilizar los servicios de WARP como siempre.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="안내방송">
+          <Teller>Anuncio de</Teller>
+          <Title>WARP Corp.</Title>
+          <VoiceFile>ch3_Molar_ep1_announcement2</VoiceFile>
+          <Content>El próximo tren partiendo es el tren WARP UW-212. </Content>
+        </Dialog>
+        <Dialog ID="12" Model="안내방송">
+          <Teller>Anuncio de</Teller>
+          <Title>WARP Corp.</Title>
+          <VoiceFile>ch3_Molar_ep1_announcement3</VoiceFile>
+          <Content>Todos los pasajeros deben revisar su pasaje y asegurarse de que están en el vagón correcto para viajar. Y recuerda: Observa. Avísanos. Todos estaremos bien.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="미카">
+          <Teller>Mika</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_mika3</VoiceFile>
+          <Content>Parece que es nuestro turno.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga4</VoiceFile>
+          <Content>Siempre me siento enferma cuando me subo a los trenes WARP.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain5</VoiceFile>
+          <Content>Solo no hagas el ridículo como la última vez.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="미카">
+          <Teller>Mika</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_mika4</VoiceFile>
+          <Content>Por cierto, esta solicitud es bastante inesperada. Una de R Corp. de todos los sitios.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain6</VoiceFile>
+          <Content>¿No es algo demasiado peligroso si R Corp. tuvo que solicitarle a otros hacer el trabajo?</Content>
+        </Dialog>
+        <Dialog ID="18" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain7</VoiceFile>
+          <Content>Podrían estar usando una Oficina sin nombre como la nuestra para probar las aguas antes de ir por ellos mismos.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga5</VoiceFile>
+          <Content>Dime, ¿quién es el cliente de esa solicitud?</Content>
+        </Dialog>
+        <Dialog ID="20" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain8</VoiceFile>
+          <Content>¿La mismísima capitana del Equipo Conejo?</Content>
+        </Dialog>
+        <Dialog ID="21" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga6</VoiceFile>
+          <Content>Hahaha...</Content>
+        </Dialog>
+        <Dialog ID="22" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga7</VoiceFile>
+          <Content>Niños como ustedes pueden pensar que soy solo una borracha, pero cada una de mis acciones es calculada, ¿lo ven?</Content>
+        </Dialog>
+        <Dialog ID="23" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain9</VoiceFile>
+          <Content>Ahí va de nuevo.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga8</VoiceFile>
+          <Content>¡Esa Myo es una vieja amiga mía, bebí con ella ayer!</Content>
+        </Dialog>
+        <Dialog ID="25" Model="미카">
+          <Teller>Mika</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_mika6</VoiceFile>
+          <Content>Quieres decir...</Content>
+        </Dialog>
+        <Dialog ID="26" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga9</VoiceFile>
+          <Content>Ella me dijo que consiguió un trabajo fácil para mí. Dijo que todo lo que tenía que hacer era darle una pequeña parte de la recompensa.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain10</VoiceFile>
+          <Content>Eso responde al porqué estabas tan orgullosa sobre ir a beber.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga10</VoiceFile>
+          <Content>Estaba de muy buen humor, así que le deje comer como un rey y pagué todo con la tarjeta de la Oficina~</Content>
+        </Dialog>
+        <Dialog ID="29" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain11</VoiceFile>
+          <Content>¿Myo es una persona confiable?</Content>
+        </Dialog>
+        <Dialog ID="30" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga11</VoiceFile>
+          <Content>Ella actúa como si fuera una cabeza hueca, pero es bastante amable por dentro cuando llegas a conocerla.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain12</VoiceFile>
+          <Content>Te juro que te maldeciré el resto de mi vida si termina siendo algo raro sin sentido de nuevo.</Content>
+        </Dialog>
+        <Dialog ID="32" Model="안내방송">
+          <Teller>Anuncio de</Teller>
+          <Title>WARP Corp.</Title>
+          <VoiceFile>ch3_Molar_ep1_announcement4</VoiceFile>
+          <Content>Todos los pasajeros, por favor suban a bordo del tren WARP UW-212.</Content>
+        </Dialog>
+        <Dialog ID="33" Model="메어리">
+          <Teller>Merry</Teller>
+          <Title>Pasajera</Title>
+          <VoiceFile>ch3_Molar_ep1_merry1</VoiceFile>
+          <Content>Es genial el tener vacaciones después de tanto tiempo.</Content>
+        </Dialog>
+        <Dialog ID="34" Model="토미">
+          <Teller>Tommy</Teller>
+          <Title>Pasajero</Title>
+          <VoiceFile>ch3_Molar_ep1_tommy1</VoiceFile>
+          <Content>Esta es nuestra primera vez subiendo en un WARP. ¿Todo estará bien?</Content>
+        </Dialog>
+        <Dialog ID="35" Model="메어리">
+          <Teller>Merry</Teller>
+          <Title>Pasajera</Title>
+          <VoiceFile>ch3_Molar_ep1_merry2</VoiceFile>
+          <Content>Te preocupas demasiado, cariño. Hay demasiadas personas que usan los WARP todos los días.</Content>
+        </Dialog>
+        <Dialog ID="36" Model="토미">
+          <Teller>Tommy</Teller>
+          <Title>Pasajero</Title>
+          <VoiceFile>ch3_Molar_ep1_tommy2</VoiceFile>
+          <Content>He escuchado que hubo bastantes accidentes cuando comenzaron a funcionar.</Content>
+        </Dialog>
+        <Dialog ID="37" Model="메어리">
+          <Teller>Merry</Teller>
+          <Title>Pasajera</Title>
+          <VoiceFile>ch3_Molar_ep1_merry3</VoiceFile>
+          <Content>Puedes mantenerte a mi lado y cerrar tus ojos si estás tan preocupado.</Content>
+        </Dialog>
+        <Dialog ID="38" Model="토미">
+          <Teller>Tommy</Teller>
+          <Title>Pasajero</Title>
+          <VoiceFile>ch3_Molar_ep1_tommy3</VoiceFile>
+          <Content>Vale. Me pegaré rápido a tu lado y me mantendré firme.</Content>
+        </Dialog>
+        <Dialog ID="39" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga12</VoiceFile>
+          <Content>... Ocúpate de todo si llego a vomitar en este vagón, Rain.</Content>
+        </Dialog>
+        <Dialog ID="40" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain13</VoiceFile>
+          <Content>¡Hermana mayor, por favor!</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Dentro del Tren WARP UW-212</PlaceName>
+        <Dialog ID="41" Model="안내방송">
+          <Teller>Anuncio de</Teller>
+          <Title>WARP Corp.</Title>
+          <VoiceFile>ch3_Molar_ep1_announcement5</VoiceFile>
+          <Content>Atención a todos los pasajeros. Por favor abrochen sus cinturones.</Content>
+        </Dialog>
+        <Dialog ID="42" Model="미카">
+          <Teller>Mika</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_mika7</VoiceFile>
+          <Content>Estamos partiendo ahora.</Content>
+        </Dialog>
+        <Dialog ID="43" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga13</VoiceFile>
+          <Content>Oi, siempre me he preguntado, ¿cuál es el punto de estos cinturones?</Content>
+        </Dialog>
+        <Dialog ID="44" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain14</VoiceFile>
+          <Content>Cortesía, supongo. Quién sabe, podría ser mejor que nada.</Content>
+        </Dialog>
+        <Dialog ID="45" Model="안내방송">
+          <Teller>Anuncio de</Teller>
+          <Title>WARP Corp.</Title>
+          <VoiceFile>ch3_Molar_ep1_announcement6</VoiceFile>
+          <Content>Iniciaremos con el warp en diez minutos.</Content>
+        </Dialog>
+        <Dialog ID="46" Model="메어리">
+          <Teller>Merry</Teller>
+          <Title>Pasajera</Title>
+          <VoiceFile>ch3_Molar_ep1_merry4</VoiceFile>
+          <Content>Oh, te estás aferrado a mí como un bebé.</Content>
+        </Dialog>
+        <Dialog ID="47" Model="토미">
+          <Teller>Tommy</Teller>
+          <Title>Pasajero</Title>
+          <VoiceFile>ch3_Molar_ep1_tommy4</VoiceFile>
+          <Content>Es que uno nunca sabe...</Content>
+        </Dialog>
+        <Dialog ID="48" Model="메어리">
+          <Teller>Merry</Teller>
+          <Title>Pasajera</Title>
+          <VoiceFile>ch3_Molar_ep1_merry5</VoiceFile>
+          <Content>¡Estaremos ahí en solo diez segundos después de que el tren parta! Pero eres tan lindo, así que te dejaré ser~</Content>
+        </Dialog>
+        <Dialog ID="49" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga14</VoiceFile>
+          <Content>¿Por qué tuvimos que sentarnos atrás de esos tortolitos?</Content>
+        </Dialog>
+        <Dialog ID="50" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain15</VoiceFile>
+          <Content>Shh, cállate, nos van a oír.</Content>
+        </Dialog>
+        <Dialog ID="51" Model="안내방송">
+          <Teller>Anuncio de</Teller>
+          <Title>WARP Corp.</Title>
+          <VoiceFile>ch3_Molar_ep1_announcement7</VoiceFile>
+          <Content>Por favor no abran las puertas mientras el tren esté en warp.</Content>
+        </Dialog>
+        <Dialog ID="52" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga15</VoiceFile>
+          <Content>Tomaré una siesta. Despiértame cuando lleguemos.</Content>
+        </Dialog>
+        <Dialog ID="53" Model="미카">
+          <Teller>Mika</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_mika8</VoiceFile>
+          <Content>Tomará menos de diez minutos.</Content>
+        </Dialog>
+        <Dialog ID="54" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga16</VoiceFile>
+          <Content>No importa~</Content>
+        </Dialog>
+        <Dialog ID="55" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain16</VoiceFile>
+          <Content>¡Hermana mayor! ¡Hermana mayor! ¡Despierta!</Content>
+        </Dialog>
+        <Dialog ID="56" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga17</VoiceFile>
+          <Content>Demonios, ¿qué es esta vez?</Content>
+        </Dialog>
+        <Dialog ID="57" Model="미카">
+          <Teller>Mika</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_mika9</VoiceFile>
+          <Content>Algo parece ir mal. Ha pasado una hora desde que partimos, pero el tren aún no llega a su parada.</Content>
+        </Dialog>
+        <Dialog ID="58" Model="토미">
+          <Teller>Tommy</Teller>
+          <Title>Pasajero</Title>
+          <VoiceFile>ch3_Molar_ep1_tommy5</VoiceFile>
+          <Content>¿Qué está pasando, Merry...? Dijiste que serían solo diez segundos.</Content>
+        </Dialog>
+        <Dialog ID="59" Model="메어리">
+          <Teller>Merry</Teller>
+          <Title>Pasajera</Title>
+          <VoiceFile>ch3_Molar_ep1_merry6</VoiceFile>
+          <Content>Eso es raro... no debería tomar más que eso...</Content>
+        </Dialog>
+        <Dialog ID="60" Model="NONE">
+          <Teller> </Teller>
+          <Title> </Title>
+          <Content>- 6 Horas dentro -</Content>
+        </Dialog>
+        <Dialog ID="61" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga18</VoiceFile>
+          <Content>Demonios, ¿tuvimos mala suerte o qué?</Content>
+        </Dialog>
+        <Dialog ID="62" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain17</VoiceFile>
+          <Content>Pero WARP no ha tenido ningún accidente en los últimos diez años.</Content>
+        </Dialog>
+        <Dialog ID="63" Model="미카">
+          <Teller>Mika</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_mika10</VoiceFile>
+          <Content>Podríamos terminar atrapados aquí.</Content>
+        </Dialog>
+        <Dialog ID="64" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga19</VoiceFile>
+          <Content>Vamos a romper esa puerta si algo va mal.</Content>
+        </Dialog>
+        <Dialog ID="65" Model="미카">
+          <Teller>Mika</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_mika11</VoiceFile>
+          <Content>¡Estás loca! Las advertencias dicen que seremos succionados por el espacio si intentamos abrir las puertas mientras el tren está en warp.</Content>
+        </Dialog>
+        <Dialog ID="66" Model="NONE">
+          <Teller> </Teller>
+          <Title> </Title>
+          <Content>- 17 Horas dentro -</Content>
+        </Dialog>
+        <Dialog ID="67" Model="Pasajero 1">
+          <Teller>Pasajero 1</Teller>
+          <Title>Pasajero</Title>
+          <VoiceFile>ch3_Molar_ep1_people1</VoiceFile>
+          <Content>Voy a volverme loco...</Content>
+        </Dialog>
+        <Dialog ID="68" Model="Pasajero 2">
+          <Teller>Pasajero 2</Teller>
+          <Title>Pasajero</Title>
+          <VoiceFile>ch3_Molar_ep1_people2</VoiceFile>
+          <Content>¿Dónde estamos?</Content>
+        </Dialog>
+        <Dialog ID="69" Model="토미">
+          <Teller>Tommy</Teller>
+          <Title>Pasajero</Title>
+          <VoiceFile>ch3_Molar_ep1_tommy6</VoiceFile>
+          <Content>No puedo sacarme este cinturón...</Content>
+        </Dialog>
+        <Dialog ID="70" Model="메어리">
+          <Teller>Merry</Teller>
+          <Title>Pasajera</Title>
+          <VoiceFile>ch3_Molar_ep1_merry7</VoiceFile>
+          <Content>Tommy... Todo estará bien pronto... lo siento, es mi culpa por preguntar sobre tomar un tren WARP...</Content>
+        </Dialog>
+        <Dialog ID="71" Model="미카">
+          <Teller>Mika</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_mika12</VoiceFile>
+          <Content>El tren parece seguir estando operativo...</Content>
+        </Dialog>
+        <Dialog ID="72" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga20</VoiceFile>
+          <Content>¡Oi! Saca tus herramientas ahora. Vamos a cortar este maldito cinturón.</Content>
+        </Dialog>
+        <Dialog ID="73" Model="NONE">
+          <Teller> </Teller>
+          <Title> </Title>
+          <Content>- 31 Horas dentro -</Content>
+        </Dialog>
+        <Dialog ID="74" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga21</VoiceFile>
+          <Content>¡Maldita sea, me está volviendo loca! Trescientas pobres almas atrapadas aquí, ¿y no hacen una mierda?</Content>
+        </Dialog>
+        <Dialog ID="75" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain18</VoiceFile>
+          <Content>La atmósfera se está volviendo tensa. Todos están más sensibles que lo usual.</Content>
+        </Dialog>
+        <Dialog ID="76" Model="미카">
+          <Teller>Mika</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_mika13</VoiceFile>
+          <Content>Lo divertido de todo es que no estoy sintiendo nada de sed o hambre, aunque no hemos comido nada en las últimas 31 horas.</Content>
+        </Dialog>
+        <Dialog ID="77" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga22</VoiceFile>
+          <Content>No puedo dejar ni un arañazo en esta condenada puerta.</Content>
+        </Dialog>
+        <Dialog ID="78" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain19</VoiceFile>
+          <Content>Supongo que realmente estamos atrapados. No veo ninguna forma de salir. Todo lo que podemos hacer es esperar.</Content>
+        </Dialog>
+        <Dialog ID="79" Model="미카">
+          <Teller>Mika</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_mika14</VoiceFile>
+          <Content>Parece que los otros también están perdiendo la cabeza.</Content>
+        </Dialog>
+        <Dialog ID="80" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga23</VoiceFile>
+          <Content>... Oi, ¿qué tal una apuesta?</Content>
+        </Dialog>
+        <Dialog ID="81" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain20</VoiceFile>
+          <Content>¿Qué quieres decir con una apuesta?</Content>
+        </Dialog>
+        <Dialog ID="82" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga24</VoiceFile>
+          <Content>Estoy diciendo que quizás podemos usar esto.</Content>
+        </Dialog>
+        <Dialog ID="83" Model="미카">
+          <Teller>Mika</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_mika15</VoiceFile>
+          <Content>¿Una Invitación...?</Content>
+        </Dialog>
+        <Dialog ID="84" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga25</VoiceFile>
+          <Content>Es lo que conseguí de Myo. Nunca pensé que lo usaría ahora.</Content>
+        </Dialog>
+        <Dialog ID="85" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain21</VoiceFile>
+          <Content>Aquí tienes mi bolígrafo. También haría cualquier cosa para salir de este tren.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="86" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Molar_ep1_roland1</VoiceFile>
+          <Content>¿Un mal funcionamiento con WARP? Este podría ser un gran golpe a la reputación de W Corp. si esta información llega a hacerse pública.</Content>
+        </Dialog>
+        <Dialog ID="87" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Molar_ep1_angela1</VoiceFile>
+          <Content>Se supone que llegarían en 10 segundos, ¿verdad?</Content>
+        </Dialog>
+        <Dialog ID="88" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Molar_ep1_roland2</VoiceFile>
+          <Content>Sep. Los trenes WARP, operando con la Singularidad de W Corp. Pueden llegar a cualquier estación en solo diez segundos sin importar lo lejos que estén. Un retraso de 30 segundos ya sería un problema lo suficientemente grande, ¿pero uno de 30 horas? Eso será un golpe fatal a la reputación de la corporación.</Content>
+        </Dialog>
+        <Dialog ID="89" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Molar_ep1_angela2</VoiceFile>
+          <Content>Parece que incluso una Singularidad puede funcionar mal.</Content>
+        </Dialog>
+        <Dialog ID="90" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Molar_ep1_roland3</VoiceFile>
+          <Content>Supongo que ninguna tecnología es verdaderamente perfecta.</Content>
+        </Dialog>
+        <Dialog ID="91" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Molar_ep1_angela3</VoiceFile>
+          <Content>Por cierto, pronto podría terminar teniendo una reunión inesperada.</Content>
+        </Dialog>
+        <Dialog ID="92" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Molar_ep1_roland4</VoiceFile>
+          <Content>¿Tienes alguna cara familiar en esa Oficina?</Content>
+        </Dialog>
+        <Dialog ID="93" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Molar_ep1_angela4</VoiceFile>
+          <Content>No.</Content>
+        </Dialog>
+        <Dialog ID="94" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Molar_ep1_roland5</VoiceFile>
+          <Content>¿Entonces te refieres a Myo, la capitana del Equipo Conejo?</Content>
+        </Dialog>
+        <Dialog ID="95" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Molar_ep1_angela5</VoiceFile>
+          <Content>Sí.</Content>
+        </Dialog>
+        <Dialog ID="96" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Molar_ep1_roland6</VoiceFile>
+          <Content>Hunh... ¿Así que tenías conexiones con uno de los capitanes de R Corp?</Content>
+        </Dialog>
+        <Dialog ID="97" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Molar_ep1_roland7</VoiceFile>
+          <Content>Que esa persona Olga la conociera es bastante sorprendente, pero tú también tienes unas conexiones impresionantes.</Content>
+        </Dialog>
+        <Dialog ID="98" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Molar_ep1_angela6</VoiceFile>
+          <Content>Aunque probablemente no nos saludaremos con una sonrisa cuando nos encontremos.</Content>
+        </Dialog>
+        <Dialog ID="99" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Molar_ep1_roland8</VoiceFile>
+          <Content>¿Qué, no eras amiga de ella? Eh, sabes qué, supongo que tiene más sentido de esta forma.</Content>
+        </Dialog>
+        <Dialog ID="100" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Molar_ep1_angela7</VoiceFile>
+          <Content>¿Qué esperabas? ¿Realmente pensabas que tendría algún amigo con quién charlar casualmente?</Content>
+        </Dialog>
+        <Dialog ID="101" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Molar_ep1_roland9</VoiceFile>
+          <Content>Solo me lo preguntaba. R Corp. es diferente de los Fixers en un nivel fundamental.</Content>
+        </Dialog>
+        <Dialog ID="102" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Molar_ep1_roland10</VoiceFile>
+          <Content>Su trabajo puede parecer similar al que hacen los Fixers, pero ellos hacen cosas en una escala mucho más grande y con una mentalidad mucho más profesional.</Content>
+        </Dialog>
+        <Dialog ID="103" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Molar_ep1_angela8</VoiceFile>
+          <Content>No esperaría menos de una de las Alas.</Content>
+        </Dialog>
+        <Dialog ID="104" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Molar_ep1_roland11</VoiceFile>
+          <Content>No estás demasiado relajada.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <Dialog ID="105" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga26</VoiceFile>
+          <Content>Whew~ ¡Esto si que es teletransportación!</Content>
+        </Dialog>
+        <Dialog ID="106" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga27</VoiceFile>
+          <Content>Mucho más rápido y mejor que cualquier Singularidad estúpida de W Corp.</Content>
+        </Dialog>
+        <Dialog ID="107" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain22</VoiceFile>
+          <Content>¿Vamos a proceder tan descuidadamente? Dijiste que conseguiste la Invitación de R Corp.</Content>
+        </Dialog>
+        <Dialog ID="108" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga28</VoiceFile>
+          <Content>Mika, haz que se calle por un rato. Voy a vomitar aquí mismo si escucho otra palabra suya.</Content>
+        </Dialog>
+        <Dialog ID="109" Model="미카">
+          <Teller>Mika</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_mika16</VoiceFile>
+          <Content>Rain dice la verdad. Quizás deberíamos proceder con más cautela.</Content>
+        </Dialog>
+        <Dialog ID="110" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga29</VoiceFile>
+          <Content>Seguro, seguro~ Nadie está de mi lado.</Content>
+        </Dialog>
+        <Dialog ID="111" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga30</VoiceFile>
+          <Content>Todo es gracias a mi rápido juicio que pudimos escapar de ese estúpido tren.</Content>
+        </Dialog>
+        <Dialog ID="112" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Molar_ep1_angela9</VoiceFile>
+          <Content>Bienvenidos, queridos invitados.</Content>
+        </Dialog>
+        <Dialog ID="113" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga31</VoiceFile>
+          <Content>Encantada de verte, muchacha~</Content>
+        </Dialog>
+        <Dialog ID="114" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain23</VoiceFile>
+          <Content>Me disculpo. Estamos un poco confundidos ahora mismo. Y ella tiene resaca...</Content>
+        </Dialog>
+        <Dialog ID="115" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Molar_ep1_angela10</VoiceFile>
+          <Content>Entiendo. Tengo un poco de experiencia tratando con borrachos.</Content>
+        </Dialog>
+        <Dialog ID="116" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga32</VoiceFile>
+          <Content>Ey, ¿tienes idea de qué demonios estaba pasando ahí?</Content>
+        </Dialog>
+        <Dialog ID="117" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Molar_ep1_angela11</VoiceFile>
+          <Content>Todo lo que sé es que son nuestros invitados en la Biblioteca, lo lamento.</Content>
+        </Dialog>
+        <Dialog ID="118" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga33</VoiceFile>
+          <Content>¿Eh? Ella es mucho más amable de lo que me contó Myo.</Content>
+        </Dialog>
+        <Dialog ID="119" Model="미카">
+          <Teller>Mika</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_mika17</VoiceFile>
+          <Content>¿La conoces?</Content>
+        </Dialog>
+        <Dialog ID="120" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga34</VoiceFile>
+          <Content>Ya ves, se suponía que íbamos a excavar en la relación entre L Corp. y la Biblioteca; eso es lo que Myo nos pidió.</Content>
+        </Dialog>
+        <Dialog ID="121" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Molar_ep1_angela12</VoiceFile>
+          <Content>Ya veo, así que así es cómo sabes de mí.</Content>
+        </Dialog>
+        <Dialog ID="122" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga35</VoiceFile>
+          <Content>¿Y saben lo que es divertido, chicos ~? Estamos hablando con una máquina, no con una persona.</Content>
+        </Dialog>
+        <Dialog ID="123" Model="미카">
+          <Teller>Mika</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_mika18</VoiceFile>
+          <Content>No la hagamos enojar. Solo tomaremos los libros listados en la Invitación y nos iremos, ¿vale?</Content>
+        </Dialog>
+        <Dialog ID="124" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga36</VoiceFile>
+          <Content>Hablemos sin rodeos, muchacha. ¿Sabes qué relación tiene la Biblioteca con L Corp, no es así?</Content>
+        </Dialog>
+        <Dialog ID="125" Model="올가">
+          <Teller>Olga</Teller>
+          <Title>Operadora de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_olga37</VoiceFile>
+          <Content>Myo dice que el hecho de que estés en la Biblioteca es una evidencia indisputable de que este lugar está relacionado con L Corp. de una forma u otra.</Content>
+        </Dialog>
+        <Dialog ID="126" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Molar_ep1_angela13</VoiceFile>
+          <Content>... Estoy segura de que puedes encontrar la respuesta a eso en los libros que buscas.</Content>
+        </Dialog>
+        <Dialog ID="127" Model="레인">
+          <Teller>Rain</Teller>
+          <Title>Fixer de Molar</Title>
+          <VoiceFile>ch3_Molar_ep1_rain24</VoiceFile>
+          <Content>Lo lamentamos mucho. Entraremos ahora.</Content>
+        </Dialog>
+        <Dialog ID="128" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Molar_ep1_angela14</VoiceFile>
+          <Content>Que encuentres tu libro en este lugar.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>에피소드1-종료</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Molar_ep1_roland12</VoiceFile>
+          <Content>¿Tienes alguna idea de por qué a R Corp. le importa este lugar?</Content>
+        </Dialog>
+        <Dialog ID="1" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Molar_ep1_angela15</VoiceFile>
+          <Content>L Corp. era un cliente importante de R Corp. y desapareció de la nada, así que es natural que quieran saber qué pasó.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Molar_ep1_roland13</VoiceFile>
+          <Content>Un cliente importante de R Corp, ¿eh?...</Content>
+        </Dialog>
+        <Dialog ID="3" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Molar_ep1_roland14</VoiceFile>
+          <Content>Supongo que tiene sentido. L Corp. y su Nido no eran realmente especiales en términos de poder militar. Debió haber sido un cliente muy importante de R Corp. si se les pedía proteger todo el Nido.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Molar_ep1_angela16</VoiceFile>
+          <Content>Era una relación de beneficio mutua. L Corp. suplía toda la energía que R Corp. necesitaba y W Corp. también dependía del suministro de energía de L Corp.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Molar_ep1_roland15</VoiceFile>
+          <Content>Las tres Alas en colusión la una con la otra, ¿eh? No le dejan nada de dinero a los demás.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch3_Molar_ep1_angela17</VoiceFile>
+          <Content>No tiene sentido que te quejes conmigo. Yo solo seguía mis órdenes.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch3_Molar_ep1_roland16</VoiceFile>
+          <Content>Sep. Los empleados tienen que hacer lo que sus jefes les dicen, ya sea en las Alas o en los Barrios Bajos.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+</ScenarioRoot>
