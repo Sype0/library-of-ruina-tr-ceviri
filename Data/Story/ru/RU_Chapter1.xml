@@ -127,7 +127,7 @@
           <Teller>???</Teller>
           <Title>Davetsiz Misafir</Title>
           <VoiceFile>ch1_prol1_ep1_roland10</VoiceFile>
-          <Content>Herneyse, ödemem gereken faturalar vardı, işim yoktu, hayatımı bir şekilde tek başıma geçi—</Content>
+          <Content>Her neyse, ödemem gereken faturalar vardı, işim yoktu, hayatımı bir şekilde tek başıma geçi—</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>???</Teller>
@@ -607,7 +607,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch1_prol3_ep1_roland12</VoiceFile>
-          <Content>Eh, herneyse, şu kitapları aldıktan sonra ne var?</Content>
+          <Content>Eh, her neyse, şu kitapları aldıktan sonra ne var?</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -1237,7 +1237,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch1_rat_ep1_roland19</VoiceFile>
-          <Content>Bütün bunlar şehir hayatının bir parçası. Bir gruba mensup olmalısın, Sendika olabilir veya herhangi başka bir şey. Yoksa şehirde yaşamak çok zor olur.</Content>
+          <Content>Bütün bunlar Şehir hayatının bir parçası. Bir gruba mensup olmalısın, Sendika olabilir veya herhangi başka bir şey. Yoksa şehirde yaşamak çok zor olur.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -1858,13 +1858,13 @@
           <Teller>Finn</Teller>
           <Title>Yun’un Düzelticisi</Title>
           <VoiceFile>ch1_Yun_ep2_finn3</VoiceFile>
-          <Content>Ben hala 9.Sınıf bir Fixer olabilirim, ama yine de burada bir şeylerin ters gittiğini hissedebiliyorum.</Content>
+          <Content>Ben hala 9.Sınıf bir Düzeltici olabilirim, ama yine de burada bir şeylerin ters gittiğini hissedebiliyorum.</Content>
         </Dialog>
         <Dialog ID="8" Model="윤">
           <Teller>Yun</Teller>
           <Title>Ofis Operatörü</Title>
           <VoiceFile>ch1_Yun_ep2_yun6</VoiceFile>
-          <Content>Oh gerçekten mi? Böylesine iyi sezgileri olan 9. Sınıf bir Fixer'ın bizim mütevazi Ofisimizde harcanması tam bir trajedi.</Content>
+          <Content>Oh gerçekten mi? Böylesine iyi sezgileri olan 9. Sınıf bir Düzeltici'nin bizim mütevazi Ofisimizde harcanması tam bir trajedi.</Content>
         </Dialog>
         <Dialog ID="9" Model="핀">
           <Teller>Finn</Teller>
@@ -2036,7 +2036,7 @@
         </Dialog>
         <Dialog ID="36" Model="핀">
           <Teller>Finn</Teller>
-          <Title>Yun’un Fixerı</Title>
+          <Title>Yun’un Düzelticisi</Title>
           <VoiceFile>ch1_Yun_ep2_finn9</VoiceFile>
           <Content>Merhaba. Ben Finn, Yun'un Ofisi'nde Düzeltici'yim.</Content>
         </Dialog>
@@ -2257,7 +2257,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch1_Yun_ep3_angela5</VoiceFile>
-          <Content>Herneyse, kendimi koruyabilirim, o yüzden endişelenmen gereken bir durum yok.</Content>
+          <Content>Her neyse, kendimi koruyabilirim, o yüzden endişelenmen gereken bir durum yok.</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -2384,151 +2384,151 @@
         <PlaceName>Konum: Arka Sokaklar'da Bir yerde</PlaceName>
         <Dialog ID="0" Model="맥컬린">
           <Teller>McCullin</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin1</VoiceFile>
           <Content>Son işimizden beri hala tüm vücudum ağrıyor.</Content>
         </Dialog>
         <Dialog ID="1" Model="태인">
           <Teller>Taein</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_taein1</VoiceFile>
-          <Content>(Ağrın) Düşündüğümden daha uzun sürüyor. Genede dün baya çılgıncaydı, değil mi?</Content>
+          <Content>Ağrın düşündüğümden daha uzun sürüyor. Genede dün baya çılgıncaydı, değil mi?</Content>
         </Dialog>
         <Dialog ID="2" Model="맥컬린">
           <Teller>McCullin</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin2</VoiceFile>
           <Content>Evet. Atölyeden aldığın yeni silah etkileyiciydi, buna şüphe yok.</Content>
         </Dialog>
         <Dialog ID="3" Model="나오키">
           <Teller>Naoki</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_naoki1</VoiceFile>
           <Content>Deme ya. Onunla fazlasıyla heyecanlandın ve işler kontrolünden çıktı. Sayende planladığımızın üzerinde 20 kişi  daha öldürmek zorunda kaldık, sağol.</Content>
         </Dialog>
         <Dialog ID="4" Model="나오키">
           <Teller>Naoki</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_naoki2</VoiceFile>
           <Content>Bizim yüzümüzden olan bir hata olduğu için, ekstra öldürmelere ödeme dahi alamadık.</Content>
         </Dialog>
         <Dialog ID="5" Model="태인">
           <Teller>Taein</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_taein2</VoiceFile>
           <Content>Hadi ama, keyfimizi kaçırma. İşin sonunda en büyük katliamı yapan sendin.</Content>
         </Dialog>
         <Dialog ID="6" Model="태인">
           <Teller>Taein</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_taein3</VoiceFile>
           <Content>Macca'nın kasları, seni sakinleştirmeye çok uğraştığından ağrıyor.</Content>
         </Dialog>
         <Dialog ID="7" Model="나오키">
           <Teller>Naoki</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_naoki3</VoiceFile>
           <Content> Y-yani, Bunun için üzgün olduğumu söylemiştim...</Content>
         </Dialog>
         <Dialog ID="8" Model="맥컬린">
           <Teller>McCullin</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin3</VoiceFile>
           <Content>Buna takılmana gerek yok. Benim de sizlere bir kaç şey için borcum var.</Content>
         </Dialog>
         <Dialog ID="9" Model="나오키">
           <Teller>Naoki</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_naoki4</VoiceFile>
           <Content>İtiraf etmek istemem, ama Taein haklı.</Content>
         </Dialog>
         <Dialog ID="10" Model="나오키">
           <Teller>Naoki</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_naoki5</VoiceFile>
           <Content>Hepimiz biraz da olsa sinirlerimizi yatıştırmaya çalışmalıyız.</Content>
         </Dialog>
         <Dialog ID="11" Model="나오키">
           <Teller>Naoki</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_naoki6</VoiceFile>
-          <Content>Fixer olarak çalıştığımız sürece, gereğinden fazla sorun çıkarmak iyi olmaz.</Content>
+          <Content>Düzeltici olarak çalıştığımız sürece, gereğinden fazla sorun çıkarmak iyi olmaz.</Content>
         </Dialog>
         <Dialog ID="12" Model="태인">
           <Teller>Taein</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_taein4</VoiceFile>
-          <Content>Bir katil Sendikasının eski mensupları, şimdi bir ofise kayıtlı ve Fixer işi yapıyorlar...</Content>
+          <Content>Bir katil Sendikasının eski mensupları, şimdi bir ofise kayıtlı ve Düzeltici işi yapıyorlar...</Content>
         </Dialog>
         <Dialog ID="13" Model="태인">
           <Teller>Taein</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_taein5</VoiceFile>
           <Content>Hayat sürprizlerle dolu, değil mi?</Content>
         </Dialog>
         <Dialog ID="14" Model="나오키">
           <Teller>Naoki</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_naoki7</VoiceFile>
           <Content>Bu ofiste baya tuhaf. Bizim gibilerini kabul ediyorlar.</Content>
         </Dialog>
         <Dialog ID="15" Model="맥컬린">
           <Teller>McCullin</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin4</VoiceFile>
-          <Content>Patron'un dediğini hatırlayın. Bu günlerde çok fazla ofisler ve Fixerlar var, o yüzden bu sektörde hayatta kalmanın en iyi yolu diğerlerinden öne çıkmak.</Content>
+          <Content>Patron'un dediğini hatırlayın. Bu günlerde çok fazla ofisler ve Düzeltici'ler var, o yüzden bu sektörde hayatta kalmanın en iyi yolu diğerlerinden öne çıkmak.</Content>
         </Dialog>
         <Dialog ID="16" Model="맥컬린">
           <Teller>McCullin</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin5</VoiceFile>
           <Content>Ayrıca kıyafetlerimiz de diğer ofislerin kıyafetlerine kıyasla oldukça radikal.</Content>
         </Dialog>
         <Dialog ID="17" Model="태인">
           <Teller>Taein</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_taein6</VoiceFile>
           <Content>İşte bu yüzden ofisimiz, tıpkı bizim gibi manyaklarla dolu.</Content>
         </Dialog>
         <Dialog ID="18" Model="맥컬린">
           <Teller>McCullin</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin6</VoiceFile>
           <Content>Tek yapmamız gereken hedefleri en vahşi şekilde öldürüp vücutlarını görünür bir yere aşmak. Herkesin katılmak için can atmasına şaşırmamalı.</Content>
         </Dialog>
         <Dialog ID="19" Model="태인">
           <Teller>Taein</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_taein7</VoiceFile>
           <Content>Önceden yaptığımızla bir farkı yok.</Content>
         </Dialog>
         <Dialog ID="20" Model="나오키">
           <Teller>Naoki</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_naoki8</VoiceFile>
           <Content>İlk başta, bir ofisin bu tarz çılgınca işler yapmasına şaşırmıştım...</Content>
         </Dialog>
         <Dialog ID="21" Model="나오키">
           <Teller>Naoki</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_naoki9</VoiceFile>
           <Content>Sanırım “hedefleri tehdit etmek ve onlara bir uyarı mesajı göndermek” kulağa oldukça mantıklı geliyor. Ve, işe yarıyor gibi de gözüküyor.</Content>
         </Dialog>
         <Dialog ID="22" Model="태인">
           <Teller>Taein</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_taein8</VoiceFile>
           <Content>Ama sadece bilinmeyen Sendiklardan ve sefil insanlardan talep alıyoruz. Bu ofisin daha gidecek çok yolu var.</Content>
         </Dialog>
         <Dialog ID="23" Model="나오키">
           <Teller>Naoki</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_naoki10</VoiceFile>
           <Content>Düzgün bir Ofisten çok fare sürüsüne benziyor.</Content>
         </Dialog>
         <Dialog ID="24" Model="맥컬린">
           <Teller>McCullin</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin7</VoiceFile>
           <Content>...Patrondan mesaj geldi. Yeni bir iş almak için ofise uğramamızı söylüyor.</Content>
         </Dialog>
@@ -2545,7 +2545,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch1_Hook_ep1_roland2</VoiceFile>
-          <Content>Piyasanın tamamı kan gölüne dönmüş. Herkes bir Fixer olmak istiyor.</Content>
+          <Content>Piyasanın tamamı kan gölüne dönmüş. Herkes bir Düzeltici olmak istiyor.</Content>
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -2594,19 +2594,19 @@
         <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="34" Model="나오키">
           <Teller>Naoki</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_naoki11</VoiceFile>
           <Content>Vay, Gerçektende göz açıp kapayıncaya kadar ışınlandık.</Content>
         </Dialog>
         <Dialog ID="35" Model="태인">
           <Teller>Taein</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_taein9</VoiceFile>
-          <Content>Bu ışınlanma, şu Singularity'lerden biri mi?</Content>
+          <Content>Bu ışınlanma, şu Tekillik'lerden biri mi?</Content>
         </Dialog>
         <Dialog ID="36" Model="맥컬린">
           <Teller>McCullin</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin8</VoiceFile>
           <Content>Bu günlerde çok sürpriz şeyler oluyor.</Content>
         </Dialog>
@@ -2618,13 +2618,13 @@
         </Dialog>
         <Dialog ID="38" Model="나오키">
           <Teller>Naoki</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_naoki12</VoiceFile>
           <Content>Selam?</Content>
         </Dialog>
         <Dialog ID="39" Model="태인">
           <Teller>Taein</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_taein10</VoiceFile>
           <Content>Ne lan bu... Bayağı sağlammış. O vücuda ne kadar para harcadın?</Content>
         </Dialog>
@@ -2642,13 +2642,13 @@
         </Dialog>
         <Dialog ID="42" Model="태인">
           <Teller>Taein</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_taein11</VoiceFile>
           <Content>Yumuşak ses tonun hoşuma gitmiyor.</Content>
         </Dialog>
         <Dialog ID="43" Model="나오키">
           <Teller>Naoki</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_naoki13</VoiceFile>
           <Content> İnsan değilsin, değil mi?</Content>
         </Dialog>
@@ -2659,19 +2659,19 @@
         </Dialog>
         <Dialog ID="45" Model="태인">
           <Teller>Taein</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_taein12</VoiceFile>
           <Content>Ooh, suratına bakın. Demek gerçekten de değil?</Content>
         </Dialog>
         <Dialog ID="46" Model="맥컬린">
           <Teller>McCullin</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_mccullin9</VoiceFile>
           <Content>Bir başka sürpriz daha. Bu Şehirde insan olmayan bilinçli bir varlıkla karşılaşmak çok nadirdir.</Content>
         </Dialog>
         <Dialog ID="47" Model="나오키">
           <Teller>Naoki</Teller>
-          <Title>Kanca Fixeri</Title>
+          <Title>Kanca Düzelticisi</Title>
           <VoiceFile>ch1_Hook_ep1_naoki14</VoiceFile>
           <Content>Aynen, değil mi? Bundan bir sürü para kaldırabiliriz!</Content>
         </Dialog>
@@ -2937,7 +2937,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch1_Hook_ep1_roland31</VoiceFile>
-          <Content>Her türlü şekilde çokta umurumda değil.</Content>
+          <Content>Her türlü şekilde çok da umurumda değil.</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>Roland</Teller>
