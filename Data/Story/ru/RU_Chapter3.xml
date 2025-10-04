@@ -13,7 +13,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_kalo1-01</VoiceFile>
-          <Content>Kime inanırsın, bütün bu sisi aşıp çökmüş Yuva’yı sonunda sahiplenebilecek kişi kim olur acaba?</Content>
+          <Content>Bana söyle, bütün bu sisi aşıp çökmüş Yuva’yı sonunda sahiplenebilecek kişi kim olur acaba?</Content>
         </Dialog>
         <Dialog ID="1" Model="카트리엘">
           <Teller>???</Teller>
@@ -31,7 +31,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_kalo2</VoiceFile>
-          <Content>Ama kesin olan şu: İndeks’in yumurtanın kontrolünü ele geçirmesine izin vermemeliyiz.</Content>
+          <Content>Güzel söyledin. Orta, Yüzük ve Serçe Parmak bu çekişmeye katılmak yerine kendi işleriyle çok meşgul görünüyorlar, bu da rahatlatıcı.</Content>
         </Dialog>
         <Dialog ID="4" Model="카트리엘">
           <Teller>???</Teller>
@@ -58,19 +58,19 @@
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland1</VoiceFile>
-          <Content>Görünüşe göre büyük bir dalganın üstüne çıkmak üzereyiz!</Content>
+          <Content>Görünüşe göre büyük bir ivme yakaladık!</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela1</VoiceFile>
-          <Content>Hangi dalga?</Content>
+          <Content>Hangi ivme?</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland2</VoiceFile>
-          <Content>Bu hızla, Kütüphane çok yakında Kentsel Efsane statüsüne geçecek, kentsel efsane konumundan.</Content>
+          <Content>Bu hızla, Kütüphane çok yakında Kentsel hikaye konumundan Kentsel Efsane statüsüne geçecek.</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>Roland</Teller>
@@ -106,7 +106,7 @@
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland6</VoiceFile>
-          <Content>Hah, aynen öyle! Kentsel Efsaneler konuşulur; insanlar bizi aslında dikkat etmeye değer bir şehir fenomeni olarak tanımaya başlar.</Content>
+          <Content>Hah, aynen öyle! Kentsel Hikayeler konuşulur; insanlar bizi aslında dikkat etmeye değer bir şehir Efsanesi olarak tanımaya başlar.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>Roland</Teller>
@@ -124,7 +124,7 @@
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela4</VoiceFile>
-          <Content>Aile..?</Content>
+          <Content>Aile mi ?</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
           <Teller>Roland</Teller>
@@ -148,7 +148,7 @@
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland11</VoiceFile>
-          <Content>Anne-baban nasıl öldü bilmiyorum, büyükannem bir gün fark edilmeden ortadan kayboldu.</Content>
+          <Content>Anne-baban nasıl öldü bilmiyorum ve büyükannem bir gün fark edilmeden ortadan kayboldu.</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>Roland</Teller>
@@ -166,7 +166,7 @@
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland13</VoiceFile>
-          <Content>Neyse, senin amacının bu tek kitabı bulmak olduğunu söyledin, değil mi?</Content>
+          <Content>Neyse, senin amacının bu özgürlük kitabını bulmak olduğunu söyledin, değil mi?</Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -244,7 +244,7 @@
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland16</VoiceFile>
-          <Content>Yani bir gün özgürlüğe ve intikama ulaşabileceksin eğer bu kırmızı davetin bizi yönlendirdiği yere kadar izlersek?</Content>
+          <Content>Yani kırmızı davetin bizi götürdüğü yere kadar izlemeye devam edersek sonunda istediğin özgürlüğe ve intikama ulaşacak mısın ?</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -316,13 +316,13 @@
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela25</VoiceFile>
-          <Content>Başıma ne gelirse gelsin umurumda değil. Sonuç aldığım sürece memnun olacağım.</Content>
+          <Content>Başıma ne gelirse gelsin umurumda değil.B en her şeye razıyım yeter ki sonuç alayım.</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland20</VoiceFile>
-          <Content>Azmin resmen korkutuyor insanı.</Content>
+          <Content>Ne kadar inatçı olduğunuzu görmek korkutucu.</Content>
         </Dialog>
       </Place>
     </Episode>
