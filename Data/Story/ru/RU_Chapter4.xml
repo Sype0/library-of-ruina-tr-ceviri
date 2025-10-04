@@ -8,72 +8,72 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Localización: Asociación Shi - Rama Sur</PlaceName>
+        <PlaceName>Localización: Shi Derneği - Güney Bölümü</PlaceName>
         <Dialog ID="0" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_argalia1-01</VoiceFile>
-          <Content>Thelma, querido. Es gracias a mí que pudiste mantener tu posición como cabeza de la rama sur, así que quizás deberías devolverme el favor, ¿no crees?</Content>
+          <Content>Thelma canım, benim sayemde güney bölümünün başkanı olarak konumunu koruyabileceğini biliyorsun değil mi? Belki benim içinde bir şeyler yapmalısın. Öyle değil mi?</Content>
         </Dialog>
         <Dialog ID="1" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_thelma1-01</VoiceFile>
-          <Content>Lo sé, ese era el trato.</Content>
+          <Content>Biliyorum. Bir anlaşmamız var.</Content>
         </Dialog>
         <Dialog ID="2" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_thelma2-02</VoiceFile>
-          <Content>¿Qué quieres esta vez?</Content>
+          <Content>Bu sefer ne istiyorsun? </Content>
         </Dialog>
         <Dialog ID="3" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_argalia2</VoiceFile>
-          <Content>Quiero que tu equipo se ocupe de las cosas en esta lista. Pienso que seré capaz de localizarlo pronto.</Content>
+          <Content>Ekibinin bu listede bulunan şeylerle ilgilenmesini istiyorum. Sanırım yakında konumlarını bulabilirim. </Content>
         </Dialog>
         <Dialog ID="4" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_thelma3-01</VoiceFile>
-          <Content>... Todas estas peticiones son ridículas.</Content>
+          <Content>... Bunların hepsi saçma şeyler.</Content>
         </Dialog>
         <Dialog ID="5" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_thelma4-01</VoiceFile>
-          <Content>Bueno, pienso que tenemos el equipo indicado para el trabajo...</Content>
+          <Content>Pekala, bunun için doğru ekibimiz var gibi...</Content>
         </Dialog>
         <Dialog ID="6" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_argalia3</VoiceFile>
-          <Content>Déjame adivinar, ¿Sección 2?</Content>
+          <Content>Tahmin edeyim. İkinci bölüm?</Content>
         </Dialog>
         <Dialog ID="7" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_thelma5</VoiceFile>
-          <Content>Sí.</Content>
+          <Content>Evet.</Content>
         </Dialog>
         <Dialog ID="8" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_argalia4-01</VoiceFile>
-          <Content>¿Ves? Soy una persona muy considerada, Thelma.</Content>
+          <Content>Gördün mü? Ben oldukça düşünceli bir insanım. Thelma.</Content>
         </Dialog>
         <Dialog ID="9" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_thelma6</VoiceFile>
-          <Content>‘La Biblioteca’ también está en la lista, ahora ascendida a Plaga Urbana por la Asociación Hana...</Content>
+          <Content>"Kütüphane" artık listede, Hana Derneği artık bu Kentsel veba ile ilgilenmek üzere atandı.</Content>
         </Dialog>
         <Dialog ID="10" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_argalia5-01</VoiceFile>
-          <Content>Estoy particularmente interesado en esa.</Content>
+          <Content>Aslında benim de özellikle ilgilendiğim şey de bu.</Content>
         </Dialog>
       </Place>
       <Place>
