@@ -1,286 +1,286 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="2">
-    <Title>Chapter 2-Mito Urbano-‘No tienen tiempo para pensar en el terror al final de la canción, antes de la puesta del sol.’</Title>
+    <Title>Chapter 2-Mito Urbano-‘Günesin batisindan once, Sarkinin sonundaki dehseti düsünmeye vakitleri yok.’</Title>
   </Chapter>
   <Group>
     <GroupName>Prologue</GroupName>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Localización: Asociación Zwei - Rama Sur, Sección 6</PlaceName>
+        <PlaceName>Konum: Zwei Birligi - Güney Şubesi, 6. Bölüm</PlaceName>
         <Dialog ID="0" Model="월터">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_walter1</VoiceFile>
-          <Content>¿Algún otro reporte de Distorsión de la Asociación Hana o la Sección 1 de Zwei?</Content>
+          <Content>Hana Organizasyonundan ya da Zwei 1. Bölüm'den, Distortion (Bozulma) ile ilgili başka rapor var mı?</Content>
         </Dialog>
         <Dialog ID="1" Model="이사도라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_isadora1</VoiceFile>
-          <Content>Nada, señor. Todos están observando la situación por ahora.</Content>
+          <Content>Yok, efendim. Şu an hepsi durumu inceliyor.</Content>
         </Dialog>
         <Dialog ID="2" Model="이사도라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_isadora2</VoiceFile>
-          <Content>Sin embargo, nominaron a un número de posibles sospechosos.</Content>
+          <Content>Birkaç olası şüpheliyi aday gösterdiler, genede.</Content>
         </Dialog>
         <Dialog ID="3" Model="이사도라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_isadora3</VoiceFile>
-          <Content>Hasta ahora, tenemos dos Plagas Urbanas, ‘Lavadero de Sueños’ y la ‘Promesa de Ayer’, y una Leyenda Urbana, ‘La Iglesia de los Engranajes’.</Content>
+          <Content>Şu ana kadar, iki tane Şehir Salgınımız var "Rüyalar Çamaşırhanesi" ve "Dün'ün Sözü"; ve bir tane de Şehir Efsanesi "Dişli Çarklar Kilisesi".</Content>
         </Dialog>
         <Dialog ID="4" Model="월터">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_walter2</VoiceFile>
-          <Content>La investigación no ha ido muy bien, ¿verdad?</Content>
+          <Content>Araştırma pek te iyi gitmiyor, değil mi?</Content>
         </Dialog>
         <Dialog ID="5" Model="이사도라">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_isadora4</VoiceFile>
-          <Content>Oh, ‘La Biblioteca’, recientemente se ha vuelto un Mito Urbano, también es una de los posibles candidatos.</Content>
+          <Content>Oh, ve "Kütüphane", yakın zamanda Şehir Masalı olarak atandı, aynı zamanda olası kaynaklar listesinin içinde.</Content>
         </Dialog>
         <Dialog ID="6" Model="월터">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_walter3</VoiceFile>
-          <Content>Hah, supongo que incluso los altos cargos no tienen ninguna pista, ¿verdad? Viendo como están lanzando sospechosos al azar.</Content>
+          <Content>Hah, üsttekilerin dahi bir fikri yok, öyle mi? Böyle rastgele tahminler ortaya atıyorlar.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane'nin İçerisi</PlaceName>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland1</VoiceFile>
-          <Content>Me estoy comenzando a acostumbrar a organizar los libros.</Content>
+          <Content>Kitapları düzenlemeye alışmaya başladım.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela1</VoiceFile>
-          <Content>Dime, ¿por qué me estás ayudando tan obedientemente?</Content>
+          <Content>Söyle bana, neden bana çok itaatkar bir şekilde yardım ediyorsun?</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland2</VoiceFile>
-          <Content>¿Qué? ¿Recuerdas que me dijiste que ibas a matarme si no cooperada? Porque yo sí que lo recuerdo.</Content>
+          <Content>Ne? Eğer yardım etmezsem beni öldüreceğini söylediğini hatırlıyormusun? Çünkü ben hatırlıyorum.</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland3</VoiceFile>
-          <Content>Y tampoco puedo irme por mi cuenta.</Content>
+          <Content>Ve buradan kendi isteğimle çıkamam, zaten.</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela2</VoiceFile>
-          <Content>Pero... ¿no pareces motivado por el miedo?</Content>
+          <Content>Yinede, motivasyonun korkudan kaynaklı gibi durmuyor?</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela3</VoiceFile>
-          <Content>He visto a demasiada gente tirada por el suelo, afligida con miedo y terror.</Content>
+          <Content>Yerlerde sürünen bir sürü insan gördüm, korku ve dehşet içinde kalmış.</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela4</VoiceFile>
-          <Content>Juzgando por mis observaciones pasadas, dudo que me estés ayudando solo porque tengas miedo de morir.</Content>
+          <Content>Geçmişimdeki gözlemlerime dayanarak, senin bana sadece ölmekten korktuğun için yardım ettiğini düşünmüyorum.</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland4</VoiceFile>
-          <Content>Qué demonios estuviste haciendo en el pasado...</Content>
+          <Content>Geçmişte sen ne yapıyordun be...</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland5</VoiceFile>
-          <Content>Siendo honesto, también hay algunas cosas que quiero saber de este lugar.</Content>
+          <Content>Dürüst olmak gerekirse, bu mekan hakkında benimde bilmek istediğim şeyler var.</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela5</VoiceFile>
-          <Content>¿Por ejemplo?</Content>
+          <Content>Ne gibi?</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland6</VoiceFile>
-          <Content>¿Dijiste que querías conseguir el libro perfecto mientras conseguías libros sobre la Ciudad, verdad?</Content>
+          <Content>Sen Şehirdeki kitapları toplayarak tek bir mükemmel kitabı elde etmek istediğini söylemiştin, değil mi?</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland7</VoiceFile>
-          <Content>Supuse que podría tener algunas experiencias divertidas si me unía a ti en ese viaje.</Content>
+          <Content>Ben düşündüm de, eğer senin bu yolculuğuna bende katılırsam eğlenceli aktivitelerle karşılaşabilirim.</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland8</VoiceFile>
-          <Content>No es que tenga mucho que hacer fuera de todos modos. Solo volvería a ser un Fixer fracasado, estando en el fondo del barril de nuevo.</Content>
+          <Content> Orada pek yapıcak birşeyim de yok, zaten. Bitik bir Fixer olmaya, fıçının dibini sıyırmaya tekrar geri dönerim.</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland9</VoiceFile>
-          <Content>... Y hay una cosa que he querido averiguar más que cualquier otra cosa.</Content>
+          <Content>...Ve her şeyden önemli öğrenmek istediğim bir şey var.</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland10</VoiceFile>
-          <Content>Esperaba encontrar la respuesta aquí algún día si me quedaba cerca y te ayudaba.</Content>
+          <Content>Burada kalıp sana yardım etmeye devam edersem o sorunun cevabını bir gün bulmayı umuyorum.</Content>
         </Dialog>
         <Dialog ID="22" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela6</VoiceFile>
-          <Content>Ya veo, tenemos los mismos intereses.</Content>
+          <Content>Aynı alanlarda ilgimiz var, görüyorum ki.</Content>
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela7</VoiceFile>
-          <Content>Seguro, igual como te estoy explotando, eres libre de usarme.</Content>
+          <Content>Tabii, seni ne kadar da kullansam da, sen de beni kullanmakta özgürsun.</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela8</VoiceFile>
-          <Content>Pero ten cuidado. Un intento descuidado podría terminar matándote.</Content>
+          <Content>Dikkatli olmaya çalış, tabii. Dikkatsiz bir denemen seni gerçekten öldürebilir.</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland11</VoiceFile>
-          <Content>Sheesh, eres demasiado cruel con las palabras.</Content>
+          <Content>Yuh, kelimelerle fazla zalim oluyorsun.</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland12</VoiceFile>
-          <Content>¿Qué te hizo ser tan afilada?</Content>
+          <Content>Seni bu kadar keskin yapan şey neydi?</Content>
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela9</VoiceFile>
-          <Content>... Es mejor que no curiosees en mi pasado. Ya tengo ganas de derretir lentamente tus extremidades esta vez.</Content>
+          <Content>...Benim geçmişime daha fazla burnunu sokmasan iyi olur. Bu sefer uzuvlarını yavaşça eritesim geldi.</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland13</VoiceFile>
-          <Content>Vale, geez...</Content>
+          <Content>Tamam, tamam...</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland14</VoiceFile>
-          <Content>Eh, tengo una pregunta, ma’am. ¿Puedo hacértela?</Content>
+          <Content>Uhm, Bir sorum var, hanımefendi. Soru alıyormusunuz, hanımefendi?</Content>
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela10</VoiceFile>
-          <Content>¿Qué es ahora? Espero que sea una pregunta apropiada. Ya te he advertido.</Content>
+          <Content>Gene ne var? Düzgün bir soru sor. Seni zaten uyardım.</Content>
         </Dialog>
         <Dialog ID="31" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland15</VoiceFile>
-          <Content>¿Qué pasa con los Bibliotecarios aquí? No se “sienten” como humanos reales...</Content>
+          <Content>Buradaki kütüphanecilerin neyi var? Onlar "gerçek" bir insan gibi hissettirmiyorlar...</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland16</VoiceFile>
-          <Content>Pero tampoco parecen máquinas o criaturas artificiales.</Content>
+          <Content>Fakat makine veya yapay zeka gibi de durmuyorlar.</Content>
         </Dialog>
         <Dialog ID="33" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela11</VoiceFile>
-          <Content>Las entidades llamadas Anormalidades y los Empleados, ambos fueron explotados en la instalación que una vez estuvo en donde estamos...</Content>
+          <Content>Anormallikler ve işçiler adı verilen varlıklar, Her ikisi de, bir zamanlar şu anda bulunduğumuz yerde duran tesis tarafından tamamen kullanıldılar...</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela12</VoiceFile>
-          <Content>Ellos son como yo en ese sentido.</Content>
+          <Content>O açıdan benim gibiler.</Content>
         </Dialog>
         <Dialog ID="35" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela13</VoiceFile>
-          <Content>Originados de humanos, explotados y abandonados una vez que no servíamos.</Content>
+          <Content>İnsanlar tarafından oluşturulan, kullanılan, ve işe yaramıyacak hale gelince terk edilen.</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland17</VoiceFile>
-          <Content>No sé, lo que les haces ahora aún me parece explotación...</Content>
+          <Content>Onlarla şuan yaptığın ne bilemiyorum, hala kullanmak gibi duruyor...</Content>
         </Dialog>
         <Dialog ID="37" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela14</VoiceFile>
-          <Content>Ellos estaban rotos. No podían mantener una forma estable y su existencia era tan frágil que podrían desvanecerse en cualquier momento. A penas son capaces de mantener su forma porque los he atado a un cuerpo físico y a un libro.</Content>
+          <Content>Parçalanmışlardı. Dengeli bir şekilde bile duramıyorlardı, ve varoluşları o kadar narindi ki her an silinebilirlerdi. Onları bir kitaba ve fiziksel vücuda bağlayarak zar zor hayatta tutabildim.</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela15</VoiceFile>
-          <Content>Todo lo que puedo hacer por ellos es encontrar el único libro que me liberará a mí y a los Bibliotecarios.</Content>
+          <Content>Şimdi onlar için yapabileceğim tek şey beni ve kütüphanecileri özgür edicek kitabı bulmak.</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland18</VoiceFile>
-          <Content>¿También liberarás a los Bibliotecarios?</Content>
+          <Content>Kütüphanecileri serbest mi bırakacaksın?</Content>
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela16</VoiceFile>
-          <Content>Esa es la única forma de que podamos irnos, ¿sabes?</Content>
+          <Content>Buradan çıkabilmemiz için tek yol bu, biliyorsun ya?</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela17</VoiceFile>
-          <Content>Usé el mismo tipo de poder para reconstruir tu cuerpo.</Content>
+          <Content>Senin vücudunu tekrar birleştirmek için de aynı gücü kullandım.</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland19</VoiceFile>
           <Content>Hunh...</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela18</VoiceFile>
-          <Content>Solo recuerda esto.</Content>
+          <Content>Sadece şunu hatırla.</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela19</VoiceFile>
-          <Content>Mientras coleccionemos numerosos libros de nuestros invitados, eventualmente llegáremos al único y absoluto libro que lo contiene todo.</Content>
+          <Content>Misafirlerimizden sayısız kitap topladıkça, sonunda o her şeyi içeren mutlak kitaba ulaşacağız.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -290,486 +290,486 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Localización: Bistro de Pierre</PlaceName>
+        <PlaceName>Konum: Pierre’nin Bistrosu</PlaceName>
         <Dialog ID="0" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre1</VoiceFile>
-          <Content>Nope, esto no, esto tampoco funcionará... ¡No puedo encontrar el indicado que me llene de inspiración!</Content>
+          <Content>Hayır, bu da değil, o da iş görmez... Bana ilham getirebilecek şeyi bir türlü bulamıyorum!</Content>
         </Dialog>
         <Dialog ID="1" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack1</VoiceFile>
-          <Content>Eh, Pierre~ Te he traído algo de carne fresca.</Content>
+          <Content>Hey, Pierre~ Bu sefer sana taze getirdim.</Content>
         </Dialog>
         <Dialog ID="2" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack2</VoiceFile>
-          <Content>Están un poco golpeados, pero aún respiran.</Content>
+          <Content>Biraz fazla ağır yaralılılar, ama hala nefes alıyorlar.</Content>
         </Dialog>
         <Dialog ID="3" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack3</VoiceFile>
-          <Content>¿Ocupada creando un nuevo plato?</Content>
+          <Content>Ne, yeni bir yemek geliştirmekle mi meşgulsün?</Content>
         </Dialog>
         <Dialog ID="4" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre2</VoiceFile>
-          <Content>¡Bienvenido, Jack~!</Content>
+          <Content>Hoşgeldin, Jack~!</Content>
         </Dialog>
         <Dialog ID="5" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre3</VoiceFile>
-          <Content>Los platos son una cosa, pero hemos estado muy cortos de ingredientes estos días.</Content>
+          <Content>Yemekler ayrı bir konu, ama şu aralar malzemelerin çok az olması konusunda sıkıntı çekiyoruz.</Content>
         </Dialog>
         <Dialog ID="6" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre4</VoiceFile>
-          <Content>Por cierto, tengo a mi confiable amigo Jack aquí, no tendré que preocuparme sobre eso por un tiempo.</Content>
+          <Content>Neyse ki güvenilir arkadaşım Jack var yanımda, o yüzden bunun için bir süreliğine endişelenmeme gerek yok.</Content>
         </Dialog>
         <Dialog ID="7" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack4</VoiceFile>
-          <Content>¿Qué sucedió?</Content>
+          <Content>Ne oldu?</Content>
         </Dialog>
         <Dialog ID="8" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre5</VoiceFile>
-          <Content>‘Los Músicos de Bremen’ dijeron que no nos iban a vender ingredientes.</Content>
+          <Content>‘Bremen Mızıkacıları’ bize artık malzeme satmıyacaklarını söyledi.</Content>
         </Dialog>
         <Dialog ID="9" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack5</VoiceFile>
-          <Content>Esos tipos siempre fueron impredecibles.</Content>
+          <Content>O ucubeler hep tahmin edilemez tiplerdi.</Content>
         </Dialog>
         <Dialog ID="10" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack6</VoiceFile>
-          <Content>¿Qué pasa con ‘Pequeña Cerdita’?</Content>
+          <Content>Peki ya ‘Küçük Domuzcuk'un’ yeri?</Content>
         </Dialog>
         <Dialog ID="11" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre6</VoiceFile>
-          <Content>Lo mismo, dejaron de intercambiar con nosotros...</Content>
+          <Content>Aynı durum, bizimle pazarlığı kestiler...</Content>
         </Dialog>
         <Dialog ID="12" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre7</VoiceFile>
-          <Content>Tendremos que hacerlo a la vieja usanza. Tú y yo, juntos.</Content>
+          <Content>Bunu eski şekilde halletmemiz gerek. Sen ve ben, beraber.</Content>
         </Dialog>
         <Dialog ID="13" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack7</VoiceFile>
-          <Content>Me encantaría, pero no podemos ir al sitio habitual.</Content>
+          <Content>Yapmayı isterim, ama artık her zamanki yerimize gidemeyiz.</Content>
         </Dialog>
         <Dialog ID="14" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack8</VoiceFile>
-          <Content>Los, eh... de la ‘Asociación Zwei’ están protegiendo esa área ahora.</Content>
+          <Content>Şey, uhh... ‘Zwei Birligi’ o alanı koruyor artık.</Content>
         </Dialog>
         <Dialog ID="15" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre8</VoiceFile>
-          <Content>Entonces, ¡deberíamos ser los pioneros de una nueva cadena de suministros!</Content>
+          <Content>O zaman yeni tedarik zincirleri kurmalıyız!</Content>
         </Dialog>
         <Dialog ID="16" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre9</VoiceFile>
-          <Content>Mientras lo hacemos, me gustaría experimentar más con los nuevos ingredientes. He estado usando a jóvenes únicamente por demasiado tiempo.</Content>
+          <Content>Hazır bu konudayken, yeni malzemelerle daha deneysel olmak istiyorum. Uzun süredir sadece genç olanları kullanıyordum.</Content>
         </Dialog>
         <Dialog ID="17" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack9</VoiceFile>
-          <Content>Oh, qué mala suerte... Extrañaré las empanadas de carne que haces...</Content>
+          <Content>Ah, bu baya talihsiz... Yaptığın etli börekleri özleyeceğim...</Content>
         </Dialog>
         <Dialog ID="18" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre10</VoiceFile>
-          <Content>Tendrás que superarlo, por mucho que sea desafortunado. Ya que hemos perdido a muchos vendedores que nos solían traer carne de calidad, seguir con los platillos convencionales no servirá. Los gastrónomos notarán la caída en la calidad de nuestros ingredientes.</Content>
+          <Content>Bunu kabullenmen gerekecek, ne kadar talihsizlikte olsa. Bize kaliteli et sağlayan birkaç tedarikçimizi kaybettiğimizden, geleneksel yemeklere bağlı kalmak yeterli olmayacak. Gurmeler malzemelerimizin kalitesindeki düşüşü kesin fark edecekler.</Content>
         </Dialog>
         <Dialog ID="19" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack10</VoiceFile>
-          <Content>¿Estabas aspirando a ser una de ‘Los Ocho Chefs’, verdad, Pierre?</Content>
+          <Content>‘Sekiz Şef’ten biri olmayı hedefliyordun, değil mi, Pierre?</Content>
         </Dialog>
         <Dialog ID="20" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre11</VoiceFile>
-          <Content>¡Es correcto! Los Ocho Chefs son las más brillantes de las Estrellas de la Ciudad que brillan sobre nosotros.</Content>
+          <Content>Bu doğru! Sekiz Şef, üzerimizde parıldayan Şehir Yıldızları'nın en parlak olanlarıdır.</Content>
         </Dialog>
         <Dialog ID="21" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre12</VoiceFile>
-          <Content>Nunca fallan en presentarnos sabores impresionantes y sensacionales.</Content>
+          <Content>Bize en etkileyici ve heyecan verici tatlar sunmakta hiç başarız olmadılar.</Content>
         </Dialog>
         <Dialog ID="22" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack11</VoiceFile>
-          <Content>¿Qué tipo de nuevos ingredientes buscas esta vez?</Content>
+          <Content>Ne tür yeni malzemelere bakıyorsun?</Content>
         </Dialog>
         <Dialog ID="23" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack12</VoiceFile>
-          <Content>Los viejos deberían ser más fáciles de conseguir, aunque su carne tiende a ser blanda. No es la favorita de todos, pero a algunos les gusta.</Content>
+          <Content>Yaşlı olanları yakalamak daha kolay olur, fakat onların etleri genelde yumuşak oluyor. Herkesin favorisi değil, ama bazıları beğeniyor.</Content>
         </Dialog>
         <Dialog ID="24" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre13</VoiceFile>
-          <Content>No busco algo en específico. Quiero un sabor que nos diferencie de los otros restaurantes.</Content>
+          <Content>İnsanların beğenisini aramıyorum. Bizi diğer restoranlardan farklı kılacak bir lezzet istiyorum.</Content>
         </Dialog>
         <Dialog ID="25" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre14</VoiceFile>
-          <Content>¿Has escuchado de la Biblioteca? He escuchado que ahí viven monstruos.</Content>
+          <Content>Hiç Kütüphaneyi duymuş muydun? Duyduğuma göre canavarlar yaşıyormuş orada.</Content>
         </Dialog>
         <Dialog ID="26" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre15</VoiceFile>
-          <Content>Puede ser un Mito Urbano, pero la carne de monstruo es más difícil de conseguir a menos que viajemos a las Afueras.</Content>
+          <Content>Hala bir Şehir Söylentisi olabilir, ama Outskirts'e kadar seyahat etmeden canavar etini elde etmesi genelde zor.</Content>
         </Dialog>
         <Dialog ID="27" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack13</VoiceFile>
-          <Content>¡Ahá...! Eso es bastante prometedor..</Content>
+          <Content>Oho... Bu umut verici...</Content>
         </Dialog>
         <Dialog ID="28" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre16</VoiceFile>
-          <Content>¿Verdad? Conseguí una Invitación hace un tiempo, ¿ves?</Content>
+          <Content>Değil mi? Bir süre önce o kütüphaneden davetiye aldım, görüyor musun?</Content>
         </Dialog>
         <Dialog ID="29" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre17</VoiceFile>
-          <Content>Sorprenderé a los gastrónomos con un plato muy estimulante y novedoso, que podría incluso rivalizar con el de Los Ocho Chefs.</Content>
+          <Content>Gurmeleri, o kadar ilham veren ve yenilikçi bir yemekle şaşırtacağım ki, Sekiz Şef'lerin kendisiyle bile rekabet edebilir.</Content>
         </Dialog>
         <Dialog ID="30" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre18</VoiceFile>
-          <Content>Entonces, Jack, solo puedes contar conmigo y seguir mi guía, ¿entiendes?</Content>
+          <Content>Yani, Jack, O yüzden bana güvenebilir ve beni takip edebilirsin, anladın mı?</Content>
         </Dialog>
         <Dialog ID="31" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack14</VoiceFile>
-          <Content>¿Qué vamos a hacer con los ingredientes que traje hoy?</Content>
+          <Content>O zaman bugün getirdiğim malzemelerle ne yapacağız?</Content>
         </Dialog>
         <Dialog ID="32" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre19</VoiceFile>
-          <Content>Ah, vamos a volvernos mermelada.</Content>
+          <Content>Ah, onları reçel yapalım.</Content>
         </Dialog>
         <Dialog ID="33" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre20</VoiceFile>
-          <Content>Los vamos a embotellar vivos, así que ponles algunos analgésicos y represores, y ponlos en la batidora....</Content>
+          <Content>Onları canlıyken kapatıyoruz, O zaman onları anestezikler ve baskılayıcı damlalarla sızdır ve yoğurucuya koy.</Content>
         </Dialog>
         <Dialog ID="34" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack15</VoiceFile>
-          <Content>La mermelada de carne sabe bien...</Content>
+          <Content>Et reçeli harika...</Content>
         </Dialog>
         <Dialog ID="35" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre21</VoiceFile>
-          <Content>¡Sabía que te encantaría!</Content>
+          <Content>Beğeneceğini tahmin etmiştim!</Content>
         </Dialog>
         <Dialog ID="36" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre22</VoiceFile>
-          <Content>Oh, y como dije antes, tienes que poner los pies primero, no la cabeza. Tenemos que mantenerlos con vida por tanto tiempo como sea posible, sabes.</Content>
+          <Content>Oh, ve önceden dediğim gibi, bacaklarından koymalısın, kafalarından değil. Onları olabildiğince canlı tutmalıyız, biliyorsun.</Content>
         </Dialog>
         <Dialog ID="37" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre23</VoiceFile>
-          <Content>No es tan sabroso si mueren demasiado rápido.</Content>
+          <Content>Çabucak ölürlerse tadı o kadar da güzel olmuyor.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane'nin İçerisi</PlaceName>
         <Dialog ID="38" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Pierre_ep1_angela1</VoiceFile>
-          <Content>¿El canibalismo es algo común en los Barrios Bajos?</Content>
+          <Content> Yamyamlık Arka Sokaklar'da olan bir şey gibi görünüyor?</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Pierre_ep1_roland1</VoiceFile>
-          <Content>Seh, hay unos cuantos pervertidos maniáticos que están en eso.</Content>
+          <Content>Buna düşgün olan epeyce sapkın manyak var, evet.</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Pierre_ep1_roland2</VoiceFile>
-          <Content>Pero es un tipo de tabú incluso en los Barrios Bajos. Ciertamente, no puedes ir por ahí diciendo sobre lo sabrosa que es la carne humana.</Content>
+          <Content>Ama Arka Sokaklar'da kısmen yasak. Gidipte insan etinin ne kadar lezzetli olduğunu etrafta söyleyemezsin.</Content>
         </Dialog>
         <Dialog ID="41" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Pierre_ep1_roland3</VoiceFile>
-          <Content>Es actualmente la gente más adinerada la que consume más carne humana.</Content>
+          <Content>Aslında insan etini daha çok zengin halk tüketiyor.</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Pierre_ep1_roland4</VoiceFile>
-          <Content>Sin embargo... Los Barrios Bajos del Distrito 23 son una excepción.</Content>
+          <Content>Ancak... Bölge 23'ün Arka Sokaklar'ı bir istisna.</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Pierre_ep1_roland5</VoiceFile>
-          <Content>La gente ahí solo se preocupa de perseguir el sabor definitivo y harán lo que sea por conseguirlo.</Content>
+          <Content>Oradaki insanlar sadece eşsiz tada ulaşma peşinde, ve bunun için her şeyi yapabilirler.</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Pierre_ep1_angela2</VoiceFile>
-          <Content>Cada parte de los Barrios Bajos parecen tener su propio conjunto de características.</Content>
+          <Content>Arka Sokaklar'ın her bir kısmının kendince karakteristikleri var gibi.</Content>
         </Dialog>
         <Dialog ID="45" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Pierre_ep1_roland6</VoiceFile>
-          <Content>Depende mayormente de las políticas impuestas por el Nido y el Ala.</Content>
+          <Content>Bu çoğunlukla Yuva ve Kanat tarafından koyulan kurallara bağlı.</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Pierre_ep1_roland7</VoiceFile>
-          <Content>Aunque la mayoría de los Barrios Bajos están siendo descuidados.</Content>
+          <Content>Fakat Arka Sokaklar'ın çoğu göz ardı ediliyor.</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Pierre_ep1_angela3</VoiceFile>
-          <Content>¿Es la carne humana particularmente deliciosa o algo?</Content>
+          <Content>İnsan eti özellikle lezzetli falan mı?</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Pierre_ep1_roland8</VoiceFile>
-          <Content>Como si lo supiera. Nunca lo he intentado, ni quiero hacerlo.</Content>
+          <Content>Bilmiyorum. Hiç denemedim, denememde.</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Pierre_ep1_roland9</VoiceFile>
-          <Content>Esos chicos están secuestrando gente ordinaria para cocinarlos justo después.</Content>
+          <Content>Şu elemanlar sıradan insanları kaçırıyor ve hemen sonrasında pişiriyorlar.</Content>
         </Dialog>
         <Dialog ID="50" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Pierre_ep1_roland10</VoiceFile>
-          <Content>Los gastrónomos parecen pensar que ese tipo de crueldad añade al sabor...</Content>
+          <Content>Gurmeler böyle bir eziyetin tada tat kattığını düşünüyor...</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Pierre_ep1_roland11</VoiceFile>
-          <Content>Incluso peor, creen que cocinar gente viva y hacerlos sufrir tanto como sea posible es la llave para perfeccionar el sabor.</Content>
+          <Content>En kötüsüde, İnsanları canlı pişirmenin ve olabildiğince fazla acı çekmelerini sağlamanın mükemmel tadın anahtarı olduğuna inanıyorlar.</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Pierre_ep1_angela4</VoiceFile>
-          <Content>Humanos comiendo humanos. Qué espectáculo.</Content>
+          <Content>İnsanlar insanları yiyor. Görülmeye değer bir manzara.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="53" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre24</VoiceFile>
-          <Content>Mmm~ Este es un olor completamente nuevo.</Content>
+          <Content>Mmm~ bu yepyeni bir koku.</Content>
         </Dialog>
         <Dialog ID="54" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack16</VoiceFile>
-          <Content>No creo que me guste esta esencia.</Content>
+          <Content>Bu kokuyu beğendiğimi sanmıyorum.</Content>
         </Dialog>
         <Dialog ID="55" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre25</VoiceFile>
-          <Content>Venga, Jack, las cosas poco familiares como esta son las que brindan nuevas ideas, ¿sabes?</Content>
+          <Content>Bak Jack, işte böyle yabancılıklar yeni fikirler doğurur, anlıyor musun?</Content>
         </Dialog>
         <Dialog ID="56" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack17</VoiceFile>
-          <Content>Si tú lo dices.</Content>
+          <Content>Öyle diyorsan öyledir.</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Pierre_ep1_angela5</VoiceFile>
-          <Content>Bienvenidos, queridos invitados.</Content>
+          <Content>Hoşgeldiniz, değerli misafirler.</Content>
         </Dialog>
         <Dialog ID="58" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Pierre_ep1_angela6</VoiceFile>
-          <Content>Yo soy Angela, directora y bibliotecaria de esta Biblioteca.</Content>
+          <Content>Ben Angela, kütüphanenin direktörü ve rolümün adını taşıyan kütüphaneci.</Content>
         </Dialog>
         <Dialog ID="59" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre26</VoiceFile>
-          <Content>Woooooow~ Qué maravilloso y espectacular ingrediente, con una apariencia tan deslumbrante...</Content>
+          <Content>Woooooow~ Ne kadar harika görünen bir malzeme bu böyle, ne de parlak bir yüzeyi var...</Content>
         </Dialog>
         <Dialog ID="60" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack18</VoiceFile>
-          <Content>Ella ciertamente parece fresca, un ingrediente de grado alto por fuera, pero... ¿Pierre?</Content>
+          <Content>Gerçektende taze, yüksek-sınıf bir malzeme olarak görünüyor dışardan, ama... Pierre?</Content>
         </Dialog>
         <Dialog ID="61" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre27</VoiceFile>
-          <Content>Sí, lo sé. Ella desafortunadamente no es humana.</Content>
+          <Content>Evet, Biliyorum. Ne yazık ki o insan değil.</Content>
         </Dialog>
         <Dialog ID="62" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre28</VoiceFile>
-          <Content>¡Pero! Ese es el motivo de que sea incluso más emocionante. ¿Cómo podría saber?</Content>
+          <Content>Ama! İşte bu yüzden daha da heyecanladım. Tadın nasıl?</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Pierre_ep1_angela7</VoiceFile>
-          <Content>Lamento decir que no pueden hacerme ningún daño.</Content>
+          <Content>Üzgünüm ki bana hiçbir şekilde zarar veremezsiniz.</Content>
         </Dialog>
         <Dialog ID="64" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack19</VoiceFile>
-          <Content>Nunca sabremos si no lo intentamos.</Content>
+          <Content>Denemeden asla bilemeyiz.</Content>
         </Dialog>
         <Dialog ID="65" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre29</VoiceFile>
-          <Content>Cálmate, Jack. Deberíamos mantener nuestros modales. Ella es la magnífica persona que nos invitó aquí, ¿sabes?</Content>
+          <Content>Sakin ol, Jack. Nezaketimizi sürürmeliyiz. Bizi buraya davet eden harika kişi o, görüyorsun ya?</Content>
         </Dialog>
         <Dialog ID="66" Model="잭">
           <Teller>Jack</Teller>
-          <Title>Segundo-Chef de Pierre</Title>
+          <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack20</VoiceFile>
-          <Content>Oh, sí... Disculpa por mi rudeza, ma’am.</Content>
+          <Content>Oh, tabi... Kabalığım için özür dilerim, hanımefendi.</Content>
         </Dialog>
         <Dialog ID="67" Model="피에르">
           <Teller>Pierre</Teller>
-          <Title>Chef de Cocina</Title>
+          <Title>Baş Aşçı</Title>
           <VoiceFile>ch2_Pierre_ep1_pierre30</VoiceFile>
-          <Content>Entonces, ¿Señorita Angela? ¿Puedo entrar?</Content>
+          <Content>Peki öyleyse, Angela Hanım? Artık girebilir miyiz?</Content>
         </Dialog>
         <Dialog ID="68" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Pierre_ep1_angela8</VoiceFile>
-          <Content>Que encuentres tu libro en este lugar.</Content>
+          <Content>Umarım aradığınız kitabı burada bulursunuz.</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
       <EpisodeName>에피소드1-종료</EpisodeName>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Pierre_ep1_roland12</VoiceFile>
-          <Content>Uf, qué montón de chiflados. Es mejor no interactuar con tipos como esos.</Content>
+          <Content>Ugh, Ne kadarda deli bir grup. Bunlar gibileriyle iletişim kurmamak en iyisi.</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Pierre_ep1_angela9</VoiceFile>
-          <Content>Al menos tenían mejores modales que tú.</Content>
+          <Content>En azından senden daha terbiyeliydiler.</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Pierre_ep1_roland13</VoiceFile>
-          <Content>Bueno, ¡aquí viene un poco de sabiduría para nuestra aún inocente Bibliotecaria!</Content>
+          <Content>Hala saf olan hanımefendi kütüphanecimize işte bir nasihat!</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Pierre_ep1_roland14</VoiceFile>
-          <Content>Si conoces a una persona educada y con buenos modales en los Barrios Bajos, corre por tu vida.</Content>
+          <Content>Eğer Arka Sokaklar'da nazik ve terbiyeli insanlarla tanışırsan, canını kurtarmak için kaç.</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Pierre_ep1_roland15</VoiceFile>
-          <Content>No todos los lunáticos son educados, pero la gente educada tiende a ser lunática.</Content>
+          <Content>Bütün deliler nazik olmayabilirler, ama nazik insanlar genelde deli olurlar.</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Pierre_ep1_angela10</VoiceFile>
-          <Content>No sé si eso tenga algo que ver con la educación.</Content>
+          <Content>Bunun nezaketle bir alakası olduğundan emin değilim.</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Pierre_ep1_roland16</VoiceFile>
-          <Content>¡Y aquí viene otro poco de sabiduría!</Content>
+          <Content>Ve işte başka bir nasihat daha!</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Pierre_ep1_roland17</VoiceFile>
-          <Content>Los lunáticos siempre existen en cualquier tipo de grupo, así que no tiene sentido usar algún tipo de criterio para dividir a las personas en grupos para ver cuál está más loca.</Content>
+          <Content>Deliler her insan grubunun içinde vardır, o yüzden insanları gruplara bölüp hangi grubun daha deli olduğunu görmek için kriter kullanmanın hiç bir anlamı yok.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Pierre_ep1_angela11</VoiceFile>
-          <Content>Qué montón de estupideces.</Content>
+          <Content>Ne saçmaladın.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -779,957 +779,957 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Localización: Oficina Streetlight</PlaceName>
+        <PlaceName>Konum: Sokak Lambası Ofisi</PlaceName>
         <Dialog ID="0" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu1</VoiceFile>
-          <Content>Ah~ Por qué nuestra Oficina es tan poco popular.</Content>
+          <Content>Ahh~ Neden ofisimiz müşteriler açısından popüler değil?</Content>
         </Dialog>
         <Dialog ID="1" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu2</VoiceFile>
-          <Content>Y eso que estamos oficialmente afiliados a la Asociación Zwei.</Content>
+          <Content>Ofisimiz resmi olarak Zwei Birliği tarafından bağlı kuruluş olarakta belirlendi.</Content>
         </Dialog>
         <Dialog ID="2" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu3</VoiceFile>
-          <Content>¡¡¡La tasa de criminalidad en los territorios protegidos por la Oficina Streelight sigue siendo un remarcable 0% mientras el contrato está en efecto!!!</Content>
+          <Content>Ve Sokak Lambası Ofisi tarafından güvence altına alınan Bölgelerde suç oranı, sözleşme geçerli olduğu sürece çarpıcı bir şekilde 0% olarak kalmaktadır.</Content>
         </Dialog>
         <Dialog ID="3" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars1</VoiceFile>
-          <Content>Aunque solo cubrimos dos bloques de espacio.</Content>
+          <Content>Fakat, en fazla iki blokluk bir alanı kapsıyoruz.</Content>
         </Dialog>
         <Dialog ID="4" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars2</VoiceFile>
-          <Content>Y conseguiremos más trabajo eventualmente si esperamos.</Content>
+          <Content>Ve beklemeye devam edersek eninde sonunda iş gelecek.</Content>
         </Dialog>
         <Dialog ID="5" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu4</VoiceFile>
-          <Content>Sí, claro, tú puedes esperar el resto de tu vida. Yo estoy considerando seriamente el cambiar de Oficina.</Content>
+          <Content>Evet ya, tabii, bütün hayatın boyunca beklemeye devam edebilirsin sen. Ben gerçekten de başka bir Ofise taşınmayı düşünüyorum.</Content>
         </Dialog>
         <Dialog ID="6" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars3</VoiceFile>
-          <Content>Nunca pensé que tuvieras lo que se necesita para trabajar en una Oficina más grande.</Content>
+          <Content>Daha büyük bir ofis için çalışabilecek kapasiten olduğunu hiç düşünmemiştim.</Content>
         </Dialog>
         <Dialog ID="7" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu5</VoiceFile>
-          <Content>A diferencia de ti, yo tengo muchos contactos que hice con el tiempo, ¿entiendes?</Content>
+          <Content>Senin aksine, deneyimlerimden edinmiş olduğum iş bağlantılarım var, anlıyor musun?</Content>
         </Dialog>
         <Dialog ID="8" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu6</VoiceFile>
-          <Content>Tu madre tiene que estar demasiado ocupada siendo una Fixer legendaria y eso, mientras yo tengo amigos que me pueden ayudar justo a mi lado.</Content>
+          <Content>Senin şu annen, Efsanevi Fixer veya her ne haltsa onunla çok meşgul herhalde, oysa benim, bana direkt olarak yardım edebilecek arkadaşlarım var.</Content>
         </Dialog>
         <Dialog ID="9" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars4</VoiceFile>
-          <Content>Claro, que gran Fixer eres~</Content>
+          <Content>Evet, gerçekten harika bir Fixer'sın~</Content>
         </Dialog>
         <Dialog ID="10" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu7</VoiceFile>
-          <Content>Sí, sí. Sé lo grande que soy~</Content>
+          <Content>Evet evet. Teşekkürler, biliyorum harikayım~</Content>
         </Dialog>
         <Dialog ID="11" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu8</VoiceFile>
-          <Content>¡¡Eh!! ¡¡¡Te comiste el pastel del refrigerador, verdad!!!</Content>
+          <Content>Hey!!! Buzdolabındaki pastayı yedin, değil mi!!!!!!</Content>
         </Dialog>
         <Dialog ID="12" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san1</VoiceFile>
-          <Content>Chicos, tenemos trabajo.</Content>
+          <Content>Çocuklar, sizler için bir işim var.</Content>
         </Dialog>
         <Dialog ID="13" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san2</VoiceFile>
-          <Content>... Peleando de nuevo, no es así...</Content>
+          <Content>...Yine kavga mı ediyorsunuz...</Content>
         </Dialog>
         <Dialog ID="14" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu9</VoiceFile>
-          <Content>¡¡Este H.D.P se comió mi pastel sin siquiera preguntarme!!</Content>
+          <Content>Bu Ağlak O.Ç bana pastayı sormadan yemiş!!</Content>
         </Dialog>
         <Dialog ID="15" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars5</VoiceFile>
-          <Content>La fecha de expiración era ayer, así que me lo comí, eso es todo.</Content>
+          <Content>Son kullanma tarihi dündü, bende icabına baktım, sadece.</Content>
         </Dialog>
         <Dialog ID="16" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu10</VoiceFile>
-          <Content>¡¡¡Aaaaarrrgh!!! ¡¡¡Era MI pastel, incluso si estaba expirado, yo me ocuparé de eso por MI cuenta!!!</Content>
+          <Content>Auuuuuuuuugh!!!!! BEN'İM pastamdı, tarihi geçmiş olsa bile, bunu KENDİ BAŞIMA halledebilirim!!!</Content>
         </Dialog>
         <Dialog ID="17" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars6</VoiceFile>
-          <Content>Por cierto, jefe, ¿cuál es el trabajo?</Content>
+          <Content>Her neyse, patron, o iş nedir?</Content>
         </Dialog>
         <Dialog ID="18" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu11</VoiceFile>
-          <Content>¡¡¡No cambies de tema!!!</Content>
+          <Content>Konuyu değiştirme!!!</Content>
         </Dialog>
         <Dialog ID="19" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san3</VoiceFile>
-          <Content>Te conseguiré otro pastel, así que cálmate por un momento, ¿vale?</Content>
+          <Content>Sana başka bir tane pasta alacağım, şimdi biraz sakinleş, olur mu?</Content>
         </Dialog>
         <Dialog ID="20" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu12</VoiceFile>
-          <Content>Pero... era un pastel de edición limitada...</Content>
+          <Content>Ama... O sınırlı üretim bir pastaydı...</Content>
         </Dialog>
         <Dialog ID="21" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san4</VoiceFile>
-          <Content>Tengo mis dudas, pero conseguí este trabajo de una amiga mía en la Asociación.</Content>
+          <Content>Hala buna karşı şüphelerim var, ama bunu Birlikteki bir arkadaşımdan aldım</Content>
         </Dialog>
         <Dialog ID="22" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu13</VoiceFile>
-          <Content>¿Te refieres a la Fixer Asociada que trabaja directamente para Zwei?</Content>
+          <Content>Zwei’in doğrudan altında çalışan yardimci Fixer'imi kastediyorsun?</Content>
         </Dialog>
         <Dialog ID="23" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san5</VoiceFile>
-          <Content>Sí, es ella. La Asociación Hana aún tiene que considerar esta solicitud como un tema que tiene que ser tratado de forma oficial.</Content>
+          <Content>Evet o. Hana Birliği daha bu işi ele alınması gereken resmi bir konu olarak değerlendirmedi.</Content>
         </Dialog>
         <Dialog ID="24" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san6</VoiceFile>
-          <Content>¿Has escuchado de ‘La Biblioteca’?</Content>
+          <Content>"Kütüphane"yi hiç duymuşmuydunuz?</Content>
         </Dialog>
         <Dialog ID="25" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars7</VoiceFile>
-          <Content>He escuchado la historia. Solemos escuchar a las Ratas hablando sobre eso.</Content>
+          <Content>Bazı hikayeleri hakkında. Fareler'in bundan bahsettiğini duymuştuk.</Content>
         </Dialog>
         <Dialog ID="26" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu14</VoiceFile>
-          <Content>Dijeron que los libros en ese lugar tienen un valor tremendo o algo así.</Content>
+          <Content>O yerdeki kitapların muazzam bir değeri olduğunu ya da böyle bir şey söylediler.</Content>
         </Dialog>
         <Dialog ID="27" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san7</VoiceFile>
-          <Content>Ya veo. Conseguí una Invitación a la Biblioteca de esa amiga que acabo de mencionar.</Content>
+          <Content>Anlıyorum. Demin bahsettiğim arkadaşımdan şu kütüphaneye bir davetiye aldım.</Content>
         </Dialog>
         <Dialog ID="28" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars8</VoiceFile>
-          <Content>No conseguiremos un pago muy grande de esta solicitud si es algo extraoficial.</Content>
+          <Content>Ama eğer bu talep kayıtlara geçmezse, pek fazla ödeme alamayabiliriz.</Content>
         </Dialog>
         <Dialog ID="29" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu15</VoiceFile>
-          <Content>Y tampoco contará para nuestra carrera.</Content>
+          <Content>Ve resmi kariyerimize bir katkıda sağlamaz.</Content>
         </Dialog>
         <Dialog ID="30" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san8</VoiceFile>
-          <Content>Por lo que sé... La Asociación está intentando ser cautelosa.</Content>
+          <Content>Durum böyle... Birlik buna karşı tedbirli kalmaya çalışıyor.</Content>
         </Dialog>
         <Dialog ID="31" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu16</VoiceFile>
-          <Content>¿Realmente vamos a ir a un lugar del que no sabemos nada?</Content>
+          <Content>Gerçektende hiç bilmediğimiz bir yere direkt girecekmiyiz?</Content>
         </Dialog>
         <Dialog ID="32" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san9</VoiceFile>
-          <Content>Ella me prometió que seriamos recompensados con un pago comparable al de una solicitud de clase Leyenda Urbana si todo va bien...</Content>
+          <Content>Her şey yolunda giderse, bize bir Şehir Efsanesi sınıfı talebe benzer bir ödeme sağlanacağına dair söz verdi...</Content>
         </Dialog>
         <Dialog ID="33" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars9</VoiceFile>
-          <Content>...</Content>
+          <Content>......</Content>
         </Dialog>
         <Dialog ID="34" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu17</VoiceFile>
-          <Content>...</Content>
+          <Content>......</Content>
         </Dialog>
         <Dialog ID="35" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san10</VoiceFile>
-          <Content>No es un mal trato, ¿no creen...?</Content>
+          <Content>Galiba kötü bir fikirdi, siz de mi öyle düşünüyorsunuz...?</Content>
         </Dialog>
         <Dialog ID="36" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars10</VoiceFile>
-          <Content>¡Vamos a hacerlo!</Content>
+          <Content>Hadi şunu yapalım!</Content>
         </Dialog>
         <Dialog ID="37" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu18</VoiceFile>
-          <Content>Supongo que no tengo opción. No estamos seguros de poder completar la misión, pero necesitamos ese dinero. No hemos tenido mucho trabajo últimamente.</Content>
+          <Content>Başka bir şansımız yok herhalde. Hala çok şüpheli, ama o paraya ihtiyacımız var. Son zamanlarda pek meşgul olmadık.</Content>
         </Dialog>
         <Dialog ID="38" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san11</VoiceFile>
-          <Content>¡Gracias, chicos! Vamos a superar este trabajo como siempre hacemos.</Content>
+          <Content>Herkese teşekkürler! Her zamanki bununda üstesinden geleceğiz.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane'nin İçerisi</PlaceName>
         <Dialog ID="39" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela1</VoiceFile>
-          <Content>¿Zwei? ¿Hana?</Content>
+          <Content>Zwei? Hana?</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland1</VoiceFile>
-          <Content>Están hablando sobre las Asociaciones de Fixers. Se necesita más que solo entrar a una Oficina para comenzar a ser un Fixer.</Content>
+          <Content>Fixer'ların Birliklerinden bahsediyorlar. Fixer işlerine girmek için sadece bir Ofis açmak yeterli değil.</Content>
         </Dialog>
         <Dialog ID="41" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland2</VoiceFile>
-          <Content>Hay un total de doce Asociaciones Fixer en la Ciudad, cada una a cargo de un tipo de trabajo diferente.</Content>
+          <Content>Şehirde toplamada 12 tane Fixer Birliği var, hepsi farklı iş türleriyle ilgileniyor.</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland3</VoiceFile>
-          <Content>Los casos y solicitudes son todos ordenados de acuerdo a su tipo, y luego son enviados a una de esas asociaciones.</Content>
+          <Content>Vakalar ve işler türüne göre sınıflandırılır ve bu birliklerden birine gönderilir.</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela2</VoiceFile>
-          <Content>Las Asociaciones manejan las Oficinas y les delegan el trabajo, ya veo.</Content>
+          <Content>Birlikler, ofisleri yönetir ve onlara iş verirler, anlıyorum.</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland4</VoiceFile>
-          <Content>Es correcto. Algunas veces, las Asociaciones pueden enviar documentos a múltiples Oficinas a la vez, o que directamente un Fixer Asociado se ocupe del trabajo.</Content>
+          <Content>Bu doğru. Birlikler, bazen belgeleri birden fazla ofise gönderir, ya da direkt olarak yardımcı Fixer'ların halletmesini sağlar.</Content>
         </Dialog>
         <Dialog ID="45" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland5</VoiceFile>
-          <Content>Y entre ellos, la Asociación Hana es la que controla generalmente a todos los Fixers. Ellos asignan grados a los Fixers y autorizan a las Oficinas y esas cosas.</Content>
+          <Content>Ve onların arasında, Hana Birliği bütün Fixerların genel kontrolüne sahiptir. Fixer'ları sınıflandırır,  ofis ve benzeri şeyleri yetkilendirirler.</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela3</VoiceFile>
-          <Content>¿Las Oficinas también tienen grados?</Content>
+          <Content>Ofislerinde Fixerlar gibi sınıfları var mı?</Content>
         </Dialog>
         <Dialog ID="47" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland6</VoiceFile>
-          <Content>Esencialmente. Las solicitudes enviadas por la Asociación también tienen grado.</Content>
+          <Content>Esasen, Birlikler tarafından gönderilen bu işler de sınıflandırılır.</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela4</VoiceFile>
-          <Content>Realmente les encanta poner grados a las cosas, no es así.</Content>
+          <Content>Bir şeyleri sınıflandırmayı çok seviyorlar, değil mi ama.</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland7</VoiceFile>
-          <Content>Es más fácil saber de esa forma.</Content>
+          <Content>O şekilde bilmesi daha kolay oluyor.</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela5</VoiceFile>
-          <Content>¿Saber qué?</Content>
+          <Content>Neyi bilmesi?</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland8</VoiceFile>
-          <Content>Lo valioso que eres como persona...</Content>
+          <Content>Bir insan olarak ne kadar değerli olduğumu...</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland9</VoiceFile>
-          <Content>Piensa sobre esto, ¿quién en esta Ciudad podría decir “¡Esto es lo que valgo!”, con confianza?</Content>
+          <Content>Bir düşün, kim bu şehirde kendinden emince “Değerim işte bu!” diyebilir?</Content>
         </Dialog>
         <Dialog ID="53" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland10</VoiceFile>
-          <Content>Todos están ocupados haciendo sus propias cosas, nadie va a una sala para tener conversaciones profundas sobre el valor del otro.</Content>
+          <Content>Herkes kendi işiyle meşgul, hiç kimse birbirlerinin değerleri hakkında derin sohbetlerle vakit geçirmeyecek.</Content>
         </Dialog>
         <Dialog ID="54" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland11</VoiceFile>
-          <Content>En la otra mano, saber el grado de otro y su afiliación, te puede ahorrar un montón de palabras. Puedes saber si están encima o abajo tuyo de inmediato.</Content>
+          <Content>Birbirlerinin sınıflarını ve bağlantılarını bilmek, diğer yana, tonlarca kelimeden tasarruf sağlar. Konuştuğun kişinin üstündemi ya da altında mı olduğunu hemen anlayabilirsin.</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela6</VoiceFile>
-          <Content>A este punto suena como si la gente hubiera parado de intentar aprender o pensar.</Content>
+          <Content>Kulağa insanların bir noktada öğrenme veya düşünmeyi bırakmışlar gibi geliyor.</Content>
         </Dialog>
         <Dialog ID="56" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland12</VoiceFile>
-          <Content>Apuesto que no dirías lo mismo si experimentaras la vida en la Ciudad por un tiempo.</Content>
+          <Content>Şehir hayatını azcık tecrübe etsen bu dediğini tekrar söylemeyeceğine iddia ederim.</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland13</VoiceFile>
-          <Content>Tienes que interactuar con demasiadas personas ahí, lo quieras o no.</Content>
+          <Content>Orada çok fazla insanla etkileşime girmen gerekiyor, sen istesen de istemesen de.</Content>
         </Dialog>
         <Dialog ID="58" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland14</VoiceFile>
-          <Content>La gente ha buscado formas adaptarse a la Ciudad y esta es solo una de ellas.</Content>
+          <Content>İnsanlar şehire adapte olabilmek için yollar arıyor, ve bu da onlardan biri.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="59" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu19</VoiceFile>
-          <Content>Supongo que estamos realmente desesperados. Pensar que tomaríamos un trabajo como este...</Content>
+          <Content>Sanırım gerçektende durumumuz vahim. Böyle bir işi aldığımızı düşünmek...</Content>
         </Dialog>
         <Dialog ID="60" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars11</VoiceFile>
-          <Content>Deja de quejarte, deberíamos estar contentos de tener trabajo.</Content>
+          <Content>Söylenmeyi kes, en azından bir işimiz olduğu için şükretmeliyiz.</Content>
         </Dialog>
         <Dialog ID="61" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu20</VoiceFile>
-          <Content>¡Lo sé! ¡¿Realmente tienes que apuntar lo obvio?!</Content>
+          <Content>Biliyorum! Bariz olan bir şeyi gerçektende belirtmek mi zorundasın?!</Content>
         </Dialog>
         <Dialog ID="62" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san12</VoiceFile>
-          <Content>Venga, cálmense de una vez, chicos.</Content>
+          <Content>Tamam tamam, sakin olun, çocuklar.</Content>
         </Dialog>
         <Dialog ID="63" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san13</VoiceFile>
-          <Content>No puedo decir si son los mejores amigos o los peores enemigos.</Content>
+          <Content>İyi dostlarmısınız ya da kötü düşmanlarmısınız bilemiyorum.</Content>
         </Dialog>
         <Dialog ID="64" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu21</VoiceFile>
-          <Content>¡¿Perdona?! ¡No me mezcles con este tipo!</Content>
+          <Content>Afedersin?!  Bu ahmakla beni aynı kefeye koyma!</Content>
         </Dialog>
         <Dialog ID="65" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars12</VoiceFile>
-          <Content>Tampoco quiero que me mezcles con ella.</Content>
+          <Content>Ben de istemem böyle bir şeyi.</Content>
         </Dialog>
         <Dialog ID="66" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san14</VoiceFile>
-          <Content>Vale, vale. Vamos a tener un festín en el restaurante de Juli una vez acabemos. La cuenta corre por mi cuenta.</Content>
+          <Content>Tamam, tamam. Bu bittiğinde Juli'nin restoranında bir ziyafet çekelim. Ben karşılıyorum.</Content>
         </Dialog>
         <Dialog ID="67" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu22</VoiceFile>
-          <Content>¡Genial!</Content>
+          <Content>Yehu!</Content>
         </Dialog>
         <Dialog ID="68" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela7</VoiceFile>
-          <Content>Bienvenidos, queridos invitados. Parece que se conocen bastante bien.</Content>
+          <Content>Hoşgeldiniz, değerli misafirler. Birbirinizle yakın gibi görünüyorsunuz.</Content>
         </Dialog>
         <Dialog ID="69" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars13</VoiceFile>
-          <Content>¿Quién eres tú?</Content>
+          <Content>Kimsin sen?</Content>
         </Dialog>
         <Dialog ID="70" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu23</VoiceFile>
-          <Content>Prepárense.</Content>
+          <Content>Hazır olun.</Content>
         </Dialog>
         <Dialog ID="71" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela8</VoiceFile>
-          <Content>No hay necesidad de estar alerta. Vuestra ordalía aún no ha comenzado.</Content>
+          <Content>Endişelenmeye gerek yok. Sınamanız daha başlamadı.</Content>
         </Dialog>
         <Dialog ID="72" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela9</VoiceFile>
-          <Content>Yo soy Angela, directora y bibliotecaria de esta Biblioteca.</Content>
+          <Content>Ben Angela, bu Kütüphanenin direktörü ve rolümün adını taşıyan kütüphaneci</Content>
         </Dialog>
         <Dialog ID="73" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san15</VoiceFile>
-          <Content>Encantado de conocerte. Soy San de la Oficina Streelight.</Content>
+          <Content>Tanıştığımıza memnun oldum. Ben Sokak Lambası Ofisinden San.</Content>
         </Dialog>
         <Dialog ID="74" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san16</VoiceFile>
-          <Content>Fuimos traídos por la Invitación. Hay algo que me gustaría preguntarte.</Content>
+          <Content>Buraya davetiye tarafından getirildik. Davetiye hakkında sormak istediğim bir şey var.</Content>
         </Dialog>
         <Dialog ID="75" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela10</VoiceFile>
-          <Content>¿Qué es?</Content>
+          <Content>Nedir?</Content>
         </Dialog>
         <Dialog ID="76" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san17</VoiceFile>
-          <Content>Recibí esta Invitación de otra persona, no directamente de ti. ¿Aún somos elegibles?</Content>
+          <Content>Ben aslında bu davetiyeyi bir başkasından aldım, direkt sizden değil. Hala geçerli sayılıyormuyuz?</Content>
         </Dialog>
         <Dialog ID="77" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela11</VoiceFile>
-          <Content>Lo son. La Invitación eventualmente llegaría a ti, querido invitado y tú firmaste con tu nombre con tu propia voluntad. Todo ha funcionado según lo previsto.</Content>
+          <Content>Evet, tabikide. Davetiye eninde sonunda size ulaştı, değerli misafir, ve kendi rızanız olarak imzaladınız. Her şey beklenildiği gibi oldu.</Content>
         </Dialog>
         <Dialog ID="78" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san18</VoiceFile>
-          <Content>Ya veo.</Content>
+          <Content>Anlıyorum.</Content>
         </Dialog>
         <Dialog ID="79" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela12</VoiceFile>
-          <Content>Que encuentres tu libro en este lugar.</Content>
+          <Content>Umarım aradığınız kitabı burada bulursunuz.</Content>
         </Dialog>
         <Dialog ID="80" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars14</VoiceFile>
-          <Content>Eh, parecía mejor persona de lo que pensaba.</Content>
+          <Content>Huh, düşündüğümden daha iyi biriydi.</Content>
         </Dialog>
         <Dialog ID="81" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu24</VoiceFile>
-          <Content>¿Acaso te parecía una humana?</Content>
+          <Content>Sana göre o insan gibi miydi?</Content>
         </Dialog>
         <Dialog ID="82" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu25</VoiceFile>
-          <Content>Digo, tiene la forma de una persona, pero hay algo sobre ella que no se siente bien...</Content>
+          <Content>Yani, bir insan şekline sahipti, ama onda bir şeyler tuhaf gibiydi...</Content>
         </Dialog>
         <Dialog ID="83" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu26</VoiceFile>
-          <Content>Pero no puedo ponerlo en palabras...</Content>
+          <Content>Tam olarak kelimelere dökemiyorum...</Content>
         </Dialog>
         <Dialog ID="84" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san19</VoiceFile>
-          <Content>Ella... probablemente era una máquina.</Content>
+          <Content>O... büyük ihtimalle bir makine.</Content>
         </Dialog>
         <Dialog ID="85" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars15</VoiceFile>
-          <Content>No esperaba ver una máquina tan similar a un ser humano...</Content>
+          <Content>İnsana bu kadar benzeyen bir makine görmeyi hiç beklemiyordum...</Content>
         </Dialog>
         <Dialog ID="86" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san20</VoiceFile>
-          <Content>Vamos a centrarnos en el trabajo.</Content>
+          <Content>Hadi, şimdi işimize odaklanalım.</Content>
         </Dialog>
         <Dialog ID="87" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san21</VoiceFile>
-          <Content>De nuevo, deben escapar tan pronto como sientan que están en peligro.</Content>
+          <Content>Tekrardan söylüyorum, kendinizi tehdit altında hissettiğiniz anda geri çekilin.</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
       <EpisodeName>에피소드1 - 종료</EpisodeName>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane'nin İçerisi</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland15</VoiceFile>
-          <Content>Aún eran unos novatos.</Content>
+          <Content>Hala çaylaklar.</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland16</VoiceFile>
-          <Content>No es una buena idea para un Fixer el formar lazos tan estrechos con los demás.</Content>
+          <Content>Fixer'ların içli dışlı ilişkiler kurmaları pekte iyi bir fikir değil.</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland17</VoiceFile>
-          <Content>Bueno, supongo que esta será una lección para ellos.</Content>
+          <Content>Neyse, bu onlara bir ders olur.</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela13</VoiceFile>
-          <Content>Hablas como si fueras un veterano.</Content>
+          <Content>Böyle şeylere alışmış gibi konuşuyorsun.</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland18</VoiceFile>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland19</VoiceFile>
-          <Content>Oh, yo ya he pasado por esa fase y muchos más también.</Content>
+          <Content>Oh, o aşamaları aştım, ve daha fazlasınıda.</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland20</VoiceFile>
-          <Content>Formar lazos no es malo por sí mismo, pero es demasiado peligroso.</Content>
+          <Content>Bağ kurmak kötü değil aslında, ama bunun içinde çok fazla risk var.</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland21</VoiceFile>
-          <Content>Los verdaderos Fixers saben dónde pisar el freno.</Content>
+          <Content>Uzman Fixer'lar ne zaman bağları kesmek gerektiğini bilir.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela14</VoiceFile>
-          <Content>¿Te refieres a mantener suficiente distancia de la gente, para no sufrir su perdida?</Content>
+          <Content>Onların kayıplarından acı çekmemek için, insanlarla aranı yeterince uzak tutmalısın mı diyorsun?</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland22</VoiceFile>
-          <Content>Seh. Es bastante irónico que gente que no está preparada mentalmente para enfrentar la muerte esté aplicando a un trabajo relacionado con matar cosas en primer lugar.</Content>
+          <Content>Aynen öyle. Mental olarak ölmeye hazır olmayan insanların öldürme içeren bir işe girmesi tam bir ironi.</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
       <EpisodeName>Episode 2</EpisodeName>
       <Place>
-        <PlaceName>Localización: Oficina Streetlight</PlaceName>
+        <PlaceName>Konum: Sokak Lambası Ofisi</PlaceName>
         <Dialog ID="0" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_san1</VoiceFile>
-          <Content>... Lo siento tanto. Es mi culpa que el trabajo fuera mal.</Content>
+          <Content>...Gerçekten çok üzgünüm. İşlerin ters gitmesi tamamen benim suçum.</Content>
         </Dialog>
         <Dialog ID="1" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu1</VoiceFile>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="2" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_san2</VoiceFile>
-          <Content>Mantendremos nuestras manos lejos de la Biblioteca desde ahora.</Content>
+          <Content>...Bundan sonra Kütüphane'den elimizi çekiyoruz.</Content>
         </Dialog>
         <Dialog ID="3" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_san3</VoiceFile>
-          <Content>Estaba fuera de nuestro alcance desde el comienzo. Le enviaré un reporte a Zwei.</Content>
+          <Content>Başından beri bu bizim kapsamımız dışındaydı. Zaten Zwei'e rapor gönderdim bile.</Content>
         </Dialog>
         <Dialog ID="4" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu2</VoiceFile>
-          <Content>¿Qué? ¿Qué pasa con Mars? ¡¿Entonces su muerte no tuvo ningún sentido?!</Content>
+          <Content>Ne? Mars'a ne olacak? Ölümü boşunamıydı o zaman?!</Content>
         </Dialog>
         <Dialog ID="5" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_san4</VoiceFile>
-          <Content>Realmente lo siento... Puedes culparme todo lo que quieras.</Content>
+          <Content>Gerçekten çok üzgünüm... Beni istediğin kadar suçlayabilirsin.</Content>
         </Dialog>
         <Dialog ID="6" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_san5</VoiceFile>
-          <Content>Lo he juzgado mal. Nuestra profesión es mantener la paz, no exploración ni combate.</Content>
+          <Content>Yanlış karar verdim. Bizim uzmanlığımız barışı korumak, keşif yapmak veya savaşmak değil.</Content>
         </Dialog>
         <Dialog ID="7" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu3</VoiceFile>
-          <Content>Hay un pastel en el refrigerador... ¿Fuiste tú, jefe?</Content>
+          <Content>Buzdolabında bir pasta var... Sen mi aldın, patron?</Content>
         </Dialog>
         <Dialog ID="8" Model="산">
           <Teller>San</Teller>
-          <Title>Operador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_san6</VoiceFile>
-          <Content>¿Pastel? No, aún no he comprado ningún pastel...</Content>
+          <Content>Pastamı? Yok, daha pasta almadım...</Content>
         </Dialog>
         <Dialog ID="9" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu4</VoiceFile>
-          <Content>... Saldré por un momento.</Content>
+          <Content>...Biraz dışarı çıkacağım.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Algún lugar en los Barrios Bajos</PlaceName>
+        <PlaceName>Konum: Arka Sokaklar'da Bir yerde</PlaceName>
         <Dialog ID="10" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu5</VoiceFile>
-          <Content>¡¡¡Wahhhhhhhh!!! Estúpido idiota...</Content>
+          <Content>Wahhhhhhhh!!!!! Seni aptal salak...</Content>
         </Dialog>
         <Dialog ID="11" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu6</VoiceFile>
-          <Content>No es propio de ti comprarle pasteles a otros...</Content>
+          <Content>Başkalarına pasta almak, hiç senin yapacağın türden bir şey değil...</Content>
         </Dialog>
         <Dialog ID="12" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu7</VoiceFile>
-          <Content>Dijiste que tu madre era una Fixer increíble...</Content>
+          <Content>Annenin harika bir Fixer olduğunu söylemiştin...</Content>
         </Dialog>
         <Dialog ID="13" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu8</VoiceFile>
-          <Content>Te encantaba presumir tu estúpida gran espada, diciendo que era un regalo de ella...</Content>
+          <Content>Aptal derecede büyük olan kılıçınla hava atmayı severdin, ondan bir hediye olduğunu söyleyerek...</Content>
         </Dialog>
         <Dialog ID="14" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu9</VoiceFile>
-          <Content>Presumías tanto de que serias justo como tu madre algún día...</Content>
+          <Content>Bir gün annen gibi olacağınla o kadar çok övündin ki...</Content>
         </Dialog>
         <Dialog ID="15" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>None</VoiceFile>
           <Content>(!!!)</Content>
         </Dialog>
         <Dialog ID="16" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu10</VoiceFile>
-          <Content>El libro de Mars... ¿Eso es lo que pasa con la gente que ha muerto ahí...?</Content>
+          <Content>Mars'ın kitabı... Orada ölen insanlara bu mu oluyor...?</Content>
         </Dialog>
         <Dialog ID="17" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu11</VoiceFile>
-          <Content>No les dejaré jugar contigo... Nunca les dejaré...</Content>
+          <Content>Onunla dalga geçmelerine izin vermeyeceğim... asla izin vermeyeceğim...</Content>
         </Dialog>
         <Dialog ID="18" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu12</VoiceFile>
-          <Content>San intentará detenerme si lo intento convencer de ir conmigo...</Content>
+          <Content>Eğer bunun konusunu açarsam, San kesin beni durdurmaya çalışıcak...</Content>
         </Dialog>
         <Dialog ID="19" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu13</VoiceFile>
-          <Content>Iré por mi cuenta. Tengo amigos que me ayudarán...</Content>
+          <Content>Oraya kendi başıma gideceğim. Bana yardım edebilecek arkadaşlarım da var...</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane'nin İçerisi</PlaceName>
         <Dialog ID="20" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland1</VoiceFile>
-          <Content>Realmente se me rompe el corazón. No debería haber visto eso.</Content>
+          <Content>Vay be, bu gerçekten de çok üzücü. Bunu görmemeliydik.</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela1</VoiceFile>
-          <Content>Qué divertido, viniendo de alguien que daba un discurso de que los Fixers no deberían crear lazos.</Content>
+          <Content>Komik, hele ki Fixer'ların bağlı kalmamaları hakkında laf söylen birinden böyle sözler geliyor.</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland2</VoiceFile>
-          <Content>Esto es esto, y eso es eso.</Content>
+          <Content>O odur, bu da budur.</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland3</VoiceFile>
-          <Content>Pero, reaccionar a cada pequeña perdida es un desperdicio de energía. Todos viven llevando una carga.</Content>
+          <Content>Genede, her kayıba tepki vermek enerji israfı. Herkesin taşımak zorunda olduğu yükleri vardır.</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland4</VoiceFile>
-          <Content>Yo tengo mis propios eventos desafortunados y también los demás.</Content>
+          <Content>Beni de pek çok talihsiz olay etkiledi, tıpkı başlarına olduğu gibi.</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland5</VoiceFile>
-          <Content>Es rudo exponer eso sin consentimiento. Empiezas a prestar atención a cosas no deberias.</Content>
+          <Content>Ve dinleyicinin onayı olmadan bunu ortaya çıkarmak kabalıktır. Bilmek zorunda olmadıkları bir şeyi öğrenmek onları rahatsız eder.</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland6</VoiceFile>
-          <Content>Ya están llevando una gran carga de equipaje emocional y contarles tu triste historia se siente como si les estuvieras mostrando lo pesado que es tu propio equipaje. Podrían sentir un poco de simpatía, pero también se sentirán disgustados.</Content>
+          <Content>Zaten yeteri kadar duygusal yük taşıyorlar, birde senin hüzünlü hikayeni anlatman, kendi yükünün ne kadar da ağır olduğuyla gösteriş yapmak gibi olur. Biraz sempati hissedebilirler, fakat rahatsız olacaktırlar.</Content>
         </Dialog>
         <Dialog ID="27" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland7</VoiceFile>
-          <Content>No exageres tus sentimientos sin importar si estás feliz o triste, despídete de los otros con las palabras apropiadas. Es por el bien de todos.</Content>
+          <Content>Mutlu veya üzgün olduğunda duygularını aşırı bir şekilde ifade etme, ve birbirinizle uygun kelimelerle vedalaşın. Bu birbirinizin iyiliği için.</Content>
         </Dialog>
         <Dialog ID="28" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela2</VoiceFile>
-          <Content>Eso suena incluso más agotador por mí.</Content>
+          <Content>Bu kulağa daha yorucu geliyor.</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland8</VoiceFile>
-          <Content>Y lo más importante de todo, no debería dejar que mis sentimientos me distraigan de mi trabajo como bibliotecario.</Content>
+          <Content>Ve her şeyden önce, duygularımın kütüphanecilik işlerimden beni alıkoymasına izin vermemeliyim.</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland9</VoiceFile>
-          <Content>Debo mantener la cabeza fría y ayudarte a coleccionar libros sobre la Ciudad.</Content>
+          <Content>Sakin kalmalı ve sana Şehirle alakalı kitapları toplamada yardımcı olmalıyım.</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela3</VoiceFile>
-          <Content>Es correcto. Tan pronto como te vuelvas inútil para mí, me desharé de ti.</Content>
+          <Content>Katılıyorum. Benim için işe yaramaz hale geldiğin an seni elden çıkarıcam.</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland10</VoiceFile>
-          <Content>Entonces regresaré a mis deberes como un útil sirviente por el bien de mi supervivencia, ma’am.</Content>
+          <Content>O zaman hayatta kalmam için faydalı bir hizmetkar olma görevime geri döneceğim, hanımefendi.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="33" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela4</VoiceFile>
-          <Content>Bienven—</Content>
+          <Content>Hoşge—</Content>
         </Dialog>
         <Dialog ID="34" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu14</VoiceFile>
-          <Content>Cierra la boca. No necesito ningún saludo de una despreciable pieza de chatarra.</Content>
+          <Content>Kes sesini. Aşağılık bir hurda parçasından karşılama almaya gereğim yok.</Content>
         </Dialog>
         <Dialog ID="35" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu15</VoiceFile>
-          <Content>Estoy aquí por el libro de Mars. Conseguiré ese libro, mataré a todos los monstruos aquí y te arrancaré la cabeza.</Content>
+          <Content>Mars'ın kitabı için buradayım. O'nun kitabını alacağım, buradaki bütün canavarları öldüreceğim, ve senin o kelleni bir güzel uçuracağım.</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela5</VoiceFile>
-          <Content>Lamento decir que tu tercera declaración será difícil que la completes, querida invitada.</Content>
+          <Content>Maalesef 3. beyanınızı yerine getirmek sizin için zor olacak, sevgili misafir.</Content>
         </Dialog>
         <Dialog ID="37" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Fixer de Streetlight</Title>
+          <Title>Sokak Lambası Fixerı</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu16</VoiceFile>
-          <Content>Dije que te callaras.</Content>
+          <Content>Sana kapa çeneni dedim.</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela6</VoiceFile>
-          <Content>Uf... Que encuentres tu libro en este lugar.</Content>
+          <Content>Ah... Umarım aradığın kitabı burada bulursun.</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
       <EpisodeName>에피소드2-종료</EpisodeName>
       <Place>
-        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela7</VoiceFile>
-          <Content>¿Te sientes culpable u otra emoción fuerte?</Content>
+          <Content>İçinde suçluluk veya yoğun duygular hissediyor musun?</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland11</VoiceFile>
-          <Content>Estaría mintiendo si te dijera que no siento nada, pero...</Content>
+          <Content>Hiç bir şey hissetmiyorum desem yalan söylemiş olurum, ama...</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland12</VoiceFile>
-          <Content>Ya he visto demasiadas de estas tragedias baratas. También he sido la víctima un montón de veces.</Content>
+          <Content>Bunun gibi bir sürü ucuz trajedik olaylar gördüm. Kendim de defalarca mağdur oldum.</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela8</VoiceFile>
-          <Content>Pareces como un veterano experimentado para alguien que se introdujo como un “Fixer fracasado”.</Content>
+          <Content>Kendini “bitik Fixer” olarak tanıtan birine göre oldukça deneyimli biriymişsin gibi konuşuyorsun..</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland13</VoiceFile>
-          <Content>Tengo mis razones. ¿Tienes curiosidad?</Content>
+          <Content>Kendince nedenlerim var. Ne, merak mı ediyorsun?</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela9</VoiceFile>
-          <Content>¿Decias que era rudo curiosear, verdad?</Content>
+          <Content>Öyle birşey yapmanın kaba bir şey olduğunu söylemiştin, demedin mi?</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland14</VoiceFile>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela10</VoiceFile>
-          <Content>Además, si realmente quisiera saberlo podría convertirte en un libro y leer tu historia.</Content>
+          <Content>Ayrıca, Eğer bilmeyi çok isteseydim seni kitaba çevirip hikayeni okuyuverirdim.</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland15</VoiceFile>
-          <Content>Whoa espera, aún no lleguemos a eso...</Content>
+          <Content>Biraz sakin, henüz o konuya girmeyelim...</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland16</VoiceFile>
-          <Content>¿Qué tal tú? Tengo curiosidad de saber lo que nuestra directora piensa.</Content>
+          <Content>Şey, peki ya sen? Baş kütüphanecimizin ne düşündüğünü merak ediyorum.</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela11</VoiceFile>
-          <Content>¿Yo? Indiferente. He visto relaciones y muertes orquestadas demasiadas veces, en repetición.</Content>
+          <Content>Ben? Farklı değil. Ben de ilişkileri ve senaryolu ölümleri çok fazla gördüm, döngü içinde.</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela12</VoiceFile>
-          <Content>Así que he estado intentando tener un sistema donde la gente es libre de elegir su propio destino, libre de cualquier coerción.</Content>
+          <Content>O yüzden bu sefer insanların kendi kaderlerini seçmekte özgür olabilecekleri bir sistem kurmaya çalışıyorum, herhangi bir zorlamadan bağımsız.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland17</VoiceFile>
-          <Content>Digo, seguro, ellos leen todas las advertencias en la Invitación y están de acuerdo con firmar sus nombres, pero...</Content>
+          <Content>Demek istediğim, tabiiki, davetiyedeki uyarıları okuyorlar ve o kuralları imzalayarak kabul ettiklerini beyan ediyorlar, ama...</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland18</VoiceFile>
-          <Content>Sigue siendo un poco sucio, sabes. No pueden matarte y yo puedo revivir cuando muero.</Content>
+          <Content>Hala adice, biliyorsun ya. Sen öldürelemezsin ve ben de öldüğüm takdirde tekrar canlanabilirim.</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela13</VoiceFile>
-          <Content>De nuevo con eso. ¿Pensaba que dijiste que mi método es justo?</Content>
+          <Content>Gene aynı şeyi söylüyorsun. Yöntemimin adil olduğunu söylediğini sanıyordum?</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland19</VoiceFile>
-          <Content>Sí, sí. No te equivocas, Mucho más educado y justo que la mayoría de cosas en la Ciudad.</Content>
+          <Content> Evet, evet. Yanlış değilsin. Şehirdeki diğer şeyler arasından daha kibar ve adil.</Content>
         </Dialog>
       </Place>
     </Episode>
