@@ -8,321 +8,321 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Localización: Pulgar Base Sur - Cuarto de Reunión</PlaceName>
+        <PlaceName>Konum: Thumb Güney Üssü — Toplantı Odası</PlaceName>
         <Dialog ID="0" Model="칼로">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_kalo1-01</VoiceFile>
-          <Content>Dime, ¿Quién piensas que será capaz de atravesar toda esta niebla al final de todo y reclamará este Nido colapsado?</Content>
+          <Content>Kime inanırsın, bütün bu sisi aşıp çökmüş Yuva’yı sonunda sahiplenebilecek kişi kim olur acaba?</Content>
         </Dialog>
         <Dialog ID="1" Model="카트리엘">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel1_a-01</VoiceFile>
-          <Content>Es difícil para mí predecir el final de este evento, sotocappo. Ha pasado bastante tiempo desde que nos involucramos en una carnicería de esta magnitud.</Content>
+          <Content>Bu olayın sonucunu tahmin etmek zor, altında kal prensip. Böyle büyük çapta bir kan dökülmesine karışmamız da uzun zaman olmuştu.</Content>
         </Dialog>
         <Dialog ID="2" Model="카트리엘">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel2_b</VoiceFile>
-          <Content>Sin embargo, es seguro que no podemos permitir que el Índice se apodere de este lugar. </Content>
+          <Content>Ama kesin olan şu: İndeks’in yumurtanın kontrolünü ele geçirmesine izin vermemeliyiz. </Content>
         </Dialog>
         <Dialog ID="3" Model="칼로">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_kalo2</VoiceFile>
-          <Content>Bien dicho. El Medio, el Anular y el Meñique parecen estar ocupados con sus propios asuntos como para participar, es un alivio.</Content>
+          <Content>Ama kesin olan şu: İndeks’in yumurtanın kontrolünü ele geçirmesine izin vermemeliyiz.</Content>
         </Dialog>
         <Dialog ID="4" Model="카트리엘">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel3-01</VoiceFile>
-          <Content>¿Has escuchado de ‘La Biblioteca’, que recientemente ha ascendido a Leyenda Urbana?</Content>
+          <Content>‘Kütüphane’ diye bir şey duydun mu? Yeni atanan bir Kentsel Efsane olarak…</Content>
         </Dialog>
         <Dialog ID="5" Model="카트리엘">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel4-01</VoiceFile>
-          <Content>Quizás está estrechamente relacionada con este Nido del que nos preocupamos tanto.</Content>
+          <Content>Belki de bu Yuva ile çok alakalıdır.</Content>
         </Dialog>
         <Dialog ID="6" Model="칼로">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_kalo3-01</VoiceFile>
-          <Content>Vamos.</Content>
+          <Content>Devam et.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphanenin İçi</PlaceName>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland1</VoiceFile>
-          <Content>¡Parece que estamos comenzando a montar en una verdadera ola!</Content>
+          <Content>Görünüşe göre büyük bir dalganın üstüne çıkmak üzereyiz!</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela1</VoiceFile>
-          <Content>¿Qué ola?</Content>
+          <Content>Hangi dalga?</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland2</VoiceFile>
-          <Content>A este ritmo, la Biblioteca será ascendida a Leyenda Urbana de su estado de Mito Urbano.</Content>
+          <Content>Bu hızla, Kütüphane çok yakında Kentsel Efsane statüsüne geçecek, kentsel efsane konumundan.</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland3</VoiceFile>
-          <Content>La Ciudad está repleta de Mitos Urbanos. Es muy difícil diferenciar cuáles son reales o cuáles son creados.</Content>
+          <Content>Şehir, ucuz Kentsel Efsanelerle dolu. Gerçek olanlar ile hayali olanları ayırt etmek gerçekten zor.</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland4</VoiceFile>
-          <Content>Lo que es más importante, la mayoría de Mitos Urbanos suelen ser bastante simples y aburridos cuando llegas al fondo del asunto.</Content>
+          <Content>Üstelik bunların çoğu, kökenine indiğin zaman oldukça sıradan ve sıkıcı çıkıyor.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland5</VoiceFile>
-          <Content>La verdadera diversión comienza cuando un Mito Urbano es reconocido como una Leyenda Urbana.</Content>
+          <Content>Asıl eğlence, bir Kentsel Efsanenin tanınmaya başladığı an başlıyor.</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela2</VoiceFile>
-          <Content>Estás dando demasiadas vueltas.</Content>
+          <Content>Çok dolambaçlı konuşuyorsun.</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela3</VoiceFile>
-          <Content>Si las Asociaciones nos designan con un grado mayor, podemos esperar atraer invitados de clases superiores con información más valiosa, ¿eso es lo que intentas decir?</Content>
+          <Content>Eğer Dernekler bizi daha yüksek bir sınıfla tanımlarsa, daha değerli bilgiler için yüksek sınıftan ziyaretçiler çekebiliriz, demeye çalışıyorsun?</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland6</VoiceFile>
-          <Content>¡Exactamente! La gente habla sobre las Leyendas Urbanas; ellos comienzan a reconocernos como un fenómeno real en la Ciudad que vale la pena su atención.</Content>
+          <Content>Hah, aynen öyle! Kentsel Efsaneler konuşulur; insanlar bizi aslında dikkat etmeye değer bir şehir fenomeni olarak tanımaya başlar.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland7</VoiceFile>
-          <Content>Ya ves, cuando era un niño, mi abuela solía contarme todo tipo de historias sobre las Leyendas Urbanas. Siempre me daban escalofríos.</Content>
+          <Content>Bak, çocukken büyükannem bana türlü Kentsel Efsane hikâyeleri anlatırdı. Bana hep ürperti verirdi.</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland8</VoiceFile>
-          <Content>Ah, mierda. No quería recordar los viejos tiempos.</Content>
+          <Content>Ah, kahretsin. Eski günler hatırlamak istemiyorum.</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela4</VoiceFile>
-          <Content>¿Familia...?</Content>
+          <Content>Aile..?</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland9</VoiceFile>
-          <Content>Sep, una familia. Aunque los perdí a todos.</Content>
+          <Content>Evet, bir aile. Ama onları hepsini kaybettim.</Content>
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela5</VoiceFile>
-          <Content>¿Así que ahora no tienes una familia?</Content>
+          <Content>Yani artık ailen yok mu senin?</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland10</VoiceFile>
-          <Content>Nadie está conmigo. Me críe con mi abuela.</Content>
+          <Content>Benimle kimse kalmadı. Beni büyükannem büyüttü.</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland11</VoiceFile>
-          <Content>No sé cómo mis padres murieron, pero mi abuela desapareció un día de la nada.</Content>
+          <Content>Anne-baban nasıl öldü bilmiyorum, büyükannem bir gün fark edilmeden ortadan kayboldu.</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland12</VoiceFile>
-          <Content>Y entonces... no importa. No es nada especial.</Content>
+          <Content>Ve sonra… Boş ver. Öyle çok da önemli bir şey değil.</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela6</VoiceFile>
-          <Content>¿Qué estabas intentando decir?</Content>
+          <Content>Ne söylemeye çalışıyordun acaba?</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland13</VoiceFile>
-          <Content>De todos modos, dijiste que tu meta es conseguir ese libro único que te daría tu libertad, ¿verdad?</Content>
+          <Content>Neyse, senin amacının bu tek kitabı bulmak olduğunu söyledin, değil mi?</Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela7</VoiceFile>
-          <Content>Correcto. Quiero tener la libertad de dejar este lugar y la libertad de vivir como yo misma.</Content>
+          <Content>Evet. Buradan kurtulma özgürlüğünü istiyorum, ve kendim gibi yaşama özgürlüğünü.</Content>
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela8</VoiceFile>
-          <Content>Y la libertad para olvidar...</Content>
+          <Content>Ve unutma özgürlüğünü de...</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland14</VoiceFile>
-          <Content>Entonces, ¿la libertad es el único motivo por el que intentas conseguir todos estos libros?</Content>
+          <Content>O özgürlük arayışı nedeniyle mi tüm bu kitapları topluyorsun?</Content>
         </Dialog>
         <Dialog ID="29" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela9</VoiceFile>
-          <Content>Solo la mitad.</Content>
+          <Content>Yarısında haklısın.</Content>
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela10</VoiceFile>
-          <Content>Durante mi tiempo viviendo bajo tierra, solo pude ver fragmentos de información del mundo exterior.</Content>
+          <Content>Yeraltında yaşadığım sürece, dış dünya hakkında yalnızca parçalı bilgiler edinebiliyordum.</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela11</VoiceFile>
-          <Content>He visto y escuchado las mismas historias una y otra vez.</Content>
+          <Content>Aynı hikâyeleri tekrar tekrar görüp duydum.</Content>
         </Dialog>
         <Dialog ID="32" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela12</VoiceFile>
-          <Content>Ahora quiero escuchar historias nuevas. Quiero ver caras nuevas.</Content>
+          <Content>Artık yeni hikâyeler duymak istiyorum. Yeni yüzler görmek istiyorum.</Content>
         </Dialog>
         <Dialog ID="33" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela13</VoiceFile>
-          <Content>Ese es también el motivo de que esté buscando el libro que contiene todo sobre el mundo.</Content>
+          <Content>O yüzden dünyayla ilgili her şeyi içeren kitabı arıyorum.</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela14</VoiceFile>
-          <Content>Y una pequeña venganza al mismo tiempo.</Content>
+          <Content>Ayrıca biraz intikam da almak için.</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland15</VoiceFile>
-          <Content>... Venganza, ¿eh? ¿Por qué motivo?</Content>
+          <Content>...İntikam mı? Ne için?</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela15</VoiceFile>
-          <Content>Me estoy vengando de la persona abominable y el mundo que me hicieron ser como soy.</Content>
+          <Content>Beni ben yapan o iğrenç kişi ve dünya için intikam alıyorum.</Content>
         </Dialog>
         <Dialog ID="37" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela16</VoiceFile>
-          <Content>Solo después de haber destruido completa y cuidadosamente todo por lo que soñaban, entonces seré completamente libre.</Content>
+          <Content>Onun hayalini kurduğu her şeyi tamamen ve derinden yok ettikten sonra özgürlüğüm tam olacak.</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland16</VoiceFile>
-          <Content>... ¿Así que eventualmente conseguirás esa libertad y venganza que quieres si seguimos el camino que nos guía la Invitación roja?</Content>
+          <Content>Yani bir gün özgürlüğe ve intikama ulaşabileceksin eğer bu kırmızı davetin bizi yönlendirdiği yere kadar izlersek?</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela17</VoiceFile>
-          <Content>Siendo precisa, me guiará al libro que me dejará conseguir esas cosas.</Content>
+          <Content>Tam olarak, bu davet beni bu dileklerime ulaştıracak kitabın yoluna yönlendirecek.</Content>
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela18</VoiceFile>
-          <Content>No sé cómo se volverán realidad esos deseos.</Content>
+          <Content>Bu dileklerin nasıl gerçekleşeceği bana da aşikâr değil.</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela19</VoiceFile>
-          <Content>El libro que me completará a mí y a esta Biblioteca...</Content>
+          <Content>Beni ve Kütüphaneyi tamamlayacak tek kitap...</Content>
         </Dialog>
         <Dialog ID="42" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela20</VoiceFile>
-          <Content>Si puedo encontrar ese único libro absoluto que contiene todo lo que quiero saber, entonces todo se resolverá.</Content>
+          <Content>Eğer bilmek istediğim her şeyi içeren o mutlak kitabı bulabilirsem, her şey çözülecek.</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland17</VoiceFile>
-          <Content>Espera un segundo. ¿Ese es todo tu plan? ¿Solo encontrar el libro? ¿No sabes exactamente cómo ganarás la libertad y todo eso? </Content>
+          <Content>Dur bir dakika. Bütün planın bu mu? Sadece kitabı bulmak mı? O özgürlüğü nasıl kazanacağını falan bilmiyor musun?</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela21</VoiceFile>
-          <Content>Lo único que sé es que estaré completa al final de este viaje guiado por la Invitación.</Content>
+          <Content>Bildiğim tek şey, Davet'in rehberliğinde çıktığım bu yolculuğun sonunda bütün olacağımdır.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela22</VoiceFile>
-          <Content>La Biblioteca tiene espacio infinito. Podría extraer libros infinitos de incontables invitados y guardarlos todos si quisiera.</Content>
+          <Content>Kütüphanenin sonsuz bir alanı var. İstersem sayısız misafirden sınırsız kitap çıkarıp hepsini depolayabilirim.</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela23</VoiceFile>
-          <Content>Pero simplemente conseguir libros que están llenos de basura sin un propósito claro en mente es bastante ineficiente, ¿no crees?</Content>
+          <Content>Ama amaçsızca, çoğu içerik bakımından çöp dolu kitaplar toplamak verimsiz olmaz mı sence?</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela24</VoiceFile>
-          <Content>Por eso tenemos la guía de la Invitación junto al camino que me guiará al libro que deseo obtener, como te he explicado.</Content>
+          <Content>İşte bu yüzden, size anlattığım gibi, almak istediğim kitaba beni ulaştıracak yolun yanı sıra Davet Rehberi'ni de hazırladım.</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland18</VoiceFile>
-          <Content>Digamos que consigues ese libro de alguna forma.</Content>
+          <Content>Diyelim ki o kitabı bir şekilde aldın.</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland19</VoiceFile>
-          <Content>¿Pero ni siquiera sabes qué hará que te vuelvas “completa”?</Content>
+          <Content>Ama seni "tamamlayacak" şeyin ne olduğunu bile bilmiyor musun?</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch3_Prol_ep1_angela25</VoiceFile>
-          <Content>No me importa lo que me pase. Estaré satisfecha mientras obtenga resultados.</Content>
+          <Content>Başıma ne gelirse gelsin umurumda değil. Sonuç aldığım sürece memnun olacağım.</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch3_Prol_ep1_roland20</VoiceFile>
-          <Content>Casi da miedo lo tenaz que eres.</Content>
+          <Content>Azmin resmen korkutuyor insanı.</Content>
         </Dialog>
       </Place>
     </Episode>
