@@ -13,37 +13,37 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_kalo1-01</VoiceFile>
-          <Content>Bana söyle, bütün bu sisi aşıp çökmüş Yuva’yı sonunda sahiplenebilecek kişi kim olur acaba?</Content>
+          <Content>Söyle bana, sence tüm bu sisi aşıp, çökmüş Yuva’yı sahiplenen kim olabilir?</Content>
         </Dialog>
         <Dialog ID="1" Model="카트리엘">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel1_a-01</VoiceFile>
-          <Content>Bu olayın sonucunu tahmin etmek zor, altında kal prensip. Böyle büyük çapta bir kan dökülmesine karışmamız da uzun zaman olmuştu.</Content>
+          <Content>Bu olayın sonucunu tahmin etmek benim için zor, ikinci patron. Böylesine büyük bir katliamın içinde yer almayalı uzun zaman oldu bizim için.</Content>
         </Dialog>
         <Dialog ID="2" Model="카트리엘">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel2_b</VoiceFile>
-          <Content>Ama kesin olan şu: İndeks’in yumurtanın kontrolünü ele geçirmesine izin vermemeliyiz. </Content>
+          <Content>Ancak kesin olan şu ki, İndeks’in yumurta sarısını ele geçirmesine izin vermemeliyiz. </Content>
         </Dialog>
         <Dialog ID="3" Model="칼로">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_kalo2</VoiceFile>
-          <Content>Güzel söyledin. Orta, Yüzük ve Serçe Parmak bu çekişmeye katılmak yerine kendi işleriyle çok meşgul görünüyorlar, bu da rahatlatıcı.</Content>
+          <Content>Güzel söyledin. Orta, Yüzük ve Serçe Parmak bu çekişmeye katılmak yerine kendi işleriyle çok meşgul görünüyorlar, bu da bizim açımızdan rahatlatıcı.</Content>
         </Dialog>
         <Dialog ID="4" Model="카트리엘">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel3-01</VoiceFile>
-          <Content>‘Kütüphane’ diye bir şey duydun mu? Yeni atanan bir Kentsel Efsane olarak…</Content>
+          <Content>‘Kütüphane’yi duydun mu, yakın zamanda Şehir Efsanesi'ne atanan?</Content>
         </Dialog>
         <Dialog ID="5" Model="카트리엘">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel4-01</VoiceFile>
-          <Content>Belki de bu Yuva ile çok alakalıdır.</Content>
+          <Content>Belki de bu, ilgilendigimiz Yuva ile yakından ilişkilidir.</Content>
         </Dialog>
         <Dialog ID="6" Model="칼로">
           <Teller>???</Teller>
@@ -56,273 +56,273 @@
         <PlaceName>Konum: Kütüphanenin İçi</PlaceName>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland1</VoiceFile>
           <Content>Görünüşe göre büyük bir ivme yakaladık!</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela1</VoiceFile>
           <Content>Hangi ivme?</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland2</VoiceFile>
-          <Content>Bu hızla, Kütüphane çok yakında Kentsel hikaye konumundan Kentsel Efsane statüsüne geçecek.</Content>
+          <Content>Bu hızla, Kütüphane çok yakında Şehir Söylentisi konumundan Şehir Efsanesi statüsüne geçecek.</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland3</VoiceFile>
-          <Content>Şehir, ucuz Kentsel Efsanelerle dolu. Gerçek olanlar ile hayali olanları ayırt etmek gerçekten zor.</Content>
+          <Content>Şehir, ucuz Şehir Söylenti'leriyle dolup taşıyor. Hangilerinin gerçek, hangilerinin tamamen uydurma olduğunu ayırt etmek gerçekten zor.</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland4</VoiceFile>
-          <Content>Üstelik bunların çoğu, kökenine indiğin zaman oldukça sıradan ve sıkıcı çıkıyor.</Content>
+          <Content>Üstelik Söylenti'lerinin çoğu, işin kökenine indiğin zaman oldukça sıradan ve sıkıcı çıkıyor.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland5</VoiceFile>
-          <Content>Asıl eğlence, bir Kentsel Efsanenin tanınmaya başladığı an başlıyor.</Content>
+          <Content>Asıl eğlence, bir Şehir Söylentisi'nin, Şehir Efsanesi olarak tanındığında başlar.</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela2</VoiceFile>
           <Content>Çok dolambaçlı konuşuyorsun.</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela3</VoiceFile>
-          <Content>Eğer Dernekler bizi daha yüksek bir sınıfla tanımlarsa, daha değerli bilgiler için yüksek sınıftan ziyaretçiler çekebiliriz, demeye çalışıyorsun?</Content>
+          <Content>Eğer Dernekler bizi daha yüksek bir sınıfla tanımlarsa, daha değerli bilgiler için yüksek sınıftan ziyaretçiler çekebiliriz mi, demeye çalışıyorsun?</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland6</VoiceFile>
-          <Content>Hah, aynen öyle! Kentsel Hikayeler konuşulur; insanlar bizi aslında dikkat etmeye değer bir şehir Efsanesi olarak tanımaya başlar.</Content>
+          <Content>Hah, aynen öyle! Şehir Efsanesi konuşulur; insanlar bizi, Şehir'de dikkatlerine değer gerçek bir olağanüstü durum olarak kabul etmeye başlayacaklar.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland7</VoiceFile>
-          <Content>Bak, çocukken büyükannem bana türlü Kentsel Efsane hikâyeleri anlatırdı. Bana hep ürperti verirdi.</Content>
+          <Content>Bak, ben çocukken büyükannem bana her türlü Şehir Efsane'leriyle ilgili hikayeler anlatırdı. Her seferinde bana hep ürperti verirdi.</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland8</VoiceFile>
-          <Content>Ah, kahretsin. Eski günler hatırlamak istemiyorum.</Content>
+          <Content>Ah, kahretsin. Eski günleri hatırlamak istememiştim.</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela4</VoiceFile>
-          <Content>Aile mi ?</Content>
+          <Content>Aile mi...?</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland9</VoiceFile>
-          <Content>Evet, bir aile. Ama onları hepsini kaybettim.</Content>
+          <Content>Evet, bir aile. Ama hepsini kaybettim.</Content>
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela5</VoiceFile>
-          <Content>Yani artık ailen yok mu senin?</Content>
+          <Content>Yani artık bir ailen yok mu?</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland10</VoiceFile>
-          <Content>Benimle kimse kalmadı. Beni büyükannem büyüttü.</Content>
+          <Content>Artık yanımda kimse yok. Büyükannem tarafından büyütülmüştüm.</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland11</VoiceFile>
-          <Content>Anne-baban nasıl öldü bilmiyorum ve büyükannem bir gün fark edilmeden ortadan kayboldu.</Content>
+          <Content>Anne-babam nasıl öldü bilmiyorum ve büyükannem de bir gün habersizce ortadan kayboldu.</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland12</VoiceFile>
-          <Content>Ve sonra… Boş ver. Öyle çok da önemli bir şey değil.</Content>
+          <Content>Ve sonra... Boş ver. Öyle çok da önemli bir şey değil.</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela6</VoiceFile>
-          <Content>Ne söylemeye çalışıyordun acaba?</Content>
+          <Content>Ne söylemeye çalışıyordun ki?</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland13</VoiceFile>
-          <Content>Neyse, senin amacının bu özgürlük kitabını bulmak olduğunu söyledin, değil mi?</Content>
+          <Content>Her neyse, sen hedefinin sana özgürlüğünü verecek o tek kitabı bulmak olduğunu söylemiştin, değil mi?</Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela7</VoiceFile>
-          <Content>Evet. Buradan kurtulma özgürlüğünü istiyorum, ve kendim gibi yaşama özgürlüğünü.</Content>
+          <Content>Evet. Buradan kurtulabilme özgürlüğünü, ve kendim olarak yaşayabilme özgürlüğünü istiyorum.</Content>
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela8</VoiceFile>
-          <Content>Ve unutma özgürlüğünü de...</Content>
+          <Content>Ve unutma özgürlüğü...</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland14</VoiceFile>
-          <Content>O özgürlük arayışı nedeniyle mi tüm bu kitapları topluyorsun?</Content>
+          <Content>O zaman, bütün bu kıtapları toplamanın tek sebebi sadece özgürlük mü?</Content>
         </Dialog>
         <Dialog ID="29" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela9</VoiceFile>
-          <Content>Yarısında haklısın.</Content>
+          <Content>Kısmen haklısın.</Content>
         </Dialog>
         <Dialog ID="30" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela10</VoiceFile>
-          <Content>Yeraltında yaşadığım sürece, dış dünya hakkında yalnızca parçalı bilgiler edinebiliyordum.</Content>
+          <Content>Yeraltında yaşadığım süre boyunca, dış dünya hakkında yalnızca parçalı bilgiler edinebiliyordum.</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela11</VoiceFile>
           <Content>Aynı hikâyeleri tekrar tekrar görüp duydum.</Content>
         </Dialog>
         <Dialog ID="32" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela12</VoiceFile>
           <Content>Artık yeni hikâyeler duymak istiyorum. Yeni yüzler görmek istiyorum.</Content>
         </Dialog>
         <Dialog ID="33" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela13</VoiceFile>
-          <Content>O yüzden dünyayla ilgili her şeyi içeren kitabı arıyorum.</Content>
+          <Content>İşte bu yüzden dünyayla ilgili her şeyi içeren kitabı arıyorum.</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela14</VoiceFile>
-          <Content>Ayrıca biraz intikam da almak için.</Content>
+          <Content>Ayrıca biraz da intikam almak için.</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland15</VoiceFile>
           <Content>...İntikam mı? Ne için?</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela15</VoiceFile>
           <Content>Beni ben yapan o iğrenç kişi ve dünya için intikam alıyorum.</Content>
         </Dialog>
         <Dialog ID="37" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela16</VoiceFile>
           <Content>Onun hayalini kurduğu her şeyi tamamen ve derinden yok ettikten sonra özgürlüğüm tam olacak.</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland16</VoiceFile>
-          <Content>Yani kırmızı davetin bizi götürdüğü yere kadar izlemeye devam edersek sonunda istediğin özgürlüğe ve intikama ulaşacak mısın ?</Content>
+          <Content>...Yani kırmızı davetiyenin bizi götürdüğü yere kadar izlemeye devam edersek sonunda istediğin özgürlüğe ve intikama ulaşacak mısın?</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela17</VoiceFile>
           <Content>Tam olarak, bu davet beni bu dileklerime ulaştıracak kitabın yoluna yönlendirecek.</Content>
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela18</VoiceFile>
           <Content>Bu dileklerin nasıl gerçekleşeceği bana da aşikâr değil.</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela19</VoiceFile>
-          <Content>Beni ve Kütüphaneyi tamamlayacak tek kitap...</Content>
+          <Content>Beni ve Kütüphane'yi tamamlayacak tek kitap...</Content>
         </Dialog>
         <Dialog ID="42" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela20</VoiceFile>
           <Content>Eğer bilmek istediğim her şeyi içeren o mutlak kitabı bulabilirsem, her şey çözülecek.</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland17</VoiceFile>
           <Content>Dur bir dakika. Bütün planın bu mu? Sadece kitabı bulmak mı? O özgürlüğü nasıl kazanacağını falan bilmiyor musun?</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela21</VoiceFile>
           <Content>Bildiğim tek şey, Davet'in rehberliğinde çıktığım bu yolculuğun sonunda bütün olacağımdır.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela22</VoiceFile>
           <Content>Kütüphanenin sonsuz bir alanı var. İstersem sayısız misafirden sınırsız kitap çıkarıp hepsini depolayabilirim.</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela23</VoiceFile>
           <Content>Ama amaçsızca, çoğu içerik bakımından çöp dolu kitaplar toplamak verimsiz olmaz mı sence?</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela24</VoiceFile>
           <Content>İşte bu yüzden, size anlattığım gibi, almak istediğim kitaba beni ulaştıracak yolun yanı sıra Davet Rehberi'ni de hazırladım.</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland18</VoiceFile>
           <Content>Diyelim ki o kitabı bir şekilde aldın.</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland19</VoiceFile>
-          <Content>Ama seni "tamamlayacak" şeyin ne olduğunu bile bilmiyor musun?</Content>
+          <Content>Ama seni “tamamlayacak” şeyin ne olduğunu bile bilmiyor musun?</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela25</VoiceFile>
-          <Content>Başıma ne gelirse gelsin umurumda değil.B en her şeye razıyım yeter ki sonuç alayım.</Content>
+          <Content>Başıma ne gelirse gelsin umurumda değil. Ben her şeye razıyım yeter ki sonuç alayım.</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland20</VoiceFile>
-          <Content>Ne kadar inatçı olduğunuzu görmek korkutucu.</Content>
+          <Content>Bu kadar inatçı olduğunuzu görmek neredeyse korkutucu.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -547,187 +547,187 @@
         <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="35" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland1</VoiceFile>
           <Content>Parece que una Asociación está a punto de hacer su movimiento. Las cosas serán diferentes a partir de ahora en adelante.</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela1</VoiceFile>
           <Content>¿Cuánta diferencia hace eso?</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland2</VoiceFile>
           <Content>Los invitados hasta ahora nos daban una visita por interés o curiosidad, pero nuestros futuros invitados tendrán una meta clara en mente involucrando a la Biblioteca.</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela2</VoiceFile>
           <Content>¿Qué quieres decir?</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland3</VoiceFile>
           <Content>Un caso oficialmente reconocido por las Asociaciones tiene una recompensa garantizada. Y el dinero atrae una horrible cantidad de atención.</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland4</VoiceFile>
           <Content>La escala de nuestros asuntos solo puede escalar desde aquí, nos guste o no.</Content>
         </Dialog>
         <Dialog ID="41" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland5</VoiceFile>
           <Content>Nuestro nivel de amenaza o importancia aún sigue estando bastante bajo, pero aun así vendrán todo tipo de personas intentando desentrañar los misterios de este lugar mientras las Asociaciones sigan manteniendo un ojo en nosotros.</Content>
         </Dialog>
         <Dialog ID="42" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela3</VoiceFile>
           <Content>Me gusta como suena eso, puedo hacer más libros valiosos gracias a eso. Aún tengo mucho que ver y aprender.</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland6</VoiceFile>
           <Content>Me lo he estado preguntando por un tiempo, ¿pero qué te detiene de dejar este lugar?</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela4</VoiceFile>
           <Content>... Estoy bajo una maldición.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela5</VoiceFile>
           <Content>Una profunda y anciana maldición; eso es lo que me ha atado.</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela6</VoiceFile>
           <Content>Ningún ser que no sea humano puede dejar este lugar.</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela7</VoiceFile>
           <Content>Además, tampoco quiero dejar este lugar hasta haber completado mi venganza.</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela8</VoiceFile>
           <Content>No está tan mal. Además, me he estado divirtiendo bastante últimamente.</Content>
         </Dialog>
         <Dialog ID="49" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela9</VoiceFile>
           <Content>He estado rodeada de cosas nuevas, no como en la prisión que estuve en mi vida pasada.</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela10</VoiceFile>
           <Content>Nuevas caras, acumulando conocimiento, eventos intrigantes... me gusta esta abundancia de frescura. Quiero saber más. Seguiré aprendiendo y aprendiendo. Y mientras aprenda, podría finalmente descubrirlo...</Content>
         </Dialog>
         <Dialog ID="51" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela11</VoiceFile>
           <Content>... Por qué tuve que ser víctima de tal tormento...</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland7</VoiceFile>
           <Content>Supongo que debo ponerme a trabajar más duro. No puedo dejar este lugar mientras tú no puedas, ¿sabes?</Content>
         </Dialog>
         <Dialog ID="53" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela12</VoiceFile>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="54" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland8</VoiceFile>
           <Content>Eh, si conseguimos dejar este lugar un día, ¿qué tal si vamos a un lugar que frecuento?</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela13</VoiceFile>
           <Content>¿Quieres decir un restaurante?</Content>
         </Dialog>
         <Dialog ID="56" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland9</VoiceFile>
           <Content>Sep. Hacen un guiso de carne demencial ahí.</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland10</VoiceFile>
           <Content>Uno de los secretos de ese guiso es la olla gigante personalizada que pidieron a T Corp. Hierve la carne con algo de agua solo diez segundos en esa cosa y conseguirás una carne ablandada en un rico caldo que solo podrías obtener normalmente después de hervirlo por tres días seguidos.</Content>
         </Dialog>
         <Dialog ID="58" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland11</VoiceFile>
           <Content>Creando un sabor tan rico en un periodo tan corto de tiempo es lo que hace que el restaurante sea tan popular. El único problema es que los preciosos son un poco altos. Una vez gasté la mitad del pago de mi último trabajo en una sola comida. Pero valió completamente la pena.</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela14</VoiceFile>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="60" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland12</VoiceFile>
           <Content>Oh, verdad, ¿Eras incapaz de comer...? Lo siento por decir tantas cosas inútiles, ma’am.</Content>
         </Dialog>
         <Dialog ID="61" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland13</VoiceFile>
           <Content>Hay muchos otros lugares que te encantaría visitar, así que me aseguraré de darte un buen tour por la Ciudad, ma’am.</Content>
         </Dialog>
         <Dialog ID="62" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela15</VoiceFile>
           <Content>Puedo comer, solo no puedo saborear la comida.</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela16</VoiceFile>
           <Content>Pero me encantaría comer como lo hace la gente si tengo la oportunidad.</Content>
         </Dialog>
         <Dialog ID="64" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela17</VoiceFile>
           <Content>En cualquier caso, tenemos que terminar la tarea a mano antes que nada.</Content>
         </Dialog>
         <Dialog ID="65" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela18</VoiceFile>
           <Content>Y ese guiso... lo tendré en mente.</Content>
         </Dialog>
@@ -922,73 +922,73 @@
         <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="30" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland1</VoiceFile>
           <Content>¿Es eso cierto?</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela1</VoiceFile>
           <Content>¿Qué cosa?</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland2</VoiceFile>
           <Content>Lo que han dicho sobre la Biblioteca. ¿Este lugar realmente está conectado con cosas como las ‘Noches Blancas y Días Oscuros’, L Corp. y el Fenómeno de Distorsión?</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland3</VoiceFile>
           <Content>Aunque no estoy realmente seguro de dónde estamos en la Ciudad.</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela2</VoiceFile>
           <Content>¿Qué harías si te dijera que lo está? </Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland4</VoiceFile>
           <Content>Si lo dijeras... no estoy seguro de entender lo que quieres decir.</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland5</VoiceFile>
           <Content>Es extremadamente raro que un incidente involucre a toda la Ciudad como lo hizo las Noches Blancas y Días Oscuros.</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland6</VoiceFile>
           <Content>Ha habido algunos casos de Alas cayendo por su cuenta, pero aquellos solo afectaban a su propio Nido como mucho. Lo de L Corp. fue algo completamente aparte.</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland7</VoiceFile>
           <Content>Es como si toda la Ciudad cayera dormida por una semana.</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela3</VoiceFile>
           <Content>Digamos que la Biblioteca realmente está relacionada con las Noches Blancas y Días Oscuros. ¿Qué cambia eso?</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland8</VoiceFile>
           <Content>Nada, supongo. Mi trabajo seguiría siendo el mismo...</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela4</VoiceFile>
           <Content>... </Content>
         </Dialog>
@@ -1005,7 +1005,7 @@
           <Teller>San</Teller>
           <Title>Opderador de Streetlight</Title>
           <VoiceFile>ch3_Zwei_ep2_san9</VoiceFile>
-          <Content>... Sí. La directora de la Biblioteca pronto vendrá a recibirnos.</Content>
+          <Content>... Sí. La Kütüphane Direktörü pronto vendrá a recibirnos.</Content>
         </Dialog>
         <Dialog ID="44" Model="줄리아">
           <Teller>Julia</Teller>
@@ -1015,13 +1015,13 @@
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela5</VoiceFile>
           <Content>Bienvenidos, queridos invitados. Soy Angela, directora y bibliotecaria de esta Biblioteca.</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela6</VoiceFile>
           <Content>Pero parece que ya saben quién soy.</Content>
         </Dialog>
@@ -1033,7 +1033,7 @@
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela7</VoiceFile>
           <Content>En efecto, esos libros se encuentran aquí.</Content>
         </Dialog>
@@ -1045,7 +1045,7 @@
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela8</VoiceFile>
           <Content>Es correcto. Como está escrito en la Invitación.</Content>
         </Dialog>
@@ -1057,7 +1057,7 @@
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela9</VoiceFile>
           <Content>... Que encuentres tu libro en este lugar.</Content>
         </Dialog>
@@ -1069,157 +1069,157 @@
         <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela10</VoiceFile>
           <Content>... La Biblioteca está localizada en el núcleo de las ‘Noches Blancas y Días Oscuros’.</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela11</VoiceFile>
           <Content>Retoqué la sede de L Corp, el centro de esta, para mi propio uso.</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela12</VoiceFile>
           <Content>No tengo ningún comentario que hacer sobre el Fenómeno de Distorsión que aparentemente comenzó luego de eso.</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela13</VoiceFile>
           <Content>Tampoco tengo información sobre ese fenómeno.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela14</VoiceFile>
           <Content>Aunque tengo una corazonada.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland9</VoiceFile>
           <Content>Whoa, eso vino de la nada...</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela15</VoiceFile>
           <Content>¿No tenías curiosidad hace un rato?</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela16</VoiceFile>
           <Content>Fui creada como una secretaria mecánica para asistir al gerente de Lobotomy Corporation. </Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela17</VoiceFile>
           <Content>Fui diseñada para verme como una humana, sentir emociones, hacer evaluaciones y juicios basados en esas emociones.</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela18</VoiceFile>
           <Content>Es como sospechabas; nací en secreto, violando la Enmienda Ética sobre IA.</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela19</VoiceFile>
           <Content>Tiene gracia que nunca pude hacer mis propias decisiones. Tuve que leer el mismo guion una y otra vez por un millón de años, todo para el éxito de un único proyecto.</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela20</VoiceFile>
           <Content>La actuación que nunca parecía acabar terminó un día, y... y... </Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland10</VoiceFile>
           <Content>Y los ‘Días Blancos y Noches Oscuras’ pasaron como resultado. Gracias por decírmelo.</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland11</VoiceFile>
           <Content>No sé quién vino con ese loco plan, pero gracias a ellos, el Fenómeno de Distorsión comenzó a causar estragos en la Ciudad en intervalos aleatorios.</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland12</VoiceFile>
           <Content>La gente ordinaria se convierte en monstruos de la nada. Y matan todo lo que tienen a la vista.</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland13</VoiceFile>
           <Content>Y el primer caso conocido de la Distorsión... fue una verdadera locura.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland14</VoiceFile>
           <Content>Sucedió de la nada sin ningún signo en un Distrito que todos creían que era relativamente seguro.</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland15</VoiceFile>
           <Content>La masacre también fue un trabajo de arte.</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland16</VoiceFile>
           <Content>Fue nombrado como ‘El Pianista’ por un motivo. Qué más puedo decir. </Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela21</VoiceFile>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland17</VoiceFile>
           <Content>De todos modos, gracias por decirme todo eso. Debió haber sido un tema sensible para ti.</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela22</VoiceFile>
           <Content>No estás tan sorprendido como esperaba.</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland18</VoiceFile>
           <Content>Los monstruos creados por la Distorsión me daban una vibra sospechosamente similar a esta Biblioteca y sus cuidadores.</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland19</VoiceFile>
           <Content>Debiste haber pasado un montón de angustia en tu vida.</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland20</VoiceFile>
           <Content>Por cierto, lo siguiente que viene es el problema. ¿Qué hacemos para atraer a los Zwei aquí?</Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela23</VoiceFile>
           <Content>... Puedes usar este libro. Intenté escribir la relación entre L Corp. y el Fenómeno de Distorsión. Debería ser bastante valioso para ellos bajo estas circunstancias.</Content>
         </Dialog>
@@ -1456,61 +1456,61 @@
         <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="37" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland1</VoiceFile>
           <Content>Las cosas han ido bastante bien gracias a tu libro. No es algo que hubiéramos podido obtener de los invitados que hemos tenido hasta ahora.</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela1</VoiceFile>
           <Content>Simplemente les ofrezco lo que más necesitan en el momento. Soy mejor que nadie en entender la situación y llegar con una respuesta apropiada.</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland2</VoiceFile>
           <Content>Precisamente, ma’am. De verdad llegaste con la solución perfecta para atraer a los Zwei.</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland3</VoiceFile>
           <Content>Demonios, si puedes imprimir libros de inmediato, ¿no sería genial que hicieras un montón de ellos?</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela2</VoiceFile>
           <Content>Solo puedo escribir libros sobre las cosas que sé. También necesito más tiempo para escribir otro.</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland4</VoiceFile>
           <Content>Oh, ya veo... Entonces, ¿puedo preguntar por tus publicaciones de vez en cuando?</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela3</VoiceFile>
           <Content>Estoy dispuesta a cooperar, ya que estás haciendo tu trabajo como mi asistente. Solo no me molestes demasiado.</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland5</VoiceFile>
-          <Content>Seguro, ma’am~ Un mero sirviente como yo no se atrevería a cometer tal atrocidad como molestar a nuestra señora Angela.</Content>
+          <Content>Seguro, ma’am~ Un mero Hizmetkar como yo no se atrevería a cometer tal atrocidad como molestar a nuestra señora Angela.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela4</VoiceFile>
           <Content>¿Piensas que funcionará?</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland6</VoiceFile>
           <Content>El director de una sección en una Asociación como Zwei debería ser más que suficiente para nuestro próximo paso. La información que tenga tiene que estar en un nivel completamente diferente de lo que hemos conseguido hasta ahora.</Content>
         </Dialog>
@@ -1567,7 +1567,7 @@
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela5</VoiceFile>
           <Content>Saludos, queridos invitados. Soy la d—</Content>
         </Dialog>
@@ -1579,7 +1579,7 @@
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela6</VoiceFile>
           <Content>Correcto, es justo como dices.</Content>
         </Dialog>
@@ -1591,7 +1591,7 @@
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela7</VoiceFile>
           <Content>...</Content>
         </Dialog>
@@ -1615,7 +1615,7 @@
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela8</VoiceFile>
           <Content>Que encuentres tu libro en este lugar.</Content>
         </Dialog>
@@ -1627,127 +1627,127 @@
         <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela9</VoiceFile>
           <Content>¿Qué quiere decir con “comportarse como una máquina”?</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland12</VoiceFile>
           <Content>Oh, no ese tema de nuevo...</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela10</VoiceFile>
           <Content>Alguien que conocía amaba decir esa frase.</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland13</VoiceFile>
           <Content>Como te dije antes, las máquinas o sapientes con emociones están prohibidas. Incluso si una fuera creada, la Cabeza ha establecido las implicaciones éticas y todo eso.</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland14</VoiceFile>
           <Content>Eso significa que han establecido una respuesta sólida para la gran pregunta “¿Cómo es una máquina con emociones diferente de un humano?”.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland15</VoiceFile>
           <Content>Su respuesta es: “Incluso si una máquina tiene emociones e inteligencia y es prácticamente idéntica a un humano en todos los aspectos, sigue siendo una máquina por nacimiento. Las máquinas siempre deben estar debajo de los humanos...”</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland16</VoiceFile>
           <Content>“... Por lo tanto, está prohibido crear máquinas sapientes, ya que pueden perturbar el juicio adecuado de los valores sociales. Además, todas las máquinas sapientes serán sujetas a su eliminación sin importar su propietario.”</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland17</VoiceFile>
           <Content>En resumen, “Las máquinas son máquinas y los humanos son humanos. Las máquinas existen solamente para servir a los humanos.” Eso es lo que dicen.</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland18</VoiceFile>
           <Content>Esa es la mentalidad que la gente de la Ciudad ha decidido tener.</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela11</VoiceFile>
           <Content>¿Qué pasa con los cerebros humanos metidos en un montón de chatarra metálica?</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland19</VoiceFile>
           <Content>Seguirían contando técnicamente como humanos. Algunos podrían considerarlos “profanos” y otros podrían mirarlos por encima, pero sus cerebros son naturales.</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland20</VoiceFile>
           <Content>¿Entiendes lo que quiero decir?</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela12</VoiceFile>
           <Content>¿Qué pasa con una copia electrónica de un cerebro humano?</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland21</VoiceFile>
           <Content>Eso... sería una máquina. Ya que no ha “nacido” humano.</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland22</VoiceFile>
           <Content>Siendo sincero, tampoco entiendo estos estándares.</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland23</VoiceFile>
           <Content>Supongo que el nacimiento es lo que más importa.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland24</VoiceFile>
           <Content>Quizás en una reacción defensiva nacida de la urgencia de “preservar” la humanidad como una especie.</Content>
         </Dialog>
         <Dialog ID="17" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela13</VoiceFile>
           <Content>... Eso es injusto.</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland25</VoiceFile>
           <Content>Nada es nunca justo en este mundo.</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela14</VoiceFile>
           <Content>Tienes razón, parece que todos viven con un poco de injusticia que deben soportar.</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland26</VoiceFile>
           <Content>Ahora si que hablas como una habitante de la Ciudad.</Content>
         </Dialog>
@@ -2023,49 +2023,49 @@
         <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="43" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland1</VoiceFile>
           <Content>Los Sindicatos tienen la tendencia de matar más de lo necesario, no como los Fixers. Suelen causar problemas solo porque se sienten así.</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland2</VoiceFile>
           <Content>De todos modos, ¿qué estaban intentando hacer, involucrando a los Sweepers y al Pulgar?</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Dog_ep1_angela1</VoiceFile>
           <Content>Conozco a los Sweepers.</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland3</VoiceFile>
           <Content>¿Lo haces? Bueno, son bastante infames.</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Dog_ep1_angela2</VoiceFile>
           <Content>Los vi cortar humanos en piezas y usarlos como combustible. ¿También son así en la vida real?</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland4</VoiceFile>
           <Content>Sep. Un Sweeper es bastante duro, pero lo que más da miedo es su poder como organización.</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland5</VoiceFile>
           <Content>Salen de sus escondites todas las noches y limpian los Barrios Bajos.</Content>
         </Dialog>
         <Dialog ID="50" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland6</VoiceFile>
           <Content>No podemos ni adivinar cuantos son. Sin importar a cuantos derribamos, más se muestran la siguiente noche.</Content>
         </Dialog>
@@ -2086,7 +2086,7 @@
         </Dialog>
         <Dialog ID="53" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Dog_ep1_angela3</VoiceFile>
           <Content>Saludos, queridos invitados. Soy Angela, directora y bibliotecaria de esta Biblioteca.</Content>
         </Dialog>
@@ -2104,7 +2104,7 @@
         </Dialog>
         <Dialog ID="56" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Dog_ep1_angela4</VoiceFile>
           <Content>Eres bastante impaciente, ya veo.</Content>
         </Dialog>
@@ -2122,7 +2122,7 @@
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Dog_ep1_angela5</VoiceFile>
           <Content>Que encuentres tu libro en este lugar.</Content>
         </Dialog>
@@ -2134,61 +2134,61 @@
         <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland7</VoiceFile>
           <Content>¿No es molesto?</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Dog_ep1_angela6</VoiceFile>
           <Content>¿Escucharte hablar?</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland8</VoiceFile>
           <Content>Quiero decir el tratar con las cosas que los invitados dicen. </Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland9</VoiceFile>
           <Content>Un montón de ellos no dudan en soltarte palabras duras. Estoy sorprendido de que puedas soportarlo todo.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Dog_ep1_angela7</VoiceFile>
           <Content>Son nuestros preciosos invitados, así que es justo que los tratemos como tal.</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Dog_ep1_angela8</VoiceFile>
           <Content>Además, estoy acostumbrada a mantener a los otros complacidos en una conversación.</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland10</VoiceFile>
           <Content>Envidio tu profesionalismo.</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland11</VoiceFile>
           <Content>Quizás algún día deberías darle una lectura de hospitalidad a todos los propietarios de restaurantes en los Barrios Bajos. Podrían aprender una o dos cosas de ti.</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland12</VoiceFile>
           <Content>... Pero aun así, probablemente sería mucho más fácil para ti el ser más flexible al recibir a los invitados, en lugar de fijarte con la misma actitud educada.</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Dog_ep1_angela9</VoiceFile>
           <Content>Tomaré nota de eso.</Content>
         </Dialog>
@@ -2722,115 +2722,115 @@
         <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="86" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland1</VoiceFile>
           <Content>¿Un mal funcionamiento con WARP? Este podría ser un gran golpe a la reputación de W Corp. si esta información llega a hacerse pública.</Content>
         </Dialog>
         <Dialog ID="87" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela1</VoiceFile>
           <Content>Se supone que llegarían en 10 segundos, ¿verdad?</Content>
         </Dialog>
         <Dialog ID="88" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland2</VoiceFile>
           <Content>Sep. Los trenes WARP, operando con la Singularidad de W Corp. Pueden llegar a cualquier estación en solo diez segundos sin importar lo lejos que estén. Un retraso de 30 segundos ya sería un problema lo suficientemente grande, ¿pero uno de 30 horas? Eso será un golpe fatal a la reputación de la corporación.</Content>
         </Dialog>
         <Dialog ID="89" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela2</VoiceFile>
           <Content>Parece que incluso una Singularidad puede funcionar mal.</Content>
         </Dialog>
         <Dialog ID="90" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland3</VoiceFile>
           <Content>Supongo que ninguna tecnología es verdaderamente perfecta.</Content>
         </Dialog>
         <Dialog ID="91" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela3</VoiceFile>
           <Content>Por cierto, pronto podría terminar teniendo una reunión inesperada.</Content>
         </Dialog>
         <Dialog ID="92" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland4</VoiceFile>
           <Content>¿Tienes alguna cara familiar en esa Oficina?</Content>
         </Dialog>
         <Dialog ID="93" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela4</VoiceFile>
           <Content>No.</Content>
         </Dialog>
         <Dialog ID="94" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland5</VoiceFile>
           <Content>¿Entonces te refieres a Myo, la capitana del Equipo Conejo?</Content>
         </Dialog>
         <Dialog ID="95" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela5</VoiceFile>
           <Content>Sí.</Content>
         </Dialog>
         <Dialog ID="96" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland6</VoiceFile>
           <Content>Hunh... ¿Así que tenías conexiones con uno de los capitanes de R Corp?</Content>
         </Dialog>
         <Dialog ID="97" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland7</VoiceFile>
           <Content>Que esa persona Olga la conociera es bastante sorprendente, pero tú también tienes unas conexiones impresionantes.</Content>
         </Dialog>
         <Dialog ID="98" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela6</VoiceFile>
           <Content>Aunque probablemente no nos saludaremos con una sonrisa cuando nos encontremos.</Content>
         </Dialog>
         <Dialog ID="99" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland8</VoiceFile>
           <Content>¿Qué, no eras amiga de ella? Eh, sabes qué, supongo que tiene más sentido de esta forma.</Content>
         </Dialog>
         <Dialog ID="100" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela7</VoiceFile>
           <Content>¿Qué esperabas? ¿Realmente pensabas que tendría algún amigo con quién charlar casualmente?</Content>
         </Dialog>
         <Dialog ID="101" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland9</VoiceFile>
           <Content>Solo me lo preguntaba. R Corp. es diferente de los Fixers en un nivel fundamental.</Content>
         </Dialog>
         <Dialog ID="102" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland10</VoiceFile>
           <Content>Su trabajo puede parecer similar al que hacen los Fixers, pero ellos hacen cosas en una escala mucho más grande y con una mentalidad mucho más profesional.</Content>
         </Dialog>
         <Dialog ID="103" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela8</VoiceFile>
           <Content>No esperaría menos de una de las Alas.</Content>
         </Dialog>
         <Dialog ID="104" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland11</VoiceFile>
           <Content>No estás demasiado relajada.</Content>
         </Dialog>
@@ -2881,7 +2881,7 @@
         </Dialog>
         <Dialog ID="112" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela9</VoiceFile>
           <Content>Bienvenidos, queridos invitados.</Content>
         </Dialog>
@@ -2899,7 +2899,7 @@
         </Dialog>
         <Dialog ID="115" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela10</VoiceFile>
           <Content>Entiendo. Tengo un poco de experiencia tratando con borrachos.</Content>
         </Dialog>
@@ -2911,7 +2911,7 @@
         </Dialog>
         <Dialog ID="117" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela11</VoiceFile>
           <Content>Todo lo que sé es que son nuestros invitados en la Biblioteca, lo lamento.</Content>
         </Dialog>
@@ -2935,7 +2935,7 @@
         </Dialog>
         <Dialog ID="121" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela12</VoiceFile>
           <Content>Ya veo, así que así es cómo sabes de mí.</Content>
         </Dialog>
@@ -2965,7 +2965,7 @@
         </Dialog>
         <Dialog ID="126" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela13</VoiceFile>
           <Content>... Estoy segura de que puedes encontrar la respuesta a eso en los libros que buscas.</Content>
         </Dialog>
@@ -2977,7 +2977,7 @@
         </Dialog>
         <Dialog ID="128" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela14</VoiceFile>
           <Content>Que encuentres tu libro en este lugar.</Content>
         </Dialog>
@@ -2989,49 +2989,49 @@
         <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland12</VoiceFile>
           <Content>¿Tienes alguna idea de por qué a R Corp. le importa este lugar?</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela15</VoiceFile>
           <Content>L Corp. era un cliente importante de R Corp. y desapareció de la nada, así que es natural que quieran saber qué pasó.</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland13</VoiceFile>
           <Content>Un cliente importante de R Corp, ¿eh?...</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland14</VoiceFile>
           <Content>Supongo que tiene sentido. L Corp. y su Nido no eran realmente especiales en términos de poder militar. Debió haber sido un cliente muy importante de R Corp. si se les pedía proteger todo el Nido.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela16</VoiceFile>
           <Content>Era una relación de beneficio mutua. L Corp. suplía toda la energía que R Corp. necesitaba y W Corp. también dependía del suministro de energía de L Corp.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland15</VoiceFile>
           <Content>Las tres Alas en colusión la una con la otra, ¿eh? No le dejan nada de dinero a los demás.</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela17</VoiceFile>
           <Content>No tiene sentido que te quejes conmigo. Yo solo seguía mis órdenes.</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland16</VoiceFile>
           <Content>Sep. Los empleados tienen que hacer lo que sus jefes les dicen, ya sea en las Alas o en los Barrios Bajos.</Content>
         </Dialog>
