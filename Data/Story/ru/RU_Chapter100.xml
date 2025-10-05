@@ -7216,199 +7216,199 @@ Aprecio vuestra ayuda.</Content>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Konum: La Biblioteca - Piso de arte</PlaceName>
+        <PlaceName>Konum: Kütüphane - Sanat Katı</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland1</VoiceFile>
-          <Content>Netzach, bibliotecario de las artes.</Content>
+          <Content>Netzach, Sanat Eserlerinin kütüphanecisi.</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland2</VoiceFile>
-          <Content>¿Eh? ¿Está acostado en el piso...?</Content>
+          <Content>Yerde uzanmış yatıyor, huh...?</Content>
         </Dialog>
         <Dialog ID="2" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach1</VoiceFile>
-          <Content>(Netzach le da un vistazo a Roland mientras está acostado en el suelo, antes de darse la vuelta de nuevo.)</Content>
+          <Content>(Netzach, yerde yatarken Roland’a bir bakış atar, sonra tekrardan arkasını çevirir.)</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland3</VoiceFile>
-          <Content>Hey... Los libros también están en el suelo. Estoy sintiendo cero motivación para trabajar.</Content>
+          <Content>Hunh... Bütün kitaplarda yerlerde... Çalışmak için 0 motivasyonu var gibi hissediyorum.</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland4</VoiceFile>
-          <Content>¿Holaaaaa, señor Netzach, jefe bibliotecario?</Content>
+          <Content>Merhaba~~ Bay Netzach, Baş Kütüphaneci~~?</Content>
         </Dialog>
         <Dialog ID="5" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach2</VoiceFile>
-          <Content>Uf...</Content>
+          <Content>Ah...</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland5</VoiceFile>
-          <Content>Si sigues negándote a cooperar, Angela va a enojarse conmigo.</Content>
+          <Content>Eğer iş birliği yapmayı reddetmeye devam edersen, Angela beni fena haşlayacak~ </Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland6</VoiceFile>
-          <Content>Poooooorfavor deeeespiertaaa.</Content>
+          <Content>Lütfeeen uyan~~</Content>
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach3</VoiceFile>
-          <Content>... ¿Sabes cómo se siente dar todo lo que tienes en hacer algo, solo para ver como se rompe completamente?</Content>
+          <Content>...Bir şeyi yapmak için elinden ne geliyorsa verip, sonunda da tamamen yıkıldığını görmek nasıl bir his, biliyor musun?</Content>
         </Dialog>
         <Dialog ID="9" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach4</VoiceFile>
-          <Content>Intenté muy duro construir un castillo de arena, solo para que las olas se lo llevaran.</Content>
+          <Content>Kumdan bir kale yapmak için çok uğraştım, ve dalgalar onu alıp götürdü.</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland7</VoiceFile>
-          <Content>Y apuesto que fue Angela quien hizo esas olas.</Content>
+          <Content>Ve tahmin ediyorum o dalgaları Angela yaptı.</Content>
         </Dialog>
         <Dialog ID="11" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach5</VoiceFile>
-          <Content>Fui despertado una vez más, llamado para hacer un trabajo que no quiero otra vez.</Content>
+          <Content>Bir kez daha uyandırılarak, istemediğim bir işin sorumluluğunu tekrar almak için çağrıldım.</Content>
         </Dialog>
         <Dialog ID="12" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach6</VoiceFile>
-          <Content>Déjame solo por un rato. Quiero volver a dormir.</Content>
+          <Content>Biraz yalnız bırak beni. Uykuya geri dönmek istiyorum.</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland8</VoiceFile>
-          <Content>¿Cómo pueden todos odiar tanto a Angela?</Content>
+          <Content>Vay canına. Her biriniz Angela'yı bu kadar nasıl nefret edebilirsiniz?</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland9</VoiceFile>
-          <Content>Por favor, ¿dame una mano, sí? ¿Estamos en el mismo bote, sabes?</Content>
+          <Content>Lütfen bana yardım et, olur mu? Aynı teknedeyiz, anlıyorsun hani?</Content>
         </Dialog>
         <Dialog ID="15" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach7</VoiceFile>
-          <Content>(Netzach a penas se sienta.)</Content>
+          <Content>(Netzach, zar zor kalkıp oturur.)</Content>
         </Dialog>
         <Dialog ID="16" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach8</VoiceFile>
-          <Content>Eres tan lamentable, hombre. ¿Cómo terminaste aquí?</Content>
+          <Content>Durumun acınası. Böyle bir yere nasıl düştün?</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland10</VoiceFile>
-          <Content>Lo sé, ¿verdad? También pienso que estoy en una situación muy miserable.</Content>
+          <Content>Biliyorum, demi ama? Bende berbat bir noktada olduğumu düşünüyorum.</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland11</VoiceFile>
-          <Content>¡Así que puedes tener un poco de simpatía para trabajar duro juntos!</Content>
+          <Content>O yüzden lütfen şu sempatinin bir kısmını birlikte sıkıca çalışmamıza ayırabilirmisin!</Content>
         </Dialog>
         <Dialog ID="19" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach9</VoiceFile>
-          <Content>Probablemente ya lo sabes, pero soy Netzach, bibliotecario del piso de artes.</Content>
+          <Content>Zaten biliyorsundur, ama genede ben, Netzach, Sanat katının kütüphanecisi.</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland12</VoiceFile>
-          <Content>Y también una presentación para mí; Soy Roland, el Hizmetkar de Angela y un trabajador de esta Biblioteca.</Content>
+          <Content>Ve benden de düzgün bir kendimi tanıtma; Ben Roland, Angela'nın hizmetkarı ve kütüphane çalışanı.</Content>
         </Dialog>
         <Dialog ID="21" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach10</VoiceFile>
-          <Content>Tengo que preguntarmelo, ¿cómo siempre termino con un trabajo que no encaja conmigo para nada?</Content>
+          <Content>Merak ediyorum, nasıl oluyor da bana, hep hiç de uymayan türden işler kalıyor?</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland13</VoiceFile>
-          <Content>Ni lo digas. Tampoco pensé que terminaría trabajando en una Biblioteca de todos los lugares.</Content>
+          <Content>Sen söyle. Bende bütün mekanlar arasından bir kütüphanede çalışacağımı hiç düşünmemiştim.</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland14</VoiceFile>
-          <Content>¡De todos modos! ¿Estarás clasificando los libros relacionados con arte que te traiga, verdad?</Content>
+          <Content>Neyse! Benim getirdiğim kitap yığınları arasından sanatla alakalı olan kitapları ayıklayacaksın, değil mi?</Content>
         </Dialog>
         <Dialog ID="24" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach11</VoiceFile>
-          <Content>Aparentemente.</Content>
+          <Content>Öyle görünüyor.</Content>
         </Dialog>
         <Dialog ID="25" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach12</VoiceFile>
-          <Content>Uf... ¿Puedes irte ya que terminamos de intercambiar nombres y eso?</Content>
+          <Content>Ah... Artık isimlerimizi de paylaşıp tanıştığımıza göre, geri gidebilir misin?</Content>
         </Dialog>
         <Dialog ID="26" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach13</VoiceFile>
-          <Content>(Se vuelve a acostar en el suelo.)</Content>
+          <Content>(Tekrar yere uzanır)</Content>
         </Dialog>
         <Dialog ID="27" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland15</VoiceFile>
-          <Content>Eh, mira, puedes tirarte en el suelo todo lo que quieras, ¿pero harás tu trabajo, verdad?</Content>
+          <Content>Um, bak, istediğin kadar yerde yatabilirsin, ama işini yapacaksın, değil mi?</Content>
         </Dialog>
         <Dialog ID="28" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep1_netzach14</VoiceFile>
-          <Content>No es como si tuviera otra opción.</Content>
+          <Content>O konu hakkında bir seçeneğim yok gibi duruyor.</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland16</VoiceFile>
-          <Content>Estoy contando contigo, por favor asegúrate de hacer tu trabajo, ¿vale?</Content>
+          <Content>Sana güveniyorum~ Lütfen çalışmayı unutma, tamam mı?</Content>
         </Dialog>
         <Dialog ID="30" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>None</VoiceFile>
-          <Content>(Ahuyenta a Roland lejos de aquí.)</Content>
+          <Content>(Roland'ı el kol sallayarak uzaklaştırır.)</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
       <EpisodeName>Episode 2</EpisodeName>
       <Place>
-        <PlaceName>Konum: La Biblioteca - Piso de arte</PlaceName>
+        <PlaceName>Konum: Kütüphane - Sanat Katı</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
@@ -7417,7 +7417,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="1" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach1</VoiceFile>
           <Content>(Netzach una vez más le da un vistazo a Roland, antes de darse la vuelta otra vez.)</Content>
         </Dialog>
@@ -7435,7 +7435,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="4" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach2</VoiceFile>
           <Content>Esta es la Biblioteca, Roland. Construida con la luz de las posibilidades. Todo es posible mientras tenga el libro correcto.</Content>
         </Dialog>
@@ -7447,7 +7447,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="6" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach3</VoiceFile>
           <Content>(Él apunta hacia la pila de libros a su lado.)</Content>
         </Dialog>
@@ -7459,13 +7459,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach4</VoiceFile>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="9" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach5</VoiceFile>
           <Content>Aquí, ten una bebida.</Content>
         </Dialog>
@@ -7489,7 +7489,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="13" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach6</VoiceFile>
           <Content>¿Está bueno, verdad?</Content>
         </Dialog>
@@ -7507,13 +7507,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="16" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach7</VoiceFile>
           <Content>Están yendo, de alguna manera.</Content>
         </Dialog>
         <Dialog ID="17" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach8</VoiceFile>
           <Content>Aunque no es que esté satisfecho.</Content>
         </Dialog>
@@ -7525,7 +7525,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="19" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach9</VoiceFile>
           <Content>Que tengo que tomar las vidas de otros con mis propias manos.</Content>
         </Dialog>
@@ -7537,19 +7537,19 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="21" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach10</VoiceFile>
           <Content>Por eso es que tengo que pelear. Y eso es lo que no me gusta.</Content>
         </Dialog>
         <Dialog ID="22" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach11</VoiceFile>
           <Content>Probablemente tendré que matar a más gente mientras más pase el tiempo.</Content>
         </Dialog>
         <Dialog ID="23" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach12</VoiceFile>
           <Content>No importa si es un santo o la peor basura de la tierra. Todos quieren vivir.</Content>
         </Dialog>
@@ -7573,7 +7573,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="27" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach13</VoiceFile>
           <Content>Supongo que así es como son las cosas fuera.</Content>
         </Dialog>
@@ -7585,7 +7585,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="29" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach14</VoiceFile>
           <Content>No sé, me siento mareado. Todo lo que recuerdo claramente es que trabajaba en Lobotomy Corp.</Content>
         </Dialog>
@@ -7597,7 +7597,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="31" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach15</VoiceFile>
           <Content>¿Realmente lo piensas?</Content>
         </Dialog>
@@ -7609,13 +7609,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="33" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach16</VoiceFile>
           <Content>Sí. Eso es lo que siempre dicen.</Content>
         </Dialog>
         <Dialog ID="34" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach17</VoiceFile>
           <Content>Vamos a olvidarnos sobre todo eso por ahora y beber un poco más.</Content>
         </Dialog>
@@ -7636,10 +7636,10 @@ Aprecio vuestra ayuda.</Content>
     <Episode>
       <EpisodeName>Episode 3</EpisodeName>
       <Place>
-        <PlaceName>Konum: La Biblioteca - Piso de arte</PlaceName>
+        <PlaceName>Konum: Kütüphane - Sanat Katı</PlaceName>
         <Dialog ID="0" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach1</VoiceFile>
           <Content>Eh, ¿sabías que el arte no se puede separar del alcohol?</Content>
         </Dialog>
@@ -7651,7 +7651,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="2" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach2</VoiceFile>
           <Content>Lo sabía. Quizás estamos en la misma página después de todo.</Content>
         </Dialog>
@@ -7663,13 +7663,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="4" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach3</VoiceFile>
           <Content>Ese es un licor con un legado que está muy atado al arte, es casi legendario.</Content>
         </Dialog>
         <Dialog ID="5" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach4</VoiceFile>
           <Content>Ya que estoy a cargo de las artes, podría necesitar algo de estimulación para trabajar como un artista de verdad.</Content>
         </Dialog>
@@ -7687,7 +7687,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach5</VoiceFile>
           <Content>Eh, nos podemos preocupar de eso más tarde.</Content>
         </Dialog>
@@ -7699,7 +7699,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="10" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach6</VoiceFile>
           <Content>Diría que es más cómodo para mí ser cortés.</Content>
         </Dialog>
@@ -7711,19 +7711,19 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="12" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach7</VoiceFile>
           <Content>Mira este brillante licor verde. Es justo como las artes de esta Ciudad.</Content>
         </Dialog>
         <Dialog ID="13" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach8</VoiceFile>
           <Content>Imitaciones que son provocativas pero nada más... Imitaciones de imitaciones.</Content>
         </Dialog>
         <Dialog ID="14" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach9</VoiceFile>
           <Content>Aunque tampoco veo el punto en ser original. Supongo que también soy la imitación de alguien o algo.</Content>
         </Dialog>
@@ -7747,13 +7747,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="18" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach10</VoiceFile>
           <Content>Entonces el Pianista tuvo que haber sido un infierno de estimulación.</Content>
         </Dialog>
         <Dialog ID="19" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach11</VoiceFile>
           <Content>Escuché que su música es una obra maestra que despertó a esta Ciudad gris de su monotonía.</Content>
         </Dialog>
@@ -7771,7 +7771,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="22" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach12</VoiceFile>
           <Content>¿Qué tal tú?</Content>
         </Dialog>
@@ -7789,7 +7789,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="25" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach13</VoiceFile>
           <Content>Cierto. Si pudiera elegir vivir una vida diferente, podría haber sido un pintor o algo.</Content>
         </Dialog>
@@ -7801,13 +7801,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="27" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach14</VoiceFile>
           <Content>Sería capaz de expresar todas mis emociones calmadamente mientras pinto.</Content>
         </Dialog>
         <Dialog ID="28" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach15</VoiceFile>
           <Content>Quizás podría haber vivido una vida humilde como esa.</Content>
         </Dialog>
@@ -7819,7 +7819,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="30" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach16</VoiceFile>
           <Content>Es un verdadero misterio. No estoy muy seguro. Supongo que quería ser de ayuda a alguien.</Content>
         </Dialog>
@@ -7831,25 +7831,25 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="32" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach17</VoiceFile>
           <Content>¿Era realmente amor? Incluso si lo era, no hubiera funcionado.</Content>
         </Dialog>
         <Dialog ID="33" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach18</VoiceFile>
           <Content>Pero aún tenía esperanzas de que podía hacer algo mejor.</Content>
         </Dialog>
         <Dialog ID="34" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach19</VoiceFile>
           <Content>Que si dejara que mi vida se fuera, podría brindar una mayor esperanza a otras personas.</Content>
         </Dialog>
         <Dialog ID="35" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach20</VoiceFile>
           <Content>Ese es el motivo de que participara en la investigación. Por eso me opuse a Angela.</Content>
         </Dialog>
@@ -8038,34 +8038,34 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Konum: La Biblioteca - Piso de arte</PlaceName>
+        <PlaceName>Konum: Kütüphane - Sanat Katı</PlaceName>
         <Dialog ID="66" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach22</VoiceFile>
           <Content>Cualquiera que grite que quiere morir está mintiendo.</Content>
         </Dialog>
         <Dialog ID="67" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach23</VoiceFile>
           <Content>En realidad, ellos quieren vivir más que nadie, así que expresan ese impulso de una manera u otra.</Content>
         </Dialog>
         <Dialog ID="68" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach24</VoiceFile>
           <Content>Por otra parte, alguien que genuinamente quiere morir, terminará desapareciendo silenciosamente.</Content>
         </Dialog>
         <Dialog ID="69" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach25</VoiceFile>
           <Content>Cuando Angela dijo que quería vivir, sentí algo dentro de mí.</Content>
         </Dialog>
         <Dialog ID="70" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach26</VoiceFile>
           <Content>Que yo también quería vivir.</Content>
         </Dialog>
@@ -8089,7 +8089,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="74" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach27</VoiceFile>
           <Content>Pareces muy versado en el tema.</Content>
         </Dialog>
@@ -8101,25 +8101,25 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="76" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach28</VoiceFile>
           <Content>Cuando vi esa desesperación por vivir...</Content>
         </Dialog>
         <Dialog ID="77" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach29</VoiceFile>
           <Content>Recordé a los muchos empleados que murieron frente a mis ojos en Lobotomy Corp.</Content>
         </Dialog>
         <Dialog ID="78" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach30</VoiceFile>
           <Content>Es irónico como estábamos intentando salvar a la humanidad, pero no podíamos salvar a las personas en frente nuestro.</Content>
         </Dialog>
         <Dialog ID="79" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach31</VoiceFile>
           <Content>En ese momento pensé: Si pudiera vivir más, ¿qué me gustaría hacer?</Content>
         </Dialog>
@@ -8131,7 +8131,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="81" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach32</VoiceFile>
           <Content>¿Qué tal tú, Roland? ¿Vas a volver a ser un Fixer cuando seas libre?</Content>
         </Dialog>
@@ -8155,7 +8155,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="85" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach33</VoiceFile>
           <Content>Puedo brindar por eso. Por nosotros.</Content>
         </Dialog>
@@ -8164,7 +8164,7 @@ Aprecio vuestra ayuda.</Content>
     <Episode>
       <EpisodeName>Episode 4</EpisodeName>
       <Place>
-        <PlaceName>Konum: La Biblioteca - Piso de arte</PlaceName>
+        <PlaceName>Konum: Kütüphane - Sanat Katı</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
@@ -8173,7 +8173,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="1" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach1</VoiceFile>
           <Content>Es porque no he bebido. Quería estar sobrio hoy.</Content>
         </Dialog>
@@ -8185,7 +8185,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="3" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach2</VoiceFile>
           <Content>Pareces muy triste por perder una oportunidad de beber.</Content>
         </Dialog>
@@ -8197,13 +8197,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="5" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach3</VoiceFile>
           <Content>Bueno, hoy es un día especial.</Content>
         </Dialog>
         <Dialog ID="6" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach4</VoiceFile>
           <Content>El día que yo morí y me desvanecí de este mundo.</Content>
         </Dialog>
@@ -8221,19 +8221,19 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="9" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach5</VoiceFile>
           <Content>La fecha no importa realmente.</Content>
         </Dialog>
         <Dialog ID="10" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach6</VoiceFile>
           <Content>Es el momento exacto el que estoy conmemorando.</Content>
         </Dialog>
         <Dialog ID="11" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach7</VoiceFile>
           <Content>Aprendí sobre la vida y la muerte de Giovanni, mi primera encarnación.</Content>
         </Dialog>
@@ -8245,7 +8245,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="13" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach8</VoiceFile>
           <Content>¿Piensas que los seguidores de la Iglesia de los engranajes son una banda de tontos, Roland?</Content>
         </Dialog>
@@ -8263,13 +8263,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="16" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach9</VoiceFile>
           <Content>Eso es lo que también pienso.</Content>
         </Dialog>
         <Dialog ID="17" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach10</VoiceFile>
           <Content>Crecí sin nadie a quien llamar padres.</Content>
         </Dialog>
@@ -8281,19 +8281,19 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="19" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach11</VoiceFile>
           <Content>Nací en un Nido y fui dejado en un orfanato sin saber quienes eran mis padres.</Content>
         </Dialog>
         <Dialog ID="20" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach12</VoiceFile>
           <Content>Ya hubiera muerto si hubiera estado en las Callejuelas.</Content>
         </Dialog>
         <Dialog ID="21" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach13</VoiceFile>
           <Content>Pero fui bastante afortunado de haber nacido en un Nido y desafortunado por haber perdido a mis padres tan pronto.</Content>
         </Dialog>
@@ -8305,7 +8305,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="23" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach14</VoiceFile>
           <Content>El de K Corp.</Content>
         </Dialog>
@@ -8317,37 +8317,37 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="25" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach15</VoiceFile>
           <Content>Sep. Mi vida fue bastante bien. Ligeramente más desafortunada que otras y ligeramente más afortunada también.</Content>
         </Dialog>
         <Dialog ID="26" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach16</VoiceFile>
           <Content>Nunca pase hambre ni fui intimidado por nadie.</Content>
         </Dialog>
         <Dialog ID="27" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach17</VoiceFile>
           <Content>Tuve una vida protegida, libre de las influencias externas.</Content>
         </Dialog>
         <Dialog ID="28" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach18</VoiceFile>
           <Content>Todo lo que hacía era respirar en ese cascarón sin significado. Pensé que era normal hacerlo.</Content>
         </Dialog>
         <Dialog ID="29" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach19</VoiceFile>
           <Content>Todos tenían la misma expresión que yo.</Content>
         </Dialog>
         <Dialog ID="30" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach20</VoiceFile>
           <Content>En la escuela o en las calles, todas las personas en el Nido hacían la misma cara.</Content>
         </Dialog>
@@ -8359,13 +8359,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="32" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach21</VoiceFile>
           <Content>Mmm. Lo has clavado. Me di cuenta de la vida mientras pasaba.</Content>
         </Dialog>
         <Dialog ID="33" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach22</VoiceFile>
           <Content>Seguí viviendo una vida monótona... Hasta el momento que conocí a una cara que nunca había visto antes.</Content>
         </Dialog>
@@ -8377,25 +8377,25 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="35" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach23</VoiceFile>
           <Content>... Supongo. Era el primer amor de Giovanni, para ser exacto.</Content>
         </Dialog>
         <Dialog ID="36" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach24</VoiceFile>
           <Content>Ella estaba dando un discurso muy apasionado en el medio de la calle, incluso aunque nadie le prestaba atención.</Content>
         </Dialog>
         <Dialog ID="37" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach25</VoiceFile>
           <Content>Casi no entendía lo que ella estaba diciendo.</Content>
         </Dialog>
         <Dialog ID="38" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach26</VoiceFile>
           <Content>Todo lo que podía pensar era en lo brillante y viva que esa persona era.</Content>
         </Dialog>
@@ -8407,19 +8407,19 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="40" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach27</VoiceFile>
           <Content>Ella decía que iba a cambiar este mundo y a su gente.</Content>
         </Dialog>
         <Dialog ID="41" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach28</VoiceFile>
           <Content>Y estaba buscando personas que se unieran a su causa.</Content>
         </Dialog>
         <Dialog ID="42" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach29</VoiceFile>
           <Content>¿No es tonto? ¿Quién en el Nido dejaría sus cómodas vidas por una investigación como esa?</Content>
         </Dialog>
@@ -8431,13 +8431,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="44" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach30</VoiceFile>
           <Content>Cierto. Quizás ella fue a las calles esperando encontrar a alguien como Giovanni.</Content>
         </Dialog>
         <Dialog ID="45" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach31</VoiceFile>
           <Content>Su nombre era Carmen.</Content>
         </Dialog>
@@ -8449,19 +8449,19 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="47" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach32</VoiceFile>
           <Content>Cuando vi a Carmen rebosando de alegría y orgullo por su causa, también me sentí vivo.</Content>
         </Dialog>
         <Dialog ID="48" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach33</VoiceFile>
           <Content>Quería estar con ella por siempre.</Content>
         </Dialog>
         <Dialog ID="49" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach34</VoiceFile>
           <Content>Aunque ella probablemente solo me veía como un buen amigo o un colega y nada más.</Content>
         </Dialog>
@@ -8473,13 +8473,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="51" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach35</VoiceFile>
           <Content>Eso no importaba mucho. Estaba contento con vivir de esa forma.</Content>
         </Dialog>
         <Dialog ID="52" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach36</VoiceFile>
           <Content>Pero...</Content>
         </Dialog>
@@ -8491,37 +8491,37 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="54" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach37</VoiceFile>
           <Content>Sí. Lentamente...</Content>
         </Dialog>
         <Dialog ID="55" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach38</VoiceFile>
           <Content>El progreso de nuestra investigación se estancó y Carmen perdió gradualmente su viveza.</Content>
         </Dialog>
         <Dialog ID="56" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach39</VoiceFile>
           <Content>Y entonces, cuando un niño llamado Enoch murió durante un experimento...</Content>
         </Dialog>
         <Dialog ID="57" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach40</VoiceFile>
           <Content>Fue como si algo dentro de ella se rompiera.</Content>
         </Dialog>
         <Dialog ID="58" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach41</VoiceFile>
           <Content>Quería animarla de alguna manera, pero ver la cara letárgica de Carmen me asustaba demasiado. Fue como si yo hubiera sido borrado del mundo.</Content>
         </Dialog>
         <Dialog ID="59" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach42</VoiceFile>
           <Content>Y Carmen terminó con su propia vida poco después de eso.</Content>
         </Dialog>
@@ -8533,31 +8533,31 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="61" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach43</VoiceFile>
           <Content>Lo pude soportar de alguna manera. Estaba muy calmado sobre eso.</Content>
         </Dialog>
         <Dialog ID="62" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach44</VoiceFile>
           <Content>Pensé, incluso la persona más viva puede tener un temprano y miserable final.</Content>
         </Dialog>
         <Dialog ID="63" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach45</VoiceFile>
           <Content>Decidí quedarme en el laboratorio para ayudar a completar la investigación que Carmen comenzó.</Content>
         </Dialog>
         <Dialog ID="64" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach46</VoiceFile>
           <Content>Sus compañeros seguían ahí, aún no perdían las esperanza.</Content>
         </Dialog>
         <Dialog ID="65" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach47</VoiceFile>
           <Content>Entonces, un día dijeron que podría ser posible salvar a Carmen.</Content>
         </Dialog>
@@ -8569,7 +8569,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="67" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach48</VoiceFile>
           <Content>Lo era. Y...</Content>
         </Dialog>
@@ -8581,37 +8581,37 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="69" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach49</VoiceFile>
           <Content>Era un experimento arriesgado. El sujeto podía entrar en un coma permanente si iba mal.</Content>
         </Dialog>
         <Dialog ID="70" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach50</VoiceFile>
           <Content>Nadie quería participar, así que me ofrecí voluntario.</Content>
         </Dialog>
         <Dialog ID="71" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach51</VoiceFile>
           <Content>Si Carmen volvía sería el resultado ideal, pero incluso si fallara y terminaba durmiendo para siempre, estaba bien con eso.</Content>
         </Dialog>
         <Dialog ID="72" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach52</VoiceFile>
           <Content>De todos modos, en un mundo sin Carmen, había perdido mi luz.</Content>
         </Dialog>
         <Dialog ID="73" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach53</VoiceFile>
           <Content>Así que puedo entender a las personas que toman medidas desesperadas para encontrar el significado en sus vidas, como la Iglesia de los Engranajes que acabamos de ver.</Content>
         </Dialog>
         <Dialog ID="74" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach54</VoiceFile>
           <Content>Participé en un experimento que podría haberme matado por una razón similar. Y su resultado fue...</Content>
         </Dialog>
@@ -8623,25 +8623,25 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="76" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach55</VoiceFile>
           <Content>Sep. Entonces conseguí mi segunda vida. Desperté en Lobotomy Corp. como Netzach.</Content>
         </Dialog>
         <Dialog ID="77" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach56</VoiceFile>
           <Content>Incluso aunque había abandonado toda unión con la vida antes de morir...</Content>
         </Dialog>
         <Dialog ID="78" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach57</VoiceFile>
           <Content>En el medio de la confusión, pude escuchar una voz nostálgica. Me dijo que intentara vivir.</Content>
         </Dialog>
         <Dialog ID="79" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach58</VoiceFile>
           <Content>Después de todos esos giros, finalmente llegamos aquí. Ahora con la valentía de seguir viviendo.</Content>
         </Dialog>
@@ -8653,25 +8653,25 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="81" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach59</VoiceFile>
           <Content>Y ahora, quiero vivir, no solo existir mientras no hago nada más que respirar.</Content>
         </Dialog>
         <Dialog ID="82" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach60</VoiceFile>
           <Content>Si tengo la oportunidad, claro.</Content>
         </Dialog>
         <Dialog ID="83" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach61</VoiceFile>
           <Content>Estoy comenzando a pensar que podría ser posible esta vez.</Content>
         </Dialog>
         <Dialog ID="84" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach62</VoiceFile>
           <Content>El mundo es más grande de lo que pensaba y hay un montón de sitios horribles, pero ciertamente hay belleza por ser encontrada.</Content>
         </Dialog>
@@ -8683,7 +8683,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="86" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach63</VoiceFile>
           <Content>Supongo que sí. Aunque ahora disfruto el alcohol por lo que es.</Content>
         </Dialog>
@@ -8695,7 +8695,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="88" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach64</VoiceFile>
           <Content>Me dieron ganas de beber. ¿Deberiamos?</Content>
         </Dialog>
@@ -8710,22 +8710,22 @@ Aprecio vuestra ayuda.</Content>
     <Episode>
       <EpisodeName>Episode 5</EpisodeName>
       <Place>
-        <PlaceName>Konum: La Biblioteca - Piso de arte</PlaceName>
+        <PlaceName>Konum: Kütüphane - Sanat Katı</PlaceName>
         <Dialog ID="0" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach1</VoiceFile>
           <Content>El arte parece cambiar con el tiempo.</Content>
         </Dialog>
         <Dialog ID="1" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach2-02</VoiceFile>
           <Content>Quizás la forma del arte puede ser una buena representación de la era a la que pertenece.</Content>
         </Dialog>
         <Dialog ID="2" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach3-01</VoiceFile>
           <Content>Esas actuaciones que los Músicos de Bremen afirman ser “trabajos de arte” podrían ser una caricatura de la Ciudad en su estado actual.</Content>
         </Dialog>
@@ -8755,31 +8755,31 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="7" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach4-01</VoiceFile>
           <Content>Si el arte tiene que involucrar el quemar la vida del artista o de alguien más, me gustaría decirles que lo dejaran.</Content>
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach5</VoiceFile>
           <Content>Cubrir de azúcar una vida de dolor al llamarla arte es simplemente desagradable.</Content>
         </Dialog>
         <Dialog ID="9" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach6</VoiceFile>
           <Content>El dolor debería ser conocido como dolor y nada más.</Content>
         </Dialog>
         <Dialog ID="10" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach7-01</VoiceFile>
           <Content>¿Estás disfrutando esta farsa, Angela?</Content>
         </Dialog>
         <Dialog ID="11" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach8-01</VoiceFile>
           <Content>¿Dejando que todo tipo de personas entren a la Biblioteca por su propia cuenta y ver como mueren?</Content>
         </Dialog>
@@ -8803,19 +8803,19 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="15" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach9</VoiceFile>
           <Content>¿Pero siempre tiene que terminar con muerte?</Content>
         </Dialog>
         <Dialog ID="16" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach10-01</VoiceFile>
           <Content>Arrojar las vidas lejos para crear algo como los Músicos de Bremen hacen podría contar como arte, pero no es para nada hermoso.</Content>
         </Dialog>
         <Dialog ID="17" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach11</VoiceFile>
           <Content>El color de cada día puede ser un gris monótono, pero sacrificar tu propia vida para perseguir un nuevo matiz es solo escapar.</Content>
         </Dialog>
@@ -8839,7 +8839,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="21" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach12-01</VoiceFile>
           <Content>Pero eres la que quiere vivir más que nadie, Angela...</Content>
         </Dialog>
@@ -9142,7 +9142,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Konum: La Biblioteca - Piso de arte</PlaceName>
+        <PlaceName>Konum: Kütüphane - Sanat Katı</PlaceName>
         <Dialog ID="71" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
@@ -9163,7 +9163,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="74" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach13-02</VoiceFile>
           <Content>Quizás hay una forma para que todos vivamos.</Content>
         </Dialog>
@@ -9175,7 +9175,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="76" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach14-02</VoiceFile>
           <Content>Todo lo que Angela quiere es vivir.</Content>
         </Dialog>
@@ -9187,7 +9187,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="78" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach15-02</VoiceFile>
           <Content>¿No es tu primera vez tratando con ella, no es así?</Content>
         </Dialog>
@@ -9202,7 +9202,7 @@ Aprecio vuestra ayuda.</Content>
     <Episode>
       <EpisodeName>Episode 6</EpisodeName>
       <Place>
-        <PlaceName>Konum: La Biblioteca - Piso de arte</PlaceName>
+        <PlaceName>Konum: Kütüphane - Sanat Katı</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
@@ -9241,25 +9241,25 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="6" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach16</VoiceFile>
           <Content>Sin importar cómo te puedas sentir ahora mismo, no la arrojes. La vida sigue después de todo.</Content>
         </Dialog>
         <Dialog ID="7" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach17-02</VoiceFile>
           <Content>Todos merecemos pasar al siguiente capítulo de nuestras vidas.</Content>
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach18</VoiceFile>
           <Content>Así que intenta creer que siempre algo aparecerá en la siguiente página de lo que estás pensando que es el final.</Content>
         </Dialog>
         <Dialog ID="9" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach19-01</VoiceFile>
           <Content>Simplemente vivir tu propia vida puede ser su propia forma de arte.</Content>
         </Dialog>
@@ -9289,7 +9289,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="14" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach20-01</VoiceFile>
           <Content>Abrirse puede ser un poco embarazoso.</Content>
         </Dialog>
@@ -9301,7 +9301,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="16" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach21-01</VoiceFile>
           <Content>Celebramos con una bebida.</Content>
         </Dialog>
@@ -9313,7 +9313,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="18" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep5_Netzach22</VoiceFile>
           <Content>La champaña es el camino a seguir.</Content>
         </Dialog>
@@ -20399,13 +20399,13 @@ pues estoy seguro de que nunca te irás.”
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_kether_ep1_netzach1</VoiceFile>
           <Content>... Espera, yo tengo algo que decir.</Content>
         </Dialog>
         <Dialog ID="9" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_kether_ep1_netzach2</VoiceFile>
           <Content>Tengo un problema con el proceso de recuperar la Luz.</Content>
         </Dialog>
@@ -20465,7 +20465,7 @@ pues estoy seguro de que nunca te irás.”
         </Dialog>
         <Dialog ID="19" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_kether_ep1_netzach3</VoiceFile>
           <Content>Pensamos que eso sería lo último... No más de esto...</Content>
         </Dialog>
