@@ -130,7 +130,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland8</VoiceFile>
-          <Content> Orada pek yapıcak birşeyim de yok, zaten. Bitik bir Fixer olmaya, fıçının dibini sıyırmaya tekrar geri dönerim.</Content>
+          <Content> Orada pek yapıcak birşeyim de yok, zaten. Bitik bir Düzeltici olmaya, fıçının dibini sıyırmaya tekrar geri dönerim.</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>Roland</Teller>
@@ -782,73 +782,73 @@
         <PlaceName>Konum: Sokak Lambası Ofisi</PlaceName>
         <Dialog ID="0" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu1</VoiceFile>
           <Content>Ahh~ Neden ofisimiz müşteriler açısından popüler değil?</Content>
         </Dialog>
         <Dialog ID="1" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu2</VoiceFile>
-          <Content>Ofisimiz resmi olarak Zwei Birliği tarafından bağlı kuruluş olarakta belirlendi.</Content>
+          <Content>Hem de Ofisimiz resmi olarak Zwei Birliği tarafından bağlı kuruluş olarakta belirlendi.</Content>
         </Dialog>
         <Dialog ID="2" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu3</VoiceFile>
           <Content>Ve Sokak Lambası Ofisi tarafından güvence altına alınan Bölgelerde suç oranı, sözleşme geçerli olduğu sürece çarpıcı bir şekilde 0% olarak kalmaktadır.</Content>
         </Dialog>
         <Dialog ID="3" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars1</VoiceFile>
           <Content>Fakat, en fazla iki blokluk bir alanı kapsıyoruz.</Content>
         </Dialog>
         <Dialog ID="4" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars2</VoiceFile>
           <Content>Ve beklemeye devam edersek eninde sonunda iş gelecek.</Content>
         </Dialog>
         <Dialog ID="5" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu4</VoiceFile>
           <Content>Evet ya, tabii, bütün hayatın boyunca beklemeye devam edebilirsin sen. Ben gerçekten de başka bir Ofise taşınmayı düşünüyorum.</Content>
         </Dialog>
         <Dialog ID="6" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars3</VoiceFile>
           <Content>Daha büyük bir ofis için çalışabilecek kapasiten olduğunu hiç düşünmemiştim.</Content>
         </Dialog>
         <Dialog ID="7" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu5</VoiceFile>
           <Content>Senin aksine, deneyimlerimden edinmiş olduğum iş bağlantılarım var, anlıyor musun?</Content>
         </Dialog>
         <Dialog ID="8" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu6</VoiceFile>
-          <Content>Senin şu annen, Efsanevi Fixer veya her ne haltsa onunla çok meşgul herhalde, oysa benim, bana direkt olarak yardım edebilecek arkadaşlarım var.</Content>
+          <Content>Senin şu annen, Efsanevi Düzeltici veya her ne haltsa onunla çok meşgul herhalde, oysa benim, bana direkt olarak yardım edebilecek arkadaşlarım var.</Content>
         </Dialog>
         <Dialog ID="9" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars4</VoiceFile>
-          <Content>Evet, gerçekten harika bir Fixer'sın~</Content>
+          <Content>Evet, gerçekten harika bir Düzeltici'sin~</Content>
         </Dialog>
         <Dialog ID="10" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu7</VoiceFile>
           <Content>Evet evet. Teşekkürler, biliyorum harikayım~</Content>
         </Dialog>
         <Dialog ID="11" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu8</VoiceFile>
           <Content>Hey!!! Buzdolabındaki pastayı yedin, değil mi!!!!!!</Content>
         </Dialog>
@@ -862,35 +862,35 @@
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san2</VoiceFile>
-          <Content>...Yine kavga mı ediyorsunuz...</Content>
+          <Content>...Yine kavga mı ediyorsunuz ?</Content>
         </Dialog>
         <Dialog ID="14" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu9</VoiceFile>
           <Content>Bu Ağlak O.Ç bana pastayı sormadan yemiş!!</Content>
         </Dialog>
         <Dialog ID="15" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars5</VoiceFile>
           <Content>Son kullanma tarihi dündü, bende icabına baktım, sadece.</Content>
         </Dialog>
         <Dialog ID="16" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu10</VoiceFile>
           <Content>Auuuuuuuuugh!!!!! BEN'İM pastamdı, tarihi geçmiş olsa bile, bunu KENDİ BAŞIMA halledebilirim!!!</Content>
         </Dialog>
         <Dialog ID="17" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars6</VoiceFile>
           <Content>Her neyse, patron, o iş nedir?</Content>
         </Dialog>
         <Dialog ID="18" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu11</VoiceFile>
           <Content>Konuyu değiştirme!!!</Content>
         </Dialog>
@@ -902,7 +902,7 @@
         </Dialog>
         <Dialog ID="20" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu12</VoiceFile>
           <Content>Ama... O sınırlı üretim bir pastaydı...</Content>
         </Dialog>
@@ -914,9 +914,9 @@
         </Dialog>
         <Dialog ID="22" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu13</VoiceFile>
-          <Content>Zwei’in doğrudan altında çalışan yardimci Fixer'imi kastediyorsun?</Content>
+          <Content>Zwei’in doğrudan altında çalışan yardımcı Düzeltici'yi mi kastediyorsun?</Content>
         </Dialog>
         <Dialog ID="23" Model="산">
           <Teller>San</Teller>
@@ -928,17 +928,17 @@
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san6</VoiceFile>
-          <Content>"Kütüphane"yi hiç duymuşmuydunuz?</Content>
+          <Content>"Kütüphane"yi hiç duymuş muydunuz?</Content>
         </Dialog>
         <Dialog ID="25" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars7</VoiceFile>
           <Content>Bazı hikayeleri hakkında. Fareler'in bundan bahsettiğini duymuştuk.</Content>
         </Dialog>
         <Dialog ID="26" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu14</VoiceFile>
           <Content>O yerdeki kitapların muazzam bir değeri olduğunu ya da böyle bir şey söylediler.</Content>
         </Dialog>
@@ -946,17 +946,17 @@
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san7</VoiceFile>
-          <Content>Anlıyorum. Demin bahsettiğim arkadaşımdan şu kütüphaneye bir davetiye aldım.</Content>
+          <Content>Anlıyorum. Demin bahsettiğim arkadaşımdan o kütüphaneye bir davetiye aldım.</Content>
         </Dialog>
         <Dialog ID="28" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars8</VoiceFile>
           <Content>Ama eğer bu talep kayıtlara geçmezse, pek fazla ödeme alamayabiliriz.</Content>
         </Dialog>
         <Dialog ID="29" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu15</VoiceFile>
           <Content>Ve resmi kariyerimize bir katkıda sağlamaz.</Content>
         </Dialog>
@@ -968,9 +968,9 @@
         </Dialog>
         <Dialog ID="31" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu16</VoiceFile>
-          <Content>Gerçektende hiç bilmediğimiz bir yere direkt girecekmiyiz?</Content>
+          <Content>Gerçektende hiç bilmediğimiz bir yere direkt girecek miyiz?</Content>
         </Dialog>
         <Dialog ID="32" Model="산">
           <Teller>San</Teller>
@@ -980,13 +980,13 @@
         </Dialog>
         <Dialog ID="33" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars9</VoiceFile>
           <Content>......</Content>
         </Dialog>
         <Dialog ID="34" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu17</VoiceFile>
           <Content>......</Content>
         </Dialog>
@@ -994,17 +994,17 @@
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san10</VoiceFile>
-          <Content>Galiba kötü bir fikirdi, siz de mi öyle düşünüyorsunuz...?</Content>
+          <Content>Galiba kötü bir fikirdi, siz de mi öyle düşünüyorsunuz..?</Content>
         </Dialog>
         <Dialog ID="36" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars10</VoiceFile>
           <Content>Hadi şunu yapalım!</Content>
         </Dialog>
         <Dialog ID="37" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu18</VoiceFile>
           <Content>Başka bir şansımız yok herhalde. Hala çok şüpheli, ama o paraya ihtiyacımız var. Son zamanlarda pek meşgul olmadık.</Content>
         </Dialog>
@@ -1027,13 +1027,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland1</VoiceFile>
-          <Content>Fixer'ların Birliklerinden bahsediyorlar. Fixer işlerine girmek için sadece bir Ofis açmak yeterli değil.</Content>
+          <Content>Düzeltici Birliklerinden bahsediyorlar. Düzeltici işlerine girmek için sadece bir Ofis açmak yeterli değil.</Content>
         </Dialog>
         <Dialog ID="41" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland2</VoiceFile>
-          <Content>Şehirde toplamada 12 tane Fixer Birliği var, hepsi farklı iş türleriyle ilgileniyor.</Content>
+          <Content>Şehirde toplamada 12 tane Düzeltici Birliği var, hepsi farklı iş türleriyle ilgileniyor.</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1051,19 +1051,19 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland4</VoiceFile>
-          <Content>Bu doğru. Birlikler, bazen belgeleri birden fazla ofise gönderir, ya da direkt olarak yardımcı Fixer'ların halletmesini sağlar.</Content>
+          <Content>Bu doğru. Birlikler, bazen belgeleri birden fazla ofise gönderir, ya da direkt olarak yardımcı Düzeltici'lerin halletmesini sağlar.</Content>
         </Dialog>
         <Dialog ID="45" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland5</VoiceFile>
-          <Content>Ve onların arasında, Hana Birliği bütün Fixerların genel kontrolüne sahiptir. Fixer'ları sınıflandırır,  ofis ve benzeri şeyleri yetkilendirirler.</Content>
+          <Content>Ve onların arasında, Hana Birliği bütün Düzeltici'lerin genel kontrolüne sahiptir. Düzeltici'leri sınıflandırır,  ofis ve benzeri şeyleri yetkilendirirler.</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela3</VoiceFile>
-          <Content>Ofislerinde Fixerlar gibi sınıfları var mı?</Content>
+          <Content>Ofislerinde Düzeltici'ler gibi sınıfları var mı?</Content>
         </Dialog>
         <Dialog ID="47" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1142,19 +1142,19 @@
         <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="59" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu19</VoiceFile>
           <Content>Sanırım gerçektende durumumuz vahim. Böyle bir işi aldığımızı düşünmek...</Content>
         </Dialog>
         <Dialog ID="60" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars11</VoiceFile>
           <Content>Söylenmeyi kes, en azından bir işimiz olduğu için şükretmeliyiz.</Content>
         </Dialog>
         <Dialog ID="61" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu20</VoiceFile>
           <Content>Biliyorum! Bariz olan bir şeyi gerçektende belirtmek mi zorundasın?!</Content>
         </Dialog>
@@ -1172,13 +1172,13 @@
         </Dialog>
         <Dialog ID="64" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu21</VoiceFile>
           <Content>Afedersin?!  Bu ahmakla beni aynı kefeye koyma!</Content>
         </Dialog>
         <Dialog ID="65" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars12</VoiceFile>
           <Content>Ben de istemem böyle bir şeyi.</Content>
         </Dialog>
@@ -1190,7 +1190,7 @@
         </Dialog>
         <Dialog ID="67" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu22</VoiceFile>
           <Content>Yehu!</Content>
         </Dialog>
@@ -1202,13 +1202,13 @@
         </Dialog>
         <Dialog ID="69" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars13</VoiceFile>
           <Content>Kimsin sen?</Content>
         </Dialog>
         <Dialog ID="70" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu23</VoiceFile>
           <Content>Hazır olun.</Content>
         </Dialog>
@@ -1268,25 +1268,25 @@
         </Dialog>
         <Dialog ID="80" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars14</VoiceFile>
           <Content>Huh, düşündüğümden daha iyi biriydi.</Content>
         </Dialog>
         <Dialog ID="81" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu24</VoiceFile>
           <Content>Sana göre o insan gibi miydi?</Content>
         </Dialog>
         <Dialog ID="82" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu25</VoiceFile>
           <Content>Yani, bir insan şekline sahipti, ama onda bir şeyler tuhaf gibiydi...</Content>
         </Dialog>
         <Dialog ID="83" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu26</VoiceFile>
           <Content>Tam olarak kelimelere dökemiyorum...</Content>
         </Dialog>
@@ -1298,7 +1298,7 @@
         </Dialog>
         <Dialog ID="85" Model="마스">
           <Teller>Mars</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_mars15</VoiceFile>
           <Content>İnsana bu kadar benzeyen bir makine görmeyi hiç beklemiyordum...</Content>
         </Dialog>
@@ -1330,7 +1330,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland16</VoiceFile>
-          <Content>Fixer'ların içli dışlı ilişkiler kurmaları pekte iyi bir fikir değil.</Content>
+          <Content>Düzeltici'lerin içli dışlı ilişkiler kurmaları pekte iyi bir fikir değil.</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1366,7 +1366,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland21</VoiceFile>
-          <Content>Uzman Fixer'lar ne zaman bağları kesmek gerektiğini bilir.</Content>
+          <Content>Uzman Düzeltici'ler ne zaman bağları kesmek gerektiğini bilir.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -1394,7 +1394,7 @@
         </Dialog>
         <Dialog ID="1" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu1</VoiceFile>
           <Content>...</Content>
         </Dialog>
@@ -1412,7 +1412,7 @@
         </Dialog>
         <Dialog ID="4" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu2</VoiceFile>
           <Content>Ne? Mars'a ne olacak? Ölümü boşunamıydı o zaman?!</Content>
         </Dialog>
@@ -1430,7 +1430,7 @@
         </Dialog>
         <Dialog ID="7" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu3</VoiceFile>
           <Content>Buzdolabında bir pasta var... Sen mi aldın, patron?</Content>
         </Dialog>
@@ -1442,7 +1442,7 @@
         </Dialog>
         <Dialog ID="9" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu4</VoiceFile>
           <Content>...Biraz dışarı çıkacağım.</Content>
         </Dialog>
@@ -1451,61 +1451,61 @@
         <PlaceName>Konum: Arka Sokaklar'da Bir yerde</PlaceName>
         <Dialog ID="10" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu5</VoiceFile>
           <Content>Wahhhhhhhh!!!!! Seni aptal salak...</Content>
         </Dialog>
         <Dialog ID="11" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu6</VoiceFile>
           <Content>Başkalarına pasta almak, hiç senin yapacağın türden bir şey değil...</Content>
         </Dialog>
         <Dialog ID="12" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu7</VoiceFile>
-          <Content>Annenin harika bir Fixer olduğunu söylemiştin...</Content>
+          <Content>Annenin harika bir Düzeltici olduğunu söylemiştin...</Content>
         </Dialog>
         <Dialog ID="13" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu8</VoiceFile>
-          <Content>Aptal derecede büyük olan kılıçınla hava atmayı severdin, ondan bir hediye olduğunu söyleyerek...</Content>
+          <Content>Aptal derecede büyük olan kılıcınla hava atmayı severdin, ondan bir hediye olduğunu söyleyerek...</Content>
         </Dialog>
         <Dialog ID="14" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu9</VoiceFile>
           <Content>Bir gün annen gibi olacağınla o kadar çok övündin ki...</Content>
         </Dialog>
         <Dialog ID="15" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>None</VoiceFile>
           <Content>(!!!)</Content>
         </Dialog>
         <Dialog ID="16" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu10</VoiceFile>
-          <Content>Mars'ın kitabı... Orada ölen insanlara bu mu oluyor...?</Content>
+          <Content>Mars'ın kitabı... Orada ölen insanlara bu mu oluyor..?</Content>
         </Dialog>
         <Dialog ID="17" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu11</VoiceFile>
           <Content>Onunla dalga geçmelerine izin vermeyeceğim... asla izin vermeyeceğim...</Content>
         </Dialog>
         <Dialog ID="18" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu12</VoiceFile>
           <Content>Eğer bunun konusunu açarsam, San kesin beni durdurmaya çalışıcak...</Content>
         </Dialog>
         <Dialog ID="19" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu13</VoiceFile>
           <Content>Oraya kendi başıma gideceğim. Bana yardım edebilecek arkadaşlarım da var...</Content>
         </Dialog>
@@ -1522,7 +1522,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela1</VoiceFile>
-          <Content>Komik, hele ki Fixer'ların bağlı kalmamaları hakkında laf söylen birinden böyle sözler geliyor.</Content>
+          <Content>Komik, hele ki Düzeltici'lerin bağlı kalmamaları hakkında laf söylen birinden böyle sözler geliyor.</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1601,13 +1601,13 @@
         </Dialog>
         <Dialog ID="34" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu14</VoiceFile>
           <Content>Kes sesini. Aşağılık bir hurda parçasından karşılama almaya gereğim yok.</Content>
         </Dialog>
         <Dialog ID="35" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu15</VoiceFile>
           <Content>Mars'ın kitabı için buradayım. O'nun kitabını alacağım, buradaki bütün canavarları öldüreceğim, ve senin o kelleni bir güzel uçuracağım.</Content>
         </Dialog>
@@ -1619,7 +1619,7 @@
         </Dialog>
         <Dialog ID="37" Model="루루">
           <Teller>Lulu</Teller>
-          <Title>Sokak Lambası Fixerı</Title>
+          <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu16</VoiceFile>
           <Content>Sana kapa çeneni dedim.</Content>
         </Dialog>
@@ -1657,7 +1657,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela8</VoiceFile>
-          <Content>Kendini “bitik Fixer” olarak tanıtan birine göre oldukça deneyimli biriymişsin gibi konuşuyorsun..</Content>
+          <Content>Kendini “bitik Düzeltici” olarak tanıtan birine göre oldukça deneyimli biriymişsin gibi konuşuyorsun..</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>Roland</Teller>
