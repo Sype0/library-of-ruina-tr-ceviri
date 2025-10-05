@@ -4470,7 +4470,7 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep1_roland1</VoiceFile>
-          <Content>Edebiyat, huh... Bu Şehire uymayan en alakasız kategori olmalı.</Content>
+          <Content>Edebiyat, huh... Bu Şehir'e uymayan en alakasız kategori olmalı.</Content>
         </Dialog>
         <Dialog ID="1" Model="호드">
           <Teller>Hod</Teller>
@@ -4548,7 +4548,7 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep1_hod6</VoiceFile>
-          <Content>Buna net bir şekilde cevap veremiyeceğim kesin, ama sonucu görme firstin olacak.</Content>
+          <Content>Buna net bir şekilde cevap veremiyeceğim kesin, ama sonucu görme firsatın olacak.</Content>
         </Dialog>
         <Dialog ID="14" Model="호드">
           <Teller>Hod</Teller>
@@ -4638,235 +4638,235 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad1</VoiceFile>
-          <Content>Bien, aquí están los libros por los que preguntaste.</Content>
+          <Content>Tamamdır, işte istediğin kitaplar~</Content>
         </Dialog>
         <Dialog ID="1" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep2_hod1</VoiceFile>
-          <Content>Gracias, señor Roland.</Content>
+          <Content>Teşekkürler, Bay Roland.</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad2</VoiceFile>
-          <Content>No necesitas ser tan cortés. Puedes dejar el “Señor” y solo llamarme Roland.</Content>
+          <Content>Böyle kibar olmana gerek yok. “Bay” kısmını bırakıp, bana sadece Roland diye hitap edebilirsin.</Content>
         </Dialog>
         <Dialog ID="3" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep2_hod2</VoiceFile>
-          <Content>¿Puedo hacerlo? Roland.</Content>
+          <Content>Edebilir miyim? Roland.</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad3</VoiceFile>
-          <Content>Mucho mejor.</Content>
+          <Content>Çok daha iyi oldu.</Content>
         </Dialog>
         <Dialog ID="5" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep2_hod3</VoiceFile>
-          <Content>Se siente incómodo hablar así de repente.</Content>
+          <Content>Böyle anında konuşmak biraz tuhaf hissettiriyor.</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad4</VoiceFile>
-          <Content>Te acostumbrarás. Por cierto, ¿cómo está yendo la colección?</Content>
+          <Content>Zamanla alışırsın. Bu arada, kitap toplama nasıl gidiyor?</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad5</VoiceFile>
-          <Content>No estoy seguro de si exista algo en la Ciudad que valga la pena ser llamado literatura.</Content>
+          <Content>Şehir'de edebiyat olarak adlandırabilecek derecede bir şeyler var mı, bilmiyorum.</Content>
         </Dialog>
         <Dialog ID="8" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep2_hod4</VoiceFile>
-          <Content>Parece que la vida de cada persona cuenta como un trabajo de literatura.</Content>
+          <Content>Görünüşe göre, her insanın hayatı bir edebiyat eseri olarak sayılıyor.</Content>
         </Dialog>
         <Dialog ID="9" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep2_hod5</VoiceFile>
-          <Content>La historia de la vida de uno está escrita como un libro propio.</Content>
+          <Content>Birinin yaşam öyküsü, kendi başına yazılmış bir kitap gibi.</Content>
         </Dialog>
         <Dialog ID="10" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep2_hod6</VoiceFile>
-          <Content>Y en esa historia, la comedia y tragedia se entrelazan de formas complejas.</Content>
+          <Content> Ve o hikayenin içinde, komediyle trajedi karmaşık bir şekilde birbirine dolanmış.</Content>
         </Dialog>
         <Dialog ID="11" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep2_hod7</VoiceFile>
-          <Content>Es difícil definir a alguien como puramente malvado o bueno.</Content>
+          <Content>Bu açıdan dolayı, birini saf kötücül ya da saf iyicil olarak tanımlamak zordur.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad6</VoiceFile>
-          <Content>Todos tienen sus asuntos personales.</Content>
+          <Content>Herkesin kendi kişisel meseleleri var.</Content>
         </Dialog>
         <Dialog ID="13" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep2_hod8</VoiceFile>
-          <Content>Esa es la razón de la que me esté preguntando si está bien odiar ciegamente a alguien...</Content>
+          <Content>İşte bu yüzden birisine, hiç bilmeden körü körüne nefret etmek gerçekten doğru mu diye merak ediyorum...</Content>
         </Dialog>
         <Dialog ID="14" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep2_hod9</VoiceFile>
-          <Content>Los Fixers de la Oficina Streetlight eran como una familia feliz, pero los matamos solo para conseguir sus libros...</Content>
+          <Content>Sokak Lambası Ofisi'ndeki Düzeltici'ler mutlu bir aile gibiydi, ama biz sadece kitaplarını almak için onları öldürdük...</Content>
         </Dialog>
         <Dialog ID="15" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep2_hod10</VoiceFile>
-          <Content>Entiendo que fuera su elección venir aquí...</Content>
+          <Content>Buraya gelmelerinin kendi tercihleri olduğunu anlıyorum...</Content>
         </Dialog>
         <Dialog ID="16" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep2_hod11</VoiceFile>
-          <Content>Y que nosotros tenemos nuestra propia meta, pero aun así...</Content>
+          <Content>Ve bizim de ulaşmamız gereken kendi hedefimiz var, ama yine de...</Content>
         </Dialog>
         <Dialog ID="17" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep2_hod12</VoiceFile>
-          <Content>Haha, se siente como si estuviera inventando excusas para mí misma.</Content>
+          <Content>Haha, kendime bahaneler uyduruyor gibi hissediyorum.</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad7</VoiceFile>
-          <Content>Ya ves, Hod, tomar los asuntos personales de todos en consideración, solo terminará dándote un dolor de cabeza.</Content>
+          <Content>Görüyorsun, Hod, herkesin kişisel meselelerini ele almak, sadece başının ağrımasına neden olacak.</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad8</VoiceFile>
-          <Content>Podrías terminar tan confusa que como si nunca hubieras pensado en eso para nada.</Content>
+          <Content>Bazen, düşünmüş olsan bile hiçbir şey düşünmemiş gibi kafan karışır.</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad9</VoiceFile>
-          <Content>Pensar sobre los estándares morales y causas fundamentales solo hace que todo se vuelva borroso.</Content>
+          <Content>Ahlaki ölçütleri, temel nedenleri ve diğerlerini düşünmek, her şeyi sadece daha da bulanıklaştırıyor.</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad10</VoiceFile>
-          <Content>Todo mientras tu corazón está a punto de estallar por esa maleta de emociones que no se van.</Content>
+          <Content>Tüm bu süre boyunca kalbin, bir türlü gitmeyen duygusal yüklerden patlayacak gibi olur.</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad11</VoiceFile>
-          <Content>En momentos como ese, solo tienes que ir directo a donde tu corazón te lleve. Sin necesidad de aprender ni conocer nada más.</Content>
+          <Content>Böyle zamanlarda, kalbin nereyi gösterirse oraya gidersin. Başka bir şey öğrenmeye veya anlamaya gerek yok.</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad12</VoiceFile>
-          <Content>Es mucho más sencillo de esa forma...</Content>
+          <Content>Bu şekilde daha kolay...</Content>
         </Dialog>
         <Dialog ID="24" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep2_hod13</VoiceFile>
-          <Content>¿Ese es tu consejo como un Fixer experimentado, Roland?</Content>
+          <Content>Bu, deneyimli bir Düzeltici olarak tavsiyen mi, Roland?</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad13</VoiceFile>
-          <Content>¡Supongo que sí!</Content>
+          <Content>Sanırım öyle!</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad14</VoiceFile>
-          <Content>Esta es mi frase favorita.</Content>
+          <Content>İşte benim en sevdiğim sözlerden biri.</Content>
         </Dialog>
         <Dialog ID="27" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad15</VoiceFile>
-          <Content>“Esto es esto, y eso es eso.”</Content>
+          <Content>“O odur, bu da budur.”</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad16</VoiceFile>
-          <Content>No vivimos en un mundo donde podamos abarcar los asuntos privados de todos.</Content>
+          <Content>Herkesin özel meselelerini kabullenebileceğimiz bir dünyada yaşamıyoruz.</Content>
         </Dialog>
         <Dialog ID="29" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep2_hod14</VoiceFile>
-          <Content>Suena como si hubieras hecho un acuerdo con la realidad.</Content>
+          <Content>Gerçeklerle barışmış gibisin.</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad17</VoiceFile>
-          <Content>¡Lo hice hace años!</Content>
+          <Content>Uzun zaman önce barıştım!</Content>
         </Dialog>
         <Dialog ID="31" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad18</VoiceFile>
-          <Content>Fue una forma de vivir fácil y confortable. Solo ir con la corriente, a donde sea que te lleve.</Content>
+          <Content>Her şey bir yana, kolay ve rahat bir yaşam şekliydi. Sadece akışa bırak, nereye götürürse götürsün.</Content>
         </Dialog>
         <Dialog ID="32" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep2_hod15</VoiceFile>
-          <Content>Gracias por el consejo. Podría necesitar algo de tiempo para pensar sobre este tema.</Content>
+          <Content>Tavsiye için teşekkürler. Bu konu hakkında biraz daha düşünmem gerekebilir.</Content>
         </Dialog>
         <Dialog ID="33" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep2_hod16</VoiceFile>
-          <Content>Pero...</Content>
+          <Content>Ama...</Content>
         </Dialog>
         <Dialog ID="34" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad19</VoiceFile>
-          <Content>¿Pero?</Content>
+          <Content>Ama?</Content>
         </Dialog>
         <Dialog ID="35" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep2_hod17</VoiceFile>
-          <Content>La frase que mencionaste podría darte un poco de comodidad por un tiempo, pero suena como un lema que redimirá tu vida.</Content>
+          <Content>Bahsettiğin söz sana bir süreliğine rahatlık verebilir, ama bu, hayatına anlam katacak bir söz gibi durmuyor.</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad20</VoiceFile>
-          <Content>...</Content>
+          <Content>......</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad21</VoiceFile>
-          <Content>... Bueno, supongo que las personas tienen sus propias formas de interpretar las cosas.</Content>
+          <Content>...Eh, sanırım herkesin yorumlama biçimi kendine göre.</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep2_rolnad22</VoiceFile>
-          <Content>Bueno, dejaré los libros aquí, te veo luego.</Content>
+          <Content>Kitapları buraya bırakıyorum. Sonra görüşürüz, o zaman.</Content>
         </Dialog>
       </Place>
     </Episode>

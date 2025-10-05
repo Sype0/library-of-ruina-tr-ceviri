@@ -43,7 +43,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch3_Prol_ep1_katriel4-01</VoiceFile>
-          <Content>Belki de bu, ilgilendigimiz Yuva ile yakından ilişkilidir.</Content>
+          <Content>Belki de bu, ilgilendiğimiz Yuva ile yakından ilişkilidir.</Content>
         </Dialog>
         <Dialog ID="6" Model="칼로">
           <Teller>???</Teller>
