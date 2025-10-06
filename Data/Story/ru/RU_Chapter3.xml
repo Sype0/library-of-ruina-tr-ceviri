@@ -100,7 +100,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela3</VoiceFile>
-          <Content>Eğer Dernekler bizi daha yüksek bir sınıfla tanımlarsa, daha değerli bilgiler için yüksek sınıftan ziyaretçiler çekebiliriz mi, demeye çalışıyorsun?</Content>
+          <Content>Eğer Dernekler bizi daha yüksek bir sınıfla tanımlarsa, daha değerli bilgiler için yüksek sınıftan ziyaretçiler çekebiliriz mi demeye çalışıyorsun?</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
@@ -112,7 +112,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland7</VoiceFile>
-          <Content>Bak, ben çocukken büyükannem bana her türlü Şehir Efsane'leriyle ilgili hikayeler anlatırdı. Her seferinde bana hep ürperti verirdi.</Content>
+          <Content>Bak, ben çocukken Anneannem bana her türlü Şehir Efsane'leriyle ilgili hikayeler anlatırdı. Her seferinde bana hep ürperti verirdi.</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>Roland</Teller>
@@ -142,13 +142,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland10</VoiceFile>
-          <Content>Artık yanımda kimse yok. Büyükannem tarafından büyütülmüştüm.</Content>
+          <Content>Artık yanımda kimse yok. Beni Anneannem büyütmüştü.</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland11</VoiceFile>
-          <Content>Anne-babam nasıl öldü bilmiyorum ve büyükannem de bir gün habersizce ortadan kayboldu.</Content>
+          <Content>Anne-babam nasıl öldü bilmiyorum ve anneannem de bir gün habersizce ortadan kayboldu.</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>Roland</Teller>

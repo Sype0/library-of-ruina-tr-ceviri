@@ -4494,7 +4494,7 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep1_roland3</VoiceFile>
-          <Content>Sakın söyleme, yoksa senindemi Angela'ya bir çeşit garezin var?</Content>
+          <Content>Sakın söyleme, yoksa seninde mi Angela'ya bir çeşit garezin var?</Content>
         </Dialog>
         <Dialog ID="5" Model="호드">
           <Teller>Hod</Teller>
@@ -4578,7 +4578,7 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep1_roland11</VoiceFile>
-          <Content>Kütüphanede hepimiz iyi dostlar olamazmıyız, en azından?</Content>
+          <Content>Kütüphanede hepimiz iyi dostlar olamaz mıyız, en azından?</Content>
         </Dialog>
         <Dialog ID="19" Model="호드">
           <Teller>Hod</Teller>
@@ -4716,7 +4716,7 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep2_hod8</VoiceFile>
-          <Content>İşte bu yüzden birisine, hiç bilmeden körü körüne nefret etmek gerçekten doğru mu diye merak ediyorum...</Content>
+          <Content>İşte bu yüzden birisinden, hiç bilmeden körü körüne nefret etmek gerçekten doğru mu diye merak ediyorum...</Content>
         </Dialog>
         <Dialog ID="14" Model="호드">
           <Teller>Hod</Teller>
@@ -7299,7 +7299,7 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland8</VoiceFile>
-          <Content>Vay canına. Her biriniz Angela'yı bu kadar nasıl nefret edebilirsiniz?</Content>
+          <Content>Vay canına. Her biriniz Angela'dan bu kadar nasıl nefret edebilirsiniz?</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>Roland</Teller>
@@ -7323,13 +7323,13 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland10</VoiceFile>
-          <Content>Biliyorum, demi ama? Bende berbat bir noktada olduğumu düşünüyorum.</Content>
+          <Content>Biliyorum... değil mi Bende berbat bir noktada olduğumu düşünüyorum.</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep1_roland11</VoiceFile>
-          <Content>O yüzden lütfen şu sempatinin bir kısmını birlikte sıkıca çalışmamıza ayırabilirmisin!</Content>
+          <Content>O yüzden lütfen şu sempatinin bir kısmını birlikte sıkıca çalışmamıza ayırabilir misin!</Content>
         </Dialog>
         <Dialog ID="19" Model="네짜흐">
           <Teller>Netzach</Teller>

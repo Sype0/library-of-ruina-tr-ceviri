@@ -796,7 +796,7 @@
           <Teller>Lulu</Teller>
           <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu3</VoiceFile>
-          <Content>Ve Sokak Lambası Ofisi tarafından güvence altına alınan Bölgelerde suç oranı, sözleşme geçerli olduğu sürece çarpıcı bir şekilde 0% olarak kalmaktadır.</Content>
+          <Content>Ve Sokak Lambası Ofisi tarafından güvence altına alınan Bölgelerde suç oranı, sözleşme geçerli olduğu sürece çarpıcı bir şekilde %0 olarak kalmaktadır.</Content>
         </Dialog>
         <Dialog ID="3" Model="마스">
           <Teller>Mars</Teller>
@@ -958,7 +958,7 @@
           <Teller>Lulu</Teller>
           <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep1_lulu15</VoiceFile>
-          <Content>Ve resmi kariyerimize bir katkıda sağlamaz.</Content>
+          <Content>Ve resmi kariyerimize bir katkı da sağlamaz.</Content>
         </Dialog>
         <Dialog ID="30" Model="산">
           <Teller>San</Teller>
@@ -1012,7 +1012,7 @@
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san11</VoiceFile>
-          <Content>Herkese teşekkürler! Her zamanki bununda üstesinden geleceğiz.</Content>
+          <Content>Herkese teşekkürler! Her zamanki bunun da üstesinden geleceğiz.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -1111,7 +1111,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland11</VoiceFile>
-          <Content>Birbirlerinin sınıflarını ve bağlantılarını bilmek, diğer yana, tonlarca kelimeden tasarruf sağlar. Konuştuğun kişinin üstündemi ya da altında mı olduğunu hemen anlayabilirsin.</Content>
+          <Content>Birbirlerinin sınıflarını ve bağlantılarını bilmek, diğer yana, tonlarca kelimeden tasarruf sağlar. Konuştuğun kişinin üstünde mi ya da altında mı olduğunu hemen anlayabilirsin.</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -1135,7 +1135,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland14</VoiceFile>
-          <Content>İnsanlar şehire adapte olabilmek için yollar arıyor, ve bu da onlardan biri.</Content>
+          <Content>İnsanlar şehire adapte olabilmek için yollar arıyor ve bu da onlardan biri.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -1222,7 +1222,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela9</VoiceFile>
-          <Content>Ben Angela, bu Kütüphanenin direktörü ve rolümün adını taşıyan kütüphaneci</Content>
+          <Content>Ben Angela, bu Kütüphanenin direktörü ve rolümün adını taşıyan kütüphaneci.</Content>
         </Dialog>
         <Dialog ID="73" Model="산">
           <Teller>San</Teller>
@@ -1246,13 +1246,13 @@
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san17</VoiceFile>
-          <Content>Ben aslında bu davetiyeyi bir başkasından aldım, direkt sizden değil. Hala geçerli sayılıyormuyuz?</Content>
+          <Content>Ben aslında bu davetiyeyi bir başkasından aldım, direkt sizden değil. Hala geçerli sayılıyor mu?</Content>
         </Dialog>
         <Dialog ID="77" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_angela11</VoiceFile>
-          <Content>Evet, tabikide. Davetiye eninde sonunda size ulaştı, değerli misafir, ve kendi rızanız olarak imzaladınız. Her şey beklenildiği gibi oldu.</Content>
+          <Content>Evet, tabiki de. Davetiye eninde sonunda size ulaştı, değerli misafir, ve kendi rızanız olarak imzaladınız. Her şey beklenildiği gibi oldu.</Content>
         </Dialog>
         <Dialog ID="78" Model="산">
           <Teller>San</Teller>
@@ -1360,7 +1360,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep1_roland20</VoiceFile>
-          <Content>Bağ kurmak kötü değil aslında, ama bunun içinde çok fazla risk var.</Content>
+          <Content>Bağ kurmak kötü değil aslında, ama bunun için de çok fazla risk var.</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1414,7 +1414,7 @@
           <Teller>Lulu</Teller>
           <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu2</VoiceFile>
-          <Content>Ne? Mars'a ne olacak? Ölümü boşunamıydı o zaman?!</Content>
+          <Content>Ne? Mars'a ne olacak? Ölümü boşuna mıydı o zaman?!</Content>
         </Dialog>
         <Dialog ID="5" Model="산">
           <Teller>San</Teller>
@@ -1477,7 +1477,7 @@
           <Teller>Lulu</Teller>
           <Title>Sokak Lambası Düzelticisi</Title>
           <VoiceFile>ch2_Streetlight_ep2_lulu9</VoiceFile>
-          <Content>Bir gün annen gibi olacağınla o kadar çok övündin ki...</Content>
+          <Content>Bir gün annen gibi olacağınla o kadar çok övündün ki...</Content>
         </Dialog>
         <Dialog ID="15" Model="루루">
           <Teller>Lulu</Teller>
@@ -1534,7 +1534,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch2_Streetlight_ep2_roland3</VoiceFile>
-          <Content>Genede, her kayıba tepki vermek enerji israfı. Herkesin taşımak zorunda olduğu yükleri vardır.</Content>
+          <Content>Genede, her kayba tepki vermek enerji israfı. Herkesin taşımak zorunda olduğu yükleri vardır.</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1582,7 +1582,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela3</VoiceFile>
-          <Content>Katılıyorum. Benim için işe yaramaz hale geldiğin an seni elden çıkarıcam.</Content>
+          <Content>Katılıyorum. Benim için işe yaramaz hale geldiğin an seni elden çıkarıcağım.</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1669,7 +1669,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_Streetlight_ep2_angela9</VoiceFile>
-          <Content>Öyle birşey yapmanın kaba bir şey olduğunu söylemiştin, demedin mi?</Content>
+          <Content>Öyle birşey yapmanın kaba bir şey olduğunu söylemiştin, öyle değil mi?</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>Roland</Teller>
