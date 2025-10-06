@@ -332,219 +332,219 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Localización: Asociación Zwei - Rama Sur, Sección 6</PlaceName>
+        <PlaceName>Konum: Zwei Birliği - Güney Şubesi, 6. Bölüm</PlaceName>
         <Dialog ID="0" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora1</VoiceFile>
-          <Content>No puedes arrodillarte por siempre.</Content>
+          <Content>Sonsuza kadar diz çökemezsin, bunu biliyorsun.</Content>
         </Dialog>
         <Dialog ID="1" Model="산">
           <Teller>San</Teller>
-          <Title>Opderador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep1_san1</VoiceFile>
-          <Content>Te lo suplico. Mis compañeros... están todos muertos.</Content>
+          <Content>Size yalvariyorum, Alt kadrom... Hepsi öldü.</Content>
         </Dialog>
         <Dialog ID="2" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora2</VoiceFile>
-          <Content>Ya lo has dicho un millón de veces. Me retumbaran mis oídos durante días.</Content>
+          <Content>Bunu şimdiye kadar milyonlarca kez söyledin. Günlerce kulaklarımda çınlayacak.</Content>
         </Dialog>
         <Dialog ID="3" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora3</VoiceFile>
-          <Content>Mira, sé lo que sucedió. Todo tu grupo murió en un viaje a un lugar llamado ‘La Biblioteca’.</Content>
+          <Content>Bak, ne olduğunu biliyorum. Ekibininin hepsi, ‘Kütüphane’ denen yere yolculuklarında öldü.</Content>
         </Dialog>
         <Dialog ID="4" Model="산">
           <Teller>San</Teller>
-          <Title>Opderador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep1_san2</VoiceFile>
-          <Content>Me gustaría solicitar la ayuda de Zwei. Quiero al menos poder recuperar sus libros.</Content>
+          <Content>Zwei’den destek talep etmek istiyorum. En azından kitaplarını geri alabilmeyi istiyorum.</Content>
         </Dialog>
         <Dialog ID="5" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora4</VoiceFile>
-          <Content>Irrumpir en las oficinas de Zwei a suplicar no es la manera correcta de hacerlo. Venga, lo sabes bastante bien.</Content>
+          <Content>Ve böyle apar topar Zwei Karargahına dalıp yalvarmak, bunu yapmanın doğru yolu değil. Hadi ama, sen bundan daha iyisini bilirsin.</Content>
         </Dialog>
         <Dialog ID="6" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_julia1</VoiceFile>
-          <Content>Isadora, por favor... Vamos a ayudarlo solo por una vez. ¿Podríamos al menos pedirle a nuestros superiores que revisen este caso?</Content>
+          <Content>Isadora, lütfen... Bu seferlik yardım edelim. En azından üstlerimizden bu vakayı gözden geçirmelerini isteyemezmiyiz?</Content>
         </Dialog>
         <Dialog ID="7" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora5</VoiceFile>
-          <Content>Julia. Sé que eres amiga de este idiota, pero aun así, no deberíamos actuar por amistad o afecto. Todo nuestro sistema colapsaría.</Content>
+          <Content>Julia. Bu aptalla arkadaş olduğunu biliyorum ama yine de, dostluk ya da duygusal bağlarla hareket etmemeliyiz. Aksi takdirde tüm sistem çökebilir.</Content>
         </Dialog>
         <Dialog ID="8" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora6</VoiceFile>
-          <Content>La recepción estaría llena de tipos miserables, suplicando por ayuda.</Content>
+          <Content>Öyle olursa, lobi her türden yardım için dilenen ve yalvaran perişan insanlarla dolar.</Content>
         </Dialog>
         <Dialog ID="9" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora7</VoiceFile>
-          <Content>Puede que seas alguien insignificante de grado bajo, pero sigues siendo una Fixer asociada a los Zwei. Será mejor que recuerdes lo que has aprendido hoy.</Content>
+          <Content>Sen düşük sınıf bir çömez olabilirsin ama yine de Zwei’nin Yardımcı Düzeltici’sisin. Bugün öğrendiklerini aklında tutsan iyi olur.</Content>
         </Dialog>
         <Dialog ID="10" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_julia2</VoiceFile>
-          <Content>Pero soy responsable de este caso...</Content>
+          <Content>Ama bu davadan ben sorumluyum, ve...</Content>
         </Dialog>
         <Dialog ID="11" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_julia3</VoiceFile>
-          <Content>Y la Asociación también es responsable.</Content>
+          <Content>Ve birlik de sorumlu.</Content>
         </Dialog>
         <Dialog ID="12" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora8</VoiceFile>
-          <Content>No hay ningún lugar en nuestros registros que diga que los Zwei están involucrados en este caso, no tengo idea de lo que estás hablando.</Content>
+          <Content>Kayıtlarımızın hiç bir yerinde Zwei'in bu davaya dahil olduğu yazmıyor ama? Neyden bahsediyorsun hiç bir fikrim yok, hanımefendi.</Content>
         </Dialog>
         <Dialog ID="13" Model="산">
           <Teller>San</Teller>
-          <Title>Opderador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep1_san3</VoiceFile>
-          <Content>Entonces así son las cosas... nos usan y luego nos dan la espalda tan fácilmente...</Content>
+          <Content>Demek böyleymiş... Bizi istediğiniz gibi kullanıp sonra da bu kadar kolay sırtınızı dönüyorsunuz...</Content>
         </Dialog>
         <Dialog ID="14" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora9</VoiceFile>
-          <Content>¿Disculpa?, estás culpando a las personas equivocadas.</Content>
+          <Content>Alo, yanlış kişileri suçluyorsun.</Content>
         </Dialog>
         <Dialog ID="15" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora10</VoiceFile>
-          <Content>Incluso si un trato como ese hubiera tomado lugar como dices, debiste haber demandado o al menos esperado una recompensa correspondiente. Así es como funcionan los tratos.</Content>
+          <Content>Senin dediğin gibi bir anlaşma gerçekten olduysa bile, karşılığında bir ödül talep etmiş ya da en azından beklemiş olmalısın. Sonuçta anlaşma dediğin budur.</Content>
         </Dialog>
         <Dialog ID="16" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora11</VoiceFile>
-          <Content>Usaste a la Asociación tanto como la Asociación te usó a ti. No hables como si fuera una extorsión de un solo lado. </Content>
+          <Content>Sen birliği ne kadar kullandıysan, birlik de seni o kadar kullandı. Bu tek taraflı bir sömürüymüş gibi konuşamazsın.</Content>
         </Dialog>
         <Dialog ID="17" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora12</VoiceFile>
-          <Content>Vamos, no intentes actuar como si fueras un novato. Has estado en este negocio por 8 años, deberías saber cómo funcionan las cosas a estas alturas.</Content>
+          <Content>Hadi ama, çaylaklarmışız gibi davranmayalım. Bu sektörde 8 senedir çalışıyorsun, işlerin nasıl yürüdüğünü artık biliyor olmalısın.</Content>
         </Dialog>
         <Dialog ID="18" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_julia4</VoiceFile>
-          <Content>¡Isadora! No tenías que ser tan dura. Todos comenzamos como compañeros en una Oficina...</Content>
+          <Content>Isadora! Bu kadar kaba olmana gerek yok. Hepimiz Ofis arkadaşları olarak işe başladık...</Content>
         </Dialog>
         <Dialog ID="19" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora13</VoiceFile>
-          <Content>Solo estoy frustrada. Tampoco es que quiera verlo en este estado tan lamentable.</Content>
+          <Content>Sadece bunaldım. Onu böyle perişan halde görmeyi ben de istemiyorum.</Content>
         </Dialog>
         <Dialog ID="20" Model="산">
           <Teller>San</Teller>
-          <Title>Opderador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep1_san4</VoiceFile>
-          <Content>Lo siento, entiendo lo que quieres decir.</Content>
+          <Content>Üzgünüm. Ne demek istediğini anlıyorum.</Content>
         </Dialog>
         <Dialog ID="21" Model="산">
           <Teller>San</Teller>
-          <Title>Opderador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep1_san5</VoiceFile>
-          <Content>Tienes razón, así es como siempre han sido las cosas... buscaré otras alternativas.</Content>
+          <Content>Haklısın, işler hep böyle yürüyordu... Şimdi başka bir yol aramaya gideceğim.</Content>
         </Dialog>
         <Dialog ID="22" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_julia5</VoiceFile>
-          <Content>San... lo siento... nunca pensé que las cosas pasarían de esta forma...</Content>
+          <Content>San... Çok üzgünüm... İşlerin bu şekilde sonuçlanacağını hiç düşünmemiştim...</Content>
         </Dialog>
         <Dialog ID="23" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="24" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora14</VoiceFile>
-          <Content>Espera, mira esto. Este es el procedimiento adecuado del que hablaba.</Content>
+          <Content>Şuna bak sen hele. İşte bahsettiğim doğru prosedür bu.</Content>
         </Dialog>
         <Dialog ID="25" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora15</VoiceFile>
-          <Content>La Asociación Hana acaba de elevar a ‘La Biblioteca’ de Mito Urbano a Leyenda Urbana.</Content>
+          <Content>Hana Birliği, ‘Kütüphane’yi az önce Şehir Masalı statüsünden Şehir Efsanesi’ne yükseltti.</Content>
         </Dialog>
         <Dialog ID="26" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_julia6</VoiceFile>
-          <Content>¡Eso significa...! ¿Que nuestra asociación puede actuar oficialmente en este caso, verdad?</Content>
+          <Content>Yani...! Artık birliğimiz bu davaya resmen müdahale edebilir, değil mi?</Content>
         </Dialog>
         <Dialog ID="27" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora16</VoiceFile>
-          <Content>B-bueno, aún no conocemos la postura de Zwei en este caso, así que no tengan demasiadas esperanzas, ¿vale?</Content>
+          <Content>Ş-şey, evet, Ama Zwei’nin bu konudaki tutumu hâlâ net değil, yani, o yüzden fazla umutlanma, tamam mı?</Content>
         </Dialog>
         <Dialog ID="28" Model="산">
           <Teller>San</Teller>
-          <Title>Opderador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep1_san6</VoiceFile>
-          <Content>Gracias, Isadora... De verdad que te debo una.</Content>
+          <Content>Teşekkür ederim, Isadora... Sana gerçekten borçlandım.</Content>
         </Dialog>
         <Dialog ID="29" Model="산">
           <Teller>San</Teller>
-          <Title>Opderador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep1_san7</VoiceFile>
-          <Content>Y me disculpo por poner mi carga encima tuyo. </Content>
+          <Content>Ve yükümü üzerine bıraktığım için özür dilerim.</Content>
         </Dialog>
         <Dialog ID="30" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora17</VoiceFile>
-          <Content>N-no es nada, todo lo que hice fue compilar información siguiendo el procedimiento y enviarlo a nuestros superiores.</Content>
+          <Content>Ö-önemli degil, tek yaptığım şey, prosedüre uygun şekilde bilgileri derleyip üst makamlara göndermekti.</Content>
         </Dialog>
         <Dialog ID="31" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora18</VoiceFile>
-          <Content>Ha habido muchos casos de otros Sindicatos y Oficinas cayendo víctimas de ‘La Biblioteca’, aunque la mayoría eran novatos insignificantes.</Content>
+          <Content>Gerçi ‘Kütüphane’ye kurban giden başka Sendikalar ve Ofisler hakkında da bazı raporlar var, ama çoğu önemsiz acemilerdi.</Content>
         </Dialog>
         <Dialog ID="32" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_julia7</VoiceFile>
           <Content>Pero todo es gracias al increíble análisis de información de nuestra querida Isadora de la Sección 6 que pudimos trabajar tan rápidamente, ¿verdad? ¡Esa es mi chica!</Content>
         </Dialog>
         <Dialog ID="33" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora19</VoiceFile>
-          <Content>¡Vale, cree lo que tú quieras!</Content>
+          <Content>Tamam, neye inanmak istiyorsan ona inan!</Content>
         </Dialog>
         <Dialog ID="34" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora20</VoiceFile>
-          <Content>Por cierto, ¿sigues teniendo esa Invitación contigo?</Content>
+          <Content>Neyse, o davetiye hala yanında mı?</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="35" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
@@ -736,190 +736,190 @@
     <Episode>
       <EpisodeName>Episode 2</EpisodeName>
       <Place>
-        <PlaceName>Localización: Asociación Zwei - Rama Sur, Sección 6</PlaceName>
+        <PlaceName>Konum: Zwei Birliği - Güney Şubesi, 6. Bölüm</PlaceName>
         <Dialog ID="0" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora1</VoiceFile>
           <Content>Tenemos una alineación para el equipo de búsqueda. Y ustedes están dentro, San, Julia.</Content>
         </Dialog>
         <Dialog ID="1" Model="산">
           <Teller>San</Teller>
-          <Title>Opderador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san1</VoiceFile>
           <Content>Finalmente estoy volviendo a la Biblioteca.</Content>
         </Dialog>
         <Dialog ID="2" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia1</VoiceFile>
           <Content>Sí. Recuperaremos los libros de Mars y Lulu, así que regresemos a salvo.</Content>
         </Dialog>
         <Dialog ID="3" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora2</VoiceFile>
           <Content>No lo olvides. Mientras nuestro principal objetivo ha sido decidido como recuperar los libros de Mars y Lulu gracias a que tenemos los mismos intereses entre San y la Asociación, deberíamos intentar asegurar tanta información como sea posible. Significa que debemos recolectar tantos libros como podamos.</Content>
         </Dialog>
         <Dialog ID="4" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia2</VoiceFile>
           <Content>Okay. Lo tendré en mente.</Content>
         </Dialog>
         <Dialog ID="5" Model="산">
           <Teller>San</Teller>
-          <Title>Opderador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san2</VoiceFile>
           <Content>Sé que es algo tonto de preguntar, pero, ¿por qué Zwei, una Asociación especializada en mantener la paz y seguridad, decidió organizar un equipo de búsqueda de todas las cosas para entrar a la Biblioteca?</Content>
         </Dialog>
         <Dialog ID="6" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora3</VoiceFile>
           <Content>¿Por qué viniste a rogar por ayuda en primer lugar si sabías todo eso?</Content>
         </Dialog>
         <Dialog ID="7" Model="산">
           <Teller>San</Teller>
-          <Title>Opderador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san3</VoiceFile>
           <Content>Eso es... porque este era el único lugar con el que podía contar.</Content>
         </Dialog>
         <Dialog ID="8" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora4</VoiceFile>
           <Content>¿Qué pasa con tu hermano pequeño?</Content>
         </Dialog>
         <Dialog ID="9" Model="산">
           <Teller>San</Teller>
-          <Title>Opderador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san4</VoiceFile>
           <Content>Mi hermano es... No importa. Una vez más, lo siento por los problemas y gracias de nuevo por ayudarme.</Content>
         </Dialog>
         <Dialog ID="10" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia3</VoiceFile>
           <Content>San...</Content>
         </Dialog>
         <Dialog ID="11" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora5</VoiceFile>
           <Content>Mmm, por cierto, ya que tienes una Oficina afiliada, supongo que está bien decirte esto.</Content>
         </Dialog>
         <Dialog ID="12" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora6</VoiceFile>
           <Content>El fenómeno de Distorsión, clasificado como una Pesadilla Urbana. Estoy segura de que has escuchado del tema, aunque no lo hayas visto por tu cuenta, ¿verdad?</Content>
         </Dialog>
         <Dialog ID="13" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora7</VoiceFile>
           <Content>Es una anomalía que ha estado pasando por toda la Ciudad desde las Noches Blancas y Días Oscuros.</Content>
         </Dialog>
         <Dialog ID="14" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora8</VoiceFile>
           <Content>La frecuencia puede ser baja, pero la gente se está convirtiendo en monstruos de forma aleatoria, además de ser un verdadero dolor tratar con ellos cada vez que sucede.</Content>
         </Dialog>
         <Dialog ID="15" Model="산">
           <Teller>San</Teller>
-          <Title>Opderador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san5</VoiceFile>
           <Content>Sí, lo sé. ‘El Pianista’, el primer caso reportado de este fenómeno... terminó con las vidas del 80% de la población del Distrito 9.</Content>
         </Dialog>
         <Dialog ID="16" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia4</VoiceFile>
           <Content>Escuché que sucedió de la nada, la Asociación Hana tuvo que mandar a uno de los ‘Colores’ de inmediato después de darse cuenta de la gravedad de la situación.</Content>
         </Dialog>
         <Dialog ID="17" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora9</VoiceFile>
           <Content>Es correcto. Y aun así no tenemos ninguna pista para poder rastrear la causa de este fenómeno.</Content>
         </Dialog>
         <Dialog ID="18" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora10</VoiceFile>
           <Content>Lo más que tenemos es la repentina desaparición de L Corp. y las ‘Noches Blancas y Días Oscuros’ que comenzaron en el Nido de la corporación.</Content>
         </Dialog>
         <Dialog ID="19" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora11</VoiceFile>
           <Content>Zwei sospecha que la Biblioteca podría ser una de las llaves para entender el Fenómeno de la Distorsión. </Content>
         </Dialog>
         <Dialog ID="20" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia5</VoiceFile>
           <Content>Un compañero mío me contó una historia similar. Dijo que un residente en un área que estaban protegiendo se distorsionó y transformó en una bestia de cuatro patas, incluso cuando no había signos de peligro o anomalías cerca.</Content>
         </Dialog>
         <Dialog ID="21" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia6</VoiceFile>
           <Content>Afortunadamente, lograron ocuparse de la criatura antes de que el conteo de muertes alcanzara los dos dígitos.</Content>
         </Dialog>
         <Dialog ID="22" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia7</VoiceFile>
           <Content>Y escuché que un cliente en un restaurante se convirtió en... un monstruo sandwich devora hombres...</Content>
         </Dialog>
         <Dialog ID="23" Model="산">
           <Teller>San</Teller>
-          <Title>Opderador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san6</VoiceFile>
           <Content>Creo que lo entiendo. El Fenómeno de Distorsión es una clara y aparente amenaza para las actividades de protección de Zwei, así que ellos esperan que la Biblioteca tenga alguna pista para resolverlo.</Content>
         </Dialog>
         <Dialog ID="24" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora12</VoiceFile>
           <Content>Es correcto. Afortunadamente, no ha habido ningún caso de este fenómeno que haya sido tan devastador como ‘El Pianista’ hasta ahora.</Content>
         </Dialog>
         <Dialog ID="25" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora13</VoiceFile>
           <Content>Parece que Zwei mantendrá un ojo en la Biblioteca por un tiempo. Aunque hay bastantes otros sospechosos que también necesitan ser investigados, así que no conseguiremos ningún Fixer de grado alto.</Content>
         </Dialog>
         <Dialog ID="26" Model="산">
           <Teller>San</Teller>
-          <Title>Opderador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san7</VoiceFile>
           <Content>Esta es más que suficiente ayuda. Gracias, Isadora.</Content>
         </Dialog>
         <Dialog ID="27" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora14</VoiceFile>
           <Content>Y-ya dije que solo hacía mi trabajo. No es como si te estuviera haciendo un favor ni nada. </Content>
         </Dialog>
         <Dialog ID="28" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia8</VoiceFile>
           <Content>¡Por supuesto! También tienes mi agradecimiento, Isadora.</Content>
         </Dialog>
         <Dialog ID="29" Model="산">
           <Teller>San</Teller>
-          <Title>Opderador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san8</VoiceFile>
           <Content>Vamos allá.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="30" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
@@ -994,22 +994,22 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Entrada de la Biblioteca</PlaceName>
         <Dialog ID="42" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia9</VoiceFile>
           <Content>Así que esta es la Biblioteca. El método de transportación es casi como una Singularidad.</Content>
         </Dialog>
         <Dialog ID="43" Model="산">
           <Teller>San</Teller>
-          <Title>Opderador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san9</VoiceFile>
           <Content>... Sí. La Kütüphane Direktörü pronto vendrá a recibirnos.</Content>
         </Dialog>
         <Dialog ID="44" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia10</VoiceFile>
           <Content>Angela... ¿no es así?</Content>
         </Dialog>
@@ -1027,7 +1027,7 @@
         </Dialog>
         <Dialog ID="47" Model="산">
           <Teller>San</Teller>
-          <Title>Opderador de Streetlight</Title>
+          <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san10</VoiceFile>
           <Content>Vinimos a recuperar los libros de Mars y Lulu.</Content>
         </Dialog>
@@ -1039,7 +1039,7 @@
         </Dialog>
         <Dialog ID="49" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia11</VoiceFile>
           <Content>Podemos conseguir los libros que queremos, o morir y convertirnos en libros nosotros mismos, ¿verdad?</Content>
         </Dialog>
@@ -1051,7 +1051,7 @@
         </Dialog>
         <Dialog ID="51" Model="줄리아">
           <Teller>Julia</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia12</VoiceFile>
           <Content>Es como estar hablando con una pared. Es tan robótica.</Content>
         </Dialog>
@@ -1066,7 +1066,7 @@
     <Episode>
       <EpisodeName>에피소드2-종료</EpisodeName>
       <Place>
-        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Entrada de la Biblioteca</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
@@ -1228,10 +1228,10 @@
     <Episode>
       <EpisodeName>Episode 3</EpisodeName>
       <Place>
-        <PlaceName>Localización: Asociación Zwei - Rama Sur, Sección 6</PlaceName>
+        <PlaceName>Konum: Zwei Birliği - Güney Şubesi, 6. Bölüm</PlaceName>
         <Dialog ID="0" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora1</VoiceFile>
           <Content>Sí, señor. Lamento informar que San y Julia no pudieron regresar. ... Requisito apoyo adicional.</Content>
         </Dialog>
@@ -1243,7 +1243,7 @@
         </Dialog>
         <Dialog ID="2" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora2</VoiceFile>
           <Content>Por la información que he recolectado, es la acumulación del conocimiento.</Content>
         </Dialog>
@@ -1255,13 +1255,13 @@
         </Dialog>
         <Dialog ID="4" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora3</VoiceFile>
           <Content>La Biblioteca simplemente ofrece un trato. No tiene influencia con el mundo exterior; solo recompensa o castiga a aquellos que han entrado.</Content>
         </Dialog>
         <Dialog ID="5" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora4</VoiceFile>
           <Content>El ganador puede conseguir los libros que quiere y el perdedor se vuelve un libro que la Biblioteca quiere...</Content>
         </Dialog>
@@ -1273,13 +1273,13 @@
         </Dialog>
         <Dialog ID="7" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora5</VoiceFile>
           <Content>Eso... no está claro, señor.</Content>
         </Dialog>
         <Dialog ID="8" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora6</VoiceFile>
           <Content>Pero mi instinto sugiere que tiene que estar relacionada con el fenómeno de alguna forma.</Content>
         </Dialog>
@@ -1291,19 +1291,19 @@
         </Dialog>
         <Dialog ID="10" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora7</VoiceFile>
           <Content>La Invitación a la Biblioteca, sus libros y los seres llamados Bibliotecarios que residen ahí. Todos los elementos de la Biblioteca son similares a los que hemos visto en la Distorsión.</Content>
         </Dialog>
         <Dialog ID="11" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora8</VoiceFile>
           <Content>Una característica que tienen en común es la imposibilidad de observarlos para un análisis de sus componentes.</Content>
         </Dialog>
         <Dialog ID="12" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora9</VoiceFile>
           <Content>No podemos realizar un análisis comparativo por ese motivo, pero la incapacidad de hacerlo en si misma puede ser considerada un rasgo en común.</Content>
         </Dialog>
@@ -1323,7 +1323,7 @@
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter7</VoiceFile>
-          <Content>La Asociación Zwei tiene cientos de solicitudes todos los días. Una gran cantidad de ellas se asignan a nosotros la Sección 6.</Content>
+          <Content>La Zwei Birliği tiene cientos de solicitudes todos los días. Una gran cantidad de ellas se asignan a nosotros la Sección 6.</Content>
         </Dialog>
         <Dialog ID="16" Model="월터">
           <Teller>Walter</Teller>
@@ -1333,7 +1333,7 @@
         </Dialog>
         <Dialog ID="17" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora10</VoiceFile>
           <Content>Lo entiendo, señor.</Content>
         </Dialog>
@@ -1351,7 +1351,7 @@
         </Dialog>
         <Dialog ID="20" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora11</VoiceFile>
           <Content>... </Content>
         </Dialog>
@@ -1369,7 +1369,7 @@
         </Dialog>
         <Dialog ID="23" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora12</VoiceFile>
           <Content>... Tienes razón, señor.</Content>
         </Dialog>
@@ -1381,7 +1381,7 @@
         </Dialog>
         <Dialog ID="25" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora13</VoiceFile>
           <Content>“Tu escudo”, señor.</Content>
         </Dialog>
@@ -1399,7 +1399,7 @@
         </Dialog>
         <Dialog ID="28" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora14</VoiceFile>
           <Content>... Lo haré.</Content>
         </Dialog>
@@ -1411,7 +1411,7 @@
         </Dialog>
         <Dialog ID="30" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora15</VoiceFile>
           <Content>¿Sí?</Content>
         </Dialog>
@@ -1423,7 +1423,7 @@
         </Dialog>
         <Dialog ID="32" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora16</VoiceFile>
           <Content>No, señor. No he recibido ninguna nueva Invitación.</Content>
         </Dialog>
@@ -1435,7 +1435,7 @@
         </Dialog>
         <Dialog ID="34" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora17</VoiceFile>
           <Content>Su nivel actual es de clase Leyenda Urbana, pero ha estado subiendo lentamente con cada nuevo reporte.</Content>
         </Dialog>
@@ -1453,7 +1453,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="37" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
@@ -1516,7 +1516,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Entrada de la Biblioteca</PlaceName>
         <Dialog ID="47" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
@@ -1525,7 +1525,7 @@
         </Dialog>
         <Dialog ID="48" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora18</VoiceFile>
           <Content>Es correcto, señor.</Content>
         </Dialog>
@@ -1549,7 +1549,7 @@
         </Dialog>
         <Dialog ID="52" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora19</VoiceFile>
           <Content>Sí...</Content>
         </Dialog>
@@ -1561,7 +1561,7 @@
         </Dialog>
         <Dialog ID="54" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora20</VoiceFile>
           <Content>... Todo parece caer en su lugar demasiado convenientemente.</Content>
         </Dialog>
@@ -1609,7 +1609,7 @@
         </Dialog>
         <Dialog ID="62" Model="이사도라">
           <Teller>Isadora</Teller>
-          <Title>Fixer de Zwei S. Sección 6</Title>
+          <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora21</VoiceFile>
           <Content>Señor, no pienso que debamos provocarla más...</Content>
         </Dialog>
@@ -1624,7 +1624,7 @@
     <Episode>
       <EpisodeName>에피소드3-종료</EpisodeName>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
@@ -1759,7 +1759,7 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Localización: Algún lugar en los Barrios Bajos</PlaceName>
+        <PlaceName>Konum: Algún lugar en los Barrios Bajos</PlaceName>
         <Dialog ID="0" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
@@ -2020,7 +2020,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="43" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
@@ -2071,7 +2071,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Entrada de la Biblioteca</PlaceName>
         <Dialog ID="51" Model="디노">
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
@@ -2131,7 +2131,7 @@
     <Episode>
       <EpisodeName>에피소드1-종료</EpisodeName>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
@@ -2200,7 +2200,7 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Localización: Plataforma WARP</PlaceName>
+        <PlaceName>Konum: Plataforma WARP</PlaceName>
         <Dialog ID="0" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
@@ -2449,7 +2449,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Dentro del Tren WARP UW-212</PlaceName>
+        <PlaceName>Konum: Dentro del Tren WARP UW-212</PlaceName>
         <Dialog ID="41" Model="안내방송">
           <Teller>Anuncio de</Teller>
           <Title>WARP Corp.</Title>
@@ -2719,7 +2719,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="86" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
@@ -2836,7 +2836,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Entrada de la Biblioteca</PlaceName>
         <Dialog ID="105" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
@@ -2986,7 +2986,7 @@
     <Episode>
       <EpisodeName>에피소드1-종료</EpisodeName>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
