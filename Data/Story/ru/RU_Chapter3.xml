@@ -528,13 +528,13 @@
           <Teller>Julia</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_julia7</VoiceFile>
-          <Content>Pero todo es gracias al increíble análisis de información de nuestra querida Isadora de la Sección 6 que pudimos trabajar tan rápidamente, ¿verdad? ¡Esa es mi chica!</Content>
+          <Content>Ama bunların hepsi Bölüm 6'dan sevgili İsadora'mızın ustaca yaptığı veri analizi sayesinde bu kadar hızlı bir şekilde halledilebildi, değil mi? İşte benim kızım!</Content>
         </Dialog>
         <Dialog ID="33" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora19</VoiceFile>
-          <Content>Tamam, neye inanmak istiyorsan ona inan!</Content>
+          <Content>Pekala, neye inanmak istiyorsan ona inan!</Content>
         </Dialog>
         <Dialog ID="34" Model="이사도라">
           <Teller>Isadora</Teller>
@@ -544,114 +544,114 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane'nin İçerisi</PlaceName>
         <Dialog ID="35" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland1</VoiceFile>
-          <Content>Parece que una Asociación está a punto de hacer su movimiento. Las cosas serán diferentes a partir de ahora en adelante.</Content>
+          <Content>Görünüşe göre bir Birlik harekete geçmek üzere. Artık işler eskisi gibi olmayacak.</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela1</VoiceFile>
-          <Content>¿Cuánta diferencia hace eso?</Content>
+          <Content>Bu ne kadar fark yaratır ki?</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland2</VoiceFile>
-          <Content>Los invitados hasta ahora nos daban una visita por interés o curiosidad, pero nuestros futuros invitados tendrán una meta clara en mente involucrando a la Biblioteca.</Content>
+          <Content>Şimdiye kadar gelen misafirlerimiz, ya meraktan ya da rastlantı sonucu geldiler. Ama bundan sonraki misafirlerimizin Kütüphane ile ilgili net hedefleri olacak.</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela2</VoiceFile>
-          <Content>¿Qué quieres decir?</Content>
+          <Content>Nasıl yani?</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland3</VoiceFile>
-          <Content>Un caso oficialmente reconocido por las Asociaciones tiene una recompensa garantizada. Y el dinero atrae una horrible cantidad de atención.</Content>
+          <Content>Birlikler tarafından resmi olarak tanınan bir dava, kesinlikle ödüllendirici olacaktır. Ve para, korkunç derecede dikkat çeker.</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland4</VoiceFile>
-          <Content>La escala de nuestros asuntos solo puede escalar desde aquí, nos guste o no.</Content>
+          <Content>İster beğenin ister beğenmeyin, işlerimizin ölçeği buradan sonra yalnızca büyüyecek.</Content>
         </Dialog>
         <Dialog ID="41" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland5</VoiceFile>
-          <Content>Nuestro nivel de amenaza o importancia aún sigue estando bastante bajo, pero aun así vendrán todo tipo de personas intentando desentrañar los misterios de este lugar mientras las Asociaciones sigan manteniendo un ojo en nosotros.</Content>
+          <Content>Tehdit seviyemiz veya önemimiz hala düşük olsa da, Birliklerin gözü üzerimizde olduğu sürece bu yerin sırlarını çözmeye çalışan her türden insan gelecek.</Content>
         </Dialog>
         <Dialog ID="42" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela3</VoiceFile>
-          <Content>Me gusta como suena eso, puedo hacer más libros valiosos gracias a eso. Aún tengo mucho que ver y aprender.</Content>
+          <Content>Bu kulağa hoş geliyor. Onlardan daha değerli kitaplar yapabilirim. Hala göreceğim ve öğreneceğim çok şey var.</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland6</VoiceFile>
-          <Content>Me lo he estado preguntando por un tiempo, ¿pero qué te detiene de dejar este lugar?</Content>
+          <Content>Bir süredir merak ediyorum, seni buradan çıkmaktan alıkoyan şey ne?</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela4</VoiceFile>
-          <Content>... Estoy bajo una maldición.</Content>
+          <Content>...Bir lanetin etkisi altındayım.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela5</VoiceFile>
-          <Content>Una profunda y anciana maldición; eso es lo que me ha atado.</Content>
+          <Content>Derin, kadim bir lanet; bana bağlanmış olan şey bu.</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela6</VoiceFile>
-          <Content>Ningún ser que no sea humano puede dejar este lugar.</Content>
+          <Content>İnsan olmayan hiçbir varlık, bu mekandan dışarıya adımını atamaz.</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela7</VoiceFile>
-          <Content>Además, tampoco quiero dejar este lugar hasta haber completado mi venganza.</Content>
+          <Content>Hem zaten, intikamımı almadan burayı terk etmek de istemiyorum.</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela8</VoiceFile>
-          <Content>No está tan mal. Además, me he estado divirtiendo bastante últimamente.</Content>
+          <Content>Şu ana kadar çok da kötü gitmedi. Hatta, son zamanlarda oldukça memnun oldum diyebilirim.</Content>
         </Dialog>
         <Dialog ID="49" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela9</VoiceFile>
-          <Content>He estado rodeada de cosas nuevas, no como en la prisión que estuve en mi vida pasada.</Content>
+          <Content>Geçmiş hayatımdaki hapishaneyle kıyaslandığında, burası yepyeni şeylerle dolu.</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela10</VoiceFile>
-          <Content>Nuevas caras, acumulando conocimiento, eventos intrigantes... me gusta esta abundancia de frescura. Quiero saber más. Seguiré aprendiendo y aprendiendo. Y mientras aprenda, podría finalmente descubrirlo...</Content>
+          <Content>Yeni yüzler, toplanan bilgi, ilginç olaylar... Bu tazelik bolluğunu seviyorum. Daha fazlasını bilmek istiyorum. Öğrenmeye devam edeceğim. Ve öğrendikçe, belki de sonunda anlayabilirim...</Content>
         </Dialog>
         <Dialog ID="51" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela11</VoiceFile>
-          <Content>... Por qué tuve que ser víctima de tal tormento...</Content>
+          <Content>...Böyle bir işkenceye neden maruz kalmam gerektiğini...</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland7</VoiceFile>
-          <Content>Supongo que debo ponerme a trabajar más duro. No puedo dejar este lugar mientras tú no puedas, ¿sabes?</Content>
+          <Content>Sanırım daha sıkı çalışmalıyım. Sen buradan çıkamadığın sürece ben de çıkamam, biliyorsun değil mi?</Content>
         </Dialog>
         <Dialog ID="53" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -663,73 +663,73 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland8</VoiceFile>
-          <Content>Eh, si conseguimos dejar este lugar un día, ¿qué tal si vamos a un lugar que frecuento?</Content>
+          <Content>Hey. Eğer bir gün buradan çıkabilirsek, seni sık gittiğim bir yere götürsem nasıl olur?</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela13</VoiceFile>
-          <Content>¿Quieres decir un restaurante?</Content>
+          <Content>Restorana falan mı diyorsun?</Content>
         </Dialog>
         <Dialog ID="56" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland9</VoiceFile>
-          <Content>Sep. Hacen un guiso de carne demencial ahí.</Content>
+          <Content>Evet. Orada harika bir et yahnisi yapıyorlar.</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland10</VoiceFile>
-          <Content>Uno de los secretos de ese guiso es la olla gigante personalizada que pidieron a T Corp. Hierve la carne con algo de agua solo diez segundos en esa cosa y conseguirás una carne ablandada en un rico caldo que solo podrías obtener normalmente después de hervirlo por tres días seguidos.</Content>
+          <Content>O yahninin sırlarından biri, T Corp.'a özel olarak tasarlattıkları devasa teneke tencere. O tencerede eti ve biraz suyu sadece 10 saniye kaynatıyorsun, ve normalde üç gün boyunca kaynatarak elde edebileceğin yumuşacık bir et ve zengin bir et suyu ortaya çıkar.</Content>
         </Dialog>
         <Dialog ID="58" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland11</VoiceFile>
-          <Content>Creando un sabor tan rico en un periodo tan corto de tiempo es lo que hace que el restaurante sea tan popular. El único problema es que los preciosos son un poco altos. Una vez gasté la mitad del pago de mi último trabajo en una sola comida. Pero valió completamente la pena.</Content>
+          <Content>O restoranı bu kadar popüler yapan şey, böylesine kısa bir sürede bu kadar zengin bir tat yaratabilmeleri. Tek sorun fiyatlar biraz yüksek. Bir keresinde son işimden kazandığım paranın yarısını tek bir yemeğe harcadım. Genede buna kesinlikle değer.</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela14</VoiceFile>
-          <Content>...</Content>
+          <Content>......</Content>
         </Dialog>
         <Dialog ID="60" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland12</VoiceFile>
-          <Content>Oh, verdad, ¿Eras incapaz de comer...? Lo siento por decir tantas cosas inútiles, ma’am.</Content>
+          <Content>Oh, doğru ya, yemek yeme kabiliyetin yok...? Lüzumsuz şeyler söylediğim için üzgünüm, hanımefendi.</Content>
         </Dialog>
         <Dialog ID="61" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep1_roland13</VoiceFile>
-          <Content>Hay muchos otros lugares que te encantaría visitar, así que me aseguraré de darte un buen tour por la Ciudad, ma’am.</Content>
+          <Content>Sevip de gitmek isteyebileceğiniz birçok başka yer de var, o yüzden sizi Şehir'de gezdirdiğimden emin olacağım, hanımefendi.</Content>
         </Dialog>
         <Dialog ID="62" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela15</VoiceFile>
-          <Content>Puedo comer, solo no puedo saborear la comida.</Content>
+          <Content>Yemek yiyebiliyorum, ama tadlarını alamıyorum.</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela16</VoiceFile>
-          <Content>Pero me encantaría comer como lo hace la gente si tengo la oportunidad.</Content>
+          <Content>Eğer bir fırsatım olursa sizin gibi yemek yemeyi denemek isterim, tabii.</Content>
         </Dialog>
         <Dialog ID="64" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela17</VoiceFile>
-          <Content>En cualquier caso, tenemos que terminar la tarea a mano antes que nada.</Content>
+          <Content>Her halükarda, öncelikle şu anki görevimizi bitirmeliyiz.</Content>
         </Dialog>
         <Dialog ID="65" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep1_angela18</VoiceFile>
-          <Content>Y ese guiso... lo tendré en mente.</Content>
+          <Content>Ve yahni... Bunu aklımda tutacağım.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -919,7 +919,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane'nin İçerisi</PlaceName>
         <Dialog ID="30" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
@@ -1453,7 +1453,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane'nin İçerisi</PlaceName>
         <Dialog ID="37" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
@@ -1624,7 +1624,7 @@
     <Episode>
       <EpisodeName>에피소드3-종료</EpisodeName>
       <Place>
-        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane'nin İçerisi</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
@@ -2020,7 +2020,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane'nin İçerisi</PlaceName>
         <Dialog ID="43" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
@@ -2131,7 +2131,7 @@
     <Episode>
       <EpisodeName>에피소드1-종료</EpisodeName>
       <Place>
-        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane'nin İçerisi</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
@@ -2719,7 +2719,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane'nin İçerisi</PlaceName>
         <Dialog ID="86" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
@@ -2986,7 +2986,7 @@
     <Episode>
       <EpisodeName>에피소드1-종료</EpisodeName>
       <Place>
-        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane'nin İçerisi</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
