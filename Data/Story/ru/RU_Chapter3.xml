@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="3">
-    <Title>Capítulo 3–Leyenda Urbana–‘Y saboreo la magnífica fragancia del sacrificio, que llena mi habitación.’</Title>
+    <Title>Capítulo 3–Leyenda Urbana–‘Ve odami dolduran fedakarlik kokusunun tadini cikariyorum.’</Title>
   </Chapter>
   <Group>
     <GroupName>Prologue</GroupName>
@@ -82,7 +82,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland4</VoiceFile>
-          <Content>Üstelik Söylenti'lerinin çoğu, işin kökenine indiğin zaman oldukça sıradan ve sıkıcı çıkıyor.</Content>
+          <Content>Üstelik Şehir Söylenti'lerinin çoğu, işin kökenine indiğin zaman oldukça sıradan ve sıkıcı çıkıyor.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>Roland</Teller>
@@ -106,7 +106,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Prol_ep1_roland6</VoiceFile>
-          <Content>Hah, aynen öyle! Şehir Efsanesi konuşulur; insanlar bizi, Şehir'de dikkatlerine değer gerçek bir olağanüstü durum olarak kabul etmeye başlayacaklar.</Content>
+          <Content>Hah, aynen öyle! Şehir Efsanesi konuşulur; insanlar bizi, Şehir'de dikkatlerine değer, gerçek bir olağanüstü durum olarak kabul etmeye başlayacaklar.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>Roland</Teller>
@@ -286,13 +286,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela22</VoiceFile>
-          <Content>Kütüphanenin sonsuz bir alanı var. İstersem sayısız misafirden sınırsız kitap çıkarıp hepsini depolayabilirim.</Content>
+          <Content>Kütüphane'nin sonsuz bir alanı var. İstersem sayısız misafirden sınırsız kitap çıkarıp hepsini depolayabilirim.</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela23</VoiceFile>
-          <Content>Ama amaçsızca, çoğu içerik bakımından çöp dolu kitaplar toplamak verimsiz olmaz mı sence?</Content>
+          <Content>Ama net bir amaç olmadan, çoğunlukla gereksiz seylerle dolu kitapları toplamak, verimsiz olmaz mı sence de?</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>Angela</Teller>

@@ -8,12 +8,12 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Konum: Zwei Birligi - Güney Şubesi, 6. Bölüm</PlaceName>
+        <PlaceName>Konum: Zwei Birliği - Güney Şubesi, 6. Bölüm</PlaceName>
         <Dialog ID="0" Model="월터">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_walter1</VoiceFile>
-          <Content>Hana Organizasyonundan ya da Zwei 1. Bölüm'den, Distortion (Bozulma) ile ilgili başka rapor var mı?</Content>
+          <Content>Hana Organizasyonu'ndan ya da Zwei 1. Bölüm'den, Distortion (Bozulma) ile ilgili başka rapor var mı?</Content>
         </Dialog>
         <Dialog ID="1" Model="이사도라">
           <Teller>???</Teller>
@@ -31,7 +31,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_isadora3</VoiceFile>
-          <Content>Şu ana kadar, iki tane Şehir Salgınımız var "Rüyalar Çamaşırhanesi" ve "Dün'ün Sözü"; ve bir tane de Şehir Efsanesi "Dişli Çarklar Kilisesi".</Content>
+          <Content>Şu ana kadar, iki tane Şehir Veba'mız var "Rüyalar Çamaşırhanesi" ve "Dün'ün Sözü"; ve bir tane de Şehir Efsanesi "Dişli Çarklar Kilisesi".</Content>
         </Dialog>
         <Dialog ID="4" Model="월터">
           <Teller>???</Teller>
@@ -862,7 +862,7 @@
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch2_Streetlight_ep1_san2</VoiceFile>
-          <Content>...Yine kavga mı ediyorsunuz ?</Content>
+          <Content>...Yine kavga mı ediyorsunuz?</Content>
         </Dialog>
         <Dialog ID="14" Model="루루">
           <Teller>Lulu</Teller>
