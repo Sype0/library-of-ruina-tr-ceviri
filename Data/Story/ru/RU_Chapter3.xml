@@ -741,61 +741,61 @@
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora1</VoiceFile>
-          <Content>Tenemos una alineación para el equipo de búsqueda. Y ustedes están dentro, San, Julia.</Content>
+          <Content>Arama ekibinin kadrosu belli oldu. Ve siz ikiniz de içindesiniz, San, Julia.</Content>
         </Dialog>
         <Dialog ID="1" Model="산">
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san1</VoiceFile>
-          <Content>Finalmente estoy volviendo a la Biblioteca.</Content>
+          <Content>Sonunda Kütüphane’ye geri dönüyorum.</Content>
         </Dialog>
         <Dialog ID="2" Model="줄리아">
           <Teller>Julia</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia1</VoiceFile>
-          <Content>Sí. Recuperaremos los libros de Mars y Lulu, así que regresemos a salvo.</Content>
+          <Content>Evet. Hadi Mars ve Lulu’nun kitaplarını alalım ve sağ salim geri dönelim.</Content>
         </Dialog>
         <Dialog ID="3" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora2</VoiceFile>
-          <Content>No lo olvides. Mientras nuestro principal objetivo ha sido decidido como recuperar los libros de Mars y Lulu gracias a que tenemos los mismos intereses entre San y la Asociación, deberíamos intentar asegurar tanta información como sea posible. Significa que debemos recolectar tantos libros como podamos.</Content>
+          <Content>Unutmayın. San ile Birlik arasındaki çıkarların örtüşmesi sayesinde, ana hedefimiz Mars ve Lulu’nun kitaplarını almak olarak belirlendi. Ama yine de olabildiğince fazla bilgi toplamaya çalışmalıyız. Yani, elimizden geldiğince çok kitap toplamalıyız.</Content>
         </Dialog>
         <Dialog ID="4" Model="줄리아">
           <Teller>Julia</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia2</VoiceFile>
-          <Content>Okay. Lo tendré en mente.</Content>
+          <Content>Tamam. Bunu aklımda tutacağım.</Content>
         </Dialog>
         <Dialog ID="5" Model="산">
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san2</VoiceFile>
-          <Content>Sé que es algo tonto de preguntar, pero, ¿por qué Zwei, una Asociación especializada en mantener la paz y seguridad, decidió organizar un equipo de búsqueda de todas las cosas para entrar a la Biblioteca?</Content>
+          <Content>Biliyorum, biraz saçma bir soru olacak ama, barışı koruma ve güvenlik alanında uzmanlaşmış bir Birlik olan Zwei, neden Kütüphane’ye girmek için bir arama ekibi kurma kararı aldı?</Content>
         </Dialog>
         <Dialog ID="6" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora3</VoiceFile>
-          <Content>¿Por qué viniste a rogar por ayuda en primer lugar si sabías todo eso?</Content>
+          <Content>Madem bunu biliyordun, neden ilk başta gelip bize yalvardın?</Content>
         </Dialog>
         <Dialog ID="7" Model="산">
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san3</VoiceFile>
-          <Content>Eso es... porque este era el único lugar con el que podía contar.</Content>
+          <Content>Çünkü... Çünkü güvenebileceğim tek yer burasıydı.</Content>
         </Dialog>
         <Dialog ID="8" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora4</VoiceFile>
-          <Content>¿Qué pasa con tu hermano pequeño?</Content>
+          <Content>Ya küçük kardeşin?</Content>
         </Dialog>
         <Dialog ID="9" Model="산">
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san4</VoiceFile>
-          <Content>Mi hermano es... No importa. Una vez más, lo siento por los problemas y gracias de nuevo por ayudarme.</Content>
+          <Content>Benim kardeşim... Boş verin. Bir kez daha, verdiğim sıkıntı için özür dilerim özür dilerim ve yardımlarınız için tekrar teşekkür ederim.</Content>
         </Dialog>
         <Dialog ID="10" Model="줄리아">
           <Teller>Julia</Teller>
@@ -807,115 +807,115 @@
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora5</VoiceFile>
-          <Content>Mmm, por cierto, ya que tienes una Oficina afiliada, supongo que está bien decirte esto.</Content>
+          <Content>Hm hmm. Her neyse, bağlı bir Ofisi işlettiğine göre, bunu sana söylememde bir sakınca yok sanırım.</Content>
         </Dialog>
         <Dialog ID="12" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora6</VoiceFile>
-          <Content>El fenómeno de Distorsión, clasificado como una Pesadilla Urbana. Estoy segura de que has escuchado del tema, aunque no lo hayas visto por tu cuenta, ¿verdad?</Content>
+          <Content>Şehir Kabusu olarak sınıflandırılmış olan Bozulma Anomali'si... Görmemiş olsanız bile, en azından bir yerden duymuşsunuzdur, değil mi?</Content>
         </Dialog>
         <Dialog ID="13" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora7</VoiceFile>
-          <Content>Es una anomalía que ha estado pasando por toda la Ciudad desde las Noches Blancas y Días Oscuros.</Content>
+          <Content>Beyaz Geceler ve Karanlık Günler’den beri Şehir genelinde yaşanan bir anomali bu.</Content>
         </Dialog>
         <Dialog ID="14" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora8</VoiceFile>
-          <Content>La frecuencia puede ser baja, pero la gente se está convirtiendo en monstruos de forma aleatoria, además de ser un verdadero dolor tratar con ellos cada vez que sucede.</Content>
+          <Content>Sıklığı düşük olabilir, ama insanlar rastgele bir şekilde canavarlara dönüşüyor, ve her bir vaka başlı başına büyük bir baş ağrısı.</Content>
         </Dialog>
         <Dialog ID="15" Model="산">
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san5</VoiceFile>
-          <Content>Sí, lo sé. ‘El Pianista’, el primer caso reportado de este fenómeno... terminó con las vidas del 80% de la población del Distrito 9.</Content>
+          <Content>Evet, biliyorum. “Piyanist”, bu anomalinin ilk rapor edilen vakası... Bölge 9'un nüfusunun %80'ini öldürdü.</Content>
         </Dialog>
         <Dialog ID="16" Model="줄리아">
           <Teller>Julia</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia4</VoiceFile>
-          <Content>Escuché que sucedió de la nada, la Asociación Hana tuvo que mandar a uno de los ‘Colores’ de inmediato después de darse cuenta de la gravedad de la situación.</Content>
+          <Content>Duyduğuma göre o kadar ani olmuş ki, Hana Birliği durumun ciddiyetini fark eder etmez “Renk”lerden birini göndermek zorunda kalmış.</Content>
         </Dialog>
         <Dialog ID="17" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora9</VoiceFile>
-          <Content>Es correcto. Y aun así no tenemos ninguna pista para poder rastrear la causa de este fenómeno.</Content>
+          <Content>Doğru. Yine de, bu anomalinin kaynağını takip edebilmemizi sağlayacak hiçbir ipucuna sahip değiliz.</Content>
         </Dialog>
         <Dialog ID="18" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora10</VoiceFile>
-          <Content>Lo más que tenemos es la repentina desaparición de L Corp. y las ‘Noches Blancas y Días Oscuros’ que comenzaron en el Nido de la corporación.</Content>
+          <Content>Elimizdeki en somut şey, L Corp’un aniden ortadan kaybolması ve ‘Beyaz Geceler ve Karanlık Günler’in başlangıç noktasının şirketin Yuva'sında olması.</Content>
         </Dialog>
         <Dialog ID="19" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora11</VoiceFile>
-          <Content>Zwei sospecha que la Biblioteca podría ser una de las llaves para entender el Fenómeno de la Distorsión. </Content>
+          <Content>Zwei, Kütüphane’nin Bozulma Anomali’sini anlamamıza yardımcı olabilecek anahtarlardan biri olabileceğinden şüpheleniyor.</Content>
         </Dialog>
         <Dialog ID="20" Model="줄리아">
           <Teller>Julia</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia5</VoiceFile>
-          <Content>Un compañero mío me contó una historia similar. Dijo que un residente en un área que estaban protegiendo se distorsionó y transformó en una bestia de cuatro patas, incluso cuando no había signos de peligro o anomalías cerca.</Content>
+          <Content>Bir iş arkadaşım bana benzer bir hikaye anlatmıştı. Barışı korudukları bölgede yaşayan biri, ortada hiçbir tehlike ya da anomali belirtisi yokken aniden bozulmuş ve dört ayaklı bir yaratığa dönüşmüş.</Content>
         </Dialog>
         <Dialog ID="21" Model="줄리아">
           <Teller>Julia</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia6</VoiceFile>
-          <Content>Afortunadamente, lograron ocuparse de la criatura antes de que el conteo de muertes alcanzara los dos dígitos.</Content>
+          <Content>Şükürler olsun ki, o yaratığı ölüm sayısı çift hanelere ulaşmadan etkisiz hâle getirmeyi başarmışlar.</Content>
         </Dialog>
         <Dialog ID="22" Model="줄리아">
           <Teller>Julia</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia7</VoiceFile>
-          <Content>Y escuché que un cliente en un restaurante se convirtió en... un monstruo sandwich devora hombres...</Content>
+          <Content>Bir de bir restoranda çalışan bir görevlinin... insan yiyen bir sandviç canavarına dönüştüğünü duymuştum? Öyle bir şeydi galiba.</Content>
         </Dialog>
         <Dialog ID="23" Model="산">
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san6</VoiceFile>
-          <Content>Creo que lo entiendo. El Fenómeno de Distorsión es una clara y aparente amenaza para las actividades de protección de Zwei, así que ellos esperan que la Biblioteca tenga alguna pista para resolverlo.</Content>
+          <Content>Sanırım şimdi anladım. Yani Bozulma Fenomeni, Zwei’nin barışı koruma faaliyetleri için açık ve belirgin bir tehdit oluşturuyor, ve onlar da bu sorunun çözümüne dair bir ipucunun Kütüphane’de olabileceğini düşünüyor.</Content>
         </Dialog>
         <Dialog ID="24" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora12</VoiceFile>
-          <Content>Es correcto. Afortunadamente, no ha habido ningún caso de este fenómeno que haya sido tan devastador como ‘El Pianista’ hasta ahora.</Content>
+          <Content>Doğru anladın. Neyse ki, şu ana kadar ‘Piyanist’ kadar yıkıcı başka bir dava yaşanmadı.</Content>
         </Dialog>
         <Dialog ID="25" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora13</VoiceFile>
-          <Content>Parece que Zwei mantendrá un ojo en la Biblioteca por un tiempo. Aunque hay bastantes otros sospechosos que también necesitan ser investigados, así que no conseguiremos ningún Fixer de grado alto.</Content>
+          <Content>Görünüşe göre Zwei, bir süre Kütüphane’yi gözlemlemeye devam edecek. Gerçi araştırmaları gereken başka şüpheliler de var, o yüzden yüksek sınıf Düzenleyici'ler alamayacağız.</Content>
         </Dialog>
         <Dialog ID="26" Model="산">
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san7</VoiceFile>
-          <Content>Esta es más que suficiente ayuda. Gracias, Isadora.</Content>
+          <Content>Bu kadarı bile fazlasıyla yeterli. Teşekkürler, Isadora.</Content>
         </Dialog>
         <Dialog ID="27" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_isadora14</VoiceFile>
-          <Content>Y-ya dije que solo hacía mi trabajo. No es como si te estuviera haciendo un favor ni nada. </Content>
+          <Content>B-ben sadece işimi yapıyorum. Sana iyilik falan yaptığım yok!</Content>
         </Dialog>
         <Dialog ID="28" Model="줄리아">
           <Teller>Julia</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia8</VoiceFile>
-          <Content>¡Por supuesto! También tienes mi agradecimiento, Isadora.</Content>
+          <Content>Elbette! Benim de teşekkürlerim sana, Isadora.</Content>
         </Dialog>
         <Dialog ID="29" Model="산">
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san8</VoiceFile>
-          <Content>Vamos allá.</Content>
+          <Content>Hadi işe koyulalım.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -924,77 +924,77 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland1</VoiceFile>
-          <Content>¿Es eso cierto?</Content>
+          <Content>Bu gerçekten doğru mu?</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela1</VoiceFile>
-          <Content>¿Qué cosa?</Content>
+          <Content>Ne doğru mu?</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland2</VoiceFile>
-          <Content>Lo que han dicho sobre la Biblioteca. ¿Este lugar realmente está conectado con cosas como las ‘Noches Blancas y Días Oscuros’, L Corp. y el Fenómeno de Distorsión?</Content>
+          <Content>Kütüphane hakkında söyledikleri şeyler. Burası gerçekten de ‘Beyaz Geceler ve Kara Günler’, L Corp, ve Bozulma Anomali'si gibi olaylarla bağlantılı mı?</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland3</VoiceFile>
-          <Content>Aunque no estoy realmente seguro de dónde estamos en la Ciudad.</Content>
+          <Content>Açıkçası Şehir’in neresinde olduğumuzdan bile emin değilim.</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela2</VoiceFile>
-          <Content>¿Qué harías si te dijera que lo está? </Content>
+          <Content>Bağlantısı var desem ne olacak?</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland4</VoiceFile>
-          <Content>Si lo dijeras... no estoy seguro de entender lo que quieres decir.</Content>
+          <Content>Bağlantısı var desen... Ne demek istediğini tam olarak anlayamadım galiba.</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland5</VoiceFile>
-          <Content>Es extremadamente raro que un incidente involucre a toda la Ciudad como lo hizo las Noches Blancas y Días Oscuros.</Content>
+          <Content>Beyaz Geceler ve Karanlık Günler gibi bir vakanın, Şehir'i bu kadar kapsaması son derece nadirdir.</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland6</VoiceFile>
-          <Content>Ha habido algunos casos de Alas cayendo por su cuenta, pero aquellos solo afectaban a su propio Nido como mucho. Lo de L Corp. fue algo completamente aparte.</Content>
+          <Content>Bazı Kanatlar kendi kendilerine çöktü, ama bunlar en fazla kendi Yuva'larını etkiledi. L Corp ise bambaşka bir şeydi.</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland7</VoiceFile>
-          <Content>Es como si toda la Ciudad cayera dormida por una semana.</Content>
+          <Content>Sanki bütün Şehir bir hafta boyunca uykuya dalmış gibiydi.</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela3</VoiceFile>
-          <Content>Digamos que la Biblioteca realmente está relacionada con las Noches Blancas y Días Oscuros. ¿Qué cambia eso?</Content>
+          <Content>Hadi diyelim ki Kütüphane gerçekten Beyaz Geceler ve Karanlık Günler’le ilişkili. Bu neyi değiştirir?</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland8</VoiceFile>
-          <Content>Nada, supongo. Mi trabajo seguiría siendo el mismo...</Content>
+          <Content>Sanırım hiçbir şeyi. Benim işim gene aynı olurdu...</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela4</VoiceFile>
-          <Content>... </Content>
+          <Content>......</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Konum: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="42" Model="줄리아">
           <Teller>Julia</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
@@ -1066,7 +1066,7 @@
     <Episode>
       <EpisodeName>에피소드2-종료</EpisodeName>
       <Place>
-        <PlaceName>Konum: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
@@ -1516,7 +1516,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Konum: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="47" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
@@ -2071,7 +2071,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Konum: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="51" Model="디노">
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
@@ -2836,7 +2836,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Konum: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="105" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
