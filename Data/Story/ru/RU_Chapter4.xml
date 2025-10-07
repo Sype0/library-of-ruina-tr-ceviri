@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="4">
-    <Title>Chapter 4–Plaga Urbana–‘Dice que no tengo una enfermedad.’</Title>
+    <Title>4. Bölüm– Şehir Vebası–‘Bir hastalığım olmadığını söylüyorlar.’</Title>
   </Chapter>
   <Group>
-    <GroupName>Prologue</GroupName>
+    <GroupName>Başlangıç</GroupName>
     <Episode>
-      <EpisodeName>Episode 1</EpisodeName>
+      <EpisodeName>Bölüm 1</EpisodeName>
       <Place>
-        <PlaceName>Localización: Shi Derneği - Güney Bölümü</PlaceName>
+        <PlaceName>Konum: Shi Derneği - Güney Bölümü</PlaceName>
         <Dialog ID="0" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
@@ -77,7 +77,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphanenin içerisi</PlaceName>
         <Dialog ID="11" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
