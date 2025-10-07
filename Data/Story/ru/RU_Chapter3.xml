@@ -999,67 +999,67 @@
           <Teller>Julia</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia9</VoiceFile>
-          <Content>Así que esta es la Biblioteca. El método de transportación es casi como una Singularidad.</Content>
+          <Content>Demek burası Kütüphane. Ulaşım yöntemi neredeyse bir Tekillik gibi.</Content>
         </Dialog>
         <Dialog ID="43" Model="산">
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san9</VoiceFile>
-          <Content>... Sí. La Kütüphane Direktörü pronto vendrá a recibirnos.</Content>
+          <Content>...Evet. Kütüphane’nin direktörü birazdan gelip bizi karşılayacak.</Content>
         </Dialog>
         <Dialog ID="44" Model="줄리아">
           <Teller>Julia</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia10</VoiceFile>
-          <Content>Angela... ¿no es así?</Content>
+          <Content>Angela'ydı... değil mi?</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela5</VoiceFile>
-          <Content>Bienvenidos, queridos invitados. Soy Angela, directora y bibliotecaria de esta Biblioteca.</Content>
+          <Content>Hoş geldiniz, değerli misafirler. Ben Angela, bu Kütüphane'nin direktörü ve rolümün adını taşıyan kütüphaneci.</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela6</VoiceFile>
-          <Content>Pero parece que ya saben quién soy.</Content>
+          <Content>Gerçi kim olduğumu zaten biliyor gibisiniz.</Content>
         </Dialog>
         <Dialog ID="47" Model="산">
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san10</VoiceFile>
-          <Content>Vinimos a recuperar los libros de Mars y Lulu.</Content>
+          <Content>Mars ve Lulu’nun kitaplarını geri almak için buradayız.</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela7</VoiceFile>
-          <Content>En efecto, esos libros se encuentran aquí.</Content>
+          <Content>Evet, buradalar.</Content>
         </Dialog>
         <Dialog ID="49" Model="줄리아">
           <Teller>Julia</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia11</VoiceFile>
-          <Content>Podemos conseguir los libros que queremos, o morir y convertirnos en libros nosotros mismos, ¿verdad?</Content>
+          <Content>İstediğimiz kitapları alabiliriz ya da ölüp, biz de birer kitaba dönüşebiliriz, öyle değil mi?</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela8</VoiceFile>
-          <Content>Es correcto. Como está escrito en la Invitación.</Content>
+          <Content>Doğru. Davetiyede yazdığı gibi.</Content>
         </Dialog>
         <Dialog ID="51" Model="줄리아">
           <Teller>Julia</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep2_julia12</VoiceFile>
-          <Content>Es como estar hablando con una pared. Es tan robótica.</Content>
+          <Content>Sanki duvara konuşuyormuşum gibi. Çok robotsu.</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela9</VoiceFile>
-          <Content>... Que encuentres tu libro en este lugar.</Content>
+          <Content>...Umarım aradığınız kitabı burada bulursunuz.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -1071,115 +1071,115 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela10</VoiceFile>
-          <Content>... La Biblioteca está localizada en el núcleo de las ‘Noches Blancas y Días Oscuros’.</Content>
+          <Content>...Kütüphane ‘Beyaz Geceler ve Karanlık Günler’in kaynağında yer alıyor.</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela11</VoiceFile>
-          <Content>Retoqué la sede de L Corp, el centro de esta, para mi propio uso.</Content>
+          <Content>Kendi kullanımım için L Corp karargahının, merkez kısmını elden geçirdim.</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela12</VoiceFile>
-          <Content>No tengo ningún comentario que hacer sobre el Fenómeno de Distorsión que aparentemente comenzó luego de eso.</Content>
+          <Content>Sonrasında ortaya çıktığı söylenen Bozulma Anomali'si hakkında yorum yapmayacağım.</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela13</VoiceFile>
-          <Content>Tampoco tengo información sobre ese fenómeno.</Content>
+          <Content>O anomali hakkında elimde pek bilgi de yok zaten.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela14</VoiceFile>
-          <Content>Aunque tengo una corazonada.</Content>
+          <Content>Genede bir tahminim var.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland9</VoiceFile>
-          <Content>Whoa, eso vino de la nada...</Content>
+          <Content>Whoa, bunları anlatmanı hiç beklemiyordum...</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela15</VoiceFile>
-          <Content>¿No tenías curiosidad hace un rato?</Content>
+          <Content>Demin bunu merak ediyordun, etmiyormuydun yoksa?</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela16</VoiceFile>
-          <Content>Fui creada como una secretaria mecánica para asistir al gerente de Lobotomy Corporation. </Content>
+          <Content>Lobotomy Corporation'ın müdürüne yardımcı olmak için mekanik bir sekreter olarak yaratıldım.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela17</VoiceFile>
-          <Content>Fui diseñada para verme como una humana, sentir emociones, hacer evaluaciones y juicios basados en esas emociones.</Content>
+          <Content>İnsan gibi görünmek, duyguları hissetmek ve o duygulara dayanarak değerlendirme ve yargılarda bulunmak için tasarlandım.</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela18</VoiceFile>
-          <Content>Es como sospechabas; nací en secreto, violando la Enmienda Ética sobre IA.</Content>
+          <Content>Şüphelendiğin gibi; gizlice yaratıldım, AI Etik Yasası’nı ihlal ederek.</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela19</VoiceFile>
-          <Content>Tiene gracia que nunca pude hacer mis propias decisiones. Tuve que leer el mismo guion una y otra vez por un millón de años, todo para el éxito de un único proyecto.</Content>
+          <Content>Komik bir şekilde, kendi başıma karar verme fırsatım hiç olmadı. Aynı senaryoyu bir milyon yılın üzerinde defalarca okumak zorunda kaldım, hepsi tek bir projenin başarılı olması içindi.</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela20</VoiceFile>
-          <Content>La actuación que nunca parecía acabar terminó un día, y... y... </Content>
+          <Content>Bitmeyecek gibi görünen oyun bir gün nihayet sona erdi, ve... Ve...</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland10</VoiceFile>
-          <Content>Y los ‘Días Blancos y Noches Oscuras’ pasaron como resultado. Gracias por decírmelo.</Content>
+          <Content>Ve sonucunda ‘Beyaz Geceler ve Karanlık Günler’ meydana geldi. Beni bilgilendirdiğin için teşekkürler.</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland11</VoiceFile>
-          <Content>No sé quién vino con ese loco plan, pero gracias a ellos, el Fenómeno de Distorsión comenzó a causar estragos en la Ciudad en intervalos aleatorios.</Content>
+          <Content>Kim böyle çılgın bir planı tasarladı bilmiyorum ama onlar sağolsun, Bozulma Anomali'si Şehir’de rastgele aralıklarla ortalığı kasıp kavurmaya başladı.</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland12</VoiceFile>
-          <Content>La gente ordinaria se convierte en monstruos de la nada. Y matan todo lo que tienen a la vista.</Content>
+          <Content>Sıradan insanlar aniden canavara dönüşür. Ve etraflarındaki her şeyi öldürürler.</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland13</VoiceFile>
-          <Content>Y el primer caso conocido de la Distorsión... fue una verdadera locura.</Content>
+          <Content>Ve Bozulma’nın ilk vakası, ah, tam bir cehennemdi.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland14</VoiceFile>
-          <Content>Sucedió de la nada sin ningún signo en un Distrito que todos creían que era relativamente seguro.</Content>
+          <Content>Herkesin nispeten güvenli olduğunu düşündüğü bir Bölge'de, hiçbir belirti olmadan meydana geldi.</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland15</VoiceFile>
-          <Content>La masacre también fue un trabajo de arte.</Content>
+          <Content>Katliamı da adeta bir sanat eseriydi.</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland16</VoiceFile>
-          <Content>Fue nombrado como ‘El Pianista’ por un motivo. Qué más puedo decir. </Content>
+          <Content>‘Piyanist’ olarak adlandırılmasının bir sebebi vardı. Daha ne diyebilirim ki?</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -1191,37 +1191,37 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland17</VoiceFile>
-          <Content>De todos modos, gracias por decirme todo eso. Debió haber sido un tema sensible para ti.</Content>
+          <Content>Her neyse, tüm bunları paylaştığın için teşekkürler. Senin için hassas bir konu olmalı.</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela22</VoiceFile>
-          <Content>No estás tan sorprendido como esperaba.</Content>
+          <Content>Beklediğim kadar şaşırmadın.</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland18</VoiceFile>
-          <Content>Los monstruos creados por la Distorsión me daban una vibra sospechosamente similar a esta Biblioteca y sus cuidadores.</Content>
+          <Content>Bozulma’dan doğan canavarlar, bu kütüphane ve onun koruyucularıyla tuhaf şekilde benzer bir hava taşıyordu.</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland19</VoiceFile>
-          <Content>Debiste haber pasado un montón de angustia en tu vida.</Content>
+          <Content>Hayatında epeyce acı çekmiş olmalısın.</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland20</VoiceFile>
-          <Content>Por cierto, lo siguiente que viene es el problema. ¿Qué hacemos para atraer a los Zwei aquí?</Content>
+          <Content>Neyse, asıl mesele bundan sonrası. Zwei’yi buraya çekmek için ne yapabiliriz?</Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep2_angela23</VoiceFile>
-          <Content>... Puedes usar este libro. Intenté escribir la relación entre L Corp. y el Fenómeno de Distorsión. Debería ser bastante valioso para ellos bajo estas circunstancias.</Content>
+          <Content>...Bu kitabı kullanabilirsin. L Corp ile Bozulma Anomali'si arasındaki ilişkiyi yazmaya çalıştım. Bu koşullar altında onlar için oldukça değerli olmalı.</Content>
         </Dialog>
       </Place>
     </Episode>
