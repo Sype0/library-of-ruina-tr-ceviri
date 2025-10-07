@@ -1233,223 +1233,223 @@
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora1</VoiceFile>
-          <Content>Sí, señor. Lamento informar que San y Julia no pudieron regresar. ... Requisito apoyo adicional.</Content>
+          <Content>Evet, efendim. San ve Julia'nın geri dönemediğini bildirdiğim için üzgünüm. ... Ek destek talep ediyorum.</Content>
         </Dialog>
         <Dialog ID="1" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter1</VoiceFile>
-          <Content>Uf... Isadora. ¿Cuál piensas que es el propósito de la Biblioteca?</Content>
+          <Content>Uf... Isadora. Kütüphane'nin amacının ne olduğunu düşünüyorsun?</Content>
         </Dialog>
         <Dialog ID="2" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora2</VoiceFile>
-          <Content>Por la información que he recolectado, es la acumulación del conocimiento.</Content>
+          <Content>Topladığım bilgilere göre, bilgi birikimidir.</Content>
         </Dialog>
         <Dialog ID="3" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter2</VoiceFile>
-          <Content>Acumulación del conocimiento, dices...</Content>
+          <Content>Bilgi birikimi, diyorsun...</Content>
         </Dialog>
         <Dialog ID="4" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora3</VoiceFile>
-          <Content>La Biblioteca simplemente ofrece un trato. No tiene influencia con el mundo exterior; solo recompensa o castiga a aquellos que han entrado.</Content>
+          <Content>Kütüphane sadece bir anlaşma sunuyor. Dış dünya üzerinde bir etkisi yok; sadece girenleri ödüllendiriyor veya cezalandırıyor.</Content>
         </Dialog>
         <Dialog ID="5" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora4</VoiceFile>
-          <Content>El ganador puede conseguir los libros que quiere y el perdedor se vuelve un libro que la Biblioteca quiere...</Content>
+          <Content>Kazanan istediği kitapları alabilir ve kaybeden de Kütüphane'nin istediği bir kitaba dönüşür...</Content>
         </Dialog>
         <Dialog ID="6" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter3</VoiceFile>
-          <Content>¿Algún vínculo con el Fenómeno de Distorsión? </Content>
+          <Content>Distorsiyon Fenomeni ile herhangi bir bağlantı var mı?</Content>
         </Dialog>
         <Dialog ID="7" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora5</VoiceFile>
-          <Content>Eso... no está claro, señor.</Content>
+          <Content>O... net değil, efendim.</Content>
         </Dialog>
         <Dialog ID="8" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora6</VoiceFile>
-          <Content>Pero mi instinto sugiere que tiene que estar relacionada con el fenómeno de alguna forma.</Content>
+          <Content>Ama içgüdüm, bunun fenomenle bir şekilde ilişkili olması gerektiğini düşündürüyor.</Content>
         </Dialog>
         <Dialog ID="9" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter4</VoiceFile>
-          <Content>¿Y el motivo de eso?</Content>
+          <Content>Peki bunun sebebi ne?</Content>
         </Dialog>
         <Dialog ID="10" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora7</VoiceFile>
-          <Content>La Invitación a la Biblioteca, sus libros y los seres llamados Bibliotecarios que residen ahí. Todos los elementos de la Biblioteca son similares a los que hemos visto en la Distorsión.</Content>
+          <Content>Kütüphane'ye Davet, kitapları ve orada ikamet eden Kütüphaneciler denilen varlıklar. Kütüphane'nin tüm unsurları, Distorsiyon'da gördüklerimize benziyor.</Content>
         </Dialog>
         <Dialog ID="11" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora8</VoiceFile>
-          <Content>Una característica que tienen en común es la imposibilidad de observarlos para un análisis de sus componentes.</Content>
+          <Content>Ortak bir özellikleri, bileşenlerinin analiz için gözlemlenmesinin imkansız olmasıdır.</Content>
         </Dialog>
         <Dialog ID="12" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora9</VoiceFile>
-          <Content>No podemos realizar un análisis comparativo por ese motivo, pero la incapacidad de hacerlo en si misma puede ser considerada un rasgo en común.</Content>
+          <Content>Bu nedenle karşılaştırmalı bir analiz yapamayız, ancak bunu yapamama durumunun kendisi ortak bir özellik olarak kabul edilebilir.</Content>
         </Dialog>
         <Dialog ID="13" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter5</VoiceFile>
-          <Content>No es propio de ti hacer afirmaciones sin fundamentos, ¿no es así?</Content>
+          <Content>Asılsız iddialarda bulunmak sana pek yakışmaz, değil mi?</Content>
         </Dialog>
         <Dialog ID="14" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter6</VoiceFile>
-          <Content>La Sección 6 no se obsesionará innecesariamente con la Biblioteca. Hay demasiadas cosas inseguras para saltar a ciegas a este caso. </Content>
+          <Content>Bölüm 6, Kütüphane'ye gereksiz yere takılıp kalmayacak. Bu davaya körü körüne atlamak için çok fazla belirsiz şey var.</Content>
         </Dialog>
         <Dialog ID="15" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter7</VoiceFile>
-          <Content>La Zwei Birliği tiene cientos de solicitudes todos los días. Una gran cantidad de ellas se asignan a nosotros la Sección 6.</Content>
+          <Content>Zwei Birliği'nin her gün yüzlerce talebi var. Bunların büyük bir kısmı Bölüm 6'ya atanıyor.</Content>
         </Dialog>
         <Dialog ID="16" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter8</VoiceFile>
-          <Content>Estoy seguro de que entiendes que tus afirmaciones no son suficientes para dejar todas esas solicitudes en favor de la Biblioteca.</Content>
+          <Content>İddialarının, tüm bu talepleri Kütüphane lehine bırakmak için yeterli olmadığını anladığından eminim.</Content>
         </Dialog>
         <Dialog ID="17" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora10</VoiceFile>
-          <Content>Lo entiendo, señor.</Content>
+          <Content>Anlıyorum, efendim.</Content>
         </Dialog>
         <Dialog ID="18" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter9</VoiceFile>
-          <Content>Y aun así estás aquí, solicitando apoyo para investigar la Biblioteca.</Content>
+          <Content>Ve yine de buradasın, Kütüphane'yi araştırmak için destek talep ediyorsun.</Content>
         </Dialog>
         <Dialog ID="19" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter10</VoiceFile>
-          <Content>¿Estás segura de que no estás simplemente usando la presunta relación con la Distorsión como una excusa para conseguir tu venganza en la Biblioteca o para recuperar los libros de tus colegas?</Content>
+          <Content>Distorsiyon ile olan varsayılan ilişkiyi, Kütüphane'den intikam almak ya da meslektaşlarının kitaplarını geri almak için bir bahane olarak kullanmadığından emin misin?</Content>
         </Dialog>
         <Dialog ID="20" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora11</VoiceFile>
-          <Content>... </Content>
+          <Content>...</Content>
         </Dialog>
         <Dialog ID="21" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter11</VoiceFile>
-          <Content>Incluso mientras hablamos, Sindicatos como ‘El Carnaval’ están masticando las tripas de la gente al aire libre y tipos como ‘Los músicos de Bremen’ están haciendo piezas de arte moderno con ciudadanos inocentes.</Content>
+          <Content>Biz konuşurken bile, ‘Karnaval’ gibi Sendikalar insanların bağırsaklarını açık havada çiğniyor ve ‘Bremen Mızıkacıları’ gibi tipler masum vatandaşlardan modern sanat eserleri yapıyor.</Content>
         </Dialog>
         <Dialog ID="22" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter12</VoiceFile>
-          <Content>Y hay tipos incluso más locos merodeando por la Ciudad, ¿no? Y nuestro trabajo es proteger a nuestros clientes de esas sombras en la Ciudad, ¿no es así?</Content>
+          <Content>Ve Şehirde etrafta dolaşan daha çılgın tipler de var, değil mi? Ve bizim işimiz müşterilerimizi Şehirdeki bu gölgelerden korumak, değil mi?</Content>
         </Dialog>
         <Dialog ID="23" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora12</VoiceFile>
-          <Content>... Tienes razón, señor.</Content>
+          <Content>... Haklısınız, efendim.</Content>
         </Dialog>
         <Dialog ID="24" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter13</VoiceFile>
-          <Content>¿Recuerdas el eslogan de nuestra asociación?</Content>
+          <Content>Birliğimizin sloganını hatırlıyor musun?</Content>
         </Dialog>
         <Dialog ID="25" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora13</VoiceFile>
-          <Content>“Tu escudo”, señor.</Content>
+          <Content>“Kalkanın”, efendim.</Content>
         </Dialog>
         <Dialog ID="26" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter14</VoiceFile>
-          <Content>Exactamente. Nuestro papel es ser un escudo confiable para nuestro cliente.</Content>
+          <Content>Aynen öyle. Bizim rolümüz müşterimiz için güvenilir bir kalkan olmak.</Content>
         </Dialog>
         <Dialog ID="27" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter15</VoiceFile>
-          <Content>Así que no bajes ese escudo sin una buena razón, ¿lo entiendes? Puedes marcharte ahora.</Content>
+          <Content>Bu yüzden iyi bir sebep olmadan o kalkanı indirme, anladın mı? Şimdi gidebilirsin.</Content>
         </Dialog>
         <Dialog ID="28" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora14</VoiceFile>
-          <Content>... Lo haré.</Content>
+          <Content>... Yapacağım.</Content>
         </Dialog>
         <Dialog ID="29" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter16</VoiceFile>
-          <Content>¿Isadora?</Content>
+          <Content>Isadora?</Content>
         </Dialog>
         <Dialog ID="30" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora15</VoiceFile>
-          <Content>¿Sí?</Content>
+          <Content>Evet?</Content>
         </Dialog>
         <Dialog ID="31" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter17</VoiceFile>
-          <Content>¿De casualidad pusiste esta Invitación en mi escritorio?</Content>
+          <Content>Bu Davet'i masamın üzerine sen mi koydun yoksa tesadüf mü?</Content>
         </Dialog>
         <Dialog ID="32" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora16</VoiceFile>
-          <Content>No, señor. No he recibido ninguna nueva Invitación.</Content>
+          <Content>Hayır, efendim. Yeni bir Davet almadım.</Content>
         </Dialog>
         <Dialog ID="33" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter18</VoiceFile>
-          <Content>¿Cuál es el nivel de riesgo actual de la Biblioteca...?</Content>
+          <Content>Kütüphane'nin mevcut risk seviyesi nedir...?</Content>
         </Dialog>
         <Dialog ID="34" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora17</VoiceFile>
-          <Content>Su nivel actual es de clase Leyenda Urbana, pero ha estado subiendo lentamente con cada nuevo reporte.</Content>
+          <Content>Şu anki seviyesi Şehir Efsanesi sınıfında, ancak her yeni raporla yavaşça yükseliyor.</Content>
         </Dialog>
         <Dialog ID="35" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter19</VoiceFile>
-          <Content>Ahora que lo veo... El Libro de Distorsión...</Content>
+          <Content>Şimdi bakınca... Distorsiyon Kitabı...</Content>
         </Dialog>
         <Dialog ID="36" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter20</VoiceFile>
-          <Content>Han usado un cebo irresistible como este para atraer a sus víctimas, ¿no es así?</Content>
+          <Content>Kurbanlarını çekmek için bunun gibi karşı konulamaz bir yem kullanmışlar, değil mi?</Content>
         </Dialog>
       </Place>
       <Place>
@@ -1458,61 +1458,61 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland1</VoiceFile>
-          <Content>Las cosas han ido bastante bien gracias a tu libro. No es algo que hubiéramos podido obtener de los invitados que hemos tenido hasta ahora.</Content>
+          <Content>Senin sayende işler oldukça iyi gitti. Şimdiye kadar ağırladığımız misafirlerden elde edebileceğimiz bir şey değildi.</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela1</VoiceFile>
-          <Content>Simplemente les ofrezco lo que más necesitan en el momento. Soy mejor que nadie en entender la situación y llegar con una respuesta apropiada.</Content>
+          <Content>Ben sadece onlara o anda en çok ihtiyaç duydukları şeyi sunuyorum. Durumu anlamakta ve uygun bir cevapla gelmekte herkesten daha iyiyim.</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland2</VoiceFile>
-          <Content>Precisamente, ma’am. De verdad llegaste con la solución perfecta para atraer a los Zwei.</Content>
+          <Content>Kesinlikle, hanımefendi. Zwei'yi cezbetmek için gerçekten mükemmel bir çözümle geldiniz.</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland3</VoiceFile>
-          <Content>Demonios, si puedes imprimir libros de inmediato, ¿no sería genial que hicieras un montón de ellos?</Content>
+          <Content>Tanrım, eğer hemen kitap basabiliyorsanız, neden bir sürü basmıyorsunuz?</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela2</VoiceFile>
-          <Content>Solo puedo escribir libros sobre las cosas que sé. También necesito más tiempo para escribir otro.</Content>
+          <Content>Sadece bildiğim şeyler hakkında kitap yazabilirim. Başka bir tane yazmak için de daha fazla zamana ihtiyacım var.</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland4</VoiceFile>
-          <Content>Oh, ya veo... Entonces, ¿puedo preguntar por tus publicaciones de vez en cuando?</Content>
+          <Content>Ah, anlıyorum... O halde, ara sıra yayınlarınız hakkında soru sorabilir miyim?</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela3</VoiceFile>
-          <Content>Estoy dispuesta a cooperar, ya que estás haciendo tu trabajo como mi asistente. Solo no me molestes demasiado.</Content>
+          <Content>Asistanım olarak işini yaptığın sürece iş birliği yapmaya hazırım. Sadece beni çok fazla rahatsız etme.</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland5</VoiceFile>
-          <Content>Seguro, ma’am~ Un mero Hizmetkar como yo no se atrevería a cometer tal atrocidad como molestar a nuestra señora Angela.</Content>
+          <Content>Elbette, hanımefendi~ Benim gibi sıradan bir Hizmetkar, hanımefendimiz Angela'yı rahatsız etmek gibi bir vahşeti asla yapmaz.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela4</VoiceFile>
-          <Content>¿Piensas que funcionará?</Content>
+          <Content>İşe yarayacağını düşünüyor musun?</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland6</VoiceFile>
-          <Content>El director de una sección en una Asociación como Zwei debería ser más que suficiente para nuestro próximo paso. La información que tenga tiene que estar en un nivel completamente diferente de lo que hemos conseguido hasta ahora.</Content>
+          <Content>Zwei gibi bir Birliğin bölüm direktörü, bir sonraki adımımız için fazlasıyla yeterli olmalı. Sahip olduğu bilgiler, şimdiye kadar elde ettiklerimizden tamamen farklı bir seviyede olmalı.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -1521,73 +1521,73 @@
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter21</VoiceFile>
-          <Content>Ha pasado bastante tiempo desde la última vez que trabajé en el campo. Tú tampoco lo has hecho desde hace un tiempo, ¿no?</Content>
+          <Content>En son sahada çalıştığımdan bu yana epey zaman geçti. Sen de bir süredir çalışmıyorsun, değil mi?</Content>
         </Dialog>
         <Dialog ID="48" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora18</VoiceFile>
-          <Content>Es correcto, señor.</Content>
+          <Content>Doğru, efendim.</Content>
         </Dialog>
         <Dialog ID="49" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter22</VoiceFile>
-          <Content>Si podemos resolver este caso, finalmente podremos salir de la Sección 6.</Content>
+          <Content>Bu davayı çözebilirsek, nihayet Bölüm 6'dan ayrılabiliriz.</Content>
         </Dialog>
         <Dialog ID="50" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter23</VoiceFile>
-          <Content>Es genial el poder recolectar información sobre la Distorsión directamente desde el núcleo en lugar de mancharme las manos tratando con esos pequeños Sindicatos.</Content>
+          <Content>Küçük Sendikalarla uğraşarak ellerimi kirletmek yerine, Distorsiyon hakkındaki bilgileri doğrudan merkezden toplamak harika.</Content>
         </Dialog>
         <Dialog ID="51" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter24</VoiceFile>
-          <Content>Ninguno de nosotros debería pudrirse en la Sección 6 por el resto de nuestras vidas, ¿no estás de acuerdo?</Content>
+          <Content>İkimiz de hayatımızın geri kalanını Bölüm 6'da çürütmemeliyiz, değil mi?</Content>
         </Dialog>
         <Dialog ID="52" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora19</VoiceFile>
-          <Content>Sí...</Content>
+          <Content>Evet...</Content>
         </Dialog>
         <Dialog ID="53" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter25</VoiceFile>
-          <Content>Podemos vengar a tus colegas, conseguir una pista al Fenómeno de la Distorsión y apuntar por una posición más alta, todo al mismo tiempo. ¿No es realmente fascinante?</Content>
+          <Content>Meslektaşlarının intikamını alabiliriz, Distorsiyon Fenomeni hakkında bir ipucu yakalayabiliriz ve aynı anda daha yüksek bir pozisyona göz dikebiliriz. Gerçekten büyüleyici, değil mi?</Content>
         </Dialog>
         <Dialog ID="54" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora20</VoiceFile>
-          <Content>... Todo parece caer en su lugar demasiado convenientemente.</Content>
+          <Content>... Her şey çok uygun bir şekilde yerine oturuyor gibi görünüyor.</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela5</VoiceFile>
-          <Content>Saludos, queridos invitados. Soy la d—</Content>
+          <Content>Selamlar, sevgili misafirler. Ben D—</Content>
         </Dialog>
         <Dialog ID="56" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter26</VoiceFile>
-          <Content>Debes ser Angela. Directora y bibliotecaria de esta Biblioteca, ¿verdad?</Content>
+          <Content>Sen Angela olmalısın. Bu Kütüphane'nin Direktörü ve kütüphanecisi, değil mi?</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela6</VoiceFile>
-          <Content>Correcto, es justo como dices.</Content>
+          <Content>Doğru, tam da söylediğin gibi.</Content>
         </Dialog>
         <Dialog ID="58" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter27</VoiceFile>
-          <Content>He visto reportes sobre ti, ¿es cierto que eres una máquina, no una humana?</Content>
+          <Content>Senin hakkındaki raporları gördüm, bir makine olduğun doğru mu, bir insan değil?</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -1599,25 +1599,25 @@
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter28</VoiceFile>
-          <Content>Quedarte callada no lo esconderá, chica. Una máquina debe comportarse como una máquina.</Content>
+          <Content>Susmak bunu gizlemeyecek, kızım. Bir makine, bir makine gibi davranmalıdır.</Content>
         </Dialog>
         <Dialog ID="61" Model="월터">
           <Teller>Walter</Teller>
           <Title>Director de Zwei S. Sección 6</Title>
           <VoiceFile>ch3_Zwei_ep3_walter29</VoiceFile>
-          <Content>Has llamado bastante la atención con tu pequeña Biblioteca. Es bastante problemático tener a seres que no son humanos como tú haciendo un escándalo tan grande, ¿sabes?</Content>
+          <Content>Küçük Kütüphane'nle epey dikkat çektin. Senin gibi insan olmayan varlıkların bu kadar büyük bir yaygara çıkarması oldukça sorunlu, biliyor musun?</Content>
         </Dialog>
         <Dialog ID="62" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora21</VoiceFile>
-          <Content>Señor, no pienso que debamos provocarla más...</Content>
+          <Content>Efendim, bence onu daha fazla kışkırtmamalıyız...</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela8</VoiceFile>
-          <Content>Que encuentres tu libro en este lugar.</Content>
+          <Content>Kitabınızı bu yerde bulmanız dileğiyle.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -1629,127 +1629,127 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela9</VoiceFile>
-          <Content>¿Qué quiere decir con “comportarse como una máquina”?</Content>
+          <Content>“Bir makine gibi davranmak” derken ne demek istiyor?</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland12</VoiceFile>
-          <Content>Oh, no ese tema de nuevo...</Content>
+          <Content>Ah, yine o konu değil...</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela10</VoiceFile>
-          <Content>Alguien que conocía amaba decir esa frase.</Content>
+          <Content>Tanıdığım biri bu ifadeyi çok severdi.</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland13</VoiceFile>
-          <Content>Como te dije antes, las máquinas o sapientes con emociones están prohibidas. Incluso si una fuera creada, la Cabeza ha establecido las implicaciones éticas y todo eso.</Content>
+          <Content>Daha önce de söylediğim gibi, duyguları olan makineler veya bilinçli varlıklar yasaktır. Bir tane yaratılsa bile, Kafa etik çıkarımları ve her şeyi belirlemiştir.</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland14</VoiceFile>
-          <Content>Eso significa que han establecido una respuesta sólida para la gran pregunta “¿Cómo es una máquina con emociones diferente de un humano?”.</Content>
+          <Content>Bu, "Duyguları olan bir makine bir insandan ne kadar farklıdır?" şeklindeki büyük soruya sağlam bir cevap belirledikleri anlamına geliyor.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland15</VoiceFile>
-          <Content>Su respuesta es: “Incluso si una máquina tiene emociones e inteligencia y es prácticamente idéntica a un humano en todos los aspectos, sigue siendo una máquina por nacimiento. Las máquinas siempre deben estar debajo de los humanos...”</Content>
+          <Content>Cevapları şudur: "Bir makinenin duyguları ve zekası olsa ve her açıdan bir insana pratik olarak tamamen benzese bile, doğası gereği hala bir makinedir. Makineler her zaman insanların altında olmalıdır..."</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland16</VoiceFile>
-          <Content>“... Por lo tanto, está prohibido crear máquinas sapientes, ya que pueden perturbar el juicio adecuado de los valores sociales. Además, todas las máquinas sapientes serán sujetas a su eliminación sin importar su propietario.”</Content>
+          <Content>“... Bu nedenle, bilinçli makinelerin yaratılması yasaktır, çünkü sosyal değerlerin doğru yargılanmasını bozabilirler. Ayrıca, tüm bilinçli makineler, sahipleri kim olursa olsun ortadan kaldırılmaya tabi olacaktır.”</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland17</VoiceFile>
-          <Content>En resumen, “Las máquinas son máquinas y los humanos son humanos. Las máquinas existen solamente para servir a los humanos.” Eso es lo que dicen.</Content>
+          <Content>Kısacası, “Makineler makinedir ve insanlar insandır. Makineler sadece insanlara hizmet etmek için var olur.” dedikleri şey bu.</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland18</VoiceFile>
-          <Content>Esa es la mentalidad que la gente de la Ciudad ha decidido tener.</Content>
+          <Content>Şehir halkının sahip olmaya karar verdiği zihniyet bu.</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela11</VoiceFile>
-          <Content>¿Qué pasa con los cerebros humanos metidos en un montón de chatarra metálica?</Content>
+          <Content>Peki ya bir sürü metal hurdasının içine konulmuş insan beyinleri?</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland19</VoiceFile>
-          <Content>Seguirían contando técnicamente como humanos. Algunos podrían considerarlos “profanos” y otros podrían mirarlos por encima, pero sus cerebros son naturales.</Content>
+          <Content>Teknik olarak hala insan sayılırlar. Bazıları onları "kutsal olmayan" olarak görebilir ve diğerleri onlara tepeden bakabilir, ama beyinleri doğal.</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland20</VoiceFile>
-          <Content>¿Entiendes lo que quiero decir?</Content>
+          <Content>Ne demek istediğimi anlıyor musun?</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela12</VoiceFile>
-          <Content>¿Qué pasa con una copia electrónica de un cerebro humano?</Content>
+          <Content>Peki ya bir insan beyninin elektronik kopyası?</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland21</VoiceFile>
-          <Content>Eso... sería una máquina. Ya que no ha “nacido” humano.</Content>
+          <Content>O... bir makine olur. Çünkü insan olarak "doğmamıştır."</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland22</VoiceFile>
-          <Content>Siendo sincero, tampoco entiendo estos estándares.</Content>
+          <Content>Dürüst olmak gerekirse, ben de bu standartları anlamıyorum.</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland23</VoiceFile>
-          <Content>Supongo que el nacimiento es lo que más importa.</Content>
+          <Content>Sanırım en önemli şey doğum.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland24</VoiceFile>
-          <Content>Quizás en una reacción defensiva nacida de la urgencia de “preservar” la humanidad como una especie.</Content>
+          <Content>Belki de insanlığı bir tür olarak "koruma" aciliyetinden doğan savunmacı bir tepki.</Content>
         </Dialog>
         <Dialog ID="17" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela13</VoiceFile>
-          <Content>... Eso es injusto.</Content>
+          <Content>... Bu haksızlık.</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland25</VoiceFile>
-          <Content>Nada es nunca justo en este mundo.</Content>
+          <Content>Bu dünyada hiçbir şey asla adil değildir.</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela14</VoiceFile>
-          <Content>Tienes razón, parece que todos viven con un poco de injusticia que deben soportar.</Content>
+          <Content>Haklısın, herkes katlanması gereken küçük bir haksızlıkla yaşıyor gibi görünüyor.</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland26</VoiceFile>
-          <Content>Ahora si que hablas como una habitante de la Ciudad.</Content>
+          <Content>Şimdi tam bir Şehir sakini gibi konuşuyorsun.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -1764,259 +1764,259 @@
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi1</VoiceFile>
-          <Content>¡Bastardos! ¡Como! ¡Tú!</Content>
+          <Content>Piçler! Sizin! Gibiler!</Content>
         </Dialog>
         <Dialog ID="1" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi2</VoiceFile>
-          <Content>¡Necesitan! ¡Una! ¡Paliza!</Content>
+          <Content>İyi bir! Dayak! Yemeye! Muhtaç!</Content>
         </Dialog>
         <Dialog ID="2" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi3</VoiceFile>
-          <Content>¡Mételo! ¡En! ¡Ese! ¡Pequeño! ¡Cráneo!</Content>
+          <Content>Bunu! O! Küçük! Kafanıza! Sokun!</Content>
         </Dialog>
         <Dialog ID="3" Model="디노">
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_dino1</VoiceFile>
-          <Content>Es suficiente, Gyeong-mi. Golpearlos hasta la muerte no nos hará ningún bien.</Content>
+          <Content>Yeter, Gyeong-mi. Onları ölesiye dövmek bize bir fayda sağlamaz.</Content>
         </Dialog>
         <Dialog ID="4" Model="디노">
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_dino2</VoiceFile>
-          <Content>El Distrito 22 puede ser nuestro territorio y estos tontos que estás pulverizando pueden ser de la Sección 6 de Zwei, pero estamos hablando de una Asociación...</Content>
+          <Content>22. Bölge bizim bölgemiz olabilir ve bu ezdiğin aptallar Zwei 6. Bölüm'den olabilir, ama bir Birlikten bahsediyoruz...</Content>
         </Dialog>
         <Dialog ID="5" Model="디노">
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_dino3</VoiceFile>
-          <Content>Nos meteremos en incluso mayores problemas si los matas a todos.</Content>
+          <Content>Hepsini öldürürsen daha da büyük bir belaya gireriz.</Content>
         </Dialog>
         <Dialog ID="6" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi4</VoiceFile>
-          <Content>¡Walter!</Content>
+          <Content>Walter!</Content>
         </Dialog>
         <Dialog ID="7" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi5</VoiceFile>
-          <Content>¡Si! ¡Solo! ¡Ese! ¡Bastardo!</Content>
+          <Content>Sadece! O! Piç!</Content>
         </Dialog>
         <Dialog ID="8" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi6</VoiceFile>
-          <Content>¡Mantuviera! ¡Su! ¡Promesa! ¡Nosotros! ¡No nos hubiéramos! ¡Metido en este lío!.</Content>
+          <Content>Sözünü! Tutsaydı! Biz! Bu karmaşaya! Girmeyecektik!.</Content>
         </Dialog>
         <Dialog ID="9" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi7</VoiceFile>
-          <Content>¡Necesitábamos! ¡El! ¡Plano! ¡Del! ¡Nido! ¡De L Corp!</Content>
+          <Content>L Corp. Yuvasının! Planına! İhtiyacımız! Vardı!</Content>
         </Dialog>
         <Dialog ID="10" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi8</VoiceFile>
-          <Content>¡Los Zwei!</Content>
+          <Content>Zwei'nin!</Content>
         </Dialog>
         <Dialog ID="11" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi9</VoiceFile>
-          <Content>¡Lo tenían!</Content>
+          <Content>Elinde! Vardı!</Content>
         </Dialog>
         <Dialog ID="12" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi10</VoiceFile>
-          <Content>¡Deberíamos! ¡Enseñarles!</Content>
+          <Content>Bu! Piçlere!</Content>
         </Dialog>
         <Dialog ID="13" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi11</VoiceFile>
-          <Content>¡A estos! ¡Hijos de puta! ¡Una lección!</Content>
+          <Content>Bir! Ders! Vermeliyiz!</Content>
         </Dialog>
         <Dialog ID="14" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi12</VoiceFile>
-          <Content>De lo importante que es mantener tus promesas.</Content>
+          <Content>Sözünü tutmanın ne kadar önemli olduğu hakkında.</Content>
         </Dialog>
         <Dialog ID="15" Model="디노">
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_dino4</VoiceFile>
-          <Content>La noche caerá pronto. Los Sweeper podrían venir por nosotros en cualquier momento.</Content>
+          <Content>Gece yakında çökecek. Süpürücüler her an peşimize düşebilir.</Content>
         </Dialog>
         <Dialog ID="16" Model="디노">
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_dino5</VoiceFile>
-          <Content>Y el Pulgar ni siquiera nos contacta.</Content>
+          <Content>Ve Başparmak bize ulaşmıyor bile.</Content>
         </Dialog>
         <Dialog ID="17" Model="줄루">
           <Teller>Zulu</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_zulu1</VoiceFile>
-          <Content>Derramamos sangre consiguiendo información de la Distorsión para ese bastardo de Walter, ¿y así es como nos paga?</Content>
+          <Content>O piç Walter için Distorsiyon bilgisini alırken kan döktük, karşılığı bu mu oldu?</Content>
         </Dialog>
         <Dialog ID="18" Model="디노">
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_dino6</VoiceFile>
-          <Content>Esos fanáticos de la Iglesia de los Engranajes acabaron con la mitad de nuestro Sindicato.</Content>
+          <Content>O Dişli Çarklar Kilisesi fanatikleri Sendikamızın yarısını bitirdi.</Content>
         </Dialog>
         <Dialog ID="19" Model="줄루">
           <Teller>Zulu</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_zulu2</VoiceFile>
-          <Content>Su líder era una verdadera locura...</Content>
+          <Content>Liderleri tam bir çılgınlıktı...</Content>
         </Dialog>
         <Dialog ID="20" Model="디노">
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_dino7</VoiceFile>
-          <Content>Trabajamos un montón para asegurar los bienes de la Iglesia y para qué...</Content>
+          <Content>Kilise'nin mallarını güvence altına almak için çok çalıştık, ne uğruna...</Content>
         </Dialog>
         <Dialog ID="21" Model="디노">
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_dino8</VoiceFile>
-          <Content>Si no podemos conseguir los planos del Nido de L Corp. para el Pulgar...</Content>
+          <Content>Eğer Başparmak için L Corp. Yuvası'nın planlarını alamazsak...</Content>
         </Dialog>
         <Dialog ID="22" Model="줄루">
           <Teller>Zulu</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_zulu3</VoiceFile>
-          <Content>Todo lo que nos queda es ser purgados por el Pulgar por fallar en nuestro trabajo.</Content>
+          <Content>Geriye kalan tek şey, işimizde başarısız olduğumuz için Başparmak tarafından tasfiye edilmek.</Content>
         </Dialog>
         <Dialog ID="23" Model="디노">
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_dino9</VoiceFile>
-          <Content>No debimos haber hecho un trato con una Asociación en primer lugar.</Content>
+          <Content>En başta bir Birlikle anlaşma yapmamalıydık.</Content>
         </Dialog>
         <Dialog ID="24" Model="줄루">
           <Teller>Zulu</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_zulu4</VoiceFile>
-          <Content>Al menos Walter era alguien sensato. Quizás algo le sucedió.</Content>
+          <Content>En azından Walter mantıklı biriydi. Belki başına bir şey geldi.</Content>
         </Dialog>
         <Dialog ID="25" Model="줄루">
           <Teller>Zulu</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_zulu5</VoiceFile>
-          <Content>Podría ser un viejo, pero sigue siendo el director de la Sección 6 de Zwei. Además, él suele dejarle el trabajo de campo a sus hombres. No tiene sentido que muriera de la nada.</Content>
+          <Content>Yaşlı olabilir, ama hala Zwei 6. Bölüm'ün direktörü. Ayrıca, genellikle saha işini adamlarına bırakır. Durup dururken ölmesi mantıklı değil.</Content>
         </Dialog>
         <Dialog ID="26" Model="디노">
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_dino10</VoiceFile>
-          <Content>Todo puede pasar.</Content>
+          <Content>Her şey olabilir.</Content>
         </Dialog>
         <Dialog ID="27" Model="줄루">
           <Teller>Zulu</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_zulu6</VoiceFile>
-          <Content>Mierda, de verdad los mataste a todos.</Content>
+          <Content>Kahretsin, gerçekten hepsini öldürdün.</Content>
         </Dialog>
         <Dialog ID="28" Model="디노">
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_dino11</VoiceFile>
-          <Content>Esa es una opción más para nosotros.</Content>
+          <Content>Bu bizim için bir seçenek daha.</Content>
         </Dialog>
         <Dialog ID="29" Model="디노">
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_dino12</VoiceFile>
-          <Content>Lo has hecho de nuevo... Ir en una ira ciega y romper sus huesos hasta dejarlos irrecononibles.</Content>
+          <Content>Yine yaptın... Gözü kapalı bir öfkeye kapılıp kemiklerini tanınmayacak hale getirdin.</Content>
         </Dialog>
         <Dialog ID="30" Model="줄루">
           <Teller>Zulu</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_zulu7</VoiceFile>
-          <Content>¡Gyeong-mi! Incluso si eran tipos insignificantes de la Sección 6, matar a demasiados hará que la Sección 2 o 3 nos de caza.</Content>
+          <Content>Gyeong-mi! Önemsiz 6. Bölüm tipleri olsalar bile, çok fazla öldürmek 2. veya 3. Bölüm'ün bizi avlamasına neden olur.</Content>
         </Dialog>
         <Dialog ID="31" Model="디노">
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_dino13</VoiceFile>
-          <Content>Los Zwei podrían enviar una armada de Fixers por nosotros.</Content>
+          <Content>Zwei üzerimize bir Fixer ordusu gönderebilir.</Content>
         </Dialog>
         <Dialog ID="32" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi13</VoiceFile>
-          <Content>... Estos hijos de perra... necesitan entender el peso de una promesa. </Content>
+          <Content>... Bu itler... bir sözün ağırlığını anlamak zorundalar.</Content>
         </Dialog>
         <Dialog ID="33" Model="디노">
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_dino14</VoiceFile>
-          <Content>Espero que tengas un plan de respaldo para cuando Zwei venga a “agradecernos” por la lección.</Content>
+          <Content>Umarım Zwei gelip bize "teşekkür ettiğinde" bir yedek planın vardır.</Content>
         </Dialog>
         <Dialog ID="34" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi14</VoiceFile>
-          <Content>Solo mira esto.</Content>
+          <Content>Şuna bir bak.</Content>
         </Dialog>
         <Dialog ID="35" Model="디노">
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_dino15</VoiceFile>
-          <Content>¿Un envoltorio?</Content>
+          <Content>Bir zarf mı?</Content>
         </Dialog>
         <Dialog ID="36" Model="줄루">
           <Teller>Zulu</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_zulu8</VoiceFile>
-          <Content>La rumoreada Invitación a esa Biblioteca.</Content>
+          <Content>O Kütüphane'ye dair söylentisi olan Davetiye.</Content>
         </Dialog>
         <Dialog ID="37" Model="디노">
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_dino16</VoiceFile>
-          <Content>Espera, entre los “libros del día” tienen listado... ¿El Libro de Walter? ¿Así que murió en la Biblioteca? Tenías un plan después de todo.</Content>
+          <Content>Bekle, "Günün Kitapları" arasında... Walter'ın Kitabı mı listelenmiş? Yani Kütüphane'de mi öldü? Demek ki bir planın varmış.</Content>
         </Dialog>
         <Dialog ID="38" Model="줄루">
           <Teller>Zulu</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_zulu9</VoiceFile>
-          <Content>Qué... ¡Gyeong-mi!</Content>
+          <Content>Ne... Gyeong-mi!</Content>
         </Dialog>
         <Dialog ID="39" Model="줄루">
           <Teller>Zulu</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_zulu10</VoiceFile>
-          <Content>¿Así que ya sabías que Walter murió en la Biblioteca y aun así pulverizaste a la Sección 6?</Content>
+          <Content>Yani Walter'ın Kütüphane'de öldüğünü zaten biliyor muydun ve yine de 6. Bölüm'ü paramparça mı ettin?</Content>
         </Dialog>
         <Dialog ID="40" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi15</VoiceFile>
-          <Content>¡Es!</Content>
+          <Content>Bu!</Content>
         </Dialog>
         <Dialog ID="41" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi16</VoiceFile>
-          <Content>¡Sobre!</Content>
+          <Content>Lanet! Bir!</Content>
         </Dialog>
         <Dialog ID="42" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi17</VoiceFile>
-          <Content>¡Mandar! ¡Un maldito! ¡Mensaje!</Content>
+          <Content>Mesaj! Göndermekle! İlgili!</Content>
         </Dialog>
       </Place>
       <Place>
@@ -2025,49 +2025,49 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland1</VoiceFile>
-          <Content>Los Sindicatos tienen la tendencia de matar más de lo necesario, no como los Fixers. Suelen causar problemas solo porque se sienten así.</Content>
+          <Content>Sendikalar, Fixer'lar gibi değil, gerekenden fazlasını öldürme eğilimindedir. Genellikle canları öyle istediği için sorun çıkarırlar.</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland2</VoiceFile>
-          <Content>De todos modos, ¿qué estaban intentando hacer, involucrando a los Sweepers y al Pulgar?</Content>
+          <Content>Her neyse, Süpürücüler ve Başparmak'ı olaya dahil ederek ne yapmaya çalışıyorlardı?</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Dog_ep1_angela1</VoiceFile>
-          <Content>Conozco a los Sweepers.</Content>
+          <Content>Süpürücüleri biliyorum.</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland3</VoiceFile>
-          <Content>¿Lo haces? Bueno, son bastante infames.</Content>
+          <Content>Biliyor musun? Evet, oldukça kötü şöhretlidirler.</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Dog_ep1_angela2</VoiceFile>
-          <Content>Los vi cortar humanos en piezas y usarlos como combustible. ¿También son así en la vida real?</Content>
+          <Content>İnsanları parçalara ayırıp yakıt olarak kullandıklarını görmüştüm. Gerçek hayatta da böyleler mi?</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland4</VoiceFile>
-          <Content>Sep. Un Sweeper es bastante duro, pero lo que más da miedo es su poder como organización.</Content>
+          <Content>Evet. Bir Süpürücü oldukça serttir, ama en korkutucu olanı örgüt olarak güçleridir.</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland5</VoiceFile>
-          <Content>Salen de sus escondites todas las noches y limpian los Barrios Bajos.</Content>
+          <Content>Her gece saklandıkları yerlerden çıkıp Alt Bölgeleri temizlerler.</Content>
         </Dialog>
         <Dialog ID="50" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland6</VoiceFile>
-          <Content>No podemos ni adivinar cuantos son. Sin importar a cuantos derribamos, más se muestran la siguiente noche.</Content>
+          <Content>Kaç tane olduklarını tahmin bile edemeyiz. Kaç tanesini alt edersek edelim, ertesi gece daha fazlası ortaya çıkar.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -2076,55 +2076,55 @@
           <Teller>Dino</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_dino17</VoiceFile>
-          <Content>¿Piensas que podremos volver a tiempo? ¿No es un poco justo?</Content>
+          <Content>Zamanında geri dönebileceğimizi düşünüyor musun? Biraz acele değil mi?</Content>
         </Dialog>
         <Dialog ID="52" Model="줄루">
           <Teller>Zulu</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_zulu11</VoiceFile>
-          <Content>Lo es, probablemente volveremos justo a tiempo.</Content>
+          <Content>Evet, muhtemelen tam zamanında döneceğiz.</Content>
         </Dialog>
         <Dialog ID="53" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Dog_ep1_angela3</VoiceFile>
-          <Content>Saludos, queridos invitados. Soy Angela, directora y bibliotecaria de esta Biblioteca.</Content>
+          <Content>Selamlar, sevgili misafirler. Ben Angela, bu Kütüphane'nin direktörü ve kütüphanecisiyim.</Content>
         </Dialog>
         <Dialog ID="54" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi18</VoiceFile>
-          <Content>¡Cierra la boca!</Content>
+          <Content>Kapa çeneni!</Content>
         </Dialog>
         <Dialog ID="55" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi19</VoiceFile>
-          <Content>Solo déjanos entrar. Estamos en un apuro.</Content>
+          <Content>Bizi içeri al. Acelemiz var.</Content>
         </Dialog>
         <Dialog ID="56" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Dog_ep1_angela4</VoiceFile>
-          <Content>Eres bastante impaciente, ya veo.</Content>
+          <Content>Oldukça sabırsızsın, anlıyorum.</Content>
         </Dialog>
         <Dialog ID="57" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi20</VoiceFile>
-          <Content>¡Dije que te callaras!</Content>
+          <Content>Sana çeneni kapa dedim!</Content>
         </Dialog>
         <Dialog ID="58" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Perro Callejero</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi21</VoiceFile>
-          <Content>Y déjanos entrar. Ahora.</Content>
+          <Content>Ve bizi içeri al. Şimdi.</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Dog_ep1_angela5</VoiceFile>
-          <Content>Que encuentres tu libro en este lugar.</Content>
+          <Content>Kitabınızı bu yerde bulmanız dileğiyle.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -2136,61 +2136,61 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland7</VoiceFile>
-          <Content>¿No es molesto?</Content>
+          <Content>Sinir bozucu değil mi?</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Dog_ep1_angela6</VoiceFile>
-          <Content>¿Escucharte hablar?</Content>
+          <Content>Senin konuşmanı mı?</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland8</VoiceFile>
-          <Content>Quiero decir el tratar con las cosas que los invitados dicen. </Content>
+          <Content>Misafirlerin söyledikleriyle uğraşmayı kastediyorum.</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland9</VoiceFile>
-          <Content>Un montón de ellos no dudan en soltarte palabras duras. Estoy sorprendido de que puedas soportarlo todo.</Content>
+          <Content>Birçoğu sana sert sözler söylemekten çekinmiyor. Hepsine dayanabilmene şaşırdım.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Dog_ep1_angela7</VoiceFile>
-          <Content>Son nuestros preciosos invitados, así que es justo que los tratemos como tal.</Content>
+          <Content>Onlar bizim değerli misafirlerimiz, bu yüzden onlara öyle davranmamız adil.</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Dog_ep1_angela8</VoiceFile>
-          <Content>Además, estoy acostumbrada a mantener a los otros complacidos en una conversación.</Content>
+          <Content>Ayrıca, sohbet sırasında diğerlerini memnun etmeye alışkınım.</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland10</VoiceFile>
-          <Content>Envidio tu profesionalismo.</Content>
+          <Content>Profesyonelliğine imreniyorum.</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland11</VoiceFile>
-          <Content>Quizás algún día deberías darle una lectura de hospitalidad a todos los propietarios de restaurantes en los Barrios Bajos. Podrían aprender una o dos cosas de ti.</Content>
+          <Content>Belki bir gün Alt Bölgelerdeki tüm restoran sahiplerine bir misafirperverlik dersi vermen gerekir. Senden bir iki şey öğrenebilirler.</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Dog_ep1_roland12</VoiceFile>
-          <Content>... Pero aun así, probablemente sería mucho más fácil para ti el ser más flexible al recibir a los invitados, en lugar de fijarte con la misma actitud educada.</Content>
+          <Content>... Ama yine de, misafirleri karşılarken aynı nazik tavırda kalmak yerine daha esnek olmak senin için çok daha kolay olurdu.</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Dog_ep1_angela9</VoiceFile>
-          <Content>Tomaré nota de eso.</Content>
+          <Content>Bunu not alacağım.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -2205,55 +2205,55 @@
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain1</VoiceFile>
-          <Content>Hermana mayor, ¿has visto el mensaje de T Corp, verdad?</Content>
+          <Content>Abla, T Corp'un mesajını gördün, değil mi?</Content>
         </Dialog>
         <Dialog ID="1" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga1</VoiceFile>
-          <Content>... ¿Qué? Cuando recibimos eso...</Content>
+          <Content>... Ne? Onu aldığımızda...</Content>
         </Dialog>
         <Dialog ID="2" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga2</VoiceFile>
-          <Content>Oh, mierda, voy a vom...</Content>
+          <Content>Ah, kahretsin, kusacağım...</Content>
         </Dialog>
         <Dialog ID="3" Model="미카">
           <Teller>Mika</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_mika1</VoiceFile>
-          <Content>Tuvo una gran fiesta de bebidas con sus amigos de la misma esquina de los Barrios Bajos la última noche.</Content>
+          <Content>Dün gece Alt Bölgeler'deki aynı köşeden arkadaşlarıyla büyük bir içki partisi verdi.</Content>
         </Dialog>
         <Dialog ID="4" Model="미카">
           <Teller>Mika</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_mika2</VoiceFile>
-          <Content>Según lo que escuché, ocuparon todo el pub y desperdiciaron toda la noche.</Content>
+          <Content>Duyduğuma göre, tüm pub'ı işgal etmişler ve bütün geceyi heba etmişler.</Content>
         </Dialog>
         <Dialog ID="5" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain2</VoiceFile>
-          <Content>Uf... ¿Cuánto bebiste esta vez?</Content>
+          <Content>Uf... Bu sefer ne kadar içtin?</Content>
         </Dialog>
         <Dialog ID="6" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga3</VoiceFile>
-          <Content>Oi Rain, mi cabeza sigue resonando con la resaca, así que deja el sermón para más tarde, ¿vale? Quizás en una hora o así.</Content>
+          <Content>Hey Rain, başım hala zonkluyor, o yüzden vaazı sonraya bırak, olur mu? Belki bir saat kadar sonra.</Content>
         </Dialog>
         <Dialog ID="7" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain3</VoiceFile>
-          <Content>¿Y qué es esto? Este recibo dice...</Content>
+          <Content>Ve bu ne? Bu makbuz diyor ki...</Content>
         </Dialog>
         <Dialog ID="8" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain4</VoiceFile>
-          <Content>Que usaste los fondos de nuestra Oficina para pagar...</Content>
+          <Content>Ofisimizin fonlarını kullanarak ödeme yapmışsın...</Content>
         </Dialog>
         <Dialog ID="9" Model="NONE">
           <Teller> </Teller>
@@ -2265,67 +2265,67 @@
           <Teller>Anuncio de</Teller>
           <Title>WARP Corp.</Title>
           <VoiceFile>ch3_Molar_ep1_announcement1</VoiceFile>
-          <Content>Gracias por utilizar los servicios de WARP como siempre.</Content>
+          <Content>WARP hizmetlerini her zaman kullandığınız için teşekkür ederiz.</Content>
         </Dialog>
         <Dialog ID="11" Model="안내방송">
           <Teller>Anuncio de</Teller>
           <Title>WARP Corp.</Title>
           <VoiceFile>ch3_Molar_ep1_announcement2</VoiceFile>
-          <Content>El próximo tren partiendo es el tren WARP UW-212. </Content>
+          <Content>Kalkacak bir sonraki tren WARP UW-212 trenidir.</Content>
         </Dialog>
         <Dialog ID="12" Model="안내방송">
           <Teller>Anuncio de</Teller>
           <Title>WARP Corp.</Title>
           <VoiceFile>ch3_Molar_ep1_announcement3</VoiceFile>
-          <Content>Todos los pasajeros deben revisar su pasaje y asegurarse de que están en el vagón correcto para viajar. Y recuerda: Observa. Avísanos. Todos estaremos bien.</Content>
+          <Content>Tüm yolcuların biletlerini kontrol etmeleri ve doğru vagonda olduklarından emin olmaları gerekmektedir. Ve unutmayın: Gözlemleyin. Bizi bilgilendirin. Hepimiz iyi olacağız.</Content>
         </Dialog>
         <Dialog ID="13" Model="미카">
           <Teller>Mika</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_mika3</VoiceFile>
-          <Content>Parece que es nuestro turno.</Content>
+          <Content>Görünüşe göre sıra bizde.</Content>
         </Dialog>
         <Dialog ID="14" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga4</VoiceFile>
-          <Content>Siempre me siento enferma cuando me subo a los trenes WARP.</Content>
+          <Content>WARP trenlerine her bindiğimde midem bulanıyor.</Content>
         </Dialog>
         <Dialog ID="15" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain5</VoiceFile>
-          <Content>Solo no hagas el ridículo como la última vez.</Content>
+          <Content>Sadece geçen seferki gibi kendini rezil etme.</Content>
         </Dialog>
         <Dialog ID="16" Model="미카">
           <Teller>Mika</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_mika4</VoiceFile>
-          <Content>Por cierto, esta solicitud es bastante inesperada. Una de R Corp. de todos los sitios.</Content>
+          <Content>Bu arada, bu talep oldukça beklenmedik. Tüm yerler arasında R Corp'tan gelen biri.</Content>
         </Dialog>
         <Dialog ID="17" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain6</VoiceFile>
-          <Content>¿No es algo demasiado peligroso si R Corp. tuvo que solicitarle a otros hacer el trabajo?</Content>
+          <Content>R Corp'un işi başkalarına yaptırmak zorunda kalması çok tehlikeli bir şey değil mi?</Content>
         </Dialog>
         <Dialog ID="18" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain7</VoiceFile>
-          <Content>Podrían estar usando una Oficina sin nombre como la nuestra para probar las aguas antes de ir por ellos mismos.</Content>
+          <Content>Kendileri gitmeden önce, suları test etmek için bizim gibi isimsiz bir Ofis'i kullanıyor olabilirler.</Content>
         </Dialog>
         <Dialog ID="19" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga5</VoiceFile>
-          <Content>Dime, ¿quién es el cliente de esa solicitud?</Content>
+          <Content>Söyle bakalım, o talebin müşterisi kim?</Content>
         </Dialog>
         <Dialog ID="20" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain8</VoiceFile>
-          <Content>¿La mismísima capitana del Equipo Conejo?</Content>
+          <Content>Bizzat Tavşan Ekibi'nin kaptanı mı?</Content>
         </Dialog>
         <Dialog ID="21" Model="올가">
           <Teller>Olga</Teller>
@@ -2337,115 +2337,115 @@
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga7</VoiceFile>
-          <Content>Niños como ustedes pueden pensar que soy solo una borracha, pero cada una de mis acciones es calculada, ¿lo ven?</Content>
+          <Content>Sizin gibi çocuklar benim sadece bir sarhoş olduğumu düşünebilir, ama her hareketim hesaplanmış, görüyor musunuz?</Content>
         </Dialog>
         <Dialog ID="23" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain9</VoiceFile>
-          <Content>Ahí va de nuevo.</Content>
+          <Content>Yine başladı.</Content>
         </Dialog>
         <Dialog ID="24" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga8</VoiceFile>
-          <Content>¡Esa Myo es una vieja amiga mía, bebí con ella ayer!</Content>
+          <Content>O Myo benim eski bir arkadaşım, dün onunla içki içtim!</Content>
         </Dialog>
         <Dialog ID="25" Model="미카">
           <Teller>Mika</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_mika6</VoiceFile>
-          <Content>Quieres decir...</Content>
+          <Content>Demek istediğin...</Content>
         </Dialog>
         <Dialog ID="26" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga9</VoiceFile>
-          <Content>Ella me dijo que consiguió un trabajo fácil para mí. Dijo que todo lo que tenía que hacer era darle una pequeña parte de la recompensa.</Content>
+          <Content>Bana kolay bir iş ayarladığını söyledi. Yapmam gereken tek şeyin ödülün küçük bir kısmını ona vermek olduğunu söyledi.</Content>
         </Dialog>
         <Dialog ID="27" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain10</VoiceFile>
-          <Content>Eso responde al porqué estabas tan orgullosa sobre ir a beber.</Content>
+          <Content>İşte bu, neden içmeye gittiğin konusunda bu kadar gururlu olduğunu açıklıyor.</Content>
         </Dialog>
-        <Dialog ID="28" Model="올가">
+        <Dialog ID="28" Model="올गा">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga10</VoiceFile>
-          <Content>Estaba de muy buen humor, así que le deje comer como un rey y pagué todo con la tarjeta de la Oficina~</Content>
+          <Content>Keyfim çok yerindeydi, o yüzden kral gibi yemesine izin verdim ve hepsini Ofis kartıyla ödedim~</Content>
         </Dialog>
         <Dialog ID="29" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain11</VoiceFile>
-          <Content>¿Myo es una persona confiable?</Content>
+          <Content>Myo güvenilir biri mi?</Content>
         </Dialog>
         <Dialog ID="30" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga11</VoiceFile>
-          <Content>Ella actúa como si fuera una cabeza hueca, pero es bastante amable por dentro cuando llegas a conocerla.</Content>
+          <Content>O, sanki içi boş biriymiş gibi davranır, ama onu tanıdıkça oldukça nazik olduğunu görürsün.</Content>
         </Dialog>
         <Dialog ID="31" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain12</VoiceFile>
-          <Content>Te juro que te maldeciré el resto de mi vida si termina siendo algo raro sin sentido de nuevo.</Content>
+          <Content>Eğer yine anlamsız, tuhaf bir şey olursa, hayatımın geri kalanında sana lanet edeceğim, yemin ederim.</Content>
         </Dialog>
         <Dialog ID="32" Model="안내방송">
           <Teller>Anuncio de</Teller>
           <Title>WARP Corp.</Title>
           <VoiceFile>ch3_Molar_ep1_announcement4</VoiceFile>
-          <Content>Todos los pasajeros, por favor suban a bordo del tren WARP UW-212.</Content>
+          <Content>Tüm yolcular, lütfen WARP UW-212 trenine binin.</Content>
         </Dialog>
         <Dialog ID="33" Model="메어리">
           <Teller>Merry</Teller>
           <Title>Pasajera</Title>
           <VoiceFile>ch3_Molar_ep1_merry1</VoiceFile>
-          <Content>Es genial el tener vacaciones después de tanto tiempo.</Content>
+          <Content>Bu kadar zamandan sonra tatile çıkmak harika.</Content>
         </Dialog>
         <Dialog ID="34" Model="토미">
           <Teller>Tommy</Teller>
           <Title>Pasajero</Title>
           <VoiceFile>ch3_Molar_ep1_tommy1</VoiceFile>
-          <Content>Esta es nuestra primera vez subiendo en un WARP. ¿Todo estará bien?</Content>
+          <Content>WARP'a ilk kez biniyoruz. Her şey yolunda gidecek mi?</Content>
         </Dialog>
         <Dialog ID="35" Model="메어리">
           <Teller>Merry</Teller>
           <Title>Pasajera</Title>
           <VoiceFile>ch3_Molar_ep1_merry2</VoiceFile>
-          <Content>Te preocupas demasiado, cariño. Hay demasiadas personas que usan los WARP todos los días.</Content>
+          <Content>Çok fazla endişeleniyorsun, canım. Her gün WARP'ı kullanan o kadar çok insan var ki.</Content>
         </Dialog>
         <Dialog ID="36" Model="토미">
           <Teller>Tommy</Teller>
           <Title>Pasajero</Title>
           <VoiceFile>ch3_Molar_ep1_tommy2</VoiceFile>
-          <Content>He escuchado que hubo bastantes accidentes cuando comenzaron a funcionar.</Content>
+          <Content>İlk çalışmaya başladıklarında epey kaza olduğunu duymuştum.</Content>
         </Dialog>
         <Dialog ID="37" Model="메어리">
           <Teller>Merry</Teller>
           <Title>Pasajera</Title>
           <VoiceFile>ch3_Molar_ep1_merry3</VoiceFile>
-          <Content>Puedes mantenerte a mi lado y cerrar tus ojos si estás tan preocupado.</Content>
+          <Content>Çok endişeliysen yanımda kalıp gözlerini kapatabilirsin.</Content>
         </Dialog>
         <Dialog ID="38" Model="토미">
           <Teller>Tommy</Teller>
           <Title>Pasajero</Title>
           <VoiceFile>ch3_Molar_ep1_tommy3</VoiceFile>
-          <Content>Vale. Me pegaré rápido a tu lado y me mantendré firme.</Content>
+          <Content>Tamam. Hemen yanına yapışıp sıkı tutunacağım.</Content>
         </Dialog>
         <Dialog ID="39" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga12</VoiceFile>
-          <Content>... Ocúpate de todo si llego a vomitar en este vagón, Rain.</Content>
+          <Content>... Bu vagonda kusacak olursam her şeyi hallet, Rain.</Content>
         </Dialog>
         <Dialog ID="40" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain13</VoiceFile>
-          <Content>¡Hermana mayor, por favor!</Content>
+          <Content>Abla, lütfen!</Content>
         </Dialog>
       </Place>
       <Place>
@@ -2454,268 +2454,268 @@
           <Teller>Anuncio de</Teller>
           <Title>WARP Corp.</Title>
           <VoiceFile>ch3_Molar_ep1_announcement5</VoiceFile>
-          <Content>Atención a todos los pasajeros. Por favor abrochen sus cinturones.</Content>
+          <Content>Tüm yolcuların dikkatine. Lütfen emniyet kemerlerinizi bağlayın.</Content>
         </Dialog>
         <Dialog ID="42" Model="미카">
           <Teller>Mika</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_mika7</VoiceFile>
-          <Content>Estamos partiendo ahora.</Content>
+          <Content>Şimdi kalkıyoruz.</Content>
         </Dialog>
         <Dialog ID="43" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga13</VoiceFile>
-          <Content>Oi, siempre me he preguntado, ¿cuál es el punto de estos cinturones?</Content>
+          <Content>Hey, hep merak etmişimdir, bu emniyet kemerlerinin ne anlamı var?</Content>
         </Dialog>
         <Dialog ID="44" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain14</VoiceFile>
-          <Content>Cortesía, supongo. Quién sabe, podría ser mejor que nada.</Content>
+          <Content>Nezaket, sanırım. Kim bilir, hiç yoktan iyidir.</Content>
         </Dialog>
         <Dialog ID="45" Model="안내방송">
           <Teller>Anuncio de</Teller>
           <Title>WARP Corp.</Title>
           <VoiceFile>ch3_Molar_ep1_announcement6</VoiceFile>
-          <Content>Iniciaremos con el warp en diez minutos.</Content>
+          <Content>On dakika içinde warp'a başlayacağız.</Content>
         </Dialog>
         <Dialog ID="46" Model="메어리">
           <Teller>Merry</Teller>
           <Title>Pasajera</Title>
           <VoiceFile>ch3_Molar_ep1_merry4</VoiceFile>
-          <Content>Oh, te estás aferrado a mí como un bebé.</Content>
+          <Content>Ah, bana bir bebek gibi sarılıyorsun.</Content>
         </Dialog>
         <Dialog ID="47" Model="토미">
           <Teller>Tommy</Teller>
           <Title>Pasajero</Title>
           <VoiceFile>ch3_Molar_ep1_tommy4</VoiceFile>
-          <Content>Es que uno nunca sabe...</Content>
+          <Content>Yani kim bilir ki...</Content>
         </Dialog>
         <Dialog ID="48" Model="메어리">
           <Teller>Merry</Teller>
           <Title>Pasajera</Title>
           <VoiceFile>ch3_Molar_ep1_merry5</VoiceFile>
-          <Content>¡Estaremos ahí en solo diez segundos después de que el tren parta! Pero eres tan lindo, así que te dejaré ser~</Content>
+          <Content>Tren kalktıktan sonra sadece on saniye içinde orada olacağız! Ama çok tatlısın, o yüzden izin vereceğim~</Content>
         </Dialog>
         <Dialog ID="49" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga14</VoiceFile>
-          <Content>¿Por qué tuvimos que sentarnos atrás de esos tortolitos?</Content>
+          <Content>Neden bu kuşların arkasına oturmak zorunda kaldık?</Content>
         </Dialog>
         <Dialog ID="50" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain15</VoiceFile>
-          <Content>Shh, cállate, nos van a oír.</Content>
+          <Content>Şşt, sessiz ol, bizi duyacaklar.</Content>
         </Dialog>
         <Dialog ID="51" Model="안내방송">
           <Teller>Anuncio de</Teller>
           <Title>WARP Corp.</Title>
           <VoiceFile>ch3_Molar_ep1_announcement7</VoiceFile>
-          <Content>Por favor no abran las puertas mientras el tren esté en warp.</Content>
+          <Content>Lütfen tren warp yaparken kapıları açmayın.</Content>
         </Dialog>
         <Dialog ID="52" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga15</VoiceFile>
-          <Content>Tomaré una siesta. Despiértame cuando lleguemos.</Content>
+          <Content>Biraz kestireceğim. Geldiğimizde beni uyandır.</Content>
         </Dialog>
         <Dialog ID="53" Model="미카">
           <Teller>Mika</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_mika8</VoiceFile>
-          <Content>Tomará menos de diez minutos.</Content>
+          <Content>On dakikadan az sürecek.</Content>
         </Dialog>
         <Dialog ID="54" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga16</VoiceFile>
-          <Content>No importa~</Content>
+          <Content>Farketmez~</Content>
         </Dialog>
         <Dialog ID="55" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain16</VoiceFile>
-          <Content>¡Hermana mayor! ¡Hermana mayor! ¡Despierta!</Content>
+          <Content>Abla! Abla! Uyan!</Content>
         </Dialog>
         <Dialog ID="56" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga17</VoiceFile>
-          <Content>Demonios, ¿qué es esta vez?</Content>
+          <Content>Kahretsin, bu sefer ne oldu?</Content>
         </Dialog>
         <Dialog ID="57" Model="미카">
           <Teller>Mika</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_mika9</VoiceFile>
-          <Content>Algo parece ir mal. Ha pasado una hora desde que partimos, pero el tren aún no llega a su parada.</Content>
+          <Content>Bir şeyler ters gidiyor gibi. Kalkıştan bu yana bir saat geçti ama tren hala durağına varmadı.</Content>
         </Dialog>
         <Dialog ID="58" Model="토미">
           <Teller>Tommy</Teller>
           <Title>Pasajero</Title>
           <VoiceFile>ch3_Molar_ep1_tommy5</VoiceFile>
-          <Content>¿Qué está pasando, Merry...? Dijiste que serían solo diez segundos.</Content>
+          <Content>Ne oluyor, Merry...? Sadece on saniye süreceğini söylemiştin.</Content>
         </Dialog>
         <Dialog ID="59" Model="메어리">
           <Teller>Merry</Teller>
           <Title>Pasajera</Title>
           <VoiceFile>ch3_Molar_ep1_merry6</VoiceFile>
-          <Content>Eso es raro... no debería tomar más que eso...</Content>
+          <Content>Bu tuhaf... bundan daha uzun sürmemeli...</Content>
         </Dialog>
         <Dialog ID="60" Model="NONE">
           <Teller> </Teller>
           <Title> </Title>
-          <Content>- 6 Horas dentro -</Content>
+          <Content>- İçeride 6 Saat -</Content>
         </Dialog>
         <Dialog ID="61" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga18</VoiceFile>
-          <Content>Demonios, ¿tuvimos mala suerte o qué?</Content>
+          <Content>Kahretsin, şanssız mıydık ne?</Content>
         </Dialog>
         <Dialog ID="62" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain17</VoiceFile>
-          <Content>Pero WARP no ha tenido ningún accidente en los últimos diez años.</Content>
+          <Content>Ama WARP'ın son on yıldır hiç kazası olmadı ki.</Content>
         </Dialog>
         <Dialog ID="63" Model="미카">
           <Teller>Mika</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_mika10</VoiceFile>
-          <Content>Podríamos terminar atrapados aquí.</Content>
+          <Content>Burada mahsur kalabiliriz.</Content>
         </Dialog>
         <Dialog ID="64" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga19</VoiceFile>
-          <Content>Vamos a romper esa puerta si algo va mal.</Content>
+          <Content>Bir şeyler ters giderse o kapıyı kıracağız.</Content>
         </Dialog>
         <Dialog ID="65" Model="미카">
           <Teller>Mika</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_mika11</VoiceFile>
-          <Content>¡Estás loca! Las advertencias dicen que seremos succionados por el espacio si intentamos abrir las puertas mientras el tren está en warp.</Content>
+          <Content>Delirdin mi sen! Uyarılar, tren warp yaparken kapıları açmaya çalışırsak uzaya çekileceğimizi söylüyor.</Content>
         </Dialog>
         <Dialog ID="66" Model="NONE">
           <Teller> </Teller>
           <Title> </Title>
-          <Content>- 17 Horas dentro -</Content>
+          <Content>- İçeride 17 Saat -</Content>
         </Dialog>
         <Dialog ID="67" Model="Pasajero 1">
           <Teller>Pasajero 1</Teller>
           <Title>Pasajero</Title>
           <VoiceFile>ch3_Molar_ep1_people1</VoiceFile>
-          <Content>Voy a volverme loco...</Content>
+          <Content>Çıldıracağım...</Content>
         </Dialog>
         <Dialog ID="68" Model="Pasajero 2">
           <Teller>Pasajero 2</Teller>
           <Title>Pasajero</Title>
           <VoiceFile>ch3_Molar_ep1_people2</VoiceFile>
-          <Content>¿Dónde estamos?</Content>
+          <Content>Neredeyiz biz?</Content>
         </Dialog>
         <Dialog ID="69" Model="토미">
           <Teller>Tommy</Teller>
           <Title>Pasajero</Title>
           <VoiceFile>ch3_Molar_ep1_tommy6</VoiceFile>
-          <Content>No puedo sacarme este cinturón...</Content>
+          <Content>Bu kemeri çıkaramıyorum...</Content>
         </Dialog>
         <Dialog ID="70" Model="메어리">
           <Teller>Merry</Teller>
           <Title>Pasajera</Title>
           <VoiceFile>ch3_Molar_ep1_merry7</VoiceFile>
-          <Content>Tommy... Todo estará bien pronto... lo siento, es mi culpa por preguntar sobre tomar un tren WARP...</Content>
+          <Content>Tommy... Yakında her şey yoluna girecek... Üzgünüm, WARP trenine binmeyi sorduğum için benim hatam...</Content>
         </Dialog>
         <Dialog ID="71" Model="미카">
           <Teller>Mika</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_mika12</VoiceFile>
-          <Content>El tren parece seguir estando operativo...</Content>
+          <Content>Tren hala çalışıyor gibi görünüyor...</Content>
         </Dialog>
         <Dialog ID="72" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga20</VoiceFile>
-          <Content>¡Oi! Saca tus herramientas ahora. Vamos a cortar este maldito cinturón.</Content>
+          <Content>Hey! Hemen aletlerini çıkar. Bu lanet kemeri keseceğiz.</Content>
         </Dialog>
         <Dialog ID="73" Model="NONE">
           <Teller> </Teller>
           <Title> </Title>
-          <Content>- 31 Horas dentro -</Content>
+          <Content>- İçeride 31 Saat -</Content>
         </Dialog>
         <Dialog ID="74" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga21</VoiceFile>
-          <Content>¡Maldita sea, me está volviendo loca! Trescientas pobres almas atrapadas aquí, ¿y no hacen una mierda?</Content>
+          <Content>Lanet olsun, çıldıracağım! Üç yüz zavallı ruh burada mahsur kalmış ve hiçbir şey yapmıyorlar mı?</Content>
         </Dialog>
         <Dialog ID="75" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain18</VoiceFile>
-          <Content>La atmósfera se está volviendo tensa. Todos están más sensibles que lo usual.</Content>
+          <Content>Atmosfer gerginleşiyor. Herkes normalden daha hassas.</Content>
         </Dialog>
         <Dialog ID="76" Model="미카">
           <Teller>Mika</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_mika13</VoiceFile>
-          <Content>Lo divertido de todo es que no estoy sintiendo nada de sed o hambre, aunque no hemos comido nada en las últimas 31 horas.</Content>
+          <Content>İşin komik yanı, son 31 saattir hiçbir şey yememiş olmamıza rağmen hiçbir susuzluk veya açlık hissetmiyorum.</Content>
         </Dialog>
         <Dialog ID="77" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga22</VoiceFile>
-          <Content>No puedo dejar ni un arañazo en esta condenada puerta.</Content>
+          <Content>Bu lanet kapıda tek bir çizik bile bırakamıyorum.</Content>
         </Dialog>
         <Dialog ID="78" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain19</VoiceFile>
-          <Content>Supongo que realmente estamos atrapados. No veo ninguna forma de salir. Todo lo que podemos hacer es esperar.</Content>
+          <Content>Sanırım gerçekten mahsur kaldık. Dışarı çıkmanın bir yolunu göremiyorum. Yapabileceğimiz tek şey beklemek.</Content>
         </Dialog>
         <Dialog ID="79" Model="미카">
           <Teller>Mika</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_mika14</VoiceFile>
-          <Content>Parece que los otros también están perdiendo la cabeza.</Content>
+          <Content>Diğerleri de çıldırıyor gibi görünüyor.</Content>
         </Dialog>
         <Dialog ID="80" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga23</VoiceFile>
-          <Content>... Oi, ¿qué tal una apuesta?</Content>
+          <Content>... Hey, bahse ne dersiniz?</Content>
         </Dialog>
         <Dialog ID="81" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain20</VoiceFile>
-          <Content>¿Qué quieres decir con una apuesta?</Content>
+          <Content>Bahis derken neyi kastediyorsun?</Content>
         </Dialog>
         <Dialog ID="82" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga24</VoiceFile>
-          <Content>Estoy diciendo que quizás podemos usar esto.</Content>
+          <Content>Belki şunu kullanabiliriz diyorum.</Content>
         </Dialog>
         <Dialog ID="83" Model="미카">
           <Teller>Mika</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_mika15</VoiceFile>
-          <Content>¿Una Invitación...?</Content>
+          <Content>Bir Davetiye...?</Content>
         </Dialog>
         <Dialog ID="84" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga25</VoiceFile>
-          <Content>Es lo que conseguí de Myo. Nunca pensé que lo usaría ahora.</Content>
+          <Content>Myo'dan aldığım şey bu. Şimdi kullanacağımı hiç düşünmemiştim.</Content>
         </Dialog>
         <Dialog ID="85" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain21</VoiceFile>
-          <Content>Aquí tienes mi bolígrafo. También haría cualquier cosa para salir de este tren.</Content>
+          <Content>Al sana kalemim. Ben de bu trenden çıkmak için her şeyi yaparım.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -2724,115 +2724,115 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland1</VoiceFile>
-          <Content>¿Un mal funcionamiento con WARP? Este podría ser un gran golpe a la reputación de W Corp. si esta información llega a hacerse pública.</Content>
+          <Content>WARP'ta bir arıza mı? Bu bilgi kamuoyuna yayılırsa W Corp'un itibarı için büyük bir darbe olabilir.</Content>
         </Dialog>
         <Dialog ID="87" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela1</VoiceFile>
-          <Content>Se supone que llegarían en 10 segundos, ¿verdad?</Content>
+          <Content>10 saniyede varmaları gerekiyordu, değil mi?</Content>
         </Dialog>
         <Dialog ID="88" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland2</VoiceFile>
-          <Content>Sep. Los trenes WARP, operando con la Singularidad de W Corp. Pueden llegar a cualquier estación en solo diez segundos sin importar lo lejos que estén. Un retraso de 30 segundos ya sería un problema lo suficientemente grande, ¿pero uno de 30 horas? Eso será un golpe fatal a la reputación de la corporación.</Content>
+          <Content>Evet. W Corp'un Tekilliği ile çalışan WARP trenleri, ne kadar uzakta olursa olsun herhangi bir istasyona sadece on saniyede ulaşabilir. 30 saniyelik bir gecikme bile yeterince büyük bir sorun olurdu, peki ya 30 saat? Bu, şirket itibarında ölümcül bir darbe olur.</Content>
         </Dialog>
         <Dialog ID="89" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela2</VoiceFile>
-          <Content>Parece que incluso una Singularidad puede funcionar mal.</Content>
+          <Content>Görünüşe göre bir Tekillik bile arızalanabiliyor.</Content>
         </Dialog>
         <Dialog ID="90" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland3</VoiceFile>
-          <Content>Supongo que ninguna tecnología es verdaderamente perfecta.</Content>
+          <Content>Sanırım hiçbir teknoloji gerçekten kusursuz değil.</Content>
         </Dialog>
         <Dialog ID="91" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela3</VoiceFile>
-          <Content>Por cierto, pronto podría terminar teniendo una reunión inesperada.</Content>
+          <Content>Bu arada, yakında beklenmedik bir toplantım olabilir.</Content>
         </Dialog>
         <Dialog ID="92" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland4</VoiceFile>
-          <Content>¿Tienes alguna cara familiar en esa Oficina?</Content>
+          <Content>O Ofis'te tanıdık bir yüzün var mı?</Content>
         </Dialog>
         <Dialog ID="93" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela4</VoiceFile>
-          <Content>No.</Content>
+          <Content>Hayır.</Content>
         </Dialog>
         <Dialog ID="94" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland5</VoiceFile>
-          <Content>¿Entonces te refieres a Myo, la capitana del Equipo Conejo?</Content>
+          <Content>O zaman Tavşan Ekibi'nin kaptanı Myo'yu kastediyorsun?</Content>
         </Dialog>
         <Dialog ID="95" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela5</VoiceFile>
-          <Content>Sí.</Content>
+          <Content>Evet.</Content>
         </Dialog>
         <Dialog ID="96" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland6</VoiceFile>
-          <Content>Hunh... ¿Así que tenías conexiones con uno de los capitanes de R Corp?</Content>
+          <Content>Hımm... Yani R Corp'un kaptanlarından biriyle bağlantıların vardı?</Content>
         </Dialog>
         <Dialog ID="97" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland7</VoiceFile>
-          <Content>Que esa persona Olga la conociera es bastante sorprendente, pero tú también tienes unas conexiones impresionantes.</Content>
+          <Content>O Olga'nın onu tanıması oldukça şaşırtıcı, ama senin de etkileyici bağlantıların var.</Content>
         </Dialog>
         <Dialog ID="98" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela6</VoiceFile>
-          <Content>Aunque probablemente no nos saludaremos con una sonrisa cuando nos encontremos.</Content>
+          <Content>Yine de, karşılaştığımızda muhtemelen gülümseyerek selamlaşmayacağız.</Content>
         </Dialog>
         <Dialog ID="99" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland8</VoiceFile>
-          <Content>¿Qué, no eras amiga de ella? Eh, sabes qué, supongo que tiene más sentido de esta forma.</Content>
+          <Content>Ne, onunla arkadaş değildin mi? Eh, biliyor musun, sanırım bu şekilde daha mantıklı.</Content>
         </Dialog>
         <Dialog ID="100" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela7</VoiceFile>
-          <Content>¿Qué esperabas? ¿Realmente pensabas que tendría algún amigo con quién charlar casualmente?</Content>
+          <Content>Ne bekliyordun? Gerçekten de rastgele sohbet edebileceğim bir arkadaşımın olduğunu mu düşündün?</Content>
         </Dialog>
         <Dialog ID="101" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland9</VoiceFile>
-          <Content>Solo me lo preguntaba. R Corp. es diferente de los Fixers en un nivel fundamental.</Content>
+          <Content>Sadece merak ettim. R Corp, temel bir düzeyde Fixer'lardan farklı.</Content>
         </Dialog>
         <Dialog ID="102" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland10</VoiceFile>
-          <Content>Su trabajo puede parecer similar al que hacen los Fixers, pero ellos hacen cosas en una escala mucho más grande y con una mentalidad mucho más profesional.</Content>
+          <Content>İşleri Fixer'larınkine benzer görünebilir, ancak onlar çok daha büyük bir ölçekte ve çok daha profesyonel bir zihniyetle iş yapıyorlar.</Content>
         </Dialog>
         <Dialog ID="103" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela8</VoiceFile>
-          <Content>No esperaría menos de una de las Alas.</Content>
+          <Content>Bir Kanat'tan daha azını beklemezdim.</Content>
         </Dialog>
         <Dialog ID="104" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland11</VoiceFile>
-          <Content>No estás demasiado relajada.</Content>
+          <Content>Pek de rahatlamış görünmüyorsun.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -2841,145 +2841,145 @@
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga26</VoiceFile>
-          <Content>Whew~ ¡Esto si que es teletransportación!</Content>
+          <Content>Püf~ İşte buna ışınlanma derim!</Content>
         </Dialog>
         <Dialog ID="106" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga27</VoiceFile>
-          <Content>Mucho más rápido y mejor que cualquier Singularidad estúpida de W Corp.</Content>
+          <Content>Herhangi bir aptal W Corp Tekilliği'nden çok daha hızlı ve iyi.</Content>
         </Dialog>
         <Dialog ID="107" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain22</VoiceFile>
-          <Content>¿Vamos a proceder tan descuidadamente? Dijiste que conseguiste la Invitación de R Corp.</Content>
+          <Content>Bu kadar pervasızca mı ilerleyeceğiz? Davetiye'yi R Corp'tan aldığını söyledin.</Content>
         </Dialog>
         <Dialog ID="108" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga28</VoiceFile>
-          <Content>Mika, haz que se calle por un rato. Voy a vomitar aquí mismo si escucho otra palabra suya.</Content>
+          <Content>Mika, onu bir süre sustur. Ondan bir kelime daha duyarsam tam burada kusacağım.</Content>
         </Dialog>
         <Dialog ID="109" Model="미카">
           <Teller>Mika</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_mika16</VoiceFile>
-          <Content>Rain dice la verdad. Quizás deberíamos proceder con más cautela.</Content>
+          <Content>Rain doğru söylüyor. Belki biraz daha dikkatli ilerlemeliyiz.</Content>
         </Dialog>
-        <Dialog ID="110" Model="올가">
+        <Dialog ID="110" Model="올गा">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga29</VoiceFile>
-          <Content>Seguro, seguro~ Nadie está de mi lado.</Content>
+          <Content>Elbette, elbette~ Kimse benim tarafımda değil.</Content>
         </Dialog>
         <Dialog ID="111" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga30</VoiceFile>
-          <Content>Todo es gracias a mi rápido juicio que pudimos escapar de ese estúpido tren.</Content>
+          <Content>O aptal trenden kaçabildiğimizin hepsi benim hızlı kararım sayesinde.</Content>
         </Dialog>
         <Dialog ID="112" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela9</VoiceFile>
-          <Content>Bienvenidos, queridos invitados.</Content>
+          <Content>Hoş geldiniz, sevgili misafirler.</Content>
         </Dialog>
         <Dialog ID="113" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga31</VoiceFile>
-          <Content>Encantada de verte, muchacha~</Content>
+          <Content>Seni gördüğüme sevindim, genç kız~</Content>
         </Dialog>
         <Dialog ID="114" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain23</VoiceFile>
-          <Content>Me disculpo. Estamos un poco confundidos ahora mismo. Y ella tiene resaca...</Content>
+          <Content>Çok özür dileriz. Şu anda biraz kafamız karışık. Ve o da akşamdan kalma...</Content>
         </Dialog>
         <Dialog ID="115" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela10</VoiceFile>
-          <Content>Entiendo. Tengo un poco de experiencia tratando con borrachos.</Content>
+          <Content>Anlıyorum. Sarhoşlarla uğraşma konusunda biraz deneyimim var.</Content>
         </Dialog>
         <Dialog ID="116" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga32</VoiceFile>
-          <Content>Ey, ¿tienes idea de qué demonios estaba pasando ahí?</Content>
+          <Content>Hey, orada neler olduğu hakkında bir fikrin var mıydı?</Content>
         </Dialog>
         <Dialog ID="117" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela11</VoiceFile>
-          <Content>Todo lo que sé es que son nuestros invitados en la Biblioteca, lo lamento.</Content>
+          <Content>Bildiğim tek şey, Kütüphane'mizde misafirlerimiz olduğunuz, üzgünüm.</Content>
         </Dialog>
         <Dialog ID="118" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga33</VoiceFile>
-          <Content>¿Eh? Ella es mucho más amable de lo que me contó Myo.</Content>
+          <Content>Ha? Myo'nun anlattığından çok daha kibar biri.</Content>
         </Dialog>
         <Dialog ID="119" Model="미카">
           <Teller>Mika</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_mika17</VoiceFile>
-          <Content>¿La conoces?</Content>
+          <Content>Onu tanıyor musun?</Content>
         </Dialog>
         <Dialog ID="120" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga34</VoiceFile>
-          <Content>Ya ves, se suponía que íbamos a excavar en la relación entre L Corp. y la Biblioteca; eso es lo que Myo nos pidió.</Content>
+          <Content>Gördüğünüz gibi, L Corp. ve Kütüphane arasındaki ilişkiyi araştırmamız gerekiyordu; Myo'nun bizden istediği buydu.</Content>
         </Dialog>
         <Dialog ID="121" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela12</VoiceFile>
-          <Content>Ya veo, así que así es cómo sabes de mí.</Content>
+          <Content>Anlıyorum, yani beni bu şekilde tanıyorsunuz.</Content>
         </Dialog>
         <Dialog ID="122" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga35</VoiceFile>
-          <Content>¿Y saben lo que es divertido, chicos ~? Estamos hablando con una máquina, no con una persona.</Content>
+          <Content>Ve komik olan ne biliyor musunuz çocuklar~? Bir insanla değil, bir makineyle konuşuyoruz.</Content>
         </Dialog>
         <Dialog ID="123" Model="미카">
           <Teller>Mika</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_mika18</VoiceFile>
-          <Content>No la hagamos enojar. Solo tomaremos los libros listados en la Invitación y nos iremos, ¿vale?</Content>
+          <Content>Onu kızdırmayalım. Sadece Davetiye'de listelenen kitapları alıp gidelim, tamam mı?</Content>
         </Dialog>
         <Dialog ID="124" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga36</VoiceFile>
-          <Content>Hablemos sin rodeos, muchacha. ¿Sabes qué relación tiene la Biblioteca con L Corp, no es así?</Content>
+          <Content>Açık konuşalım, genç kız. Kütüphane'nin L Corp. ile ne alakası olduğunu biliyorsun, değil mi?</Content>
         </Dialog>
         <Dialog ID="125" Model="올가">
           <Teller>Olga</Teller>
           <Title>Operadora de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_olga37</VoiceFile>
-          <Content>Myo dice que el hecho de que estés en la Biblioteca es una evidencia indisputable de que este lugar está relacionado con L Corp. de una forma u otra.</Content>
+          <Content>Myo, Kütüphane'de olman bile buranın L Corp. ile bir şekilde ilişkili olduğunun tartışılmaz bir kanıtı olduğunu söylüyor.</Content>
         </Dialog>
         <Dialog ID="126" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela13</VoiceFile>
-          <Content>... Estoy segura de que puedes encontrar la respuesta a eso en los libros que buscas.</Content>
+          <Content>... Aradığınız kitaplarda bunun cevabını bulabileceğinizden eminim.</Content>
         </Dialog>
         <Dialog ID="127" Model="레인">
           <Teller>Rain</Teller>
           <Title>Fixer de Molar</Title>
           <VoiceFile>ch3_Molar_ep1_rain24</VoiceFile>
-          <Content>Lo lamentamos mucho. Entraremos ahora.</Content>
+          <Content>Çok üzgünüz. Şimdi içeri giriyoruz.</Content>
         </Dialog>
         <Dialog ID="128" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela14</VoiceFile>
-          <Content>Que encuentres tu libro en este lugar.</Content>
+          <Content>Kitabınızı bu yerde bulmanız dileğiyle.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -2991,49 +2991,49 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland12</VoiceFile>
-          <Content>¿Tienes alguna idea de por qué a R Corp. le importa este lugar?</Content>
+          <Content>R Corp'un burayı neden umursadığı hakkında bir fikrin var mı?</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela15</VoiceFile>
-          <Content>L Corp. era un cliente importante de R Corp. y desapareció de la nada, así que es natural que quieran saber qué pasó.</Content>
+          <Content>L Corp. R Corp'un önemli bir müşterisiydi ve birdenbire ortadan kayboldu, bu yüzden ne olduğunu merak etmeleri doğal.</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland13</VoiceFile>
-          <Content>Un cliente importante de R Corp, ¿eh?...</Content>
+          <Content>R Corp'un önemli bir müşterisi, ha?...</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland14</VoiceFile>
-          <Content>Supongo que tiene sentido. L Corp. y su Nido no eran realmente especiales en términos de poder militar. Debió haber sido un cliente muy importante de R Corp. si se les pedía proteger todo el Nido.</Content>
+          <Content>Sanırım mantıklı. L Corp. ve Yuvası, askeri güç açısından pek özel değildi. Tüm Yuvayı korumaları isteniyorsa, R Corp'un çok önemli bir müşterisi olmalıydı.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela16</VoiceFile>
-          <Content>Era una relación de beneficio mutua. L Corp. suplía toda la energía que R Corp. necesitaba y W Corp. también dependía del suministro de energía de L Corp.</Content>
+          <Content>Karşılıklı yarar sağlayan bir ilişkiydi. L Corp. R Corp'un ihtiyaç duyduğu tüm enerjiyi sağlıyordu ve W Corp da L Corp'un enerji tedariğine bağımlıydı.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland15</VoiceFile>
-          <Content>Las tres Alas en colusión la una con la otra, ¿eh? No le dejan nada de dinero a los demás.</Content>
+          <Content>Üç Kanat birbiriyle gizli anlaşma içinde, ha? Diğerlerine hiç para bırakmıyorlar.</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Molar_ep1_angela17</VoiceFile>
-          <Content>No tiene sentido que te quejes conmigo. Yo solo seguía mis órdenes.</Content>
+          <Content>Bana şikayet etmenin bir anlamı yok. Ben sadece emirlerimi yerine getiriyordum.</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Molar_ep1_roland16</VoiceFile>
-          <Content>Sep. Los empleados tienen que hacer lo que sus jefes les dicen, ya sea en las Alas o en los Barrios Bajos.</Content>
+          <Content>Evet. Çalışanlar, ister Kanatlar'da ister Alt Bölgeler'de olsun, patronlarının kendilerine söylediklerini yapmak zorundalar.</Content>
         </Dialog>
       </Place>
     </Episode>
