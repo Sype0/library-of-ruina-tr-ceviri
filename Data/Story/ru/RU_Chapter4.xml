@@ -77,7 +77,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Konum: Kütüphanenin içerisi</PlaceName>
+        <PlaceName>Konum: Kütüphanenin İçerisi</PlaceName>
         <Dialog ID="11" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
