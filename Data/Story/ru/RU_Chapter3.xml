@@ -1233,13 +1233,13 @@
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora1</VoiceFile>
-          <Content>Evet, efendim. San ve Julia'nın geri dönemediğini bildirdiğim için üzgünüm. ... Ek destek talep ediyorum.</Content>
+          <Content>Evet, efendim. San ve Julia'nın geri dönemediğini bildirdiğim için üzgünüm. ...Ek destek talep ediyorum.</Content>
         </Dialog>
         <Dialog ID="1" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter1</VoiceFile>
-          <Content>Uf... Isadora. Kütüphane'nin amacının ne olduğunu düşünüyorsun?</Content>
+          <Content>Ah... Isadora. Kütüphane'nin amacının ne olduğunu düşünüyorsun?</Content>
         </Dialog>
         <Dialog ID="2" Model="이사도라">
           <Teller>Isadora</Teller>
@@ -1249,7 +1249,7 @@
         </Dialog>
         <Dialog ID="3" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter2</VoiceFile>
           <Content>Bilgi birikimi, diyorsun...</Content>
         </Dialog>
@@ -1267,9 +1267,9 @@
         </Dialog>
         <Dialog ID="6" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter3</VoiceFile>
-          <Content>Distorsiyon Fenomeni ile herhangi bir bağlantı var mı?</Content>
+          <Content>Bozulma Anomali'si ile herhangi bir bağlantısı var mı?</Content>
         </Dialog>
         <Dialog ID="7" Model="이사도라">
           <Teller>Isadora</Teller>
@@ -1281,25 +1281,25 @@
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora6</VoiceFile>
-          <Content>Ama içgüdüm, bunun fenomenle bir şekilde ilişkili olması gerektiğini düşündürüyor.</Content>
+          <Content>Ancak içgüdülerim, bunun anomaliyle bir şekilde ilişkili olması gerektiğini söylüyor.</Content>
         </Dialog>
         <Dialog ID="9" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter4</VoiceFile>
-          <Content>Peki bunun sebebi ne?</Content>
+          <Content>Peki, neden böyle düşünüyorsun?</Content>
         </Dialog>
         <Dialog ID="10" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora7</VoiceFile>
-          <Content>Kütüphane'ye Davet, kitapları ve orada ikamet eden Kütüphaneciler denilen varlıklar. Kütüphane'nin tüm unsurları, Distorsiyon'da gördüklerimize benziyor.</Content>
+          <Content>Kütüphane'ye olan davetiye, kitapları ve orada ikamet eden kütüphaneciler denilen varlıklar. Kütüphane'nin tüm unsurları, Anomali'de gördüklerimize benziyor.</Content>
         </Dialog>
         <Dialog ID="11" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora8</VoiceFile>
-          <Content>Ortak bir özellikleri, bileşenlerinin analiz için gözlemlenmesinin imkansız olmasıdır.</Content>
+          <Content>Ortak bir özellikleri, bileşenlerinin veya parçalarının analiz için gözlemlenmesinin imkansız olmasıdır.</Content>
         </Dialog>
         <Dialog ID="12" Model="이사도라">
           <Teller>Isadora</Teller>
@@ -1309,25 +1309,25 @@
         </Dialog>
         <Dialog ID="13" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter5</VoiceFile>
           <Content>Asılsız iddialarda bulunmak sana pek yakışmaz, değil mi?</Content>
         </Dialog>
         <Dialog ID="14" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter6</VoiceFile>
           <Content>Bölüm 6, Kütüphane'ye gereksiz yere takılıp kalmayacak. Bu davaya körü körüne atlamak için çok fazla belirsiz şey var.</Content>
         </Dialog>
         <Dialog ID="15" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter7</VoiceFile>
           <Content>Zwei Birliği'nin her gün yüzlerce talebi var. Bunların büyük bir kısmı Bölüm 6'ya atanıyor.</Content>
         </Dialog>
         <Dialog ID="16" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter8</VoiceFile>
           <Content>İddialarının, tüm bu talepleri Kütüphane lehine bırakmak için yeterli olmadığını anladığından eminim.</Content>
         </Dialog>
@@ -1339,13 +1339,13 @@
         </Dialog>
         <Dialog ID="18" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter9</VoiceFile>
           <Content>Ve yine de buradasın, Kütüphane'yi araştırmak için destek talep ediyorsun.</Content>
         </Dialog>
         <Dialog ID="19" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter10</VoiceFile>
           <Content>Distorsiyon ile olan varsayılan ilişkiyi, Kütüphane'den intikam almak ya da meslektaşlarının kitaplarını geri almak için bir bahane olarak kullanmadığından emin misin?</Content>
         </Dialog>
@@ -1353,29 +1353,29 @@
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora11</VoiceFile>
-          <Content>...</Content>
+          <Content>......</Content>
         </Dialog>
         <Dialog ID="21" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter11</VoiceFile>
           <Content>Biz konuşurken bile, ‘Karnaval’ gibi Sendikalar insanların bağırsaklarını açık havada çiğniyor ve ‘Bremen Mızıkacıları’ gibi tipler masum vatandaşlardan modern sanat eserleri yapıyor.</Content>
         </Dialog>
         <Dialog ID="22" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter12</VoiceFile>
-          <Content>Ve Şehirde etrafta dolaşan daha çılgın tipler de var, değil mi? Ve bizim işimiz müşterilerimizi Şehirdeki bu gölgelerden korumak, değil mi?</Content>
+          <Content>Ve Şehir'de etrafta dolaşan daha çılgın tipler de var, değil mi? Ve bizim görevimiz de müşterilerimizi Şehir'deki bu gölgelerden korumak, değil mi?</Content>
         </Dialog>
         <Dialog ID="23" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora12</VoiceFile>
-          <Content>... Haklısınız, efendim.</Content>
+          <Content>...Haklısınız, efendim.</Content>
         </Dialog>
         <Dialog ID="24" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter13</VoiceFile>
           <Content>Birliğimizin sloganını hatırlıyor musun?</Content>
         </Dialog>
@@ -1383,17 +1383,17 @@
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora13</VoiceFile>
-          <Content>“Kalkanın”, efendim.</Content>
+          <Content>“Sizin Kalkanınız”, efendim.</Content>
         </Dialog>
         <Dialog ID="26" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter14</VoiceFile>
-          <Content>Aynen öyle. Bizim rolümüz müşterimiz için güvenilir bir kalkan olmak.</Content>
+          <Content>Aynen öyle. Bizim rolümüz, müşterimiz için güvenilir bir kalkan olmak.</Content>
         </Dialog>
         <Dialog ID="27" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter15</VoiceFile>
           <Content>Bu yüzden iyi bir sebep olmadan o kalkanı indirme, anladın mı? Şimdi gidebilirsin.</Content>
         </Dialog>
@@ -1401,11 +1401,11 @@
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora14</VoiceFile>
-          <Content>... Yapacağım.</Content>
+          <Content>...Anlaşıldı.</Content>
         </Dialog>
         <Dialog ID="29" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter16</VoiceFile>
           <Content>Isadora?</Content>
         </Dialog>
@@ -1417,19 +1417,19 @@
         </Dialog>
         <Dialog ID="31" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter17</VoiceFile>
-          <Content>Bu Davet'i masamın üzerine sen mi koydun yoksa tesadüf mü?</Content>
+          <Content>Bu davetiyeyi masamın üzerine sen mi koydun yoksa tesadüf mü?</Content>
         </Dialog>
         <Dialog ID="32" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora16</VoiceFile>
-          <Content>Hayır, efendim. Yeni bir Davet almadım.</Content>
+          <Content>Hayır, efendim. Yeni bir davetiye almadım.</Content>
         </Dialog>
         <Dialog ID="33" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter18</VoiceFile>
           <Content>Kütüphane'nin mevcut risk seviyesi nedir...?</Content>
         </Dialog>
@@ -1441,15 +1441,15 @@
         </Dialog>
         <Dialog ID="35" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter19</VoiceFile>
-          <Content>Şimdi bakınca... Distorsiyon Kitabı...</Content>
+          <Content>Şimdi anlıyorum... Anomali Kitabı, öyle mi...</Content>
         </Dialog>
         <Dialog ID="36" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter20</VoiceFile>
-          <Content>Kurbanlarını çekmek için bunun gibi karşı konulamaz bir yem kullanmışlar, değil mi?</Content>
+          <Content>Kurbanlarını çekmek için bunun gibi karşı konulamaz yemler kullanıyorlar, değil mi?</Content>
         </Dialog>
       </Place>
       <Place>
@@ -1458,37 +1458,37 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland1</VoiceFile>
-          <Content>Senin sayende işler oldukça iyi gitti. Şimdiye kadar ağırladığımız misafirlerden elde edebileceğimiz bir şey değildi.</Content>
+          <Content>Her şey, kitabın sayesinde oldukça sorunsuz gitti. Şimdiye kadar ağırladığımız misafirlerden elde edebileceğimiz bir şey değildi.</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela1</VoiceFile>
-          <Content>Ben sadece onlara o anda en çok ihtiyaç duydukları şeyi sunuyorum. Durumu anlamakta ve uygun bir cevapla gelmekte herkesten daha iyiyim.</Content>
+          <Content>Ben sadece onlara o anda en çok ihtiyaç duydukları şeyi sundum. Durumu anlamakta ve uygun bir cevapla gelmekte herkesten daha iyiyim.</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland2</VoiceFile>
-          <Content>Kesinlikle, hanımefendi. Zwei'yi cezbetmek için gerçekten mükemmel bir çözümle geldiniz.</Content>
+          <Content>Kesinlikle, hanımefendi. Zwei'yi oltaya getirmek için gerçekten mükemmel bir çözümle geldiniz.</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland3</VoiceFile>
-          <Content>Tanrım, eğer hemen kitap basabiliyorsanız, neden bir sürü basmıyorsunuz?</Content>
+          <Content>Yahu, kitapları anında basabiliyorsan, neden bir sürü üretip durmayalım ki?</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela2</VoiceFile>
-          <Content>Sadece bildiğim şeyler hakkında kitap yazabilirim. Başka bir tane yazmak için de daha fazla zamana ihtiyacım var.</Content>
+          <Content>Sadece bildiğim şeyler hakkında kitap yazabiliyorum. Başka bir tane yazmak için de daha fazla zamana ihtiyacım var.</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland4</VoiceFile>
-          <Content>Ah, anlıyorum... O halde, ara sıra yayınlarınız hakkında soru sorabilir miyim?</Content>
+          <Content>Ah, anlıyorum... O halde, ara sıra yayınlarınızı isteyebilir miyim?</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -1500,26 +1500,26 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland5</VoiceFile>
-          <Content>Elbette, hanımefendi~ Benim gibi sıradan bir Hizmetkar, hanımefendimiz Angela'yı rahatsız etmek gibi bir vahşeti asla yapmaz.</Content>
+          <Content>Elbette, hanımefendi~ Benim gibi sıradan bir Hizmetkar, hanımefendimiz Angela'yı rahatsız etmek gibi bir vahşete asla kalkışmaz, haşa.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela4</VoiceFile>
-          <Content>İşe yarayacağını düşünüyor musun?</Content>
+          <Content>Bunun iyi sonuçlanacağını düşünüyor musun?</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland6</VoiceFile>
-          <Content>Zwei gibi bir Birliğin bölüm direktörü, bir sonraki adımımız için fazlasıyla yeterli olmalı. Sahip olduğu bilgiler, şimdiye kadar elde ettiklerimizden tamamen farklı bir seviyede olmalı.</Content>
+          <Content>Zwei gibi bir Birliğin bölüm direktörü, bir sonraki adımımız için fazlasıyla yeterli. Sahip olduğu bilgiler, şimdiye kadar elde ettiklerimizden tamamen farklı bir seviyede olmalı.</Content>
         </Dialog>
       </Place>
       <Place>
         <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="47" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter21</VoiceFile>
           <Content>En son sahada çalıştığımdan bu yana epey zaman geçti. Sen de bir süredir çalışmıyorsun, değil mi?</Content>
         </Dialog>
@@ -1531,21 +1531,21 @@
         </Dialog>
         <Dialog ID="49" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter22</VoiceFile>
           <Content>Bu davayı çözebilirsek, nihayet Bölüm 6'dan ayrılabiliriz.</Content>
         </Dialog>
         <Dialog ID="50" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter23</VoiceFile>
-          <Content>Küçük Sendikalarla uğraşarak ellerimi kirletmek yerine, Distorsiyon hakkındaki bilgileri doğrudan merkezden toplamak harika.</Content>
+          <Content>Küçük Sendika'larla uğraşarak ellerimi kirletmek yerine, Bozulma hakkındaki bilgileri doğrudan merkezden toplamak harika.</Content>
         </Dialog>
         <Dialog ID="51" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter24</VoiceFile>
-          <Content>İkimiz de hayatımızın geri kalanını Bölüm 6'da çürütmemeliyiz, değil mi?</Content>
+          <Content>İkimiz de hayatımızın geri kalanını Bölüm 6'da çürüyerek geçirmemeliyiz, değil mi?</Content>
         </Dialog>
         <Dialog ID="52" Model="이사도라">
           <Teller>Isadora</Teller>
@@ -1555,39 +1555,39 @@
         </Dialog>
         <Dialog ID="53" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter25</VoiceFile>
-          <Content>Meslektaşlarının intikamını alabiliriz, Distorsiyon Fenomeni hakkında bir ipucu yakalayabiliriz ve aynı anda daha yüksek bir pozisyona göz dikebiliriz. Gerçekten büyüleyici, değil mi?</Content>
+          <Content>Meslektaşlarının intikamını alabiliriz, Bozulma Anomali'si hakkında bir ipucu yakalayabiliriz ve aynı anda daha yüksek bir pozisyona göz dikebiliriz. Ne kadar da ilginç, değil mi?</Content>
         </Dialog>
         <Dialog ID="54" Model="이사도라">
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep3_isadora20</VoiceFile>
-          <Content>... Her şey çok uygun bir şekilde yerine oturuyor gibi görünüyor.</Content>
+          <Content>...Her şey fazlasıyla kolay bir şekilde yerine oturuyor gibi görünüyor.</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela5</VoiceFile>
-          <Content>Selamlar, sevgili misafirler. Ben D—</Content>
+          <Content>Hoş geldiniz, değerli misafirler. Ben kutuphanenin—</Content>
         </Dialog>
         <Dialog ID="56" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter26</VoiceFile>
-          <Content>Sen Angela olmalısın. Bu Kütüphane'nin Direktörü ve kütüphanecisi, değil mi?</Content>
+          <Content>Sen Angela olmalısın. Rolünün adını taşıyan direktör ve kütüphaneci, değil mi?</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela6</VoiceFile>
-          <Content>Doğru, tam da söylediğin gibi.</Content>
+          <Content>Evet, tam da dediğiniz gibi.</Content>
         </Dialog>
         <Dialog ID="58" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter27</VoiceFile>
-          <Content>Senin hakkındaki raporları gördüm, bir makine olduğun doğru mu, bir insan değil?</Content>
+          <Content>Senin hakkındaki raporları okudum, Ama gerçekten bir insan değil de bir makine olduğun doğru mu?</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -1597,15 +1597,15 @@
         </Dialog>
         <Dialog ID="60" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter28</VoiceFile>
-          <Content>Susmak bunu gizlemeyecek, kızım. Bir makine, bir makine gibi davranmalıdır.</Content>
+          <Content>Aman aman. Sessiz kalmak gerçeği gizlemez, kızım. Bir makine, makine gibi davranmalıdır.</Content>
         </Dialog>
         <Dialog ID="61" Model="월터">
           <Teller>Walter</Teller>
-          <Title>Director de Zwei S. Sección 6</Title>
+          <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter29</VoiceFile>
-          <Content>Küçük Kütüphane'nle epey dikkat çektin. Senin gibi insan olmayan varlıkların bu kadar büyük bir yaygara çıkarması oldukça sorunlu, biliyor musun?</Content>
+          <Content>Şu küçücük kütüphaneni bayağı mesele haline getirdin. Senin gibi insan olmayan varlıkların bu kadar büyük bir yaygara çıkarması oldukça sıkıntılı, biliyor musun?</Content>
         </Dialog>
         <Dialog ID="62" Model="이사도라">
           <Teller>Isadora</Teller>
@@ -1617,7 +1617,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela8</VoiceFile>
-          <Content>Kitabınızı bu yerde bulmanız dileğiyle.</Content>
+          <Content>Umarım aradığınız kitabı burada bulursunuz.</Content>
         </Dialog>
       </Place>
     </Episode>
