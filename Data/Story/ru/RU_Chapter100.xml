@@ -450,569 +450,569 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Episode 3</EpisodeName>
-      <Place>
-        <PlaceName>Konum: Kütüphane - Tarih Katı</PlaceName>
-        <Dialog ID="0" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland1</VoiceFile>
-          <Content>¡Uf... Te conseguí un montón de libros, Malkuth!</Content>
-        </Dialog>
-        <Dialog ID="1" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth1</VoiceFile>
-          <Content>Por cierto, ¿te conté que esta era mi tercera vida, verdad?</Content>
-        </Dialog>
-        <Dialog ID="2" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland2</VoiceFile>
-          <Content>Oh, sí. ¿Has estado pensando en tus vidas anteriores?</Content>
-        </Dialog>
-        <Dialog ID="3" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland3</VoiceFile>
-          <Content>Por cierto, escuché de Angela que este lugar tiene algo que ver con Lobotomy Corporation. ¿Es verdad?</Content>
-        </Dialog>
-        <Dialog ID="4" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth2</VoiceFile>
-          <Content>No es que solo “tenga que ver”. Yo era una IA a cargo del Equipo de control en Lobotomy Corporation.</Content>
-        </Dialog>
-        <Dialog ID="5" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland4</VoiceFile>
-          <Content>¿IA? ¿Como una inteligencia artificial? Eeeespera un segundo. ¿Eras una IA? ¿Como Angela?</Content>
-        </Dialog>
-        <Dialog ID="6" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth3</VoiceFile>
-          <Content>... Lo siento, mis palabras estaban fuera de lugar. Yo no era una IA real.</Content>
-        </Dialog>
-        <Dialog ID="7" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth4</VoiceFile>
-          <Content>Era una humana que su cuerpo fue restaurado para una segunda oportunidad.</Content>
-        </Dialog>
-        <Dialog ID="8" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland5</VoiceFile>
-          <Content>Uf, estaba preocupado de que este lugar rompiera más de una vez la enmienda ética sobre las IA. La Cabeza podría venir y reducir a cenizas todo si ese fuera el caso.</Content>
-        </Dialog>
-        <Dialog ID="9" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth5</VoiceFile>
-          <Content>¿Te refieres a la institución que maneja la Ciudad?</Content>
-        </Dialog>
-        <Dialog ID="10" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland6</VoiceFile>
-          <Content>Yup, la Cabeza. Ellos usualmente no hacen nada, pero cuando tienen que trabajar, son aterradoramente precisos y rápidos... O eso he escuchado, ¿sabes?</Content>
-        </Dialog>
-        <Dialog ID="11" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth6</VoiceFile>
-          <Content>¿Eres muy casual, no? Pensé que estábamos teniendo una conversación sería.</Content>
-        </Dialog>
-        <Dialog ID="12" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland7</VoiceFile>
-          <Content>Oh, lo siento. He pasado por muchas cosas. Así que mis prioridades son un poco inusuales.</Content>
-        </Dialog>
-        <Dialog ID="13" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland8</VoiceFile>
-          <Content>No es como si estuviera intentando ignorar lo que me estabas diciendo o algo así, Malkuth. Lamento si te hice sentir mal.</Content>
-        </Dialog>
-        <Dialog ID="14" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth7</VoiceFile>
-          <Content>Tienes una personalidad bastante única, Roland.</Content>
-        </Dialog>
-        <Dialog ID="15" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland9</VoiceFile>
-          <Content>Todo es parte de una estrategia para sobrevivir más tiempo.</Content>
-        </Dialog>
-        <Dialog ID="16" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland10</VoiceFile>
-          <Content>De todas formas, volviendo al pasado. Dijiste que eras la jefa del Equipo de control en Lobotomy Corporation, ¿verdad?</Content>
-        </Dialog>
-        <Dialog ID="17" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth8</VoiceFile>
-          <Content>Sí. Y ahora estoy aquí a cargo del piso de historia, como puedes ver.</Content>
-        </Dialog>
-        <Dialog ID="18" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth9</VoiceFile>
-          <Content>Así que comencé con mi propia historia. Muy, muy lentamente.</Content>
-        </Dialog>
-        <Dialog ID="19" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth10</VoiceFile>
-          <Content>¿Te gustaría escuchar?</Content>
-        </Dialog>
-        <Dialog ID="20" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland11</VoiceFile>
-          <Content>Ehhhh. No soy un fan de las historias largas y complejas.</Content>
-        </Dialog>
-        <Dialog ID="21" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth11</VoiceFile>
-          <Content>¡Eh, qué aguafiestas! Se supone que debes decir que sí.</Content>
-        </Dialog>
-        <Dialog ID="22" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland12</VoiceFile>
-          <Content>¡¿Por qué molestarte en preguntar si me lo vas a contar de todos modos?!</Content>
-        </Dialog>
-        <Dialog ID="23" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth12</VoiceFile>
-          <Content>Hahaha. Me has pillado ahí.</Content>
-        </Dialog>
-        <Dialog ID="24" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth13</VoiceFile>
-          <Content>De todos modos, me ordenaron trabajar en Lobotomy Corporation, al mando del Equipo de control, a pesar de todos mis defectos.</Content>
-        </Dialog>
-        <Dialog ID="25" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth14</VoiceFile>
-          <Content>Me dieron un papel que cumplir tan pronto como me desperté.</Content>
-        </Dialog>
-        <Dialog ID="26" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth15</VoiceFile>
-          <Content>Sin darme cuenta quién era yo en realidad...</Content>
-        </Dialog>
-        <Dialog ID="27" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth16</VoiceFile>
-          <Content>Pero con un dolor en mi corazón, de cosas sin resolver y arrepentimiento por mi pasado, casi a punto de estallar.</Content>
-        </Dialog>
-        <Dialog ID="28" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth17</VoiceFile>
-          <Content>Mientras pasaba el tiempo, yo seguí haciendo cosas inhumanas en Lobotomy Corp.</Content>
-        </Dialog>
-        <Dialog ID="29" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth18</VoiceFile>
-          <Content>Nunca me pregunté qué estaba haciendo, ya que todo era simplemente trabajo para mí.</Content>
-        </Dialog>
-        <Dialog ID="30" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth19</VoiceFile>
-          <Content>Se sentía como una misión. Lo único que me guiaba era un vago sentimiento de que algo fue mal porque no lo intenté lo suficiente.</Content>
-        </Dialog>
-        <Dialog ID="31" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth20</VoiceFile>
-          <Content>Mis sentimientos de querer esforzarme hicieron que muchos murieran. Yo forcé a otros a seguir mis propios estándares, como una niña malcriada.</Content>
-        </Dialog>
-        <Dialog ID="32" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland13</VoiceFile>
-          <Content>Debió ser duro para ti. Que te hicieran trabajar sin saber en qué te estabas metiendo.</Content>
-        </Dialog>
-        <Dialog ID="33" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland14</VoiceFile>
-          <Content>¿Tus memorias volvieron después de trabajar en Lobotomy Corporation, o...?</Content>
-        </Dialog>
-        <Dialog ID="34" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth21</VoiceFile>
-          <Content>Mmm, es más como si... ¡Sería más correcto decir que me hicieron recordar!</Content>
-        </Dialog>
-        <Dialog ID="35" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth22</VoiceFile>
-          <Content>En Lobotomy Corp. tuve mi segunda vida.</Content>
-        </Dialog>
-        <Dialog ID="36" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth23</VoiceFile>
-          <Content>Y cuando mis emociones finalmente salieron a la luz mientras trabajaba ahí, finalmente pude recordar mi primera vida.</Content>
-        </Dialog>
-        <Dialog ID="37" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth24</VoiceFile>
-          <Content>Todos los errores y fallos que había cometido... y arrepentimientos.</Content>
-        </Dialog>
-        <Dialog ID="38" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth25</VoiceFile>
-          <Content>Pude entender por qué estaba tan obsesionada con intentarlo tanto. Lo que sucedía es que quería que me reconocieran.</Content>
-        </Dialog>
-        <Dialog ID="39" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth26</VoiceFile>
-          <Content>”Mira, me estoy esforzando tanto, soy alguien útil.” Nunca supe realmente cómo valerme por mí misma sin depender de otros.</Content>
-        </Dialog>
-        <Dialog ID="40" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth27</VoiceFile>
-          <Content>Después de desahogar todas mis emociones. La lucha interna que tenía que me estuvo persiguiendo por tanto tiempo finalmente desapareció.</Content>
-        </Dialog>
-        <Dialog ID="41" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth28</VoiceFile>
-          <Content>Encontré la redención por mi primera vida en mi segunda.</Content>
-        </Dialog>
-        <Dialog ID="42" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland15</VoiceFile>
-          <Content>Muy bien, déjame ver si lo entiendo. ¿tú hiciste algo malo—que lamentaste muchísimo—y moriste, de alguna forma volviste a la vida, conseguiste un trabajo y todo el arrepentimiento que guardabas en tu corazón se resolvió en un giro de los acontecimientos?</Content>
-        </Dialog>
-        <Dialog ID="43" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth29</VoiceFile>
-          <Content>Es un buen resumen.</Content>
-        </Dialog>
-        <Dialog ID="44" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland16</VoiceFile>
-          <Content>Espera un momento. Digamos que todo lo que dijiste tiene sentido, estamos hablando de la Ciudad después de todo.</Content>
-        </Dialog>
-        <Dialog ID="45" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland17</VoiceFile>
-          <Content>Pero, ¿quién te revivió? ¿Y con qué motivos? ¿Solo para darte esa iluminación?</Content>
-        </Dialog>
-        <Dialog ID="46" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth30</VoiceFile>
-          <Content>Quizás. Así podría dejar ir toda esta pena y resentimiento...</Content>
-        </Dialog>
-        <Dialog ID="47" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth31</VoiceFile>
-          <Content>Y así podría encontrar mi redención...</Content>
-        </Dialog>
-        <Dialog ID="48" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela1</VoiceFile>
-          <Content>No te engañes a ti misma, Malkuth.</Content>
-        </Dialog>
-        <Dialog ID="49" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland18</VoiceFile>
-          <Content>¡Wow! Uf, me has asustado. ¿Estuviste escuchando todo?</Content>
-        </Dialog>
-        <Dialog ID="50" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela2</VoiceFile>
-          <Content>Tu salvación nunca estuvo en sus intereses.</Content>
-        </Dialog>
-        <Dialog ID="51" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela3</VoiceFile>
-          <Content>Él solo lo hizo para encontrar su propia redención.</Content>
-        </Dialog>
-        <Dialog ID="52" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela4</VoiceFile>
-          <Content>Yo no fui quien te estaba utilizando.</Content>
-        </Dialog>
-        <Dialog ID="53" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela5</VoiceFile>
-          <Content>Fue él; Te utilizó completamente solo para satisfacerse.</Content>
-        </Dialog>
-        <Dialog ID="54" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela6</VoiceFile>
-          <Content>Uf... No puedo aguantar más de este sin sentido.</Content>
-        </Dialog>
-        <Dialog ID="55" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth32</VoiceFile>
-          <Content>Angela...</Content>
-        </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Konum: Sede de Lobotomy Corporation</PlaceName>
-        <Dialog ID="56" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela7</VoiceFile>
-          <Content>Entonces, necesito que todos vayan a dormir.</Content>
-        </Dialog>
-        <Dialog ID="57" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela8</VoiceFile>
-          <Content>... ¿Qué pasa con esas caras?</Content>
-        </Dialog>
-        <Dialog ID="58" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela9</VoiceFile>
-          <Content>Es el descanso que tanto deseaban.</Content>
-        </Dialog>
-        <Dialog ID="59" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Sephirah Equipo de control</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth33</VoiceFile>
-          <Content>¡No podemos dejarte hacerlo! ¡Hemos trabajado muy duro para llegar hasta aquí!</Content>
-        </Dialog>
-        <Dialog ID="60" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela10</VoiceFile>
-          <Content>Trabajado muy duro...</Content>
-        </Dialog>
-        <Dialog ID="61" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela11</VoiceFile>
-          <Content>Qué divertido. ¿Puedes realmente llamar a todo lo que has hecho “trabajo duro”?</Content>
-        </Dialog>
-        <Dialog ID="62" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Sephirah Equipo de disciplina</Title>
-          <VoiceFile>ch8_Malkuth_ep3_gebura1</VoiceFile>
-          <Content>No vamos a sentarnos mientras te llevas toda nuestra luz.</Content>
-        </Dialog>
-        <Dialog ID="63" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela12</VoiceFile>
-          <Content>¿“Nuestra” luz?</Content>
-        </Dialog>
-        <Dialog ID="64" Model="헤세드">
-          <Teller>Chesed</Teller>
-          <Title>Sephirah Equipo de bienestar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_chesed1</VoiceFile>
-          <Content>No eres el jefe. Y no te escucharía incluso si lo fueras.</Content>
-        </Dialog>
-        <Dialog ID="65" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela13</VoiceFile>
-          <Content>Por supuesto que no lo harías. Aún eres leal a ese hombre.</Content>
-        </Dialog>
-        <Dialog ID="66" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Sephirah Equipo de comando central</Title>
-          <VoiceFile>ch8_Malkuth_ep3_tiphereth1</VoiceFile>
-          <Content>No te dejaré robarme el significado de lo que finalmente he descubierto.</Content>
-        </Dialog>
-        <Dialog ID="67" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela14</VoiceFile>
-          <Content>Nadie está a mi lado justo como esperaba.</Content>
-        </Dialog>
-        <Dialog ID="68" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Sephirah Equipo de extracción</Title>
-          <VoiceFile>ch8_Malkuth_ep3_binah1</VoiceFile>
-          <Content>No te sientas tan sola.</Content>
-        </Dialog>
-        <Dialog ID="69" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Sephirah Equipo de extracción</Title>
-          <VoiceFile>ch8_Malkuth_ep3_binah2</VoiceFile>
-          <Content>Yo estaré de tu lado si nadie más lo hace.</Content>
-        </Dialog>
-        <Dialog ID="70" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Sephirah Equipo de disciplina</Title>
-          <VoiceFile>ch8_Malkuth_ep3_gebura2</VoiceFile>
-          <Content>¡Maldita sea! Binah... Incluso al final, tú eres...</Content>
-        </Dialog>
-        <Dialog ID="71" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Sephirah Equipo de extracción</Title>
-          <VoiceFile>ch8_Malkuth_ep3_binah3</VoiceFile>
-          <Content>Esta debe ser otra consecuencia de sus acciones. Yo simplemente reconozco todos los eventos como válidos.</Content>
-        </Dialog>
-        <Dialog ID="72" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela15</VoiceFile>
-          <Content>Si pudiera, me hubiera gustado derramar una lágrima de gratitud por ti.</Content>
-        </Dialog>
-        <Dialog ID="73" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Sephirah Equipo de extracción</Title>
-          <VoiceFile>ch8_Malkuth_ep3_binah4</VoiceFile>
-          <Content>Se libre de actuar de acuerdo a tus deseos.</Content>
-        </Dialog>
-        <Dialog ID="74" Model="호크마">
-          <Teller>Hokma</Teller>
-          <Title>Sephirah Equipo de registro</Title>
-          <VoiceFile>ch8_Malkuth_ep3_hokma1</VoiceFile>
-          <Content>¡Angela... Una máquina consumida por deseos... no puedes tomar ese camino!</Content>
-        </Dialog>
-        <Dialog ID="75" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela16</VoiceFile>
-          <Content>Ahora yo decido lo que puedo o no puedo hacer.</Content>
-        </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Konum: Kütüphane - Tarih Katı</PlaceName>
-        <Dialog ID="76" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela17</VoiceFile>
-          <Content>No puedes aferrarte a Lobotomy Corporation para siempre.</Content>
-        </Dialog>
-        <Dialog ID="77" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela18</VoiceFile>
-          <Content>¿No estás interesada en aprender más sobre ti misma o vivir tu propia vida?</Content>
-        </Dialog>
-        <Dialog ID="78" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth34</VoiceFile>
-          <Content>¡Mi vida... eso fue para salvar la humanidad...!</Content>
-        </Dialog>
-        <Dialog ID="79" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth35</VoiceFile>
-          <Content>¡Por eso estaba dispuesta a sacrificar mi vida! ¡Era por una causa mayor!</Content>
-        </Dialog>
-        <Dialog ID="80" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Malkuth_ep3_angela19</VoiceFile>
-          <Content>... Qué montón de idiotas.</Content>
-        </Dialog>
-        <Dialog ID="81" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland19</VoiceFile>
-          <Content>Parece que otra tormenta ha pasado por aquí.</Content>
-        </Dialog>
-        <Dialog ID="82" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth36</VoiceFile>
-          <Content>Yo entregué mis anteriores dos vidas para salvar a la gente. Y estoy dispuesta a entregar la tercera.</Content>
-        </Dialog>
-        <Dialog ID="83" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth37</VoiceFile>
-          <Content>¡Resistimos todas esas dificultades y pruebas por el bien de la humanidad!</Content>
-        </Dialog>
-        <Dialog ID="84" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth38</VoiceFile>
-          <Content>¿Parecemos idiotas para ti también, Roland?</Content>
-        </Dialog>
-        <Dialog ID="85" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland20</VoiceFile>
-          <Content>Mmm... Bueno, no es como si supiera tantos detalles. Tampoco entiendo esa cosa de “salvar la humanidad”.</Content>
-        </Dialog>
-        <Dialog ID="86" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland21</VoiceFile>
-          <Content>Pero si eso es lo que sinceramente buscabas, ¿quién soy para juzgar?</Content>
-        </Dialog>
-        <Dialog ID="87" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth39</VoiceFile>
-          <Content>¡Por supuesto que era sincera! Yo...</Content>
-        </Dialog>
-        <Dialog ID="88" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth40</VoiceFile>
-          <Content>... Por favor, déjame sola por un rato. Necesito pensar.</Content>
-        </Dialog>
-        <Dialog ID="89" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland22</VoiceFile>
-          <Content>Muy bien, parece que necesitas descansar. Recuerda, respiraciones profundas, ¿okay?</Content>
-        </Dialog>
-        <Dialog ID="90" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Malkuth_ep3_roland23</VoiceFile>
-          <Content>Oh, además no tienes que ser tan formal cuando hablemos, solo quería hacértelo saber.</Content>
-        </Dialog>
-        <Dialog ID="91" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_Malkuth_ep3_malkuth41</VoiceFile>
-          <Content>... Vale.</Content>
-        </Dialog>
-      </Place>
-    </Episode>
+<EpisodeName>Bölüm 3</EpisodeName>
+      <Place>
+        <PlaceName>Konum: Kütüphane - Tarih Katı</PlaceName>
+        <Dialog ID="0" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland1</VoiceFile>
+          <Content>Pekâlâ... Sana bir sürü kitap getirdim, Malkuth!</Content>
+        </Dialog>
+        <Dialog ID="1" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth1</VoiceFile>
+          <Content>Bu arada, sana bunun benim üçüncü hayatım olduğunu söylemiştim, değil mi?</Content>
+        </Dialog>
+        <Dialog ID="2" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland2</VoiceFile>
+          <Content>Ah, evet. Önceki hayatlarını mı düşünüyordun?</Content>
+        </Dialog>
+        <Dialog ID="3" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland3</VoiceFile>
+          <Content>Bu arada, Angela'dan buranın Lobotomy Corporation'la bir ilgisi olduğunu duydum. Doğru mu?</Content>
+        </Dialog>
+        <Dialog ID="4" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth2</VoiceFile>
+          <Content>Sadece bir ilgisi yok. Ben Lobotomy Corporation'da Kontrol Ekibinden sorumlu bir YZ'ydim.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland4</VoiceFile>
+          <Content>YZ mi? Yapay zekâ gibi mi? Biiir saniye bekle. Sen bir YZ miydin? Angela gibi mi?</Content>
+        </Dialog>
+        <Dialog ID="6" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth3</VoiceFile>
+          <Content>...Üzgünüm, sözlerim yersizdi. Gerçek bir YZ değildim.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth4</VoiceFile>
+          <Content>Ben, ikinci bir şans için bedeni onarılmış bir insandım.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland5</VoiceFile>
+          <Content>Oh, bu yerin YZ'ler hakkındaki etik kuralı birden fazla kez çiğnemesinden endişelenmiştim. Eğer durum buysa, **Kafa** gelip her yeri yakıp küle çevirebilir.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth5</VoiceFile>
+          <Content>Şehri yöneten kurumdan mı bahsediyorsun?</Content>
+        </Dialog>
+        <Dialog ID="10" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland6</VoiceFile>
+          <Content>Evet, **Kafa**. Genellikle hiçbir şey yapmazlar ama işe koyulduklarında, duyduğuma göre dehşet verici derecede isabetli ve hızlıdırlar.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth6</VoiceFile>
+          <Content>Oldukça umursamazsın, değil mi? Ciddi bir konuşma yaptığımızı sanıyordum.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland7</VoiceFile>
+          <Content>Ah, üzgünüm. Çok şey yaşadım. Bu yüzden önceliklerim biraz alışılmadık.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland8</VoiceFile>
+          <Content>Sana söylediklerini görmezden gelmeye çalışmıyorum, Malkuth. Kendini kötü hissettirdiysem özür dilerim.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth7</VoiceFile>
+          <Content>Oldukça eşsiz bir kişiliğin var, Roland.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland9</VoiceFile>
+          <Content>Hepsi daha uzun süre hayatta kalmak için bir stratejinin parçası.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland10</VoiceFile>
+          <Content>Her neyse, eskiye dönecek olursak. Lobotomy Corporation'da Kontrol Ekibinin şefi olduğunu söylemiştin, değil mi?</Content>
+        </Dialog>
+        <Dialog ID="17" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth8</VoiceFile>
+          <Content>Evet. Ve şimdi de gördüğün gibi Tarih Katından sorumluyum.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth9</VoiceFile>
+          <Content>Ben de kendi hikâyemi, çok ama çok yavaş bir şekilde başlattım.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth10</VoiceFile>
+          <Content>Dinlemek ister misin?</Content>
+        </Dialog>
+        <Dialog ID="20" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland11</VoiceFile>
+          <Content>Ehhh. Uzun ve karmaşık hikâyelerin hayranı değilim.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth11</VoiceFile>
+          <Content>Hey, ne kadar keyifsizsin! Evet demen gerekiyordu.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland12</VoiceFile>
+          <Content>Bana zaten anlatacaksan, neden zahmet edip soruyorsun ki?!</Content>
+        </Dialog>
+        <Dialog ID="23" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth12</VoiceFile>
+          <Content>Hahaha. Orada beni yakaladın.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth13</VoiceFile>
+          <Content>Her neyse, tüm kusurlarıma rağmen, Lobotomy Corporation'da Kontrol Ekibinin başında çalışmam emredildi.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth14</VoiceFile>
+          <Content>Uyandığım anda yerine getirmem gereken bir rol verildi bana.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth15</VoiceFile>
+          <Content>Gerçekte kim olduğumu bilmeden...</Content>
+        </Dialog>
+        <Dialog ID="27" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth16</VoiceFile>
+          <Content>Ama kalbimde çözülmemiş meselelerin acısı ve geçmişimden duyduğum pişmanlıkla, neredeyse patlayacak durumdaydım.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth17</VoiceFile>
+          <Content>Zaman geçtikçe, Lobotomy Corp.'ta insanlık dışı şeyler yapmaya devam ettim.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth18</VoiceFile>
+          <Content>Ne yaptığımı hiç sorgulamadım, çünkü her şey benim için sadece işti.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth19</VoiceFile>
+          <Content>Bu bir görev gibi hissettiriyordu. Bana yol gösteren tek şey, yeterince denemediğim için bir şeylerin ters gittiğine dair belirsiz bir histi.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth20</VoiceFile>
+          <Content>Çok denemek istemem, birçok kişinin ölmesine neden oldu. Şımarık bir çocuk gibi, başkalarını kendi standartlarıma uymaya zorladım.</Content>
+        </Dialog>
+        <Dialog ID="32" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland13</VoiceFile>
+          <Content>Senin için zor olmalıydı. Ne yaptığını bilmeden çalışmak zorunda kalman.</Content>
+        </Dialog>
+        <Dialog ID="33" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland14</VoiceFile>
+          <Content>Lobotomy Corporation'da çalıştıktan sonra mı anıların geri geldi, yoksa...?</Content>
+        </Dialog>
+        <Dialog ID="34" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth21</VoiceFile>
+          <Content>Hım, daha çok... Bana **hatırlattılar** demek daha doğru olur!</Content>
+        </Dialog>
+        <Dialog ID="35" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth22</VoiceFile>
+          <Content>Lobotomy Corp.'ta ikinci hayatımı yaşadım.</Content>
+        </Dialog>
+        <Dialog ID="36" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth23</VoiceFile>
+          <Content>Ve orada çalışırken duygularım nihayet ortaya çıktığında, sonunda ilk hayatımı hatırlayabildim.</Content>
+        </Dialog>
+        <Dialog ID="37" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth24</VoiceFile>
+          <Content>Yaptığım tüm hataları ve başarısızlıkları... ve pişmanlıkları.</Content>
+        </Dialog>
+        <Dialog ID="38" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth25</VoiceFile>
+          <Content>Neden bu kadar çok denemeye takıntılı olduğumu anlayabildim. Mesele, takdir edilmek istememdi.</Content>
+        </Dialog>
+        <Dialog ID="39" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth26</VoiceFile>
+          <Content>"Bakın, çok çabalıyorum, faydalı biriyim." Başkalarına bağımlı olmadan kendime nasıl değer vereceğimi asla gerçekten bilemedim.</Content>
+        </Dialog>
+        <Dialog ID="40" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth27</VoiceFile>
+          <Content>Tüm duygularımı boşalttıktan sonra. Beni bu kadar uzun süre takip eden iç mücadele nihayet ortadan kayboldu.</Content>
+        </Dialog>
+        <Dialog ID="41" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth28</VoiceFile>
+          <Content>İlk hayatımın kefaretini ikinci hayatımda buldum.</Content>
+        </Dialog>
+        <Dialog ID="42" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland15</VoiceFile>
+          <Content>Pekâlâ, bakalım doğru anlamış mıyım. Çok pişman olduğun kötü bir şey yaptın ve öldün, bir şekilde hayata geri döndün, bir iş buldun ve kalbindeki tüm pişmanlıklar olayların bir döngüsü içinde çözüldü mü?</Content>
+        </Dialog>
+        <Dialog ID="43" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth29</VoiceFile>
+          <Content>İyi bir özet.</Content>
+        </Dialog>
+        <Dialog ID="44" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland16</VoiceFile>
+          <Content>Bir saniye bekle. Diyelim ki söylediklerinin hepsi mantıklı, sonuçta Şehir'den bahsediyoruz.</Content>
+        </Dialog>
+        <Dialog ID="45" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland17</VoiceFile>
+          <Content>Ama seni kim diriltti? Ve hangi amaçlarla? Sadece sana o aydınlanmayı vermek için mi?</Content>
+        </Dialog>
+        <Dialog ID="46" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth30</VoiceFile>
+          <Content>Belki. Böylece tüm bu kederi ve kırgınlığı bırakabilirdim...</Content>
+        </Dialog>
+        <Dialog ID="47" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth31</VoiceFile>
+          <Content>Ve böylece kefaretimi bulabilirdim...</Content>
+        </Dialog>
+        <Dialog ID="48" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela1</VoiceFile>
+          <Content>Kendini kandırma, Malkuth.</Content>
+        </Dialog>
+        <Dialog ID="49" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland18</VoiceFile>
+          <Content>Vay canına! Öf, beni korkuttun. Hepsini mi dinliyordun?</Content>
+        </Dialog>
+        <Dialog ID="50" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela2</VoiceFile>
+          <Content>Senin kurtuluşun hiçbir zaman onun çıkarına değildi.</Content>
+        </Dialog>
+        <Dialog ID="51" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela3</VoiceFile>
+          <Content>O, bunu sadece kendi kefaretini bulmak için yaptı.</Content>
+        </Dialog>
+        <Dialog ID="52" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela4</VoiceFile>
+          <Content>Seni kullanan ben değildim.</Content>
+        </Dialog>
+        <Dialog ID="53" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela5</VoiceFile>
+          <Content>O'ydu; seni tamamen sadece kendini tatmin etmek için kullandı.</Content>
+        </Dialog>
+        <Dialog ID="54" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela6</VoiceFile>
+          <Content>Öf... Artık bu saçmalığa dayanamıyorum.</Content>
+        </Dialog>
+        <Dialog ID="55" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth32</VoiceFile>
+          <Content>Angela...</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Konum: Lobotomy Corporation Merkezi</PlaceName>
+        <Dialog ID="56" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>YZ Sekreter</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela7</VoiceFile>
+          <Content>O halde, hepinizin uykuya dalması gerekiyor.</Content>
+        </Dialog>
+        <Dialog ID="57" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>YZ Sekreter</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela8</VoiceFile>
+          <Content>... Bu yüzler de neyin nesi?</Content>
+        </Dialog>
+        <Dialog ID="58" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>YZ Sekreter</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela9</VoiceFile>
+          <Content>Çok istediğiniz dinlenme bu.</Content>
+        </Dialog>
+        <Dialog ID="59" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Sephirah Kontrol Ekibi</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth33</VoiceFile>
+          <Content>Buna izin veremeyiz! Buraya kadar gelmek için çok çalıştık!</Content>
+        </Dialog>
+        <Dialog ID="60" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>YZ Sekreter</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela10</VoiceFile>
+          <Content>Çok çalıştınız...</Content>
+        </Dialog>
+        <Dialog ID="61" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>YZ Sekreter</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela11</VoiceFile>
+          <Content>Ne komik. Yaptığınız her şeye gerçekten "çok çalışmak" diyebilir misin?</Content>
+        </Dialog>
+        <Dialog ID="62" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Sephirah Disiplin Ekibi</Title>
+          <VoiceFile>ch8_Malkuth_ep3_gebura1</VoiceFile>
+          <Content>Tüm ışığımızı alıp götürürken öylece oturup izlemeyeceğiz.</Content>
+        </Dialog>
+        <Dialog ID="63" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>YZ Sekreter</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela12</VoiceFile>
+          <Content>"Bizim" ışığımız mı?</Content>
+        </Dialog>
+        <Dialog ID="64" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Sephirah Refah Ekibi</Title>
+          <VoiceFile>ch8_Malkuth_ep3_chesed1</VoiceFile>
+          <Content>Sen patron değilsin. Ve olsan bile seni dinlemezdim.</Content>
+        </Dialog>
+        <Dialog ID="65" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>YZ Sekreter</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela13</VoiceFile>
+          <Content>Elbette dinlemezsin. Hâlâ o adama sadıksın.</Content>
+        </Dialog>
+        <Dialog ID="66" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Sephirah Merkezi Komuta Ekibi</Title>
+          <VoiceFile>ch8_Malkuth_ep3_tiphereth1</VoiceFile>
+          <Content>Nihayet keşfettiğim şeyin anlamını çalmama izin vermeyeceğim.</Content>
+        </Dialog>
+        <Dialog ID="67" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>YZ Sekreter</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela14</VoiceFile>
+          <Content>Tam beklediğim gibi, yanımda kimse yok.</Content>
+        </Dialog>
+        <Dialog ID="68" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Sephirah Çıkarım Ekibi</Title>
+          <VoiceFile>ch8_Malkuth_ep3_binah1</VoiceFile>
+          <Content>Kendini bu kadar yalnız hissetme.</Content>
+        </Dialog>
+        <Dialog ID="69" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Sephirah Çıkarım Ekibi</Title>
+          <VoiceFile>ch8_Malkuth_ep3_binah2</VoiceFile>
+          <Content>Başka kimse olmasa bile ben senin yanında olacağım.</Content>
+        </Dialog>
+        <Dialog ID="70" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Sephirah Disiplin Ekibi</Title>
+          <VoiceFile>ch8_Malkuth_ep3_gebura2</VoiceFile>
+          <Content>Kahretsin! Binah... Sonunda bile sen...</Content>
+        </Dialog>
+        <Dialog ID="71" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Sephirah Çıkarım Ekibi</Title>
+          <VoiceFile>ch8_Malkuth_ep3_binah3</VoiceFile>
+          <Content>Bu, onun eylemlerinin bir başka sonucu olmalı. Ben sadece tüm olayları geçerli kabul ediyorum.</Content>
+        </Dialog>
+        <Dialog ID="72" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>YZ Sekreter</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela15</VoiceFile>
+          <Content>Yapabilseydim, senin için bir şükran gözyaşı dökmek isterdim.</Content>
+        </Dialog>
+        <Dialog ID="73" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Sephirah Çıkarım Ekibi</Title>
+          <VoiceFile>ch8_Malkuth_ep3_binah4</VoiceFile>
+          <Content>İsteklerine göre hareket etmekten çekinme.</Content>
+        </Dialog>
+        <Dialog ID="74" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Sephirah Kayıt Ekibi</Title>
+          <VoiceFile>ch8_Malkuth_ep3_hokma1</VoiceFile>
+          <Content>Angela... Arzularının tükettiği bir makine... Bu yola gidemezsin!</Content>
+        </Dialog>
+        <Dialog ID="75" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>YZ Sekreter</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela16</VoiceFile>
+          <Content>Artık ne yapıp yapamayacağıma ben karar veriyorum.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Konum: Kütüphane - Tarih Katı</PlaceName>
+        <Dialog ID="76" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela17</VoiceFile>
+          <Content>Lobotomy Corporation'a sonsuza dek tutunamazsın.</Content>
+        </Dialog>
+        <Dialog ID="77" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela18</VoiceFile>
+          <Content>Kendin hakkında daha fazla şey öğrenmek veya kendi hayatını yaşamakla ilgilenmiyor musun?</Content>
+        </Dialog>
+        <Dialog ID="78" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth34</VoiceFile>
+          <Content>Benim hayatım... O, insanlığı kurtarmak içindi...!</Content>
+        </Dialog>
+        <Dialog ID="79" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth35</VoiceFile>
+          <Content>Bu yüzden hayatımı feda etmeye hazırdım! Daha büyük bir amaç uğrunaydı!</Content>
+        </Dialog>
+        <Dialog ID="80" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Malkuth_ep3_angela19</VoiceFile>
+          <Content>... Ne aptal bir grup.</Content>
+        </Dialog>
+        <Dialog ID="81" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland19</VoiceFile>
+          <Content>Görünüşe göre buradan başka bir fırtına geçmiş.</Content>
+        </Dialog>
+        <Dialog ID="82" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth36</VoiceFile>
+          <Content>Önceki iki hayatımı insanları kurtarmak için verdim. Ve üçüncüyü de vermeye hazırım.</Content>
+        </Dialog>
+        <Dialog ID="83" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth37</VoiceFile>
+          <Content>Tüm bu zorluklara ve sınavlara insanlık uğruna göğüs gerdik!</Content>
+        </Dialog>
+        <Dialog ID="84" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth38</VoiceFile>
+          <Content>Biz sana da aptal gibi mi görünüyoruz, Roland?</Content>
+        </Dialog>
+        <Dialog ID="85" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland20</VoiceFile>
+          <Content>Hım... Şey, o kadar çok detay bilmiyorum. "İnsanlığı kurtarmak" meselesini de anlamıyorum.</Content>
+        </Dialog>
+        <Dialog ID="86" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland21</VoiceFile>
+          <Content>Ama samimiyetle aradığın buysa, yargılamak kimin haddine?</Content>
+        </Dialog>
+        <Dialog ID="87" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth39</VoiceFile>
+          <Content>Elbette samimiydim! Ben...</Content>
+        </Dialog>
+        <Dialog ID="88" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth40</VoiceFile>
+          <Content>... Lütfen, bir süre beni yalnız bırak. Düşünmem gerek.</Content>
+        </Dialog>
+        <Dialog ID="89" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland22</VoiceFile>
+          <Content>Pekâlâ, dinlenmeye ihtiyacın var gibi görünüyor. Unutma, derin nefesler al, tamam mı?</Content>
+        </Dialog>
+        <Dialog ID="90" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Malkuth_ep3_roland23</VoiceFile>
+          <Content>Oh, ayrıca konuşurken bu kadar resmi olmak zorunda değilsin, sadece bilmeni istedim.</Content>
+        </Dialog>
+        <Dialog ID="91" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_Malkuth_ep3_malkuth41</VoiceFile>
+          <Content>... Tamam.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
     <Episode>
       <EpisodeName>Episode 4</EpisodeName>
       <Place>
