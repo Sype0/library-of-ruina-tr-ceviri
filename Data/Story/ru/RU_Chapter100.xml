@@ -7404,234 +7404,234 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
       </Place>
     </Episode>
-    <Episode>
-      <EpisodeName>Episode 2</EpisodeName>
-      <Place>
-        <PlaceName>Konum: Kütüphane - Sanat Katı</PlaceName>
-        <Dialog ID="0" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland1</VoiceFile>
-          <Content>Señor, tienes que levantarte, te vas a enfermar si duermes en el suelo.</Content>
-        </Dialog>
-        <Dialog ID="1" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep2_netzach1</VoiceFile>
-          <Content>(Netzach una vez más le da un vistazo a Roland, antes de darse la vuelta otra vez.)</Content>
-        </Dialog>
-        <Dialog ID="2" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland2</VoiceFile>
-          <Content>Este olor... y esta cosa tirada en el suelo... No me digas...</Content>
-        </Dialog>
-        <Dialog ID="3" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland3</VoiceFile>
-          <Content>... Una lata de cerveza. ¿Dónde demonios la conseguiste?</Content>
-        </Dialog>
-        <Dialog ID="4" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep2_netzach2</VoiceFile>
-          <Content>Esta es la Biblioteca, Roland. Construida con la luz de las posibilidades. Todo es posible mientras tenga el libro correcto.</Content>
-        </Dialog>
-        <Dialog ID="5" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland4</VoiceFile>
-          <Content>Eh... ¿Estás seguro de estar clasificando bien los libros? Al menos parecías bien con recibir invitados.</Content>
-        </Dialog>
-        <Dialog ID="6" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep2_netzach3</VoiceFile>
-          <Content>(Él apunta hacia la pila de libros a su lado.)</Content>
-        </Dialog>
-        <Dialog ID="7" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland5</VoiceFile>
-          <Content>¿Realmente los ordenaste todos? Déjame ver, eso es... Los libros están dispersos por todo el suelo. No pienso que cuente como clasificar...</Content>
-        </Dialog>
-        <Dialog ID="8" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep2_netzach4</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="9" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep2_netzach5</VoiceFile>
-          <Content>Aquí, ten una bebida.</Content>
-        </Dialog>
-        <Dialog ID="10" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland6</VoiceFile>
-          <Content>Jeje, al menos tienes modales. Ya que insistes, voy a tomar un sorbo.</Content>
-        </Dialog>
-        <Dialog ID="11" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland7</VoiceFile>
-          <Content>Uf, nunca pensé que tendría la oportunidad de beber una cerveza aquí.</Content>
-        </Dialog>
-        <Dialog ID="12" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland8</VoiceFile>
-          <Content>No tienes idea de lo que extrañaba esta suavidad chispeante.</Content>
-        </Dialog>
-        <Dialog ID="13" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep2_netzach6</VoiceFile>
-          <Content>¿Está bueno, verdad?</Content>
-        </Dialog>
-        <Dialog ID="14" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland9</VoiceFile>
-          <Content>Demasiado bueno, hermano.</Content>
-        </Dialog>
-        <Dialog ID="15" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland10</VoiceFile>
-          <Content>Así que, ¿cómo están yendo las cosas?</Content>
-        </Dialog>
-        <Dialog ID="16" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep2_netzach7</VoiceFile>
-          <Content>Están yendo, de alguna manera.</Content>
-        </Dialog>
-        <Dialog ID="17" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep2_netzach8</VoiceFile>
-          <Content>Aunque no es que esté satisfecho.</Content>
-        </Dialog>
-        <Dialog ID="18" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland11</VoiceFile>
-          <Content>Entonces, ¿cuál es tu mayor queja en este momento?</Content>
-        </Dialog>
-        <Dialog ID="19" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep2_netzach9</VoiceFile>
-          <Content>Que tengo que tomar las vidas de otros con mis propias manos.</Content>
-        </Dialog>
-        <Dialog ID="20" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland12</VoiceFile>
-          <Content>Pero eres tú o ellos, ¿no es así?</Content>
-        </Dialog>
-        <Dialog ID="21" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep2_netzach10</VoiceFile>
-          <Content>Por eso es que tengo que pelear. Y eso es lo que no me gusta.</Content>
-        </Dialog>
-        <Dialog ID="22" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep2_netzach11</VoiceFile>
-          <Content>Probablemente tendré que matar a más gente mientras más pase el tiempo.</Content>
-        </Dialog>
-        <Dialog ID="23" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep2_netzach12</VoiceFile>
-          <Content>No importa si es un santo o la peor basura de la tierra. Todos quieren vivir.</Content>
-        </Dialog>
-        <Dialog ID="24" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland13</VoiceFile>
-          <Content>Entiendo lo que quieres decir.</Content>
-        </Dialog>
-        <Dialog ID="25" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland14</VoiceFile>
-          <Content>Pero no es muy diferente fuera de aquí. La gente se lastima y mata a otras porque no quieren salir lastimados ellos mismos.</Content>
-        </Dialog>
-        <Dialog ID="26" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland15</VoiceFile>
-          <Content>Tomar las vidas de otros para poder conservar la tuya. ¿Quizás es un poco demasiado obvio?</Content>
-        </Dialog>
-        <Dialog ID="27" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep2_netzach13</VoiceFile>
-          <Content>Supongo que así es como son las cosas fuera.</Content>
-        </Dialog>
-        <Dialog ID="28" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland16</VoiceFile>
-          <Content>Por cierto, ¿de donde eres? ¿Un Nido? ¿Las Callejuelas?</Content>
-        </Dialog>
-        <Dialog ID="29" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep2_netzach14</VoiceFile>
-          <Content>No sé, me siento mareado. Todo lo que recuerdo claramente es que trabajaba en Lobotomy Corp.</Content>
-        </Dialog>
-        <Dialog ID="30" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland17</VoiceFile>
-          <Content>Tuviste que haber estado en una muy buena situación, trabajar para una mega corporación como esa.</Content>
-        </Dialog>
-        <Dialog ID="31" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep2_netzach15</VoiceFile>
-          <Content>¿Realmente lo piensas?</Content>
-        </Dialog>
-        <Dialog ID="32" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland18</VoiceFile>
-          <Content>Obviamente, la gente está obligada a envidiar a cualquiera que pueda unirse a una Ala. Te dan un montón de dinero, tienes muchas comodidades y también ganas un estatus social.</Content>
-        </Dialog>
-        <Dialog ID="33" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep2_netzach16</VoiceFile>
-          <Content>Sí. Eso es lo que siempre dicen.</Content>
-        </Dialog>
-        <Dialog ID="34" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep2_netzach17</VoiceFile>
-          <Content>Vamos a olvidarnos sobre todo eso por ahora y beber un poco más.</Content>
-        </Dialog>
-        <Dialog ID="35" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Netzach_ep2_roland19</VoiceFile>
-          <Content>¡Bien! Vamos a beber mientras podamos.</Content>
-        </Dialog>
-        <Dialog ID="36" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Netzach_ep2_angela1</VoiceFile>
-          <Content>... Tienes que estar bromeando.</Content>
-        </Dialog>
-      </Place>
-    </Episode>
+<Episode>
+      <EpisodeName>Bölüm 2</EpisodeName>
+      <Place>
+        <PlaceName>Konum: Kütüphane - Sanat Katı</PlaceName>
+        <Dialog ID="0" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland1</VoiceFile>
+          <Content>Bayım, kalkmalısınız, yerde uyursanız hasta olursunuz.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_Netzach_ep2_netzach1</VoiceFile>
+          <Content>(Netzach bir kez daha Roland'a şöyle bir bakar, sonra tekrar arkasını döner.)</Content>
+        </Dialog>
+        <Dialog ID="2" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland2</VoiceFile>
+          <Content>Bu koku... ve yere atılmış bu şey... Bana söyleme...</Content>
+        </Dialog>
+        <Dialog ID="3" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland3</VoiceFile>
+          <Content>... Bir bira kutusu. Bunu nereden buldun Tanrı aşkına?</Content>
+        </Dialog>
+        <Dialog ID="4" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_Netzach_ep2_netzach2</VoiceFile>
+          <Content>Burası Kütüphane, Roland. Olasılıkların Işığı'yla inşa edildi. Doğru kitaba sahip olduğum sürece her şey mümkün.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland4</VoiceFile>
+          <Content>Eh... Kitapları doğru bir şekilde sınıflandırdığından emin misin? En azından misafir kabul etmeye istekli görünüyordun.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_Netzach_ep2_netzach3</VoiceFile>
+          <Content>(Yanındaki kitap yığınına doğru işaret eder.)</Content>
+        </Dialog>
+        <Dialog ID="7" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland5</VoiceFile>
+          <Content>Gerçekten hepsini düzenledin mi? Dur bakayım, bu... Kitaplar tüm zemine yayılmış. Pek düzenlemek sayılmaz...</Content>
+        </Dialog>
+        <Dialog ID="8" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_Netzach_ep2_netzach4</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="9" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_Netzach_ep2_netzach5</VoiceFile>
+          <Content>Al, bir içki kap.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland6</VoiceFile>
+          <Content>Hehe, en azından görgü kuralların var. Israr ettiğine göre, bir yudum alacağım.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland7</VoiceFile>
+          <Content>Vay canına, burada bira içme şansı bulacağımı hiç düşünmezdim.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland8</VoiceFile>
+          <Content>Bu köpüklü yumuşaklığı ne kadar özlediğimi bilemezsin.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_Netzach_ep2_netzach6</VoiceFile>
+          <Content>Güzel, değil mi?</Content>
+        </Dialog>
+        <Dialog ID="14" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland9</VoiceFile>
+          <Content>Çok güzel, kardeşim.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland10</VoiceFile>
+          <Content>Peki, işler nasıl gidiyor?</Content>
+        </Dialog>
+        <Dialog ID="16" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_Netzach_ep2_netzach7</VoiceFile>
+          <Content>Bir şekilde gidiyor.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_Netzach_ep2_netzach8</VoiceFile>
+          <Content>Gerçi memnun olduğum söylenemez.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland11</VoiceFile>
+          <Content>Peki, şu anki en büyük şikayetin ne?</Content>
+        </Dialog>
+        <Dialog ID="19" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_Netzach_ep2_netzach9</VoiceFile>
+          <Content>Başkalarının hayatlarını kendi ellerimle almak zorunda olmam.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland12</VoiceFile>
+          <Content>Ama ya sen ya da onlar, öyle değil mi?</Content>
+        </Dialog>
+        <Dialog ID="21" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_Netzach_ep2_netzach10</VoiceFile>
+          <Content>Bu yüzden savaşmak zorundayım. Ve hoşlanmadığım şey bu.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_Netzach_ep2_netzach11</VoiceFile>
+          <Content>Zaman geçtikçe muhtemelen daha fazla insanı öldürmem gerekecek.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_Netzach_ep2_netzach12</VoiceFile>
+          <Content>İster aziz olsun ister dünyanın en kötü çöpü. Herkes yaşamak ister.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland13</VoiceFile>
+          <Content>Ne demek istediğini anlıyorum.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland14</VoiceFile>
+          <Content>Ama buranın dışı da pek farklı değil. İnsanlar inciniyor ve başkalarını öldürüyor, çünkü kendileri incinmek istemiyor.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland15</VoiceFile>
+          <Content>Kendi hayatını korumak için başkalarının hayatlarını almak. Belki sadece biraz fazla açık, değil mi?</Content>
+        </Dialog>
+        <Dialog ID="27" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_Netzach_ep2_netzach13</VoiceFile>
+          <Content>Sanırım dışarıdaki işler böyledir.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland16</VoiceFile>
+          <Content>Bu arada, sen nerelisin? Bir Yuva'dan mı? Yoksa Ara Sokaklar'dan mı?</Content>
+        </Dialog>
+        <Dialog ID="29" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_Netzach_ep2_netzach14</VoiceFile>
+          <Content>Bilmiyorum, başım dönüyor. Net hatırladığım tek şey Lobotomy Corp.'ta çalıştığımdı.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland17</VoiceFile>
+          <Content>Böyle bir mega şirket için çalıştığına göre, çok iyi bir konumda olmalıydın.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_Netzach_ep2_netzach15</VoiceFile>
+          <Content>Gerçekten öyle mi düşünüyorsun?</Content>
+        </Dialog>
+        <Dialog ID="32" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland18</VoiceFile>
+          <Content>Açıkça, insanlar bir Kanat'a katılabilen herkesi kıskanmak zorundadır. Sana bir sürü para verirler, bir sürü kolaylığın olur ve sosyal statü de kazanırsın.</Content>
+        </Dialog>
+        <Dialog ID="33" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_Netzach_ep2_netzach16</VoiceFile>
+          <Content>Evet. Hep böyle söylerler.</Content>
+        </Dialog>
+        <Dialog ID="34" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_Netzach_ep2_netzach17</VoiceFile>
+          <Content>Şimdilik hepsini unutalım ve biraz daha içelim.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Netzach_ep2_roland19</VoiceFile>
+          <Content>Güzel! Yapabildiğimiz kadar içelim.</Content>
+        </Dialog>
+        <Dialog ID="36" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Netzach_ep2_angela1</VoiceFile>
+          <Content>... Şaka yapıyor olmalısın.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
     <Episode>
       <EpisodeName>Episode 3</EpisodeName>
       <Place>
