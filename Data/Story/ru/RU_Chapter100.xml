@@ -2703,621 +2703,620 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Episode 3</EpisodeName>
-      <Place>
-        <PlaceName>Konum: Kütüphane - Teknolojik Bilimler Katı</PlaceName>
-        <Dialog ID="0" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland1</VoiceFile>
-          <Content>Tu entrega de libros está aquí, también arreglé mi ropa de antemano esta vez.</Content>
-        </Dialog>
-        <Dialog ID="1" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod1</VoiceFile>
-          <Content>Oh, saludos, perrito de Angela.</Content>
-        </Dialog>
-        <Dialog ID="2" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland2</VoiceFile>
-          <Content>Venga, ¿sigues con eso?</Content>
-        </Dialog>
-        <Dialog ID="3" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod2</VoiceFile>
-          <Content>Por lo menos los libros que trajiste la última vez fueron interesantes. Aprendí que las tecnologías utilizadas en las Callejuelas están hechas todo un lío.</Content>
-        </Dialog>
-        <Dialog ID="4" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod3</VoiceFile>
-          <Content>Desde equipamiento hecho de chatarras, hasta ropas tejidas con antimateria. Todo tipo de tecnologías de distintos niveles de avance tecnológico pueden ser vistos.</Content>
-        </Dialog>
-        <Dialog ID="5" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland3</VoiceFile>
-          <Content>Hay tecnología de punta por ahí, pero solo unos pocos privilegiados pueden usarlas.</Content>
-        </Dialog>
-        <Dialog ID="6" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod4</VoiceFile>
-          <Content>Asumo que la riqueza es un factor determinante.</Content>
-        </Dialog>
-        <Dialog ID="7" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland4</VoiceFile>
-          <Content>Estamos en una era donde la gente rica no tiene que preocuparse de ninguna enfermedad.</Content>
-        </Dialog>
-        <Dialog ID="8" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland5</VoiceFile>
-          <Content>También tenemos todo tipo de curas. Que te son entregadas si tienes dinero para comprarlas.</Content>
-        </Dialog>
-        <Dialog ID="9" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland6</VoiceFile>
-          <Content>Y entonces tenemos a gente jugando a ser Dios con las tecnologías llamadas ‘Singularidades’.</Content>
-        </Dialog>
-        <Dialog ID="10" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland7</VoiceFile>
-          <Content>Por cierto, ¿cuál era singularidad de Lobotomy Corp? L Corp. ya se ha ido, así que nadie nos va a demandar por hablar de esto.</Content>
-        </Dialog>
-        <Dialog ID="11" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod5</VoiceFile>
-          <Content>No tienes ninguna vergüenza. Pero supongo que no hace daño decirte.</Content>
-        </Dialog>
-        <Dialog ID="12" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland8</VoiceFile>
-          <Content>Eh, deja de tratarme como un idiota. No soy TAN estúpido, ¡¿sabes?!</Content>
-        </Dialog>
-        <Dialog ID="13" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod6</VoiceFile>
-          <Content>La singularidad de Lobotomy Corporation era manifestar físicamente la mente humana, un concepto abstracto.</Content>
-        </Dialog>
-        <Dialog ID="14" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod7</VoiceFile>
-          <Content>Convertir las emociones de los humanos en energía física, de la misma forma que lo hace la Biblioteca.</Content>
-        </Dialog>
-        <Dialog ID="15" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod8</VoiceFile>
-          <Content>Las emociones humanas pueden ser interpretadas como una masa compleja.</Content>
-        </Dialog>
-        <Dialog ID="16" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod9</VoiceFile>
-          <Content>Esa masa se desarrolla a través de las experiencias. Cuando las emociones son lo suficientemente elevadas, se puede conseguir una página. Un espacio está reservado para el libro de esa persona; es una manifestación de su ego.</Content>
-        </Dialog>
-        <Dialog ID="17" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod10</VoiceFile>
-          <Content>Mientras la batalla se vuelve más dura y el combatiente se agita, su ego se intensificará y permitirá que su estado mental se exprese de una manera física.</Content>
-        </Dialog>
-        <Dialog ID="18" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland9</VoiceFile>
-          <Content>Manifestación física de la mente, ¿eh?.</Content>
-        </Dialog>
-        <Dialog ID="19" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland10</VoiceFile>
-          <Content>... Esto parece muy similar a la distorsión...</Content>
-        </Dialog>
-        <Dialog ID="20" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod12</VoiceFile>
-          <Content>¿Qué acabas de decir?</Content>
-        </Dialog>
-        <Dialog ID="21" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland11</VoiceFile>
-          <Content>Oh, nada. Solo hablaba conmigo mismo. De todos modos, ¿eh? Eso de verdad suena como una singularidad. ¡Realmente impresionante!</Content>
-        </Dialog>
-        <Dialog ID="22" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland12</VoiceFile>
-          <Content>Ya sabes, esto me deja algunas preguntas. Malkuth dijo que ustedes eran parte de un proyecto que quería salvar a la humanidad, ¿verdad?</Content>
-        </Dialog>
-        <Dialog ID="23" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod13</VoiceFile>
-          <Content>... Eso es cierto.</Content>
-        </Dialog>
-        <Dialog ID="24" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland13</VoiceFile>
-          <Content>¿A qué tipo de salvación se refieren?</Content>
-        </Dialog>
-        <Dialog ID="25" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland14</VoiceFile>
-          <Content>¿Hacer que el dinero llueva del cielo o algo? Eso de verdad podría salvarlos a todos.</Content>
-        </Dialog>
-        <Dialog ID="26" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod14</VoiceFile>
-          <Content>No puede ser comparado a algo tan ridículo.</Content>
-        </Dialog>
-        <Dialog ID="27" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod15</VoiceFile>
-          <Content>Y no tienes el derecho a hablar tan ligeramente sobre el sacrificio que hicimos.</Content>
-        </Dialog>
-        <Dialog ID="28" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland15</VoiceFile>
-          <Content>Wow, okay, solo cálmate. Uf, uno no puede hacer ni una broma aquí.</Content>
-        </Dialog>
-        <Dialog ID="29" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod16</VoiceFile>
-          <Content>Nosotros buscábamos curar la mente. Carmen era la líder del equipo de investigación.</Content>
-        </Dialog>
-        <Dialog ID="30" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod17</VoiceFile>
-          <Content>Ella decía que cada persona en la Ciudad tenía una mente enferma.</Content>
-        </Dialog>
-        <Dialog ID="31" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod18</VoiceFile>
-          <Content>Y que esa enfermedad era muy grave, que la humanidad se iba a dirigir lentamente hacia su propia destrucción a ese paso.</Content>
-        </Dialog>
-        <Dialog ID="32" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod19</VoiceFile>
-          <Content>Ella describió la situación como una manada saltando voluntariamente por un acantilado.</Content>
-        </Dialog>
-        <Dialog ID="33" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland16</VoiceFile>
-          <Content>¿Qué? Ella huele como una líder de un culto sombrío de acuerdo con mis sentidos de Fixer.</Content>
-        </Dialog>
-        <Dialog ID="34" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland17</VoiceFile>
-          <Content>¿Y todos estaban de acuerdo con lo que ella dijo?</Content>
-        </Dialog>
-        <Dialog ID="35" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod20</VoiceFile>
-          <Content>Y ahora me estás tomando por un tonto. Por supuesto que había estudios científicos para probar su afirmación.</Content>
-        </Dialog>
-        <Dialog ID="36" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod21</VoiceFile>
-          <Content>Supongo que sería inútil que te los describiera en detalles.</Content>
-        </Dialog>
-        <Dialog ID="37" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland18</VoiceFile>
-          <Content>Vale, cerebrito. Dejando eso de lado...</Content>
-        </Dialog>
-        <Dialog ID="38" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland19</VoiceFile>
-          <Content>¿Tuvieron éxito con eso de salvar la humanidad?</Content>
-        </Dialog>
-        <Dialog ID="39" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod22</VoiceFile>
-          <Content>Qué molesto eres. Si hubiéramos tenido éxito, no estaríamos aquí ahora mismo.</Content>
-        </Dialog>
-        <Dialog ID="40" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland20</VoiceFile>
-          <Content>Oh, cierto, tienes un punto.</Content>
-        </Dialog>
-        <Dialog ID="41" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod23</VoiceFile>
-          <Content>El hecho de que falláramos en salvar a la humanidad no es lo que más me molesta.</Content>
-        </Dialog>
-        <Dialog ID="42" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod24</VoiceFile>
-          <Content>Hemos cometido incontables pecados.</Content>
-        </Dialog>
-        <Dialog ID="43" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod25</VoiceFile>
-          <Content>En el nombre de un propósito justo: salvar la humanidad.</Content>
-        </Dialog>
-        <Dialog ID="44" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod26</VoiceFile>
-          <Content>Nos convencimos a nosotros mismos de que no teníamos otra elección.</Content>
-        </Dialog>
-        <Dialog ID="45" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod27</VoiceFile>
-          <Content>Y realizamos experimentos poco éticos, sabiendo que conduciría a la muerte de los empleados en Lobotomy Corporation.</Content>
-        </Dialog>
-        <Dialog ID="46" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod28</VoiceFile>
-          <Content>Toleramos todos esos hechos viles por un bien mayor.</Content>
-        </Dialog>
-        <Dialog ID="47" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod29</VoiceFile>
-          <Content>Pero todo eso fue para nada.</Content>
-        </Dialog>
-        <Dialog ID="48" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod30</VoiceFile>
-          <Content>¡¿Qué se hará con nuestros sacrificios?!</Content>
-        </Dialog>
-        <Dialog ID="49" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod31</VoiceFile>
-          <Content>Todo el dolor que yo y mis compañeros aguantamos... ¡Angela lo arruinó todo!</Content>
-        </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Konum: Sede de Lobotomy Corporation</PlaceName>
-        <Dialog ID="50" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Sephirah Equipo de disciplina</Title>
-          <VoiceFile>ch8_Yesod_ep3_gebura1</VoiceFile>
-          <Content>Uf... Uf...</Content>
-        </Dialog>
-        <Dialog ID="51" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Sephirah Equipo de extracción</Title>
-          <VoiceFile>ch8_Yesod_ep3_binah1</VoiceFile>
-          <Content>¿Ya estás agotada? Qué lástima, mis empleados y yo estamos listos para más.</Content>
-        </Dialog>
-        <Dialog ID="52" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Sephirah Equipo de disciplina</Title>
-          <VoiceFile>ch8_Yesod_ep3_gebura2</VoiceFile>
-          <Content>No seas ridícula. Esta vez me aseguraré de matarte.</Content>
-        </Dialog>
-        <Dialog ID="53" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Sephirah Equipo de información</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod32</VoiceFile>
-          <Content>¡Binah! Ni siquiera tú serás capaz de detenernos cuando trabajamos juntos.</Content>
-        </Dialog>
-        <Dialog ID="54" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Sephirah Equipo de extracción</Title>
-          <VoiceFile>ch8_Yesod_ep3_binah2</VoiceFile>
-          <Content>Has dicho algo bastante válido. Es cierto, incluso yo no puedo pararlos a todos en tan poco tiempo.</Content>
-        </Dialog>
-        <Dialog ID="55" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Sephirah Equipo de extracción</Title>
-          <VoiceFile>ch8_Yesod_ep3_binah3</VoiceFile>
-          <Content>Necesitamos que actúes rápidamente, Angela.</Content>
-        </Dialog>
-        <Dialog ID="56" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
-          <VoiceFile>ch8_Yesod_ep3_angela1</VoiceFile>
-          <Content>Estaba a punto de hacer algo al respecto.</Content>
-        </Dialog>
-        <Dialog ID="57" Model="NONE">
-          <Teller>ALERTA</Teller>
-          <Title>ALERTA</Title>
-          <Content />
-        </Dialog>
-        <Dialog ID="58" Model="헤세드">
-          <Teller>Chesed</Teller>
-          <Title>Sephirah Equipo de bienestar</Title>
-          <VoiceFile>ch8_Yesod_ep3_chesed1</VoiceFile>
-          <Content>¡Oh, no puede ser! El nivel de qliphoth está bajando. Ella está sobreescribiendo mi autoridad en el sistema...</Content>
-        </Dialog>
-        <Dialog ID="59" Model="NONE">
-          <Teller>ALERTA</Teller>
-          <Title>ALERTA</Title>
-          <Content />
-        </Dialog>
-        <Dialog ID="60" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Sephirah Equipo de seguridad</Title>
-          <VoiceFile>ch8_Yesod_ep3_netzach1</VoiceFile>
-          <Content>Las anormalidades se están liberando...</Content>
-        </Dialog>
-        <Dialog ID="61" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Sephirah Equipo de control</Title>
-          <VoiceFile>ch8_Yesod_ep3_malkuth1</VoiceFile>
-          <Content>¡Todos los Sephirot y el personal, sigan mi guía!</Content>
-        </Dialog>
-        <Dialog ID="62" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Sephirah Equipo de control</Title>
-          <VoiceFile>ch8_Yesod_ep3_malkuth2</VoiceFile>
-          <Content>¡El equipo de control estará al mando desde ahora!</Content>
-        </Dialog>
-        <Dialog ID="63" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Sephirah Equipo de control</Title>
-          <VoiceFile>ch8_Yesod_ep3_malkuth3</VoiceFile>
-          <Content>¡Hokma y el equipo de registro, detengan a Angela de tomar todos los sistemas!</Content>
-        </Dialog>
-        <Dialog ID="64" Model="호크마">
-          <Teller>Hokma</Teller>
-          <Title>Sephirah Equipo de registro</Title>
-          <VoiceFile>ch8_Yesod_ep3_hokma1</VoiceFile>
-          <Content>Entendido.</Content>
-        </Dialog>
-        <Dialog ID="65" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Sephirah Equipo de control</Title>
-          <VoiceFile>ch8_Yesod_ep3_malkuth4</VoiceFile>
-          <Content>¡Gebura y el equipo de disciplina, mantengan a Binah a raya!</Content>
-        </Dialog>
-        <Dialog ID="66" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Sephirah Equipo de disciplina</Title>
-          <VoiceFile>ch8_Yesod_ep3_gebura3</VoiceFile>
-          <Content>Por supuesto... Déjamelo a mí.</Content>
-        </Dialog>
-        <Dialog ID="67" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Sephirah Equipo de control</Title>
-          <VoiceFile>ch8_Yesod_ep3_malkuth5</VoiceFile>
-          <Content>¡Hod y el equipo de entrenamiento, entreguen a los empleados el manual correcto y la información!</Content>
-        </Dialog>
-        <Dialog ID="68" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
-          <VoiceFile>ch8_Yesod_ep3_hod1</VoiceFile>
-          <Content>¡Atención a todos los empleados! Este es un protocolo de emergencia Tipo-X.</Content>
-        </Dialog>
-        <Dialog ID="69" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
-          <VoiceFile>ch8_Yesod_ep3_hod2</VoiceFile>
-          <Content>¡Actúen acordemente con las siguientes instrucciones!</Content>
-        </Dialog>
-        <Dialog ID="70" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Sephirah Equipo de control</Title>
-          <VoiceFile>ch8_Yesod_ep3_malkuth6</VoiceFile>
-          <Content>Netzach y el equipo de seguridad, céntrense en tratar a los heridos.</Content>
-        </Dialog>
-        <Dialog ID="71" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Sephirah Equipo de seguridad</Title>
-          <VoiceFile>ch8_Yesod_ep3_netzach2</VoiceFile>
-          <Content>Bien. Los trataré tan rápido como pueda.</Content>
-        </Dialog>
-        <Dialog ID="72" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Sephirah Equipo de control</Title>
-          <VoiceFile>ch8_Yesod_ep3_malkuth7</VoiceFile>
-          <Content>¡Yesod y el equipo de información, identifiquen las debilidades de las anormalidades que escaparon de inmediato!</Content>
-        </Dialog>
-        <Dialog ID="73" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Sephirah Equipo de información</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod33</VoiceFile>
-          <Content>Las analizaré con la mayor precisión.</Content>
-        </Dialog>
-        <Dialog ID="74" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Sephirah Equipo de control</Title>
-          <VoiceFile>ch8_Yesod_ep3_malkuth8</VoiceFile>
-          <Content>Chesed y el equipo de bienestar, ocúpense de restaurar el nivel de Qliphoth tan pronto como sea posible.</Content>
-        </Dialog>
-        <Dialog ID="75" Model="헤세드">
-          <Teller>Chesed</Teller>
-          <Title>Sephirah Equipo de bienestar</Title>
-          <VoiceFile>ch8_Yesod_ep3_chesed2</VoiceFile>
-          <Content>Lo haré, esto es mi culpa después de todo...</Content>
-        </Dialog>
-        <Dialog ID="76" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Sephirah Equipo de control</Title>
-          <VoiceFile>ch8_Yesod_ep3_malkuth9</VoiceFile>
-          <Content>¡No hay tiempo para sentirse culpable, Chesed!</Content>
-        </Dialog>
-        <Dialog ID="77" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Sephirah Equipo de control</Title>
-          <VoiceFile>ch8_Yesod_ep3_malkuth10</VoiceFile>
-          <Content>¡Tiphereth y el equipo de comando central, ocúpense de apoyar a todos con su ingenio!</Content>
-        </Dialog>
-        <Dialog ID="78" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Sephirah Equipo de comando central</Title>
-          <VoiceFile>ch8_Yesod_ep3_tiphereth1</VoiceFile>
-          <Content>¡Lo haré! ¡No hay necesidad de decirlo!</Content>
-        </Dialog>
-        <Dialog ID="79" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Sephirah Equipo de extracción</Title>
-          <VoiceFile>ch8_Yesod_ep3_binah4</VoiceFile>
-          <Content>Me divierte enormemente verlos a todos actuar coordinadamente.</Content>
-        </Dialog>
-        <Dialog ID="80" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Sephirah Equipo de extracción</Title>
-          <VoiceFile>ch8_Yesod_ep3_binah5</VoiceFile>
-          <Content>Ahora, intenten detenernos hasta el final.</Content>
-        </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Konum: Kütüphane - Teknolojik Bilimler Katı</PlaceName>
-        <Dialog ID="81" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod34</VoiceFile>
-          <Content>Nunca lo entenderías. Lo desesperados que estábamos para detenerla de apagar nuestra luz.</Content>
-        </Dialog>
-        <Dialog ID="82" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod35</VoiceFile>
-          <Content>Y la culpa que sentimos al final.</Content>
-        </Dialog>
-        <Dialog ID="83" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland21</VoiceFile>
-          <Content>Tienes razón, nunca lo entendería. Todo lo que me importa es ayudar a Angela. Solo quiero que consiga su meta, ya sabes.</Content>
-        </Dialog>
-        <Dialog ID="84" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod36</VoiceFile>
-          <Content>Simplemente quieres resultados, sin importar el proceso.</Content>
-        </Dialog>
-        <Dialog ID="85" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod37</VoiceFile>
-          <Content>No eres diferente de Angela, en que solo te preocupas por ti mismo.</Content>
-        </Dialog>
-        <Dialog ID="86" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod38</VoiceFile>
-          <Content>Eres despreciable. Un típico ejemplo de un habitante de la Ciudad, sufriendo de la enfermedad de la mente.</Content>
-        </Dialog>
-        <Dialog ID="87" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod39</VoiceFile>
-          <Content>Usas las tecnologías que la Ciudad tiene para ofrecerte inmediatamente en tu conveniencia, sin saber o preocuparte de los sacrificios sobre los que fueron construidas esas tecnologías.</Content>
-        </Dialog>
-        <Dialog ID="88" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod40</VoiceFile>
-          <Content>... Sin saber que estás caminando hacia tu propia muerte.</Content>
-        </Dialog>
-        <Dialog ID="89" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland22</VoiceFile>
-          <Content>Oh, ¿así que eso era de lo que trataba la “mente enferma”?</Content>
-        </Dialog>
-        <Dialog ID="90" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland23</VoiceFile>
-          <Content>¿Qué debería apreciar más el proceso que los resultados? Ja, eran un montón de soñadores que miran a la gente por debajo.</Content>
-        </Dialog>
-        <Dialog ID="91" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland24</VoiceFile>
-          <Content>Apuesto que eras de uno de los Nidos.</Content>
-        </Dialog>
-        <Dialog ID="92" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland25</VoiceFile>
-          <Content>Mira, sé mejor que nadie sobre el precio de esas tecnologías y las singularidades.</Content>
-        </Dialog>
-        <Dialog ID="93" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland26</VoiceFile>
-          <Content>Enfermedad de la mente una mierda...</Content>
-        </Dialog>
-        <Dialog ID="94" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland27</VoiceFile>
-          <Content>¿Y apuntas a la gente por usar singularidades sin saber cómo funcionan realmente?</Content>
-        </Dialog>
-        <Dialog ID="95" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland28</VoiceFile>
-          <Content>¡Eso es porque ellos nunca tuvieron otra opción!</Content>
-        </Dialog>
-        <Dialog ID="96" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland29</VoiceFile>
-          <Content>Las Corporaciones ocultan tanto a sus consumidores que eventualmente dejaron de preguntar.</Content>
-        </Dialog>
-        <Dialog ID="97" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland30</VoiceFile>
-          <Content>¡Porque ellos están cansados! ¡Están demasiado ocupados intentando sobrevivir cada día de sus vidas!</Content>
-        </Dialog>
-        <Dialog ID="98" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod41</VoiceFile>
-          <Content>Parece que no me estoy comunicando para nada contigo.</Content>
-        </Dialog>
-        <Dialog ID="99" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Yesod_ep3_roland31</VoiceFile>
-          <Content>Oh, es una coincidencia. Estaba pensando exactamente lo mismo.</Content>
-        </Dialog>
-        <Dialog ID="100" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_Yesod_ep3_yesod42</VoiceFile>
-          <Content>Sin importar lo que digas, no quiero ignorar la realidad o deformarla.</Content>
-        </Dialog>
-      </Place>
-    </Episode>
+<EpisodeName>Bölüm 3</EpisodeName>
+      <Place>
+        <PlaceName>Konum: Kütüphane - Teknolojik Bilimler Katı</PlaceName>
+        <Dialog ID="0" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland1</VoiceFile>
+          <Content>Kitap teslimatın burada, bu sefer kıyafetimi de önceden düzelttim.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod1</VoiceFile>
+          <Content>Oh, selam, Angela'nın küçük köpeği.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland2</VoiceFile>
+          <Content>Gel de gör, hala mı bununla uğraşıyorsun?</Content>
+        </Dialog>
+        <Dialog ID="3" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod2</VoiceFile>
+          <Content>En azından geçen sefer getirdiğin kitaplar ilgi çekiciydi. Ara Sokaklar'da kullanılan teknolojilerin tam bir karmaşa olduğunu öğrendim.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod3</VoiceFile>
+          <Content>Hurda parçalarından yapılmış ekipmanlardan, antimadde ile dokunmuş giysilere kadar. Teknolojik gelişimin farklı seviyelerinden her türlü teknoloji görülebilir.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland3</VoiceFile>
+          <Content>Oralarda en son teknoloji var, ama sadece birkaç ayrıcalıklı kişi bunları kullanabilir.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod4</VoiceFile>
+          <Content>Sanırım zenginlik belirleyici bir faktör.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland4</VoiceFile>
+          <Content>Zengin insanların herhangi bir hastalık için endişelenmek zorunda kalmadığı bir çağdayız.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland5</VoiceFile>
+          <Content>Ayrıca her türlü tedavi de mevcut. Paranız varsa size sunuluyor.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland6</VoiceFile>
+          <Content>Ve sonra 'Tekillikler' adı verilen teknolojilerle Tanrı'yı oynamaya çalışan insanlar var.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland7</VoiceFile>
+          <Content>Bu arada, Lobotomy Corp.'un tekilliği neydi? L Corp. çoktan gitti, yani artık bunun hakkında konuşursak kimse bizi dava etmez.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod5</VoiceFile>
+          <Content>Hiç utanman yok. Ama sanırım sana söylemekten zarar gelmez.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland8</VoiceFile>
+          <Content>Hey, bana aptal muamelesi yapmayı bırak. O KADAR aptal değilim, biliyor musun?!</Content>
+        </Dialog>
+        <Dialog ID="13" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod6</VoiceFile>
+          <Content>Lobotomy Corporation'ın tekilliği, soyut bir kavram olan insan zihnini fiziksel olarak tezahür ettirmekti.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod7</VoiceFile>
+          <Content>Tıpkı Kütüphane'nin yaptığı gibi, insanların duygularını fiziksel enerjiye dönüştürmek.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod8</VoiceFile>
+          <Content>İnsan duyguları, karmaşık bir kitle olarak yorumlanabilir.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod9</VoiceFile>
+          <Content>Bu kitle, deneyimler yoluyla gelişir. Duygular yeterince yükseldiğinde bir sayfa elde edilebilir. O kişinin kitabı için bir yer ayrılmıştır; bu onun egosunun bir tezahürüdür.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod10</VoiceFile>
+          <Content>Savaş kızıştıkça ve savaşçı daha da heyecanlandıkça, egosu yoğunlaşacak ve zihinsel durumunun fiziksel bir şekilde ifade edilmesini sağlayacaktır.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland9</VoiceFile>
+          <Content>Zihnin fiziksel tezahürü, ha?.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland10</VoiceFile>
+          <Content>... Bu, Bozulma'ya çok benziyor...</Content>
+        </Dialog>
+        <Dialog ID="20" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod12</VoiceFile>
+          <Content>Ne dedin az önce?</Content>
+        </Dialog>
+        <Dialog ID="21" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland11</VoiceFile>
+          <Content>Ah, hiçbir şey. Sadece kendi kendime konuşuyordum. Neyse, ha? Bu gerçekten bir tekillik gibi geliyor. Gerçekten etkileyici!</Content>
+        </Dialog>
+        <Dialog ID="22" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland12</VoiceFile>
+          <Content>Biliyor musun, bu bana bazı sorular düşündürtüyor. Malkuth, sizlerin insanlığı kurtarmayı amaçlayan bir projenin parçası olduğunuzu söylemişti, değil mi?</Content>
+        </Dialog>
+        <Dialog ID="23" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod13</VoiceFile>
+          <Content>... Doğru.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland13</VoiceFile>
+          <Content>Ne tür bir kurtuluştan bahsediyorsunuz?</Content>
+        </Dialog>
+        <Dialog ID="25" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland14</VoiceFile>
+          <Content>Gökyüzünden para mı yağdırmak falan mı? Bu gerçekten herkesi kurtarabilir.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod14</VoiceFile>
+          <Content>Böyle saçma bir şeyle karşılaştırılamaz.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod15</VoiceFile>
+          <Content>Ve yaptığımız fedakarlık hakkında bu kadar hafife konuşmaya hakkın yok.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland15</VoiceFile>
+          <Content>Vay, tamam, sakin ol. Öf, burada şaka bile yapılamıyor.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod16</VoiceFile>
+          <Content>Biz zihni iyileştirmeyi amaçladık. Carmen araştırma ekibinin lideriydi.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod17</VoiceFile>
+          <Content>Şehirdeki herkesin hasta bir zihne sahip olduğunu söyledi.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod18</VoiceFile>
+          <Content>Ve bu hastalığın çok ciddi olduğunu, insanlığın bu gidişle yavaşça kendi yıkımına doğru ilerleyeceğini söyledi.</Content>
+        </Dialog>
+        <Dialog ID="32" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod19</VoiceFile>
+          <Content>Durumu, bir sürünün isteyerek uçurumdan atlamasına benzetti.</Content>
+        </Dialog>
+        <Dialog ID="33" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland16</VoiceFile>
+          <Content>Ne? Benim Tamirci duyularıma göre o, karanlık bir tarikat lideri gibi kokuyor.</Content>
+        </Dialog>
+        <Dialog ID="34" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland17</VoiceFile>
+          <Content>Ve herkes onun söylediklerine katılıyor muydu?</Content>
+        </Dialog>
+        <Dialog ID="35" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod20</VoiceFile>
+          <Content>Şimdi de beni aptal yerine koyuyorsun. Elbette, iddiasını kanıtlamak için bilimsel çalışmalar vardı.</Content>
+        </Dialog>
+        <Dialog ID="36" Model="예소드">
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod21</VoiceFile>
+          <Content>Tahmin ederim ki, onları sana detaylı anlatmam boşuna olur.</Content>
+        </Dialog>
+        <Dialog ID="37" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland18</VoiceFile>
+          <Content>Pekala, zeki çocuk. Bunu bir kenara bırakırsak...</Content>
+        </Dialog>
+        <Dialog ID="38" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland19</VoiceFile>
+          <Content>Peki, insanlığı kurtarma konusunda başarılı oldunuz mu?</Content>
+        </Dialog>
+        <Dialog ID="39" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod22</VoiceFile>
+          <Content>Ne kadar sinir bozucusun. Başarılı olsaydık, şu an burada olmazdık.</Content>
+        </Dialog>
+        <Dialog ID="40" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland20</VoiceFile>
+          <Content>Ah, doğru, haklısın.</Content>
+        </Dialog>
+        <Dialog ID="41" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod23</VoiceFile>
+          <Content>İnsanlığı kurtaramamış olmamız, beni en çok rahatsız eden şey değil.</Content>
+        </Dialog>
+        <Dialog ID="42" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod24</VoiceFile>
+          <Content>Sayısız günah işledik.</Content>
+        </Dialog>
+        <Dialog ID="43" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod25</VoiceFile>
+          <Content>Haklı bir amaç uğruna: insanlığı kurtarmak.</Content>
+        </Dialog>
+        <Dialog ID="44" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod26</VoiceFile>
+          <Content>Kendimizi, başka seçeneğimiz olmadığına ikna ettik.</Content>
+        </Dialog>
+        <Dialog ID="45" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod27</VoiceFile>
+          <Content>Ve etik olmayan deneyler yaptık, bunların Lobotomy Corporation çalışanlarının ölümüne yol açacağını bilerek.</Content>
+        </Dialog>
+        <Dialog ID="46" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod28</VoiceFile>
+          <Content>Tüm bu aşağılık eylemlere daha büyük bir iyilik için katlandık.</Content>
+        </Dialog>
+        <Dialog ID="47" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod29</VoiceFile>
+          <Content>Ama hepsi boşunaydı.</Content>
+        </Dialog>
+        <Dialog ID="48" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod30</VoiceFile>
+          <Content>Peki ya fedakarlıklarımıza ne olacak?!</Content>
+        </Dialog>
+        <Dialog ID="49" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod31</VoiceFile>
+          <Content>Benim ve yoldaşlarımın katlandığı tüm acı... Angela her şeyi mahvetti!</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Konum: Lobotomy Corporation Merkezi</PlaceName>
+        <Dialog ID="50" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Sephirah Disiplin Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_gebura1</VoiceFile>
+          <Content>Öf... Öf...</Content>
+        </Dialog>
+        <Dialog ID="51" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Sephirah Tahliye Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_binah1</VoiceFile>
+          <Content>Şimdiden yoruldun mu? Ne yazık, çalışanlarım ve ben daha fazlasına hazırız.</Content>
+        </Dialog>
+        <Dialog ID="52" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Sephirah Disiplin Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_gebura2</VoiceFile>
+          <Content>Saçmalama. Bu sefer seni kesinlikle öldüreceğim.</Content>
+        </Dialog>
+        <Dialog ID="53" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Sephirah Bilgi Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod32</VoiceFile>
+          <Content>Binah! Birlikte çalıştığımızda sen bile bizi durduramazsın.</Content>
+        </Dialog>
+        <Dialog ID="54" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Sephirah Tahliye Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_binah2</VoiceFile>
+          <Content>Oldukça geçerli bir şey söyledin. Doğru, o kadar kısa sürede hepinizi durduramam.</Content>
+        </Dialog>
+        <Dialog ID="55" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Sephirah Tahliye Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_binah3</VoiceFile>
+          <Content>Angela, çabuk hareket etmelisin.</Content>
+        </Dialog>
+        <Dialog ID="56" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Yapay Zeka Sekreter</Title>
+          <VoiceFile>ch8_Yesod_ep3_angela1</VoiceFile>
+          <Content>Tam da bununla ilgili bir şeyler yapmak üzereydim.</Content>
+        </Dialog>
+        <Dialog ID="57" Model="NONE">
+          <Teller>UYARI</Teller>
+          <Title>UYARI</Title>
+          <Content />
+        </Dialog>
+        <Dialog ID="58" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Sephirah Refah Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_chesed1</VoiceFile>
+          <Content>Aman Tanrım! Qliphoth seviyesi düşüyor. Sistemdeki yetkimi geçersiz kılıyor...</Content>
+        </Dialog>
+        <Dialog ID="59" Model="NONE">
+          <Teller>UYARI</Teller>
+          <Title>UYARI</Title>
+          <Content />
+        </Dialog>
+        <Dialog ID="60" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Sephirah Güvenlik Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_netzach1</VoiceFile>
+          <Content>Anormallikler serbest kalıyor...</Content>
+        </Dialog>
+        <Dialog ID="61" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Sephirah Kontrol Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_malkuth1</VoiceFile>
+          <Content>Tüm Sephirot ve personel, benim rehberliğimi izleyin!</Content>
+        </Dialog>
+        <Dialog ID="62" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Sephirah Kontrol Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_malkuth2</VoiceFile>
+          <Content>Kontrol Ekibi şu andan itibaren komutada olacak!</Content>
+        </Dialog>
+        <Dialog ID="63" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Sephirah Kontrol Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_malkuth3</VoiceFile>
+          <Content>Hokma ve Kayıt Ekibi, Angela'nın tüm sistemleri ele geçirmesini durdurun!</Content>
+        </Dialog>
+        <Dialog ID="64" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Sephirah Kayıt Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_hokma1</VoiceFile>
+          <Content>Anlaşıldı.</Content>
+        </Dialog>
+        <Dialog ID="65" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Sephirah Kontrol Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_malkuth4</VoiceFile>
+          <Content>Gebura ve Disiplin Ekibi, Binah'ı kontrol altında tutun!</Content>
+        </Dialog>
+        <Dialog ID="66" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Sephirah Disiplin Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_gebura3</VoiceFile>
+          <Content>Elbette... Bana bırakın.</Content>
+        </Dialog>
+        <Dialog ID="67" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Sephirah Kontrol Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_malkuth5</VoiceFile>
+          <Content>Hod ve Eğitim Ekibi, çalışanlara doğru kılavuzu ve bilgileri iletin!</Content>
+        </Dialog>
+        <Dialog ID="68" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Sephirah Eğitim Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_hod1</VoiceFile>
+          <Content>Tüm çalışanların dikkatine! Bu bir Tip-X acil durum protokolüdür.</Content>
+        </Dialog>
+        <Dialog ID="69" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Sephirah Eğitim Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_hod2</VoiceFile>
+          <Content>Aşağıdaki talimatlara uygun şekilde hareket edin!</Content>
+        </Dialog>
+        <Dialog ID="70" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Sephirah Kontrol Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_malkuth6</VoiceFile>
+          <Content>Netzach ve Güvenlik Ekibi, yaralıların tedavisine odaklanın.</Content>
+        </Dialog>
+        <Dialog ID="71" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Sephirah Güvenlik Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_netzach2</VoiceFile>
+          <Content>Tamam. Onları olabildiğince hızlı tedavi edeceğim.</Content>
+        </Dialog>
+        <Dialog ID="72" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Sephirah Kontrol Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_malkuth7</VoiceFile>
+          <Content>Yesod ve Bilgi Ekibi, kaçan anormalliklerin zayıf yönlerini derhal belirleyin!</Content>
+        </Dialog>
+        <Dialog ID="73" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Sephirah Bilgi Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod33</VoiceFile>
+          <Content>Onları en yüksek hassasiyetle analiz edeceğim.</Content>
+        </Dialog>
+        <Dialog ID="74" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Sephirah Kontrol Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_malkuth8</VoiceFile>
+          <Content>Chesed ve Refah Ekibi, Qliphoth seviyesini mümkün olan en kısa sürede geri yüklemekle meşgul olun.</Content>
+        </Dialog>
+        <Dialog ID="75" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Sephirah Refah Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_chesed2</VoiceFile>
+          <Content>Yapacağım, ne de olsa bu benim hatam...</Content>
+        </Dialog>
+        <Dialog ID="76" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Sephirah Kontrol Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_malkuth9</VoiceFile>
+          <Content>Kendini suçlamak için zaman yok, Chesed!</Content>
+        </Dialog>
+        <Dialog ID="77" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Sephirah Kontrol Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_malkuth10</VoiceFile>
+          <Content>Tiphereth ve Merkezi Komuta Ekibi, zekanızla herkese destek sağlamakla meşgul olun!</Content>
+        </Dialog>
+        <Dialog ID="78" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Sephirah Merkezi Komuta Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_tiphereth1</VoiceFile>
+          <Content>Yapacağım! Söylemeye gerek bile yok!</Content>
+        </Dialog>
+        <Dialog ID="79" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Sephirah Tahliye Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_binah4</VoiceFile>
+          <Content>Hepinizin bu kadar koordineli hareket ettiğini görmek beni çok eğlendiriyor.</Content>
+        </Dialog>
+        <Dialog ID="80" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Sephirah Tahliye Ekibi</Title>
+          <VoiceFile>ch8_Yesod_ep3_binah5</VoiceFile>
+          <Content>Şimdi, bizi sonuna kadar durdurmaya çalışın.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Konum: Kütüphane - Teknolojik Bilimler Katı</PlaceName>
+        <Dialog ID="81" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod34</VoiceFile>
+          <Content>Asla anlamazsın. Işığımızı söndürmesini durdurmak için ne kadar çaresiz olduğumuzu.</Content>
+        </Dialog>
+        <Dialog ID="82" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod35</VoiceFile>
+          <Content>Ve sonunda hissettiğimiz suçu.</Content>
+        </Dialog>
+        <Dialog ID="83" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland21</VoiceFile>
+          <Content>Haklısın, asla anlamam. Tek umursadığım şey Angela'ya yardım etmek. Sadece hedefine ulaşmasını istiyorum, biliyor musun?</Content>
+        </Dialog>
+        <Dialog ID="84" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod36</VoiceFile>
+          <Content>Sadece sürece bakmaksızın sonuç istiyorsun.</Content>
+        </Dialog>
+        <Dialog ID="85" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod37</VoiceFile>
+          <Content>Sadece kendini umursaman açısından Angela'dan farklı değilsin.</Content>
+        </Dialog>
+        <Dialog ID="86" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod38</VoiceFile>
+          <Content>Sen iğrençsin. Şehir sakinlerinin, zihin hastalığından muzdarip olan tipik bir örneğisin.</Content>
+        </Dialog>
+        <Dialog ID="87" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod39</VoiceFile>
+          <Content>Şehrin sana sunduğu teknolojileri, o teknolojilerin hangi fedakarlıklar üzerine inşa edildiğini bilmeden veya umursamadan, anında kendi rahatın için kullanıyorsun.</Content>
+        </Dialog>
+        <Dialog ID="88" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod40</VoiceFile>
+          <Content>... Kendi ölüme yürüdüğünü bilmeden.</Content>
+        </Dialog>
+        <Dialog ID="89" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland22</VoiceFile>
+          <Content>Ah, yani 'hasta zihin' dediğin şey bu muydu?</Content>
+        </Dialog>
+        <Dialog ID="90" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland23</VoiceFile>
+          <Content>Sonuçlardan çok sürece mi değer vermeliyiz? Ha, siz insanlara tepeden bakan bir avuç hayalperesttiniz.</Content>
+        </Dialog>
+        <Dialog ID="91" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland24</VoiceFile>
+          <Content>Bahse girerim sen Yuvalar'dan biriydin.</Content>
+        </Dialog>
+        <Dialog ID="92" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland25</VoiceFile>
+          <Content>Bak, o teknolojilerin ve tekilliklerin bedelini herkesten daha iyi biliyorum.</Content>
+        </Dialog>
+        <Dialog ID="93" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland26</VoiceFile>
+          <Content>Zihin hastalığı da neymiş...</Content>
+        </Dialog>
+        <Dialog ID="94" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland27</VoiceFile>
+          <Content>Ve tekillikleri gerçekten nasıl çalıştığını bilmeden kullandıkları için insanları mı hedef alıyorsun?</Content>
+        </Dialog>
+        <Dialog ID="95" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland28</VoiceFile>
+          <Content>Çünkü BAŞKA SEÇENEKLERİ HİÇ OLMADI!</Content>
+        </Dialog>
+        <Dialog ID="96" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland29</VoiceFile>
+          <Content>Şirketler tüketicilerinden o kadar çok şey saklıyor ki, sonunda sormayı bıraktılar.</Content>
+        </Dialog>
+        <Dialog ID="97" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland30</VoiceFile>
+          <Content>Çünkü yoruldular! Hayatlarının her gününü hayatta kalmaya çalışmakla çok meşguller!</Content>
+        </Dialog>
+        <Dialog ID="98" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod41</VoiceFile>
+          <Content>Görünüşe göre seninle hiç iletişim kuramıyorum.</Content>
+        </Dialog>
+        <Dialog ID="99" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Yesod_ep3_roland31</VoiceFile>
+          <Content>Ah, bu bir tesadüf. Ben de tam olarak aynı şeyi düşünüyordum.</Content>
+        </Dialog>
+        <Dialog ID="100" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_Yesod_ep3_yesod42</VoiceFile>
+          <Content>Ne dersen de, gerçekliği göz ardı etmek veya çarpıtmak istemiyorum.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
     <Episode>
       <EpisodeName>Episode 4</EpisodeName>
       <Place>
