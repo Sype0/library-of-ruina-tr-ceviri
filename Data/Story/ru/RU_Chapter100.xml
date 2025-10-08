@@ -7412,25 +7412,25 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep2_roland1</VoiceFile>
-          <Content>Bayım, kalkmalısınız, yerde uyursanız hasta olursunuz.</Content>
+          <Content>Bayım, kalkmalısınız~ yerde uyursanız hasta olucaksınız~</Content>
         </Dialog>
         <Dialog ID="1" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach1</VoiceFile>
-          <Content>(Netzach bir kez daha Roland'a şöyle bir bakar, sonra tekrar arkasını döner.)</Content>
+          <Content>(Netzach yattığı yerden bir kez daha Roland'a şöyle bir bakar, sonra tekrar arkasını döner.)</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep2_roland2</VoiceFile>
-          <Content>Bu koku... ve yere atılmış bu şey... Bana söyleme...</Content>
+          <Content>Bu koku... Ve yerde yuvarlanan şu şey... Sakın söyleme...</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep2_roland3</VoiceFile>
-          <Content>... Bir bira kutusu. Bunu nereden buldun Tanrı aşkına?</Content>
+          <Content>...Bira kutusu. Bunu nereden buldun lan?</Content>
         </Dialog>
         <Dialog ID="4" Model="네짜흐">
           <Teller>Netzach</Teller>
@@ -7442,61 +7442,61 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep2_roland4</VoiceFile>
-          <Content>Eh... Kitapları doğru bir şekilde sınıflandırdığından emin misin? En azından misafir kabul etmeye istekli görünüyordun.</Content>
+          <Content>Uh... Kitapları doğru bir şekilde sınıflandırdığından emin misin? Misafirleri karşılamada fena değildin, en azından.</Content>
         </Dialog>
         <Dialog ID="6" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach3</VoiceFile>
-          <Content>(Yanındaki kitap yığınına doğru işaret eder.)</Content>
+          <Content>(Yanındaki kitap yığınına doğru başını sallar.)</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep2_roland5</VoiceFile>
-          <Content>Gerçekten hepsini düzenledin mi? Dur bakayım, bu... Kitaplar tüm zemine yayılmış. Pek düzenlemek sayılmaz...</Content>
+          <Content>Gerçekten hepsini düzenledin mi? Dur bakayım, bu... Kitaplar tüm zemine saçılmış. Pek düzenlemek sayılmaz...</Content>
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach4</VoiceFile>
-          <Content>...</Content>
+          <Content>......</Content>
         </Dialog>
         <Dialog ID="9" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach5</VoiceFile>
-          <Content>Al, bir içki kap.</Content>
+          <Content>Buyur, bir içki al.</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep2_roland6</VoiceFile>
-          <Content>Hehe, en azından görgü kuralların var. Israr ettiğine göre, bir yudum alacağım.</Content>
+          <Content>Hehey, En azından görgün var. Peki, ısrar ediyorsan bir yudum alırım.</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep2_roland7</VoiceFile>
-          <Content>Vay canına, burada bira içme şansı bulacağımı hiç düşünmezdim.</Content>
+          <Content>Kyah~ Bu yerde bira içme şansım olacağını asla tahmin edemezdim.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep2_roland8</VoiceFile>
-          <Content>Bu köpüklü yumuşaklığı ne kadar özlediğimi bilemezsin.</Content>
+          <Content>Adamım, bu köpüklü yumuşaklığı ne kadar da özlemişim.</Content>
         </Dialog>
         <Dialog ID="13" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach6</VoiceFile>
-          <Content>Güzel, değil mi?</Content>
+          <Content>Güzel şeyler, değil mi?</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep2_roland9</VoiceFile>
-          <Content>Çok güzel, kardeşim.</Content>
+          <Content>Gerçekten de öyle, kardeşim.</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
@@ -7508,7 +7508,7 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach7</VoiceFile>
-          <Content>Bir şekilde gidiyor.</Content>
+          <Content>Bir şekilde ilerliyor işte.</Content>
         </Dialog>
         <Dialog ID="17" Model="네짜흐">
           <Teller>Netzach</Teller>
@@ -7544,13 +7544,13 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach11</VoiceFile>
-          <Content>Zaman geçtikçe muhtemelen daha fazla insanı öldürmem gerekecek.</Content>
+          <Content>Muhtemelen zaman geçtikçe daha fazla insan öldürmem gerekecek.</Content>
         </Dialog>
         <Dialog ID="23" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach12</VoiceFile>
-          <Content>İster aziz olsun ister dünyanın en kötü çöpü. Herkes yaşamak ister.</Content>
+          <Content>İster aziz olsun ister dünyanın en pislik insanı. Herkes yaşamak ister.</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>Roland</Teller>
@@ -7562,19 +7562,19 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep2_roland14</VoiceFile>
-          <Content>Ama buranın dışı da pek farklı değil. İnsanlar inciniyor ve başkalarını öldürüyor, çünkü kendileri incinmek istemiyor.</Content>
+          <Content>Ama dışarıda da durum farklı değil. İnsanlar, kendileri zarar görmek istemedikleri için başkalarına zarar verip öldürüyorlar.</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep2_roland15</VoiceFile>
-          <Content>Kendi hayatını korumak için başkalarının hayatlarını almak. Belki sadece biraz fazla açık, değil mi?</Content>
+          <Content>Başkalarının hayatını al ki kendi hayatını koruyabilesin. Belki de biraz fazla bariz, değil mi?</Content>
         </Dialog>
         <Dialog ID="27" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach13</VoiceFile>
-          <Content>Sanırım dışarıdaki işler böyledir.</Content>
+          <Content>Sanırım dış dünyadaki işler hep böyleydi.</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>Roland</Teller>
@@ -7586,7 +7586,7 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach14</VoiceFile>
-          <Content>Bilmiyorum, başım dönüyor. Net hatırladığım tek şey Lobotomy Corp.'ta çalıştığımdı.</Content>
+          <Content>Bilmiyorum, biraz sarhoş gibiyim. Kesin olarak hatırladığım tek şey, Lobotomy Corp’ta çalıştığımdı.</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
           <Teller>Roland</Teller>
@@ -7604,7 +7604,7 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep2_roland18</VoiceFile>
-          <Content>Açıkça, insanlar bir Kanat'a katılabilen herkesi kıskanmak zorundadır. Sana bir sürü para verirler, bir sürü kolaylığın olur ve sosyal statü de kazanırsın.</Content>
+          <Content>Eh, herhalde. İnsanlar bir Kanat'a katılabilen kişiyi her zaman kıskanırlar. Sana bir sürü para verirler, bir sürü kolaylığın olur ve sosyal statü de kazanırsın.</Content>
         </Dialog>
         <Dialog ID="33" Model="네짜흐">
           <Teller>Netzach</Teller>
@@ -7616,19 +7616,19 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep2_netzach17</VoiceFile>
-          <Content>Şimdilik hepsini unutalım ve biraz daha içelim.</Content>
+          <Content>Şimdilik tüm bunları unutalım ve biraz daha içelim.</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep2_roland19</VoiceFile>
-          <Content>Güzel! Yapabildiğimiz kadar içelim.</Content>
+          <Content>Güzel! İçebiliyorken içmeliyim.</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Netzach_ep2_angela1</VoiceFile>
-          <Content>... Şaka yapıyor olmalısın.</Content>
+          <Content>...Şaka yapıyor olmalısınız.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -20352,7 +20352,7 @@ pues estoy seguro de que nunca te irás.”
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_kether_ep1_roland1</VoiceFile>
-          <Content>Merhaba, Angela! Hepsini çağırdım.</Content>
+          <Content>Heyo~ Angela! Hepsini çağırdım.</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -20388,19 +20388,19 @@ pues estoy seguro de que nunca te irás.”
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_kether_ep1_roland2</VoiceFile>
-          <Content>Tamam, biraz sakinleşin gençler.</Content>
+          <Content>Tamam, hepimiz biraz sakinleşelim.</Content>
         </Dialog>
         <Dialog ID="7" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_kether_ep1_hod1</VoiceFile>
-          <Content>Senin gibi birine söyleyecek hiçbir şeyimiz yok.</Content>
+          <Content>Senin gibileriyle konuşacak hiçbir şeyimiz yok.</Content>
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_kether_ep1_netzach1</VoiceFile>
-          <Content>... Dur, benim söyleyecek bir şeyim var.</Content>
+          <Content>...Bekle, benim söyleyecek bir şeyim var.</Content>
         </Dialog>
         <Dialog ID="9" Model="네짜흐">
           <Teller>Netzach</Teller>
@@ -20436,7 +20436,7 @@ pues estoy seguro de que nunca te irás.”
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_kether_ep1_angela6</VoiceFile>
-          <Content>Yüzlerce çalışanı öldürmek sizin için sorun değildi, ama şimdi birkaç yabancıyı öldürmeye mi bozuluyorsunuz?</Content>
+          <Content>Yüzlerce çalışanı öldürmek sizler için sorun değildi, ama şimdi birkaç yabancıyı öldürmeye mi bozuluyorsunuz?</Content>
         </Dialog>
         <Dialog ID="15" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -20454,7 +20454,7 @@ pues estoy seguro de que nunca te irás.”
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_kether_ep1_angela9</VoiceFile>
-          <Content>En azından ben onlarla bir "anlaşma" arayışındayım.</Content>
+          <Content>En azından ben onlarla bir “anlaşma” arayışındayım.</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -20472,7 +20472,7 @@ pues estoy seguro de que nunca te irás.”
           <Teller>Yesod</Teller>
           <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
           <VoiceFile>ch8_kether_ep1_yesod2</VoiceFile>
-          <Content>... Başka seçeneğimiz yok, Netzach.</Content>
+          <Content>...Başka seçeneğimiz yok, Netzach.</Content>
         </Dialog>
         <Dialog ID="21" Model="예소드">
           <Teller>Yesod</Teller>
@@ -20484,13 +20484,13 @@ pues estoy seguro de que nunca te irás.”
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_kether_ep1_hod2</VoiceFile>
-          <Content>Hâlâ soğuk ve kalpsizsin, Angela.</Content>
+          <Content>Hala soğuk ve kalpsizsin, Angela.</Content>
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_kether_ep1_angela11</VoiceFile>
-          <Content>Of... Bu kadar duygusal olmayın.</Content>
+          <Content>Ah... Bu kadar duygusal olmayın.</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -20502,13 +20502,13 @@ pues estoy seguro de que nunca te irás.”
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_kether_ep1_angela13</VoiceFile>
-          <Content>Eğer bunu yapmak zorunda kalmak istemeseydiniz, en başta beni durdurmaya çalışmamalıydınız.</Content>
+          <Content>Eğer bunu yapmak istemeseydiniz, en başta beni durdurmaya çalışmamalıydınız.</Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_kether_ep1_angela14</VoiceFile>
-          <Content>Gidebilirsiniz hepiniz.</Content>
+          <Content>Çıkın, hepiniz.</Content>
         </Dialog>
       </Place>
     </Episode>
