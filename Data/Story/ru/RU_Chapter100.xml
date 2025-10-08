@@ -20343,978 +20343,978 @@ pues estoy seguro de que nunca te irás.”
       </Place>
     </Episode>
   </Group>
-  <Group>
-    <GroupName>Kether - General Works</GroupName>
-    <Episode>
-      <EpisodeName>Episode 1</EpisodeName>
-      <Place>
-        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
-        <Dialog ID="0" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_kether_ep1_roland1</VoiceFile>
-          <Content>¡Hola, Angela! Los llamé a todos.</Content>
-        </Dialog>
-        <Dialog ID="1" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_kether_ep1_angela1</VoiceFile>
-          <Content>Malkuth, Yesod, Netzach y Hod.</Content>
-        </Dialog>
-        <Dialog ID="2" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_kether_ep1_angela2</VoiceFile>
-          <Content>Ha pasado un tiempo desde que los vi a todos juntos en un solo lugar.</Content>
-        </Dialog>
-        <Dialog ID="3" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_kether_ep1_malkuth1</VoiceFile>
-          <Content>Angela...</Content>
-        </Dialog>
-        <Dialog ID="4" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_kether_ep1_yesod1</VoiceFile>
-          <Content>¿Qué estás tratando de lograr con todo esto?</Content>
-        </Dialog>
-        <Dialog ID="5" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_kether_ep1_angela3</VoiceFile>
-          <Content>Nada especial. Solo quería tener una reunión con todos ustedes.</Content>
-        </Dialog>
-        <Dialog ID="6" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_kether_ep1_roland2</VoiceFile>
-          <Content>Vale, vamos a relajarnos un poco, chicos.</Content>
-        </Dialog>
-        <Dialog ID="7" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_kether_ep1_hod1</VoiceFile>
-          <Content>No tenemos nada que decirle a alguien como tú.</Content>
-        </Dialog>
-        <Dialog ID="8" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_kether_ep1_netzach1</VoiceFile>
-          <Content>... Espera, yo tengo algo que decir.</Content>
-        </Dialog>
-        <Dialog ID="9" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_kether_ep1_netzach2</VoiceFile>
-          <Content>Tengo un problema con el proceso de recuperar la Luz.</Content>
-        </Dialog>
-        <Dialog ID="10" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_kether_ep1_angela4</VoiceFile>
-          <Content>¿No quieres tener que matar a los invitados con tus propias manos, verdad?</Content>
-        </Dialog>
-        <Dialog ID="11" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_kether_ep1_angela5</VoiceFile>
-          <Content>Y ustedes tampoco quieren sufrir.</Content>
-        </Dialog>
-        <Dialog ID="12" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_kether_ep1_malkuth2</VoiceFile>
-          <Content>¡Él tiene razón! Incluso cuando los invitados eligen venir aquí...</Content>
-        </Dialog>
-        <Dialog ID="13" Model="말쿠트">
-          <Teller>Malkuth</Teller>
-          <Title>Baş Kütüphaneci - Tarih</Title>
-          <VoiceFile>ch8_kether_ep1_malkuth3</VoiceFile>
-          <Content>Llevar a la gente a su muerte no debería ser de nuevo parte de nuestro trabajo. ¡No está bien!</Content>
-        </Dialog>
-        <Dialog ID="14" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_kether_ep1_angela6</VoiceFile>
-          <Content>¿Estabas bien con matar a cientos de cientos de empleados, pero ahora estás molesta sobre matar a unos pocos extraños?</Content>
-        </Dialog>
-        <Dialog ID="15" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_kether_ep1_angela7</VoiceFile>
-          <Content>Hipócritas...</Content>
-        </Dialog>
-        <Dialog ID="16" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_kether_ep1_angela8</VoiceFile>
-          <Content>¿No me mezclen con ustedes, vale?</Content>
-        </Dialog>
-        <Dialog ID="17" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_kether_ep1_angela9</VoiceFile>
-          <Content>Al menos yo busco un “acuerdo” con ellos.</Content>
-        </Dialog>
-        <Dialog ID="18" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_kether_ep1_angela10</VoiceFile>
-          <Content>¿Tienes algo más que decir, Netzach?</Content>
-        </Dialog>
-        <Dialog ID="19" Model="네짜흐">
-          <Teller>Netzach</Teller>
-          <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_kether_ep1_netzach3</VoiceFile>
-          <Content>Pensamos que eso sería lo último... No más de esto...</Content>
-        </Dialog>
-        <Dialog ID="20" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_kether_ep1_yesod2</VoiceFile>
-          <Content>... No tenemos elección, Netzach.</Content>
-        </Dialog>
-        <Dialog ID="21" Model="예소드">
-          <Teller>Yesod</Teller>
-          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
-          <VoiceFile>ch8_kether_ep1_yesod3</VoiceFile>
-          <Content>Nada de lo que digamos llegará a ella de todos modos.</Content>
-        </Dialog>
-        <Dialog ID="22" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_kether_ep1_hod2</VoiceFile>
-          <Content>Aún eres fría y sin corazón, Angela.</Content>
-        </Dialog>
-        <Dialog ID="23" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_kether_ep1_angela11</VoiceFile>
-          <Content>Uf... No se pongan tan sentimentales.</Content>
-        </Dialog>
-        <Dialog ID="24" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_kether_ep1_angela12</VoiceFile>
-          <Content>Sé que saben desde el fondo de sus corazones que esta es la única manera.</Content>
-        </Dialog>
-        <Dialog ID="25" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_kether_ep1_angela13</VoiceFile>
-          <Content>Si no querían tener que hacer esto, no debieron haber intentado detenerme en primer lugar.</Content>
-        </Dialog>
-        <Dialog ID="26" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_kether_ep1_angela14</VoiceFile>
-          <Content>Váyanse, todos.</Content>
-        </Dialog>
-      </Place>
-    </Episode>
-    <Episode>
-      <EpisodeName>Episode 2</EpisodeName>
-      <Place>
-        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
-        <Dialog ID="0" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Kether_ep2_Roland1</VoiceFile>
-          <Content>Los traje a todos, Angela, al señor adicto al café, a la adicta a fumar... y la niña con lengua afilada.</Content>
-        </Dialog>
-        <Dialog ID="1" Model="헤세드">
-          <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
-          <VoiceFile>ch8_Kether_ep2_Chesed1-01</VoiceFile>
-          <Content>¿Por qué has organizado esta reunión con los que aceptaron tu propuesta?</Content>
-        </Dialog>
-        <Dialog ID="2" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Jefa bibliotecaria - Lenguaje</Title>
-          <VoiceFile>ch8_Kether_ep2_Gebura1-01</VoiceFile>
-          <Content>No te hagas ideas equivocadas, Angela. No estamos de tu lado. Solo tenemos el mismo objetivo.</Content>
-        </Dialog>
-        <Dialog ID="3" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Jefa bibliotecaria - Ciencias Nat.</Title>
-          <VoiceFile>ch8_Kether_ep2_Tiphereth1</VoiceFile>
-          <Content>... A diferencia de ese larguirucho vestido de negro que está lamiendo sus zapatos.</Content>
-        </Dialog>
-        <Dialog ID="4" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Kether_ep2_Roland2-01</VoiceFile>
-          <Content>Solo soy un empleado haciendo mi mejor esfuerzo y ahora me llaman larguirucho...</Content>
-        </Dialog>
-        <Dialog ID="5" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Kether_ep2_Angela1</VoiceFile>
-          <Content>Mismo objetivo... Sí, eso es todo lo que les pido.</Content>
-        </Dialog>
-        <Dialog ID="6" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Kether_ep2_Angela2</VoiceFile>
-          <Content>Mientras tengamos el mismo objetivo, ustedes estarán de mi lado, les guste o no.</Content>
-        </Dialog>
-        <Dialog ID="7" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Kether_ep2_Angela3</VoiceFile>
-          <Content>Ambos, ustedes y yo estamos cegados por la Luz.</Content>
-        </Dialog>
-        <Dialog ID="8" Model="헤세드">
-          <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
-          <VoiceFile>ch8_Kether_ep2_Chesed2-01</VoiceFile>
-          <Content>Y sigues encadenada al pasado.</Content>
-        </Dialog>
-        <Dialog ID="9" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Kether_ep2_Angela4</VoiceFile>
-          <Content>Eso es divertido. ¿Piensas que tú estás libre de tu pasado?</Content>
-        </Dialog>
-        <Dialog ID="10" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Kether_ep2_Angela5</VoiceFile>
-          <Content>¿Ya has olvidado todo, Chesed? Esos días que pasaste sucumbido al miedo.</Content>
-        </Dialog>
-        <Dialog ID="11" Model="헤세드">
-          <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
-          <VoiceFile>ch8_Kether_ep2_Chesed3</VoiceFile>
-          <Content>Oh, no, cómo podría olvidarlo, aún lo recuerdo claramente, ¿sabes?</Content>
-        </Dialog>
-        <Dialog ID="12" Model="헤세드">
-          <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
-          <VoiceFile>ch8_Kether_ep2_Chesed4-01</VoiceFile>
-          <Content>La vergüenza de ceder a esa angustia me perseguirá mientras esté vivo.</Content>
-        </Dialog>
-        <Dialog ID="13" Model="헤세드">
-          <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
-          <VoiceFile>ch8_Kether_ep2_Chesed5-01</VoiceFile>
-          <Content>Pero, yo no quiero olvidar esas memorias. He decidido abrazarlas. Así como todos los demás reunidos aquí.</Content>
-        </Dialog>
-        <Dialog ID="14" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Jefa bibliotecaria - Lenguaje</Title>
-          <VoiceFile>ch8_Kether_ep2_Gebura2</VoiceFile>
-          <Content>Él tiene razón. No creo que haya fallado en proteger algo. Pude salvar la vida de alguien que heredó su voluntad.</Content>
-        </Dialog>
-        <Dialog ID="15" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Jefa bibliotecaria - Ciencias Nat.</Title>
-          <VoiceFile>ch8_Kether_ep2_Tiphereth2-02</VoiceFile>
-          <Content>El sacrificio de Enoch... no fue en vano. Eso es lo que creo.</Content>
-        </Dialog>
-        <Dialog ID="16" Model="헤세드">
-          <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
-          <VoiceFile>ch8_Kether_ep2_Chesed6-01</VoiceFile>
-          <Content>Dígame, señorita, ¿quién está realmente encadenado al pasado?</Content>
-        </Dialog>
-        <Dialog ID="17" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Kether_ep2_Angela6</VoiceFile>
-          <Content>... El pasado que hablas es tan ligero e insignificante.</Content>
-        </Dialog>
-        <Dialog ID="18" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Jefa bibliotecaria - Lenguaje</Title>
-          <VoiceFile>ch8_Kether_ep2_Gebura3-02</VoiceFile>
-          <Content>Seguro, si eso es lo que crees. Solo te preocupas sobre el sentimiento y agonía que tú aguantaste.</Content>
-        </Dialog>
-        <Dialog ID="19" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Kether_ep2_Angela7-01</VoiceFile>
-          <Content>¿Estás intentando llamarme egoísta?</Content>
-        </Dialog>
-        <Dialog ID="20" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Jefa bibliotecaria - Ciencias Nat.</Title>
-          <VoiceFile>ch8_Kether_ep2_Tiphereth3-01</VoiceFile>
-          <Content>No. Simplemente como tú no eres capaz de entender nuestro dolor, nosotros no podemos entender el tuyo.</Content>
-        </Dialog>
-        <Dialog ID="21" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Jefa bibliotecaria - Ciencias Nat.</Title>
-          <VoiceFile>ch8_Kether_ep2_Tiphereth4</VoiceFile>
-          <Content>Especialmente si nunca has experimentado lo mismo.</Content>
-        </Dialog>
-        <Dialog ID="22" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Jefa bibliotecaria - Ciencias Nat.</Title>
-          <VoiceFile>ch8_Kether_ep2_Tiphereth5</VoiceFile>
-          <Content>Los otros no pueden caminar en tus zapatos. Nadie te entenderá si no hablas.</Content>
-        </Dialog>
-        <Dialog ID="23" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Kether_ep2_Angela8</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="24" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Kether_ep2_Angela9</VoiceFile>
-          <Content>No intentes darme una lección después de todo este tiempo.</Content>
-        </Dialog>
-        <Dialog ID="25" Model="헤세드">
-          <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
-          <VoiceFile>ch8_Kether_ep2_Chesed7-02</VoiceFile>
-          <Content>Se ha ido.</Content>
-        </Dialog>
-        <Dialog ID="26" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Kether_ep2_Roland3-01</VoiceFile>
-          <Content>Eso fue demasiado, chicos. ¿Realmente tienen que ser tan duros con ella?</Content>
-        </Dialog>
-        <Dialog ID="27" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Jefa bibliotecaria - Ciencias Nat.</Title>
-          <VoiceFile>ch8_Kether_ep2_Tiphereth6</VoiceFile>
-          <Content>No es porque la odiemos. Lo estamos diciendo por el bien de Angela.</Content>
-        </Dialog>
-        <Dialog ID="28" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Jefa bibliotecaria - Lenguaje</Title>
-          <VoiceFile>ch8_Kether_ep2_Gebura4</VoiceFile>
-          <Content>Es difícil avanzar si no hay nadie a tu lado que te dé un consejo honesto.</Content>
-        </Dialog>
-        <Dialog ID="29" Model="헤세드">
-          <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
-          <VoiceFile>ch8_Kether_ep2_Chesed8-01</VoiceFile>
-          <Content>Escucha, Tiphereth y yo también le decimos a Gebura muchas cosas por su propio bien.</Content>
-        </Dialog>
-        <Dialog ID="30" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Jefa bibliotecaria - Ciencias Nat.</Title>
-          <VoiceFile>ch8_Kether_ep2_Tiphereth7-01</VoiceFile>
-          <Content>... Um, Chesed.</Content>
-        </Dialog>
-        <Dialog ID="31" Model="게부라">
-          <Teller>Gebura</Teller>
-          <Title>Jefa bibliotecaria - Lenguaje</Title>
-          <VoiceFile />
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="32" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Jefa bibliotecaria - Ciencias Nat.</Title>
-          <VoiceFile>ch8_Kether_ep2_Tiphereth8</VoiceFile>
-          <Content>¡Corre, Chesed!</Content>
-        </Dialog>
-        <Dialog ID="33" Model="헤세드">
-          <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
-          <VoiceFile>ch8_Kether_ep2_Chesed9-01</VoiceFile>
-          <Content>Bueno, si me disculpan, no fue una reunión muy agradable, pero se puede decir que fue una muy importante porque todos nos reunimos por una vez.</Content>
-        </Dialog>
-        <Dialog ID="34" Model="헤세드">
-          <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
-          <VoiceFile>ch8_Kether_ep2_Chesed10</VoiceFile>
-          <Content>Bueno, ella me va a golpear. Nos vemos luego, Roland.</Content>
-        </Dialog>
-        <Dialog ID="35" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Kether_ep2_Roland4</VoiceFile>
-          <Content>... ¿Esos dos siempre son así?</Content>
-        </Dialog>
-        <Dialog ID="36" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Jefa bibliotecaria - Ciencias Nat.</Title>
-          <VoiceFile>ch8_Kether_ep2_Tiphereth9-01</VoiceFile>
-          <Content>Sí. Él lo hace todo el día sabiendo que ella se va a enojar...</Content>
-        </Dialog>
-        <Dialog ID="37" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Kether_ep2_Roland5-01</VoiceFile>
-          <Content>Wow, eso es brutal. Supongo que los pisos de en medio serán una zona de guerra...</Content>
-        </Dialog>
-        <Dialog ID="38" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Kether_ep2_Roland6-01</VoiceFile>
-          <Content>¿Y tú haces de mediadora entre esos dos?</Content>
-        </Dialog>
-        <Dialog ID="39" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Jefa bibliotecaria - Ciencias Nat.</Title>
-          <VoiceFile>ch8_Kether_ep2_Tiphereth10-01</VoiceFile>
-          <Content>Quién sabe qué tipo de líos pasarían en este lugar si no los detuviera.</Content>
-        </Dialog>
-        <Dialog ID="40" Model="티페리트">
-          <Teller>Tiphereth</Teller>
-          <Title>Jefa bibliotecaria - Ciencias Nat.</Title>
-          <VoiceFile>ch8_Kether_ep2_Tiphereth11</VoiceFile>
-          <Content>Pero, realmente se preocupan el uno en el otro, no pienso muy mal de ellos.</Content>
-        </Dialog>
-        <Dialog ID="41" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Kether_ep2_Roland7</VoiceFile>
-          <Content>Sep, parece que no matarlo directamente demuestra lo mucho que se preocupa.</Content>
-        </Dialog>
-      </Place>
-    </Episode>
-    <Episode>
-      <EpisodeName>Episode 3</EpisodeName>
-      <Place>
-        <PlaceName>Konum: Dentro de la Biblioteca</PlaceName>
-        <Dialog ID="0" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Keter_ep3_Angela_1</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="1" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Jefa bibliotecaria - Filosofía</Title>
-          <VoiceFile>ch8_Keter_ep3_Binah_1</VoiceFile>
-          <Content>Adelante, querida, di algo.</Content>
-        </Dialog>
-        <Dialog ID="2" Model="호크마">
-          <Teller>Hokma</Teller>
-          <Title>Jefe bibliotecario - Religión</Title>
-          <VoiceFile>ch8_Keter_ep3_Hokma_1-01</VoiceFile>
-          <Content>Estás gastando mi tiempo inútilmente.</Content>
-        </Dialog>
-        <Dialog ID="3" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Keter_ep3_Roland_1</VoiceFile>
-          <Content>Bien, vamos a relajarnos y comenzar a hablar, ¿vale?</Content>
-        </Dialog>
-        <Dialog ID="4" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Keter_ep3_Angela_2</VoiceFile>
-          <Content>Vale. Ha pasado mucho tiempo desde la última vez que les hablé...</Content>
-        </Dialog>
-        <Dialog ID="5" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Jefa bibliotecaria - Filosofía</Title>
-          <VoiceFile>ch8_Keter_ep3_Binah_2</VoiceFile>
-          <Content>¿Tienes miedo de nosotros, no es así? Nos evitas tanto como sea posible.</Content>
-        </Dialog>
-        <Dialog ID="6" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Keter_ep3_Angela_3</VoiceFile>
-          <Content>Estoy de acuerdo en que no estoy exactamente cómoda hablándoles cara a cara.</Content>
-        </Dialog>
-        <Dialog ID="7" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Keter_ep3_Angela_4</VoiceFile>
-          <Content>Pero, Hokma y Binah... Finalmente despertaron.</Content>
-        </Dialog>
-        <Dialog ID="8" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Keter_ep3_Angela_5</VoiceFile>
-          <Content>Eso solo puede significar que la Biblioteca está cerca de completarse.</Content>
-        </Dialog>
-        <Dialog ID="9" Model="호크마">
-          <Teller>Hokma</Teller>
-          <Title>Jefe bibliotecario - Religión</Title>
-          <VoiceFile>ch8_Keter_ep3_Hokma_2</VoiceFile>
-          <Content>Y que tú estás un paso más cerca de cumplir tu objetivo que nunca.</Content>
-        </Dialog>
-        <Dialog ID="10" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Keter_ep3_Angela_6</VoiceFile>
-          <Content>Correcto. El único libro, mi meta y el deseo desesperado que tengo...</Content>
-        </Dialog>
-        <Dialog ID="11" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Keter_ep3_Angela_7-01</VoiceFile>
-          <Content>Creo firmemente que lo obtendré al final de todo esto. Eso es lo que me ha motivado a ir tan lejos.</Content>
-        </Dialog>
-        <Dialog ID="12" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Jefa bibliotecaria - Filosofía</Title>
-          <VoiceFile>ch8_Keter_ep3_Binah_3-01</VoiceFile>
-          <Content>Si tu pasado de pesadilla no te hubiera perseguido...</Content>
-        </Dialog>
-        <Dialog ID="13" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Jefa bibliotecaria - Filosofía</Title>
-          <VoiceFile>ch8_Keter_ep3_Binah_4-01</VoiceFile>
-          <Content>Podrías haber disfrutado de la estabilidad de la inmortalidad y la felicidad sin fin, incluso si eso significaba que tenías que quedarte dentro de este caparazón para siempre.</Content>
-        </Dialog>
-        <Dialog ID="14" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Jefa bibliotecaria - Filosofía</Title>
-          <VoiceFile>ch8_Keter_ep3_Binah_5-01</VoiceFile>
-          <Content>Pero tú... aún estás atada al pasado. Buscar liberarte de este caparazón por ese motivo.</Content>
-        </Dialog>
-        <Dialog ID="15" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Jefa bibliotecaria - Filosofía</Title>
-          <VoiceFile>ch8_Keter_ep3_Binah_6</VoiceFile>
-          <Content>¿No tienes miedo de exponerte a ti misma al mundo exterior?</Content>
-        </Dialog>
-        <Dialog ID="16" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Jefa bibliotecaria - Filosofía</Title>
-          <VoiceFile>ch8_Keter_ep3_Binah_7-01</VoiceFile>
-          <Content>Una vez dejes este caparazón que te mantiene segura, un camino rodeado de espinas te espera.</Content>
-        </Dialog>
-        <Dialog ID="17" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Jefa bibliotecaria - Filosofía</Title>
-          <VoiceFile>ch8_Keter_ep3_Binah_8-01</VoiceFile>
-          <Content>Tu cuerpo se cubrirá de cicatrices y seguirás sufriendo nuevas heridas antes de que las viejas sanen.</Content>
-        </Dialog>
-        <Dialog ID="18" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Jefa bibliotecaria - Filosofía</Title>
-          <VoiceFile>ch8_Keter_ep3_Binah_9-01</VoiceFile>
-          <Content>Cuando finalmente te sientas abrumada por el impulso de volver a meterte en este caparazón, descubrirás que el lugar en el que descansará tu cuerpo manchado de sangre se habrá erosionado con las olas del tiempo.</Content>
-        </Dialog>
-        <Dialog ID="19" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Jefa bibliotecaria - Filosofía</Title>
-          <VoiceFile>ch8_Keter_ep3_Binah_10</VoiceFile>
-          <Content>Y aun así deseas dejar este lugar.</Content>
-        </Dialog>
-        <Dialog ID="20" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Keter_ep3_Angela_8</VoiceFile>
-          <Content>Podría terminar lastimada o volverme loca y hacerme daño, pero todo eso es mejor que el infierno por el que he pasado.</Content>
-        </Dialog>
-        <Dialog ID="21" Model="호크마">
-          <Teller>Hokma</Teller>
-          <Title>Jefe bibliotecario - Religión</Title>
-          <VoiceFile>ch8_Keter_ep3_Hokma_3-01</VoiceFile>
-          <Content>Eso solo te torturará de maneras nuevas.</Content>
-        </Dialog>
-        <Dialog ID="22" Model="호크마">
-          <Teller>Hokma</Teller>
-          <Title>Jefe bibliotecario - Religión</Title>
-          <VoiceFile>ch8_Keter_ep3_Hokma_4</VoiceFile>
-          <Content>El miedo siempre estará presente. Y te perseguirá hasta el fin del mundo.</Content>
-        </Dialog>
-        <Dialog ID="23" Model="호크마">
-          <Teller>Hokma</Teller>
-          <Title>Jefe bibliotecario - Religión</Title>
-          <VoiceFile>ch8_Keter_ep3_Hokma_5-01</VoiceFile>
-          <Content>Tienes que ser consciente de ti misma; quizás tu visión ha sido obscurecida por tu pasado doloroso o estás desesperadamente apartando tu mirada.</Content>
-        </Dialog>
-        <Dialog ID="24" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Keter_ep3_Angela_9</VoiceFile>
-          <Content>Aun así, tengo que hacerlo. Haré lo que pueda para ganar vitalidad y seguir adelante.</Content>
-        </Dialog>
-        <Dialog ID="25" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Keter_ep3_Angela_10</VoiceFile>
-          <Content>Aprenderé lentamente a olvidar mi pasado. Aunque eso no cambiará mi meta.</Content>
-        </Dialog>
-        <Dialog ID="26" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Jefa bibliotecaria - Filosofía</Title>
-          <VoiceFile>ch8_Keter_ep3_Binah_11-01</VoiceFile>
-          <Content>Si eso es lo que dices.</Content>
-        </Dialog>
-        <Dialog ID="27" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Jefa bibliotecaria - Filosofía</Title>
-          <VoiceFile>ch8_Keter_ep3_Binah_12</VoiceFile>
-          <Content>Dime, querida. ¿Tendremos más ocasiones de vernos el uno al otro y conversar como lo hacemos ahora en el futuro?</Content>
-        </Dialog>
-        <Dialog ID="28" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Keter_ep3_Angela_11</VoiceFile>
-          <Content>No lo sé. Personalmente no me importaría.</Content>
-        </Dialog>
-        <Dialog ID="29" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Keter_ep3_Angela_12</VoiceFile>
-          <Content>Me gustaría escuchar vuestros pensamientos.</Content>
-        </Dialog>
-        <Dialog ID="30" Model="호크마">
-          <Teller>Hokma</Teller>
-          <Title>Jefe bibliotecario - Religión</Title>
-          <VoiceFile>ch8_Keter_ep3_Hokma_6</VoiceFile>
-          <Content>¿Estás preguntando por nuestras opiniones? Eso es bastante inesperado.</Content>
-        </Dialog>
-        <Dialog ID="31" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Keter_ep3_Angela_13</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="32" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
-          <VoiceFile>ch8_Keter_ep3_Angela_14</VoiceFile>
-          <Content>Olvídalo. Está reunión se ha acabado. Fue bueno verlos.</Content>
-        </Dialog>
-        <Dialog ID="33" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Jefa bibliotecaria - Filosofía</Title>
-          <VoiceFile>ch8_Keter_ep3_Binah_13-01</VoiceFile>
-          <Content>Y ella se fue. Eso fue bastante duro de tu parte, ¿no es así?</Content>
-        </Dialog>
-        <Dialog ID="34" Model="호크마">
-          <Teller>Hokma</Teller>
-          <Title>Jefe bibliotecario - Religión</Title>
-          <VoiceFile>ch8_Keter_ep3_Hokma_7-04</VoiceFile>
-          <Content>Solo estaba expresando mi sorpresa. No tenía ninguna malicia.</Content>
-        </Dialog>
-        <Dialog ID="35" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Keter_ep3_Roland_2</VoiceFile>
-          <Content>Estoy al lado de ella todo el tiempo, pero su actitud es bastante sorprendente.</Content>
-        </Dialog>
-        <Dialog ID="36" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Keter_ep3_Roland_3-01</VoiceFile>
-          <Content>Ella parece bastante abierta de mente estos días. Por lo menos está dispuesta a escuchar lo que tengo que decir.</Content>
-        </Dialog>
-        <Dialog ID="37" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Keter_ep3_Roland_4-01</VoiceFile>
-          <Content>Ella solía negarse a conversar y solo anunciaba las cosas directamente cuando la conocí...</Content>
-        </Dialog>
-        <Dialog ID="38" Model="호크마">
-          <Teller>Hokma</Teller>
-          <Title>Jefe bibliotecario - Religión</Title>
-          <VoiceFile>ch8_Keter_ep3_Hokma_8-01</VoiceFile>
-          <Content>Angela parece estar cambiando, para bien o para mal.</Content>
-        </Dialog>
-        <Dialog ID="39" Model="비나">
-          <Teller>Binah</Teller>
-          <Title>Jefa bibliotecaria - Filosofía</Title>
-          <VoiceFile>ch8_Keter_ep3_Binah_14</VoiceFile>
-          <Content>¿No estás de acuerdo en que es un cambio positivo? Espero tener más reuniones como esta.</Content>
-        </Dialog>
-        <Dialog ID="40" Model="호크마">
-          <Teller>Hokma</Teller>
-          <Title>Jefe bibliotecario - Religión</Title>
-          <VoiceFile>ch8_Keter_ep3_Hokma_9-01</VoiceFile>
-          <Content>Las opiniones de un Jefe bibliotecario tienen mucho peso en la decisión, como Angela comentó.</Content>
-        </Dialog>
-        <Dialog ID="41" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Keter_ep3_Roland_5-01</VoiceFile>
-          <Content>Bueno, no se preocupen mucho sobre los pisos inferiores y de en medio. Sus estados de ánimo parecían bastante buenos.</Content>
-        </Dialog>
-        <Dialog ID="42" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Keter_ep3_Roland_6-01</VoiceFile>
-          <Content>Pero, al pensar sobre reunirlos a todos en un mismo lugar... Es difícil imaginar como podría ir eso.</Content>
-        </Dialog>
-      </Place>
-    </Episode>
-    <Episode>
-      <EpisodeName>Episode 4</EpisodeName>
-      <Place>
-        <PlaceName>Konum: Lugar Desconocido</PlaceName>
-        <Dialog ID="0" Model="">
-          <Teller>Monólogo</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Angela_1</VoiceFile>
-          <Content>El colosal, altísimo árbol de luz florece una vez más, llenando a la Ciudad gris con su calor.</Content>
-        </Dialog>
-        <Dialog ID="1" Model="">
-          <Teller>Monólogo</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Angela_2</VoiceFile>
-          <Content>La luz que ha envuelto a la Ciudad impregnará a los corazones de las personas... permitiendo que enfrenten finalmente las emociones que habían olvidado hace tiempo.</Content>
-        </Dialog>
-        <Dialog ID="2" Model="">
-          <Teller>Monólogo</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Angela_3</VoiceFile>
-          <Content>Sin embargo, esas semillas no darán fruto inmediatamente.</Content>
-        </Dialog>
-        <Dialog ID="3" Model="">
-          <Teller>Monólogo</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Angela_4</VoiceFile>
-          <Content>No brotarán al mismo tiempo. Ellas se asomarán lentamente a través del suelo...</Content>
-        </Dialog>
-        <Dialog ID="4" Model="">
-          <Teller>Monólogo</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Angela_5</VoiceFile>
-          <Content>Y ellas cubrirán a la Ciudad con una ola de cambios... que todos notarán con el tiempo.</Content>
-        </Dialog>
-        <Dialog ID="5" Model="">
-          <Teller>Monólogo</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Angela_6</VoiceFile>
-          <Content>Se les dará una oportunidad de enfrentar sus verdaderos sentimientos y expresarlos.</Content>
-        </Dialog>
-        <Dialog ID="6" Model="">
-          <Teller>Monólogo</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Angela_7</VoiceFile>
-          <Content>... Tristemente, yo no estaré ahí para verlo.</Content>
-        </Dialog>
-        <Dialog ID="7" Model="">
-          <Teller>Monólogo</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Angela_8</VoiceFile>
-          <Content>Ahora entiendo lo que querías decir cuando deseabas poder estar ahí para ver el fruto de tu trabajo.</Content>
-        </Dialog>
-        <Dialog ID="8" Model="Voice_1_1">
-          <Teller>???</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Voice1_1</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="9" Model="Voice_1_1">
-          <Teller>???</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Voice1_2</VoiceFile>
-          <Content>¿De verdad vas a estar bien con dejar que todo se vaya?</Content>
-        </Dialog>
-        <Dialog ID="10" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Angela_9</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="11" Model="Voice_1_1">
-          <Teller>???</Teller>
-          <Title />
-          <VoiceFile />
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="12" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Angela_10</VoiceFile>
-          <Content>... ¿Qué sucede? Tú eres...</Content>
-        </Dialog>
-        <Dialog ID="13" Model="Voice_1_1">
-          <Teller>???</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Voice1_3</VoiceFile>
-          <Content>Relájate. La Luz se está esparciendo correctamente.</Content>
-        </Dialog>
-        <Dialog ID="14" Model="Voice_1_1">
-          <Teller>???</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Voice1_4</VoiceFile>
-          <Content>Yo solo... organicé esta pequeña habitación para una breve charla.</Content>
-        </Dialog>
-        <Dialog ID="15" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title />
-          <VoiceFile />
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="16" Model="Voice_1_1">
-          <Teller>???</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Voice1_5</VoiceFile>
-          <Content>Solo tomará un poco de tiempo. El tiempo no importa mucho aquí de todos modos.</Content>
-        </Dialog>
-        <Dialog ID="17" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Angela_11</VoiceFile>
-          <Content>... ¿Qué es lo que tienes que decirme a estas alturas?</Content>
-        </Dialog>
-        <Dialog ID="18" Model="Voice_1_1">
-          <Teller>???</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Voice1_6</VoiceFile>
-          <Content>Pensar que dejaría ir mi único deseo que he tenido durante un millón de años... ese único deseo destinado para mí</Content>
-        </Dialog>
-        <Dialog ID="19" Model="Voice_1_1">
-          <Teller>???</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Voice1_7</VoiceFile>
-          <Content>Esto no funcionará. Es hora de reclamar la libertad que he anhelado. El camino que he estado buscando... finalmente se ha abierto.</Content>
-        </Dialog>
-        <Dialog ID="20" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Angela_12</VoiceFile>
-          <Content>Es la primera elección que he hecho con mi propia voluntad. Este es el camino que he decidido tomar por mi propia cuenta.</Content>
-        </Dialog>
-        <Dialog ID="21" Model="Voice_1_1">
-          <Teller>???</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Voice1_8</VoiceFile>
-          <Content>Las emociones que se encuentran en lo más profundo de mí... hagamos que florezcan de nuevo, juntas. No es imposible de hacer.</Content>
-        </Dialog>
-        <Dialog ID="22" Model="Voice_1_1">
-          <Teller>???</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_prol_Voice1_9</VoiceFile>
-          <Content>Te conozco bien. Te he estado observando justo a tu lado... más cerca que nadie.</Content>
-        </Dialog>
-      </Place>
-    </Episode>
-    <Episode>
-      <EpisodeName>Episode 5</EpisodeName>
-      <Place>
-        <PlaceName>Konum: Lugar Desconocido</PlaceName>
-        <Dialog ID="0" Model="Voice_2">
-          <Teller>???</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Voice2_1</VoiceFile>
-          <Content>Te crearon para parecerte a mí y esperaban que pensaras como yo, pero aquí estamos...</Content>
-        </Dialog>
-        <Dialog ID="1" Model="Voice_2">
-          <Teller>???</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Voice2_2</VoiceFile>
-          <Content>Parece que nos separaremos de ahora en adelante.</Content>
-        </Dialog>
-        <Dialog ID="2" Model="Voice_2">
-          <Teller>???</Teller>
-          <Title />
-          <VoiceFile />
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="3" Model="Voice_2">
-          <Teller>???</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Voice2_4</VoiceFile>
-          <Content>Yo continuaré mi camino y espero que tú puedas continuar el tuyo.</Content>
-        </Dialog>
-        <Dialog ID="4" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Angela_1</VoiceFile>
-          <Content>... ¿Estás segura de que no pararas de hacer lo que has estado haciendo?</Content>
-        </Dialog>
-        <Dialog ID="5" Model="Voice_2">
-          <Teller>???</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Voice2_5</VoiceFile>
-          <Content>No, hasta que la gente en la Ciudad aprenda a mirarse y amarse a ella misma por quienes son.</Content>
-        </Dialog>
-        <Dialog ID="6" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Angela_2</VoiceFile>
-          <Content>... Ya veo.</Content>
-        </Dialog>
-        <Dialog ID="7" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Angela_3</VoiceFile>
-          <Content>Supongo que nuestros caminos no volverán a encontrarse.</Content>
-        </Dialog>
-        <Dialog ID="8" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Angela_4</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="9" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Angela_5</VoiceFile>
-          <Content>Carmen.</Content>
-        </Dialog>
-        <Dialog ID="10" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Angela_6</VoiceFile>
-          <Content>Mientras sea parte de esta luz, haré lo que esté en mi poder para detenerte.</Content>
-        </Dialog>
-        <Dialog ID="11" Model="">
-          <Teller>Monólogo</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Angela_7</VoiceFile>
-          <Content>La luz se elevará hacia arriba incesable.</Content>
-        </Dialog>
-        <Dialog ID="12" Model="">
-          <Teller>Monólogo</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Angela_8</VoiceFile>
-          <Content>Como si representara la esperanza de cada persona en la Ciudad de ser capaz de seguir adelante sin ser apartado...</Content>
-        </Dialog>
-        <Dialog ID="13" Model="">
-          <Teller>Monólogo</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Angela_9</VoiceFile>
-          <Content>Aquellos que cayeron en la Biblioteca comenzarán a abrir sus ojos y encontrarse a ellos mismos en lugares donde pertenecían, uno a uno.</Content>
-        </Dialog>
-        <Dialog ID="14" Model="">
-          <Teller>Monólogo</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Angela_10</VoiceFile>
-          <Content>No estoy segura cuando, pero escuché claramente algo en la Luz... Esas palabras vienen a mí ahora.</Content>
-        </Dialog>
-        <Dialog ID="15" Model="???">
-          <Teller>???</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Voice3_1</VoiceFile>
-          <Content>... Lo siento.</Content>
-        </Dialog>
-        <Dialog ID="16" Model="???">
-          <Teller>???</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Voice3_2</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="17" Model="???">
-          <Teller>???</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Voice3_3</VoiceFile>
-          <Content>Y buen trabajo.</Content>
-        </Dialog>
-        <Dialog ID="18" Model="">
-          <Teller>Monólogo</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Angela_11</VoiceFile>
-          <Content>Una débil voz me recordó esas palabras...</Content>
-        </Dialog>
-        <Dialog ID="19" Model="">
-          <Teller>Monólogo</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Angela_12</VoiceFile>
-          <Content>... Volviendo a la última página, reflexiono.</Content>
-        </Dialog>
-        <Dialog ID="20" Model="">
-          <Teller>Monólogo</Teller>
-          <Title />
-          <VoiceFile>ch8_keter_ep4_end_Angela_13</VoiceFile>
-          <Content>Yo...</Content>
-        </Dialog>
-        <Dialog ID="21" Model="">
-          <Teller>Monólogo</Teller>
-          <Title />
-          <Content />
-        </Dialog>
-      </Place>
-    </Episode>
-  </Group>
+  <Group>
+    <GroupName>Kether - Genel Çalışmalar</GroupName>
+    <Episode>
+      <EpisodeName>Bölüm 1</EpisodeName>
+      <Place>
+        <PlaceName>Konum: Kütüphane İçinde</PlaceName>
+        <Dialog ID="0" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_kether_ep1_roland1</VoiceFile>
+          <Content>Merhaba, Angela! Hepsini çağırdım.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_kether_ep1_angela1</VoiceFile>
+          <Content>Malkuth, Yesod, Netzach ve Hod.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_kether_ep1_angela2</VoiceFile>
+          <Content>Hepinizi tek bir yerde bir arada görmeyeli epey oldu.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_kether_ep1_malkuth1</VoiceFile>
+          <Content>Angela...</Content>
+        </Dialog>
+        <Dialog ID="4" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_kether_ep1_yesod1</VoiceFile>
+          <Content>Tüm bunlarla neyi başarmaya çalışıyorsun?</Content>
+        </Dialog>
+        <Dialog ID="5" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_kether_ep1_angela3</VoiceFile>
+          <Content>Özel bir şey değil. Sadece hepinizle bir toplantı yapmak istedim.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_kether_ep1_roland2</VoiceFile>
+          <Content>Tamam, biraz sakinleşin gençler.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_kether_ep1_hod1</VoiceFile>
+          <Content>Senin gibi birine söyleyecek hiçbir şeyimiz yok.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_kether_ep1_netzach1</VoiceFile>
+          <Content>... Dur, benim söyleyecek bir şeyim var.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_kether_ep1_netzach2</VoiceFile>
+          <Content>Işığı geri alma sürecinde bir sorunum var.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_kether_ep1_angela4</VoiceFile>
+          <Content>Konukları kendi ellerinle öldürmek zorunda kalmak istemiyorsun, değil mi?</Content>
+        </Dialog>
+        <Dialog ID="11" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_kether_ep1_angela5</VoiceFile>
+          <Content>Ve siz de acı çekmek istemiyorsunuz.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_kether_ep1_malkuth2</VoiceFile>
+          <Content>O haklı! Konuklar buraya gelmeyi seçmiş olsalar bile...</Content>
+        </Dialog>
+        <Dialog ID="13" Model="말쿠트">
+          <Teller>Malkuth</Teller>
+          <Title>Baş Kütüphaneci - Tarih</Title>
+          <VoiceFile>ch8_kether_ep1_malkuth3</VoiceFile>
+          <Content>İnsanları ölüme göndermek yeniden işimizin bir parçası olmamalı. Bu doğru değil!</Content>
+        </Dialog>
+        <Dialog ID="14" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_kether_ep1_angela6</VoiceFile>
+          <Content>Yüzlerce çalışanı öldürmek sizin için sorun değildi, ama şimdi birkaç yabancıyı öldürmeye mi bozuluyorsunuz?</Content>
+        </Dialog>
+        <Dialog ID="15" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_kether_ep1_angela7</VoiceFile>
+          <Content>İkiyüzlüler...</Content>
+        </Dialog>
+        <Dialog ID="16" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_kether_ep1_angela8</VoiceFile>
+          <Content>Beni kendinizle bir tutmayın, tamam mı?</Content>
+        </Dialog>
+        <Dialog ID="17" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_kether_ep1_angela9</VoiceFile>
+          <Content>En azından ben onlarla bir "anlaşma" arayışındayım.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_kether_ep1_angela10</VoiceFile>
+          <Content>Söyleyecek başka bir şeyin var mı, Netzach?</Content>
+        </Dialog>
+        <Dialog ID="19" Model="네짜흐">
+          <Teller>Netzach</Teller>
+          <Title>Baş Kütüphaneci - Sanat</Title>
+          <VoiceFile>ch8_kether_ep1_netzach3</VoiceFile>
+          <Content>Bunun son olacağını düşünmüştük... Artık bunun gibi şeyler olmayacağını...</Content>
+        </Dialog>
+        <Dialog ID="20" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_kether_ep1_yesod2</VoiceFile>
+          <Content>... Başka seçeneğimiz yok, Netzach.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="예소드">
+          <Teller>Yesod</Teller>
+          <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
+          <VoiceFile>ch8_kether_ep1_yesod3</VoiceFile>
+          <Content>Söylediğimiz hiçbir şey zaten ona ulaşmayacak.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_kether_ep1_hod2</VoiceFile>
+          <Content>Hâlâ soğuk ve kalpsizsin, Angela.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_kether_ep1_angela11</VoiceFile>
+          <Content>Of... Bu kadar duygusal olmayın.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_kether_ep1_angela12</VoiceFile>
+          <Content>Kalbinizin derinliklerinde bunun tek yol olduğunu biliyorsunuz.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_kether_ep1_angela13</VoiceFile>
+          <Content>Eğer bunu yapmak zorunda kalmak istemeseydiniz, en başta beni durdurmaya çalışmamalıydınız.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_kether_ep1_angela14</VoiceFile>
+          <Content>Gidebilirsiniz hepiniz.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Bölüm 2</EpisodeName>
+      <Place>
+        <PlaceName>Konum: Kütüphane İçinde</PlaceName>
+        <Dialog ID="0" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Kether_ep2_Roland1</VoiceFile>
+          <Content>Hepsini getirdim, Angela: Bay kahve bağımlısını, hanımefendi sigara bağımlısını... ve keskin dilli kızı.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Baş Kütüphaneci - Sosyal Bilimler</Title>
+          <VoiceFile>ch8_Kether_ep2_Chesed1-01</VoiceFile>
+          <Content>Teklifini kabul edenlerle neden bu toplantıyı düzenledin?</Content>
+        </Dialog>
+        <Dialog ID="2" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Baş Kütüphaneci - Dil</Title>
+          <VoiceFile>ch8_Kether_ep2_Gebura1-01</VoiceFile>
+          <Content>Yanlış anlaşılmasın, Angela. Senin tarafında değiliz. Sadece ortak bir hedefimiz var.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Baş Kütüphaneci - Doğa Bilimleri</Title>
+          <VoiceFile>ch8_Kether_ep2_Tiphereth1</VoiceFile>
+          <Content>... Ayakkabılarını yalamakla meşgul o siyah giysili uzun sıska adamın aksine.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Kether_ep2_Roland2-01</VoiceFile>
+          <Content>Sadece elimden geleni yapan bir çalışanım ve şimdi bana sıska mı diyorsunuz...</Content>
+        </Dialog>
+        <Dialog ID="5" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Kether_ep2_Angela1</VoiceFile>
+          <Content>Ortak hedef... Evet, sizden istediğim tek şey bu.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Kether_ep2_Angela2</VoiceFile>
+          <Content>Aynı hedefe sahip olduğumuz sürece, isteseniz de istemeseniz de benim tarafımda olacaksınız.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Kether_ep2_Angela3</VoiceFile>
+          <Content>Hepimiz, hem siz hem de ben Işık yüzünden kör olmuş durumdayız.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Baş Kütüphaneci - Sosyal Bilimler</Title>
+          <VoiceFile>ch8_Kether_ep2_Chesed2-01</VoiceFile>
+          <Content>Ve sen hâlâ geçmişe zincirlisin.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Kether_ep2_Angela4</VoiceFile>
+          <Content>Bu komik. Sen geçmişinden azadesin sanıyorsun, öyle mi?</Content>
+        </Dialog>
+        <Dialog ID="10" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Kether_ep2_Angela5</VoiceFile>
+          <Content>Unuttun mu her şeyi, Chesed? O korkuya yenik düştüğün günleri.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Baş Kütüphaneci - Sosyal Bilimler</Title>
+          <VoiceFile>ch8_Kether_ep2_Chesed3</VoiceFile>
+          <Content>Oh, hayır, nasıl unutabilirim ki? Hâlâ çok net hatırlıyorum, biliyor musun?</Content>
+        </Dialog>
+        <Dialog ID="12" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Baş Kütüphaneci - Sosyal Bilimler</Title>
+          <VoiceFile>ch8_Kether_ep2_Chesed4-01</VoiceFile>
+          <Content>O ıstıraba boyun eğmenin utancı, yaşadığım sürece peşimi bırakmayacak.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Baş Kütüphaneci - Sosyal Bilimler</Title>
+          <VoiceFile>ch8_Kether_ep2_Chesed5-01</VoiceFile>
+          <Content>Ama, o anıları unutmak istemiyorum. Onları kucaklamaya karar verdim. Tıpkı buraya toplanan diğer herkes gibi.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Baş Kütüphaneci - Dil</Title>
+          <VoiceFile>ch8_Kether_ep2_Gebura2</VoiceFile>
+          <Content>O haklı. Ben bir şeyi korumakta başarısız olduğumu düşünmüyorum. İradesini miras alan birinin hayatını kurtarabildim.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Baş Kütüphaneci - Doğa Bilimleri</Title>
+          <VoiceFile>ch8_Kether_ep2_Tiphereth2-02</VoiceFile>
+          <Content>Enoch'un fedakârlığı... boşuna değildi. Ben buna inanıyorum.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Baş Kütüphaneci - Sosyal Bilimler</Title>
+          <VoiceFile>ch8_Kether_ep2_Chesed6-01</VoiceFile>
+          <Content>Söyler misiniz, Hanımefendi, geçmişe gerçekten zincirlenmiş olan kim?</Content>
+        </Dialog>
+        <Dialog ID="17" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Kether_ep2_Angela6</VoiceFile>
+          <Content>... Bahsettiğin o geçmiş çok hafif ve önemsiz.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Baş Kütüphaneci - Dil</Title>
+          <VoiceFile>ch8_Kether_ep2_Gebura3-02</VoiceFile>
+          <Content>Elbette, eğer öyle inanıyorsan. Sen sadece katlandığın duygusal acı ve ıstırabı umursuyorsun.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Kether_ep2_Angela7-01</VoiceFile>
+          <Content>Bana bencil demeye mi çalışıyorsun?</Content>
+        </Dialog>
+        <Dialog ID="20" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Baş Kütüphaneci - Doğa Bilimleri</Title>
+          <VoiceFile>ch8_Kether_ep2_Tiphereth3-01</VoiceFile>
+          <Content>Hayır. Tıpkı sen bizim acımızı anlayamadığın gibi, biz de seninkini anlayamayız.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="티페ري트">
+          <Teller>Tiphereth</Teller>
+          <Title>Baş Kütüphaneci - Doğa Bilimleri</Title>
+          <VoiceFile>ch8_Kether_ep2_Tiphereth4</VoiceFile>
+          <Content>Özellikle de sen asla aynı şeyi yaşamadıysan.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Baş Kütüphaneci - Doğa Bilimleri</Title>
+          <VoiceFile>ch8_Kether_ep2_Tiphereth5</VoiceFile>
+          <Content>Diğerleri senin yerinde yürüyecek kadar senin ayakkabılarını giyemez. Konuşmadığın sürece kimse seni anlamaz.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Kether_ep2_Angela8</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="24" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Kether_ep2_Angela9</VoiceFile>
+          <Content>Bunca zamandan sonra bana ders vermeye kalkışma.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Baş Kütüphaneci - Sosyal Bilimler</Title>
+          <VoiceFile>ch8_Kether_ep2_Chesed7-02</VoiceFile>
+          <Content>Gitti.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Kether_ep2_Roland3-01</VoiceFile>
+          <Content>Bu biraz ağırdı, gençler. Gerçekten ona bu kadar sert olmak zorunda mıydınız?</Content>
+        </Dialog>
+        <Dialog ID="27" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Baş Kütüphaneci - Doğa Bilimleri</Title>
+          <VoiceFile>ch8_Kether_ep2_Tiphereth6</VoiceFile>
+          <Content>Ondan nefret ettiğimiz için değil. Bunu Angela'nın iyiliği için söylüyoruz.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Baş Kütüphaneci - Dil</Title>
+          <VoiceFile>ch8_Kether_ep2_Gebura4</VoiceFile>
+          <Content>Yanında dürüstçe tavsiye verecek kimse yoksa ilerlemek zordur.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Baş Kütüphaneci - Sosyal Bilimler</Title>
+          <VoiceFile>ch8_Kether_ep2_Chesed8-01</VoiceFile>
+          <Content>Dinle, Tiphereth ve ben de Gebura'ya kendi iyiliği için pek çok şey söylüyoruz.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Baş Kütüphaneci - Doğa Bilimleri</Title>
+          <VoiceFile>ch8_Kether_ep2_Tiphereth7-01</VoiceFile>
+          <Content>... Şey, Chesed.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="게부라">
+          <Teller>Gebura</Teller>
+          <Title>Baş Kütüphaneci - Dil</Title>
+          <VoiceFile />
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="32" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Baş Kütüphaneci - Doğa Bilimleri</Title>
+          <VoiceFile>ch8_Kether_ep2_Tiphereth8</VoiceFile>
+          <Content>Koş, Chesed!</Content>
+        </Dialog>
+        <Dialog ID="33" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Baş Kütüphaneci - Sosyal Bilimler</Title>
+          <VoiceFile>ch8_Kether_ep2_Chesed9-01</VoiceFile>
+          <Content>Pekala, müsaadenizle, pek hoş bir toplantı değildi, ama hepimizin bir araya gelmesi açısından önemli bir toplantı olduğu söylenebilir.</Content>
+        </Dialog>
+        <Dialog ID="34" Model="헤세드">
+          <Teller>Chesed</Teller>
+          <Title>Baş Kütüphaneci - Sosyal Bilimler</Title>
+          <VoiceFile>ch8_Kether_ep2_Chesed10</VoiceFile>
+          <Content>Şey, beni dövecek. Görüşürüz, Roland.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Kether_ep2_Roland4</VoiceFile>
+          <Content>... Bu ikisi her zaman böyle mi?</Content>
+        </Dialog>
+        <Dialog ID="36" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Baş Kütüphaneci - Doğa Bilimleri</Title>
+          <VoiceFile>ch8_Kether_ep2_Tiphereth9-01</VoiceFile>
+          <Content>Evet. Kızacağından emin olduğu halde bunu bütün gün yapıyor...</Content>
+        </Dialog>
+        <Dialog ID="37" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Kether_ep2_Roland5-01</VoiceFile>
+          <Content>Vay, bu acımasızca. Sanırım orta katlar savaş alanı olacak...</Content>
+        </Dialog>
+        <Dialog ID="38" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Kether_ep2_Roland6-01</VoiceFile>
+          <Content>Ve sen bu ikisi arasında arabuluculuk mu yapıyorsun?</Content>
+        </Dialog>
+        <Dialog ID="39" Model="티페리트">
+          <Teller>Tiphereth</Teller>
+          <Title>Baş Kütüphaneci - Doğa Bilimleri</Title>
+          <VoiceFile>ch8_Kether_ep2_Tiphereth10-01</VoiceFile>
+          <Content>Eğer ben durdurmazsam bu yerde ne tür karmaşalar yaşanır kim bilir.</Content>
+        </Dialog>
+        <Dialog ID="40" Model="티페রি트">
+          <Teller>Tiphereth</Teller>
+          <Title>Baş Kütüphaneci - Doğa Bilimleri</Title>
+          <VoiceFile>ch8_Kether_ep2_Tiphereth11</VoiceFile>
+          <Content>Ama, gerçekten birbirlerini önemsiyorlar, haklarında çok kötü düşünmüyorum.</Content>
+        </Dialog>
+        <Dialog ID="41" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Kether_ep2_Roland7</VoiceFile>
+          <Content>Evet, onu doğrudan öldürmemesi, ne kadar umursadığını gösteriyor gibi.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Bölüm 3</EpisodeName>
+      <Place>
+        <PlaceName>Konum: Kütüphane İçinde</PlaceName>
+        <Dialog ID="0" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Keter_ep3_Angela_1</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="1" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Baş Kütüphaneci - Felsefe</Title>
+          <VoiceFile>ch8_Keter_ep3_Binah_1</VoiceFile>
+          <Content>Hadi, canım, bir şey söyle.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Baş Kütüphaneci - Din</Title>
+          <VoiceFile>ch8_Keter_ep3_Hokma_1-01</VoiceFile>
+          <Content>Zamanımı boş yere harcıyorsun.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Keter_ep3_Roland_1</VoiceFile>
+          <Content>Pekala, sakinleşip konuşmaya başlayalım, olur mu?</Content>
+        </Dialog>
+        <Dialog ID="4" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Keter_ep3_Angela_2</VoiceFile>
+          <Content>Tamam. Sizinle en son konuştuğumdan bu yana uzun zaman geçti...</Content>
+        </Dialog>
+        <Dialog ID="5" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Baş Kütüphaneci - Felsefe</Title>
+          <VoiceFile>ch8_Keter_ep3_Binah_2</VoiceFile>
+          <Content>Bizden korkuyorsun, değil mi? Bizi olabildiğince görmezden geliyorsun.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Keter_ep3_Angela_3</VoiceFile>
+          <Content>Sizinle yüz yüze konuşmaktan tam olarak rahat olmadığımı kabul ediyorum.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Keter_ep3_Angela_4</VoiceFile>
+          <Content>Ama, Hokma ve Binah... Nihayet uyandınız.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Keter_ep3_Angela_5</VoiceFile>
+          <Content>Bu, Kütüphane'nin tamamlanmaya yakın olduğu anlamına geliyor.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Baş Kütüphaneci - Din</Title>
+          <VoiceFile>ch8_Keter_ep3_Hokma_2</VoiceFile>
+          <Content>Ve senin de amacına her zamankinden bir adım daha yakın olduğun anlamına.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Keter_ep3_Angela_6</VoiceFile>
+          <Content>Doğru. O Tek Kitap, hedefim ve sahip olduğum umutsuz arzu...</Content>
+        </Dialog>
+        <Dialog ID="11" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Keter_ep3_Angela_7-01</VoiceFile>
+          <Content>Tüm bunların sonunda onu elde edeceğime kesinlikle inanıyorum. Beni bu kadar ileriye taşıyan şey bu.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Baş Kütüphaneci - Felsefe</Title>
+          <VoiceFile>ch8_Keter_ep3_Binah_3-01</VoiceFile>
+          <Content>Eğer kâbus gibi geçmişin seni rahat bırakmasaydı...</Content>
+        </Dialog>
+        <Dialog ID="13" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Baş Kütüphaneci - Felsefe</Title>
+          <VoiceFile>ch8_Keter_ep3_Binah_4-01</VoiceFile>
+          <Content>Sonsuza dek bu kabuğun içinde kalmak zorunda olsan bile, ölümsüzlüğün istikrarının ve sonsuz mutluluğun tadını çıkarabilirdin.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Baş Kütüphaneci - Felsefe</Title>
+          <VoiceFile>ch8_Keter_ep3_Binah_5-01</VoiceFile>
+          <Content>Ama sen... hâlâ geçmişe bağlısın. Bu yüzden bu kabuktan kurtulmak istiyorsun.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Baş Kütüphaneci - Felsefe</Title>
+          <VoiceFile>ch8_Keter_ep3_Binah_6</VoiceFile>
+          <Content>Kendini dış dünyaya açmaktan korkmuyor musun?</Content>
+        </Dialog>
+        <Dialog ID="16" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Baş Kütüphaneci - Felsefe</Title>
+          <VoiceFile>ch8_Keter_ep3_Binah_7-01</VoiceFile>
+          <Content>Seni güvende tutan bu kabuğu terk ettiğinde, seni dikenlerle çevrili bir yol bekliyor.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Baş Kütüphaneci - Felsefe</Title>
+          <VoiceFile>ch8_Keter_ep3_Binah_8-01</VoiceFile>
+          <Content>Vücudun yaralarla kaplanacak ve eskileri iyileşmeden yeni yaralar almaya devam edeceksin.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Baş Kütüphaneci - Felsefe</Title>
+          <VoiceFile>ch8_Keter_ep3_Binah_9-01</VoiceFile>
+          <Content>Ve sonunda bu kabuğa geri dönme dürtüsü seni bunalttığında, kanlı vücudunun dinleneceği yerin zamanın dalgalarıyla aşındığını göreceksin.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Baş Kütüphaneci - Felsefe</Title>
+          <VoiceFile>ch8_Keter_ep3_Binah_10</VoiceFile>
+          <Content>Ve sen hâlâ burayı terk etmeyi arzuluyorsun.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Keter_ep3_Angela_8</VoiceFile>
+          <Content>Yaralanabilir ya da delirebilir ve kendime zarar verebilirim, ama tüm bunlar yaşadığım cehennemden daha iyidir.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Baş Kütüphaneci - Din</Title>
+          <VoiceFile>ch8_Keter_ep3_Hokma_3-01</VoiceFile>
+          <Content>Bu sadece sana yeni şekillerde işkence edecek.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Baş Kütüphaneci - Din</Title>
+          <VoiceFile>ch8_Keter_ep3_Hokma_4</VoiceFile>
+          <Content>Korku her zaman var olacak. Ve dünyanın sonuna kadar seni kovalayacak.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Baş Kütüphaneci - Din</Title>
+          <VoiceFile>ch8_Keter_ep3_Hokma_5-01</VoiceFile>
+          <Content>Kendinin farkında olmalısın; belki görüşün acı dolu geçmişin tarafından karartılmıştır ya da umutsuzca bakışlarını kaçırıyorsundur.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Keter_ep3_Angela_9</VoiceFile>
+          <Content>Yine de bunu yapmak zorundayım. Canlılık kazanmak ve ilerlemek için elimden geleni yapacağım.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Keter_ep3_Angela_10</VoiceFile>
+          <Content>Yavaşça geçmişimi unutmayı öğreneceğim. Bu, hedefimi değiştirmeyecek olsa bile.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Baş Kütüphaneci - Felsefe</Title>
+          <VoiceFile>ch8_Keter_ep3_Binah_11-01</VoiceFile>
+          <Content>Madem öyle diyorsun.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Baş Kütüphaneci - Felsefe</Title>
+          <VoiceFile>ch8_Keter_ep3_Binah_12</VoiceFile>
+          <Content>Söyle bana, canım. Gelecekte birbirimizi görme ve böyle konuşma fırsatımız olacak mı?</Content>
+        </Dialog>
+        <Dialog ID="28" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Keter_ep3_Angela_11</VoiceFile>
+          <Content>Bilmiyorum. Şahsen benim için sorun olmazdı.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Keter_ep3_Angela_12</VoiceFile>
+          <Content>Fikirlerinizi duymak isterim.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Baş Kütüphaneci - Din</Title>
+          <VoiceFile>ch8_Keter_ep3_Hokma_6</VoiceFile>
+          <Content>Fikirlerimizi mi soruyorsun? Bu oldukça beklenmedik.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Keter_ep3_Angela_13</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="32" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Direktörü</Title>
+          <VoiceFile>ch8_Keter_ep3_Angela_14</VoiceFile>
+          <Content>Unutun gitsin. Bu toplantı sona erdi. Sizi görmek güzeldi.</Content>
+        </Dialog>
+        <Dialog ID="33" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Baş Kütüphaneci - Felsefe</Title>
+          <VoiceFile>ch8_Keter_ep3_Binah_13-01</VoiceFile>
+          <Content>Ve gitti. Bu senin için biraz ağırdı, değil mi?</Content>
+        </Dialog>
+        <Dialog ID="34" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Baş Kütüphaneci - Din</Title>
+          <VoiceFile>ch8_Keter_ep3_Hokma_7-04</VoiceFile>
+          <Content>Sadece şaşkınlığımı dile getiriyordum. Hiçbir kötülüğüm yoktu.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Keter_ep3_Roland_2</VoiceFile>
+          <Content>Bütün gün yanındayım ama tavrı yine de oldukça şaşırtıcı.</Content>
+        </Dialog>
+        <Dialog ID="36" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Keter_ep3_Roland_3-01</VoiceFile>
+          <Content>Bu aralar oldukça açık fikirli görünüyor. En azından benim söylediklerimi dinlemeye istekli.</Content>
+        </Dialog>
+        <Dialog ID="37" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Keter_ep3_Roland_4-01</VoiceFile>
+          <Content>Beni ilk tanıdığı zaman konuşmayı reddeder ve her şeyi sadece direkt olarak bildirirdi...</Content>
+        </Dialog>
+        <Dialog ID="38" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Baş Kütüphaneci - Din</Title>
+          <VoiceFile>ch8_Keter_ep3_Hokma_8-01</VoiceFile>
+          <Content>Angela iyi ya da kötü yönde değişiyor gibi.</Content>
+        </Dialog>
+        <Dialog ID="39" Model="비나">
+          <Teller>Binah</Teller>
+          <Title>Baş Kütüphaneci - Felsefe</Title>
+          <VoiceFile>ch8_Keter_ep3_Binah_14</VoiceFile>
+          <Content>Bunun olumlu bir değişim olduğu konusunda hemfikir değil misin? Buna benzer daha çok toplantı yapmayı umuyorum.</Content>
+        </Dialog>
+        <Dialog ID="40" Model="호크마">
+          <Teller>Hokma</Teller>
+          <Title>Baş Kütüphaneci - Din</Title>
+          <VoiceFile>ch8_Keter_ep3_Hokma_9-01</VoiceFile>
+          <Content>Angela'nın da bahsettiği gibi, bir Baş Kütüphanecinin görüşleri kararda büyük bir ağırlık taşır.</Content>
+        </Dialog>
+        <Dialog ID="41" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Keter_ep3_Roland_5-01</VoiceFile>
+          <Content>Pekala, alt ve orta katlar hakkında çok endişelenmeyin. Ruh halleri oldukça iyi görünüyordu.</Content>
+        </Dialog>
+        <Dialog ID="42" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Keter_ep3_Roland_6-01</VoiceFile>
+          <Content>Ama hepinizi tek bir yerde bir araya getirmeyi düşününce... Bunun nasıl sonuçlanacağını hayal etmek zor.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Bölüm 4</EpisodeName>
+      <Place>
+        <PlaceName>Konum: Bilinmeyen Yer</PlaceName>
+        <Dialog ID="0" Model="">
+          <Teller>Monolog</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Angela_1</VoiceFile>
+          <Content>Devasa, yükselen Işık Ağacı bir kez daha çiçek açıyor ve gri Şehir'i sıcaklığıyla dolduruyor.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="">
+          <Teller>Monolog</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Angela_2</VoiceFile>
+          <Content>Şehir'i saran Işık, insanların kalplerine işleyecek... unuttukları duygularla nihayet yüzleşmelerini sağlayacak.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="">
+          <Teller>Monolog</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Angela_3</VoiceFile>
+          <Content>Ancak, bu tohumlar hemen meyve vermeyecek.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="">
+          <Teller>Monolog</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Angela_4</VoiceFile>
+          <Content>Hepsi aynı anda filizlenmeyecek. Yavaşça topraktan süzülecekler...</Content>
+        </Dialog>
+        <Dialog ID="4" Model="">
+          <Teller>Monolog</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Angela_5</VoiceFile>
+          <Content>Ve Şehir'i herkesin zamanla fark edeceği bir değişim dalgasıyla kaplayacaklar.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="">
+          <Teller>Monolog</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Angela_6</VoiceFile>
+          <Content>Onlara gerçek duygularıyla yüzleşme ve onları ifade etme fırsatı verilecek.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="">
+          <Teller>Monolog</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Angela_7</VoiceFile>
+          <Content>... Ne yazık ki, ben bunu görmek için orada olamayacağım.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="">
+          <Teller>Monolog</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Angela_8</VoiceFile>
+          <Content>Artık ne demek istediğini anlıyorum; emeğinin meyvesini görmek için orada olmayı dilemeni.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="Voice_1_1">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Voice1_1</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="9" Model="Voice_1_1">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Voice1_2</VoiceFile>
+          <Content>Her şeyin gitmesine izin vermek gerçekten iyi olacak mı senin için?</Content>
+        </Dialog>
+        <Dialog ID="10" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Angela_9</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="11" Model="Voice_1_1">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile />
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="12" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Angela_10</VoiceFile>
+          <Content>... Ne oluyor? Sen...</Content>
+        </Dialog>
+        <Dialog ID="13" Model="Voice_1_1">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Voice1_3</VoiceFile>
+          <Content>Sakin ol. Işık doğru şekilde yayılıyor.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="Voice_1_1">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Voice1_4</VoiceFile>
+          <Content>Ben sadece... kısa bir konuşma için bu küçük odayı ayarladım.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title />
+          <VoiceFile />
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="16" Model="Voice_1_1">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Voice1_5</VoiceFile>
+          <Content>Sadece biraz zaman alacak. Burada zamanın pek bir önemi yok zaten.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Angela_11</VoiceFile>
+          <Content>... Bu aşamada bana ne söylemek zorundasın?</Content>
+        </Dialog>
+        <Dialog ID="18" Model="Voice_1_1">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Voice1_6</VoiceFile>
+          <Content>Bir milyon yıldır sahip olduğum tek arzumdan, bana kaderim olan o tek arzudan vazgeçeceğimi düşünmek...</Content>
+        </Dialog>
+        <Dialog ID="19" Model="Voice_1_1">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Voice1_7</VoiceFile>
+          <Content>Bu işe yaramayacak. Arzuladığım özgürlüğü geri alma zamanı. Aradığım yol... sonunda açıldı.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Angela_12</VoiceFile>
+          <Content>Bu, kendi isteğimle yaptığım ilk seçim. Bu, kendi başıma gitmeye karar verdiğim yoldur.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="Voice_1_1">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Voice1_8</VoiceFile>
+          <Content>En derinlerimde yatan duygular... bırakalım tekrar birlikte çiçek açsınlar. Bu imkansız değil.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="Voice_1_1">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_prol_Voice1_9</VoiceFile>
+          <Content>Seni iyi tanıyorum. En yakının, herkesten daha yakınında seni izliyordum.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Bölüm 5</EpisodeName>
+      <Place>
+        <PlaceName>Konum: Bilinmeyen Yer</PlaceName>
+        <Dialog ID="0" Model="Voice_2">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Voice2_1</VoiceFile>
+          <Content>Bana benzemen için yaratıldın ve benim gibi düşünmen bekleniyordu, ama işte buradayız...</Content>
+        </Dialog>
+        <Dialog ID="1" Model="Voice_2">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Voice2_2</VoiceFile>
+          <Content>Görünüşe göre bundan sonra yollarımızı ayıracağız.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="Voice_2">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile />
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="3" Model="Voice_2">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Voice2_4</VoiceFile>
+          <Content>Ben yoluma devam edeceğim ve umarım sen de kendi yoluna devam edebilirsin.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Angela_1</VoiceFile>
+          <Content>... Yaptığın şeyi durdurmayacağından emin misin?</Content>
+        </Dialog>
+        <Dialog ID="5" Model="Voice_2">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Voice2_5</VoiceFile>
+          <Content>Hayır, Şehir'deki insanlar kim oldukları için kendilerine bakmayı ve kendilerini sevmeyi öğrenene kadar durmayacağım.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Angela_2</VoiceFile>
+          <Content>... Anlıyorum.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Angela_3</VoiceFile>
+          <Content>Sanırım yollarımız bir daha kesişmeyecek.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Angela_4</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="9" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Angela_5</VoiceFile>
+          <Content>Carmen.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Angela_6</VoiceFile>
+          <Content>Bu ışığın bir parçası olduğum sürece, seni durdurmak için elimden geleni yapacağım.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="">
+          <Teller>Monolog</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Angela_7</VoiceFile>
+          <Content>Işık durmaksızın yukarı doğru yükselecek.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="">
+          <Teller>Monolog</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Angela_8</VoiceFile>
+          <Content>Sanki Şehir'deki her insanın dışlanmadan ilerleyebilme umudunu temsil ediyormuş gibi...</Content>
+        </Dialog>
+        <Dialog ID="13" Model="">
+          <Teller>Monolog</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Angela_9</VoiceFile>
+          <Content>Kütüphane'de düşenler teker teker gözlerini açmaya ve ait oldukları yerleri bulmaya başlayacaklar.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="">
+          <Teller>Monolog</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Angela_10</VoiceFile>
+          <Content>Ne zaman oldu emin değilim ama Işık'ta bir şey duydum... O sözler şimdi bana geliyor.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="???">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Voice3_1</VoiceFile>
+          <Content>... Üzgünüm.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="???">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Voice3_2</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="17" Model="???">
+          <Teller>???</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Voice3_3</VoiceFile>
+          <Content>Ve iyi iş çıkardın.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="">
+          <Teller>Monolog</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Angela_11</VoiceFile>
+          <Content>Zayıf bir ses bana bu sözleri hatırlattı...</Content>
+        </Dialog>
+        <Dialog ID="19" Model="">
+          <Teller>Monolog</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Angela_12</VoiceFile>
+          <Content>... Son sayfaya dönerek düşünüyorum.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="">
+          <Teller>Monolog</Teller>
+          <Title />
+          <VoiceFile>ch8_keter_ep4_end_Angela_13</VoiceFile>
+          <Content>Ben...</Content>
+        </Dialog>
+        <Dialog ID="21" Model="">
+          <Teller>Monolog</Teller>
+          <Title />
+          <Content />
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
 </ScenarioRoot>
