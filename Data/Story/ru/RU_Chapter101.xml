@@ -1,511 +1,511 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="101">
-    <Title>Sephirah Side Stories</Title>
+    <Title>Sefira Yan Hikayeleri</Title>
   </Chapter>
   <Group>
-    <GroupName>Chitchats</GroupName>
+    <GroupName>Sohbetler</GroupName>
     <Episode>
-      <EpisodeName>Chitchat 1</EpisodeName>
+      <EpisodeName>Sohbet 1</EpisodeName>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane İçinde</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Talk_ep1_Roland1-01</VoiceFile>
-          <Content>Eh, chicos. ¿De qué están hablando tan seriamente?</Content>
+          <Content>Hey, millet. Ne hakkında bu kadar ciddiyetle konuşuyorsunuz?</Content>
         </Dialog>
         <Dialog ID="1" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Jefe Bibliotecario - Teconología</Title>
+          <Title>Baş Kütüphaneci - Teknoloji</Title>
           <VoiceFile>ch8_Talk_ep1_Yesod1</VoiceFile>
-          <Content>Sin lugar a duda es un problema serio...</Content>
+          <Content>Şüphesiz ciddi bir problem bu...</Content>
         </Dialog>
         <Dialog ID="2" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Talk_ep1_Hod1</VoiceFile>
-          <Content>Correcto. Este problema tiene que ser solucionado ahora mismo.</Content>
+          <Content>Kesinlikle. Bu problem hemen şimdi çözülmeli.</Content>
         </Dialog>
         <Dialog ID="3" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Jefa Bibliotecaria - Historia</Title>
+          <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Talk_ep1_Malkuth1-01</VoiceFile>
-          <Content>¡Estamos en muchos problemas!</Content>
+          <Content>Başımız büyük dertte!</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Talk_ep1_Angela1</VoiceFile>
-          <Content>Solo díganme qué está pasando.</Content>
+          <Content>Sadece bana ne olduğunu söyleyin.</Content>
         </Dialog>
         <Dialog ID="5" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Jefa Bibliotecaria - Historia</Title>
+          <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Talk_ep1_Malkuth2</VoiceFile>
-          <Content>¡Netzach se escapó!</Content>
+          <Content>Netzach kaçtı!</Content>
         </Dialog>
         <Dialog ID="6" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Jefe Bibliotecario - Teconología</Title>
+          <Title>Baş Kütüphaneci - Teknoloji</Title>
           <VoiceFile>ch8_Talk_ep1_Yesod2-01</VoiceFile>
-          <Content>El Piso de Arte era el responsable de limpiar los pasillos de la Biblioteca esta semana.</Content>
+          <Content>Sanat Katı bu hafta Kütüphane koridorlarını temizlemekle sorumluydu.</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Talk_ep1_Roland2-01</VoiceFile>
-          <Content>¿Qué?</Content>
+          <Content>Ne?</Content>
         </Dialog>
         <Dialog ID="8" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Jefe Bibliotecario - Teconología</Title>
+          <Title>Baş Kütüphaneci - Teknoloji</Title>
           <VoiceFile>ch8_Talk_ep1_Yesod3</VoiceFile>
-          <Content>¿Tienes alguna idea de dónde podría estar?</Content>
+          <Content>Nerede olabileceğine dair bir fikrin var mı?</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Talk_ep1_Roland3-01</VoiceFile>
-          <Content>Nah, por supuesto que no. No hay manera. Mmm...</Content>
+          <Content>Yo, kesinlikle hayır. Mümkünü yok. Hım...</Content>
         </Dialog>
         <Dialog ID="10" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Talk_ep1_Hod2</VoiceFile>
-          <Content>Sus otros Bibliotecarios también han desaparecido con él...</Content>
+          <Content>Diğer Kütüphanecileri de onunla birlikte kayboldu...</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Talk_ep1_Angela2</VoiceFile>
-          <Content>¿Limpieza? No recuerdo haberles ordenado limpiar este lugar.</Content>
+          <Content>Temizlik mi? Burayı temizlemelerini emrettiğimi hatırlamıyorum.</Content>
         </Dialog>
         <Dialog ID="12" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Jefe Bibliotecario - Teconología</Title>
+          <Title>Baş Kütüphaneci - Teknoloji</Title>
           <VoiceFile>ch8_Talk_ep1_Yesod4-02</VoiceFile>
-          <Content>Hemos concluido que mientras cada Bibliotecario debería limpiar sus propias habitaciones, es mejor tomar turnos para limpiar los pasillos, ya que son espacios públicos que todos usamos.</Content>
+          <Content>Her Kütüphaneci kendi odasını temizlemeli sonucuna vardık, ancak koridorlar hepimizin kullandığı ortak alanlar olduğundan sırayla temizlemek en iyisi.</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Talk_ep1_Angela3</VoiceFile>
-          <Content>Ustedes siempre hacen un escándalo mucho mayor del necesario.</Content>
+          <Content>Her zaman gerekenden çok daha büyük bir yaygara koparıyorsunuz.</Content>
         </Dialog>
         <Dialog ID="14" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Talk_ep1_Hod3</VoiceFile>
-          <Content>¿Quieres que dejemos de hacerlo?</Content>
+          <Content>Bırakmamızı ister misin?</Content>
         </Dialog>
         <Dialog ID="15" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Talk_ep1_Angela4</VoiceFile>
-          <Content>No, no me importa.</Content>
+          <Content>Hayır, umurumda değil.</Content>
         </Dialog>
         <Dialog ID="16" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Talk_ep1_Hod4</VoiceFile>
-          <Content>Menos mal...</Content>
+          <Content>Oh, iyi...</Content>
         </Dialog>
         <Dialog ID="17" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Jefa Bibliotecaria - Historia</Title>
+          <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Talk_ep1_Malkuth3-02</VoiceFile>
-          <Content>¡De todos modos, ese es el motivo de que nos lo estemos preguntando! ¡Dónde se escondió Netzach!</Content>
+          <Content>Neyse, bu yüzden soruyorduk! Netzach nereye saklandı?</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Talk_ep1_Angela5</VoiceFile>
-          <Content>Uf...</Content>
+          <Content>Uff...</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Talk_ep1_Angela6</VoiceFile>
-          <Content>Bien, aquí está Netzach.</Content>
+          <Content>Pekala, işte Netzach.</Content>
         </Dialog>
         <Dialog ID="20" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe Bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Talk_ep1_Netzach1-01</VoiceFile>
-          <Content>Q... qué... Qué ha pasado...</Content>
+          <Content>N-ne... Ne oldu...</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Talk_ep1_Angela7</VoiceFile>
-          <Content>No tengo que hacer ningún esfuerzo para encontrarte y recolocarte, sin importar en que lugar de la Biblioteca estás.</Content>
+          <Content>Kütüphane'nin neresinde olursan ol, seni bulmak ve yeniden konumlandırmak için hiç çaba harcamama gerek yok.</Content>
         </Dialog>
         <Dialog ID="22" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Jefa Bibliotecaria - Historia</Title>
+          <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Talk_ep1_Malkuth4-01</VoiceFile>
-          <Content>¡Netzaaaach~! ¡Prometimos mantener el orden que decidimos!</Content>
+          <Content>Netzaaaach~! Kararlaştırdığımız düzeni sürdürmeye söz verdik!</Content>
         </Dialog>
         <Dialog ID="23" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Talk_ep1_Hod5</VoiceFile>
-          <Content>Eres tan malo, escapar cuando es tu turno...</Content>
+          <Content>Sıra sana geldiğinde kaçmak çok kötü...</Content>
         </Dialog>
         <Dialog ID="24" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Jefe Bibliotecario - Teconología</Title>
+          <Title>Baş Kütüphaneci - Teknoloji</Title>
           <VoiceFile>ch8_Talk_ep1_Yesod5</VoiceFile>
-          <Content>Apestas a alcohol y también lo hacen tus Bibliotecarios a tu espalda...</Content>
+          <Content>Sen alkol kokuyorsun ve arkandaki Kütüphanecilerin de alkol kokuyor...</Content>
         </Dialog>
         <Dialog ID="25" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe Bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Talk_ep1_Netzach2</VoiceFile>
-          <Content>... Puedo explicarlo, tengo una buena explicación sobre esto.</Content>
+          <Content>... Açıklayabilirim, bununla ilgili iyi bir açıklamam var.</Content>
         </Dialog>
         <Dialog ID="26" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Jefa Bibliotecaria - Historia</Title>
+          <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Talk_ep1_Malkuth5-02</VoiceFile>
-          <Content>¿Qué explicación?</Content>
+          <Content>Ne açıklaması?</Content>
         </Dialog>
         <Dialog ID="27" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Jefe Bibliotecario - Teconología</Title>
+          <Title>Baş Kütüphaneci - Teknoloji</Title>
           <VoiceFile>ch8_Talk_ep1_Yesod6-02</VoiceFile>
-          <Content>Déjanos escuchar tu historia.</Content>
+          <Content>Hikayeni dinleyelim.</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Talk_ep1_Roland4-01</VoiceFile>
-          <Content>Espera espera, Netzach será más cuidadoso la próxima vez. Es suficiente regaño.</Content>
+          <Content>Durun durun, Netzach bir dahaki sefere daha dikkatli olur. Yeterince azar işitti.</Content>
         </Dialog>
         <Dialog ID="29" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Jefe Bibliotecario - Teconología</Title>
+          <Title>Baş Kütüphaneci - Teknoloji</Title>
           <VoiceFile>ch8_Talk_ep1_Yesod7-02</VoiceFile>
-          <Content>No. Necesito escuchar lo que tiene que decir.</Content>
+          <Content>Hayır. Ne söyleyeceğini duymam gerekiyor.</Content>
         </Dialog>
         <Dialog ID="30" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Jefa Bibliotecaria - Historia</Title>
+          <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Talk_ep1_Malkuth6-03</VoiceFile>
-          <Content>¡Netzaaaaaach!</Content>
+          <Content>Netzaaaaaach!</Content>
         </Dialog>
         <Dialog ID="31" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe Bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Talk_ep1_Netzach3-01</VoiceFile>
-          <Content>... Mira, no tenía ganas de limpiar, pero aun así iba a hacerlo.</Content>
+          <Content>... Bakın, temizlik yapmak istemiyordum ama yine de yapacaktım.</Content>
         </Dialog>
         <Dialog ID="32" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe Bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Talk_ep1_Netzach4</VoiceFile>
-          <Content>Me estaba quejando conmigo mismo sobre eso, entonces Roland vino y me dijo que encontró un buen lugar donde perder el tiempo...</Content>
+          <Content>Kendi kendime şikayet ediyordum ki, Roland gelip bana zaman öldürmek için iyi bir yer bulduğunu söyledi...</Content>
         </Dialog>
         <Dialog ID="33" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe Bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Talk_ep1_Netzach5</VoiceFile>
-          <Content>Me dijo que me iba a decir dónde estaba si le compartía algo de alcohol y cómo podría saltarme mi turno de limp— ¡¡Mh, mmh!!</Content>
+          <Content>Bana biraz alkol verirsem nerede olduğunu ve temizlik sıramı nasıl atlayabileceğimi söyleyeceğini söyledi— Mf, mmh!!</Content>
         </Dialog>
         <Dialog ID="34" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Talk_ep1_Roland5</VoiceFile>
-          <Content>Vaya, parece que está demasiado borracho como para decir algo coherente.</Content>
+          <Content>Vay, sanırım çok sarhoş, tutarlı bir şey söyleyemiyor.</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Talk_ep1_Roland6</VoiceFile>
-          <Content>De verdad que le encanta beber para alguien con tan poca resistencia. Hahaha...</Content>
+          <Content>Bu kadar düşük dayanıklılığa sahip biri için içmeyi gerçekten çok seviyor. Hahaha...</Content>
         </Dialog>
         <Dialog ID="36" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Talk_ep1_Hod6</VoiceFile>
-          <Content>... Roland. ¿Lo que dijo Netzach es cierto?</Content>
+          <Content>... Roland. Netzach'ın söylediği doğru mu?</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Talk_ep1_Roland7</VoiceFile>
-          <Content>Haha... Nah, no puede ser.</Content>
+          <Content>Haha... Yoo, olamaz.</Content>
         </Dialog>
         <Dialog ID="38" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Jefe Bibliotecario - Teconología</Title>
+          <Title>Baş Kütüphaneci - Teknoloji</Title>
           <VoiceFile>ch8_Talk_ep1_Yesod8-01</VoiceFile>
-          <Content>También puedo percibir un ligero olor a Alcohol proviniendo de ti, ahora que Netzach lo ha confesado.</Content>
+          <Content>Şimdi Netzach itiraf ettiğine göre, senden de hafif bir alkol kokusu alabiliyorum.</Content>
         </Dialog>
         <Dialog ID="39" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Jefa Bibliotecaria - Historia</Title>
+          <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Talk_ep1_Malkuth7-04</VoiceFile>
-          <Content>¡Estoy tan decepcionada de ambos!</Content>
+          <Content>İkinizden de çok hayal kırıklığına uğradım!</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Talk_ep1_Roland8</VoiceFile>
-          <Content>¡Vale, lo siento! ¡Ayudaré a Netzach a limpiar los pasillos por hoy, así que perdónenme!</Content>
+          <Content>Tamam, özür dilerim! Netzach'a bugünkü koridor temizliğinde yardım edeceğim, o yüzden beni affedin!</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Talk_ep1_Angela8</VoiceFile>
-          <Content>Hm, no. Sería mejor que te unieras a la lista de limpieza desde ahora, en lugar de solo por hoy, ¿no creen?</Content>
+          <Content>Hım, hayır. Sadece bugünün yerine, şimdiden temizlik listesine katılman daha iyi olmaz mıydı, sizce?</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Talk_ep1_Roland9</VoiceFile>
-          <Content>¿Queeeé?</Content>
+          <Content>Neeee?</Content>
         </Dialog>
         <Dialog ID="43" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Jefa Bibliotecaria - Literatura</Title>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Talk_ep1_Hod7</VoiceFile>
-          <Content>Esa es una buena idea.</Content>
+          <Content>Bu iyi bir fikir.</Content>
         </Dialog>
         <Dialog ID="44" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Jefe Bibliotecario - Teconología</Title>
+          <Title>Baş Kütüphaneci - Teknoloji</Title>
           <VoiceFile>ch8_Talk_ep1_Yesod9</VoiceFile>
-          <Content>Podría perdonar tu comportamiento hoy si ese es el caso.</Content>
+          <Content>Eğer öyleyse, bugünkü davranışını affedebilirim.</Content>
         </Dialog>
         <Dialog ID="45" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Jefa Bibliotecaria - Historia</Title>
+          <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Talk_ep1_Malkuth8-03</VoiceFile>
-          <Content>¡Buena suerte con la limpieza entonces!</Content>
+          <Content>Öyleyse temizlikte iyi şanslar!</Content>
         </Dialog>
         <Dialog ID="46" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Jefe Bibliotecario - Arte</Title>
+          <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Talk_ep1_Netzach6-01</VoiceFile>
-          <Content>... También eres propenso a armar jaleo, ¿verdad, Roland?</Content>
+          <Content>... Sen de başını belaya sokmaya meyillisin, değil mi, Roland?</Content>
         </Dialog>
         <Dialog ID="47" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
+          <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Talk_ep1_Roland10</VoiceFile>
           <Content>Eh.</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Chitchat 2</EpisodeName>
+      <EpisodeName>Sohbet 2</EpisodeName>
       <Place>
-        <PlaceName>Localización: La Biblioteca – Piso de Ciencias Sociales</PlaceName>
+        <PlaceName>Konum: Kütüphane – Sosyal Bilimler Katı</PlaceName>
         <Dialog ID="0" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <Title>Baş Kütüphaneci - Dil</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura1</VoiceFile>
-          <Content>Quita esa cara de mi vista.</Content>
+          <Content>O suratını gözümün önünden kaldır.</Content>
         </Dialog>
         <Dialog ID="1" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - S. Bilimler</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed1</VoiceFile>
-          <Content>Vamos~ Estás actuando de nuevo.</Content>
+          <Content>Hadi ama~ Yine rol yapıyorsun.</Content>
         </Dialog>
         <Dialog ID="2" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <Title>Baş Kütüphaneci - Dil</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura2</VoiceFile>
-          <Content>Bah... Me gustabas mucho más cuando eras solo una caja de acero.</Content>
+          <Content>Tüh... Sadece bir çelik kutu olduğun zamanı çok daha çok seviyordum.</Content>
         </Dialog>
         <Dialog ID="3" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - S. Bilimler</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed2</VoiceFile>
-          <Content>¿Wow, en serio? Supongo que hoy es mi día de suerte, conseguir cumplidos de Gebura de toda la gente~</Content>
+          <Content>Vay, gerçekten mi? Sanırım bugün benim şanslı günüm, Gebura gibi birinden iltifat alıyorum~</Content>
         </Dialog>
         <Dialog ID="4" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <Title>Baş Kütüphaneci - Dil</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura3</VoiceFile>
-          <Content>¿Eh? Eso no se suponía que fuera un cumplido, tú...</Content>
+          <Content>Ha? Bu bir iltifat olmamalıydı, seni...</Content>
         </Dialog>
         <Dialog ID="5" Model="티페리트">
           <Teller>Tiphereth</Teller>
-          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <Title>Baş Kütüphaneci - Doğa Bil.</Title>
           <VoiceFile>ch8_Talk_ep2_Tiphereth1</VoiceFile>
-          <Content>Bien, deténganse. ¿No están cansados de pelear a estas alturas?</Content>
+          <Content>Tamam, durun. Bu kadar kavgadan yorulmadınız mı henüz?</Content>
         </Dialog>
         <Dialog ID="6" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <Title>Baş Kütüphaneci - Dil</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura4</VoiceFile>
-          <Content>Este idiota peli-azul sigue restregándome su café en mi cara.</Content>
+          <Content>Bu mavi saçlı aptal, kahvesini sürekli yüzüme sokuyor.</Content>
         </Dialog>
         <Dialog ID="7" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <Title>Baş Kütüphaneci - Dil</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura5</VoiceFile>
-          <Content>No entiendo que es tan bueno sobre una taza de agua amarga.</Content>
+          <Content>Bir fincan acı suda bu kadar iyi olan ne var anlamıyorum.</Content>
         </Dialog>
         <Dialog ID="8" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - S. Bilimler</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed3</VoiceFile>
-          <Content>Es un gusto adquirido, ya sabes~</Content>
+          <Content>O, edinilmiş bir tat, biliyor musun~</Content>
         </Dialog>
         <Dialog ID="9" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <Title>Baş Kütüphaneci - Dil</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura6</VoiceFile>
-          <Content>Vete con ese gusto por tu cuenta entonces. No quiero molestarme en acostumbrarme a eso.</Content>
+          <Content>O zaman git o tadı tek başına edin. Ona alışmak için kendimi zahmete sokmayacağım.</Content>
         </Dialog>
         <Dialog ID="10" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - S. Bilimler</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed4</VoiceFile>
-          <Content>No seas tan agría~ Tengo algo dulce para ambas esta vez, así que denle un intento por mi bien, ¿por favor~?</Content>
+          <Content>Bu kadar asabi olma~ Bu sefer ikiniz için de tatlı bir şey hazırladım, o yüzden benim hatırıma bir deneyin, olur mu~?</Content>
         </Dialog>
         <Dialog ID="11" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <Title>Baş Kütüphaneci - Dil</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura7</VoiceFile>
-          <Content>¿Te refieres a ese... muckhairytoe o algo así?</Content>
+          <Content>O... muckhairytoe mu neyse, ondan mı bahsediyorsun?</Content>
         </Dialog>
         <Dialog ID="12" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - S. Bilimler</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed5</VoiceFile>
-          <Content>Mhm. Es correcto~</Content>
+          <Content>Mhm. Doğru~</Content>
         </Dialog>
         <Dialog ID="13" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - S. Bilimler</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed6</VoiceFile>
-          <Content>Aunque se llama macchiato...</Content>
+          <Content>Adı macchiato olsa da...</Content>
         </Dialog>
         <Dialog ID="14" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <Title>Baş Kütüphaneci - Dil</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura8</VoiceFile>
-          <Content>... No importa, todo se escucha igual para mí. Pero tengo que admitir que ese se podía beber.</Content>
+          <Content>... Fark etmez, hepsi bana aynı geliyor. Ama itiraf etmeliyim ki, o içilebilirdi.</Content>
         </Dialog>
         <Dialog ID="15" Model="티페리트">
           <Teller>Tiphereth</Teller>
-          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <Title>Baş Kütüphaneci - Doğa Bil.</Title>
           <VoiceFile>ch8_Talk_ep2_Tiphereth2</VoiceFile>
-          <Content>No soy una gran fan de ese. El sabor a caramelo era demasiado fuerte para mi gusto...</Content>
+          <Content>Ben onun pek hayranı değilim. Karamel tadı bana göre çok ağırdı...</Content>
         </Dialog>
         <Dialog ID="16" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - S. Bilimler</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed7</VoiceFile>
-          <Content>Así que he preparado una taza de Vienna esta vez~ Este te gustará más.</Content>
+          <Content>Bu yüzden bu sefer bir fincan Viyana hazırladım~ Bunu daha çok seveceksin.</Content>
         </Dialog>
         <Dialog ID="17" Model="티페리트">
           <Teller>Tiphereth</Teller>
-          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <Title>Baş Kütüphaneci - Doğa Bil.</Title>
           <VoiceFile>ch8_Talk_ep2_Tiphereth3</VoiceFile>
-          <Content>Gracias por ser tan considerado, pero... ¿Por qué sigues recomendándonos café?</Content>
+          <Content>Bu kadar düşünceli olduğun için teşekkürler, ama... Neden bize sürekli kahve öneriyorsun?</Content>
         </Dialog>
         <Dialog ID="18" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - S. Bilimler</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed8</VoiceFile>
-          <Content>Bueno, ya ves~ Pensé que sería genial hacer al menos un amigo que entendiera el sabor del café, ¿sabes?</Content>
+          <Content>Şey, görüyorsun~ Kahve tadını anlayan en az bir arkadaş edinmenin harika olacağını düşündüm, biliyor musun?</Content>
         </Dialog>
         <Dialog ID="19" Model="티페리트">
           <Teller>Tiphereth</Teller>
-          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <Title>Baş Kütüphaneci - Doğa Bil.</Title>
           <VoiceFile>ch8_Talk_ep2_Tiphereth4</VoiceFile>
-          <Content>Digo, puedo beber café contigo si estás tan desesperado por un colega del café. Pero eres raramente insistente con Gebura.</Content>
+          <Content>Yani, bu kadar çaresizsen seninle kahve içebilirim. Ama Gebura konusunda tuhaf bir şekilde ısrarcısın.</Content>
         </Dialog>
         <Dialog ID="20" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <Title>Baş Kütüphaneci - Dil</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura9</VoiceFile>
-          <Content>Sí, me pregunto el motivo.</Content>
+          <Content>Evet, nedenini merak ediyorum.</Content>
         </Dialog>
         <Dialog ID="21" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - S. Bilimler</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed9</VoiceFile>
-          <Content>Bueno... ¿Cómo debería decirlo?</Content>
+          <Content>Şey... Nasıl desem?</Content>
         </Dialog>
         <Dialog ID="22" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - S. Bilimler</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed10</VoiceFile>
-          <Content>Ves, la cosa sobre Gebura es que...</Content>
+          <Content>Görüyorsunuz, Gebura hakkındaki mesele şu ki...</Content>
         </Dialog>
         <Dialog ID="23" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - S. Bilimler</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed11</VoiceFile>
-          <Content>¿Sus reacciones son divertidas de ver?</Content>
+          <Content>... Reaksiyonları izlemesi eğlenceli mi?</Content>
         </Dialog>
         <Dialog ID="24" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <Title>Baş Kütüphaneci - Dil</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura10</VoiceFile>
-          <Content>¿Qué?</Content>
+          <Content>Ne?</Content>
         </Dialog>
         <Dialog ID="25" Model="티페리트">
           <Teller>Tiphereth</Teller>
-          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <Title>Baş Kütüphaneci - Doğa Bil.</Title>
           <VoiceFile>ch8_Talk_ep2_Tiphereth5</VoiceFile>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="26" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - S. Bilimler</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed12</VoiceFile>
-          <Content>El aire ha dado un giro brusco a uno muy agresivo... Solo estaba bromeando~</Content>
+          <Content>Hava keskin bir şekilde agresif bir hale geldi... Sadece şaka yapıyordum~</Content>
         </Dialog>
         <Dialog ID="27" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - S. Bilimler</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed13</VoiceFile>
-          <Content>Digo, es genial que podamos reunirnos de vez en cuando por una bebida, ¿no es así~?</Content>
+          <Content>Yani, arada sırada bir şeyler içmek için bir araya gelmemiz harika, değil mi~?</Content>
         </Dialog>
         <Dialog ID="28" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - S. Bilimler</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed14</VoiceFile>
-          <Content>No hay una mejor razón que una taza de café caliente para reunirnos y relajarnos~</Content>
+          <Content>Bir araya gelip rahatlamak için sıcak bir fincan kahveden daha iyi bir sebep yok~</Content>
         </Dialog>
         <Dialog ID="29" Model="티페리트">
           <Teller>Tiphereth</Teller>
-          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <Title>Baş Kütüphaneci - Doğa Bil.</Title>
           <VoiceFile>ch8_Talk_ep2_Tiphereth6</VoiceFile>
-          <Content>Es cierto, estaríamos encerrados en nuestros propios pisos haciendo nuestros trabajos, si no fuera por descansos como este...</Content>
+          <Content>Doğru, böyle molalar olmasaydı, kendi katlarımızda işlerimizi yapmaya kilitlenmiş olurduk...</Content>
         </Dialog>
         <Dialog ID="30" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <Title>Baş Kütüphaneci - Dil</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura11</VoiceFile>
-          <Content>Si ese es el verdadero motivo, no hay razón de que siempre sea sobre café, ¿verdad?</Content>
+          <Content>Eğer asıl sebep buysa, neden her zaman kahve hakkında olmak zorunda?</Content>
         </Dialog>
         <Dialog ID="31" Model="티페리트">
           <Teller>Tiphereth</Teller>
-          <Title>Jefa Bibliotecaria - Ciencias Nat.</Title>
+          <Title>Baş Kütüphaneci - Doğa Bil.</Title>
           <VoiceFile>ch8_Talk_ep2_Tiphereth7</VoiceFile>
-          <Content>¿Quizás él no tiene otro tipo de excusas?</Content>
+          <Content>Belki başka tür bahaneleri yoktur?</Content>
         </Dialog>
         <Dialog ID="32" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe Bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - S. Bilimler</Title>
           <VoiceFile>ch8_Talk_ep2_Chesed15</VoiceFile>
-          <Content>Has dado en el clavo, Tiph~</Content>
+          <Content>Tam onikiden vurdun, Tiph~</Content>
         </Dialog>
         <Dialog ID="33" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Jefa Bibliotecaria - Lenguaje</Title>
+          <Title>Baş Kütüphaneci - Dil</Title>
           <VoiceFile>ch8_Talk_ep2_Gebura12</VoiceFile>
-          <Content>Olvídalo. En ese caso, solo puedo venir junto con Tiphereth más a menudo.</Content>
+          <Content>Boşver. Öyleyse, sadece Tiphereth ile daha sık gelebilirim.</Content>
         </Dialog>
         <Dialog ID="34" Model="티페리트">
           <Teller>Tiphereth</Teller>
