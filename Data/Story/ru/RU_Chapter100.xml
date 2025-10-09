@@ -4869,7 +4869,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
       </Place>
     </Episode>
-    <Episode>
+<Episode>
       <EpisodeName>Episode 3</EpisodeName>
       <Place>
         <PlaceName>Konum: Kütüphane - Edebiyat Katı</PlaceName>
@@ -4877,211 +4877,211 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland1</VoiceFile>
-          <Content>Hola, ¡tengo algunos libros frescos para ti!</Content>
+          <Content>Selam, sana getirecek taze kitaplarım var!</Content>
         </Dialog>
         <Dialog ID="1" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod1</VoiceFile>
-          <Content>Hola, Roland. Trabajando duro como siempre.</Content>
+          <Content>Merhaba, Roland. Her zamanki gibi sıkı çalışıyorsun.</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland2</VoiceFile>
-          <Content>Ni lo digas. Si solo nuestra directora pudiera apreciar todo este trabajo duro con una gran recompensa o algo.</Content>
+          <Content>Hiç sorma. Keşke müdiremiz tüm bu sıkı çalışmayı büyük bir ödülle ya da benzeri bir şeyle takdir edebilse.</Content>
         </Dialog>
         <Dialog ID="3" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod2</VoiceFile>
-          <Content>Por cierto, ¿cómo lo estás llevando con Angela?</Content>
+          <Content>Bu arada, Angela ile aran nasıl?</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland3</VoiceFile>
-          <Content>Eh, ¿supongo que más o menos? Ella puede dar miedo a veces, pero puedo vivir con eso.</Content>
+          <Content>Eh, sanırım idare eder? Bazen korkutucu olabiliyor ama bununla yaşayabilirim.</Content>
         </Dialog>
         <Dialog ID="5" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod3</VoiceFile>
-          <Content>Angela parecía más cómoda cuando estaba hablando contigo.</Content>
+          <Content>Angela, seninle konuşurken daha rahat görünüyordu.</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland4</VoiceFile>
-          <Content>¿En serio? Para ser justos, todos los bibliotecarios que he encontrado parecían despreciar a Angela.</Content>
+          <Content>Gerçekten mi? Dürüst olmak gerekirse, karşılaştığım tüm kütüphaneciler Angela'dan nefret ediyor gibiydi.</Content>
         </Dialog>
         <Dialog ID="7" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod4</VoiceFile>
-          <Content>Me dijiste antes que tu lema era “Esto es esto, y eso es eso”, ¿verdad?</Content>
+          <Content>Bana daha önce mottonun "Bu budur, şu da şudur" olduğunu söylemiştin, değil mi?</Content>
         </Dialog>
         <Dialog ID="8" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod5</VoiceFile>
-          <Content>He estado pensándolo y no creo que pueda seguirlo.</Content>
+          <Content>Bunu düşündüm ve sanırım buna uyamam.</Content>
         </Dialog>
         <Dialog ID="9" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod6</VoiceFile>
-          <Content>Tendría que odiar a Angela con todo mi ser, pero no puedo tener un odio incondicional hacia ella.</Content>
+          <Content>Angela'dan tüm benliğimle nefret etmem gerekirdi ama ona karşı koşulsuz bir nefret besleyemiyorum.</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland5</VoiceFile>
-          <Content>Qué inesperado.</Content>
+          <Content>Ne kadar beklenmedik.</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland6</VoiceFile>
-          <Content>¿Supongo que es porque Angela tiene una historia trágica y eso?</Content>
+          <Content>Sanırım Angela'nın trajik bir hikayesi falan olduğu için mi?</Content>
         </Dialog>
         <Dialog ID="12" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod7</VoiceFile>
-          <Content>Es correcto. Todos tienen sus propias historias. Incluso si uno está cometiendo actos malos ahora mismo...</Content>
+          <Content>Doğru. Herkesin kendine ait hikayeleri var. Biri şu an kötü şeyler yapsa bile...</Content>
         </Dialog>
         <Dialog ID="13" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod8</VoiceFile>
-          <Content>No quiero juzgarlos basados en los fragmentos que veo de ellos.</Content>
+          <Content>Onları gördüğüm parçalara dayanarak yargılamak istemiyorum.</Content>
         </Dialog>
         <Dialog ID="14" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod9</VoiceFile>
-          <Content>Así que intento entenderlos en profundidad.</Content>
+          <Content>Bu yüzden onları derinlemesine anlamaya çalışıyorum.</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland7</VoiceFile>
-          <Content>Hombre, tú eres un angel. Desearía que Yesod y Netzach fueran la mitad de amables que tú.</Content>
+          <Content>Dostum, sen bir meleksin. Keşke Yesod ve Netzach da senin yarın kadar nazik olsaydı.</Content>
         </Dialog>
         <Dialog ID="16" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod10</VoiceFile>
-          <Content>¿Te parezco una buena persona, Roland?</Content>
+          <Content>Sence ben iyi biri miyim, Roland?</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland8</VoiceFile>
-          <Content>Mmm, no lo sé. “Amable” y “Bueno” no son exactamente lo mismo.</Content>
+          <Content>Mmm, bilmiyorum. "Nazik" ve "İyi" tam olarak aynı şeyler değil.</Content>
         </Dialog>
         <Dialog ID="18" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod11</VoiceFile>
-          <Content>¿Eso crees? Yo no era una buena persona.</Content>
+          <Content>Sen öyle mi düşünüyorsun? Ben iyi bir insan değildim.</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland9</VoiceFile>
-          <Content>Oh, ¿es sobre tu primera y segunda vida? Recuerdo a Malkuth hablando de eso.</Content>
+          <Content>Ah, ilk ve ikinci hayatınla ilgili mi? Malkuth'un bundan bahsettiğini hatırlıyorum.</Content>
         </Dialog>
         <Dialog ID="20" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod12</VoiceFile>
-          <Content>Ya veo, así lo ve Malkuth.</Content>
+          <Content>Anlıyorum, Malkuth bunu böyle görüyor.</Content>
         </Dialog>
         <Dialog ID="21" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod13</VoiceFile>
-          <Content>Sí, tienes razón. Mi primera vida fue trágica.</Content>
+          <Content>Evet, haklısın. İlk hayatım trajikti.</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland10</VoiceFile>
-          <Content>Ese parece ser el caso de todos aquí. ¿Todos estaban investigando para “curar” la humanidad, verdad?</Content>
+          <Content>Buradaki herkes için durum böyle görünüyor. Hepiniz insanlığı 'iyileştirmek' için araştırma yapıyordunuz, değil mi?</Content>
         </Dialog>
         <Dialog ID="23" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod14</VoiceFile>
-          <Content>Muchas personas murieron por mi culpa...</Content>
+          <Content>Pek çok insan benim yüzümden öldü...</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland11</VoiceFile>
-          <Content>¿Eh? Eres muy buena peleadora como Bibliotecaria, pero no pareces una asesina en serie ni nada.</Content>
+          <Content>Ha? Kütüphaneci olarak çok iyi bir dövüşçüsün ama seri katil falan gibi görünmüyorsun.</Content>
         </Dialog>
         <Dialog ID="25" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod15</VoiceFile>
-          <Content>¿Eso piensas? Yo sigo pensando que soy directamente responsable por sus muertes.</Content>
+          <Content>Sen öyle mi düşünüyorsun? Ben hala ölümlerinden doğrudan sorumlu olduğumu düşünüyorum.</Content>
         </Dialog>
         <Dialog ID="26" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod16</VoiceFile>
-          <Content>Yo los delaté a la Cabeza. Sobre los experimentos que estábamos haciendo y sobre las atrocidades que estábamos a punto de cometer.</Content>
+          <Content>Onları Baş'a ihbar ettim. Yaptığımız deneyleri ve yapmak üzere olduğumuz vahşetleri anlattım.</Content>
         </Dialog>
         <Dialog ID="27" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod17</VoiceFile>
-          <Content>Ellos enviaron un Árbitro al laboratorio y mataron a muchos de mis colegas.</Content>
+          <Content>Onlar da laboratuvara bir Hakem gönderdiler ve meslektaşlarımın çoğunu öldürdüler.</Content>
         </Dialog>
         <Dialog ID="28" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod18</VoiceFile>
-          <Content>Cuando escuché las noticias, no pude soportarlo más, así que... tomé mi propia vida.</Content>
+          <Content>Haberleri duyduğumda dayanamadım, bu yüzden... kendi canıma kıydım.</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland12</VoiceFile>
-          <Content>¿Qué sucedió ahí...?</Content>
+          <Content>Orada neler olmuş böyle...?</Content>
         </Dialog>
         <Dialog ID="30" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod19</VoiceFile>
-          <Content>Tuve que observar como Malkuth, Yesod y Netzach tuvieron horribles muertes en ese laboratorio.</Content>
+          <Content>Malkuth, Yesod ve Netzach'ın o laboratuvarda korkunç ölümlerini izlemek zorunda kaldım.</Content>
         </Dialog>
         <Dialog ID="31" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod20</VoiceFile>
-          <Content>Y lo que sucedió con ese joven chico que participó en el experimento...</Content>
+          <Content>Ve deneye katılan o genç çocuğa ne oldu...</Content>
         </Dialog>
         <Dialog ID="32" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod21</VoiceFile>
-          <Content>Eso no es todo. Inyectábamos drogas en la gente y grabábamos los cambios y efectos secundarios que tuvieran...</Content>
+          <Content>Hepsi bu kadar da değil. İnsanlara ilaç enjekte ediyorduk ve yaşadıkları değişiklikleri ve yan etkileri kaydediyorduk...</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland13</VoiceFile>
-          <Content>¿Dentro de la Ciudad?</Content>
+          <Content>Şehrin içinde mi?</Content>
         </Dialog>
         <Dialog ID="34" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod22</VoiceFile>
-          <Content>No, el laboratorio estaba en las Afueras. Para evadir a la Cabeza y sus Ojos.</Content>
+          <Content>Hayır, laboratuvar Dış Mahalle'deydi. Baş'tan ve Gözleri'nden kaçmak için.</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>Roland</Teller>
@@ -5093,244 +5093,244 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod23</VoiceFile>
-          <Content>¿Ahora puedes ver que no soy una buena persona, verdad?</Content>
+          <Content>Şimdi iyi bir insan olmadığımı görebiliyorsun, değil mi?</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland15</VoiceFile>
-          <Content>Nope, no es sobre eso. Estoy pensando porque hay una parte de la historia que no cuadra.</Content>
+          <Content>Hayır, konu bu değil. Kafama takılan, hikayenin bir kısmının uymaması.</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland16</VoiceFile>
-          <Content>¿La Cabeza se molestó en enviar a un Árbitro solo para ocuparse de un proyecto de investigación que mató a algunas personas? ¿Que además tomó lugar en las Afueras, lejos de los límites de la Ciudad?</Content>
+          <Content>Baş, sadece birkaç kişiyi öldüren bir araştırma projesiyle ilgilenmek için bir Hakem gönderme zahmetine mi girdi? Üstelik Şehir sınırlarından uzakta, Dış Mahalle'de gerçekleşmişken?</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland17</VoiceFile>
-          <Content>Esa parte no tiene sentido... ¿Estás segura de que era un Árbitro?</Content>
+          <Content>Bu kısım mantıklı değil... Bir Hakem olduğundan emin misin?</Content>
         </Dialog>
         <Dialog ID="40" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod24</VoiceFile>
-          <Content>Eso es lo que escuché... Y también coincide con lo que aprendí en Lobotomy Corp. durante mi segunda vida.</Content>
+          <Content>Öyle duymuştum... Ve bu, ikinci hayatımda Lobotomy Corp.'ta öğrendiklerimle de örtüşüyor.</Content>
         </Dialog>
         <Dialog ID="41" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland18</VoiceFile>
-          <Content>Mmm. Sigue siendo difícil de creer.</Content>
+          <Content>Mmm. Hala inanması zor.</Content>
         </Dialog>
         <Dialog ID="42" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod25</VoiceFile>
-          <Content>Estás reflexionando sobre cosas raras, Roland. Pensé que me criticarías por ser una traidora.</Content>
+          <Content>Garip şeyler üzerine kafa yoruyorsun, Roland. Seni bir hain olduğum için eleştireceğini düşünmüştüm.</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland19</VoiceFile>
-          <Content>Bueno, las traiciones sucedían diariamente en donde solía vivir.</Content>
+          <Content>Şey, eskiden yaşadığım yerde her gün ihanetler olurdu.</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland20</VoiceFile>
-          <Content>Además, las traiciones reales tienden a ser mucho más crueles.</Content>
+          <Content>Ayrıca, gerçek ihanetler çok daha acımasız olma eğilimindedir.</Content>
         </Dialog>
         <Dialog ID="45" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland21</VoiceFile>
-          <Content>¿Eres de uno de esos Nidos?</Content>
+          <Content>Sen o Yuvalardan birinden misin?</Content>
         </Dialog>
         <Dialog ID="46" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod26</VoiceFile>
-          <Content>Sí. Nací en un Nido y fuí a la escuela en uno.</Content>
+          <Content>Evet. Bir Yuva'da doğdum ve okulda da oraya gittim.</Content>
         </Dialog>
         <Dialog ID="47" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland22</VoiceFile>
-          <Content>¿Y los otros bibliotecarios también?</Content>
+          <Content>Diğer kütüphaneciler de mi?</Content>
         </Dialog>
         <Dialog ID="48" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod27</VoiceFile>
-          <Content>La mayoría de ellos. Hay uno de las Callejuelas y otro de las Afueras, pero eso es todo.</Content>
+          <Content>Çoğu. Bir tanesi Ara Sokaklardan ve bir tanesi de Dış Mahalle'den ama hepsi bu.</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland23</VoiceFile>
-          <Content>Maldición, todos ustedes eran élites, ¿eh? Me pregunto cómo terminaron viviendo vidas tan miserables.</Content>
+          <Content>Kahretsin, hepiniz elitlerdiniz, ha? Nasıl böyle sefil hayatlar yaşadınız merak ediyorum.</Content>
         </Dialog>
         <Dialog ID="50" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland24</VoiceFile>
-          <Content>Y todos tuvieron que dejar las comodidades de vivir en un Nido por un centro de investigación en las Afueras. Eso tuvo que tomar algo de determinación. Mala mía por llamarlos una banda de arrogantes.</Content>
+          <Content>Ve hepiniz bir Yuva'da yaşamanın rahatlığını Dış Mahalle'deki bir araştırma tesisi için terk etmek zorunda kaldınız. Bu biraz kararlılık gerektirmiş olmalı. Size bir grup kibirli diye seslendiğim için özür dilerim.</Content>
         </Dialog>
         <Dialog ID="51" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod28</VoiceFile>
-          <Content>También estábamos llenos de pasión. Que terminé traicionando...</Content>
+          <Content>Biz de tutku doluyduk. Sonunda ihanet ettiğim...</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland25</VoiceFile>
-          <Content>¿Eso significa que la razón que no puedas odiar ciegamente a Angela es mayormente una excusa para ti misma?</Content>
+          <Content>Bu, Angela'dan körü körüne nefret edememenin çoğunlukla kendine bir bahane olduğu anlamına mı geliyor?</Content>
         </Dialog>
         <Dialog ID="53" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod29</VoiceFile>
-          <Content>Supongo. Cometí un gran error una vez, pero...</Content>
+          <Content>Sanırım. Bir zamanlar büyük bir hata yaptım ama...</Content>
         </Dialog>
         <Dialog ID="54" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod30</VoiceFile>
-          <Content>Quiero ser mejor ahora. Quiero volverme una mejor persona. Estoy segura de que todos lo desean.</Content>
+          <Content>Şimdi daha iyi olmak istiyorum. Daha iyi bir insan olmak istiyorum. Eminim herkes bunu istiyordur.</Content>
         </Dialog>
         <Dialog ID="55" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod31</VoiceFile>
-          <Content>Y al mismo tiempo, una parte de mi mente aún no puede perdonar a Angela.</Content>
+          <Content>Ve aynı zamanda, zihnimin bir kısmı hala Angela'yı affedemiyor.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Konum: Sede de Lobotomy Corporation</PlaceName>
+        <PlaceName>Konum: Lobotomy Corporation Merkezi</PlaceName>
         <Dialog ID="56" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>Yapay Zeka Sekreteri</Title>
           <VoiceFile>ch8_Hod_ep3_angela1</VoiceFile>
-          <Content>Ya hemos gastado dos días peleando.</Content>
+          <Content>Zaten iki gün savaşarak geçirdik.</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>Yapay Zeka Sekreteri</Title>
           <VoiceFile>ch8_Hod_ep3_angela2</VoiceFile>
-          <Content>Están aguantando mejor de lo que esperaba.</Content>
+          <Content>Beklediğimden daha iyi dayanıyorlar.</Content>
         </Dialog>
         <Dialog ID="58" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sefira Equipo de control</Title>
+          <Title>Kontrol Ekibi Sefira</Title>
           <VoiceFile>ch8_Hod_ep3_malkuth1</VoiceFile>
-          <Content>¡Por supuesto! ¿Realmente pensabas que iríamos a dormir solo porque nos lo dijiste?</Content>
+          <Content>Elbette! Sadece söylediğimiz için uyuyacağımızı gerçekten düşündün mü?</Content>
         </Dialog>
         <Dialog ID="59" Model="비나">
           <Teller>Binah</Teller>
-          <Title>Sefira Equipo de extracción</Title>
+          <Title>Çıkarım Ekibi Sefira</Title>
           <VoiceFile>ch8_Hod_ep3_binah1</VoiceFile>
-          <Content>Sin embargo, es solo cuestión de tiempo.</Content>
+          <Content>Yine de, bu sadece an meselesi.</Content>
         </Dialog>
         <Dialog ID="60" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Sefira Equipo de disciplina</Title>
+          <Title>Disiplin Ekibi Sefira</Title>
           <VoiceFile>ch8_Hod_ep3_gebura1</VoiceFile>
-          <Content>Uf... Y el tiempo es lo que más te importa ahora mismo.</Content>
+          <Content>Öf... Ve zaman şu an senin için en önemli şey.</Content>
         </Dialog>
         <Dialog ID="61" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sefira Equipo de entrenamiento</Title>
+          <Title>Eğitim Ekibi Sefira</Title>
           <VoiceFile>ch8_Hod_ep3_hod32</VoiceFile>
-          <Content>Nuestros empleados sufrieron demasiado daño...</Content>
+          <Content>Çalışanlarımız çok fazla hasar aldı...</Content>
         </Dialog>
         <Dialog ID="62" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Sefira Equipo de seguridad</Title>
+          <Title>Güvenlik Ekibi Sefira</Title>
           <VoiceFile>ch8_Hod_ep3_netzach1</VoiceFile>
-          <Content>Los regeneradores también están en su límite...</Content>
+          <Content>Yenileyiciler de sınırlarına dayandı...</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>Yapay Zeka Sekreteri</Title>
           <VoiceFile>ch8_Hod_ep3_angela3</VoiceFile>
-          <Content>He aguantado esta obra por tanto tiempo, que podría pasar un día o dos en un instante.</Content>
+          <Content>Bu oyuna o kadar uzun süre katlandım ki, bir veya iki günü bir anda geçebilirim.</Content>
         </Dialog>
         <Dialog ID="64" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>Yapay Zeka Sekreteri</Title>
           <VoiceFile>ch8_Hod_ep3_angela4</VoiceFile>
-          <Content>Pero los últimos dos días se sintieron tan largos y lentos.</Content>
+          <Content>Ama son iki gün çok uzun ve yavaş geldi.</Content>
         </Dialog>
         <Dialog ID="65" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Sefira Equipo de registro</Title>
+          <Title>Kayıt Ekibi Sefira</Title>
           <VoiceFile>ch8_Hod_ep3_hokma1</VoiceFile>
-          <Content>Angela, tu acto inmundo nacido de tu deseo personal nunca llegará a buen término.</Content>
+          <Content>Angela, kişisel arzundan doğan kirli eylemin asla meyve vermeyecek.</Content>
         </Dialog>
         <Dialog ID="66" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Sefira Equipo de disciplina</Title>
+          <Title>Disiplin Ekibi Sefira</Title>
           <VoiceFile>ch8_Hod_ep3_gebura2</VoiceFile>
-          <Content>¡Maldita sea!</Content>
+          <Content>Lanet olsun!</Content>
         </Dialog>
         <Dialog ID="67" Model="비나">
           <Teller>Binah</Teller>
-          <Title>Sefira Equipo de extracción</Title>
+          <Title>Çıkarım Ekibi Sefira</Title>
           <VoiceFile>ch8_Hod_ep3_binah2</VoiceFile>
-          <Content>Las circunstancias no son las mismas que antes, Gebura. Ahora soy consciente de la existencia del E.G.O y sus capacidades.</Content>
+          <Content>Koşullar eskisi gibi değil, Gebura. Artık E.G.O.'nun varlığının ve yeteneklerinin farkındayım.</Content>
         </Dialog>
         <Dialog ID="68" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Sefira Equipo de información</Title>
+          <Title>Bilgi Ekibi Sefira</Title>
           <VoiceFile>ch8_Hod_ep3_yesod1</VoiceFile>
-          <Content>Todos los empleados de los Equipos de Bienestar y Disciplina han caído...</Content>
+          <Content>Refah ve Disiplin Ekiplerindeki tüm çalışanlar düştü...</Content>
         </Dialog>
         <Dialog ID="69" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>Yapay Zeka Sekreteri</Title>
           <VoiceFile>ch8_Hod_ep3_angela5</VoiceFile>
-          <Content>Nunca serán capaces de esparcir la luz por los siete días que habían planeado.</Content>
+          <Content>Planladıkları yedi gün boyunca ışığı yaymayı asla başaramayacaklar.</Content>
         </Dialog>
         <Dialog ID="70" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>Yapay Zeka Sekreteri</Title>
           <VoiceFile>ch8_Hod_ep3_angela6</VoiceFile>
-          <Content>Esto podría durar... mmm, ¿quizás cuatro días como máximo?</Content>
+          <Content>Bu... sanırım en fazla dört gün sürebilir?</Content>
         </Dialog>
         <Dialog ID="71" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>Yapay Zeka Sekreteri</Title>
           <VoiceFile>ch8_Hod_ep3_angela7</VoiceFile>
-          <Content>Y me quedaré con solo dos o tres días de luz para mí misma.</Content>
+          <Content>Ve bana sadece iki ya da üç günlük ışık kalacak.</Content>
         </Dialog>
         <Dialog ID="72" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>Yapay Zeka Sekreteri</Title>
           <VoiceFile>ch8_Hod_ep3_angela8</VoiceFile>
-          <Content>En cualquier caso, ninguno de nosotros habrá ganado esta batalla.</Content>
+          <Content>Her halükarda, hiçbirimiz bu savaşı kazanmış olmayacağız.</Content>
         </Dialog>
         <Dialog ID="73" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Sefira Equipo de registro</Title>
+          <Title>Kayıt Ekibi Sefira</Title>
           <VoiceFile>ch8_Hod_ep3_hokma2</VoiceFile>
-          <Content>¿Qué quieres decir...?</Content>
+          <Content>Ne demek istiyorsun...?</Content>
         </Dialog>
         <Dialog ID="74" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>Yapay Zeka Sekreteri</Title>
           <VoiceFile>ch8_Hod_ep3_angela9</VoiceFile>
-          <Content>Me gustaría hacer un trato.</Content>
+          <Content>Bir anlaşma yapmak istiyorum.</Content>
         </Dialog>
         <Dialog ID="75" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>Yapay Zeka Sekreteri</Title>
           <VoiceFile>ch8_Hod_ep3_angela10</VoiceFile>
-          <Content>... Ya ves, quiero vivir.</Content>
+          <Content>... Görüyorsun, yaşamak istiyorum.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -5339,121 +5339,121 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod33</VoiceFile>
-          <Content>Angela nos ofreció un trato y muchos de los Sephirot estaban en contra.</Content>
+          <Content>Angela bize bir anlaşma teklif etti ve Sefirot'ların çoğu buna karşıydı.</Content>
         </Dialog>
         <Dialog ID="77" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland26</VoiceFile>
-          <Content>¿Sephirot?</Content>
+          <Content>Sefirot?</Content>
         </Dialog>
         <Dialog ID="78" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod34</VoiceFile>
-          <Content>Oh, así es como los bibliotecarios se llamaban antes en Lobotomy Corp.</Content>
+          <Content>Ah, kütüphanecilerin Lobotomy Corp.'ta kendilerine verdikleri isim buydu.</Content>
         </Dialog>
         <Dialog ID="79" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod35</VoiceFile>
-          <Content>Los nueve bibliotecarios durmiendo en cada piso.</Content>
+          <Content>Her katta uyuyan dokuz kütüphaneci.</Content>
         </Dialog>
         <Dialog ID="80" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland27</VoiceFile>
-          <Content>Ya veo, sí, los que me encontré no parecían muy felices con este trabajo. Supongo que ese es el motivo de que todos odien tanto a Angela.</Content>
+          <Content>Anlıyorum, evet, karşılaştıklarım bu işten pek mutlu görünmüyordu. Sanırım herkesin Angela'dan bu kadar nefret etmesinin nedeni bu.</Content>
         </Dialog>
         <Dialog ID="81" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod36</VoiceFile>
-          <Content>Yo, Malkuth, Yesod, Netzach y Hokma éramos los que nos oponíamos a su oferta.</Content>
+          <Content>Ben, Malkuth, Yesod, Netzach ve Hokma, teklifine karşı çıkanlardık.</Content>
         </Dialog>
         <Dialog ID="82" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland28</VoiceFile>
-          <Content>Eso significa que los otros cuatro lo aprobaron. Angela no estaba completamente sola, ¿eh?</Content>
+          <Content>Bu, diğer dördünün onayladığı anlamına geliyor. Angela tamamen yalnız değildi, ha?</Content>
         </Dialog>
         <Dialog ID="83" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod37</VoiceFile>
-          <Content>Para ser justos, ellos no estaban apoyándola activamente... Fue más como un aplazamiento.</Content>
+          <Content>Dürüst olmak gerekirse, onu aktif olarak desteklemiyorlardı... Daha çok bir erteleme gibiydi.</Content>
         </Dialog>
         <Dialog ID="84" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland29</VoiceFile>
-          <Content>Un segundo. ¿Por qué estabas en contra de su oferta si pensabas que ella podría eventualmente volverse un ser mejor?</Content>
+          <Content>Bir saniye. Daha sonra daha iyi bir varlık olabileceğini düşünüyorsan, neden onun teklifine karşı çıktın?</Content>
         </Dialog>
         <Dialog ID="85" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod38</VoiceFile>
-          <Content>Es tonto, lo sé... Incluso en el medio de eso, estaba pensando que podría arrepentirme de mis pecados con la muerte.</Content>
+          <Content>Aptalca, biliyorum... Tam ortasındayken bile, günahlarımdan ölümle pişmanlık duyabileceğimi düşünüyordum.</Content>
         </Dialog>
         <Dialog ID="86" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland30</VoiceFile>
-          <Content>Espera, ¡¿qué acabas de decir?! ¿Se suponía que todos iban a morir al final del plan que Angela arruinó?</Content>
+          <Content>Bekle, az önce ne dedin?! Angela'nın mahvettiği planın sonunda hepinizin ölmesi mi gerekiyordu?</Content>
         </Dialog>
         <Dialog ID="87" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod39</VoiceFile>
-          <Content>Sip. Se suponía que iba a terminar con todos nosotros apagándonos, cayendonos en un sueño eterno, sabiendo que nuestro deseo tan anhelado fue cumplido.</Content>
+          <Content>Evet. Hepimizin sönmesiyle, çok özlediğimiz arzumuzun yerine getirildiğini bilerek sonsuz bir uykuya dalmamız gerekiyordu.</Content>
         </Dialog>
         <Dialog ID="88" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland31</VoiceFile>
-          <Content>Uf, ¿todos estaban listos para aceptar un destino como ese?</Content>
+          <Content>Of, herkes böyle bir kaderi kabul etmeye hazır mıydı?</Content>
         </Dialog>
         <Dialog ID="89" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod40</VoiceFile>
-          <Content>Siempre te sorprendes sobre los detalles más raros, Roland. Pensé que me ibas a culpar por correr lejos de mis problemas, incluso al final.</Content>
+          <Content>Her zaman en garip detaylara şaşırıyorsun, Roland. Sonunda bile sorunlarımdan kaçtığım için beni suçlayacağını düşünmüştüm.</Content>
         </Dialog>
         <Dialog ID="90" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland32</VoiceFile>
-          <Content>Nah, para mi esa es una reacción natural. No soy una persona muy fuerte o enérgica, así que entiendo por qué harías eso.</Content>
+          <Content>Hayır, bence bu doğal bir tepki. Ben çok güçlü veya enerjik biri değilim, bu yüzden neden böyle yaptığını anlıyorum.</Content>
         </Dialog>
         <Dialog ID="91" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland33</VoiceFile>
-          <Content>Así que, en resumen, ¿te opusiste a la oferta de Angela al comienzo porque querías perder tu propia vida como el último paso de tu expiación, pero ahora que tuviste tiempo para pensar las cosas, estás dispuesta a darle una oportunidad a Angela?</Content>
+          <Content>Yani, özetle, başlangıçta Angela'nın teklifine karşı çıktın çünkü bu, kefaretinin son adımı olarak kendi hayatını kaybetmek istiyordun, ama şimdi her şeyi düşünmeye zamanın olduğu için Angela'ya bir şans vermeye istekli misin?</Content>
         </Dialog>
         <Dialog ID="92" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod41</VoiceFile>
-          <Content>Sí, es correcto. Era un tema muy complicado para mí, pero lo resumiste bastante bien.</Content>
+          <Content>Evet, doğru. Benim için çok karmaşık bir konuydu ama güzel özetledin.</Content>
         </Dialog>
         <Dialog ID="93" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland34</VoiceFile>
-          <Content>Bueno, las cosas suelen ser más ligeras desde la perspectiva de un extraño.</Content>
+          <Content>Şey, dışarıdan birinin bakış açısıyla işler genellikle daha hafif olur.</Content>
         </Dialog>
         <Dialog ID="94" Model="호드">
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod42</VoiceFile>
-          <Content>De todos modos, gracias por escucharme. Me ayudaste a ordenar mis pensamientos.</Content>
+          <Content>Her neyse, beni dinlediğin için teşekkürler. Düşüncelerimi toplamama yardım ettin.</Content>
         </Dialog>
         <Dialog ID="95" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland35</VoiceFile>
-          <Content>De nada, señorita, es parte de mi trabajo.</Content>
+          <Content>Rica ederim, bayan, bu benim işimin bir parçası.</Content>
         </Dialog>
       </Place>
     </Episode>
