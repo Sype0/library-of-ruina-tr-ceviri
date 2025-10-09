@@ -2710,7 +2710,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Yesod_ep3_roland1</VoiceFile>
-          <Content>Kitap teslimatın burada, bu sefer kıyafetimi de önceden düzelttim.</Content>
+          <Content>Kitap teslimatın geldi~ Bu sefer kıyafetimi de önceden düzelttim.</Content>
         </Dialog>
         <Dialog ID="1" Model="예소드">
           <Teller>Yesod</Teller>
@@ -2722,25 +2722,25 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Yesod_ep3_roland2</VoiceFile>
-          <Content>Gel de gör, hala mı bununla uğraşıyorsun?</Content>
+          <Content>Hadi ama, hala o muhabbet mi?</Content>
         </Dialog>
         <Dialog ID="3" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod2</VoiceFile>
-          <Content>En azından geçen sefer getirdiğin kitaplar ilgi çekiciydi. Ara Sokaklar'da kullanılan teknolojilerin tam bir karmaşa olduğunu öğrendim.</Content>
+          <Content>En azından geçen sefer getirdiğin kitaplar ilgi çekiciydi. Ara Sokaklar'da kullanılan teknolojilerin düzensiz bir şekilde iç içe geçtiğini öğrendim.</Content>
         </Dialog>
         <Dialog ID="4" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod3</VoiceFile>
-          <Content>Hurda parçalarından yapılmış ekipmanlardan, antimadde ile dokunmuş giysilere kadar. Teknolojik gelişimin farklı seviyelerinden her türlü teknoloji görülebilir.</Content>
+          <Content>Hurda parçalarından yapılmış ekipmanlardan, antimadde ile dokunmuş giysilere kadar. Her seviyeden teknolojiye rastlanabiliyor.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Yesod_ep3_roland3</VoiceFile>
-          <Content>Oralarda en son teknoloji var, ama sadece birkaç ayrıcalıklı kişi bunları kullanabilir.</Content>
+          <Content>Orada en ileri teknolojiler var ama faydalanabilen kişi sayısı çok az.</Content>
         </Dialog>
         <Dialog ID="6" Model="예소드">
           <Teller>Yesod</Teller>
@@ -2752,7 +2752,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Yesod_ep3_roland4</VoiceFile>
-          <Content>Zengin insanların herhangi bir hastalık için endişelenmek zorunda kalmadığı bir çağdayız.</Content>
+          <Content>Zenginlerin hiçbir hastalığı dert etmediği bir çağdayız.</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>Roland</Teller>
@@ -2764,31 +2764,31 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Yesod_ep3_roland6</VoiceFile>
-          <Content>Ve sonra 'Tekillikler' adı verilen teknolojilerle Tanrı'yı oynamaya çalışan insanlar var.</Content>
+          <Content>Ve sonra ‘Tekillikler’ adı verilen teknolojilerle Tanrıcılık oynamaya çalışan insanlar var.</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Yesod_ep3_roland7</VoiceFile>
-          <Content>Bu arada, Lobotomy Corp.'un tekilliği neydi? L Corp. çoktan gitti, yani artık bunun hakkında konuşursak kimse bizi dava etmez.</Content>
+          <Content>Bu arada, Lobotomy Corp.’un Tekillik'i neydi? L Corp. çoktan gitti, yani artık bunun hakkında konuşursak kimse bizi dava edemez.</Content>
         </Dialog>
         <Dialog ID="11" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod5</VoiceFile>
-          <Content>Hiç utanman yok. Ama sanırım sana söylemekten zarar gelmez.</Content>
+          <Content>Ne kadar yüzsüzsün. Sanırım sana söylememden bir zarar gelmez.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Yesod_ep3_roland8</VoiceFile>
-          <Content>Hey, bana aptal muamelesi yapmayı bırak. O KADAR aptal değilim, biliyor musun?!</Content>
+          <Content>Hey, beni gerizekalı yerine koymayı bırak. O KADAR DA aptal değilim, biliyormusun?!</Content>
         </Dialog>
         <Dialog ID="13" Model="예소드">
           <Teller>Yesod</Teller>
           <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod6</VoiceFile>
-          <Content>Lobotomy Corporation'ın tekilliği, soyut bir kavram olan insan zihnini fiziksel olarak tezahür ettirmekti.</Content>
+          <Content>Lobotomy Corporation'ın Tekillik'i, soyut bir kavram olan insan zihnini fiziksel olarak tezahür ettirmekti.</Content>
         </Dialog>
         <Dialog ID="14" Model="예소드">
           <Teller>Yesod</Teller>
@@ -2800,7 +2800,7 @@
           <Teller>Yesod</Teller>
           <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod8</VoiceFile>
-          <Content>İnsan duyguları, karmaşık bir kitle olarak yorumlanabilir.</Content>
+          <Content>İnsan duyguları, karmaşık bir kütle olarak yorumlanabilir.</Content>
         </Dialog>
         <Dialog ID="16" Model="예소드">
           <Teller>Yesod</Teller>
@@ -2812,19 +2812,19 @@
           <Teller>Yesod</Teller>
           <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod10</VoiceFile>
-          <Content>Savaş kızıştıkça ve savaşçı daha da heyecanlandıkça, egosu yoğunlaşacak ve zihinsel durumunun fiziksel bir şekilde ifade edilmesini sağlayacaktır.</Content>
+          <Content>Savaş şiddetlendikçe ve savaşçılar daha da hiddetlenince, egolar yoğunlaşır ve zihinsel durumlarını fiziksel olarak ifade edebilmelerine olanak tanır.</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Yesod_ep3_roland9</VoiceFile>
-          <Content>Zihnin fiziksel tezahürü, ha?.</Content>
+          <Content>Zihnin fiziksel tezahürü, huh~</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Yesod_ep3_roland10</VoiceFile>
-          <Content>... Bu, Bozulma'ya çok benziyor...</Content>
+          <Content>...Bu, Bozulma'ya çok benziyor...</Content>
         </Dialog>
         <Dialog ID="20" Model="예소드">
           <Teller>Yesod</Teller>
