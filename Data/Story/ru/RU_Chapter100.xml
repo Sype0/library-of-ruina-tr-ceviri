@@ -457,7 +457,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland1</VoiceFile>
-          <Content>Pekâlâ... Sana bir sürü kitap getirdim, Malkuth!</Content>
+          <Content>Pekala... Sana bir sürü kitap getirdim, Malkuth!</Content>
         </Dialog>
         <Dialog ID="1" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -469,43 +469,43 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland2</VoiceFile>
-          <Content>Ah, evet. Önceki hayatlarını mı düşünüyordun?</Content>
+          <Content>Oh, evet. Önceki hayatlarını mı düşünüyordun?</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland3</VoiceFile>
-          <Content>Bu arada, Angela'dan buranın Lobotomy Corporation'la bir ilgisi olduğunu duydum. Doğru mu?</Content>
+          <Content>Bu arada, Angela'dan buranın Lobotomy Corporation’la bir şekilde bağlantılı olduğunu duydum. Bu gerçekten doğru mu?</Content>
         </Dialog>
         <Dialog ID="4" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth2</VoiceFile>
-          <Content>Sadece bir ilgisi yok. Ben Lobotomy Corporation'da Kontrol Ekibinden sorumlu bir YZ'ydim.</Content>
+          <Content>Sadece “bir şekilde bağlantılı” değil. Lobotomy Corporation’da Kontrol Ekibi’nden sorumlu bir AI'ydım.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland4</VoiceFile>
-          <Content>YZ mi? Yapay zekâ gibi mi? Biiir saniye bekle. Sen bir YZ miydin? Angela gibi mi?</Content>
+          <Content>AI mı? Yapay zeka gibi mi? Dur bir saniye. Sen yapay zeka mısın? Tıpkı Angela gibi mi?</Content>
         </Dialog>
         <Dialog ID="6" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth3</VoiceFile>
-          <Content>...Üzgünüm, sözlerim yersizdi. Gerçek bir YZ değildim.</Content>
+          <Content>...Üzgünüm, biraz yanlış ifade ettim. Gerçek bir AI değildim.</Content>
         </Dialog>
         <Dialog ID="7" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth4</VoiceFile>
-          <Content>Ben, ikinci bir şans için bedeni onarılmış bir insandım.</Content>
+          <Content>Ben, beyni ikinci bir şans için yeniden yapılandırılmış bir insandım.</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland5</VoiceFile>
-          <Content>Oh, bu yerin YZ'ler hakkındaki etik kuralı birden fazla kez çiğnemesinden endişelenmiştim. Eğer durum buysa, **Kafa** gelip her yeri yakıp küle çevirebilir.</Content>
+          <Content>Vay canına, bir an için buranın Yapay Zeka Etik Yasası’nı birden fazla kez ihlal ettiğini düşündüm. Eğer öyle olsaydı, Kafa burayı yerle bir etmek için anında gelebilirdi.</Content>
         </Dialog>
         <Dialog ID="9" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -517,25 +517,25 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland6</VoiceFile>
-          <Content>Evet, **Kafa**. Genellikle hiçbir şey yapmazlar ama işe koyulduklarında, duyduğuma göre dehşet verici derecede isabetli ve hızlıdırlar.</Content>
+          <Content>Aynen, o Kafa. Genelde sessiz kalmayı severlermiş ama iş başa düştüğünde korkutucu derecede hızlı ve titizlermiş. Öyle duydum yani...</Content>
         </Dialog>
         <Dialog ID="11" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth6</VoiceFile>
-          <Content>Oldukça umursamazsın, değil mi? Ciddi bir konuşma yaptığımızı sanıyordum.</Content>
+          <Content>Oldukça umursamazsın, değil mi? Ciddi bir sohbet ediyoruz sanmıştım.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland7</VoiceFile>
-          <Content>Ah, üzgünüm. Çok şey yaşadım. Bu yüzden önceliklerim biraz alışılmadık.</Content>
+          <Content>Ah, üzgünüm. Hayatımda çok şey yaşadım, bu yüzden önceliklerim biraz alışılmadık olabilir.</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland8</VoiceFile>
-          <Content>Sana söylediklerini görmezden gelmeye çalışmıyorum, Malkuth. Kendini kötü hissettirdiysem özür dilerim.</Content>
+          <Content>Söylediklerini görmezden gelmeye falan çalışmıyordum, Malkuth. Eğer seni kötü hissettirdiysem özür dilerim.</Content>
         </Dialog>
         <Dialog ID="14" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -547,13 +547,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland9</VoiceFile>
-          <Content>Hepsi daha uzun süre hayatta kalmak için bir stratejinin parçası.</Content>
+          <Content>Hepsi hayatta kalma stratejimin bir parçasıydı.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland10</VoiceFile>
-          <Content>Her neyse, eskiye dönecek olursak. Lobotomy Corporation'da Kontrol Ekibinin şefi olduğunu söylemiştin, değil mi?</Content>
+          <Content>Her neyse, eskiye dönecek olursak. Lobotomy Corporation'da Kontrol Ekibinin başı olduğunu söylemiştin, değil mi?</Content>
         </Dialog>
         <Dialog ID="17" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -565,7 +565,7 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth9</VoiceFile>
-          <Content>Ben de kendi hikâyemi, çok ama çok yavaş bir şekilde başlattım.</Content>
+          <Content>Ben de kendi geçmişimi incelemeye başladım. Çok ama çok yavaş bir şekilde.</Content>
         </Dialog>
         <Dialog ID="19" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -577,19 +577,19 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland11</VoiceFile>
-          <Content>Ehhh. Uzun ve karmaşık hikâyelerin hayranı değilim.</Content>
+          <Content>Ehhh. Uzun ve karmaşık hikayeleri pek sevmem.</Content>
         </Dialog>
         <Dialog ID="21" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth11</VoiceFile>
-          <Content>Hey, ne kadar keyifsizsin! Evet demen gerekiyordu.</Content>
+          <Content>Hey, moralimizi bozmasana! Burada kabul etmen gerekiyordu!</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland12</VoiceFile>
-          <Content>Bana zaten anlatacaksan, neden zahmet edip soruyorsun ki?!</Content>
+          <Content>Bana zaten anlatacaksan, neden zahmet edip anlatayımmı diye soruyorsun ki?!</Content>
         </Dialog>
         <Dialog ID="23" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -607,7 +607,7 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth14</VoiceFile>
-          <Content>Uyandığım anda yerine getirmem gereken bir rol verildi bana.</Content>
+          <Content>Uyandığım anda yerine getirmem gereken bir rol verildi.</Content>
         </Dialog>
         <Dialog ID="26" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -619,37 +619,37 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth16</VoiceFile>
-          <Content>Ama kalbimde çözülmemiş meselelerin acısı ve geçmişimden duyduğum pişmanlıkla, neredeyse patlayacak durumdaydım.</Content>
+          <Content>Ama kalbim geçmişten gelen çözülmemiş acı ve pişmanlıkla hala sızlıyordu, neredeyse patlamak üzereydi.</Content>
         </Dialog>
         <Dialog ID="28" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth17</VoiceFile>
-          <Content>Zaman geçtikçe, Lobotomy Corp.'ta insanlık dışı şeyler yapmaya devam ettim.</Content>
+          <Content>Böylece, Lobotomy Corp.'ta insanlık dışı eylemler yapmaya devam ettim.</Content>
         </Dialog>
         <Dialog ID="29" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth18</VoiceFile>
-          <Content>Ne yaptığımı hiç sorgulamadım, çünkü her şey benim için sadece işti.</Content>
+          <Content>Ne yaptığımı sorgulamadım bile, çünkü hepsi benim için sadece işti.</Content>
         </Dialog>
         <Dialog ID="30" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth19</VoiceFile>
-          <Content>Bu bir görev gibi hissettiriyordu. Bana yol gösteren tek şey, yeterince denemediğim için bir şeylerin ters gittiğine dair belirsiz bir histi.</Content>
+          <Content>Hatta bir tür çağrı gibi geliyordu. Beni yönlendiren tek şey, yeterince çabalamadığım için bir şeylerin yanlış gittiğine dair belirsiz bir histi.</Content>
         </Dialog>
         <Dialog ID="31" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth20</VoiceFile>
-          <Content>Çok denemek istemem, birçok kişinin ölmesine neden oldu. Şımarık bir çocuk gibi, başkalarını kendi standartlarıma uymaya zorladım.</Content>
+          <Content>Sağlıksız derecedeki gayret anlayışım, birçok kişiyi tehlikeye sürükledi. Şımarık bir çocuk gibi, başkalarını kendi standartlarıma uymaya zorladım.</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland13</VoiceFile>
-          <Content>Senin için zor olmalıydı. Ne yaptığını bilmeden çalışmak zorunda kalman.</Content>
+          <Content>Bu senin için zor olmuş olmalı. Neye bulaştığını bilmeden böyle bir işe sokulmak.</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
           <Teller>Roland</Teller>
@@ -661,13 +661,13 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth21</VoiceFile>
-          <Content>Hım, daha çok... Bana **hatırlattılar** demek daha doğru olur!</Content>
+          <Content>Hmm, daha çok... Anılarım bana hatırlatıldı demek, daha doğru olur!</Content>
         </Dialog>
         <Dialog ID="35" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth22</VoiceFile>
-          <Content>Lobotomy Corp.'ta ikinci hayatımı yaşadım.</Content>
+          <Content>Lobotomy Corp.’taki hayatım aslında ikinci hayatımdı.</Content>
         </Dialog>
         <Dialog ID="36" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -685,19 +685,19 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth25</VoiceFile>
-          <Content>Neden bu kadar çok denemeye takıntılı olduğumu anlayabildim. Mesele, takdir edilmek istememdi.</Content>
+          <Content>Neden bu kadar çok denemeye takıntılı olduğumu anlayabildim. Meğerse gerçekten istediğim şey, takdir edilmekmiş.</Content>
         </Dialog>
         <Dialog ID="39" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth26</VoiceFile>
-          <Content>"Bakın, çok çabalıyorum, faydalı biriyim." Başkalarına bağımlı olmadan kendime nasıl değer vereceğimi asla gerçekten bilemedim.</Content>
+          <Content>"Bakın, çok çabalıyorum, faydalı biriyim." Başkalarına dayanmadan nasıl dik duracağımı hiç bilmiyordum.</Content>
         </Dialog>
         <Dialog ID="40" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth27</VoiceFile>
-          <Content>Tüm duygularımı boşalttıktan sonra. Beni bu kadar uzun süre takip eden iç mücadele nihayet ortadan kayboldu.</Content>
+          <Content>Tüm duygularımı dışa vurduktan sonra, uzun zamandır içimi kemiren o içsel çatışma nihayet ortadan kayboldu.</Content>
         </Dialog>
         <Dialog ID="41" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -709,13 +709,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland15</VoiceFile>
-          <Content>Pekâlâ, bakalım doğru anlamış mıyım. Çok pişman olduğun kötü bir şey yaptın ve öldün, bir şekilde hayata geri döndün, bir iş buldun ve kalbindeki tüm pişmanlıklar olayların bir döngüsü içinde çözüldü mü?</Content>
+          <Content>Pekala, şunu bir netleştirelim. Yanlış bir şey yaptın —ki buna fazlasıyla pişman oldun— sonra öldün, bir şekilde hayata geri döndün ve yeni bir işe başladın. Ve sonunda, kalbindeki o kocaman pişmanlık yumağı yaşanan bir dizi olayla çözüldü, öyle mi?</Content>
         </Dialog>
         <Dialog ID="43" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth29</VoiceFile>
-          <Content>İyi bir özet.</Content>
+          <Content>Sanırım öyle de denebilir.</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>Roland</Teller>
@@ -751,7 +751,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland18</VoiceFile>
-          <Content>Vay canına! Öf, beni korkuttun. Hepsini mi dinliyordun?</Content>
+          <Content>Vay canına! Ödümü kopardın. Tüm bunları dinliyor muydun yoksa?</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -781,7 +781,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela6</VoiceFile>
-          <Content>Öf... Artık bu saçmalığa dayanamıyorum.</Content>
+          <Content>*İç çeker*... Bu saçmalıkları artık duymaya tahammül edemiyorum.</Content>
         </Dialog>
         <Dialog ID="55" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -794,121 +794,121 @@
         <PlaceName>Konum: Lobotomy Corporation Merkezi</PlaceName>
         <Dialog ID="56" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>YZ Sekreter</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela7</VoiceFile>
           <Content>O halde, hepinizin uykuya dalması gerekiyor.</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>YZ Sekreter</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela8</VoiceFile>
           <Content>... Bu yüzler de neyin nesi?</Content>
         </Dialog>
         <Dialog ID="58" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>YZ Sekreter</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela9</VoiceFile>
           <Content>Çok istediğiniz dinlenme bu.</Content>
         </Dialog>
         <Dialog ID="59" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sephirah Kontrol Ekibi</Title>
+          <Title>Sefira Kontrol Ekibi</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth33</VoiceFile>
           <Content>Buna izin veremeyiz! Buraya kadar gelmek için çok çalıştık!</Content>
         </Dialog>
         <Dialog ID="60" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>YZ Sekreter</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela10</VoiceFile>
           <Content>Çok çalıştınız...</Content>
         </Dialog>
         <Dialog ID="61" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>YZ Sekreter</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela11</VoiceFile>
-          <Content>Ne komik. Yaptığınız her şeye gerçekten "çok çalışmak" diyebilir misin?</Content>
+          <Content>Ne komik. Yaptığınız şeyleri “sıkı çalışma” olarak adlandırabilirmiyiz?</Content>
         </Dialog>
         <Dialog ID="62" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Sephirah Disiplin Ekibi</Title>
+          <Title>Sefira Disiplin Ekibi</Title>
           <VoiceFile>ch8_Malkuth_ep3_gebura1</VoiceFile>
           <Content>Tüm ışığımızı alıp götürürken öylece oturup izlemeyeceğiz.</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>YZ Sekreter</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela12</VoiceFile>
-          <Content>"Bizim" ışığımız mı?</Content>
+          <Content>“Bizim” ışığımız mı?</Content>
         </Dialog>
         <Dialog ID="64" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Sephirah Refah Ekibi</Title>
+          <Title>Sefira Refah Ekibi</Title>
           <VoiceFile>ch8_Malkuth_ep3_chesed1</VoiceFile>
-          <Content>Sen patron değilsin. Ve olsan bile seni dinlemezdim.</Content>
+          <Content>Patron sen değilsin. Ve olsaydın bile seni dinlemezdim.</Content>
         </Dialog>
         <Dialog ID="65" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>YZ Sekreter</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela13</VoiceFile>
-          <Content>Elbette dinlemezsin. Hâlâ o adama sadıksın.</Content>
+          <Content>Elbette dinlemezdin. Hala o adama sadıksın.</Content>
         </Dialog>
         <Dialog ID="66" Model="티페리트">
           <Teller>Tiphereth</Teller>
-          <Title>Sephirah Merkezi Komuta Ekibi</Title>
+          <Title>Sefira Merkezi Komuta Ekibi</Title>
           <VoiceFile>ch8_Malkuth_ep3_tiphereth1</VoiceFile>
-          <Content>Nihayet keşfettiğim şeyin anlamını çalmama izin vermeyeceğim.</Content>
+          <Content>Nihayet keşfettiğim anlamı benden çalmana izin vermeyeceğim.</Content>
         </Dialog>
         <Dialog ID="67" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>YZ Sekreter</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela14</VoiceFile>
-          <Content>Tam beklediğim gibi, yanımda kimse yok.</Content>
+          <Content>Beklendiği gibi hiç kimse benim tarafımda değil.</Content>
         </Dialog>
         <Dialog ID="68" Model="비나">
           <Teller>Binah</Teller>
-          <Title>Sephirah Çıkarım Ekibi</Title>
+          <Title>Sefira Çıkarım Ekibi</Title>
           <VoiceFile>ch8_Malkuth_ep3_binah1</VoiceFile>
-          <Content>Kendini bu kadar yalnız hissetme.</Content>
+          <Content>Kendini bu kadar yalnız hissetme şimdi.</Content>
         </Dialog>
         <Dialog ID="69" Model="비나">
           <Teller>Binah</Teller>
-          <Title>Sephirah Çıkarım Ekibi</Title>
+          <Title>Sefira Çıkarım Ekibi</Title>
           <VoiceFile>ch8_Malkuth_ep3_binah2</VoiceFile>
           <Content>Başka kimse olmasa bile ben senin yanında olacağım.</Content>
         </Dialog>
         <Dialog ID="70" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Sephirah Disiplin Ekibi</Title>
+          <Title>Sefira Disiplin Ekibi</Title>
           <VoiceFile>ch8_Malkuth_ep3_gebura2</VoiceFile>
-          <Content>Kahretsin! Binah... Sonunda bile sen...</Content>
+          <Content>Kahretsin! Binah... Her şeyin sonunda bile sen...</Content>
         </Dialog>
         <Dialog ID="71" Model="비나">
           <Teller>Binah</Teller>
-          <Title>Sephirah Çıkarım Ekibi</Title>
+          <Title>Sefira Çıkarım Ekibi</Title>
           <VoiceFile>ch8_Malkuth_ep3_binah3</VoiceFile>
           <Content>Bu, onun eylemlerinin bir başka sonucu olmalı. Ben sadece tüm olayları geçerli kabul ediyorum.</Content>
         </Dialog>
         <Dialog ID="72" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>YZ Sekreter</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela15</VoiceFile>
           <Content>Yapabilseydim, senin için bir şükran gözyaşı dökmek isterdim.</Content>
         </Dialog>
         <Dialog ID="73" Model="비나">
           <Teller>Binah</Teller>
-          <Title>Sephirah Çıkarım Ekibi</Title>
+          <Title>Sefira Çıkarım Ekibi</Title>
           <VoiceFile>ch8_Malkuth_ep3_binah4</VoiceFile>
           <Content>İsteklerine göre hareket etmekten çekinme.</Content>
         </Dialog>
         <Dialog ID="74" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Sephirah Kayıt Ekibi</Title>
+          <Title>Sefira Kayıt Ekibi</Title>
           <VoiceFile>ch8_Malkuth_ep3_hokma1</VoiceFile>
-          <Content>Angela... Arzularının tükettiği bir makine... Bu yola gidemezsin!</Content>
+          <Content>Angela... Arzular tarafından yutulmuş bir makine... Bu yolu seçemezsin!</Content>
         </Dialog>
         <Dialog ID="75" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>YZ Sekreter</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela16</VoiceFile>
           <Content>Artık ne yapıp yapamayacağıma ben karar veriyorum.</Content>
         </Dialog>
@@ -943,13 +943,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela19</VoiceFile>
-          <Content>... Ne aptal bir grup.</Content>
+          <Content>...Aptal sürüsü.</Content>
         </Dialog>
         <Dialog ID="81" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland19</VoiceFile>
-          <Content>Görünüşe göre buradan başka bir fırtına geçmiş.</Content>
+          <Content>Görünüşe göre bir başka fırtına daha gelip geçti.</Content>
         </Dialog>
         <Dialog ID="82" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -973,7 +973,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland20</VoiceFile>
-          <Content>Hım... Şey, o kadar çok detay bilmiyorum. "İnsanlığı kurtarmak" meselesini de anlamıyorum.</Content>
+          <Content>Hmm... Yani, yeteri kadar detayları bilmiyorum. Şu "insanlığı kurtarma” meselesini de pek anlayabilmiş değilim.</Content>
         </Dialog>
         <Dialog ID="86" Model="롤랑">
           <Teller>Roland</Teller>
@@ -991,13 +991,13 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth40</VoiceFile>
-          <Content>... Lütfen, bir süre beni yalnız bırak. Düşünmem gerek.</Content>
+          <Content>...Lütfen beni biraz yalnız bırak. Düşünmek için zamana ihtiyacım var.</Content>
         </Dialog>
         <Dialog ID="89" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland22</VoiceFile>
-          <Content>Pekâlâ, dinlenmeye ihtiyacın var gibi görünüyor. Unutma, derin nefesler al, tamam mı?</Content>
+          <Content>Pekala, dinlenmeye ihtiyacın var gibi görünüyor. Unutma, derin nefesler al, tamam mı?</Content>
         </Dialog>
         <Dialog ID="90" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1009,7 +1009,7 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth41</VoiceFile>
-          <Content>... Tamam.</Content>
+          <Content>...Evet.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -3010,37 +3010,37 @@
         <PlaceName>Konum: Lobotomy Corporation Merkezi</PlaceName>
         <Dialog ID="50" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Sephirah Disiplin Ekibi</Title>
+          <Title>Sefira Disiplin Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_gebura1</VoiceFile>
           <Content>Öf... Öf...</Content>
         </Dialog>
         <Dialog ID="51" Model="비나">
           <Teller>Binah</Teller>
-          <Title>Sephirah Tahliye Ekibi</Title>
+          <Title>Sefira Tahliye Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_binah1</VoiceFile>
           <Content>Şimdiden yoruldun mu? Ne yazık, çalışanlarım ve ben daha fazlasına hazırız.</Content>
         </Dialog>
         <Dialog ID="52" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Sephirah Disiplin Ekibi</Title>
+          <Title>Sefira Disiplin Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_gebura2</VoiceFile>
           <Content>Saçmalama. Bu sefer seni kesinlikle öldüreceğim.</Content>
         </Dialog>
         <Dialog ID="53" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Sephirah Bilgi Ekibi</Title>
+          <Title>Sefira Bilgi Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod32</VoiceFile>
           <Content>Binah! Birlikte çalıştığımızda sen bile bizi durduramazsın.</Content>
         </Dialog>
         <Dialog ID="54" Model="비나">
           <Teller>Binah</Teller>
-          <Title>Sephirah Tahliye Ekibi</Title>
+          <Title>Sefira Tahliye Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_binah2</VoiceFile>
           <Content>Oldukça geçerli bir şey söyledin. Doğru, o kadar kısa sürede hepinizi durduramam.</Content>
         </Dialog>
         <Dialog ID="55" Model="비나">
           <Teller>Binah</Teller>
-          <Title>Sephirah Tahliye Ekibi</Title>
+          <Title>Sefira Tahliye Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_binah3</VoiceFile>
           <Content>Angela, çabuk hareket etmelisin.</Content>
         </Dialog>
@@ -3057,7 +3057,7 @@
         </Dialog>
         <Dialog ID="58" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Sephirah Refah Ekibi</Title>
+          <Title>Sefira Refah Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_chesed1</VoiceFile>
           <Content>Aman Tanrım! Qliphoth seviyesi düşüyor. Sistemdeki yetkimi geçersiz kılıyor...</Content>
         </Dialog>
@@ -3068,127 +3068,127 @@
         </Dialog>
         <Dialog ID="60" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Sephirah Güvenlik Ekibi</Title>
+          <Title>Sefira Güvenlik Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_netzach1</VoiceFile>
           <Content>Anormallikler serbest kalıyor...</Content>
         </Dialog>
         <Dialog ID="61" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sephirah Kontrol Ekibi</Title>
+          <Title>Sefira Kontrol Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth1</VoiceFile>
           <Content>Tüm Sephirot ve personel, benim rehberliğimi izleyin!</Content>
         </Dialog>
         <Dialog ID="62" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sephirah Kontrol Ekibi</Title>
+          <Title>Sefira Kontrol Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth2</VoiceFile>
           <Content>Kontrol Ekibi şu andan itibaren komutada olacak!</Content>
         </Dialog>
         <Dialog ID="63" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sephirah Kontrol Ekibi</Title>
+          <Title>Sefira Kontrol Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth3</VoiceFile>
           <Content>Hokma ve Kayıt Ekibi, Angela'nın tüm sistemleri ele geçirmesini durdurun!</Content>
         </Dialog>
         <Dialog ID="64" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Sephirah Kayıt Ekibi</Title>
+          <Title>Sefira Kayıt Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_hokma1</VoiceFile>
           <Content>Anlaşıldı.</Content>
         </Dialog>
         <Dialog ID="65" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sephirah Kontrol Ekibi</Title>
+          <Title>Sefira Kontrol Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth4</VoiceFile>
           <Content>Gebura ve Disiplin Ekibi, Binah'ı kontrol altında tutun!</Content>
         </Dialog>
         <Dialog ID="66" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Sephirah Disiplin Ekibi</Title>
+          <Title>Sefira Disiplin Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_gebura3</VoiceFile>
           <Content>Elbette... Bana bırakın.</Content>
         </Dialog>
         <Dialog ID="67" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sephirah Kontrol Ekibi</Title>
+          <Title>Sefira Kontrol Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth5</VoiceFile>
           <Content>Hod ve Eğitim Ekibi, çalışanlara doğru kılavuzu ve bilgileri iletin!</Content>
         </Dialog>
         <Dialog ID="68" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Eğitim Ekibi</Title>
+          <Title>Sefira Eğitim Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_hod1</VoiceFile>
           <Content>Tüm çalışanların dikkatine! Bu bir Tip-X acil durum protokolüdür.</Content>
         </Dialog>
         <Dialog ID="69" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Eğitim Ekibi</Title>
+          <Title>Sefira Eğitim Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_hod2</VoiceFile>
           <Content>Aşağıdaki talimatlara uygun şekilde hareket edin!</Content>
         </Dialog>
         <Dialog ID="70" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sephirah Kontrol Ekibi</Title>
+          <Title>Sefira Kontrol Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth6</VoiceFile>
           <Content>Netzach ve Güvenlik Ekibi, yaralıların tedavisine odaklanın.</Content>
         </Dialog>
         <Dialog ID="71" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Sephirah Güvenlik Ekibi</Title>
+          <Title>Sefira Güvenlik Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_netzach2</VoiceFile>
           <Content>Tamam. Onları olabildiğince hızlı tedavi edeceğim.</Content>
         </Dialog>
         <Dialog ID="72" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sephirah Kontrol Ekibi</Title>
+          <Title>Sefira Kontrol Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth7</VoiceFile>
           <Content>Yesod ve Bilgi Ekibi, kaçan anormalliklerin zayıf yönlerini derhal belirleyin!</Content>
         </Dialog>
         <Dialog ID="73" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Sephirah Bilgi Ekibi</Title>
+          <Title>Sefira Bilgi Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod33</VoiceFile>
           <Content>Onları en yüksek hassasiyetle analiz edeceğim.</Content>
         </Dialog>
         <Dialog ID="74" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sephirah Kontrol Ekibi</Title>
+          <Title>Sefira Kontrol Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth8</VoiceFile>
           <Content>Chesed ve Refah Ekibi, Qliphoth seviyesini mümkün olan en kısa sürede geri yüklemekle meşgul olun.</Content>
         </Dialog>
         <Dialog ID="75" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Sephirah Refah Ekibi</Title>
+          <Title>Sefira Refah Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_chesed2</VoiceFile>
           <Content>Yapacağım, ne de olsa bu benim hatam...</Content>
         </Dialog>
         <Dialog ID="76" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sephirah Kontrol Ekibi</Title>
+          <Title>Sefira Kontrol Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth9</VoiceFile>
           <Content>Kendini suçlamak için zaman yok, Chesed!</Content>
         </Dialog>
         <Dialog ID="77" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sephirah Kontrol Ekibi</Title>
+          <Title>Sefira Kontrol Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_malkuth10</VoiceFile>
           <Content>Tiphereth ve Merkezi Komuta Ekibi, zekanızla herkese destek sağlamakla meşgul olun!</Content>
         </Dialog>
         <Dialog ID="78" Model="티페리트">
           <Teller>Tiphereth</Teller>
-          <Title>Sephirah Merkezi Komuta Ekibi</Title>
+          <Title>Sefira Merkezi Komuta Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_tiphereth1</VoiceFile>
           <Content>Yapacağım! Söylemeye gerek bile yok!</Content>
         </Dialog>
         <Dialog ID="79" Model="비나">
           <Teller>Binah</Teller>
-          <Title>Sephirah Tahliye Ekibi</Title>
+          <Title>Sefira Tahliye Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_binah4</VoiceFile>
           <Content>Hepinizin bu kadar koordineli hareket ettiğini görmek beni çok eğlendiriyor.</Content>
         </Dialog>
         <Dialog ID="80" Model="비나">
           <Teller>Binah</Teller>
-          <Title>Sephirah Tahliye Ekibi</Title>
+          <Title>Sefira Tahliye Ekibi</Title>
           <VoiceFile>ch8_Yesod_ep3_binah5</VoiceFile>
           <Content>Şimdi, bizi sonuna kadar durdurmaya çalışın.</Content>
         </Dialog>
@@ -5226,31 +5226,31 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="58" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sephirah Equipo de control</Title>
+          <Title>Sefira Equipo de control</Title>
           <VoiceFile>ch8_Hod_ep3_malkuth1</VoiceFile>
           <Content>¡Por supuesto! ¿Realmente pensabas que iríamos a dormir solo porque nos lo dijiste?</Content>
         </Dialog>
         <Dialog ID="59" Model="비나">
           <Teller>Binah</Teller>
-          <Title>Sephirah Equipo de extracción</Title>
+          <Title>Sefira Equipo de extracción</Title>
           <VoiceFile>ch8_Hod_ep3_binah1</VoiceFile>
           <Content>Sin embargo, es solo cuestión de tiempo.</Content>
         </Dialog>
         <Dialog ID="60" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Sephirah Equipo de disciplina</Title>
+          <Title>Sefira Equipo de disciplina</Title>
           <VoiceFile>ch8_Hod_ep3_gebura1</VoiceFile>
           <Content>Uf... Y el tiempo es lo que más te importa ahora mismo.</Content>
         </Dialog>
         <Dialog ID="61" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep3_hod32</VoiceFile>
           <Content>Nuestros empleados sufrieron demasiado daño...</Content>
         </Dialog>
         <Dialog ID="62" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Sephirah Equipo de seguridad</Title>
+          <Title>Sefira Equipo de seguridad</Title>
           <VoiceFile>ch8_Hod_ep3_netzach1</VoiceFile>
           <Content>Los regeneradores también están en su límite...</Content>
         </Dialog>
@@ -5268,25 +5268,25 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="65" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Sephirah Equipo de registro</Title>
+          <Title>Sefira Equipo de registro</Title>
           <VoiceFile>ch8_Hod_ep3_hokma1</VoiceFile>
           <Content>Angela, tu acto inmundo nacido de tu deseo personal nunca llegará a buen término.</Content>
         </Dialog>
         <Dialog ID="66" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Sephirah Equipo de disciplina</Title>
+          <Title>Sefira Equipo de disciplina</Title>
           <VoiceFile>ch8_Hod_ep3_gebura2</VoiceFile>
           <Content>¡Maldita sea!</Content>
         </Dialog>
         <Dialog ID="67" Model="비나">
           <Teller>Binah</Teller>
-          <Title>Sephirah Equipo de extracción</Title>
+          <Title>Sefira Equipo de extracción</Title>
           <VoiceFile>ch8_Hod_ep3_binah2</VoiceFile>
           <Content>Las circunstancias no son las mismas que antes, Gebura. Ahora soy consciente de la existencia del E.G.O y sus capacidades.</Content>
         </Dialog>
         <Dialog ID="68" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Sephirah Equipo de información</Title>
+          <Title>Sefira Equipo de información</Title>
           <VoiceFile>ch8_Hod_ep3_yesod1</VoiceFile>
           <Content>Todos los empleados de los Equipos de Bienestar y Disciplina han caído...</Content>
         </Dialog>
@@ -5316,7 +5316,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="73" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Sephirah Equipo de registro</Title>
+          <Title>Sefira Equipo de registro</Title>
           <VoiceFile>ch8_Hod_ep3_hokma2</VoiceFile>
           <Content>¿Qué quieres decir...?</Content>
         </Dialog>
@@ -6144,7 +6144,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="51" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod31</VoiceFile>
           <Content>Encantada de conocerte... Señorita Angela.</Content>
         </Dialog>
@@ -6156,7 +6156,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="53" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Sephirah Equipo de información</Title>
+          <Title>Sefira Equipo de información</Title>
           <VoiceFile>ch8_Hod_ep5_Yesod1_b</VoiceFile>
           <Content>Entonces, Angela, ¿hay algo que podamos hacer?</Content>
         </Dialog>
@@ -6174,7 +6174,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="56" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sephirah Equipo de control</Title>
+          <Title>Sefira Equipo de control</Title>
           <VoiceFile>ch8_Hod_ep5_Malkuth1-01</VoiceFile>
           <Content>¡Gracias, Angela! ¡Haré mi mejor esfuerzo!</Content>
         </Dialog>
@@ -6198,7 +6198,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="60" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Sephirah Equipo de seguridad</Title>
+          <Title>Sefira Equipo de seguridad</Title>
           <VoiceFile>ch8_Hod_ep5_Netzach1</VoiceFile>
           <Content>Sí, ma’am, lo intentaré.</Content>
         </Dialog>
@@ -6210,19 +6210,19 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="62" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod32-01</VoiceFile>
           <Content>Umm... Ya sabes, yo...</Content>
         </Dialog>
         <Dialog ID="63" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod33-01</VoiceFile>
           <Content>Quiero comenzar un programa de asesoramiento para los empleados...</Content>
         </Dialog>
         <Dialog ID="64" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod34-01</VoiceFile>
           <Content>Ya sabes, trabajar en este lugar puede ser un poco duro para la mayoría de las personas.</Content>
         </Dialog>
@@ -6234,19 +6234,19 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="66" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Sephirah Equipo de bienestar</Title>
+          <Title>Sefira Equipo de bienestar</Title>
           <VoiceFile>ch8_Hod_ep5_Chesed1</VoiceFile>
           <Content>Angela, ¿puedes echar un ojo a esto?</Content>
         </Dialog>
         <Dialog ID="67" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Sephirah Equipo de bienestar</Title>
+          <Title>Sefira Equipo de bienestar</Title>
           <VoiceFile>ch8_Hod_ep5_Chesed2</VoiceFile>
           <Content>Estoy intentando diseñar algunos métodos eficaces para mejorar el bienestar de nuestros empleados.</Content>
         </Dialog>
         <Dialog ID="68" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Sephirah Equipo de bienestar</Title>
+          <Title>Sefira Equipo de bienestar</Title>
           <VoiceFile>ch8_Hod_ep5_Chesed3</VoiceFile>
           <Content>Las cosas escritas aquí podrían prevenir que nuestros empleados mueran irremediablemente contra las anormalidades.</Content>
         </Dialog>
@@ -6306,13 +6306,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="78" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sephirah Equipo de control</Title>
+          <Title>Sefira Equipo de control</Title>
           <VoiceFile>ch8_Hod_ep5_Malkuth2-01</VoiceFile>
           <Content>Eh, ¿encantada de conocerte, ma’am...?</Content>
         </Dialog>
         <Dialog ID="79" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod35</VoiceFile>
           <Content>Umm... ¿Quién eres tú?</Content>
         </Dialog>
@@ -6360,7 +6360,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="87" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod36-01</VoiceFile>
           <Content>¡Okay! ¡Gracias por tu preocupación, Angela!</Content>
         </Dialog>
@@ -6378,7 +6378,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="90" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Sephirah Equipo de bienestar</Title>
+          <Title>Sefira Equipo de bienestar</Title>
           <VoiceFile>ch8_Hod_ep5_Chesed4</VoiceFile>
           <Content>¿Qué? ¿Qué quieres decir con comenzar de nuevo?</Content>
         </Dialog>
@@ -6402,7 +6402,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="94" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod37</VoiceFile>
           <Content>Umm... Angela.</Content>
         </Dialog>
@@ -6420,13 +6420,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="97" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod38-01</VoiceFile>
           <Content>¡Eres increíble, Angela!</Content>
         </Dialog>
         <Dialog ID="98" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod39-01</VoiceFile>
           <Content>Eres la única que realmente me entiende...</Content>
         </Dialog>
@@ -6438,7 +6438,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="100" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod40</VoiceFile>
           <Content>¿Eh? ¿Guion...?</Content>
         </Dialog>
@@ -6450,7 +6450,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="102" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Sephirah Equipo de bienestar</Title>
+          <Title>Sefira Equipo de bienestar</Title>
           <VoiceFile>ch8_Hod_ep5_Chesed5</VoiceFile>
           <Content>¿Cómo se ve esto, Angela? ¿Piensas que podría funcionar?</Content>
         </Dialog>
@@ -6468,13 +6468,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="105" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod41-02</VoiceFile>
           <Content>¡Angela! ¡Gracias... Es todo gracias a ti!</Content>
         </Dialog>
         <Dialog ID="106" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod42</VoiceFile>
           <Content>Pude salvar a Tiffany con las prácticas de asesoramiento que sugeriste...</Content>
         </Dialog>
@@ -6486,7 +6486,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="108" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Sephirah Equipo de bienestar</Title>
+          <Title>Sefira Equipo de bienestar</Title>
           <VoiceFile>ch8_Hod_ep5_Chesed6</VoiceFile>
           <Content>Eres increíble, Angela. Con este método, nuestros empleados no tienen que sufrir muertes sin sentido nunca más.</Content>
         </Dialog>
@@ -6570,7 +6570,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="122" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod43-01</VoiceFile>
           <Content>Um...</Content>
         </Dialog>
@@ -6582,7 +6582,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="124" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod44-01</VoiceFile>
           <Content>¡Sí...! Quiero ayudar a los empleados.</Content>
         </Dialog>
@@ -6618,13 +6618,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="130" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Sephirah Equipo de información</Title>
+          <Title>Sefira Equipo de información</Title>
           <VoiceFile>ch8_Hod_ep5_Yesod2-01_b</VoiceFile>
           <Content>Eso significa que esa persona será la encargada de manejar todo en esta instalación.</Content>
         </Dialog>
         <Dialog ID="131" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Sephirah Equipo de seguridad</Title>
+          <Title>Sefira Equipo de seguridad</Title>
           <VoiceFile>ch8_Hod_ep5_Netzach2-01</VoiceFile>
           <Content>Uf... Sin importar quien sea, todos morirán de todos modos...</Content>
         </Dialog>
@@ -6642,7 +6642,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="134" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod45-01</VoiceFile>
           <Content>¡Todos ustedes estarían muertos ahora si no les hubiera ayudado!</Content>
         </Dialog>
@@ -6672,13 +6672,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="139" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod46-02</VoiceFile>
           <Content>¿Por qué nadie aprecia mi amabilidad?</Content>
         </Dialog>
         <Dialog ID="140" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod47-01</VoiceFile>
           <Content>¡Soy diferente! ¡Realmente me preocupo por ellos! ¿Por qué todos me odian?</Content>
         </Dialog>
@@ -6750,7 +6750,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="152" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod48</VoiceFile>
           <Content>Vale... Señorita Angela.</Content>
         </Dialog>
@@ -6768,13 +6768,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="155" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Sephirah Equipo de información</Title>
+          <Title>Sefira Equipo de información</Title>
           <VoiceFile>ch8_Hod_ep5_Yesod3-02_b</VoiceFile>
           <Content>Eres la única entre nosotros con apariencia humana, pero actúas como un monstruo sin corazón.</Content>
         </Dialog>
         <Dialog ID="156" Model="티페리트">
           <Teller>Tiphereth</Teller>
-          <Title>Sephirah Equipo de comando central</Title>
+          <Title>Sefira Equipo de comando central</Title>
           <VoiceFile>ch8_Hod_ep5_Tiphereth1</VoiceFile>
           <Content>¡¿Por qué Tiphereth tiene que morir todo el tiempo?! ¡¿Simplemente por qué?!</Content>
         </Dialog>
@@ -6786,13 +6786,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="158" Model="티페리트">
           <Teller>Tiphereth</Teller>
-          <Title>Sephirah Equipo de comando central</Title>
+          <Title>Sefira Equipo de comando central</Title>
           <VoiceFile>ch8_Hod_ep5_Tiphereth2</VoiceFile>
           <Content>Tiphereth, Tiphereth, lo siento... Tiphereth...</Content>
         </Dialog>
         <Dialog ID="159" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Sephirah Equipo de bienestar</Title>
+          <Title>Sefira Equipo de bienestar</Title>
           <VoiceFile>ch8_Hod_ep5_Chesed7</VoiceFile>
           <Content>... Cómo puedes ser tan cruel...</Content>
         </Dialog>
@@ -6834,7 +6834,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="166" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sephirah Equipo de control</Title>
+          <Title>Sefira Equipo de control</Title>
           <VoiceFile>ch8_Hod_ep5_Malkuth3-04</VoiceFile>
           <Content>... ¡Por favor, mirame, gerente! ¡Puedo tomar el control de la situación, no hay problemas!</Content>
         </Dialog>
@@ -6846,7 +6846,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="168" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Sephirah Equipo de bienestar</Title>
+          <Title>Sefira Equipo de bienestar</Title>
           <VoiceFile>ch8_Hod_ep5_Chesed8</VoiceFile>
           <Content>... No quería abrir mis ojos otra vez. Solo anhelaba caer en el pozo infernal del infierno, cargando con mis pecados en la espalda.</Content>
         </Dialog>
@@ -6858,7 +6858,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="170" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hod_ep5_Hod49-01</VoiceFile>
           <Content>... Soy la única que se preocupa por ellos... ¿Por qué me odiarían...?</Content>
         </Dialog>
@@ -7869,37 +7869,37 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="38" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Sephirah Equipo de disciplina</Title>
+          <Title>Sefira Equipo de disciplina</Title>
           <VoiceFile>ch8_Netzach_ep3_gebura1</VoiceFile>
           <Content>Estoy de acuerdo contigo. Nunca te venceremos a este ritmo.</Content>
         </Dialog>
         <Dialog ID="39" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Sephirah Equipo de disciplina</Title>
+          <Title>Sefira Equipo de disciplina</Title>
           <VoiceFile>ch8_Netzach_ep3_gebura2</VoiceFile>
           <Content>No estoy luchando solo para esparcir la mitad de la luz.</Content>
         </Dialog>
         <Dialog ID="40" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Netzach_ep3_hod1</VoiceFile>
           <Content>¡Gebura! Cómo puedes estar de acuerdo con ella... Podríamos perderlo todo.</Content>
         </Dialog>
         <Dialog ID="41" Model="티페리트">
           <Teller>Tiphereth</Teller>
-          <Title>Sephirah Equipo de comando central</Title>
+          <Title>Sefira Equipo de comando central</Title>
           <VoiceFile>ch8_Netzach_ep3_tiphereth1</VoiceFile>
           <Content>También estoy con Angela. La muerte de Enoch merece un mejor final que esta luz a medio hornear.</Content>
         </Dialog>
         <Dialog ID="42" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Sephirah Equipo de información</Title>
+          <Title>Sefira Equipo de información</Title>
           <VoiceFile>ch8_Netzach_ep3_yesod1</VoiceFile>
           <Content>No estoy dispuesto a apostar después de todo lo que hemos trabajado.</Content>
         </Dialog>
         <Dialog ID="43" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Sephirah Equipo de bienestar</Title>
+          <Title>Sefira Equipo de bienestar</Title>
           <VoiceFile>ch8_Netzach_ep3_chesed1</VoiceFile>
           <Content>Dinos, Angela. Si lo que estás diciendo es cierto, ¿eso quiere decir que los empleados que murieron también pueden regresar?</Content>
         </Dialog>
@@ -7911,25 +7911,25 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="45" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Sephirah Equipo de seguridad</Title>
+          <Title>Sefira Equipo de seguridad</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach21</VoiceFile>
           <Content>Eso no borrará todo el dolor por el que los empleados pasaron.</Content>
         </Dialog>
         <Dialog ID="46" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sephirah Equipo de control</Title>
+          <Title>Sefira Equipo de control</Title>
           <VoiceFile>ch8_Netzach_ep3_malkuth1</VoiceFile>
           <Content>¡Y tampoco todo nuestro trabajo duro...!</Content>
         </Dialog>
         <Dialog ID="47" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Sephirah Equipo de registro</Title>
+          <Title>Sefira Equipo de registro</Title>
           <VoiceFile>ch8_Netzach_ep3_hokma1</VoiceFile>
           <Content>Incluso si el trato se llevara a cabo, solo retrasará lo inevitable.</Content>
         </Dialog>
         <Dialog ID="48" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Sephirah Equipo de registro</Title>
+          <Title>Sefira Equipo de registro</Title>
           <VoiceFile>ch8_Netzach_ep3_hokma2</VoiceFile>
           <Content>¿Cómo podemos confiar en que no nos traicionarás de nuevo?</Content>
         </Dialog>
@@ -7977,7 +7977,7 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="56" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Netzach_ep3_hod2</VoiceFile>
           <Content>Angela...</Content>
         </Dialog>
@@ -8013,13 +8013,13 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
         <Dialog ID="62" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Sephirah Equipo de registro</Title>
+          <Title>Sefira Equipo de registro</Title>
           <VoiceFile>ch8_Netzach_ep3_hokma3</VoiceFile>
           <Content>Me convertiré en un observador una vez más y vigilaré cada una de tus acciones...</Content>
         </Dialog>
         <Dialog ID="63" Model="비나">
           <Teller>Binah</Teller>
-          <Title>Sephirah Equipo de extracción</Title>
+          <Title>Sefira Equipo de extracción</Title>
           <VoiceFile>ch8_Netzach_ep3_binah1</VoiceFile>
           <Content>Supongo que todos hemos llegado a un acuerdo.</Content>
         </Dialog>
@@ -12674,7 +12674,7 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Gebura</Teller>
           <Title>Jefa bibliotecaria - Lenguaje</Title>
           <VoiceFile>ch8_Gebura_ep5_Gebura_5</VoiceFile>
-          <Content>Kali la Niebla Roja, Gebura la Sephirah en L Corp. y mi yo presente—una bibliotecaria...</Content>
+          <Content>Kali la Niebla Roja, Gebura la Sefira en L Corp. y mi yo presente—una bibliotecaria...</Content>
         </Dialog>
         <Dialog ID="8" Model="게부라">
           <Teller>Gebura</Teller>
@@ -16704,7 +16704,7 @@ pues estoy seguro de que nunca te irás.”
           <Teller>Binah</Teller>
           <Title>Jefa bibliotecaria - Filosofía</Title>
           <VoiceFile>ch8_Binah_ep4_Binah_27</VoiceFile>
-          <Content>Mírame por quien soy, no como una Árbitro o una Sephirah.</Content>
+          <Content>Mírame por quien soy, no como una Árbitro o una Sefira.</Content>
         </Dialog>
         <Dialog ID="43" Model="비나">
           <Teller>Binah</Teller>
@@ -19792,7 +19792,7 @@ pues estoy seguro de que nunca te irás.”
         </Dialog>
         <Dialog ID="54" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sephirah Equipo de control</Title>
+          <Title>Sefira Equipo de control</Title>
           <VoiceFile>ch8_Hokma_ep5_Malkuth_1-01_Effect</VoiceFile>
           <Content>¡Gracias, Angela! Me ayudaste a darme cuenta de que tan importante puede llegar a ser mi trabajo.</Content>
         </Dialog>
@@ -19804,13 +19804,13 @@ pues estoy seguro de que nunca te irás.”
         </Dialog>
         <Dialog ID="56" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sephirah Equipo de control</Title>
+          <Title>Sefira Equipo de control</Title>
           <VoiceFile>ch8_Hokma_ep5_Malkuth_2-07_Effect</VoiceFile>
           <Content>Tienes razón, señorita Angela... Quizás solo soy un defecto que no puede hacer nada bien.</Content>
         </Dialog>
         <Dialog ID="57" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Sephirah Equipo de información</Title>
+          <Title>Sefira Equipo de información</Title>
           <VoiceFile>ch8_Hokma_ep5_Yesod_1_Effect</VoiceFile>
           <Content>Debo darte las gracias por darnos más espacio para respirar en este lugar.</Content>
         </Dialog>
@@ -19822,13 +19822,13 @@ pues estoy seguro de que nunca te irás.”
         </Dialog>
         <Dialog ID="59" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Sephirah Equipo de información</Title>
+          <Title>Sefira Equipo de información</Title>
           <VoiceFile>ch8_Hokma_ep5_Yesod_2-04_Effect</VoiceFile>
           <Content>Supongo que debo obedecer tus órdenes y acatar los principios.</Content>
         </Dialog>
         <Dialog ID="60" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hokma_ep5_Hod_1_b</VoiceFile>
           <Content>Eres la única que realmente me entiende, Angela.</Content>
         </Dialog>
@@ -19840,13 +19840,13 @@ pues estoy seguro de que nunca te irás.”
         </Dialog>
         <Dialog ID="62" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sephirah Equipo de entrenamiento</Title>
+          <Title>Sefira Equipo de entrenamiento</Title>
           <VoiceFile>ch8_Hokma_ep5_Hod_2_b-01</VoiceFile>
           <Content>¡¡Por qué nadie es capaz de entenderme!!</Content>
         </Dialog>
         <Dialog ID="63" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Sephirah Equipo de seguridad</Title>
+          <Title>Sefira Equipo de seguridad</Title>
           <VoiceFile>ch8_Hokma_ep5_Netzach_1-01_Effect</VoiceFile>
           <Content>Tengo que decirlo, trabajar contigo... hace que quiera intentarlo un poco más duro.</Content>
         </Dialog>
@@ -19858,7 +19858,7 @@ pues estoy seguro de que nunca te irás.”
         </Dialog>
         <Dialog ID="65" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Sephirah Equipo de seguridad</Title>
+          <Title>Sefira Equipo de seguridad</Title>
           <VoiceFile>ch8_Hokma_ep5_Netzach_2-01_Effect</VoiceFile>
           <Content>Cuál es el punto, apuesto que todos vamos a morir.</Content>
         </Dialog>
