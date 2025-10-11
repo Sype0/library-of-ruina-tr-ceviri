@@ -5457,378 +5457,378 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
       </Place>
     </Episode>
-    <Episode>
-      <EpisodeName>Episode 4</EpisodeName>
-      <Place>
-        <PlaceName>Konum: Kütüphane - Edebiyat Katı</PlaceName>
-        <Dialog ID="0" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland1</VoiceFile>
-          <Content>Me gusta lo silencioso y pacífico que puede ser este lugar.</Content>
-        </Dialog>
-        <Dialog ID="1" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland2</VoiceFile>
-          <Content>Y los bibliotecarios aquí parecen tranquilos y serenos, justo como tú, Hod.</Content>
-        </Dialog>
-        <Dialog ID="2" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod1 (2)</VoiceFile>
-          <Content>Oh, hey Roland.</Content>
-        </Dialog>
-        <Dialog ID="3" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod2</VoiceFile>
-          <Content>Pueden parecer mansos y tranquilos, pero cuando trabajan, lo hacen duramente. Puedo contar un montón en ellos.</Content>
-        </Dialog>
-        <Dialog ID="4" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland3</VoiceFile>
-          <Content>Y yo también estoy contando con mis bibliotecarios.</Content>
-        </Dialog>
-        <Dialog ID="5" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland4</VoiceFile>
-          <Content>¿Qué están haciendo de todos modos, todos reunidos aquí? No parece que estén clasificando libros.</Content>
-        </Dialog>
-        <Dialog ID="6" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod3 (2)</VoiceFile>
-          <Content>Solo estamos teniendo una reunión en nuestro club de discutir sobre libros. Elegimos un libro que atrape nuestra atención, lo leemos y entonces hablamos sobre eso.</Content>
-        </Dialog>
-        <Dialog ID="7" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland5</VoiceFile>
-          <Content>No es exactamente el tipo de reuniones que les gustaría a los bibliotecarios en mi piso.</Content>
-        </Dialog>
-        <Dialog ID="8" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland6</VoiceFile>
-          <Content>¿Supongo que tus bibliotecarios están todos a gusto contigo?</Content>
-        </Dialog>
-        <Dialog ID="9" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod4</VoiceFile>
-          <Content>Sí, lo están. Se están ayudando con más pasión de lo que esperaba.</Content>
-        </Dialog>
-        <Dialog ID="10" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland7</VoiceFile>
-          <Content>Pensaba que al menos algunos protestarían por pereza.</Content>
-        </Dialog>
-        <Dialog ID="11" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland8</VoiceFile>
-          <Content>Imagínate si le preguntaras a Netzach para unirse. Hubiera escapado antes de que la reunión siquiera comenzara.</Content>
-        </Dialog>
-        <Dialog ID="12" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod5</VoiceFile>
-          <Content>Hahaha. Tienes toda la razón, seguramente lo haría.</Content>
-        </Dialog>
-        <Dialog ID="13" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod6 (2)</VoiceFile>
-          <Content>Aun así, puedo decirte que algunas cosas cambiaron.</Content>
-        </Dialog>
-        <Dialog ID="14" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod7 (2)</VoiceFile>
-          <Content>Antes solía tener reuniones en Lobotomy Corp.</Content>
-        </Dialog>
-        <Dialog ID="15" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland9</VoiceFile>
-          <Content>¿En serio? Supongo que no era una reunión pacifica sobre libros como estás teniendo ahora.</Content>
-        </Dialog>
-        <Dialog ID="16" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod8 (2)</VoiceFile>
-          <Content>Tienes razón. Tenía un programa de asesoramiento con mis empleados.</Content>
-        </Dialog>
-        <Dialog ID="17" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod9 (2)</VoiceFile>
-          <Content>Ellos siempre vivían con miedo de las anormalidades si tenían la suficiente suerte para sobrevivir. Yo quería ayudarles de algún modo.</Content>
-        </Dialog>
-        <Dialog ID="18" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod10</VoiceFile>
-          <Content>Pero entonces, me imponía a mí misma y mis ideas en ellos con demasiada fuerza.</Content>
-        </Dialog>
-        <Dialog ID="19" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod11 (2)</VoiceFile>
-          <Content>Si los empleados parecían ligeramente incómodos en el asesoramiento, me terminaba sintiendo demasiado herida por dentro.</Content>
-        </Dialog>
-        <Dialog ID="20" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod12 (2)</VoiceFile>
-          <Content>Estaba molesta porque nadie entendía mi buena voluntad.</Content>
-        </Dialog>
-        <Dialog ID="21" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland10</VoiceFile>
-          <Content>Lamento decirlo, pero... Tu yo pasado suena como alguien bastante agotador con quien tratar.</Content>
-        </Dialog>
-        <Dialog ID="22" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod13</VoiceFile>
-          <Content>... Lo sé, ¿verdad? Yo también lo pienso.</Content>
-        </Dialog>
-        <Dialog ID="23" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod14 (2)</VoiceFile>
-          <Content>Todas las cosas que hice para ayudar a los demás no fueron realmente por buena voluntad ni nada.</Content>
-        </Dialog>
-        <Dialog ID="24" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod15 (2)</VoiceFile>
-          <Content>Solo estaba buscando consuelo para mí misma.</Content>
-        </Dialog>
-        <Dialog ID="25" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod16 (2)</VoiceFile>
-          <Content>Quería el perdón por los pecados que cometí en mi primera vida.</Content>
-        </Dialog>
-        <Dialog ID="26" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod17 (2)</VoiceFile>
-          <Content>Siendo de ayuda para los demás de alguna manera.</Content>
-        </Dialog>
-        <Dialog ID="27" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland11</VoiceFile>
-          <Content>Entonces, ¿te pudiste volver una persona útil?</Content>
-        </Dialog>
-        <Dialog ID="28" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod18</VoiceFile>
-          <Content>No... No había forma de que pudiera ser de ninguna ayuda con ese tipo de mentalidad.</Content>
-        </Dialog>
-        <Dialog ID="29" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod19</VoiceFile>
-          <Content>Incluso intenté usar encefalina.</Content>
-        </Dialog>
-        <Dialog ID="30" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland12</VoiceFile>
-          <Content>Encefalina, ¿eh?.. La presión tuvo que haber sido demasiada si incluso comenzaste a usar drogas...</Content>
-        </Dialog>
-        <Dialog ID="31" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod20</VoiceFile>
-          <Content>A pesar de todo lo que intenté, no pude encontrar la salvación en ningún sitio.</Content>
-        </Dialog>
-        <Dialog ID="32" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod21 (2)</VoiceFile>
-          <Content>Nada de lo que hiciera pudo liberarme de la realidad de que era una mala persona y una pecadora.</Content>
-        </Dialog>
-        <Dialog ID="33" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland13</VoiceFile>
-          <Content>¿Y entonces tuviste la oportunidad de quitarte ese peso de tu mente, pero Angela frustró eso al final?</Content>
-        </Dialog>
-        <Dialog ID="34" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod22</VoiceFile>
-          <Content>Sí, así es como fue.</Content>
-        </Dialog>
-        <Dialog ID="35" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod23 (2)</VoiceFile>
-          <Content>Incluso cuando Angela estaba en nuestro camino, yo solo estaba pensando en mí misma. Muy egoísta, ¿no es así?</Content>
-        </Dialog>
-        <Dialog ID="36" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod24</VoiceFile>
-          <Content>“Esta era mi primera y única oportunidad de arrepentirme por todo, pero fue para nada...”</Content>
-        </Dialog>
-        <Dialog ID="37" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod25</VoiceFile>
-          <Content>Es tonto, lo sé... Era demasiado estúpida para darme cuenta entonces.</Content>
-        </Dialog>
-        <Dialog ID="38" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod26 (2)</VoiceFile>
-          <Content>Que no puedes volverte una buena persona a través de un buen acto o dos.</Content>
-        </Dialog>
-        <Dialog ID="39" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod27 (2)</VoiceFile>
-          <Content>Lo que realmente importa es la mentalidad que tienes cuando realizas esos actos.</Content>
-        </Dialog>
-        <Dialog ID="40" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland14</VoiceFile>
-          <Content>¿Y cómo te diste cuenta de eso?</Content>
-        </Dialog>
-        <Dialog ID="41" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod28</VoiceFile>
-          <Content>Bueno, lo aprendí después de hablar con mis bibliotecarios cara a cara y tener un montón de reuniones, bastante irónico.</Content>
-        </Dialog>
-        <Dialog ID="42" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod29 (2)</VoiceFile>
-          <Content>Tuve mucho cuidado al sugerir tener reuniones como esta.</Content>
-        </Dialog>
-        <Dialog ID="43" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod30</VoiceFile>
-          <Content>Como dijiste, a unos pocos bibliotecarios no les gustaba la idea al principio.</Content>
-        </Dialog>
-        <Dialog ID="44" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod31 (2)</VoiceFile>
-          <Content>Pero después de explicarles el por qué quería tener estas reuniones y cómo me sentía, ellos se abrieron a mí y me ayudaron con entusiasmo.</Content>
-        </Dialog>
-        <Dialog ID="45" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod32 (2)</VoiceFile>
-          <Content>No fue sobre el método o la acción en sí misma.</Content>
-        </Dialog>
-        <Dialog ID="46" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod33 (2)</VoiceFile>
-          <Content>Me di cuenta de que debemos abrir nuestros corazones y dejar que nuestros pensamientos se enfrenten entre sí.</Content>
-        </Dialog>
-        <Dialog ID="47" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland15</VoiceFile>
-          <Content>Bien está lo que bien acaba.</Content>
-        </Dialog>
-        <Dialog ID="48" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod34 (2)</VoiceFile>
-          <Content>Por supuesto. ¿Quizás Angela esperaba este tipo de resultado?</Content>
-        </Dialog>
-        <Dialog ID="49" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland16</VoiceFile>
-          <Content>Mmm... No estoy seguro si nuestra orgullosa directora tuvo la delicadeza de trazar un plan tan considerado.</Content>
-        </Dialog>
-        <Dialog ID="50" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod35 (2)</VoiceFile>
-          <Content>... Estoy pensando en confrontarla de verdad esta vez.</Content>
-        </Dialog>
-        <Dialog ID="51" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland17</VoiceFile>
-          <Content>¿Para qué, exactamente?</Content>
-        </Dialog>
-        <Dialog ID="52" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod36 (2)</VoiceFile>
-          <Content>Enfrentaré a Angela y le dejaré saber todo lo que pienso.</Content>
-        </Dialog>
-        <Dialog ID="53" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland18</VoiceFile>
-          <Content>Eso va a necesitar algo de coraje.</Content>
-        </Dialog>
-        <Dialog ID="54" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod37</VoiceFile>
-          <Content>Tienes razón. Angela aún se siente distante y aterradora para mí, pero intentaré acercarme a ella.</Content>
-        </Dialog>
-        <Dialog ID="55" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland19</VoiceFile>
-          <Content>¡Y estaré animándote desde el banquillo cuando eso suceda!</Content>
-        </Dialog>
-        <Dialog ID="56" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod38 (2)</VoiceFile>
-          <Content>Podrías terminar perdiendo tus extremidades de nuevo si las cosas no van bien. ¿Estás bien con eso?</Content>
-        </Dialog>
-        <Dialog ID="57" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland20</VoiceFile>
-          <Content>... ¡Desde una distancia prudente, por supuesto!</Content>
-        </Dialog>
-        <Dialog ID="58" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod39 (2)</VoiceFile>
-          <Content>Eres un cobarde justo como yo, ¿no es así, Roland?</Content>
-        </Dialog>
-        <Dialog ID="59" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
-          <VoiceFile>ch8_Hod_ep4_roland21</VoiceFile>
-          <Content>Eh, dios los cría y ellos se juntan. Vamos a ser valientes, juntos como cobardes.</Content>
-        </Dialog>
-        <Dialog ID="60" Model="호드">
-          <Teller>Hod</Teller>
-          <Title>Baş Kütüphaneci - Edebiyat</Title>
-          <VoiceFile>ch8_Hod_ep4_hod40</VoiceFile>
-          <Content>Sí. Gracias por el ánimo, Roland.</Content>
-        </Dialog>
-      </Place>
-    </Episode>
+<Episode>
+      <EpisodeName>Bölüm 4</EpisodeName>
+      <Place>
+        <PlaceName>Konum: Kütüphane - Edebiyat Katı</PlaceName>
+        <Dialog ID="0" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland1</VoiceFile>
+          <Content>Buranın ne kadar sessiz ve huzurlu olabileceğini seviyorum.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland2</VoiceFile>
+          <Content>Ve buradaki kütüphaneciler de tıpkı senin gibi, Hod, sakin ve uysal görünüyorlar.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod1 (2)</VoiceFile>
+          <Content>Ah, selam Roland.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod2</VoiceFile>
+          <Content>Uysal ve sakin görünebilirler, ama çalıştıklarında çok sıkı çalışırlar. Onlara çok güvenebilirim.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland3</VoiceFile>
+          <Content>Ben de kütüphanecilerime güveniyorum.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland4</VoiceFile>
+          <Content>Peki burada hep birlikte toplanmış ne yapıyorlar? Kitap tasnif ediyor gibi görünmüyorlar.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod3 (2)</VoiceFile>
+          <Content>Sadece kitapları tartıştığımız kulübümüzde bir toplantı yapıyoruz. İlgimizi çeken bir kitap seçiyoruz, okuyoruz ve sonra hakkında konuşuyoruz.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland5</VoiceFile>
+          <Content>Benim katımdaki kütüphanecilerin isteyeceği türden toplantılar değil.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland6</VoiceFile>
+          <Content>Sanırım kütüphanecilerin seninle rahatlar, değil mi?</Content>
+        </Dialog>
+        <Dialog ID="9" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod4</VoiceFile>
+          <Content>Evet, öyleler. Beklediğimden daha tutkulu bir şekilde birbirlerine yardım ediyorlar.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland7</VoiceFile>
+          <Content>En azından bazılarının tembellikten protesto edeceğini düşünmüştüm.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland8</VoiceFile>
+          <Content>Netzach'a katılmasını teklif ettiğini hayal et. Toplantı başlamadan kaçardı.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod5</VoiceFile>
+          <Content>Hahaha. Çok haklısın, kesinlikle yapardı.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod6 (2)</VoiceFile>
+          <Content>Yine de sana bazı şeylerin değiştiğini söyleyebilirim.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod7 (2)</VoiceFile>
+          <Content>Daha önce Lobotomy Corp'ta toplantılar yapardım.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland9</VoiceFile>
+          <Content>Gerçekten mi? Sanırım şu anda yaptığın gibi barışçıl bir kitap toplantısı değildi.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod8 (2)</VoiceFile>
+          <Content>Haklısın. Çalışanlarımla bir danışmanlık programım vardı.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod9 (2)</VoiceFile>
+          <Content>Hayatta kalacak kadar şanslılarsa her zaman Anormallik korkusuyla yaşarlardı. Onlara bir şekilde yardım etmek istedim.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod10</VoiceFile>
+          <Content>Ama sonra, kendimi ve fikirlerimi onlara çok zorla kabul ettirdim.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod11 (2)</VoiceFile>
+          <Content>Eğer çalışanlar danışmanlıkta biraz rahatsız görünseydi, içten içe çok incinirdim.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod12 (2)</VoiceFile>
+          <Content>İyi niyetimi kimsenin anlamamasına sinirlenmiştim.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland10</VoiceFile>
+          <Content>Söylemek zorundayım ama... Geçmişteki halin, uğraşması oldukça yorucu biri gibi geliyor.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod13</VoiceFile>
+          <Content>... Biliyorum, değil mi? Ben de öyle düşünüyorum.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod14 (2)</VoiceFile>
+          <Content>Başkalarına yardım etmek için yaptığım her şey gerçekten iyi niyetten falan değildi.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod15 (2)</VoiceFile>
+          <Content>Sadece kendim için rahatlık arıyordum.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod16 (2)</VoiceFile>
+          <Content>İlk hayatımda işlediğim günahlar için af dilemek istiyordum.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod17 (2)</VoiceFile>
+          <Content>Başkalarına bir şekilde yardımcı olarak.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland11</VoiceFile>
+          <Content>Peki, yararlı bir insan olmayı başarabildin mi?</Content>
+        </Dialog>
+        <Dialog ID="28" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod18</VoiceFile>
+          <Content>Hayır... O tür bir zihniyetle hiçbir şekilde faydalı olamazdım.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod19</VoiceFile>
+          <Content>Hatta Ensefalini bile kullanmayı denedim.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland12</VoiceFile>
+          <Content>Ensefalini, öyle mi?.. Baskı çok fazla olmalı ki uyuşturucu bile kullanmaya başlamışsın...</Content>
+        </Dialog>
+        <Dialog ID="31" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod20</VoiceFile>
+          <Content>Tüm çabalarıma rağmen hiçbir yerde kurtuluş bulamadım.</Content>
+        </Dialog>
+        <Dialog ID="32" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod21 (2)</VoiceFile>
+          <Content>Yaptığım hiçbir şey, kötü bir insan ve günahkar olduğum gerçeğinden beni kurtaramadı.</Content>
+        </Dialog>
+        <Dialog ID="33" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland13</VoiceFile>
+          <Content>Ve sonra o yükü zihninden atma şansın oldu, ama sonunda Angela bunu engelledi, öyle mi?</Content>
+        </Dialog>
+        <Dialog ID="34" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod22</VoiceFile>
+          <Content>Evet, öyle oldu.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod23 (2)</VoiceFile>
+          <Content>Angela yolumuzdayken bile, sadece kendimi düşünüyordum. Çok bencilce, değil mi?</Content>
+        </Dialog>
+        <Dialog ID="36" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod24</VoiceFile>
+          <Content>"Bu, her şey için tövbe etmek için ilk ve tek şansımdı, ama boşa gitti..."</Content>
+        </Dialog>
+        <Dialog ID="37" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod25</VoiceFile>
+          <Content>Aptalca, biliyorum... O zaman fark edemeyecek kadar aptaldım.</Content>
+        </Dialog>
+        <Dialog ID="38" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod26 (2)</VoiceFile>
+          <Content>Bir ya da iki iyi davranışla iyi bir insan olamayacağını.</Content>
+        </Dialog>
+        <Dialog ID="39" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod27 (2)</VoiceFile>
+          <Content>Gerçekten önemli olanın, o davranışları sergilerken sahip olduğun zihniyet olduğunu.</Content>
+        </Dialog>
+        <Dialog ID="40" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland14</VoiceFile>
+          <Content>Peki bunu nasıl anladın?</Content>
+        </Dialog>
+        <Dialog ID="41" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod28</VoiceFile>
+          <Content>Şey, ironik bir şekilde, kütüphanecilerimle yüz yüze konuşup bir sürü toplantı yaptıktan sonra öğrendim.</Content>
+        </Dialog>
+        <Dialog ID="42" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod29 (2)</VoiceFile>
+          <Content>Bunun gibi toplantılar yapmayı önerirken çok dikkatli davrandım.</Content>
+        </Dialog>
+        <Dialog ID="43" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod30</VoiceFile>
+          <Content>Dediğin gibi, birkaç kütüphaneci başlangıçta bu fikri sevmedi.</Content>
+        </Dialog>
+        <Dialog ID="44" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod31 (2)</VoiceFile>
+          <Content>Ancak onlara neden bu toplantıları yapmak istediğimi ve nasıl hissettiğimi açıkladıktan sonra, bana açıldılar ve coşkuyla yardımcı oldular.</Content>
+        </Dialog>
+        <Dialog ID="45" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod32 (2)</VoiceFile>
+          <Content>Mesele yöntem ya da eylemin kendisi değildi.</Content>
+        </Dialog>
+        <Dialog ID="46" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod33 (2)</VoiceFile>
+          <Content>Kalplerimizi açıp düşüncelerimizin birbiriyle yüzleşmesine izin vermemiz gerektiğini fark ettim.</Content>
+        </Dialog>
+        <Dialog ID="47" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland15</VoiceFile>
+          <Content>Sonu iyi biten her şey iyidir.</Content>
+        </Dialog>
+        <Dialog ID="48" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod34 (2)</VoiceFile>
+          <Content>Kesinlikle. Belki de Angela böyle bir sonuç bekliyordu?</Content>
+        </Dialog>
+        <Dialog ID="49" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland16</VoiceFile>
+          <Content>Hım... Gururlu yöneticimizin bu kadar düşünceli bir plan yapacak inceliğe sahip olduğundan emin değilim.</Content>
+        </Dialog>
+        <Dialog ID="50" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod35 (2)</VoiceFile>
+          <Content>... Bu sefer onunla gerçekten yüzleşmeyi düşünüyorum.</Content>
+        </Dialog>
+        <Dialog ID="51" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland17</VoiceFile>
+          <Content>Ne için, tam olarak?</Content>
+        </Dialog>
+        <Dialog ID="52" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod36 (2)</VoiceFile>
+          <Content>Angela ile yüzleşeceğim ve ona düşündüğüm her şeyi söyleyeceğim.</Content>
+        </Dialog>
+        <Dialog ID="53" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland18</VoiceFile>
+          <Content>Bunun için biraz cesaret gerekecek.</Content>
+        </Dialog>
+        <Dialog ID="54" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod37</VoiceFile>
+          <Content>Haklısın. Angela hala bana mesafeli ve korkutucu geliyor, ama ona yaklaşmaya çalışacağım.</Content>
+        </Dialog>
+        <Dialog ID="55" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland19</VoiceFile>
+          <Content>Ve bu olduğunda, kenardan seni tezahüratlarla destekliyor olacağım!</Content>
+        </Dialog>
+        <Dialog ID="56" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod38 (2)</VoiceFile>
+          <Content>İşler yolunda gitmezse, yine uzuvlarını kaybedebilirsin. Buna razı mısın?</Content>
+        </Dialog>
+        <Dialog ID="57" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland20</VoiceFile>
+          <Content>... Elbette güvenli bir mesafeden!</Content>
+        </Dialog>
+        <Dialog ID="58" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod39 (2)</VoiceFile>
+          <Content>Sen de benim gibi bir korkaksın, değil mi Roland?</Content>
+        </Dialog>
+        <Dialog ID="59" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch8_Hod_ep4_roland21</VoiceFile>
+          <Content>Eh, tencere yuvarlanmış kapağını bulmuş. Korkaklar olarak birlikte cesur olalım.</Content>
+        </Dialog>
+        <Dialog ID="60" Model="호드">
+          <Teller>Hod</Teller>
+          <Title>Baş Kütüphaneci - Edebiyat</Title>
+          <VoiceFile>ch8_Hod_ep4_hod40</VoiceFile>
+          <Content>Evet. Teşekkürler cesaretin için, Roland.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
     <Episode>
       <EpisodeName>Episode 5</EpisodeName>
       <Place>
