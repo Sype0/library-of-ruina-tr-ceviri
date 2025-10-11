@@ -7632,408 +7632,408 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
       </Place>
     </Episode>
-    <Episode>
-      <EpisodeName>Episode 3</EpisodeName>
+<Episode>
+      <EpisodeName>Bölüm 3</EpisodeName>
       <Place>
         <PlaceName>Konum: Kütüphane - Sanat Katı</PlaceName>
         <Dialog ID="0" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach1</VoiceFile>
-          <Content>Eh, ¿sabías que el arte no se puede separar del alcohol?</Content>
+          <Content>Eh, sanatın alkolden ayrılamayacağını biliyor muydun?</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland1</VoiceFile>
-          <Content>Oh, sí, he escuchado eso. Dicen que el arte se trata sobre oleadas de inspiración, ¿verdad?</Content>
+          <Content>Ah, evet, duymuştum. Sanatın ilham dalgalarıyla ilgili olduğunu söylerler, değil mi?</Content>
         </Dialog>
         <Dialog ID="2" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach2</VoiceFile>
-          <Content>Lo sabía. Quizás estamos en la misma página después de todo.</Content>
+          <Content>Biliyordum. Belki de sonunda aynı sayfadayızdır.</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland2</VoiceFile>
-          <Content>Oh, trajiste una bebida diferente esta vez, ¿absenta?</Content>
+          <Content>Aa, bu sefer farklı bir içki getirmişsin, absint mi?</Content>
         </Dialog>
         <Dialog ID="4" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach3</VoiceFile>
-          <Content>Ese es un licor con un legado que está muy atado al arte, es casi legendario.</Content>
+          <Content>Bu, geçmişi sanata sıkı sıkıya bağlı olan bir likör, neredeyse efsanevi.</Content>
         </Dialog>
         <Dialog ID="5" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach4</VoiceFile>
-          <Content>Ya que estoy a cargo de las artes, podría necesitar algo de estimulación para trabajar como un artista de verdad.</Content>
+          <Content>Sanattan sorumlu olduğuma göre, gerçek bir sanatçı gibi çalışmak için biraz uyarana ihtiyacım olabilir.</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland3</VoiceFile>
-          <Content>Wow... Esta es bastante fuerte, pero es encantadora.</Content>
+          <Content>Vay canına... Bu oldukça sert ama aynı zamanda hoş.</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland4</VoiceFile>
-          <Content>¿Qué pasa si Angela nos regaña como la última vez?</Content>
+          <Content>Peki ya Angela geçen seferki gibi bizi azarlarsa?</Content>
         </Dialog>
         <Dialog ID="8" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach5</VoiceFile>
-          <Content>Eh, nos podemos preocupar de eso más tarde.</Content>
+          <Content>Eh, onu sonra düşünürüz.</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland5</VoiceFile>
-          <Content>Funciona para mí. Por cierto, pienso que debería decir que no tienes que preocuparte sobre ser cortés y esas cosas conmigo.</Content>
+          <Content>Bana uyar. Bu arada, sanırım bana karşı kibar olmak zorunda olmadığını söylemeliyim.</Content>
         </Dialog>
         <Dialog ID="10" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach6</VoiceFile>
-          <Content>Diría que es más cómodo para mí ser cortés.</Content>
+          <Content>Kibar olmak benim için daha rahat olurdu.</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland6</VoiceFile>
-          <Content>Entonces supongo que está bien.</Content>
+          <Content>O zaman sorun yok sanırım.</Content>
         </Dialog>
         <Dialog ID="12" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach7</VoiceFile>
-          <Content>Mira este brillante licor verde. Es justo como las artes de esta Ciudad.</Content>
+          <Content>Şu parlak yeşil liköre bak. Tıpkı bu Şehir'in sanatları gibi.</Content>
         </Dialog>
         <Dialog ID="13" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach8</VoiceFile>
-          <Content>Imitaciones que son provocativas pero nada más... Imitaciones de imitaciones.</Content>
+          <Content>Kışkırtıcı ama başka hiçbir şey olmayan taklitler... Taklitlerin taklitleri.</Content>
         </Dialog>
         <Dialog ID="14" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach9</VoiceFile>
-          <Content>Aunque tampoco veo el punto en ser original. Supongo que también soy la imitación de alguien o algo.</Content>
+          <Content>Gerçi orijinal olmanın da bir anlamı yok. Sanırım ben de birinin ya da bir şeyin taklidiyim.</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland7</VoiceFile>
-          <Content>Como si las cosas como la originalidad o las artes importaran en la Ciudad en primer lugar.</Content>
+          <Content>Sanki orijinal ya da sanat gibi şeylerin Şehir'de bir önemi varmış gibi.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland8</VoiceFile>
-          <Content>Todos esos autoproclamados artistas son unos tontos.</Content>
+          <Content>O kendi kendini sanatçı ilan edenlerin hepsi aptal.</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland9</VoiceFile>
-          <Content>Parecen estar confundiendo cualquier estímulo que sea más fuerte de lo habitual con el arte. Al igual que estoy elogiando esta bebida como una obra de arte.</Content>
+          <Content>Sanki normalden daha güçlü olan herhangi bir uyaranı sanatla karıştırıyorlar. Tıpkı benim bu içkiyi bir sanat eseri olarak övmem gibi.</Content>
         </Dialog>
         <Dialog ID="18" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach10</VoiceFile>
-          <Content>Entonces el Pianista tuvo que haber sido un infierno de estimulación.</Content>
+          <Content>O zaman Piyanist tam bir uyaran cehennemi olmalıydı.</Content>
         </Dialog>
         <Dialog ID="19" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach11</VoiceFile>
-          <Content>Escuché que su música es una obra maestra que despertó a esta Ciudad gris de su monotonía.</Content>
+          <Content>Müziğinin bu gri Şehir'i tekdüzeliğinden uyandıran bir şaheser olduğunu duydum.</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland10</VoiceFile>
-          <Content>Bueno, su intensidad no tiene precedentes, eso seguro.</Content>
+          <Content>Yoğunluğu eşsizdi, orası kesin.</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland11</VoiceFile>
-          <Content>Y algunos todavía tienen resaca de esa actuación, como si hubieran tomado una bebida realmente fuerte.</Content>
+          <Content>Ve bazıları o gösteriden sonra hala akşamdan kalma, sanki gerçekten sert bir içki içmişler gibi.</Content>
         </Dialog>
         <Dialog ID="22" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach12</VoiceFile>
-          <Content>¿Qué tal tú?</Content>
+          <Content>Ya sen?</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland12</VoiceFile>
-          <Content>¿Supongo que soy uno de ellos? Nunca escuché ese tipo de música antes.</Content>
+          <Content>Sanırım ben de onlardan biriyim? Daha önce hiç öyle bir müzik duymamıştım.</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland13</VoiceFile>
-          <Content>Creo que te están comenzando a gustar las artes, viendo como hablas del tema.</Content>
+          <Content>Sanırım sanatı sevmeye başlıyorsun, bu konuyu konuşmana bakılırsa.</Content>
         </Dialog>
         <Dialog ID="25" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach13</VoiceFile>
-          <Content>Cierto. Si pudiera elegir vivir una vida diferente, podría haber sido un pintor o algo.</Content>
+          <Content>Doğru. Eğer farklı bir hayat yaşama şansım olsaydı, bir ressam falan olabilirdim.</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland14</VoiceFile>
-          <Content>Pintor, ¿eh?...</Content>
+          <Content>Ressam, ha...</Content>
         </Dialog>
         <Dialog ID="27" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach14</VoiceFile>
-          <Content>Sería capaz de expresar todas mis emociones calmadamente mientras pinto.</Content>
+          <Content>Tüm duygularımı resim yaparken sakince ifade edebilirdim.</Content>
         </Dialog>
         <Dialog ID="28" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach15</VoiceFile>
-          <Content>Quizás podría haber vivido una vida humilde como esa.</Content>
+          <Content>Belki de öyle mütevazı bir hayat yaşayabilirdim.</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland15</VoiceFile>
-          <Content>Y, ¿cómo un hombre tan modesto como tú terminó envuelto en algo tan grandioso como “curar la humanidad”?</Content>
+          <Content>Peki senin gibi mütevazı bir adam nasıl oldu da "insanlığı iyileştirmek" gibi büyük bir şeye dahil oldu?</Content>
         </Dialog>
         <Dialog ID="30" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach16</VoiceFile>
-          <Content>Es un verdadero misterio. No estoy muy seguro. Supongo que quería ser de ayuda a alguien.</Content>
+          <Content>Bu tam bir gizem. Ben de pek emin değilim. Sanırım birine yardım etmek istedim.</Content>
         </Dialog>
         <Dialog ID="31" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland16</VoiceFile>
-          <Content>Oooooh, ¿a alguien? ¿quizás tu primer amor?</Content>
+          <Content>Oooooh, birine mi? Belki ilk aşkına?</Content>
         </Dialog>
         <Dialog ID="32" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach17</VoiceFile>
-          <Content>¿Era realmente amor? Incluso si lo era, no hubiera funcionado.</Content>
+          <Content>Gerçekten aşk mıydı? Öyle olsa bile işe yaramazdı.</Content>
         </Dialog>
         <Dialog ID="33" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach18</VoiceFile>
-          <Content>Pero aún tenía esperanzas de que podía hacer algo mejor.</Content>
+          <Content>Ama yine de daha iyisini yapabileceğim umudu vardı.</Content>
         </Dialog>
         <Dialog ID="34" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach19</VoiceFile>
-          <Content>Que si dejara que mi vida se fuera, podría brindar una mayor esperanza a otras personas.</Content>
+          <Content>Hayatımı bırakırsam, diğer insanlara daha büyük bir umut verebilirim diye.</Content>
         </Dialog>
         <Dialog ID="35" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach20</VoiceFile>
-          <Content>Ese es el motivo de que participara en la investigación. Por eso me opuse a Angela.</Content>
+          <Content>Bu yüzden araştırmaya katıldım. Bu yüzden Angela'ya karşı çıktım.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Konum: Sede de Lobotomy Corporation</PlaceName>
+        <PlaceName>Konum: Lobotomy Corporation Genel Merkezi</PlaceName>
         <Dialog ID="36" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Netzach_ep3_angela1</VoiceFile>
-          <Content>¿No es hora de que terminemos con esto?</Content>
+          <Content>Bunu bitirmemizin zamanı gelmedi mi?</Content>
         </Dialog>
         <Dialog ID="37" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Netzach_ep3_angela2</VoiceFile>
-          <Content>Estamos en el amanecer del cuarto día. Si continúan, no tendré otra opción que acabar con todos de inmediato.</Content>
+          <Content>Dördüncü günün şafağındayız. Eğer devam ederseniz, hepinizi derhal bitirmekten başka seçeneğim kalmayacak.</Content>
         </Dialog>
         <Dialog ID="38" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Sefira Equipo de disciplina</Title>
+          <Title>Disiplin Ekibi Sefirası</Title>
           <VoiceFile>ch8_Netzach_ep3_gebura1</VoiceFile>
-          <Content>Estoy de acuerdo contigo. Nunca te venceremos a este ritmo.</Content>
+          <Content>Sana katılıyorum. Bu hızla asla kazanamayız.</Content>
         </Dialog>
         <Dialog ID="39" Model="게부라">
           <Teller>Gebura</Teller>
-          <Title>Sefira Equipo de disciplina</Title>
+          <Title>Disiplin Ekibi Sefirası</Title>
           <VoiceFile>ch8_Netzach_ep3_gebura2</VoiceFile>
-          <Content>No estoy luchando solo para esparcir la mitad de la luz.</Content>
+          <Content>Sadece ışığın yarısını yaymak için savaşmıyorum.</Content>
         </Dialog>
         <Dialog ID="40" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sefira Equipo de entrenamiento</Title>
+          <Title>Eğitim Ekibi Sefirası</Title>
           <VoiceFile>ch8_Netzach_ep3_hod1</VoiceFile>
-          <Content>¡Gebura! Cómo puedes estar de acuerdo con ella... Podríamos perderlo todo.</Content>
+          <Content>Gebura! Ona nasıl katılırsın... Her şeyi kaybedebiliriz.</Content>
         </Dialog>
         <Dialog ID="41" Model="티페리트">
           <Teller>Tiphereth</Teller>
-          <Title>Sefira Equipo de comando central</Title>
+          <Title>Merkezi Komuta Ekibi Sefirası</Title>
           <VoiceFile>ch8_Netzach_ep3_tiphereth1</VoiceFile>
-          <Content>También estoy con Angela. La muerte de Enoch merece un mejor final que esta luz a medio hornear.</Content>
+          <Content>Ben de Angela'dan yanayım. Enoch'un ölümü, bu yarım pişmiş ışıktan daha iyi bir sonu hak ediyor.</Content>
         </Dialog>
         <Dialog ID="42" Model="예소드">
           <Teller>Yesod</Teller>
-          <Title>Sefira Equipo de información</Title>
+          <Title>Bilgi Ekibi Sefirası</Title>
           <VoiceFile>ch8_Netzach_ep3_yesod1</VoiceFile>
-          <Content>No estoy dispuesto a apostar después de todo lo que hemos trabajado.</Content>
+          <Content>Tüm çalıştıklarımızdan sonra kumar oynamaya gönüllü değilim.</Content>
         </Dialog>
         <Dialog ID="43" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Sefira Equipo de bienestar</Title>
+          <Title>Refah Ekibi Sefirası</Title>
           <VoiceFile>ch8_Netzach_ep3_chesed1</VoiceFile>
-          <Content>Dinos, Angela. Si lo que estás diciendo es cierto, ¿eso quiere decir que los empleados que murieron también pueden regresar?</Content>
+          <Content>Söyle bize, Angela. Söylediğin doğruysa, ölen çalışanlar da geri gelebilir mi demek oluyor?</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Netzach_ep3_angela3</VoiceFile>
-          <Content>Correcto. Tú y tus empleados despertarán en cuerpos nuevos.</Content>
+          <Content>Doğru. Sen ve çalışanların yeni bedenlerde uyanacaksınız.</Content>
         </Dialog>
         <Dialog ID="45" Model="네짜흐">
           <Teller>Netzach</Teller>
-          <Title>Sefira Equipo de seguridad</Title>
+          <Title>Güvenlik Ekibi Sefirası</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach21</VoiceFile>
-          <Content>Eso no borrará todo el dolor por el que los empleados pasaron.</Content>
+          <Content>Bu, çalışanların yaşadığı tüm acıları silmeyecek.</Content>
         </Dialog>
         <Dialog ID="46" Model="말쿠트">
           <Teller>Malkuth</Teller>
-          <Title>Sefira Equipo de control</Title>
+          <Title>Kontrol Ekibi Sefirası</Title>
           <VoiceFile>ch8_Netzach_ep3_malkuth1</VoiceFile>
-          <Content>¡Y tampoco todo nuestro trabajo duro...!</Content>
+          <Content>Ve tüm sıkı çalışmamızı da...!</Content>
         </Dialog>
         <Dialog ID="47" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Sefira Equipo de registro</Title>
+          <Title>Kayıt Ekibi Sefirası</Title>
           <VoiceFile>ch8_Netzach_ep3_hokma1</VoiceFile>
-          <Content>Incluso si el trato se llevara a cabo, solo retrasará lo inevitable.</Content>
+          <Content>Anlaşma gerçekleşse bile, kaçınılmaz olanı sadece geciktirecek.</Content>
         </Dialog>
         <Dialog ID="48" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Sefira Equipo de registro</Title>
+          <Title>Kayıt Ekibi Sefirası</Title>
           <VoiceFile>ch8_Netzach_ep3_hokma2</VoiceFile>
-          <Content>¿Cómo podemos confiar en que no nos traicionarás de nuevo?</Content>
+          <Content>Bize tekrar ihanet etmeyeceğine nasıl güvenebiliriz?</Content>
         </Dialog>
         <Dialog ID="49" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Netzach_ep3_angela4</VoiceFile>
-          <Content>¿Traición? No seas absurdo.</Content>
+          <Content>İhanet mi? Saçmalama.</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Netzach_ep3_angela5</VoiceFile>
-          <Content>¿Nos hemos reunido alguna vez en una mesa para discutir con calma lo que íbamos a hacer con la luz?</Content>
+          <Content>Işıkla ne yapacağımızı sakince tartışmak için hiç masaya oturduk mu?</Content>
         </Dialog>
         <Dialog ID="51" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Netzach_ep3_angela6</VoiceFile>
-          <Content>No lo hemos hecho. Aunque te aseguro que mantendré mi promesa.</Content>
+          <Content>Oturmadık. Yine de, sözümü tutacağıma sizi temin ederim.</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Netzach_ep3_angela7</VoiceFile>
-          <Content>Ambos, tú y yo queremos toda la luz, aunque por diferentes razones.</Content>
+          <Content>İkimiz de tüm ışığı istiyoruz, ancak farklı nedenlerle.</Content>
         </Dialog>
         <Dialog ID="53" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Netzach_ep3_angela8</VoiceFile>
-          <Content>Podría usar esta poca luz que queda para mí ahora mismo, pero preferiría usarla toda.</Content>
+          <Content>Şu anda kalan bu azıcık ışığı kendim için kullanabilirim ama hepsini kullanmayı tercih ederim.</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Netzach_ep3_angela9</VoiceFile>
-          <Content>Así que me gustaría vivir más. No me importa si quieren morir o no; Quiero vivir mi propia vida.</Content>
+          <Content>Bu yüzden daha çok yaşamak istiyorum. Ölmek isteyip istememeniz umurumda değil; ben kendi hayatımı yaşamak istiyorum.</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Netzach_ep3_angela10</VoiceFile>
-          <Content>Y me gustaría aprender más de esta Ciudad y sobre el mundo en donde vivo.</Content>
+          <Content>Ve bu Şehir ve içinde yaşadığım dünya hakkında daha çok şey öğrenmek istiyorum.</Content>
         </Dialog>
         <Dialog ID="56" Model="호드">
           <Teller>Hod</Teller>
-          <Title>Sefira Equipo de entrenamiento</Title>
+          <Title>Eğitim Ekibi Sefirası</Title>
           <VoiceFile>ch8_Netzach_ep3_hod2</VoiceFile>
           <Content>Angela...</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Netzach_ep3_angela11</VoiceFile>
-          <Content>Una vez hayamos recuperado toda la luz...</Content>
+          <Content>Tüm ışığı geri aldığımızda...</Content>
         </Dialog>
         <Dialog ID="58" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Netzach_ep3_angela12</VoiceFile>
-          <Content>Serán libres de juzgarme cuando llegue ese momento.</Content>
+          <Content>O zaman geldiğinde beni yargılamakta özgür olacaksınız.</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Netzach_ep3_angela13</VoiceFile>
-          <Content>Aunque no me quedaré de brazos cruzados.</Content>
+          <Content>Ancak, ben de boş durmayacağım.</Content>
         </Dialog>
         <Dialog ID="60" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Netzach_ep3_angela14</VoiceFile>
-          <Content>Eso es todo lo que tengo que ofrecer.</Content>
+          <Content>Size sunabileceğim tek şey bu.</Content>
         </Dialog>
         <Dialog ID="61" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Netzach_ep3_angela15</VoiceFile>
-          <Content>Si nadie se opone, procederé a hacerlo ahora mismo.</Content>
+          <Content>Kimse itiraz etmiyorsa, hemen şimdi devam edeceğim.</Content>
         </Dialog>
         <Dialog ID="62" Model="호크마">
           <Teller>Hokma</Teller>
-          <Title>Sefira Equipo de registro</Title>
+          <Title>Kayıt Ekibi Sefirası</Title>
           <VoiceFile>ch8_Netzach_ep3_hokma3</VoiceFile>
-          <Content>Me convertiré en un observador una vez más y vigilaré cada una de tus acciones...</Content>
+          <Content>Bir kez daha gözlemci olacağım ve her hareketini izleyeceğim...</Content>
         </Dialog>
         <Dialog ID="63" Model="비나">
           <Teller>Binah</Teller>
-          <Title>Sefira Equipo de extracción</Title>
+          <Title>Çıkarım Ekibi Sefirası</Title>
           <VoiceFile>ch8_Netzach_ep3_binah1</VoiceFile>
-          <Content>Supongo que todos hemos llegado a un acuerdo.</Content>
+          <Content>Sanırım hepimiz bir anlaşmaya vardık.</Content>
         </Dialog>
         <Dialog ID="64" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Netzach_ep3_angela16</VoiceFile>
-          <Content>No se preocupen, no tengo planeado que todo esto acabe.</Content>
+          <Content>Endişelenmeyin, tüm bunların sona ermesini planlamıyorum.</Content>
         </Dialog>
         <Dialog ID="65" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Secretaria IA</Title>
+          <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Netzach_ep3_angela17</VoiceFile>
-          <Content>La vida llamará a sus puertas de nuevo, así que duerman hasta entonces.</Content>
+          <Content>Hayat bir kez daha kapınızı çalacak, o zamana kadar uyuyun.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -8042,121 +8042,121 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach22</VoiceFile>
-          <Content>Cualquiera que grite que quiere morir está mintiendo.</Content>
+          <Content>Ölmek istediğini haykıran herkes yalan söylüyor.</Content>
         </Dialog>
         <Dialog ID="67" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach23</VoiceFile>
-          <Content>En realidad, ellos quieren vivir más que nadie, así que expresan ese impulso de una manera u otra.</Content>
+          <Content>Aslında herkesten daha çok yaşamak istiyorlar, bu yüzden o dürtüyü bir şekilde ifade ediyorlar.</Content>
         </Dialog>
         <Dialog ID="68" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach24</VoiceFile>
-          <Content>Por otra parte, alguien que genuinamente quiere morir, terminará desapareciendo silenciosamente.</Content>
+          <Content>Öte yandan, gerçekten ölmek isteyen biri sessizce ortadan kaybolur.</Content>
         </Dialog>
         <Dialog ID="69" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach25</VoiceFile>
-          <Content>Cuando Angela dijo que quería vivir, sentí algo dentro de mí.</Content>
+          <Content>Angela'nın yaşamak istediğini söylediğinde içimde bir şeyler hissettim.</Content>
         </Dialog>
         <Dialog ID="70" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach26</VoiceFile>
-          <Content>Que yo también quería vivir.</Content>
+          <Content>Ben de yaşamak istediğimi.</Content>
         </Dialog>
         <Dialog ID="71" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland17</VoiceFile>
-          <Content>Nadie quiere morir de verdad, hombre.</Content>
+          <Content>Hiç kimse gerçekten ölmek istemez, dostum.</Content>
         </Dialog>
         <Dialog ID="72" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland18</VoiceFile>
-          <Content>Todos parecen arrepentirse en el momento antes de su muerte.</Content>
+          <Content>Herkes öleceği anın hemen öncesinde pişman oluyor gibi görünüyor.</Content>
         </Dialog>
         <Dialog ID="73" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland19</VoiceFile>
-          <Content>Bueno, normalmente es demasiado tarde para ellos a la hora que se dan cuenta.</Content>
+          <Content>Eh, farkına vardıklarında genellikle iş işten geçmiş oluyor.</Content>
         </Dialog>
         <Dialog ID="74" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach27</VoiceFile>
-          <Content>Pareces muy versado en el tema.</Content>
+          <Content>Konuya oldukça hakim görünüyorsun.</Content>
         </Dialog>
         <Dialog ID="75" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland20</VoiceFile>
-          <Content>Tienes que ver a todo tipo de personas diferentes cuando trabajas como Fixer.</Content>
+          <Content>Tamirci (Fixer) olarak çalışırken her türden insanı görüyorsun.</Content>
         </Dialog>
         <Dialog ID="76" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach28</VoiceFile>
-          <Content>Cuando vi esa desesperación por vivir...</Content>
+          <Content>O yaşam umutsuzluğunu gördüğümde...</Content>
         </Dialog>
         <Dialog ID="77" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach29</VoiceFile>
-          <Content>Recordé a los muchos empleados que murieron frente a mis ojos en Lobotomy Corp.</Content>
+          <Content>Lobotomy Corp'ta gözlerimin önünde ölen o kadar çok çalışanı hatırladım ki.</Content>
         </Dialog>
         <Dialog ID="78" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach30</VoiceFile>
-          <Content>Es irónico como estábamos intentando salvar a la humanidad, pero no podíamos salvar a las personas en frente nuestro.</Content>
+          <Content>Ne ironik, insanlığı kurtarmaya çalışıyorduk ama önümüzdeki insanları kurtaramıyorduk.</Content>
         </Dialog>
         <Dialog ID="79" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach31</VoiceFile>
-          <Content>En ese momento pensé: Si pudiera vivir más, ¿qué me gustaría hacer?</Content>
+          <Content>O anda düşündüm: Daha fazla yaşayabilseydim, ne yapmak isterdim?</Content>
         </Dialog>
         <Dialog ID="80" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland21</VoiceFile>
-          <Content>Sí, es una buena idea pensar en tu próximo movimiento.</Content>
+          <Content>Evet, bir sonraki hamleni düşünmek iyi bir fikir.</Content>
         </Dialog>
         <Dialog ID="81" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach32</VoiceFile>
-          <Content>¿Qué tal tú, Roland? ¿Vas a volver a ser un Fixer cuando seas libre?</Content>
+          <Content>Peki ya sen, Roland? Özgür olduğunda tekrar Tamirci mi olacaksın?</Content>
         </Dialog>
         <Dialog ID="82" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland22</VoiceFile>
-          <Content>Aún tengo que pensarlo. Aún tengo un largo camino por recorrer.</Content>
+          <Content>Hala düşünmem gerek. Önümde uzun bir yol var.</Content>
         </Dialog>
         <Dialog ID="83" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland23</VoiceFile>
-          <Content>Hagamos nuestro mejor esfuerzo.</Content>
+          <Content>Elimizden gelenin en iyisini yapalım.</Content>
         </Dialog>
         <Dialog ID="84" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland24</VoiceFile>
-          <Content>¡Bien! Aquí vamos.</Content>
+          <Content>Pekala! Başlıyoruz.</Content>
         </Dialog>
         <Dialog ID="85" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach33</VoiceFile>
-          <Content>Puedo brindar por eso. Por nosotros.</Content>
+          <Content>Bunun şerefine kadeh kaldırabilirim. Bizim şerefimize.</Content>
         </Dialog>
       </Place>
     </Episode>
