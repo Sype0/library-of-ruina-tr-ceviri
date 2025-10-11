@@ -8160,549 +8160,549 @@ Aprecio vuestra ayuda.</Content>
         </Dialog>
       </Place>
     </Episode>
-    <Episode>
-      <EpisodeName>Episode 4</EpisodeName>
+<Episode>
+      <EpisodeName>Bölüm 4</EpisodeName>
       <Place>
         <PlaceName>Konum: Kütüphane - Sanat Katı</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland1</VoiceFile>
-          <Content>No hueles a alcohol hoy. ¿Qué sucedio?</Content>
+          <Content>Bugün alkol kokmuyorsun. Ne oldu?</Content>
         </Dialog>
         <Dialog ID="1" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach1</VoiceFile>
-          <Content>Es porque no he bebido. Quería estar sobrio hoy.</Content>
+          <Content>Çünkü içmedim. Bugün ayık kalmak istedim.</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland2</VoiceFile>
-          <Content>Mmm... ¿Qué te ha pasado?</Content>
+          <Content>Hım... Sana ne oldu böyle?</Content>
         </Dialog>
         <Dialog ID="3" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach2</VoiceFile>
-          <Content>Pareces muy triste por perder una oportunidad de beber.</Content>
+          <Content>İçki içme fırsatını kaçırdığın için çok üzgün görünüyorsun.</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland3</VoiceFile>
-          <Content>Ups, ¿se notaba mucho?</Content>
+          <Content>Hata, çok mu belli oldu?</Content>
         </Dialog>
         <Dialog ID="5" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach3</VoiceFile>
-          <Content>Bueno, hoy es un día especial.</Content>
+          <Content>Şey, bugün özel bir gün.</Content>
         </Dialog>
         <Dialog ID="6" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach4</VoiceFile>
-          <Content>El día que yo morí y me desvanecí de este mundo.</Content>
+          <Content>Benim öldüğüm ve bu dünyadan kaybolduğum gün.</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland4</VoiceFile>
-          <Content>¿En serio? ¿Qué fecha es hoy?</Content>
+          <Content>Cidden mi? Bugün ayın kaçı?</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland5</VoiceFile>
-          <Content>Es difícil mantener la pista del tiempo estando aquí.</Content>
+          <Content>Burada zamanı takip etmek zor.</Content>
         </Dialog>
         <Dialog ID="9" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach5</VoiceFile>
-          <Content>La fecha no importa realmente.</Content>
+          <Content>Tarihin pek önemi yok aslında.</Content>
         </Dialog>
         <Dialog ID="10" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach6</VoiceFile>
-          <Content>Es el momento exacto el que estoy conmemorando.</Content>
+          <Content>Benim kutladığım an, o anın kendisi.</Content>
         </Dialog>
         <Dialog ID="11" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach7</VoiceFile>
-          <Content>Aprendí sobre la vida y la muerte de Giovanni, mi primera encarnación.</Content>
+          <Content>İlk enkarnasyonum olan Giovanni'nin hayatı ve ölümü hakkında bilgi edindim.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland6</VoiceFile>
-          <Content>Eso es lo que querías decir, ¿eh?...</Content>
+          <Content>Söylemek istediğin şey bu muydu, ha...</Content>
         </Dialog>
         <Dialog ID="13" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach8</VoiceFile>
-          <Content>¿Piensas que los seguidores de la Iglesia de los engranajes son una banda de tontos, Roland?</Content>
+          <Content>Sence Dişli Çarklar Kilisesi'nin takipçileri bir grup aptal mı, Roland?</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland7</VoiceFile>
-          <Content>¿Quieres decir por lo desesperados que están por encontrar un sentido a sus vidas, yendo tan lejos como para unirse a un culto?</Content>
+          <Content>Yani, hayatlarına bir anlam bulma umutsuzluğu yüzünden bir tarikata katılacak kadar ileri gitmeleri mi demek istiyorsun?</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland8</VoiceFile>
-          <Content>Nah, no pienso que sean tontos. Solo son lamentables.</Content>
+          <Content>Yok, aptal olduklarını düşünmüyorum. Sadece acınasılar.</Content>
         </Dialog>
         <Dialog ID="16" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach9</VoiceFile>
-          <Content>Eso es lo que también pienso.</Content>
+          <Content>Ben de öyle düşünüyorum.</Content>
         </Dialog>
         <Dialog ID="17" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach10</VoiceFile>
-          <Content>Crecí sin nadie a quien llamar padres.</Content>
+          <Content>Ben kimseye baba diyemeden büyüdüm.</Content>
         </Dialog>
         <Dialog ID="18" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland9</VoiceFile>
-          <Content>Lo mismo aquí. Fui criado por mi abuela, tuve una infancia bastante dura.</Content>
+          <Content>Ben de aynı. Büyükannem beni büyüttü, oldukça zor bir çocukluk geçirdim.</Content>
         </Dialog>
         <Dialog ID="19" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach11</VoiceFile>
-          <Content>Nací en un Nido y fui dejado en un orfanato sin saber quienes eran mis padres.</Content>
+          <Content>Bir Yuva'da doğdum ve ebeveynlerimin kim olduğunu bilmeden bir yetimhaneye bırakıldım.</Content>
         </Dialog>
         <Dialog ID="20" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach12</VoiceFile>
-          <Content>Ya hubiera muerto si hubiera estado en las Callejuelas.</Content>
+          <Content>Eğer Arka Sokaklar'da olsaydım çoktan ölmüş olurdum.</Content>
         </Dialog>
         <Dialog ID="21" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach13</VoiceFile>
-          <Content>Pero fui bastante afortunado de haber nacido en un Nido y desafortunado por haber perdido a mis padres tan pronto.</Content>
+          <Content>Ama bir Yuva'da doğduğum için oldukça şanslıydım ve ebeveynlerimi bu kadar erken kaybettiğim için şanssız.</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland10</VoiceFile>
-          <Content>¿Qué Nido era?</Content>
+          <Content>Hangi Yuva'ydı?</Content>
         </Dialog>
         <Dialog ID="23" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach14</VoiceFile>
-          <Content>El de K Corp.</Content>
+          <Content>K Şirketi'ninki.</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland11</VoiceFile>
-          <Content>Ese es bastante decente por lo que he escuchado.</Content>
+          <Content>Duyduğuma göre orası oldukça iyi.</Content>
         </Dialog>
         <Dialog ID="25" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach15</VoiceFile>
-          <Content>Sep. Mi vida fue bastante bien. Ligeramente más desafortunada que otras y ligeramente más afortunada también.</Content>
+          <Content>Evet. Hayatım oldukça iyiydi. Diğerlerinden biraz daha şanssız ve biraz daha şanslı da.</Content>
         </Dialog>
         <Dialog ID="26" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach16</VoiceFile>
-          <Content>Nunca pase hambre ni fui intimidado por nadie.</Content>
+          <Content>Hiç aç kalmadım ya da kimse tarafından zorbalığa uğramadım.</Content>
         </Dialog>
         <Dialog ID="27" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach17</VoiceFile>
-          <Content>Tuve una vida protegida, libre de las influencias externas.</Content>
+          <Content>Dış etkilerden uzak, korunaklı bir hayat yaşadım.</Content>
         </Dialog>
         <Dialog ID="28" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach18</VoiceFile>
-          <Content>Todo lo que hacía era respirar en ese cascarón sin significado. Pensé que era normal hacerlo.</Content>
+          <Content>Tüm yaptığım, o anlamsız kabuğun içinde nefes almaktı. Bunu yapmanın normal olduğunu sanıyordum.</Content>
         </Dialog>
         <Dialog ID="29" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach19</VoiceFile>
-          <Content>Todos tenían la misma expresión que yo.</Content>
+          <Content>Herkesin yüz ifadesi benimkiyle aynıydı.</Content>
         </Dialog>
         <Dialog ID="30" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach20</VoiceFile>
-          <Content>En la escuela o en las calles, todas las personas en el Nido hacían la misma cara.</Content>
+          <Content>Okulda veya sokaklarda, Yuva'daki herkes aynı yüzü takınıyordu.</Content>
         </Dialog>
         <Dialog ID="31" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland12</VoiceFile>
-          <Content>¿Perdidas de concentración, espaciados y mirando a sitios vacíos?</Content>
+          <Content>Dalgın, boş boş bakan ve boşluklara odaklanan yüzler mi?</Content>
         </Dialog>
         <Dialog ID="32" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach21</VoiceFile>
-          <Content>Mmm. Lo has clavado. Me di cuenta de la vida mientras pasaba.</Content>
+          <Content>Hım. Tam isabet. Hayatın gelip geçtiğini fark ettim.</Content>
         </Dialog>
         <Dialog ID="33" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep4_netzach22</VoiceFile>
-          <Content>Seguí viviendo una vida monótona... Hasta el momento que conocí a una cara que nunca había visto antes.</Content>
+          <VoiceFile>ch8_Netzach_ep4_netzach22</VoiceContent>
+          <Content>Tekdüze bir hayat yaşamaya devam ettim... Daha önce hiç görmediğim bir yüzle tanışana kadar.</Content>
         </Dialog>
         <Dialog ID="34" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland13</VoiceFile>
-          <Content>¡Oh! Dejame adivinar, ¿conociste a tu primer amor?</Content>
+          <Content>Oh! Tahmin edeyim, ilk aşkınla mı tanıştın?</Content>
         </Dialog>
         <Dialog ID="35" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach23</VoiceFile>
-          <Content>... Supongo. Era el primer amor de Giovanni, para ser exacto.</Content>
+          <Content>...Sanırım öyle. Daha doğrusu Giovanni'nin ilk aşkıydı.</Content>
         </Dialog>
         <Dialog ID="36" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach24</VoiceFile>
-          <Content>Ella estaba dando un discurso muy apasionado en el medio de la calle, incluso aunque nadie le prestaba atención.</Content>
+          <Content>Kimse dikkat etmese bile, sokağın ortasında çok tutkulu bir konuşma yapıyordu.</Content>
         </Dialog>
         <Dialog ID="37" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach25</VoiceFile>
-          <Content>Casi no entendía lo que ella estaba diciendo.</Content>
+          <Content>Ne dediğini pek anlamadım.</Content>
         </Dialog>
         <Dialog ID="38" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach26</VoiceFile>
-          <Content>Todo lo que podía pensar era en lo brillante y viva que esa persona era.</Content>
+          <Content>Tüm düşünebildiğim, o kişinin ne kadar parlak ve canlı olduğuydu.</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland14</VoiceFile>
-          <Content>¿Amor a primera vista, eh?</Content>
+          <Content>İlk görüşte aşk, ha?</Content>
         </Dialog>
         <Dialog ID="40" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach27</VoiceFile>
-          <Content>Ella decía que iba a cambiar este mundo y a su gente.</Content>
+          <Content>Bu dünyayı ve insanlarını değiştireceğini söylüyordu.</Content>
         </Dialog>
         <Dialog ID="41" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach28</VoiceFile>
-          <Content>Y estaba buscando personas que se unieran a su causa.</Content>
+          <Content>Ve davasına katılacak insanlar arıyordu.</Content>
         </Dialog>
         <Dialog ID="42" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach29</VoiceFile>
-          <Content>¿No es tonto? ¿Quién en el Nido dejaría sus cómodas vidas por una investigación como esa?</Content>
+          <Content>Aptalca değil mi? Yuva'da kim, böyle bir araştırma için rahat hayatını bırakır ki?</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland15</VoiceFile>
-          <Content>Aun así lo hiciste.</Content>
+          <Content>Ama sen yaptın.</Content>
         </Dialog>
         <Dialog ID="44" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach30</VoiceFile>
-          <Content>Cierto. Quizás ella fue a las calles esperando encontrar a alguien como Giovanni.</Content>
+          <Content>Doğru. Belki de sokaklara Giovanni gibi birini bulma umuduyla gitmişti.</Content>
         </Dialog>
         <Dialog ID="45" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach31</VoiceFile>
-          <Content>Su nombre era Carmen.</Content>
+          <Content>Adı **Carmen**'di.</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland16</VoiceFile>
-          <Content>Carmen, ¿eh?...</Content>
+          <Content>Carmen, ha...</Content>
         </Dialog>
         <Dialog ID="47" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach32</VoiceFile>
-          <Content>Cuando vi a Carmen rebosando de alegría y orgullo por su causa, también me sentí vivo.</Content>
+          <Content>Carmen'i davasıyla ilgili neşe ve gururla dolup taşarken görünce, ben de **canlı** hissettim.</Content>
         </Dialog>
         <Dialog ID="48" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach33</VoiceFile>
-          <Content>Quería estar con ella por siempre.</Content>
+          <Content>Sonsuza kadar onunla olmak istedim.</Content>
         </Dialog>
         <Dialog ID="49" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach34</VoiceFile>
-          <Content>Aunque ella probablemente solo me veía como un buen amigo o un colega y nada más.</Content>
+          <Content>Gerçi o muhtemelen beni sadece iyi bir arkadaş ya da meslektaş olarak görüyordu, başka bir şey değil.</Content>
         </Dialog>
         <Dialog ID="50" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland17</VoiceFile>
-          <Content>Ah, la agonía desgarradora del amor no correspondido.</Content>
+          <Content>Ah, karşılıksız aşkın **yürek parçalayıcı** ızdırabı.</Content>
         </Dialog>
         <Dialog ID="51" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach35</VoiceFile>
-          <Content>Eso no importaba mucho. Estaba contento con vivir de esa forma.</Content>
+          <Content>Bunun pek önemi yoktu. Öyle yaşamaktan memnundum.</Content>
         </Dialog>
         <Dialog ID="52" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach36</VoiceFile>
-          <Content>Pero...</Content>
+          <Content>Ama...</Content>
         </Dialog>
         <Dialog ID="53" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland18</VoiceFile>
-          <Content>Entonces algo sucedió con el equipo de investigación, ¿verdad?</Content>
+          <Content>Sonra araştırma ekibinde bir şeyler oldu, değil mi?</Content>
         </Dialog>
         <Dialog ID="54" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach37</VoiceFile>
-          <Content>Sí. Lentamente...</Content>
+          <Content>Evet. Yavaş yavaş...</Content>
         </Dialog>
         <Dialog ID="55" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach38</VoiceFile>
-          <Content>El progreso de nuestra investigación se estancó y Carmen perdió gradualmente su viveza.</Content>
+          <Content>Araştırmamızın ilerlemesi durdu ve Carmen **giderek** canlılığını kaybetti.</Content>
         </Dialog>
         <Dialog ID="56" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach39</VoiceFile>
-          <Content>Y entonces, cuando un niño llamado Enoch murió durante un experimento...</Content>
+          <Content>Ve sonra, **Enoch** adında bir çocuk bir deney sırasında öldüğünde...</Content>
         </Dialog>
         <Dialog ID="57" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach40</VoiceFile>
-          <Content>Fue como si algo dentro de ella se rompiera.</Content>
+          <Content>Sanki içinde bir şey kırılmıştı.</Content>
         </Dialog>
         <Dialog ID="58" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach41</VoiceFile>
-          <Content>Quería animarla de alguna manera, pero ver la cara letárgica de Carmen me asustaba demasiado. Fue como si yo hubiera sido borrado del mundo.</Content>
+          <Content>Onu bir şekilde neşelendirmek istedim, ama Carmen'in uyuşuk yüzünü görmek beni çok korkuttu. Sanki ben de dünyadan silinmiştim.</Content>
         </Dialog>
         <Dialog ID="59" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach42</VoiceFile>
-          <Content>Y Carmen terminó con su propia vida poco después de eso.</Content>
+          <Content>Ve Carmen kısa bir süre sonra **kendi canına kıydı**.</Content>
         </Dialog>
         <Dialog ID="60" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland19</VoiceFile>
-          <Content>Eso suena bastante trágico. Debió haberte impactado muchísimo.</Content>
+          <Content>Bu oldukça trajik geliyor. Seni çok etkilemiş olmalı.</Content>
         </Dialog>
         <Dialog ID="61" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach43</VoiceFile>
-          <Content>Lo pude soportar de alguna manera. Estaba muy calmado sobre eso.</Content>
+          <Content>Bir şekilde dayanabildim. Buna karşı çok sakindim.</Content>
         </Dialog>
         <Dialog ID="62" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach44</VoiceFile>
-          <Content>Pensé, incluso la persona más viva puede tener un temprano y miserable final.</Content>
+          <Content>Düşündüm ki, en canlı insan bile erken ve sefil bir sona sahip olabilir.</Content>
         </Dialog>
         <Dialog ID="63" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach45</VoiceFile>
-          <Content>Decidí quedarme en el laboratorio para ayudar a completar la investigación que Carmen comenzó.</Content>
+          <Content>Carmen'in başlattığı araştırmayı tamamlamaya yardım etmek için laboratuvarda kalmaya karar verdim.</Content>
         </Dialog>
         <Dialog ID="64" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach46</VoiceFile>
-          <Content>Sus compañeros seguían ahí, aún no perdían las esperanza.</Content>
+          <Content>Yoldaşları hala oradaydı, hala umutlarını kaybetmemişlerdi.</Content>
         </Dialog>
         <Dialog ID="65" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach47</VoiceFile>
-          <Content>Entonces, un día dijeron que podría ser posible salvar a Carmen.</Content>
+          <Content>Sonra, bir gün Carmen'i kurtarmanın mümkün olabileceğini söylediler.</Content>
         </Dialog>
         <Dialog ID="66" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland20</VoiceFile>
-          <Content>Una oferta tentadora, ¿no es así?</Content>
+          <Content>Cazip bir teklif, değil mi?</Content>
         </Dialog>
         <Dialog ID="67" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach48</VoiceFile>
-          <Content>Lo era. Y...</Content>
+          <Content>Öyleydi. Ve...</Content>
         </Dialog>
         <Dialog ID="68" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland21</VoiceFile>
-          <Content>Supongo que venía con un precio.</Content>
+          <Content>Sanırım bir bedeli vardı.</Content>
         </Dialog>
         <Dialog ID="69" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach49</VoiceFile>
-          <Content>Era un experimento arriesgado. El sujeto podía entrar en un coma permanente si iba mal.</Content>
+          <Content>Riskli bir deneydi. Ters giderse denek kalıcı bir komaya girebilirdi.</Content>
         </Dialog>
         <Dialog ID="70" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach50</VoiceFile>
-          <Content>Nadie quería participar, así que me ofrecí voluntario.</Content>
+          <Content>Kimse katılmak istemedi, ben de **gönüllü oldum**.</Content>
         </Dialog>
         <Dialog ID="71" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach51</VoiceFile>
-          <Content>Si Carmen volvía sería el resultado ideal, pero incluso si fallara y terminaba durmiendo para siempre, estaba bien con eso.</Content>
+          <Content>Carmen geri gelirse ideal sonuç olurdu, ama başarısız olup sonsuza kadar uyursam bile sorun değildi.</Content>
         </Dialog>
         <Dialog ID="72" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach52</VoiceFile>
-          <Content>De todos modos, en un mundo sin Carmen, había perdido mi luz.</Content>
+          <Content>Zaten, Carmen'siz bir dünyada ışığımı kaybetmiştim.</Content>
         </Dialog>
         <Dialog ID="73" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach53</VoiceFile>
-          <Content>Así que puedo entender a las personas que toman medidas desesperadas para encontrar el significado en sus vidas, como la Iglesia de los Engranajes que acabamos de ver.</Content>
+          <Content>Bu yüzden, az önce gördüğümüz Dişli Çarklar Kilisesi gibi, hayatlarında anlam bulmak için umutsuz önlemler alan insanları anlayabiliyorum.</Content>
         </Dialog>
         <Dialog ID="74" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach54</VoiceFile>
-          <Content>Participé en un experimento que podría haberme matado por una razón similar. Y su resultado fue...</Content>
+          <Content>Benzer bir nedenle beni öldürebilecek bir deneye katıldım. Ve sonucu şuydu...</Content>
         </Dialog>
         <Dialog ID="75" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland22</VoiceFile>
-          <Content>Un fallo, ¿no?</Content>
+          <Content>Başarısızlık, değil mi?</Content>
         </Dialog>
         <Dialog ID="76" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach55</VoiceFile>
-          <Content>Sep. Entonces conseguí mi segunda vida. Desperté en Lobotomy Corp. como Netzach.</Content>
+          <Content>Evet. Sonra ikinci hayatımı kazandım. Lobotomy Corp'ta **Netzach** olarak uyandım.</Content>
         </Dialog>
         <Dialog ID="77" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach56</VoiceFile>
-          <Content>Incluso aunque había abandonado toda unión con la vida antes de morir...</Content>
+          <Content>Ölmeden önce hayatla olan tüm bağlarımı koparmış olsam bile...</Content>
         </Dialog>
         <Dialog ID="78" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach57</VoiceFile>
-          <Content>En el medio de la confusión, pude escuchar una voz nostálgica. Me dijo que intentara vivir.</Content>
+          <Content>Kargaşanın ortasında, **nostaljik bir ses** duyabiliyordum. Bana yaşamaya çalışmamı söyledi.</Content>
         </Dialog>
         <Dialog ID="79" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach58</VoiceFile>
-          <Content>Después de todos esos giros, finalmente llegamos aquí. Ahora con la valentía de seguir viviendo.</Content>
+          <Content>Tüm bu dönüşlerden sonra nihayet buraya geldik. Şimdi yaşamaya devam etme **cesareti** ile.</Content>
         </Dialog>
         <Dialog ID="80" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland23</VoiceFile>
-          <Content>Ese es un espíritu encomiable, Netz.</Content>
+          <Content>Bu övgüye değer bir ruh, Netz.</Content>
         </Dialog>
         <Dialog ID="81" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach59</VoiceFile>
-          <Content>Y ahora, quiero vivir, no solo existir mientras no hago nada más que respirar.</Content>
+          <Content>Ve şimdi, sadece nefes alıp hiçbir şey yapmadan var olmak değil, **yaşamak** istiyorum.</Content>
         </Dialog>
         <Dialog ID="82" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach60</VoiceFile>
-          <Content>Si tengo la oportunidad, claro.</Content>
+          <Content>Eğer bir şansım olursa, tabii ki.</Content>
         </Dialog>
         <Dialog ID="83" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach61</VoiceFile>
-          <Content>Estoy comenzando a pensar que podría ser posible esta vez.</Content>
+          <Content>Bu sefer mümkün olabileceğini düşünmeye başlıyorum.</Content>
         </Dialog>
         <Dialog ID="84" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach62</VoiceFile>
-          <Content>El mundo es más grande de lo que pensaba y hay un montón de sitios horribles, pero ciertamente hay belleza por ser encontrada.</Content>
+          <Content>Dünya düşündüğümden daha büyük ve bir sürü korkunç yer var, ama kesinlikle bulunacak **güzellikler** de var.</Content>
         </Dialog>
         <Dialog ID="85" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland24</VoiceFile>
-          <Content>Supongo que tu hábito de beber era un mecanismo de defensa para superar cada día.</Content>
+          <Content>Sanırım içki alışkanlığın, her günün üstesinden gelmek için bir savunma mekanizmasıydı.</Content>
         </Dialog>
         <Dialog ID="86" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach63</VoiceFile>
-          <Content>Supongo que sí. Aunque ahora disfruto el alcohol por lo que es.</Content>
+          <Content>Sanırım öyleydi. Gerçi şimdi alkolün tadını olduğu gibi çıkarıyorum.</Content>
         </Dialog>
         <Dialog ID="87" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland25</VoiceFile>
-          <Content>Lo mismo para mí.</Content>
+          <Content>Benim için de aynı.</Content>
         </Dialog>
         <Dialog ID="88" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep4_netzach64</VoiceFile>
-          <Content>Me dieron ganas de beber. ¿Deberiamos?</Content>
+          <Content>Canım içki çekti. İçelim mi?</Content>
         </Dialog>
         <Dialog ID="89" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland26</VoiceFile>
-          <Content>¡Estoy a bordo! Brindemos por hoy.</Content>
+          <Content>Ben varım! Bugünün şerefine kadeh kaldıralım.</Content>
         </Dialog>
       </Place>
     </Episode>
