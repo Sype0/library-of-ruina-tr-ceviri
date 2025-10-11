@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>2</GroupName>
+  <Character ID="Esther">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Gözlerinizi kapalı tutun. Gereksiz dikkat dağıtıcı şeylerden kaçının.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Pozisyonlarınızı koruyun. Onların saldırılarını karşılamaya hazır olmalıyız.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Biz, Buyrulmuş Olanlar'ın iradesinin vekilleri olarak hareket ediyoruz.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Belki de yeni bir Haberci ile tanışma zamanıdır.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Buyrulmuş Olanlar bizi doğru yoldan şaşırmaz.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bu sonucu reddedemem. Bize galip geleceğimizi asla söylemedi…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Yüce bir varlık için yaşayanlar, ölümü de onun anlamlarından biri olarak kabul etmeye hazır olmalıdır.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Harekete geçme ve Buyrulmuş Olan'ı yerine getirme zamanı.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Göklere ulaşan en yüksek zirveler bile kırılabilir.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">Unutmayın. İhmalkar davranış sizi ölüme götürür.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">Geriye kalanlar Buyrulmuş Olan'ı yerine getirmeye devam edecek.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bahane yok.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Bu an geldiğinde ölmeye mahkumdun.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">… Buyrulmuş Olan neredeyse tamamlandı.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Hubert">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Burada kimin yaşayıp öleceğini sadece Buyrulmuş Olanlar bilir.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">… Buyrulmuş Olan'ı yerine getirin.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Ne kadar yetenekli olabileceklerini hayal bile edemiyorum.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Dışarıda bizi bekleyen başka bir Buyrulmuş Olan var.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">… Dışarıda bizi bekleyen başka bir Buyrulmuş Olan var.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Belirlenen seyre karşı hiçbir şikayetim yok.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Buyrulmuş Olanlar'ın belirlediği kadere kim karşı çıkabilir ki.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Bunun olması mukadderdi.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Gözlerimin önünde olanlardan rahatsız olamam.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">Belirlenen yolu değiştirmenin bir yolu yok.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">Görevimizi yerine getiriyoruz.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Gülünç. İradenizin sunabileceği tek şey bu muydu?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Tek bir kesikle bitti…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">… Bu oldukça karmaşık.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Gloria">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Ne kadar da yaramaz bir çocuk bu Yan~ Bizi buraya gönderip kendi başına başka bir yere gidemez!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Buyrulmuş Olanlar'ı yerine getirmenin bir başka günü~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Buyrulmuş Olanlar bizi her zaman doğru yere götürür~</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bunu tamamlamak zor değildi~</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Kitapları almak Buyrulmuş Olan'ın bir parçası mı~?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Ne kadar üzücü~ Ama ne yapabilirim ki…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Böyle ölmek zorunda kalman ne yazık~</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Geri kalanımız Buyrulmuş Olan'ı bir şekilde tamamlayacak, değil mi~?</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Hım, bu bir test olabilir mi~?</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">Sonumun ne zaman geleceğini merak ediyorum~</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">Hala bizi yanlış yola götürmez~</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Tıpkı kapıda bizi selamlayan Liğray gibiydin~ Yarım olduğun için yarım pişmişsin.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Kırgınlık yok~ Bu Buyrulmuş Olanlar'ın iradesi.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bu Buyrulmuş Olan'ı neredeyse tamamladık~</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Index(with Proxy)">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">…</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

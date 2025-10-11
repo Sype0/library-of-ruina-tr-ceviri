@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>PupleTear</GroupName>
+  <Character ID="PupleTear">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Pekala o zaman… Becerilerinizi test etmeli miyim?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Kütüphane ne kadar büyüdü merak ediyorum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Madem zamanımız var, yavaşça ısınmaya başlayalım.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Biraz daha bekliyordum ama sanırım henüz o noktada değiller…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Eğlenceliydi. Ammavelakin… henüz istediğim yerde değiller.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Güzel… Yavaş ama sürekli güçleniyorlar.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hala fark etmediniz, değil mi?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Mmm, bu beklentilerimin altında.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bu kadar uzun süre dayanarak mükemmel bir iş çıkardın. Sanırım fena değil.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Bir dahaki karşılaşmamızda daha iyi hazırlanmalısınız.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Oldukça iyisin. Bir dövüşte bu kadar baskı hissettiğimden beri zaman geçti.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_5">Ah, ve o kadar kendinden emindin ki… yapabileceğinin en iyisi bu mu?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="PupleTear_MeetBinah">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Şey… Burada olman sürpriz değil.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Seni daha önce birkaç kez görmüştüm, bu yüzden……</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Böyle bir varlığa rağmen, bir fark olmadı.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Haha… Bu ilginç…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">İşlerin bu sefer farklı olacağını sanmıştım.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="PupleTear_MeetGebura">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Seni gerçekten Kali olan aynı varlık olarak kabul edemem, değil mi?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bakalım öğretilerimi hatırlıyor musun… Bana ne kadar büyüdüğünü göster.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Kali. Öğrencilerin yenilmesi zordu.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">İyi hatırlıyorsun…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Gücünün eskisi gibi olmayacağını düşünmüştüm…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="PupleTear_MeetRoland">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Mmm, sadece sessiz dur ve tek kelime etme.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Anlıyorum, iyi iş çıkarıyorsun.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Yapabileceğinin en iyisi bu muydu?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Seni buraya göndermeye değdiğini gösterdin bana.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Hadi, hadi… Çok yumuşak oldun.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Binah_MeetPupleTear">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Doğru. Ben de seni tanıyorum.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Beklediğim gibi… Hayranlık duymaktan kendimi alamıyorum.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Onun ustalığı senin dayanman için çok fazlaydı.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Sorun değil. Dinlen.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Etkileyici bir süre dayandın.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Gebura_MeetPupleTear">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">… Boş laflarla uğraşmayacağım.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… O güçlü. Ve onda bana benzeyen bir şeyler var…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Geri kalanınız daha fazla dayanabilir, değil mi?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Bir Renkli o kadar da farklı değildir.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Sabırsız olmayın. Bu şekilde daha çok hata yapacaksınız.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Roland_MeetPupleTear">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">… Haha.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… Eğer endişelendiğin için beni görmeye geldiysen, o zaman boşuna çabalamışsın.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Cesaretinizi kaybetmeyin.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">İlerlemeye devam edelim.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

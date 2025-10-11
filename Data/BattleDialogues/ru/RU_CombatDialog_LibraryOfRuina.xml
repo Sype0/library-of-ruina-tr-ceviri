@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>LibraryOfRuina</GroupName>
+  <Character ID="Roland">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Sakin olalım~ İşleri çok karmaşıklaştırmamak en iyisi.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Şimdilik işler iyi görünüyor.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Güzel, güzel. Sakin ve soooğukkanlı kal.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Adamım, bu kadar gergin olmaya hakkım yok…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Sonsuz korku kuyularında titreyin. … Khh, havalı bir söz söylemek istedim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Herkesin bulunduğu pozisyonda yerine getirmesi gereken görevleri vardır.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Sakin bir başlangıç yapalım, gergin olmanın bir anlamı yok.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">Ben elimden gelenin en iyisini yapacağım ve sen de kendi sorumluluklarını yerine getirmek için elinden gelenin en iyisini yapacaksın.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Tamam, hadi yapalım şunu!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">Hım? Görünüşe göre saldırılarından kolayca kaçabilirim.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Oww, tüm kaslarım savaşla gerildi! Omuzlarım ağrıyor…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Görünüşe göre işimiz bitti, o yüzden geri dönelim ve biraz dinlenelim.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Phew… Çok yakındı… Bunu halledemezsek utanç verici olurdu.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Keşke Yöneticimiz tüm sıkı çalışmamı takdir edebilseydi~ … Duymadı, değil mi?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Güzel, bu kolaydı… Benim için hiç sorun değildi!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Köşeye mi… sıkıştırıldım…? … Bu çok utanç verici.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Hata, gardımı düşürdüm… Bu ne yazık…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Çok bir şey yapmadan ölmek çok nahoş olurdu…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Kaçınılmaz. O öyle ve bu böyle.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Şehir hayatı insanı bu tür şeylere karşı hissizleştirir.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Panik yapmayın çocuklar. Buna alışmak zorundasınız.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Eh, başkalarının size göz kulak olmasını bekleyemezsiniz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Zavallı çocuk. Elinden gelen her şeyle savaştın.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_1">Durum ne kadar gergin olursa olsun kendimi heyecanlandırmamalıyım.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Sabırsızlanmamalı ve şunu bitirmeliyim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Phew, o adam neredeyse rolleri tersine çeviriyordu. Kalbim küt küt atıyor.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Vay, dostum, “Kalbin yansın, kafan soğuk kalsın” ilkesini hatırlıyor musun? Bak, arkadaşın ve ben sadece işimizi yapıyorduk.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Arkadaşın için üzgünüm, dostum. Ama o sadece işini yapıyordu, bilirsin… Eminim bir Tamirci olarak anlarsın, değil mi?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Malkuth">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Tanıştığımıza memnun oldum, umarım adil bir dövüş olur!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Şans benden yana olacak, eminim. Başaracağımıza söz veriyorum!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Çok gerginleşme, sadece pratik yaptığımız gibi yap. Böyle kazanabileceğimizden eminim!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Şimdi tamamen hazırım! Bu beni artık korkutmuyor.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Bu iş hakkında iyi bir güvenim var. Çok güzel, işte geliyorum!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Bunu yapabileceğimiz hakkında iyi bir hissim var!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Bunu yapabileceğimizden eminim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">Herkes, bana güvenin ve beni takip edin!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Eğer böyle hareket edersem ve sonra…… Vayvayvay, vah…! … Phew… Neredeyse düşüyordum…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">Tetikli kalalım ve bunun için gidelim, tamam mı?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Kazandık, gerçekten kazandık! Yaptım. Bu, herkese yardımcı olabileceğim anlamına geliyor, değil mi?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Yeteneklerimle elimden gelenin en iyisini yapacağım!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Tamamen mutlu olduğumu söyleyemem ama… zafer önemli olan şey!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">İyi iş! Bunu bitirdik.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Kitapları toplayalım ve geri dönelim!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Yapabileceğimi sandım ama sanırım daha uzun bir yolum var.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Belki de coşkuya kapıldım…?</BattleDialog>
+      <BattleDialog ID="DEATH_2">Hayır, böyle bitirmek istemiyorum…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Kendini suçlama. Eminim elinden gelenin en iyisini yapmışsındır.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Panik yapmayın! Böyle zamanlarda birlikte durmalıyız.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Sakin kalın. Neden derin bir nefes almıyoruz? Bir, iiiiçeri… ve iki, dışarı….</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Gerçekten iyi bir iş çıkarıyor muyum…?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Senin için daha sıkı savaşacağım, o yüzden huzur içinde uyuyabilirsin.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Vay, az önce gördün mü…? Yaptım!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Yaptım! Bunu yapabilirim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bu kolaydı. Rakibimiz çok zayıftı!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Kazanmak sadece bir zaman meselesi!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Güzel, bu iyi gidiyor! Yine de sevinmek için çok erken.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Yesod">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Sadece sorumluluklarımızı yerine getirmek için çaba göstermeliyiz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Aceleci eylemler size iyilikten çok zarar verir.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Daha fazla zaman kaybetmek istemiyorum. Çabucak bitirelim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Böyle durumlarda bir adım geri çekilmeli ve iyi bir karar vermeliyiz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Buraya gelmeyi seçtiğinize göre, her sonuca karşı hazırlıklı olduğunuzu varsayıyorum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Eğer saldırma fırsatı yoksa, o zaman bir tane yaratırız.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Silahınızı bu kadar dikkatsizce tutarsanız zayıf noktalara nişan almak daha zor olur.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">Bir savaşta alay etmek gereksizdir.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Hızlı düşünmeli ve hareket etmeliyiz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">Elimizden gelen her şeyle savaşmak zorunda olsak da, kendimizi sınırların ötesine zorlamak tavsiye edilmez.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Zaferin sevinci pek hoş gelmiyor.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bu özellikle keyifli değil, ancak… İyi iş.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Tüm kitapları aldıktan sonra, performansımızı gözden geçirelim ve neleri geliştirebileceğimizi görelim.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">İyi iş. Konaklamalarınıza geri dönmeden önce kıyafetlerinizi düzeltin.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Tüm bu dağınıklığı temizleyelim ve geri dönelim.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bana acımaya gerek yok.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Lütfen panik yapmayın; savaşa odaklanmanızı istiyorum.</BattleDialog>
+      <BattleDialog ID="DEATH_2">Bu kaderle karşılaşmam benim hatam.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Bunun olmasını beklemeliydik.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Muhtemelen bundan daha anlamlı bir şekilde ölmek istiyordun.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Bir diğeri daha düştü, ama devam etmeliyiz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Önce bu savaşı bitirmeye öncelik vermeliyiz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Başka bir ölüme şahit olmak istemiyorum.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bir ölüme tanık olmaya karşı bu kadar hissizleşmem hoşuma gitmiyor.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">… Sanırım bunu kabul etmeliyim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Daha kesin bir karar vermeliydin.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Galip geldiğim için özellikle mutlu değilim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Pervasızca saldırmak etkili bir saldırı yöntemi değildir.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Netzach">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">En çok neye ihtiyacım var biliyor musun? … Geri çekilmek ve uyumak.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Ah~ Umarım benim gibi birine karşı kolay oynarlar…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bu bunaltıcı baskı ve savaş alanı atmosferi… Bunun hayranı değilim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Sadece bir şekerleme yapmak istiyorum. … Yapmamam gerektiğini biliyorum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Sanırım bunu kazanmak için en azından biraz çaba göstermeliyim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Birinin kazanması gerektiği kuralının en büyük hayranı değilim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Bunun gibi şeyleri nasıl yapmaya başladım…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">Uf… Bunun için çok yorgunum. Bunu çabucak bitirirsem daha çok dinlenebilir miyim?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Bu hala benim işim ve her şey… O yüzden en azından deniyorum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">Farkında değilsen diye söylüyorum, bu konuda ciddiyim…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bu yeterli olmalı, değil mi? Şimdi dinleneceğim…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Uf… Kazanan taraf olmaktan pek mutlu değilim, ama iyi iş.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Ah evet, oradaki kitaplar… Sadece alalım ve daha sonra düzenleriz.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Temizlenecek çok şey görüyorum…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Sadece tüm kitapları bir köşeye yığalım ve… ne yapacağımızı daha sonra düşünelim.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Ah… Son neden hep bu kadar anlamsız ve boş…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Sonuçları saymazsak, sanırım şimdi uyuyabilirim…</BattleDialog>
+      <BattleDialog ID="DEATH_2">… Üzgünüm, pek yardımcı olamadım.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Bu tehlikeli olmaya başlıyor. Uf… Gitmek istiyorum.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Belki de yeterince çabalamadık.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Eminim onlar da bu şekilde ölmek istemiyorlardır.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Yaşamak için çok savaşmış olmalılar. Muhtemelen benden daha çaresizlerdi.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">… Sadece şunu çabucak bitirmek istiyorum.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">… Bunun tam bir günlük iş olduğunu söyleyebilir miyim, değil mi?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Nasıl görünürsem görüneyim, elimden gelenin en iyisini yapıyorum burada…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Belki de gardını düşürmemeye çalışmalıydın.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Onların da kendi hedefleri vardı ve biz hayallerini paramparça ettik.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Bunu yapmaya devam etmek zorunda olmamız hoşuma gitmiyor.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Hod">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Eğer cesaret toplarsak ve sakince hareket edersek, bunu kazanabiliriz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Şimdi bile, geliştirecek bir yanım var… Yine de misafirleri içtenlikle ağırlayacağım.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Gerginim ama… Elimden gelenin en iyisini yapacağım…!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Tamam, işte geliyorum…! Lütfen bu dövüşü ciddiye alın.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Tedbirli olursan her şey yoluna girer… Belki…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Diğer kütüphaneciler harika bir iş çıkarıyor! Ben de onların seviyesinde olmalıyım…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Tamam, sakin kalmalıyım ve rakibin zayıf noktasını bulmalıyım, hadi düşünelim…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">Her şey yoluna girecek, saldırılarından kaçabilirim… Yapabilirim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Yanımda bunca insan varken, tekrar cesaret toplayabilirim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">Umarım kötü bir şey olmaz…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Tanrıya şükür tüm işi başarıyla bitirebildik.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bunu hep birlikte yapabildiğimiz için mutluyum.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Sonuna kadar benimle kaldığınız için teşekkürler. İyi iş!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Bir sonraki dövüşümüz için daha çok gelişmeye çalışacağım.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Kazandık…! Yıldız gibi işiniz için teşekkürler.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_5">Bu savaşta biraz bile olsa yardımcı olduğumu bilmek beni mutlu ediyor.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Sonuna kadar sadece bir sorun oldum. Ben—Sadece ben…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Vücudum uyuşmuş hissediyor, ne yapmalıyım…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Çok denedim ama yine de… Neden hep böyle bitmek zorunda…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Şimdi ne yapacağım konusunda kendime güvenmemeye başladım.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Diğerlerine yardımcı olamadım…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Daha iyi bir iş çıkarmalıydım.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Diğer Kütüphanecilerin gerginleşmesine izin veremem…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Ölümünün boşuna olmasına izin vermeyeceğim…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Rolümü yerine getirmek için başka seçeneğim yoktu.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Üzgünüm, muhtemelen böyle ölmek istemiyordun…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Eminim rakibim de elinden gelenin en iyisini yapmıştır.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Umarım bunu kayıp vermeden bitirebiliriz…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">… İyi iş çıkardın. Şimdi huzur içinde uyu.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Tiphereth">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Başlayalım, o yüzden kemerlerinizi bağlayın.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Umarım ekibimde etrafta ördek gibi oturan aptallar yoktur.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bu kadar yavaş hareketlerle bizimle başa çıkabileceğini mi sanıyorsun?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Sonsuza kadar plan yapamazsın.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Sadece oturup korktuğunu söylemeye devam edersen hiçbir şey yapamazsın!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Gevşek olma ve dik dur! Yapabilirsin.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Eğer avantaj bizden yanaysa, ileri it!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">Burada başarısız olursam, bu dağınıklığı kim temizleyecek?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Bize güvenin! Yalnız savaşmıyorsunuz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">Bu kadar kolay ilerlemene izin vermeyeceğiz!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Kazanacağımız belliydi. Başaramayacağımızı mı sandın?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Güzel, hepinizin yorgun olduğunu biliyorum, ama! Kitapları sırayla aldıktan sonra dinlenebiliriz.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Hepinize teşekkürler. Bu sefer gerçekten iyi bir iş çıkardınız.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Görüyorsun, eylemler kelimelerden daha yüksek sesle konuşur.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Bu acınası yeteneklerinle gelebileceğin son nokta bu.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Hareketlerimi… zaten okumuşlar…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Bu, arkamdaki çocuklara pahalıya mal olacak…</BattleDialog>
+      <BattleDialog ID="DEATH_2">… Üzgünüm. Burada pek yardımcı olamadım.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Moral bozmanın zamanı değil. Hadi hareket edelim!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Bizden birini aldılar… Daha fazlasını yapmalarına izin vermeyeceğim.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Sorun değil. … Hala savaşabilirim.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Burada kimsenin ölmesine izin veremeyiz… Nasıl başaracağımızı düşünmeliyiz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Burada durmamızı bekleme… Kazanacağımdan eminim…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Uf… Birini zar zor bitirdik, sıradaki kim?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Güzel, böyle devam edersek sorunsuz bitirebiliriz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bu dikkatsizlikti. Eğer iyi bir dövüşçü değilsen neden savaş alanına geliyorsun?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Yük olmak istemiyorum.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Yakalandın! Sana bu kadar kibirli olmamanı söylemiştim.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Gebura">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Herkes hazır mı? Bu adamları boyun eğdirene kadar döveceğiz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Unutulmaması gereken en önemli şey, rakibin ritmini hissetmek ve onu takip etmektir.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Eskisi kadar güçlü değilim… Hala alışamadım.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Sadece zayıflar işler başlamadan kaçar.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Gücün kafana girmesine izin verme. Tamamen açıkta kalırsın.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Biz geçmişin sıkı çalışması ve disipliniyle şekillendik.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Birlikte çalışalım ve elimizden gelenin en iyisini yapalım.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">Bunun aptalca bir oyun olmadığını biliyorsun, değil mi?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Silahını nereye doğrulttuğuna dikkat et.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bunu kolayca bitirdik. İyi iş çocuklar.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Performans, deneyim ve sonuçlar… Bizim tarafımız her şeyde çok üstün.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Bu yeni vücuda alışmaya başlıyorum.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Dövüş bittiğine göre… Sanırım biraz kestireceğim.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Kazansak bile, başkalarının fedakarlıklarını hafife almamamız gerektiğini aklımızda tutalım.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Aptalım ben… Eskiden bu kadar zayıf değildim.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Sinir bozucu… Ama kabul etmek zorundayım.</BattleDialog>
+      <BattleDialog ID="DEATH_2">Kahretsin. Bu şekilde geri çekilmeyi beklemiyordum…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Diğerleri talihsiz bir kaderle karşılaşsa bile, burada duramam.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Sakin olalım. Bir meslektaşın ölümü yüzünden tereddüt etmemeliyiz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Acımızı her şey bittiğinde saklayalım.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Onların fedakarlıklarının boşuna olmasını istemezsiniz, değil mi?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Onların intikamını alacağız, ama sakinleştikten sonra. Her zaman soğukkanlı olmak gerekir.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bu vücut eskilerinden daha zayıf ama onu yönetmekte sorun yaşamıyorum.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Yetenek eksikliğini biliyorsan daha akıllı olmalıydın.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Sadece bununla beni yenebileceğini mi sandın? Hayallerinde bile.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Öfke sadece hata yapmana neden olur.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Dikkatsiz olmak ve pervasızca hareket etmek ölümlerin ana nedenlerinden biridir.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Chesed">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Keşke hepimiz birlikte asil bir yolu takip edebilseydik~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bunu bitirmek için elimizden gelenin en iyisini yapalım, böylece hepimiz güvende oluruz~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bu kadar morali bozuk olma~ Bunu yapabileceğimizden eminim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Kendini çok fazla zorlamak iyi bir fikir değildir~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Tereddüt edersek her şeyi kaybedebiliriz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Nefesini ayarla ve sakin kal, tamam mı?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Burada kimsenin ölmesini istemiyorum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">Bazen bir şeyi koruyabilmek için cesur olman gerekir.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Eğer geri çekilmiyorlarsa, sağlam durmaktan başka seçeneğimiz yok.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">Eğer bu savaşın bir anlamı varsa…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Görüyorsun? Denersek yapabiliriz, İyi iş~</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Herkese mis kokulu bir fincan kahve ne dersin~?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Bunu bitirebildiğimiz için mutluyum~</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Sonuna kadar takip ettiğiniz için teşekkürler~</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Sanırım şimdi kitapları alabiliriz? O zaman geri dönelim~</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Sanırım gidebileceğim en son nokta burası…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Bu… benim için çok fazlaydı?</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Herkes bu tür bir savaşı çabucak bitirmek ister.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Hasarı en aza indirmek için daha çok denemeliyiz…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Başka anlamsız kayıplar vermeyelim.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Endişelenmeyelim. Bununla başa çıkabileceğimize inanıyorum.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Sorun değil. O Kütüphaneci yerine daha sıkı savaşacağız.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bu kolaydı~ Bunu bitirmek için acele etmeyelim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Biraz daha yavaş olsaydım sahneyi terk eden ben olurdum.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Ne büyük kayıp, tüm bu güç ve kuvvet dövüşlerde harcanıyor.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Üzücü, ama daha fazla hasar almaktan nefret ederim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Sanırım bu işe alışıyorum.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Hokma">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">İnançlarınıza sadık kalın ve ona göre hareket edin.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Güçten daha önemli olan… zaferimize olan inançtır.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Kendine inan. Eylemlerimizi, bunu başarısız olmadan halledebileceğimiz varsayımına dayandırmalıyız.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Savaşta düşmanlarınızı kandırabilirsiniz, ama her zaman kendinize sadık kalmanız gerektiğini unutmayın.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">O zaman başlayalım. Artık geri dönüşü olmayan noktaya ulaştınız.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Hayatlarımıza zincirlenmişken, yaşamalıyız.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Tüm eylemler, başarılı olmak için aynı kararlılığı gerektirir.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">Bitti gibi görünüyor, ama tekrar başlıyor.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Sakinleşmenizi öneririm. Gözlerinizi açmak daha sonra gelir.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">Dinlenmediğim için yaptığım işe ne anlam verebilirim ki.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Aşırı güven en büyük düşmanınızdır. Alçakgönüllü kalmalıyız.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Gerçekten de bu savaştan elde edilebilecek açık bir fayda olduğuna inanıyordunuz.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Sonunda sadece acı bir kayıp yaşayacağınızı düşünmüyor musunuz?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">… Görünüşe göre iş bitti, şimdi kitapları düzenleyelim.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Şimdi durmaya gerek yok. İlk adımı zaten attık.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Böyle bir sonucu kabul etmek için, bazı şeylerden vazgeçmeyi öğrenmek gerekir…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Sonunda, tüm bunlar anlamsızdır.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Bunun neden bu kadar ileri gitmesi gerektiği konusunda sonsuz sorular sorulabilir.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Bu yerde hareket etmek imkansız olsa bile, bunu yapmalıdır.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Tüm olasılıkları… kolayca göz önünde bulundurmak mümkün değildir.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">İlerlemek için sadece kaba kuvvete güvenmek, yapabileceğiniz en pervasız şeydir.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Hepimiz sadece görevimizi yapıyoruz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Huzur içinde uyu.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Sınırsız gurur ve hırs acı bir sona yol açacaktır…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Hayatını almanın iyi bir nedeni olamaz, hayır. Sadece işi bitirmek için acele ediyorum.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Binah">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Başlayalım.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Sayısız yıldız tekrar gökyüzünü aydınlatıyor.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Yanımda savaşma isteğin takdire şayan, ama kendini çok zorlama.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Eğer aceleci hareket edersen, bazı şeyleri kaybetmeye mecbursun.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Sakin kal.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Üstesinden gelinemeyecek hiçbir engel yoktur.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Birçok şeye karar veren senin bakış açındır.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">Ben dinlenirken seni savaşa göndermek beni rahatsız eder.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Sağlığınızın önce geldiğini unutmayın.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">Bu, hem onlar hem de bizim için aşılması gereken bir Sınavdır.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Mükemmel.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">İyi iş çıkardınız.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Şimdi geri dönmek ve dinlenmek isterim.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Sahip olduğun anıları merak ediyorum.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Düşenleri ait oldukları uykuya yatırmalıyız.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Bu senin için çok fazla olmalıydı. Buraya kadar dayandığın için aferin.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Karşına çıkamayacağın bir yük çıksa bile, yıkılmamalısın.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Kimse seni suçlamayacak.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Anlıyorum, bu senin için çok tehlikeliydi.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Bir yıldız ancak karanlıkta gerçekten görülebilir…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bundan kaçabileceğini mi sandın?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ölüme ne kadar yakın olursan, o kadar özgürsün.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Nefesin kayboluyor.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Şimdi, sonsuz sessizliğe gömül.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Son yaklaşıyor.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

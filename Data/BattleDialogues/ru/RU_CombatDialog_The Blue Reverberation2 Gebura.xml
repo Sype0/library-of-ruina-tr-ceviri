@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Mavi Yankı 2 Gebura</GroupName>
+  <Character ID="G_T_Tanya">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Güzel… Bakalım efsanevi Kızıl Sis gerçekten ne kadar güçlüymüş.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Pekala… Buraya gel ve olabildiğince uzun süre bizi durdurmaya çalış.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Gücü kullanmanın doğru yolunu görmeye mi başlıyorsun?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Beni adilce yendin. İyi bir güç gösterisinden şikayet edemem.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Yerini bil ve başını eğ, tamam mı?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Eh… Ne zayıf bir topluluk.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">O kadar önemsiz bir güçle beni yenmeye mi çalışıyorsun?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Önemsiz insanlardan bahsetmişken…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Haydi, bana güçlü birini yok etme heyecanını ver.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="G_T_Gebura">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">… Her zaman yaptığımız gibi yapalım.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… İyi bir iş çıkaracağınıza güveniyorum.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Bu kadar ilerlemişken geri çekilemeyiz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Sakin olun ve bir açık bekleyin.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Onların fedakarlığının boşa gitmesine izin vermemeliyiz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Gereksiz duyguları bir kenara bırakın.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Bunun oturmasına izin verelim ve bu sonucun ne kadar değerli olduğunu düşünelim.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="G_T_Librarian_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Pekala, Bayan Gebura! Başlayalım mı?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Tereddüt etmeyeceğim… Henüz son değil.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Öfkemi frenlemeli—ve devam etmeliyim.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Şu anda birbirimize güvenmek zorundayız!</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… Size söylemiştim! Yapabileceğimi söylemiştim.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="G_T_Librarian_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">… Evet, aşağı yukarı. Biraz gerginim.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Elimden geldiğince yaptım…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Sıkı çalışma ve disiplin bizi şu anki halimize getiren şeydir…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Paniğe kapılmayalım.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Biraz daha güçlü durmalıyım… Neredeyse başardık.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… Hepimize karşı iyi bir mücadele vermeyi başardı.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="G_T_Librarian_3">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Haklısınız. … Herkes hazır mı?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Sadece bir şey başarmak istemiştim… Üzgünüm.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Sadece bir kişi, ama hiç çekinmiyor…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">İşi bitirmeliyiz…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Henüz… kaybetmedik. İyiyiz.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Ne kadar da tuhaf biri…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="G_T_Librarian_4">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Her şey için Bayan Gebura'ya güvenemeyiz.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Buna dayanmalıyım…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Hala devam edebilirim…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Başka bir çözüm var mı…? Düşünmeliyim…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">… Gerçekten yapabileceğimiz bir şey var mı?</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">O kadar gücü olduğunu düşünmek…</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Mavi Yankı 2 Tiphereth</GroupName>
+  <Character ID="T_O_Oswald">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Ohohoho! Gösteri başlamak üzere~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Şimdi, şimdi! Sonsuz kahkahalar ve o alkışları duymak istiyorum!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bir tur alkış… Bu akşamki gösteriye katılan palyaçolar için!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Tüm ilgi benim üzerimdeydi…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">A-aman tanrım… yoldaşım…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">NEDEN SADECE GÜLÜMSEMEK İSTEYEN MASUM VARLIKLARA İŞKENCE ETMEK ZORUNDASINIZ!!!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Eee! Palyaçolarınızdan biri orada çok eğleniyor gibi görünüyor!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">O kadar komik ki, yerde yuvarlanmak istiyorum, aynı fikirde değil misin?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Biliyordum! Benim gösterim herkesi güldürebilir.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Onlar için daha yüksek sesle tezahürat yapalım! Ve bir, iki…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="T_O_Tiphereth">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Tamam. Sadece yaptığımızı yapın. Ne yapmanız gerektiğini biliyorsunuz, değil mi?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Güzel iş. Hadi temizleyelim ve diğerlerini bekleyelim.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…Hayır. Başaracağımızdan eminim.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Vazgeçmek için çok erken!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Birbirimize güvenirsek ve devam edersek, kesinlikle ilerleyebiliriz…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Serbestçe dolaşmana izin vermeyeceğim…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Bir arada durmalıyız, hala umut var!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Biliyorum zor birine denk geldik, ama biraz daha devam etmeye çalışalım!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ben bu tarafta iyi iş çıkarıyorum… Endişelerinizi kendinize saklayın!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Fena değil. Henüz yorulmadınız, çocuklar?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="T_O_Librarian_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Hala korkmadın, değil mi?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Hmm… Sanırım diğerleri meşgul?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Üzgünüm… Sınırıma ulaştım…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Gerisini bana bırakabilirsin.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Bu beni yıkmaz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">… Sanırım kemerimi sıkmalıyım!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bu tarafı bitirdim~</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Onlar garip… ama ilginç.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Hepiniz iyi misiniz?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="T_O_Librarian_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bunu yapmak zorundayız… sanırım.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Tanrıya şükür yapabildik.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Daha fazlasını yapabileceğimi düşünmüştüm…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Böyle zamanlarda… Soğukkanlı kalmalısın.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Davranışları görünümleri kadar iğrenç…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Diğerleri nasıl? Biraz daha dayanabilirler mi?</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Ben de kendimi bir palyaço gibi hissediyorum. Hatta belki koskoca bir sirk.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ben kendi payıma düşeni yapıyorum.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">O ses hala kafamda yankılanıyor…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="T_O_Librarian_3">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bir sirkteymişiz gibi hissettiriyor…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Komik bir gösteri, ha?…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Sanki… o palyaçolar tarafından canlandırılmış gibiydi…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Daha iyi bir yol olmalı…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Biraz gerginim… ama senin yerinde savaşacağım.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Sanırım onları kolay hedef olarak görmemeliyiz.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bir eksildi. Böyle devam edelim!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Sanki… bir tür gösteri yapıyorlarmış gibi.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Biraz ürkütücü görünüyorlar…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="T_O_Librarian_4">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bir süre önce aldığımız ikiliye ve o hayvanlara benziyorlar.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bayan Tiphereth. Geri dönmeli miyiz?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Pervasız olmayalım ve işleri daha da kötüleştirmeyelim.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Hala yapabiliriz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Yakında bitecek… Biraz daha dayanın.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Çok gürültülü gösterilerin hayranı değilim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">O palyaço ağzını açmaktan kesinlikle zevk alıyordu…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Seninle oynamıyorum.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

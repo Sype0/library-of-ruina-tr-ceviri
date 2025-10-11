@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Cane Office</GroupName>
+  <Character ID="Nemo">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Ha Ha Ha! Hiç de kolay avlara benzemiyorlar.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Pekâlâ pekâlâ, tanıştığımıza memnun oldum. Sanırım birbirimizi sık sık göreceğiz!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Endişelenmeyin! Kaybetmemiz için hiçbir neden yok.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bu adamlar beklediğimden daha beceriksizdi.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bu değerli bilgi bu kadar düşük bir fiyat için bir soygun! Bizi daha sık ziyaret etmemiz sizi rahatsız etmez umarım!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">O deli ne yapmayı planlıyor… böyle bir yerle…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Sorun değil! Ben hala gayet iyiyim.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Ah canım, yaralanmamak için daha dikkatli olmalıydın!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Kendine zarar vermemeye dikkat etmek senin sorumluluğun!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Olağanüstü derecede yavaşsın, denesem bile gözlerim seni asla kaybetmezdi!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Bir Tekilliğin sırlarını ele geçirmek… sadece an meselesi!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bu basitti! Kalkın ve biraz daha saldırın!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Martina">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Prez… Çok sinirlenme…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">… Sözleşmeyi daha dikkatli okumalıydım…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Normal işimizden çok farklı değil… Paniğe kapılmayın…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Demek bu kitapta W Corp hakkında bilgi var…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bu bir rahatlama…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">İşte… böyle ölüyorum…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">İyi dinlen… Üzgünüm, o darbeyi senin yerine alamadım…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Demek ölürsek kitaba dönüşüyoruz…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Bu bizim lehimize gitmiyor… Durumu dikkatlice değerlendirmeliyim…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hedefimiz için… Bunu yapmak zorundayım…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Neredeyse başardık… Hadi neşelenelim…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bundan sonra yapılacak yığınla iş var…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Bada">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Başkanımız haklı; bunu çözebileceğiz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Lütfen sakinliğini koru ve sakince ileriye bak.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Sadece kitapları almalıyız. Hiçbir sorun olmamalı.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">İyi misiniz? Kendi durumunuza dikkat etmek çok önemli.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Kitapları aldım. Şimdi geri dönelim.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Geri… dönmeliyim.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Başsağlığı dilerim. Huzur içinde uyumanı dilerim.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Bunu engelleyememem benim yetersizliğimin suçu.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Hayatta kalmak için odaklanmalıyız…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Önemsiz insanlar… Bu zor değildi.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Onları çabucak bitirebilirim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Görünüşe göre neredeyse bitirdik.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

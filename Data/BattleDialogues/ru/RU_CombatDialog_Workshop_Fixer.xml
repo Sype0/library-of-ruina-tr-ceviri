@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>WorkShopFixer</GroupName>
+  <Character ID="WorkShopFixer">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bu, en son tasarımımızı denemek için iyi bir fırsat!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Isınmalı mıyız?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Onları hafife almamamız gerektiğini düşünüyorum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Haydi onlara biraz ateş gücü gösterelim~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Bu iyi olacak mı…? Tüm parçaları doğru takmalıyız, değil mi?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">En azından kullanılabilir derim!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Güzel! Haydi sonuçları ustamıza rapor edelim.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Hım… Tutuşu biraz yetersizdi.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Aptaldım… Savaşmak için bu hurdaya güvenmemeliydim…!</BattleDialog>
+      <BattleDialog ID="DEATH_1">Devam edemiyorum…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Bu şey… kırıldı…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Böyle kazalar yüzünden dikkatimi dağıtmasına izin veremem…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Burada panik yapmak bize hiçbir fayda sağlamaz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Pes edeceğimi mi sandın? Göreceksin…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Kontrollere alışık değilim… ama sanırım işi kapıyorum.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Bunun kusursuz bir başyapıt olacağını biliyordum!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Atölyenin içinde deneseydim bazı şeyleri havaya uçurabilirdim. Haha!</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

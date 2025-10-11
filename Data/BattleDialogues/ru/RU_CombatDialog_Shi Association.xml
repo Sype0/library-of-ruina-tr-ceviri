@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Shi Derneği</GroupName>
+  <Character ID="Yujin">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Daha yüksek pozisyonlara tırmanabilmek için krizleri aşman gerekir.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Ben iyiyim. Önce kendi güvenliğinize öncelik verin.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Sabırsız olma. Endişe sadece irade ve konsantrasyonunu kaybetmene neden olur.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Umarım bu kitaplar değerli bilgiler sunar.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">... Az daha gidiyordu. Diğer hayatta kalanlarla birlikte geri çekilelim.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">İstediğime ulaşmaya çok yakındım...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">... Bir dakikalık saygı duruşu.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Sonuna kadar dayandın. ... Bizimle olduğun için teşekkürler.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Gereksiz hareketleri azaltamazsan zayıf yönlerini açığa çıkarırsın.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Düşmanlarımın bile olsa hiçbir ölümü hafife almayacağım.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Görev henüz tamamlanmadı, ciddiyetinizi koruyun.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Tenma">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Endişelenmeyin, Direktör. Size sonuna kadar yardımcı olacağız.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bu oldukça açık bir alan... daha önce bir talepte hiç böyle bir şey görmemiştim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Tükenme noktama yakınım... Dikkatli olun ve güvende kalın çocuklar..</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">... Eminim Direktörün parlak bir fikri vardır.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bize bunu yaşatmak için ne planlıyor olabilirler...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Hayır... Diğerleri daha da zorlanacak...</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">O olmalıydı... Senin için daha sıkı savaşacağım...</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Direktör!!! ... Nasıl cüret edersin... Direktör Yujin'i incitmeye nasıl cüret ettin...</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Duruşumun ne olursa olsun bozulmayacağını unutmayın...</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Dayanabilirim... Bunu aşmak zorundayım.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">İyiyim. Devam etmek için vücudumda yeterli güç var.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Valentin">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Hiç de zayıf görünmüyorlar.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Yine sana güveneceğim, Direktör.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Her zaman yaptığımız gibi savaşa katılın.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bu işi bitirdik ama pek mutlu olduğumu söyleyemem...</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bunun son olmama ihtimalini düşündükçe geriliyorum.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bu benim limitim... Üzgünüm, daha fazla dayanamadım.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">... Hepsini senin yerine öldüreceğim.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Hayatlarını kendi kılıcımla sonlandıracağıma yemin ederim...</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hâlâ toplanmış çok gücüm kaldığı için mutlu olmalıyım...</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Sadece birkaçı kalmış olabilir, ama uyanık kalmalıyız.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Hareketlerin neredeyse bir dikkat dağıtıcıydı.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Shi-Fixers">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bu tür işlerle kendimizi sınıra kadar zorlamamız gerçekten gerekli mi...</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bunun farkında olmadığımız bir komplonun parçası olması gerekiyor. Aksi takdirde bir anlamı yok...</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Sadece her zamanki gibi hedeflerimizi ortadan kaldırmamız gerekiyor. Bu konuda şikayet etmeyelim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Konuşacak enerjiniz varsa gözünüzü hedeften ayırmayın, geliyorlar.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Diğerlerine katılıyorum. Bu işi yapmak için çok yorgunum...</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">... Umarım bu son olur.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bununla baş edebildiğimizi görmek güzel.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Başka bir iş alacak durumda değilim...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">... Bunun olacağını biliyordum.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Eğer vücudum daha iyi durumda olsaydı... Bununla bir sorunum olmazdı.</BattleDialog>
+      <BattleDialog ID="DEATH_2">Panik yapmayın çocuklar, sadece... göreve odaklanın.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Tükenmiş olmalısın... İyi dinlen.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">... Yakında aynı kaderi paylaşabileceğim için korkuyorum.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Hiçbirimiz iyi durumda değiliz gibi... Bunu hızlıca bitirmeliyiz.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bu kolay bir hedefti, tam beklediğim gibi hareket etti.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ne kadar ileri gidebilirim... emin değilim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">... Sorumluluğumuzu tamamlamalıyız.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Temiz ve hızlı... Özellikle hedefimize nişan alıyoruz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Bu yer ve içinde yaşayan varlıklar... Hepsi birer bilmece.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

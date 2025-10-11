@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Yedi Derneği</GroupName>
+  <Character ID="Dante">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Hazırlanın. Sabırsız olmayın.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Ayak bağı olma. Biliyorsun, değil mi?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bir aptal gibi dikilme! Konsantrasyonun anahtar olduğunu hatırlamıyor musun?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bir Kentsel Kabus için ne kadar acınasıydı...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Olamaz... Ben...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Görünüşe göre bu bilgiyi almak için bir bedel ödememiz gerekecek.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Kalk! Aynı kaderi paylaşmak istemezsin, değil mi?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">... Sanırım o kadar kolay pes etmeyecekler.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Gevşemeyin.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Pekala, "Sınav" bunu tanımlamak için en iyi kelime olmayabilir...</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bu kolaydı. Hızlanıp kendi işini bitiremez misin??</BattleDialog>
+    </Type>
+  </Character>
+
+  <Character ID="SevenFixers">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Kanatların bilgisini bu şekilde alabiliriz, değil mi?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Başarılı olursak büyük bir terfi bekleyebilirim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Değerli bir bilgi olsa bile... Hayatımızı riske atmaya değer mi...?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Belki 3. Bölüm işler yolunda giderse çok destek alır?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Şimdilik savaşa odaklanalım...</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Umarım bu, Derneği bize daha fazla fon sağlamaya ikna eder...</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Geri dönüp daha sıkıcı kısmı bitirme zamanı.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Raporu daha sonra bitiririz... Tükendim.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Böyle ölmeyi... planlamıyordum.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Ölmek istemiyorum... buraya gelmek bir hataydı...!</BattleDialog>
+      <BattleDialog ID="DEATH_2">Bu aptalca bir plandı...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">... Sanırım bize bilgiyi bedavaya vermeyecekler.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Zaten kendi üzerlerine düşeni yaptılar.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Hayatta yeni bir şans elde edene kadar daha ne kadar dayanmam gerekiyor?</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bana çok pervasızca yaklaştın.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ne kadar kayıtsız bir adam.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bu, görevi kolaylaştıracak.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

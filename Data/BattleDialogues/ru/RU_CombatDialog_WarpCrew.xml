@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>WarpCrew</GroupName>
+  <Character ID="Rose">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Odaklanın, ikiniz de. Çok zamanımız yok.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Sohbet etmeye zaman yok, savaşa hazırlanın.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Tükenmeye başladığınızı biliyorum, bu yüzden bunu çabucak halledelim ve geri dönelim.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Geri döndüğümüzde rapor edecek çok şeyimiz var, o yüzden kitapları toplamaya acele edelim.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Fazla mesai yapacağız… Sadece bu geceye dayanın, yoldaşlar.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Sanırım ben daha zayıftım… Benim adıma çok acınası.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Hareket etmeye devam etmeliyiz. Ölümde onlara katılmamıza gerek yok.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Sakinliğinizi geri kazanın. Tereddüt ederseniz bir sonraki hedef siz olursunuz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">… Durum ne kadar kötüleşirse, o kadar sert baskı yapmalıyız.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Eve dönmeye bir adım daha yakınız.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Seni bir nefeste bitireceğim.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Sen">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Rose odaklanmamızı söylüyor. Hazır ol, çaylak.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Her zamanki gibi temizleyelim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Hey, çaylak… Beklediğimden daha rahatsın. Beni korkutuyorsun.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Geri döndüğümüzde treni temizlemeyi bitirmemiz gerekiyor mu? Adamım, çok yorgunum…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bunun gibi işler bizim için basit. Her zaman yaptığımız şey bu.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Kahretsin… Bunun kötü bir fikir olduğunu biliyordum…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Talihsiz… Ama bu konuda yaygara yaparak hiçbir şey kazanmayız.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Üzüntünün beni alt etmesine izin veremem. Şimdi sakinleşmem gerekiyor.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Şehir Kabusu için bu kadar mı, ha…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">GG EZ. Senden daha sert yolcularla savaştım.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Aslında… bu bazı yolculardan daha kolay hissettirdi mi?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Lesti">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Vay, burası dışarıdan göründüğünden daha büyük mü?!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Trende bu adamlar kadar güçlü görünen insanlar var mıydı?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bu bittiğinde hep birlikte gopchang-jeongol yiyeceğiz, değil mi?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Güvenilir amirlerimin yardımı sayesinde bunu kolayca bitirebildik~</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bu kitabı alacağız… şunu da… Şimdi geri dönmeli miyiz?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Daha yeni yeni yeni bir hayata başlamıştım…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Bunun gibi şeyleri daha önce de atlatmıştım, ama… b-bu benim amirimdi…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Buna alıştığımı sanıyordum…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hmhmhm~ Her gün yaptığım şey bu!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Bu benim için çok kolaydı!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Buradaki insanlar oldukça sert… Bu yakındı.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="WarpCrewUnit">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bu… fazla mesai mi? Lütfen bir ara vermeye ihtiyacım var…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Ve daha yeni o et yığınlarını bitirmiştik… Adamım, yorgunluktan ölüyorum…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Hadi işe koyulalım! Emirlerimiz var ve işimiz onları takip etmek.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Sanırım o et balonları kadar kötü değil, değil mi?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">O şeyler iğrençti, doğru… Ama fazla mesai kadar değil.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Seçeneğimiz yok. Yapmamız gereken iş bu, o yüzden şikayet etmeyin.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Görünüşe göre koltuklar tamamen temizlendi… Şimdi eve gidebiliriz, değil mi?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Phew, Tehlike atlatıldı… W Corp. bugün düşmeyecek…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Dışarıdan birinin bu kitaba el koyduğunu hayal edin.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">İşimi kaybetmeye yakındım… en azından kitapları herkesten önce alabildik.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Ne tür bir Tekillik insanlardan kitap yapabilir?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Eğer başarısız olursak… W Corp.'un sırrı……</BattleDialog>
+      <BattleDialog ID="DEATH_1">Ölmek istemiyorum… Daha yeni Yuva'ya geldim ve bir ajan oldum…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Sırrın ortaya çıkmasını… engellemeliyiz…</BattleDialog>
+      <BattleDialog ID="DEATH_3">El kitabını takip ettim… Her zaman… Yaptığım tek şey buydu…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… İpimiz gergin.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Bu berbat bir iş… Mümkün olan en kısa sürede bırakmak istiyorum…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Bizim gibi ajanların başına her zaman bu gelir.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Bugün birkaç yoldaş kaybettim, ama….</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Tren temizlemek, fazla mesai… Hepsi aynı.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Daha önce uğraşmak zorunda kaldığımız canavarlardan çok daha basit.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Onları tren yolcuları olarak düşünürseniz kolaydır.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Burada insanlar öldüğünde olan budur… Uyanık kalmalıyım.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

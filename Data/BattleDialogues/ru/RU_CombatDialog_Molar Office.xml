@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Molar Office</GroupName>
+  <Character ID="Olga">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Urgh… Hala midem bulanıyor.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bir arkadaşın ricası, o yüzden kendimi toparlayıp şunu bitireceğim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Müdahale etmem için çok güçlü görünmüyorlar, ha?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Weh? Hepsi bu muydu? Bu kadar basit mi? Bu biraz hayal kırıklığı…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Ben de Myo'ya buradaki harika maceralarımı anlatmak için heyecanlanmıştım… bu yeterli değil…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Sanırım iyi bir yedek plan olmadan çok derine indim. Bu aptallıktı benden.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Eğer burada ölürsem, Rain ve Mika'ya ne olacak…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Oi, az önce onu şık bir şekilde öldürdüğümü gördün, değil mi?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Benim hatam, benim hatam~ Seni çok sert vurdum~ Ama kaçınmaya çalışabilirdin, değil mi?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Büyük bir avantajımız var gibi görünüyor, değil mi?</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">O kızı tek başına bırakmaktan emin değilim…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Onu yalnız bırakmak doğru gelmiyor… Neyse, boş ver.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Eh… İki ortağım da öldüğüne göre, zaten pek uzağa gidemezdim.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">Artık kendimi zorlamayacağım. Mika, Rain, hizmetiniz için teşekkürler.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">… Her zaman bu kadar kibirli davranmayı, bana sürekli dırdır etmeyi sevdin, şimdi beni tek başıma mı bırakıyorsun?</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_5">Ofisim sensiz ne yapacak, ben sensiz ne yapacağım!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Mika">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Tanımadık bir yerde olmak oldukça korkutucu…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Oldukça endişeliyim… Ama her şeyin yoluna gireceğine inanmak zorundayım.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Kendimizi neyin içine soktuk…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Görünüşe göre görevimizi tamamladık. Harika bir iş çıkardınız, çocuklar.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">İlgili tüm bilgileri alıp bu yerden ayrılalım.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Nerede… yanlış yaptım…? Şimdi bitmesini istemiyorum…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Henüz ölemem… onlara yeterince yardım edemedim.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">… Bunu acilen çözmeliyiz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">… Huzur içinde yat.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Operasyon sorunsuz gidiyor, böyle devam edelim!</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Bu yerden tek parça halinde ayrılabilsem bile… Kimse beni bu ikisi kadar iyi karşılayamazdı.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Her zaman bizim için çok endişelenirdin, neden kendi hayatını korumaya dikkat etmedin!</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">… Şef? Burada uyumaman gerekiyor. … Lütfen uyan.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Rain">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Uf… Mika çok güvenilir, ama sana güvenemiyorum, Abla.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Sanırım senin durumuna bakılırsa Mika'nın halletme zamanı…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bir Kütüphane için çok büyük. Burada bir sürü kitap görüyorum…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Oldukça zorluydu ama iyi bir deneyimdi.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">… Burada çok fazla korkunç şey var. Bu yerden hızlıca ayrılalım.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Hayır… Bu olamaz!! Burada umut yok…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Hepimiz öleceğiz… Ve sanırım sıra bana geldi…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bu çok kolay.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Bir diğeri düştü. Benim skoruma ulaşmaya çalış, Abla~</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Biraz daha az dikkatli olsaydım, yerde yatan ben olurdum…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… Sadece kendi beceriksizliğimi suçlayabilirim. Çok yakında ikinizin yanında olacağım…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Sana defalarca söyledim, Abla, çok dikkatsizsin…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Her zaman bu kadar sakin ve havalı davranırdın… Bizim için böyle ölmek hiç havalı değil.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

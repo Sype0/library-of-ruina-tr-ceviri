@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Demir Kardeşliği</GroupName>
+  <Character ID="Mo">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">B-bu iyi giderse, belki daha iyi bir bedene geçebiliriz, değil mi?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">P-para, para, para! Z-zengin olmak güzel olmalı.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">C-canavarlar, s-sizi paramparça edeceğim!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">S-sonunda yeni, daha gösterişli ve daha sert bedenlerimiz olacak.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Z-zorlu çalışma meyvesini verdi, a-arkadaş. G-geri dönüp dinlenelim.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">S-sert çalışmanın, bedenimizi m-makinelerle değiştirmenin amacı neydi…</BattleDialog>
+      <BattleDialog ID="DEATH_1">B-belki de hayatın tadını çıkarmaya daha fazla zaman ayırmalıydım…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">B-beklediğim gibi, zayıflar.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">O-onları parçalamanın tadını çıkaramayacağım ne yazık.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">K-kırılmak istemiyorum.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">A-aptal mekanik bedenler… B-bunun daha güçlü olması gerekirdi.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">S-sonuna kadar benimle kaldığın için teşekkürler…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Arnold">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">B-burası merak uyandırıcı ve oldukça da büyük…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">M-metal bedenlerimizin yumuşak etten yapılmış bir bedenden daha güçlü olduğunu düşünmüyor musun?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">B-bedenim çok gıcırdıyor, ama yine de çok dayanıklı.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">B-bu gıcırtı seslerine nihayet veda etme zamanı.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">H-harcayacak yeterli paramız olursa… K-kısa bir tatile ne dersin?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">İ-insan bedenimde değil de bir hurda yığını olarak ölmek oldukça üzücü…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Ç-çok soğuk, k-kendimi çok yalnız hissediyorum.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">H-hedefimi ıskalamam.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">S-sanırım her şeyin bir bedeli var.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">B-bedenim kalitesiz hurda metal olabilir, ama seninki gibi yumuşak bir bedenden daha kullanışlı.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… S-seninle çalışmak bir onurdu. Umarım dinlenebilirsin.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">O-onlar eski arkadaşlarımdı, a-ama ölümleri için üzülme zamanı değil.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Consta">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Ş-şarjım dolu ve hazırım!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">B-belki kitaplardan çok yemek kuponu isterdim…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">B-benim bedenim seninkinden daha sert, görmüyor musun?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">G-gerçekten kazandık mı?! A-arkadaş, sahiden…!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">G-gelin, zaferi kutlamak için bir restorana gidelim!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">B-bir sürü lezzetli şey yemeliydim… B-burada öleceğimi bilseydim…</BattleDialog>
+      <BattleDialog ID="DEATH_1">B-burada ölmek için bir köpek gibi çalıştım. H-haksızlık.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">H-haha! Tahmin ettiğim kadar zayıflar.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">B-bu ucuz ekipmanın yeterli gücü varmış gibi görünüyor, d-değil mi?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">B-bu iş bizde~</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… İ-inanamıyorum. O sadece "boom" diye patladı ve……</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">… B-bu kadar duygusuz olma, b-bana bir saniye ver.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

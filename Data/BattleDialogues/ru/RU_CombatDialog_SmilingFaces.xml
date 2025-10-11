@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Gülümseyen Yüzler</GroupName>
+  <Character ID="Wang">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Hoh hon. Şu mavi arkadaşın istediği şeyi halledip gidelim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Derin nefes alın, arkadaşlarım~ Bu duman kötü bir şey değil, o yüzden telaşlanmayın dostum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Hohon, içerisi çok daha parlak, gözlerim bayram ediyor~</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bu da ne? Bir sürü kitap işimizi görecek mi, ha?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Çok işti~ Bitirmemiz gereken bir ziyafetimiz var, yola çıkalım mı, tamam mı?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Oogh, şu arkadaş... bana iyi bir darbe vurdu...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Ah dostum, zavallı arkadaş...</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Çok yazık, çok yazık... Zavallı eski dost, eğlence başlamadan öbür dünyaya gitti.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Biraz acıyacak, seni uyarıyorum~ Bebek gibi davranma~</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Daha dikkatli olmalıydın, dostum~ Arkadaşların her zaman kıçını kurtaramaz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Huff... Acı duman bana iyi hissettiriyor, ha?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Mi">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Teyakkuzda kalın, hanımlar.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Çok eğlenceli görünüyor, değil mi~ Biraz ısınmaya ne dersiniz?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Huuuff... Duman normalden daha acı. Hohon...</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Ne aptal adamlardı~ Tam eğlenmeye başlıyordum.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bakalım... bir kitap, iki kitap... ... Evet, tam miktar~</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bırak beni, dostum... Hata yaptım ve yakalanmalarına izin verdim.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Bu iyi değil... Geri dönebilecek miyiz, ha?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Korkutucu değiller! Korkunun bize onlardan önce ulaşmasına izin veremeyiz.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Vay canına, bu zekiceydi... bana çok zarar verebilirdi.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Hımm, işimi bitirdiğimi sanmıştım... hala daha mı var??</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Evet, evet, orası. İyi bir vuruş gibi hissettirdi~</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Jin">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Evet, evet. Şunu bitirelim de ziyafetimizin geri kalanının tadını çıkaralım.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Evet, buna hazırlanıyordum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Neden önden gitmiyorsun da önce ne olduğunu görmüyorsun.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Hoh hoh hon. Kim olduklarını sanıyorlardı ki bize karşı gelsinler.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Tamam, tamam. Kitaplarını verin. Onları toplayıp mavi arkadaşa vermeliyiz, anladın mı??</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bırak da bu pipodan son bir nefes alayım...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Ah, kahretsin... Mavi arkadaşın emrini reddetmeye cesaret edemeyiz...</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">İşler biraz tehlikeli görünüyor, iyi misin??</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bir davetsizi böyle karşılamazsın, değil mi? Bana gıdıklama bile yapmıyorsun~</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Çok çevik tipler olduklarını sanmıştım, ama şimdi tekrar bakınca... sadece aptallar görüyorum.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Şu zavallı arkadaşlar biraz başarısız.</BattleDialog>
+    </Type>
+  </Character>
+
+	<Character ID="SmilingFaces">
+		<Type ID="START_BATTLE">
+			<BattleDialog ID="START_BATTLE_0">Bu da ne? Neden bu arkadaşlarla savaşıyoruz.</BattleDialog>
+			<BattleDialog ID="START_BATTLE_1">Onları öldürürsek kitap alacağımızı duydum? Mavi arkadaşın onlara bir şey için ihtiyacı var.</BattleDialog>
+			<BattleDialog ID="START_BATTLE_2">Hoh hon. Okumaya merak salmış, ha?</BattleDialog>
+			<BattleDialog ID="START_BATTLE_3">Bu garip. Sana söylüyorum... buna engel olamayız. Hazır olmalıyız, ha.</BattleDialog>
+			<BattleDialog ID="START_BATTLE_4">Yavaş gidelim~ Onları göremezsek pişman oluruz.</BattleDialog>
+		</Type>
+		<Type ID="BATTLE_VICTORY">
+			<BattleDialog ID="BATTLE_VICTORY_0">Bu arkadaşlar bize kitap verdikleri için çok cömertler!</BattleDialog>
+			<BattleDialog ID="BATTLE_VICTORY_1">Gidelim. Mavi arkadaş bizi bekliyor!</BattleDialog>
+			<BattleDialog ID="BATTLE_VICTORY_2">Ah, o kitaplardan birini alacaktım.</BattleDialog>
+		</Type>
+		<Type ID="DEATH">
+			<BattleDialog ID="DEATH_0">Pekala dostum, bu arkadaşlar üstesinden gelinmesi kolay değilmiş...</BattleDialog>
+			<BattleDialog ID="DEATH_1">Bu arkadaşlar bu kadar sert olmak için ne içti... bunun geleceğini görmedim...</BattleDialog>
+			<BattleDialog ID="DEATH_2">Bu büyük bir sorun... Şimdi ne yapacağız...?</BattleDialog>
+		</Type>
+		<Type ID="COLLEAGUE_DEATH">
+			<BattleDialog ID="COLLEAGUE_DEATH_0">Hâlâ çok iyiyiz, öne geçmeyin arkadaşlar.</BattleDialog>
+			<BattleDialog ID="COLLEAGUE_DEATH_1">Kahretsin... bu korkutucu. Benim için işler iyi görünmüyor...</BattleDialog>
+			<BattleDialog ID="COLLEAGUE_DEATH_2">Zavallı arkadaşımızın nasıl katledildiğini gördükten sonra devam edecek miyiz??</BattleDialog>
+		</Type>
+		<Type ID="KILLS_OPPONENT">
+			<BattleDialog ID="KILLS_OPPONENT_0">Whoho, bu arkadaş havada kayboldu mu? Hoh hoh hon!</BattleDialog>
+			<BattleDialog ID="KILLS_OPPONENT_1">Endişelenme. Buradaki arkadaşlarla başa çıkamasam gülmüyor olurdum.</BattleDialog>
+			<BattleDialog ID="KILLS_OPPONENT_2">Endişelenecek bir şey yok~</BattleDialog>
+		</Type>
+	</Character>
+</BattleDialogRoot>

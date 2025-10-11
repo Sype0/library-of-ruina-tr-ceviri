@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Workshop</GroupName>
+  <Character ID="Named">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bir deney için hazır mısın?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Basınç seviyesi… normal. Buhar yoğunluğu… uygun!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Biraz aksiyon için can atıyordum… Bu yeterli olmalı!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Vay canına~! Bu yeni parça büyük bir hit olacak!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Öğrenmek istediğim o kadar çok şey var ki. Kitapları nereye koyacağız?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bu tam bir fiyaskoydu…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Hayır… Tam 'eureka' diyecektim ki…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Tehlike sadece daha heyecanlı hale getiriyor!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Sanırım bunu bir daha kullanmayacaksın, ha? O parçaları bir süreliğine ödünç alayım!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Endişelenme! Bir sonraki testimizin büyük bir başarı olacağına dair bir his var içimde!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Böyle bir teknolojiyi daha önce hiç görmemiştim! Bunu nasıl yaptılar?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Çok eğlenceli tipler! Bana daha fazla yeni şey gösterebilir misiniz?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Güzel. Çok fazla kalmadınız, ha?</BattleDialog>
+    </Type>
+  </Character>
+
+  <Character ID="Workshop">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Evet, iyiyim! Hadi yapalım şunu.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bunu daha savaş alanında kullanmadım… iyi olmalı, değil mi?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Rakiplerimiz yeterince iyi görünüyor!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Bunun sorunsuz olduğunu onayladığımızda, hemen teslim edebiliriz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Bakalım… İçini doldurduğumdan emin oldum, değil mi?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Aferin size, beyler! Şimdi hareket etmeli miyiz?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">İyi bir pratik oldu, değil mi? Geri döndüğümüzde teslim edebileceğimizi düşünüyorum!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Burada ne tür kitaplar alabiliriz?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Umarım bolca bilgi edinebiliriz…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Diğer Sendikalar hakkında okumak isterim.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Aman tanrım… Montajda bir hata mı vardı…?</BattleDialog>
+      <BattleDialog ID="DEATH_1">Hayır hayır olamaz… Neyi yanlış yaptık…?</BattleDialog>
+      <BattleDialog ID="DEATH_2">Hayır… Yanılıyor olamam!</BattleDialog>
+      <BattleDialog ID="DEATH_3">… Bunun başarısız olmamasını umuyordum.</BattleDialog>
+      <BattleDialog ID="DEATH_4">Böyle ölmek istemiyorum…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Tahmin edeyim… Taşımak için çok mu ağırdı?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Sanırım o parça farklı bir parçaya ihtiyaç duyuyor…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Sorunun nerede olduğunu gördün mü?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Silahın suçlu olduğunu sanmıyorum.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Çabucak bitirmeye odaklanalım~</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Çok iyi silahlarınız var, ama onları nasıl kullanacağınızı hiç bilmiyorsunuz…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Bu iyi bir referans olacak, değil mi?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Sırlarınızı ortaya çıkarmak için sabırsızlanıyorum!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Geri kalanını bitirmeli miyiz?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Doğru seçimi yaptığımı biliyordum!</BattleDialog>
+    </Type>
+  </Character>
+  
+</BattleDialogRoot>

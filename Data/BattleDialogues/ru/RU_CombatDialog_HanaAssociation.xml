@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>HanaAssociation</GroupName>
+  <Character ID="Hana_Fixer_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Ne garip bir yere geldim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Tam raporlarda anlatıldığı gibi. Sonuçta… bir Kütüphane gibi hissettirmiyor.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Tanıdık üniformalar görüyorum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Demek buraya gelen konukların gücünü böyle çalıyorlar…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Her neyse… Bundan sonra sık sık görüşmeyi umuyorum, tanıştığımıza memnun oldum.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Kesinlikle zayıf değillerdi…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Biraz şansla bu kitaplar Kütüphane hakkında bilgi edinmemize yardımcı olur.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Geri döndüğümüzde rapor edecek çok şeyimiz var.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Yöneticimiz iyi mi acaba…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Durum kontrol altına alınmış görünüyor… Geri dönelim.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Çok dikkatsizdim…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Kontrol edemeyeceğimiz bir sonuç…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Biliyordum… Yeterince güçlü değildik…</BattleDialog>
+      <BattleDialog ID="DEATH_3">En azından onları biraz oyalarım…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Talihsiz… Ama sanırım gitme zamanı.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Elimden geleni yapmak zorundayım.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Şimdi her şey yolunda olmalı… Eminim.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">… Herkes iyi mi?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Yakında bitecek… Dayanın beyler.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Hasar ölümcül değil. En azından şimdilik…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Savunmanızda bir açık görüyorum. Biraz sinirlenmiş görünüyorsunuz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Sadece birkaç tane daha kaldı.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">İnisiyatifi ele almak tarafımız için kolay olmuyor.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Onları gözden kaçırmayacağım!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Çevrenizi gözlemlemeye devam edin.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Hana_Fixer_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Yönetici Mirinae, başlayalım mı?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Endişelenmeyin, hanımefendi. Bu işi bitirip buradan sağ salim çıkacağız.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Evet, hanımefendi. Sizi bu taraftan destekleyeceğiz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Her neyse… Bundan sonra sık sık görüşmeyi umuyorum, tanıştığımıza memnun oldum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Her zamanki gibi yapacağız.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Çok kurnaz rakiplerdi…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Yine de, çok sorun yaşamadan hallettik.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Herkes iyi mi?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Bunun gibi talepler beni her zaman geriyor…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Sanırım iyiyim… Kendinize dikkat edin.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Kızgın… değilim.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Üzgünüm. Yapamıyorum……</BattleDialog>
+      <BattleDialog ID="DEATH_2">Beklediğim gibi… yeterli değildik…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Dikkatsizlikti… Daha çok dikkat etmeliydim…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Gardımı düşürdüm…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Hasar ölümcül değil. En azından şimdilik…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Elimden geleni yapmak zorundayım.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Şimdi her şey yolunda olmalı. Eminim.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">… Herkes iyi mi?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Eğer geri çekilemezsek, sonuna kadar sağlam durmaya çalışacağım.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Savunmanızda bir açık görüyorum. Biraz sinirlenmiş görünüyorsunuz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Sadece birkaç tane daha kaldı.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">İnisiyatifi ele almak tarafımız için kolay olmuyor.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Onları gözden kaçırmayacağım!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Çevrenizi gözlemlemeye devam edin.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Hana_Mirinae">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Odaklanın. Neler yapabileceklerini bilmiyoruz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bazı sonuçlar göstermeye çalışalım.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Umarım yeteneklerinizi tam olarak sergileyebilirsiniz.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bu kadar kolay düşmenizi beklemiyordum.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bir dilek, kendinden bir şeyi riske atmadan gerçekleşmez…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Sakinliğinizi koruyun.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Eğer işler yolunda gitmezse, bu varabileceğimiz en son noktaydı demektir.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Buraya bir plan yapmadan gelmedik.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hareketlerinizi tahmin etmeme bile gerek kalmadı.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Sonuna kadar konsantrasyonunuzu kaybetmeyin.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Görünüşe göre bizi küçümsediniz.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Hana_Harold">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Mesafe kısa… Önce rakiplerimizin davranışlarını gözlemleyelim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Diğer Yıldızlardan çok farklı olmamalıdır…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Yönetici Mirinae. Hazır mısınız?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Hiç de zor değildi…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Yıldız zaten gökyüzünde çok yükseldi…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Yoluna çıkan her şeyi yutuyor… düşündüğümden daha güçlü…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Geri çekilemeyiz…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Geri kalanımız daha dikkatli olmalı.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">…Evet. Bu gidişle yenileceğiz.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Umarım bu işe yarar…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">… Bitiş çizgisini görmeye başlıyorum.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Her biri güçlü. Onları hafife alamam…</BattleDialog>
+    </Type>
+    <Type ID="ERROR" />
+  </Character>
+</BattleDialogRoot>

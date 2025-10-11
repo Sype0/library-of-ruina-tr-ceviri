@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Tomerry</GroupName>
+  <Character ID="Tomerry">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Anne bize kitap getirirsek ödül vereceğini söyledi. Sabırsızlanıyorum!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Burası evimizden daha büyük… Ve Annem gibi bir sürü minik insan görüyorum…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">İyi bir çocuk şikayet etmeden söyleneni yapar!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Annem bir sürü kitap getirirsem mutlu olur, değil mi?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Sanırım Babam da beni tebrik eder!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Boş hissediyorum. Sanki bir parçam yok oldu. Üzgünüm… ağlayacakmışım gibi hissediyorum……</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Evimize saldıran kötü adamlardan daha güçlü görünüyorlar…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Arkadaşlarım… Çok acı çekiyorlar… Ne yapabilirim…?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Ah… A-annem beni cezalandırabilir…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Evimizdeki insanlarla barış getirmeye geldik!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Annem beni bu kadar sıkı çalışırken görse… Beni tebrik eder, değil mi? Yaşasın…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Benimle oynamayı sevdin mi? Ben de, çok eğlenceli!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Tomerry_Phase2">
+    <Type ID="START_BATTLE" />
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Çok yalnızım, yalnız olmak dayanılmaz… Nereye geldim?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Neredesin. Çok korkuyorum… Geri gel yanıma. Tommy… Tommy…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">………</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Eğer sevginin gücünü anlamazsan… bu sana anlamana yardımcı olur.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Bana zarar verdiğin için bir ceza bu.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">… Benim sevgili annem için.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="LoveTownPeople">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Sana vur…acağım… ve vu…racağım… ve t…ekrar…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Hay…di onları… bir yıldı…z gibi… katla…yalım…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">K…ötü… çocukla…rın… ceza…ya ihtiyacı… var…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Her…kes… neşe…lenin…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">İncit…ilmek iste…miyorum…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Her…kese yar…dımcı… olacağım…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Anne… öyle de…medi…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">Sev…gi iy…idir…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Se…vgimiz… ve her… şeyi kırmamız… iyi…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Ç…ok… ödül… alacağız…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bu k…ez ne t…ür ödül…ler ala…cağız… Tomerry… kadar ç…ok büy…ümek isti…yorum…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Kay…bede…meyiz…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">B…u sev…ginin… gücüd…ür…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Sevginin… ne k…adar güçlü… olduğunu… küçümse…meyin…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Ölmek… iste…miyorum…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Sevdi…ğim in…sanlarla… olmak… istiy…orum…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Bana ve…rdiler…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Kor…kuyorum… kurtar…ın beni…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Öz…günü…m… Bir da…ha yapm…ayacağım…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">B…eni ya…lnız bıraktılar…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">İstemi…yorum…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Eğer sevgiyi… bizimle anla…yabilseydin……</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">L…ütfen… insanla…rımıza… zarar ver…meyin… lütf……</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">K…açmalı… mıyı…z…?</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Onl…arı ye…neceğiz…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">İ…yi… o… kadar… çok değiller…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Ona c…eza ver…dim…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Ya…pabili…riz…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Daha… çok savaş…abilirim…</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

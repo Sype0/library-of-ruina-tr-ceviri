@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Süpürücüler</GroupName>
+  <Character ID="Anton">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">... Temizliğe... başlamalıyız...</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Durmadan... ilerliyoruz...</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Görünüşe göre... bu lüks... yere giden... başka bir yol var...</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Artık... tüm aile... endişelenmeden... yemek yiyebilecek...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Umarım... komşularımız... güçlü kalır...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">İşimizi... çabuk... yapmalıyız... Hâlâ... çok var...</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Kim düşerse düşsün... ilerliyoruz...</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">İyiyim...</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Yiyemem... Kitaba dönüştü...</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Normal saatler dışında temizlik yapmayalı... epey oldu...</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Sadece... önümüzdekini... temizlememiz gerekiyor...</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Valerie">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Sevgili komşular, yakıt depolarınızı doldurdunuz mu?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Aileyle her zorluğun üstesinden gelebiliriz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Çocuklarımız için, bu yerden kitap denen o eşyaları almalıyız.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Buraya düşen tüm kitapları teslim edeceğiz. Anne sevinecek.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Sevgili komşular... lütfen... dikkatli devam edin...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Ailemiz ve şehrimiz için duramayız.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Önümüzdeki her şeyi temizlemeliyiz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">... Bir komşu öldü.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Sadece her zamanki gibi akşam yemeği yiyeceğiz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Erimeyorlar. İnsan değiller gibi.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Herkes. Yapacak sadece biraz işimiz kaldı.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Lyla">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Ailemiz ve komşularımızla olmak güven verici.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bunu kendi başımıza halledelim ki Anne sinirlenmesin.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Hızlıca temizleyelim ve işaretleyelim. Akşam temizliğine hazırlanmalıyız.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bu kitap, L Yuvasını temizleyen komşularımıza çok yardımcı olacak.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Umarım herkes işini... güvenle bitirebilir...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Temizlik yaparken çevrenize dikkat etmeyin.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Geriye kalan komşuların ve ailenin endişelenmesine gerek yok.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Durumu değerlendirecek zaman yok. Temizlik devam etmeli.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Erimezdiniz ama kitaba dönüştüler.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">İyiyim. Şimdiye kadar çok fazla hasar almadım.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Hâlâ temizlenecek çok şey var.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="sweepers">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Hepsi Anne ve ailemiz için...</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Sokaklara kıyasla daha az temizlenecek şey görüyorum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">İşimiz temizlik yapmak.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Ailenin gücü kötü bir şey değil... İyi bir şey...</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bu kitapları almalı mıyız?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Geri dönelim. Akşama hazırlanmalıyız.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Üzgünüm... Sevgili komşular...</BattleDialog>
+      <BattleDialog ID="DEATH_1">Temizliği bitiremedim...</BattleDialog>
+      <BattleDialog ID="DEATH_2">Bizi bekleyen bir ailem var...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Hâlâ onları temizleyebiliriz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Sorun değil. Hâlâ yakıtımız var.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">İlerlemeye devam etmeliyiz.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Onları eritemeden kitaba dönüştüler.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">İyiyim. Şimdiye kadar pek hasar almadım.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Hâlâ temizlenecek çok şey var.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

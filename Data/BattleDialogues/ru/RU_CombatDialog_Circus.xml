@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Circus</GroupName>
+  <Character ID="Ema">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bir performans için toparlanalım.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Göremiyor olsam bile, korkmuyorum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Önümüzde yedi adım ötede düşmanlar var.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Dikkatsizce hareket etme, dikkatli ol. Sana yönü söyleyeceğim.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Acaba Leydi Angela performansımızdan keyif alacak mı?</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Bu, sirk şefimizin daha fazla insana mutluluk getirmesine olanak sağlamalı.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">……</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">İşleri adım adım halledersek bunu başarabiliriz.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">Sanırım düşündüğümden daha hızlı alışıyoruz.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_5">Dikkatli bakıp bana söylemelisin, tamam mı? Bunu tek başıma yapamam.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_6">Tamam. Nereye gideceğimi Noah'ın söylemesine güveniyorum.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_7">Önümde kaç kişi var… Kim az önce öldü… Hiçbir fikrim yok.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_8">Göremiyorum… Korkuyorum. Korkuyorum…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_9">Yolu söyleyecek bir arkadaşım olmadan… Başka bir adım nasıl atabilirim…?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Umarım bu, performansımızı harika kılabilir…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Performansımızı izlediğiniz için teşekkürler… sonuna kadar…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Noah">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bir performans için toparlanalım.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Göremiyor olsam bile, korkmuyorum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Önümüzde yedi adım ötede düşmanlar var.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Dikkatsizce hareket etme, dikkatli ol. Sana yönü söyleyeceğim.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Hiçbir şey duyamıyorum. Gördüğüm tek şey karanlık.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

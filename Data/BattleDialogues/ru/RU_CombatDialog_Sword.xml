@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Kılıç</GroupName>
+  <Character ID="kimsatgat">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Fenerleri yakın ve yolu açın.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Burası kaynayan su dolu bir hendekle çevrili gibi... Savunmalarını ne pahasına olursa olsun kıracağız.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Temelleri hatırlayın. Kılıcı tereddüt etmeden tutun.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Batan bir geminin yolcuları birbirlerini kurtarmak için birleşirler. İhtiyaç anında birbirimize yardım etmeliyiz. Tekrar görüşürüz.</BattleDialog>      </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bin düşünceden bir hata... Bu benim hatam.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Bıçaklar kırılıyor ve oklar tükeniyor... Zemin kaybediyoruz.</BattleDialog>      <BattleDialog ID="COLLEAGUE_DEATH_1">... Gökyüzünü kaplayan kara bir bulut görüyorum. Yakında yağmur yağacak gibi.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Çatıların üzerinde batan bir ay parlıyor... Üzgünüm.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Kafanda bu kadar çok düşünce varken, bir hata olması kaçınılmazdır.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ne aptallık. Aşırı kurnazlık zehir olabilir.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Yaşlı bir at nereye gideceğini iyi bilir.</BattleDialog>
+    </Type>
+  </Character>
+
+  <Character ID="sword">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">İster kaynayan su, ister kavurucu ateş olsun... Bekleyip görecek lüksümüz yok.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Sanırım burada herkesin ölümü adil bir oyundur.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bir ördek gibi oturursan, savaşı kaybedersin.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Sanırım bunu sorunsuz halledeceğiz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Bu, yaptığımız tüm bıçak kavgaları gibi olacak.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Paslı Zincirlere bunun hakkında rapor vereceğim..</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Aynı gemideyiz... Onlara yardım etmemiz adil.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Normalden daha kayıtsız hissediyorum...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Hata benim...</BattleDialog>
+      <BattleDialog ID="DEATH_1">Utanç verici... Böyle bir fırsatı kaybetmek...</BattleDialog>
+      <BattleDialog ID="DEATH_2">Sonunda, bu bıçağın keskinliği... hayatıma mal oldu.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Gerçek bir belaya bulaştık...</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Önce kendi hayatımı düşünmeliyim.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Zorlu yolculuğun burada sona eriyor; Umarım huzur içinde uyuyabilirsin.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bu kadar uzun süre savaştıktan sonra tükenmiş olmalı.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Tüm o tedbirli olman, bir kılıçtan kaçamayacak kadar katı yaptı seni.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bu kılıcın darbesine karşı daha iyisini yapmalıydın.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

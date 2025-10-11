@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Bayyard</GroupName>
+  <Character ID="Named">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Burası Kütüphane olmalı… Gardınızı düşürmeyin.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Hızlı vurun ve baskıyı sürdürün!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Kimse çölün nefesini durduramaz!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Benden daha zayıf birine diz çökmeyeceğim!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Hahaha! İyi mücadele ettiniz.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Gelecekte onlara kim… liderlik edecek…?</BattleDialog>
+      <BattleDialog ID="DEATH_1">Ne zaman eğileceğini iyi bilmek gerekir…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Düşmanların sizi alt etmesine izin vermeyin!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Anahtar, geri çekilmek yerine sağlam durmaktır.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Sarsılmaz bir inançla devam etmeliyiz.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Haha! Arkadaşımın anlattığı tüm hikayelere göre… Bu çok kolaydı!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Sonuna kadar dikkatsiz olmayın. Anladınız mı?!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Beni durduramazsın!</BattleDialog>
+    </Type>
+  </Character>
+
+  <Character ID="Bayyard">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Ne kadar çoklar!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Önce ben gideceğim ve halledeceğim!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Kütüphane… İtibarının önerdiği gibi kolay bir iş olacak gibi görünmüyor.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Neyse, daha önce de benzer işleri bitirdik…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">İyi olmalı. İlerlemeye devam edelim!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Güzel. Geri dönme zamanı!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bu beni tereddüt ettirmeye yetmedi!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Dönüşte bir bira içsek mi?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Bu arada, kazandığımız bu kitaplar ne?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Kitaplar bilgi içeriyor… Umarım bize faydalı olurlar.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Zayıflıklarımı bilmek… o da önemli.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Kahretsin… Yeterince yetenekli değildim…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Seni rahatsız etmesine izin verme…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Bu şekilde ölmek…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Elimden geleni yaptım… Pişmanlığım yok.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Geri çekilmeyeceğim!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Bu iyi görünmüyor.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Durum can sıkıcı bir hal aldı…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">… Burada pes edemem.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Bu henüz bitmedi.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Haha! Bu çok heyecan verici!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Bu, aldığımız en zorlu iş!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Şimdi baskı yapmalıyız!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Sonunda biri yere serildi!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Savunmanızdaki açığı net bir şekilde görebiliyorum!</BattleDialog>
+    </Type>
+  </Character>
+  
+</BattleDialogRoot>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Mavi Yankı 2 Hokma</GroupName>
+  <Character ID="H_P_Pluto">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Eğer hazırsanız… Başlamalıyız.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Başkalarının eliyle gösterilen dünya tarafından kandırılmamanız daha iyi olur.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Umarım bu konuda birbirimize karşı olumsuz duygular beslemeyiz.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bir kez daha… kandırıldım.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Gözlerinin gördüğüne bu kadar kolay güvenmemelisin.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Affedersin. Kötü niyetli değildi.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Ben sadece görevlerimi yerine getiriyorum.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Hedef yakın gibi görünüyor.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_P_Hokma">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Eğer denersek, başarılı olacağımızdan eminim.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Sonuna kadar inancımızı korumalıyız.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Gerisi için kütüphanecilerin geri kalanına güvenebilirsin.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Kendini suçlama ve dinlen.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Telaşlanmak tavsiye edilmez. Sakin olun ve nefesinizi toparlayın.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Sanırım hepimiz geri dönüşü olmayan bir yolda yürüyoruz.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_P_Librarian_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Haklısınız, Bay Hokma… Bununla başa çıkmanın bir yolu var mı?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Kızgın değilim demek isterdim… ama kendimi iyi tanıyorum…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Diğerleri iyi mi?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Benim için endişelenmeyin. Neler yapabileceğimi biliyorum.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Eğer pes edersek, işte o zaman gerçekten her şey biter…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Bunu atlatabildiğimiz için mutluyum.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_P_Librarian_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bunu geleneksel bir yöntemle yenebileceğimizi sanmıyorum…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Üzgünüm, daha fazla yardım edemedim…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Kendime inanmak… ve ilerlemek.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Arada sırada iyi olup olmadığımızı kontrol etmeliyiz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Durum… Rüzgarı tersine çevirebileceğimize inanıyorum.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… Bu sefer gerçekten bitti, değil mi?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_P_Librarian_3">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Kazanabileceğimize inanmalıyız…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Ne aptalca… bir numara.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Neredeyse oradayız… sadece biraz daha…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Neden bu kadar aceleci davrandın…!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Beni köşeye sıkıştırıyorlar… Yapabileceğimizi düşünüyor musunuz?</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Ucuz atlattık… Onu durduramasaydık ne olurdu?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_P_Librarian_4">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Sabırsızlık bize zarar verecek… Ben hazırım.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bu iyi değil… bu hızla…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Daha fazla odaklanmalıyız.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Yalanlar… gösteriyor, ha?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Hazırlanıyor… Dikkatli olun, çocuklar.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Bunun ne kadarını inanmalıyız, emin değilim.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

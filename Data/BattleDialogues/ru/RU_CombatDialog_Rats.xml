@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Rats</GroupName>
+  <Character ID="Pete">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bir sürü aptalı yenemeyeceğimi mi sanıyorsun?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bize karşı nazik olma, çünkü biz olmayacağız.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bir grup zayıftan korkmuyoruz.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bu şekilde devam edersek Başıboş Köpekler'den bile daha büyük bir Sendikayı hedefleyebilirim!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bu bizim için kolay bir zaferdi!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Kahretsin. Rüyam… hala çok uzakta…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Sanırım sadece çok büyük hayaller kuran bir aptaldım…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Sonuna kadar benimle savaşman gerekiyordu!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Neden bu kadar zayıf olmak zorundalar? … Lanet olsun.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Kahretsin… Bu çok adaletsiz!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Tam tahmin ettiğim gibi zayıf.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Zayıfları yenmek, benim gibi gelecekteki bir Parmak için çocuk oyuncağı olmalı.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Sadece bir kabadayı değilim. Aynı zamanda çok zekiyim de, görüyor musun?</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Lenny">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Uf… Sadece birkaç saatimiz var. Bitirelim şunu.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Hey, buraya gel ve bitirelim artık!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bizi Fareler olduğumuz için küçümsemeyin.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Küçümsediğin Fareler tarafından parçalanmak nasıl bir his?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Şey… Yalan söylemeyeceğim, başta biraz korkmuştum, ama düşündüğümden daha zayıflardı.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Kahretsin… Buraya gelmemem gerektiğini biliyordum…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Hayatım boyunca dibe sürünerek geldim, böyle ölmek için değil…!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">…Psh. Zaten senden pek bir beklentim yoktu.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Sadece ayak bağı olma.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Ölmen umrumda değil.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Güya önemli bir şeyin koruyucusu olmak için çok zayıfsın.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Yakındı… Ama kazandık.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Hmph, ne kadar da çok zayıflık. Bir grup kayıp.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="MangChi">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Onun hayalini gerçekleştirmek için gerçekten tüm bunları yapmak zorundayım…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Uf… Keşke birkaç organ daha toplasaydık…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bir Sendikaya katılıp bir kez olsun rahat etmek istiyorum.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Deneyebiliriz. Şimdi hayatımız biraz daha iyi olmalı.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bu, organ toplamaktan daha kolay mı hissediyor…? O kadar da kötü değildi.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Sanırım benim için bu kadar. Gerçekten hiçbir şeyin tadını çıkaramadım…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Gerçekten böyle tuhaf bir sonla bitmek istemiyordum…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Eh… Ne var…? Ölü değilsin, değil mi?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Sana buraya gelmenin kötü bir fikir olduğunu söylemiştim…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Bence yeni bir vücut bulmak çok daha hızlı ve güvenli olurdu…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bu temiz bir vuruştu!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Hayatımda bir Sıçan'dan daha zayıf birini görmedim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Eek… Az önce onu ö-öldürdüm… Değil mi…?</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+</BattleDialogRoot>

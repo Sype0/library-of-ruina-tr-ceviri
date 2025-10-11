@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Gaze Office</GroupName>
+  <Character ID="Alloc">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bu kadar maliyetli olan bu prosedürün değerini kanıtlama zamanı.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Gerçekten de… Bu yerde analiz yapmak daha karmaşık.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Pervasız olmamalı ve hareket etmeden önce düşmanımızın davranışını analiz etmeliyiz…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bu, bilgi edinme yöntemimizden daha dürüst hissettirdi.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Ciddi şekilde hasar alan var mı? Vücutlarınızı kontrol edin.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Diğerlerini böyle yavaşlatmak istemezdim.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Para hırsına kapıldım ve hepimizi cehenneme sürükledim. Acınası bir aptal oldum…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Burada duramam, gerçekleştirmemiz gereken bir hedefimiz var.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Bunun gibi kayıplar yaşamak iyi değil.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">O saldırılar sadece zaman kaybı.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Saldırı menzilimdesin.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Endişelenmeyin. Az önce şunu parçaladım.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Dalloc">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Dikkatli olun. Güç seviyelerini tahmin edemiyorum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Şikayet etmeye zamanınız varsa ileriye bakın.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Düşmanın hareketlerini gözlemleyin.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Umarım bu, Tekillik hakkında bazı ipuçları bulmamıza yardımcı olabilir.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Biraz hasar aldım… Ama hareket etmekte sorun yaşamıyorum.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Hayır… Hasar çok ciddi. Sınırımdayım…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Görüşüm bulanıklaşıyor. Kameramda bir sorun olmalı…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Bu kötü… Vücudumun çeşitli yerleri de hasar gördü.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Ciddi bir kayıp yaşayabiliriz.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Düşman etkisiz. Ama savaş henüz bitmedi.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Düşman önümde. Hızlı saldırmalıyım…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Yoluma engel oluyorsun… Çekil önümden.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Bono">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bu işin buna değip değmeyeceğini tekrar düşünmeliyiz…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Burada Azıdiş Tamircilerinden bilgi alabileceğimize emin misiniz?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Tamam, anladım… Bunu ciddiye alacağım.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bu kağıt yığınının ne kadar değerli olduğunu bilmiyorum, ama… Bunun için dişimizi tırnağımıza takarak savaşmaya değer miydi…?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Şimdi iki yüz milyon Ahn alabilir miyiz? Fena değil.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Tek istediğim bu cehennemden dışarı çıkmak!!!</BattleDialog>
+      <BattleDialog ID="DEATH_1">Lanet olsun. Böyle bir yere hiç gelmemeliydim…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Öylece gidip ölemezsin…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Hepiniz delirmişsiniz… Bu, her açıdan aptalca bir fikirdi.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bu çok yakındı… Bu iyi değil.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">En pahalı ameliyatı bir sebeple seçtim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Oldukça hasar aldık… Daha ne kadar dayanmalıyız?</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

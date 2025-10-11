@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>RustyChainGroup</GroupName>
+  <Character ID="Jikan">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Kendi başınasın.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Şimdi bayılmayı düşünmüyorsun, değil mi?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bu işi bitirmezsek, Kurokumo Klanı hepimizin kafasını kesecek…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bu gidişle Kılıç Kını'nın yardımına ihtiyacımız kalmayacak, ha?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bu olamaz… Bu piçler… hile yapıyor olmalılar…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Kahretsin… Patron neden o korkağı benimle gönderdi?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">İşte bu yüzden korkakları sevmiyorum…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Sen kendi payına düşeni yapmayacak mısın? Tüm işi ben yapıyorum burada.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Şimdi ÖL!!! Haha! Çok yumuşak.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bir Veba için bu kadar…</BattleDialog>
+    </Type>
+  </Character>
+
+  <Character ID="RustyChainGroup">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Kurokumo ile uğraşmak için neden tüm bunları yapmak zorundayız…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bu, zayıf noktalarını öğrenmek için, o yüzden çok şikayet etme.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Jikan haklı. Bunu batırırsak, Sendikamız güvende olmayacak.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Hey! O saçmalığı kendine sakla. Şimdi şikayet etme zamanı değil, değil mi?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bir sürü zayıf adamlardı. Denememize bile gerek kalmadı.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">Kurokumo Klanı'nı testislerinden yakalamak için gereken tek şey bu muydu?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">Oof, kaslarım… Geri dönelim.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Ölmek istemiyorum… Bu adil değil…</BattleDialog>
+      <BattleDialog ID="DEATH_0">Ne kadar güçlüler…?</BattleDialog>
+      <BattleDialog ID="DEATH_0">Onları küçümsememeliydim…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">İşler karmaşıklaştı.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Burada kimse işini yapmıyor mu?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Kurokumo Klanı ile kafa kafaya dövüşmeyi tercih ederdim.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bu beklediğimden daha çabuk bitecek.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Daha fazlası var… Bu ne zaman bitecek?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Çok inatçılar… ama acemi acemidir.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

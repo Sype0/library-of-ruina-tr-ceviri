@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Mavi Yankı 2 Hod</GroupName>
+  <Character ID="H_G_Greta">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Hawhawhaw! Malzemeleri hazırlama zamanı mı?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Burada büyüleyici bir seçim var!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Diğerleri nasıl merak ediyorum!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Sevindim… Burada gerçek bir lezzetle tanıştım…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Ah, bu berbat… Yani hemen şimdi pişiremem mi?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Aptal! Seni tek lokmada yutabilirim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">En ferahlatıcı tat değil! Dürüst olmak gerekirse.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Bu bana bir sürü ilham veriyor!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_G_Hod">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Hepinizden bir sürü şey öğrendim.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Bir yardımı dokunabildiği sürece.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Ben iyiyim… Siz nasılsınız?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Bununla başa çıkmanın iyi bir yolunu bulmalıyız.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">E-evet, İyiyim. Tereddüt etmeyeceğim!</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Hayallerinizi yıkmak istemedim. Ben sadece…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_G_Librarian_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bayan Hod. İyi olacak mısınız?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Geleceğini görmüştüm.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Hayır… … Dikkatli olmazsak büyük bir dezavantaja düşeriz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Bizi henüz köşeye sıkıştırmadı.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Hareketlerini okumalıyız…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… Görünüşe göre bu zorluğun üstesinden geldik.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_G_Librarian_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Şimdi kendimiz için endişelenmeliyiz.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Hala pek… yardım edemedim…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Sakin kalmalıyız… ve devam etmeliyiz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Ne kadar da şiddet.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Sanırım… henüz en kötü senaryo değil……?</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Neyse ki, bununla başa çıkabildik…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_G_Librarian_3">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Diğer katlar için endişeleniyorum… Hepsi iyi mi…?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Yapabildiğim… kadarını yaptığımı… düşünüyorum…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Üzgünüm. Senin için yapabileceğim bir şey yok şimdi…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Dikkatli olmazsam, o zaman yakında… ben de…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Rüzgar henüz tersine dönmedi…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Onu durdurmak için kendimizi çok zorladık…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_G_Librarian_4">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Ama ne kadar çok ağzı var…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Kahretsin… Dikkatli değildim…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Daha dikkatli olmalı ve yolundan çekilmeliyiz…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">O köpek balığı kız… Çok pervasız davranmıyor mu?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Gerçekten bizi avlanacak yiyecek olarak mı görüyor…?</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Ahh… O büyük silah çok tehditkardı.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

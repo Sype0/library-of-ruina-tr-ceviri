@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Sokak Lambası Ofisi</GroupName>
+  <Character ID="San">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Çocuklar, her zamanki gibi, yavaşça... ve sakin ilerleyelim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Fazla düşünmeyin, yaparsak şüphelenmeye başlayabiliriz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Kendinizi fazla zorlamayın, çocuklar.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">İyi iş çıkardınız! Size güvenebileceğimi biliyordum.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Sorunsuz hallettik. Kutlamak için Juli'ye gidelim.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bu benim hatam... Ekibimi bu kadar az bilgiyle buraya getirmemeliydim...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">İkimizin de vazgeçemeyeceği şeyler var.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">... Bu tür bir iş... gerçekten bana uymuyor.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Üzgünüm. Ama bunu yapmak zorundaydık. Korumamız gereken şeyler var...</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Mars">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Sakin kalıp şunu halledelim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bu kılıç gülünç derecede büyük görünüyor, ama onu kullanmakta hiç sorun yaşamıyorum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Ha? Canavar olduklarını duymuştum, ama normal insanlara benziyorlar.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bir kılıcın değeri, onu kullanan kişiye bağlıdır.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Gördün mü, patron? O bezelye saçlı aptaldan çok daha hızlıyım.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Sanırım daha çok deneseydim başarabilirdim...</BattleDialog>
+      <BattleDialog ID="DEATH_1">Belki de ona nasıl hissettiğimi söylemeliydim.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Sadece aptallar gibi hareket ediyorlar, görmüyorlar mı?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Çok kolay. Lulu bu konuda çok ağlak.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Çok yavaş. Tüm hareketlerini görebiliyordum.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Lulu">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Hey, kımılda! Neden orada bir aptal gibi dikilmeyi bırakıp savaşmıyorsun?!?!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Haydi, haydi! Hepinizi devireceğim!!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Uyanık kalın. Gardımızı düşürmediğimiz sürece bunu kazanabiliriz.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Evet! Gördün mü, patron? Çoooook güvenilirim, değil mi?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Onları şık bir şekilde yendim, şuradaki Bay Nazik gibi değil~</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Göründüklerinden daha sertlermiş... İşler iyi görünmüyor, bu yüzden şimdilik geri çekiliyorum.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hmhmm~ Benim için çocuk oyuncağıydı!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Tamam, tamam~ Lulu hepinizle tek tek ilgilenecek!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Hiç "Küçük bezelyeler daha sert ısırır" lafını duydun mu? Hayır mı? ...Pekala, şimdi duyacaksın.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="LuluAgain">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Üstüme gelin, pislikler!!!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Çok arsızca dikiliyorsunuz. Lanet olası piçler...</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">O bu şekilde ölmeye gelmedi... Kahretsin, hepsi sizin suçunuz.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Senin intikamını aldım, Mars. Şimdi aldığın turta için ödeştik, değil mi? ......</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Aptal... Neden bu zayıfların seni öldürmesine izin verdin...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bu şekilde ölemem... Herkes gibi ölemem!!!</BattleDialog>
+      <BattleDialog ID="DEATH_1">Bu piçlerin kafataslarını... parçalamalıyım...!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Biri düştü. Uyanık kalmalıyım.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">... Başkaları için endişelenme lüksüm yok.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Mars böyle öleceğini bilerek savaşmaya devam etti. Onun cesaretine yenilemem.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hepsi sizin suçunuz. Sen olmasaydın Mars ölmezdi!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Gördün mü? Ben sizin gibi adamlardan çok daha güçlüyüm!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">DURMAYA NİYETİM YOK!!!</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Evet, sen... kafatasını ikiye ayıracağım.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">ARRRRRGH!!!! Kapa çeneni!!! Onları bizzat döverek öldüreceğim...</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Evet... O olmalısın. O piçlerin lideri.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">KAPA ÇENENİ!!!</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

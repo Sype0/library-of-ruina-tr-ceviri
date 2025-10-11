@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>r_corp_ep1</GroupName>
+  <Character ID="R_Corp_Rudolph_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Geyikler, çabucak süpürüp geçelim onları.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Kolay rakiplere benzemiyorlar. Birlikte hareket edelim.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Diğer ekiplerin yardımına ihtiyacımız yok.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Nezaketen, iyi iş çıkardığınızı söyleyeyim.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Henüz değil… iş bitmedi…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Dikkatli olmalıyız.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Tehlikeli olmaya başlıyor… Zihnim pek stabil değil.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Her şey zihinsel beceri meselesi…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bizi durduracak kadar iyi değillerdi sanırım, ha?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Geyikler. İlerliyoruz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Acele edin! Eğer kavga uzarsa dezavantajlı duruma düşeriz.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Reindeer_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Yeni bir gün, yeni bir görev. Hadi yapalım şunu, çocuklar.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bu hiç beklenmedikti…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Pek seçeneğimiz yok. Ya bunu yaparız ya da hepimiz ölürüz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Yaptığımız her şey hayatta kalmamız için.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Hızlıca bitirelim şunu.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bir dakika daha sürseydi kötü bitebilirdi.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Yok ediliyoruz değil mi…?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Bilmiyorum. Üstler halleder.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Geri dönmeli miyiz şimdi, Bay Rudolph?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Onları küçümsedim…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Umarım başka bir ekip kazanabilir…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Yeterli bilgimiz yoktu… Daha fazla çalışsaydık…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Burası canavarlarla dolu…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Dayanmalıyız… Buna katlanmalıyız.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Bu… beklentilerimde yoktu…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Gergin olmamam gerektiğini biliyorum…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Böyle bir güç… Onu sadece derinliklerde görmüştüm.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">İyi bir silah yanlış ellerde işe yaramaz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Henüz sorun yaşamıyorum, bu yüzden şimdilik devam edeceğim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">… Dayanmak zorlaşıyor. Hızlıca bitirmeliyiz…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Görünüşe göre diğerleri yorulmaya başlıyor.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Maxim_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Burada yaşayıp yaşamamanız tamamen size bağlı!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Şu anda, her şeyi silip süpürmek görevimiz!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Düşüncelerinizi onlarla işiniz bittikten sonraya saklayın!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bu, Harabeler'deki şeylerle uğraşmaktan daha kolaydı!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Sonuçta o kadar da zor değillerdi!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Nasıl kaybedebilirim… Vahşileşemedim bile…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Geriye kaç tanesi kaldı?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Görünüşe göre bazı kurnaz rakiplerimiz var.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Lanet olsun! O bayağı ezilmiş.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Teknikler, ezici güce karşı hiçbir şey ifade etmez!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">İleri atılın ve yol açılacaktır!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Gergedan'ın boynuzu gibi tek başınıza ilerleyin!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Rhinoceros_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Cesur ve küstah olun! Gözü pek olun!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Düşman kim olursa olsun, onları Gergedan'ın ayakları altında ezeceğim!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Şimdi kim ezilmek ister?!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Hiçbir şey bir Gergedan'ın yoluna çıkamaz!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Hemen başlayalım mı, Yüzbaşı?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Kazandık!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Kazanabileceğini mi düşündün? Çok yanlış!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Bu bizi bir süreliğine yok olmaktan kurtarır.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Bir süredir ilk defa değerli rakiplere karşı savaşmak güzeldi!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bu bizi yenmek için yeterli olmayacak…!</BattleDialog>
+      <BattleDialog ID="DEATH_1">… Ugh… Ayakta kalmalıyım…!</BattleDialog>
+      <BattleDialog ID="DEATH_2">Böyle düşmeyeceğim…!</BattleDialog>
+      <BattleDialog ID="DEATH_3">Tersine olması gerekiyordu… Biz sizi bitirecektik…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Bana isabet etseydi, beni de yere serebilirdi.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Ben buna alışkınım!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Umarım bu, tüm sürünün yok olmasıyla sonuçlanmaz!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Umurumda değil! Yapacak işim var!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Çok kırılgan bir vücudun var!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Saldırılarınız işe yaramaz!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Henüz işim bitmedi seninle!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Yoluma çıktın… Ne aptal! Haha!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Myo_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Hippidi hop~! Tavşanlar otlamaya geldi!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bırakın Tavşanlar halletsin!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Nerede ot varsa oraya gitmeye hazırız!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Yemek için teşekkürler, doyurucuydu.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Phew~ Yorucuydu. Şimdi geri dönmeli miyiz?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Khrf… Haha… Gafil avlandım…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Bir Tavşan daha otlaklara geri döndü.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Burası eskisi kadar tehlikeli.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Dış Bölgeler'e yapılan bir keşif gezisi daha eğlenceli olurdu.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hala otlanacak bir sürü ot var!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">ÖL! Hahah! Bu hiçbir şeydi.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Öteki dünyadaki yaratıklar bundan daha sert olmalı!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Myo_Meet_Gebura_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Hala o Makine Hanımefendi'nin kuklası mısın?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Genç halim, kahramanımın böyle bir şeye dönüşeceğini tahmin edemezdi.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Evet. Geçmiş geçmişte kaldı.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… O kadar da kötü değilsin.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Kulaklarınızı dikin, Tavşanlar.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Her zamanki gibi yapacağız.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Bir Tavşan daha otlaklara geri döndü.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Kırmızı Sis için çalışıyorsun… Bundan daha güçlü olmalısın.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Bunca yıldır boş durmadım.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Size Tavşanların ne kadar güçlü olduğunu göstereceğim.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Ne demiştin hatırlıyor musun? Güçlü olanlar hayatta kalanlardır.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Durumun artık farklı olduğunu fark etmeliydim.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Gebura_Meet_Myo_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Her zamanki gibi çok konuşuyorsun. Konuşman bitti mi?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Benim hakkımda ne düşündüğün benim sorunum değil.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Umarım bir daha karşılaşmayız.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Lanet olsun… … Ama bunu kabul etmeliyim.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Kendinize inanın. O Tavşanları yenebiliriz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Panik yapmayın. Henüz bitmedi.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Kurbanlarının boşa gitmesini istemiyorsunuz, değil mi?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Kazanamamamız için hiçbir neden yok. Sakin kalın.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT" />
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Pek çok şey değişti ama ruhum sadece daha da güçlendi.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Hala hatırladığım kadar dikkatsizsin.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Rabbit_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Hiçbir şey kalmayana kadar otlayalım!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Tavşanlar otlamaya geldi.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Lezzetli bir yemeğe hazır mısınız?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Adamım! Umarım herkese yetecek kadar ot vardır.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Savaşları kazandıran ateş gücüdür!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Haha! Böyle savaştığımdan beri zaman geçti.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Ne… ot bitti mi bile?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Ahaha… Gerçekten öleceğiz…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Tavşanların bunu tek başına halledebileceğini mi düşünüyorsun?</BattleDialog>
+      <BattleDialog ID="DEATH_2">Hepimiz öleceğiz…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Görev başarısızlığa mahkumdu…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Çok şanssızsın.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Burası tam bir çılgınlık!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Belki de hepsini küçümsedik?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">İşler tehlikeli olmaya başlıyor, ha?</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bir Şehir Yıldızı bile Tavşanların yiyeceği bir ottan ibarettir.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Otlanacak bir ot daha azaldı.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Sanırım akşam yemeği için iyi bir yer buldun, ha?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Daha fazlasına hazırım! Hızlanalım mı?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Nicolai_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Çok fazla ses çıkarıyorsunuz. Susun ve odaklanın.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Tavşanlar. Buradayız çünkü yaşama şansı kazanmak istiyoruz, bu yüzden bunu değerlendirin, tamam mı?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Ölüme terk edilmek istemiyorsanız ciddi olun.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Geri döndüğümüzde rapor edilecek çok şeyim var…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bir dahaki karşılaşmamızda… Bu kadar kolay düşmeyeceğim.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Dikkatinizin dağılmasına izin veremeyeceğimizi anlayın.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">…Tavşanlar, tetikte kalın.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Hazırlık neredeyse tamamlandı… Biraz daha dayanın.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Nöbetinizi sürdürün!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Onlar önemsiz düşmanlardı.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Sahip olduğum en kolay savaş değildi ama yetenekleriniz gülünçtü.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Geriye az kaldı.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Kafanızın karıştığını açıkça görebiliyorum.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Nicolai_Meet_Gebura_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">… Myo, tanıdığın biri mi?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH" />
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT" />
+  </Character>
+</BattleDialogRoot>

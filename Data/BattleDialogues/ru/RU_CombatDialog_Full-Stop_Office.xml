@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Full-Stop Office</GroupName>
+  <Character ID="Liwei">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Çok gerilmeyin, ilerlemeye devam edeceğiz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Sırtımı kolla. Ben ilerleyeceğim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Başarısız olmayacağım… Seni çabucak avlayacağım.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Kazansak bile, gitmemize izin vermeyebilirler… Mavi Yankı'nın ne istediği hakkında hiçbir fikrim yok.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Hak edilmiş bir zafer. Herkes iyi mi?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Görünüşe göre zayıf olan bendim…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Henüz değil… Bitmesini istemiyorum!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Şimdi ne olacak?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Tetikli kalın! Henüz bitmedi.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Bu… durmamız gereken yer mi?</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Onlar çaylak. Tahmin etmemize bile gerek yok.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Hedef etkisiz. Sonrakine geçiyorum.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Duyular tüm farkı yaratabilir.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Tamaki">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Endişelenmeyin ve savaşa odaklanın. Ben onlarla ilgilenirim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Madem buradayız, bir şekilde işe yarar, değil mi?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Dikkatli olmak iyidir, ama ateş ederken tereddüt etmemelisin.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bu kadar az ateş gücüyle bizi durdurabileceklerini mi sandılar?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bunun gibi bir silah, doğru durumda faydalı olabilir.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Saçmalamayın! Henüz bitmedim…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Artık dayanamıyorum… Özür dilerim.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Bu berbat. Kendimizi bu belaya sokmak istemezdim.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Keşke daha dikkatli nişan alsaydım…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Formasyonumuzun bozulmasına izin veremeyiz…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hızla ilerliyoruz. Konsantrasyonu sürdürelim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Temiz bir atıştı.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Sadece kendini suçlayabilirsin.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Stephan">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">İşte bir başka korkunç savaş daha geliyor…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Neden bu aptal maceraya geldik ki?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Neredeyse hiç mühimmatım kalmadı… Kazanma şansımız yok.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Ölüme yakın bir deneyimdi. Kazandığımıza sevinmeliyim…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Döndüğümüzde Mavi Yankı tarafından karşılanmayacağız, değil mi?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bu adil değil… Ben buraya isteyerek gelmedim!</BattleDialog>
+      <BattleDialog ID="DEATH_1">O lanet Mavi piç… her şey onun suçu…!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Daha ne kadar dayanabiliriz, emin değilim… Devam etmemiz gerektiğine emin misiniz?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Zihnim dağılmak üzere. Hadi bırakalım.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Lanet olsun… Bırakın beni bu çılgınlıktan çıkayım.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Daha dikkatli olmalıydın.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Sadece birkaç tane daha kaldı, değil mi…? Lütfen evet de…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Burada kalmak istemiyorum.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

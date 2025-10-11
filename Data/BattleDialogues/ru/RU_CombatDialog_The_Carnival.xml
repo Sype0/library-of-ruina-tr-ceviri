@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Karnaval</GroupName>
+  <Character ID="Alpha">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Başlayalım mı? Zayıf görünmüyor. Dikkatli mi olmalı?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Lezzetli görünüyor mu? İnsan gibi değil gerçi.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Süpürücüler kadar iğrenç bir tatları var.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Kitap yemek mi? Daha zarif ipek yaratabilir mi?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Acele etmeli miyiz? Emirnameyi yerine getirmeliyiz.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…Tadı pek iyi değil.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Çok mu ileri gittin? İşin bitti.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Üzgün mü? Yaşlı bir dost öldü.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Hala tehlikeli değil mi? Şimdilik iyi.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Saldırıları kolay okunur. Kolay mı?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Bunu çabucak bitirmeliyim. Rahatsız edici mi olacak?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Zayıf insanlar beni öldürmeyecek.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Beta">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Şansımız bu. Bıçaklayabilir miyim dersin?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Güçlü mü görünüyor? Sorun olmaz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Tadını merak ediyorum? Sağlam ama lezzetli görünüyorsun.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Heyecanlı mı? Kazandık. Coşkun mu hissediyorsun?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Güçlü müyüz?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Artık kumaş öremeyecek miyim?</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Birimiz yenildi. Nasıl başaracağımızı düşünmeli miyiz?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Bu hızla kaybedecek miyiz? Dikkatli ol.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Tedbirli mi olmalıyım? Ciddi belaya girebiliriz.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Yeni bir tür ipek üretmek için kitap yiyebilir miyiz?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Gücün bedenimde bir çizik bile bırakmayacak mı?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Henüz bitirmedim. Kaç tane daha kaldı?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Gamma">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Kabadayılıktan hoşlanmıyor musun? Bütün gün ayakta durup darbe alamazsın.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Yeni ipek için bunu yapmam mı gerekiyor?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Gereksiz hareketlerden kaçın. Zamana karşı yarış mı?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Ciddi hasar almadık mı? Ama yorgun, Dinlenmek mi istiyor?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Geriye kalan tek şey her şeyi İndeks'e teslim etmek. Hızlı hareket mi etmeli?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Olamaz mı? Bitirmem gereken işlerim var…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Bir kitap mı olmak? Ölünce bir kitap ol.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Sorun değil. Dikkatli olmazsak ölebilir miyiz?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Agresif olmak tehlikeli mi?</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Birini yakaladım mı? Temiz bir şekilde bitirdim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Kazanacak gibi mi görünüyor? Belli.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Biri yenildi. Gafil avlanmamalı mıyım?</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Kırmızı Sis</GroupName>
+  <Character ID="RedMist_MeetBinah">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">... Bu atmosferde garip bir şeyler var. Sorun ne?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Neden beni tanıyormuş gibi konuşuyorsun?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">... Kesinlikle zayıf değildi.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">... Sana güveniyorum. Bana düşmanlarımı yok etme gücünü ver.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Gerçekten başlayalım. Hepinizi yok edeceğim...</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">O bir... Tekillik miydi...? Gardımı düşürdüm...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">...... Neden böyle güçlere sahip biri böyle bir yerde?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="RedMist_MeetGebura">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">... Orada ne yapmaya çalışıyorsun?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Kasten bana benzemek için mi şekil değiştirdin?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bakalım benimle aynı seviyede olacak yeteneğin var mı...</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">... Bir anlığına bana çok benzediğini düşündüm. Ama sadece ucuz bir taklitti.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Gerçek savaş şimdi başlıyor...</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Burada duramam...</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Kahretsin... Hepsinin icabına bakacağım...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Tıpkı benim gibi davrandı... Bu nasıl mümkün olabilir...</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="RedMist_MeetRoland">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Demek buranın bana sunduğu "Sınavlar" bunlar mı?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Önce düşmanımın ne kadar güçlü olduğunu anlamalıyım...</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bir Çözücü Ofisinin parçası mısın? Yoksa bir Sendika mı?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Sonuçta sadece özü olmayan süslü adamlardan oluşan bir gruptular.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Güzel... Bakalım ne kadar sertsin.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">... Burada değer verdiğimiz şeyi korumaya çalışalım.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">...! Kahretsin, gardımı düşürdüm...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bu yabancılara yenilemem...</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Binah_MeetRedMist">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Kendi benliğinin farkında ol.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Ah, genç kız... Seninle bu şekilde tanışmak ferahlatıcı.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Yanımda durma isteğin takdire şayan, ama lütfen dikkatli ol.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">... Parçalanacaksın.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Geri çekil. Müdahale edeceğin yer burası değil.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Anlıyorum, senin için çok tehlikeliydi.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Anlıyorum. Onun gücüne dayanmak senin için çok zor bir görevdi.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Daha bitirmedin, değil mi?</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Ne ilginç. Geçmişte böyle bir gücü kullanabiliyordun...</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Gebura_MeetRedMist">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Benim geçmişteki halim, ha?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Kimseden daha iyi tanıdığım, ama aynı zamanda en az tanıdığım tek kişi.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bu kadar zaman geçmiş olsa bile, bazı şeyler aynı kalıyor. Nasıl savaştığımı hatırlıyor musunuz, çocuklar?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bu iyi hissettirmedi.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">... Biliyorum. Hafife alınacak biri değildi.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Gözünüzü korkutmayın. Kendimize inanmalıyız.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Ruhumuz söndüğü an kaybederiz. Vazgeçmeyin.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Bunu kendi başımıza yapabiliriz.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">O zırhtı. Hepinizi korumak için...</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Hâlâ onu yenmenin bir yolu olmalı. Cesaretinizi kaybetmeyin.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Roland_MeetRedMist">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Kırmızı Sis geçmiş ihtişamıyla... Hâlâ biraz gerçek dışı hissettiriyor.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">... Gerçekten muazzam bir gücü vardı.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Sanırım onu yenemedim, ha?…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Henüz büyük bir sorun değil.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Geriye kalanlarımız sakin kalalım.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">... Sakin kalalım.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Görünüşe göre ısınmayı bitirmiş...</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Index_1</GroupName>
+  <Character ID="Index">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Biz sadece Emir'imize itaat ediyoruz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Emir'imizin buyurduğu gibi…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Yaşam ve ölüm Emir'in planını takip eder. Korkmuyorum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Gözlerini kapa… Görmemiz gerekmeyen şeyi görmemeliyiz…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Önümde olanı, görme duyumun yardımı olmadan bile hissedebiliyorum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Sadece önceden belirlenmiş yolu takip ediyorum. Emir bana rehberlik ediyor.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">İşimizin ahlakı hakkında konuşmaya hakkın yok.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">Kendi iraden yanlış. Sadece Emir bizi doğru yola yönlendirebilir.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Emir ruhuma rehberlik etsin…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Emir her zaman bizi doğru yola yönlendirir.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Sadece yapmak zorunda olduğumu yerine getiriyorum. Kötü niyetim yok.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Emir yerine getirildi, geri dönme zamanı.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Bitti… Tamamen bitirdik.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Bu kitaplar, Emir'i yerine getirme sürecinde kazandığımız ek ödüllerden başka bir şey değil.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Neden bunun bizi bu sona götürmesi gerektiğinden… emin değilim…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Bu, Emir'in başka bir iradesi olmalı… … Kabul ediyorum.</BattleDialog>
+      <BattleDialog ID="DEATH_2">Kaderim bu. Şikayetim yok…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Önceden belirlenmiş kaderimden memnuniyetsizlik duymamalıyım.</BattleDialog>
+      <BattleDialog ID="DEATH_4">Emir… yerine getirildi; huzur içinde ölebilirim.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Kaçınılmaz. Kader değiştirilemez.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Huzur içinde uyu. Geri kalanlarla biz ilgileneceğiz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Dinlenebilir ve Emir'in belirlediği yolu takip edebilirsin…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Ölümünde Emir seninle olsun…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Emir'i takip ederek ölmek bir onurdur.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bu Emir'in iradesi. Lütfen anlayın.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Gereksiz çatışmalara girmiyorum.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bu henüz bitmedi.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">… Şimdilik sorunum yok.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Emir'in rehberlik ettiği yolda bize katılamaman ne yazık.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

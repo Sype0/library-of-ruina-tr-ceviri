@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>JCorpFixer</GroupName>
+  <Character ID="hanahuda">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bir şans vuruşuyla bu kadar övünmeyin. Düşüş acı verici olacaktır.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Herkes hazır mı?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Eğlenceli rakiplere benziyorlar.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bu oldukça basitti. Yine de… buradan iyi ödüller aldık.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Nasıl beni köşeye sıkıştırdılar…?</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Bu tur tam bir fiyasko…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Zar atıldı. Şimdi pes edemeyiz…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Aptallar ziyafetine hayır demeyeceğim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Böyle ilerlemeye devam edeceğiz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bahsi yükseltelim, tamam mı?</BattleDialog>
+    </Type>
+  </Character>
+
+  <Character ID="JCorpFixer">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Kazanmanın veya kaybetmenin sonucu olmasaydı… hayat eğlenceli olmazdı.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Dikkatli bir hazırlıktan sonra yeteneklerini mi sergilemek? Sen benim tipim değilsin!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Hadi yapalım~! Şimdi atlamazsak oyun biter!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Görünüşe göre oyunun galibi… biziz! Değil mi?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bu tur bir başarıydı! Öyle değil mi, Hanafuda?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Adil bir oyun için adil bir ödül, hoşuma gitti!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bizi yendiler…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Sorunları çağırdıklarında böyle hissettiriyor…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Adil bir oyun için adil bir bedel… Bunu kabul edeceğim.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Son gülen… ben olacağım.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Değerli bir yoldaşı kaybedeceğimi söylüyordu… Doğruymuş.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Bitene kadar bitmez.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Aman Tanrım, bu bir Gokō~! Gel de bu eli durdurmaya çalış!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Fufu… Bu kolay olacak.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bu kadar basit değil mi? Esnemek üzereyim!</BattleDialog>
+    </Type>
+  </Character>
+  
+  
+</BattleDialogRoot>

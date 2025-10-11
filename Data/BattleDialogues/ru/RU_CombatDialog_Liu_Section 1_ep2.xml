@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>ep2</GroupName>
+  <Character ID="Xiao_EGO_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Evet… Şimdi bana güvenebilirsiniz.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Umarım çabaların boşa gitmemiştir.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… Benim yüzümden, varlığın sisin içinde uçup giden bir rüya gibi yok oluyor.</BattleDialog> </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Gerçekten eskisi gibi olduğumuzu mu sandın?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">İki kez yenilmeyeceğim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Almam gereken yolu biliyorum.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Durum ne kadar acil olursa olsun, başkalarını körü körüne takip etmekten kaçınılmalıdır.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Gözlerimin önünden geçen her anı beni acıyla boğuyor.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_5">Bir çiçek ancak yağmur yağdıktan sonra kırmızıya döner.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Miris_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Pişmanlığım yok.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Evet… Tek başımıza bulunduğumuz yere gelemezdik.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Kaybedenler savaş sanatı hakkında tartışmamalı!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Kafanı saklamış olabilirsin, ama kuyruğun açıktaydı!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Nihayet bu fırsatı değerlendirme zamanı geldi!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Ateşin küle dönüşmesi gibi yok olacaksın.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Xiao_EGO_2">
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Bana göremediğim zaman yardım ettin, sanki sürüklenen bir kütük kör bir kaplumbağayı kurtarmış gibi.</BattleDialog> </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Çok uzağımda olmayacağını bilerek pişmanlık duymadan dinlenebilirim…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Demir bir ağaçtan çiçek açmasını bekleyemezsin.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Beni korkutmaya çalışabilirsin, ama ben zaten bu yola ayak bastım. Korkacak hiçbir şeyim yok!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Kırık bir ayna beni tamamen yansıtamaz…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Geride kalan tek şey parçalar olsa bile, sevilen birinden geriye kalanı aramak insanca değil midir?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Bir dağ ne kadar yüksek olursa olsun, gökyüzünün altında kalır.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

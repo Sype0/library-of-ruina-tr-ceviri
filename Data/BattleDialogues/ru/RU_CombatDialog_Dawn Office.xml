@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Dawn Office</GroupName>
+  <Character ID="Salvador">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bunun cezasız kalacağını ummayın.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bu adamların vücutları oldukça narin görünüyor.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Yaşlı bir adamın vücudu, sahip olduğu yıl kadar deneyime sahiptir.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Cesaretinize çok saygı duyuyorum.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bu adamlar için kötü bir gün olmalıydı.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Hizmetlerin için teşekkürler, Yuna. Huzur içinde yat—Büromuz iyi olacak.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Hayata dair hiçbir bağım yok, yine de… Bu genç adam için çok endişeleniyorum.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Ah canım… Philip. Sanırım gücünü koruyup geri çekilmelisin.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">… Bu yaşta bu kadar çok üzüntü hissetmek.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">Sanırım daha yapacak çok işim var…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Hepimizin aynı kaderi paylaşmasına gerek yok.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Yorgun olmalısın, zaman geçtikçe saldırıların daha tahmin edilebilir hale geliyor.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Zafer benim elimde.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Hareketlerini gözlemleyerek rakibin bir sonraki eylemini tahmin edebilirsin.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Yuna">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Kolay hedefler gibi görünebilirler, ama onlar Kentsel Veba… Dikkatli olun.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Abartmaya gerek yok, Philip. Sen geride kalıp bizi destekleyebilirsin.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Rakip saldırmaya başlamadan önce biz vuralım.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Sorunsuz bitti. Philip, korkmuş olsa da, gerçekten iyi iş çıkardı.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Philip'e ve Büroma ben bakacağım… Huzur içinde yat, yaşlı adam.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Umarım tek başına iyi başa çıkabilir…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">… Tam zamanı kollayıp kaçmak. Durum iyi görünmüyor.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">Her şey bize karşı olsa bile sonuna kadar savaşacağım…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">Ben iyi olacağım, bizim için endişelenme ve sadece koş.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bu benim beceriksizliğimin suçu.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Çok kötü değildin, ama yeteneklerini sergileyemedin.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Sonra ne olabileceğini tahmin etmek, savaşı ya kazanır ya da kaybettirir.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bana karşı hiçbir şansın yok.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Philip">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Denemezsem diğerlerine yük olurum…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Her zaman amirlerimin arkasına saklanamam.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Yeteneklerimle… Sanırım en azından onları yavaşlatabilirim.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Biraz hasar aldık… Ama sanırım en önemli şey sonuç.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">…… Şimdi kazanmanın ne anlamı var.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Üzgünüm… O kadar güçlü değilim. Buna daha fazla dayanamıyorum…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Bir şey yapmak için çok korkağım…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Hayır… Bu olamaz… Hayır…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Böyle bir duruma dayanmamın imkanı yok…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Bu kadar tehlikeli olacağını bilseydim gelmezdim…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Biraz yardımcı olabildiğim için mutluyum.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Böyle durumlarda tereddüt etmeden vurmak doğru cevap, değil mi…?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Hareket etmezsem hiçbir şey değişmez.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

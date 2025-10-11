@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Başıboş Köpekler</GroupName>
+  <Character ID="Gyeong-mi">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Korkaklar gibi birer birer göndermeyin de hepiniz aynı anda savaşın!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Gönderdiğimiz küçük köpek yavruları pek iyi değildi galiba. Ne can sıkıcı.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Evet! Titre korkudan!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Demek burada bulmamız gereken 'Kitaplar'... bu kadar kolay elde ediliyordu?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">O piç kurusu Walter. Bu zayıflara nasıl yenildi!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bu bir rüya olmalı... Kaybetme ihtimalim yok!!!</BattleDialog>
+      <BattleDialog ID="DEATH_1">Bu piç kuruları bana bir pislik numarası yapmış olmalı...!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Neden öne atılıp parçalanmak zorundaydın ki.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Acınası, bir grup zayıf inek tarafından öldürülmek.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Bir veya ikisinin ölmesi umurumda bile değil.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Gücümü ayarlamak mı? Hiç denemedim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ölün! Hepinizi öldürün!!!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">İçimi boşaltmak için bu adamın kafasını ezmek isterdim.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Zulu">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Önce gelen çocuklar çoktan parçalandı mı?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Sizin gibi zayıflarla uğraşmak zor bir iş değil.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Yapabiliyorken kaçsanız iyi olur.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Geri dönün ve yiyecek bir şeyler alın. Tahmin ettiğim gibi çok zayıfsınız.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Acelemiz var, ama bu kitaplardaki bilgileri sevecekler.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Hayır... Buraya bir bok çuvalı gibi ölmeye gelmedim...!</BattleDialog>
+      <BattleDialog ID="DEATH_1">Hepinizi parçalamalıyım... Böyle bitirmek istemiyorum!!!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Bir tane daha öldü. ... Pek iyi hissettirmiyor.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Bu noktada acınası adamların öldürülmesine alıştım, ama...</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Bu kadar vasat olacaksan geride kalmalıydın.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">En başta benim yoluma çıkmamalıydın.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">En azından bunu eğlenceli hale getirin... piçler.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Başka seçeneğim yok. Ölmek istemiyorsam başkalarını öldürmek zorundayım.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Dino">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Şimdi bu veletlerle mi savaşmamız gerekiyor? Bu hiç de heyecanlı değil...</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Ugh... Şu zavallı adamlar. Hiçbir şey yapamadan yok edilmişler gibi görünüyor.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Vuruşu ıskalarsam kemiklerimi yerinden çıkarabilirim, o yüzden sabit durun.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Burayı ele geçirirken bir damla bile terlemedim...</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Adamım, bu kitapları vahşi düşmanları yenerek aldığımızı birine söylemekten utanırdım.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Yargılama hatası yaptım. Bu piçleri hafife almamalıydım...</BattleDialog>
+      <BattleDialog ID="DEATH_1">Bu adil değil... hiç de adil değil!!!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">... Tamam, sanırım herkes hayatta kalamaz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Kahretsin, kim öldü az önce? ... Bu tür bir durumla karşılaşmamayı umuyordum.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Zavallı piç... böyle bir yerde ölmek.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Kitap kurdu savaş alanının her yerinde uçuyor.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Benden zayıf olduğunu fark ettiğinde geri çekilmeliydin.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bu çocuk çok yumuşak, havayı yumruklamak gibi hissettiriyor.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

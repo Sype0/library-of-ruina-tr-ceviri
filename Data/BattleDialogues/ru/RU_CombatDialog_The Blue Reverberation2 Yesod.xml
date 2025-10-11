@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Mavi Yankı 2 Yesod</GroupName>
+  <Character ID="Y_E_Eileen">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Kurtarıcımızın rehberliğinde hareket edeceğiz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Dişliler onun için dönmeye hazırlanmıştır.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Onu takip etmek doğru seçimdi.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Dişlilerin sesi tüm katta harika bir şekilde yankılanıyor.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">İstediğimiz zaman tekrar dönebiliriz.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Güzel bir dişli bir fedakarlık yapıyor.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Bir dişli durdu.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Görünüşe göre bu, o talihsiz dişli için nihai kader.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Yardımın için minnettarım.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Korkma. Acı geçicidir.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Dişliler haklıydı…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Bir dişli olarak yerini bulman için henüz çok geç değil.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Şükürler olsun… dişlilere…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Belirlenen yola göre değişmeliydin…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Ne tür bir dişli olduğunu bilmeden ölmek… Ne kadar anlamsız bir ölüm…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Y_E_Church of Gears">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bundan sonra nasıl döneceğimizi söyle bize…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Şimdi… dönmeye başlamamız gereken an mı?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Lütfen bize yolu göster…!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Dişliler dönerken… hayat da döngüsünü tamamlar!!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Dişliler bana yol gösteriyor…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Artık endişelenme yok… Dişliler haklıydı…!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Dişliler yavaşça mutluluğu arayarak dönüyor…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Kaybolmuş koyunları buraya kadar yönlendirdiğin için teşekkürler…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Bunun… doğru yol olduğunu biliyordum… Dişliler haklıydı…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Teşekkürler… tekrar teşekkürler…!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Neden… beni… buraya getirdin…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Rehberliğini takip ettim… o zaman neden…?</BattleDialog>
+      <BattleDialog ID="DEATH_2">Ben… işe yaramaz… bir dişli miyim şimdi?</BattleDialog>
+      <BattleDialog ID="DEATH_3">Hala hareket edebiliyorum…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Bir dişli… dönmeyi bıraktı…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Onlar işe yaramaz parçalar mıydı…?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Bu… dişlilerin ivmesi olmalı…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Bu belirlenmiş yol olsa bile…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bana doğru yolu gösterdiğin için teşekkürler…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Akıllıca bir karar…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Keşke sadece dişlileri takip etseydin…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Dişlilerin koruması sayesinde bu kadar ilerleyebildik…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Dişlini tanımamış olman ne yazık…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Y_E_Yesod">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Pekala. Sorumluluklarımı yerine getirmek için elimden geleni yapacağım.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… İyi iş, çocuklar.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Yeterince dikkat etmedim…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Hizmetin için teşekkürler.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Durum bizim için pek olumlu görünmüyor.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Henüz durmayı göze alamayız…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Bu ölüm boşuna olmayacak.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Sanırım bunu zarafetle yapmalıyım.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Savaş henüz bitmedi.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Sadece birkaç tane kaldı…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Ölümlere tanık olmaya zaten alıştım.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Gardımızı indirmeyi göze alamayız.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Sadece yapılması gerekeni yaptım.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Y_E_Librarian_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bay Yesod, hazırlığınız bitti mi?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Kazanmak o kadar da iyi hissettirmiyor.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">En azından dayanmak için elimden geleni yaptım.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Burada duramayız.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Daha ne kadar savaşabilirim…?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Şimdilik sadece savaşa odaklanmaya çalışacağım.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">… İşte böyle gidiyorlar.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">… İyi savaştın.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Huzur içinde yat…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Elimizden gelenin en iyisini yaptık.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Üzgünüm. Kötü hissetmeden edemiyorum.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Y_E_Librarian_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Kim olurlarsa olsunlar, bunu yapmak zorundayız…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Evet, bana bakın! Yaptık!!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bu sefer iyi yapabileceğimi düşünmüştüm…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Azmetmeliyim. Yapabilirim.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Seni affetmeyeceğim. Durmayı düşünmüyorum.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Tch, o kadar basit değil!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">O gürültü nihayet durdu…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Beni suçlama, dostum.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Dişliler tarafından yönetiliyor, ha?…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Sadece elimden gelenin en iyisini yapıyorum.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Y_E_Librarian_3">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Kafalarının arkasındaki dönen şeyler ne?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bitti.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Elimden geldiğince savaştım…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Gözyaşı dökecek zaman yok.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Savaşmaya devam etmeliyiz! Savaş henüz bitmedi…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Güçlü kalmalıyız.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Beni hafife aldın.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Artık korkmuyorum.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Sana karşı kötü bir his beslemiyorum…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Umarım huzur içinde yatarsın…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Y_E_Librarian_4">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bu ne… insanların Çarpıtma dediği şey mi?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Zorlu bir mücadeleydi bu…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Yenilgiyi kabul edemem…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Etkilenme ve gözünü önde tut!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Korkmadığımı söylesem yalan olur.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Kaybınızı telafi edeceğim…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Kendini şanssız say.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Hepimiz bunun olmasını bekliyorduk…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bitti.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Biraz daha odaklanmaya devam edelim.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

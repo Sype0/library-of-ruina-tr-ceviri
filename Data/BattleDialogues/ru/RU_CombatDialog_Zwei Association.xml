@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Zwei Association</GroupName>
+  <Character ID="San">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Sevdiklerimi bir daha kaybetmek istemiyorum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bu sefer kararlılığımı topladım, Mars ve Lulu'nun kitaplarını ne pahasına olursa olsun geri alacağım…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Sadece her zamanki gibi yapmalıyım…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Mars ve Lulu konusunda… Onları ölümlerinden dolayı suçlamak istemiyorum.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Senin sorumlulukların vardı ve ben de benimkini yerine getirdim.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Lulu, Mars… Ve bana güvenip buraya kadar beni takip eden Julia, Üzgünüm.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Dikkatli olalım. Ben de ölebilirim.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Lütfen yas tutmak için en az bir dakika verin.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Durum tehlikeli, bizim için umut olup olmadığından emin değilim.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Sadece ilerlemek için doğru zamanı buldum, hepsi bu.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Sanırım… şimdi özür dileme zamanı değil.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Böyle anlarda kişisel duygularımı bir kenara bırakmalıyım.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Mars ve Lulu… Onları öldüren sen misin?</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">… Bu adil. Sen sadece işini yaptın, ben de benimkini yapacağım.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Julia… Şimdi bana ne kaldı ki…?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Julia">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Sakin davranacağım.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Umarım başımıza kötü bir şey gelmez… Umarım hepimiz burayı sağ salim terk edebiliriz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bu savaş kaçınılmaz, herkesin iyiliği için kazanmak istiyorum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Bunun için tamamen hazırım.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Elimizden geleni yapacağız… tüm çabamızla.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Başardık… Kazandık, değil mi? Güvenle geri dönebiliriz.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Güzel, Isadora'ya yaşadığımız tüm macerayı anlatalım.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">San… Üzgünüm. Sana pek yardımcı olamadım.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Bacaklarım titriyor… Sınırımızda mıyız?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Toparlanmalıyım… eski meslektaşımın iyiliği için.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">… Birazcık üzülmek zarar vermez.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bu her zaman olan bir şey. Bu yüzden çok üzülmemeliyim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Denersem yapabilirim!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bu üzücü, ama sanırım seçenek yoktu…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">San!! Hayır… Lütfen böyle ölme…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Walter">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Biz, bizden önce gelenler gibi değiliz. O kadar kolay olmayacak.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Kalkanlarınızı asla indirmemeye dikkat edin. Ve diğerlerinin de kalkanlarını indirmesine asla izin vermeyin.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Şaka olsun diye savaşmıyoruz.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Sefil bir Şehir Efsanesi, Zwei Derneği'ne meydan okumaya cüret ettiğinde olan budur: aşikar bir yenilgi.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Beklenen bir sondu. Bize verdiğiniz kitapları iyi kullanacağım.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Belki de rakiplerimi hafife aldım…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Başarılı olacağımızdan emindim…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Bu yaygın bir olaydır.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Ne kadar talihsiz. Ama birinin yaşaması gerekiyor.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Ne zaman kaybı. Bir engel olmamalıydın.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">İşte böyle yapılır; rakipleri teker teker ele alarak.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Başa çıkması zor değildi.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Ne kadar da dağınık bir zayıflar grubu, değil mi?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Isadora">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">… San ve Julia'yı alan adamlardan biri sen olmalısın.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Pek sert görünmüyorlar, ama önceki grubu yok ettiler…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Sizi asla affetmeyeceğim.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Kazandık… San, Julia, Sizin intikamınızı aldım.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">… Ölümlerinden kısmen ben sorumluyum, bu yüzden bununla ödeştiğimizi söyleyeceğiz.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Kahretsin… İntikamımı tamamlamadım…!</BattleDialog>
+      <BattleDialog ID="DEATH_1">Lütfen, bana bir şans daha verin…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Biri ölsün ya da ölmesin, işimi yapmak zorundayım.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Buna hala tam olarak alışamadım.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Bir adam düştü! Yardıma… ihtiyacımız var.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Yönetici, kendi tarafımdaki bir düşmanı hallettim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Bunu öldürdüğün herkes için adalet olarak düşün.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Saldırımı daha iyi engellemeliydin.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

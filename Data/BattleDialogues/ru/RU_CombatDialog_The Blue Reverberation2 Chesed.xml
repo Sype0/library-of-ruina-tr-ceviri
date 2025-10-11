@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Mavi Yankı2 Chesed</GroupName>
+  <Character ID="C_J_Jae-heon">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Şu anda bağlısın, ama o iplerin hepsini senin için keseceğim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">... Küçük bir kukla gösterisi zamanı.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">O dünyaya her ne pahasına olursa olsun ulaşacağız.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Sonunda... İpler serbest bırakılamadı...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Ne acı. Oldukça şiddetlisin...</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Kuklalarıma zarar veriyorsun.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Oyunu sürdürmek canını mı yakıyor?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">O kukla artık işe yaramaz...</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Senden bir kukla yapamayacağım için çok yazık.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">İplerini kesip özgürlüğe kavuşmak istemez misin?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">... Kuklalar. Son yakın.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">İtibarının hakkını veremedin.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="C_J_Puppet">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Gigigigigig.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Grgrgr. Grgrg.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Gygygy… Gyg.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Grgrgrgrgrg. Grgr.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Gygygyg. Grgrg. Gig.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Gigigi…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Grgrgr. Grgrgrgr.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Gii ghghghghgh… Ghgh.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Gigigigigi. Gigigig…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Gigig… Ghghgh… Gii…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Gigigi… Gigig…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Grgrgr… Grgrgrgrgrg…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Gy… Gygygyg…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Gigigigigig…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Grgrgrgrgrgrg…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Ghghghgh. Gygygygygy. Gh.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Grgrgr… Gigigi… Gigigigigig…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Gig… Gigigi… Gygygygy… Grgh.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Gigigigigi… Gig… Ghghghghg.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Ghghghgh. Gigi… Gigigigigi.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Gigigigi… Gig.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ghgh.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Gigigigigi. Ghghghghgh…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Ghghghghghgh… Gigi…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Gigi… Gig… Ghghgh… Gigigigigig.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="C_J_Chesed">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Endişelenmeyin~ En iyisi gergin olmamak bence.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Tüm iplerin çözüldüğü özgür bir dünya, işte bu...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Sanırım onları durduracak kadar iyi değildim...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Sabırsız olmayalım. Hâlâ yapabiliriz bence.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Eminim bu boşuna bir fedakârlık değildir.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">... Biz olmazsak, kimse onları kontrol altında tutamaz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Tükenmişsen biraz geri çekil.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Görünüşe göre işler iyi gidiyor~</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Sanırım yavaşlamanın zamanı değil...</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Çocuklar. Bunu yeni bir seviyeye taşıyalım~</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Görünüşe göre yakında bitirebiliriz~</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="C_J_Librarian_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Gerçekten... yapabilir miyiz? Biraz endişeliyim.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bir şekilde bitirmiş görünüyoruz... değil mi?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Eminim diğerleri... halledebilir...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Tüm bu acı ne zaman bitecek?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Bir dakikalık saygı duruşu.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Ben... her şey yoluna girecek. Onları durdurabiliriz.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bu biraz çaba gerektirdi, ama...</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Onları hızlıca bitirelim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bunu hallettim, diğerlerine yardım etmeme izin verin.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="C_J_Librarian_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Onları yenmemiz gerekiyor, değil mi?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">G-gerçekten bitti mi?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">En azından... müttefiklerimin yoluna çıkmadım.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Biraz nefes alma alanına ihtiyacımız var.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Birimiz uyanık kalmalı.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Bence şimdilik savaşa odaklanmalıyız.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">... Tam isabet!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Tamamen kırıldı...</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bir kuklanın beni alt etmesine izin vermeyeceğim...</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="C_J_Librarian_3">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Sadece ses bile beni ürkütüyor.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Kuklacıyı öldürürsek kuklalar serbest kalır mı acaba?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Kahretsin... Hareket edemiyorum...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Bu nasıl oldu...?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Bay Chesed... Ne yapmalıyız...?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Belki de bu kötü bir fikirdi...</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hiç de sert değil, değil mi?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">İpler kesilince hareket edemiyorlar.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Aynı şeyin başıma gelmesine izin veremem...</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="C_J_Librarian_4">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">... O iğrenç kuklalar geri döndü.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Pöf... Kukla ustası o kadar da güçlü değilmiş.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Umarım... biri bunu halleder...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">... Bize tekrar saldırmadan önce karşı saldırıya geçmeliyiz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Sorumluluklarını üstlendin, söyleyeceklerim bu kadar.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Onlar için devam etmek zorunda kalacağım...</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">İplerini... mi kesiyoruz?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Şimdi düşününce, bu kuklalar çok şanssız.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">... Anladım! İyi ilerleme kaydediyoruz.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Mirae</GroupName>
+  <Character ID="Named">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">İşler karmaşıklaştı. Başlamalı mıyız?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bu günlerde tuhaf şeyler oluyor… Bu bir dert.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bakalım… Herhangi bir sorun olmayacak, değil mi?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bu yeterli bilgiydi. Geri dönmeli miyiz?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Ah canım… Ne yazık ki, koşulları yerine getirebileceğimizi sanmıyorum.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Sonu bu, ha?…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Kendimizi özellikle zor bir duruma soktuk…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Şimdilik iyi. Odaklanmaya devam edin.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Önce güvende kalmalıyım.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Üzgünüm~ İşimizi böyle yapıyoruz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Başka tür bilgiler de toplayabilirim… Fena değil.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Haha. Yaşlandım ama henüz mahvolmadım…</BattleDialog>
+    </Type>
+  </Character>
+
+  <Character ID="Mirae">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bu sinir bozucu bir hal aldı…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">İşimiz genellikle aynıdır…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Sanırım büyük bir sorun olmayacak?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Bayan Irina? Dikkatli olmamız gerektiğini düşünüyorum.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Haklısın… Yakın zamanda bir Şehir Yıldızı olduğunu duydum.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">İhtiyacımız olan her şeyi kaydettim. Geri dönme zamanı.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bu çok garip bir yer… Acaba bir Tekillik mi?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Son zamanlarda bir sürü çılgın vakamız oldu…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">En azından bu dava bitti.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Burasının… amacı neydi?…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Her zaman buna… hazır olduğumu sanırdım…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Bu talebin fazla olabileceği konusunda sizi uyarmıştım…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Kahretsin… Kendine iyi bak…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Bu işten yoruldum…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Kesinlikle takviyeye ihtiyacımız var.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Müşterimiz yalan söylemiyormuş sonuçta.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">… Bu çok ciddi bir sorun, değil mi?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Belki geri dönüp yeniden organize olmalıyız…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Bunu kendi başımıza çözebileceğimizi sanmıyorum.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Geri kalanını aceleyle bitirelim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Neredeyse bitirdik gibi görünüyor.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Onların zayıf olduğunu söyleyemem.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Bununla ilgili dikkat edilecek çok şey var…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Bir saniye bile tereddüt etmek ölüm cezasıdır.</BattleDialog>
+    </Type>
+  </Character>
+  
+  
+</BattleDialogRoot>

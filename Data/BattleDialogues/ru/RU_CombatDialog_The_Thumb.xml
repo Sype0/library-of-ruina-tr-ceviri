@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>The Thumb</GroupName>
+  <Character ID="Thumb_WithBoss">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Thumb_NoBoss">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Yeterince konuştuk. Başka ne söylenmesi gerekiyor?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Durmaya gerek yok. Doğrudan konuya gelelim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Çeneni kapa, yoksa kasten veya değil, saygısız olursun.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Rütbeleri bizimkinden yüksek… Öyleyse görgü kurallarını koru.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Sadece işimizi yapmalıyız…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">İş bitti, hadi geri dönüp rapor edelim.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Ağrı hissediyorum… Kolay bir savaş değildi.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Bu Kitapla… Onları aşabileceğim.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Onlar kurnaz rakiplerdi…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Buraya yazılan bilgiler işe yarayabilir.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Kahretsin. Sonu böyle mi olacakmış.</BattleDialog>
+      <BattleDialog ID="DEATH_1">…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Hayatımı adil koşullar altında riske attım… Öldüğüm için kızmamalıyım…</BattleDialog>
+      <BattleDialog ID="DEATH_3">… İşimin payıma düşen kısmını yaptım.</BattleDialog>
+      <BattleDialog ID="DEATH_4">Kimi suçlayabilirim… Sadece yeteneğim eksikti.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Durum ne kadar kötü olursa olsun, işimizi şikayet etmeden yapmalıyız.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Borcunu ödemiş birine acımaya gerek yok.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Kendi güvenliğim, endişelenmem gereken tek şey.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Kaderini zarafetle kabul etmezsen iyi görünmez.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Henüz bir sorun yok.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Vücudum zaten ağrıyor…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">İkimiz için de bunu çabucak bitirmek daha iyi olur…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Eninde sonunda, ikimizin de yapması gereken iş bu.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">İyi bir sebep olmadan bir rakibe karşı nazik olmak saygılı bir davranış değildir.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Saygı gösterirken kararlılık sergilemek fena değil.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Kalo">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Düşman bölgesinde olabiliriz, ama bir Şehir Yıldızı ile uğraşıyoruz… Görgü kurallarınıza dikkat edin.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Teklifini reddetmek bir seçenek değildi. Bunu bir onur olarak kabul edin.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Aramızda karşılıklı saygı göstermek ne kadar güzel.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Hiçbir bağlayıcı koşulun olmadığı bir ödül.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Son ana kadar nazik olmayı unutmayın.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Kaçınılmaz bir durumdu.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Bu savaşın sonucu için kimseyi suçlamayacağım.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Önemsiz şeyler yüzünden heyecanlanmayın.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hiçbir tarafın çok şey kaybetmediği bir anlaşma yaptık.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Biz sadece işimizi yapıyoruz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Zafere giden yolu gördüğümüzde tereddüt etmemeliyiz.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Katriel">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Denis">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Başlayalım… Amirlerimiz müdahale etmek zorunda kalmadan önce…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Acele etmeye gerek yok…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">En azından diğerleri gibi kaba değillerdi…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Adil bir ödül… Fena değil…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Söylenecek başka bir şey yok.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Mezara seni takip edecek herhangi bir pişmanlığın olmadığından emin ol…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Önce eldeki görevleri çözmeye odaklanmalıyım…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Henüz o kadar tehlikeli değil…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Haksız bir teklifte bulundun… O yüzden kızma…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Sana son selamlarım…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">İçtenlikle elinden gelenin en iyisini yaptığını umuyorum…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Boris">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">O önemsiz Haberci olmasaydı kendimi harika hissederdim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Gizli taktikler kullanmak bu savaşa karşı bir saygısızlık olur…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Kazanacak bir şeyim olmasaydı en başta buna başlamazdık.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">İhtiyacımız olan tüm bilgileri aldık gibi görünüyor.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Son ana kadar… yönümü şaşırmayı göze alamam…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Sanırım teklifi kabul etmeye cüret ettiğimiz için ödememiz gereken adil bir bedel bu.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Anlaşmada vaat edilenleri her iki taraf da alıyor.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Sessiz bir saygı duruşu, sunabileceğim en iyi saygı türüdür.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Şiddetliydin, ama bu gücü ölçülü kullanmalıydın.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Tüm gücünle savaşmak, rakibini küçümsemediğini gösterme şeklidir.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

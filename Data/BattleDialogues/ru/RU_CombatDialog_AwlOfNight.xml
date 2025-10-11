@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>AwlOfNight</GroupName>
+
+  <Character ID="Named">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Hazır mısınız? Buradayız, çünkü yaşamak istiyoruz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Şikayet etmeyi bırakın ve bir dakikamız daha olduğu için şükredin.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bununla başa çıkarsak… En azından saf dışı kalmayız.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Geri dönelim. Bunu çabucak bitirsek iyi olur.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Kaç kişi kaldık? Ayakta durabiliyor musunuz?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Farketmezdi… Nerede öldüğümüz…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Hep o lanet fanatiğin suçu…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Son anına kadar savaşmaya devam et.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Yapabildiğin sadece bu muydu?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Ölmek istemiyorsan tetikte ol.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">… Geri kalanları hızlıca bitirelim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Şimdi en önemli şey hayatta kalmak. Odaklanın.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">… Her türlü tekniği kullanıyorlar.</BattleDialog>
+    </Type>
+  </Character>
+
+  <Character ID="AwlOfNight">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Buraya gelmek iyi bir fikir miydi, emin değilim…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Nerede öleceğimiz dışında bir fark yaratacağından şüpheliyim.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Neden o adam için çalışmak zorundayız ki…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Hepimizi büyük bir belaya soktu.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Eğer değerli bilgiler bulursak, belki pazarlık yapabiliriz…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Buradaki işi bitirdim.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Gecikmek bize fayda sağlamaz, olabildiğince çabuk geri dönelim.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Bu bilgi… pazarlık yapmak için yeterince iyi olacak mı?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Umarım bizi bağışlarlar…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Gidebileceğimiz hiçbir yer yok…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Neden onun yüzünden acı çekmek zorundayız…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Bu deliler… Nasıl bu kadar güce sahipler…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Hangi seçeneği seçsek kaybedecektik…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Belki de… kaçmaya çalışmalıydım…</BattleDialog>
+      <BattleDialog ID="DEATH_4">… Sanırım bu kaybı kabul etmek zorundayım.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Ne büyük bir belaya bulaştık.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Sadece kaçıp zararı azaltsak mı?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Kahretsin, işler gittikçe kötüleşiyor!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Bir şekilde baskı yapmalıyız…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Bu düşündüğümden daha kötüye gidiyor.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bunu bitirmek için acele etmeliyiz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Yeterince hızlı olmazsak… onlar…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Nasıl oldu da bu işi yapmaya başladık…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Tedbiri elden bırakmak için çok erken.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Tam noktadan delmek… bunu bitirmek için.</BattleDialog>
+    </Type>
+  </Character>
+  
+</BattleDialogRoot>

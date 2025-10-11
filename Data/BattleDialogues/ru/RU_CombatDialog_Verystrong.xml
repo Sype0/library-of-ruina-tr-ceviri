@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>ClassOneFixer</GroupName>
+  <Character ID="donghwan">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Burası Kütüphane mi? Diğerlerinin dediği gibi çok garip.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bakalım… Sen mi rakibim olacaksın?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Acele etmeye gerek yok. Başlamak için zamanımızı ayıralım.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Hım, bu faydalı bir bilgi olabilir.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Hah, demek Şehir Yıldızı buymuş, ha…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bazen sakıncalı olabiliyor, ama yine de işleri kendim halletmeyi tercih ederim.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Bu karmaşık bir hal alabilir… Daha ciddileşme zamanı.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bu yakında bitecek. Geri kalanınızı doğrayalım.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">… Sanırım o hareketi daha önce bir yerde görmüştüm.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bu adamlar düşündüğümden daha ilginç…</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

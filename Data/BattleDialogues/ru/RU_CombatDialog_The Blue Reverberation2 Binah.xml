@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Mavi Yankı2 Binah</GroupName>
+  <Character ID="B_E_Elena">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bakalım... Tadına bakılacak damar kaldı mı?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bu susuzluğun acısına katlanmak... hoş bir manzara değil.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">En doyurucu yemeğim değildi.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bu susuzluk... Hiçbir...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Sadece boş bir kabuktu. İçinde bir damla bile kan kalmamış......</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Ölüm adildir... Herkes için eşit dans eder.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Avlanmanın kaderi ayrım yapmadan herkesin üzerine parlar.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Ne yazık... Aradığım tat bu değildi.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Sen ve ben, arzularımızı tatmin etmek için elimizdeki kupayı boşalttık, değil mi?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Ah... Bununla beni durdurabileceğini mi sanıyorsun?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="B_E_Orange">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="B_E_Binah">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Korkunuzu dindirin. Dikkatinizi şu ana yönlendirmenizi tavsiye ederim.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Görünüşe göre işimizi hallettik.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Sadece savaşma yeteneğin eksikti.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Bayağı bir süre ayakta kalabildin.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Eminim elinden geleni yaptın. İyi iş.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Kimse seni suçlamayacak.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Hafif bedenin gibi huzur içinde uyu.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Bu sefer sonsuza dek dinlenmeni diliyorum.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="B_E_Librarian_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bunu bir kenara bırakırsak... Onlar bizim konuklarımız—bu yüzden onları en iyi şekilde ağırlamalıyız.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">İyi iş, millet. ... Diğer katlar nasıl gidiyor acaba.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bu şekilde geri çekilemeyiz...!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Sonuna kadar dayanacağım...</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">İçimizden biri hayatta kaldığı sürece bitmedi.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Gergin olma, gergin olma...</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Bu işleri biraz daha kolaylaştırmalı...</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">O Kan İblisi... bir kitaba mı dönüştü?</BattleDialog> </Type>
+  </Character>
+  <Character ID="B_E_Librarian_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bir Rengi kontrolü altına almış... Bu bizim için sorun demek değil mi...?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Hepiniz iyi misiniz? Kötü bir şey olursa söyleyin bana.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Üzgünüm... Daha fazla dayanamayacağım...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Geriye kalan personel daha dikkatli olmalı.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Tüm emeğimizin boşa gitmesine izin veremeyiz...</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Hâlâ iyiyim...</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Biraz daha yavaş olsaydım kötü gidebilirdi...</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Bu Kan İblisleri... bu kadar güçlü mü?</BattleDialog> </Type>
+  </Character>
+  <Character ID="B_E_Librarian_3">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bir Kızıl... Haç. O olmalı. O devasa haç...</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">... Bu konuda iyi hissetmiyorum.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Hâlâ devam edebilirim... Edebilirim...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">... Belki gardımızı düşürdük.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Dikkatsiz bir şey yapmayın.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Burada durdurulmamıza izin veremeyiz.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Eski halinden sadece bir kabuk bile olsa, gücü hâlâ yerinde...</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Biraz başım dönüyor.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="B_E_Librarian_4">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">... Yanındaki kim?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Çok yoruldum... Burayı toparlayıp yola çıkmalıyız.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Beni... alt ettiler...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Bir alternatif olabilir mi...?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Sadece iki kişi oldukları için onları hafife almamalıydım...</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Onlara karşı üstünlük sağlamanın bir yolunu düşünmeliyiz.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Sadece adını duyduğumuz bir Rengi yendiğimizi düşünmek...</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Elbette... Bu, sıradan bir insanın sahip olabileceği bir güç değil.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

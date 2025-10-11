@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Pierre's Meat Pies</GroupName>
+  <Character ID="Pierre">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Ah, çok beklersek malzemeler çok yumuşak olacak!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Voooow~ Tadın neye benzediğini merak ediyorum? Senden bir parça kesebilir miyim?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Hey, sen oradaki! Az önce yanından geçerken çok güzel kokuyordun.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Tsk, tek aldığım kitaplar! Hiç de lezzetli görünmüyorlar!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Hmm… Hayır, hayır. Belki bunlardan kendi malzemelerimizi yapabiliriz?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Hah…! Hayatımda hiç… kendimin… bir malzeme olabileceğimi düşünmemiştim.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Jack… Beni böyle bırakamazsın. Daha dikkatli olmalıydın. Benimle olacağına söz vermiştin.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Çoooook zayıfsın! Sanırım tadın da güzel değil.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Meh, sadece bir kitaba dönüşemezsin. Kitap bifteği falan yapmayı mı denesem?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Kitaba dönüşeceğini bilseydim senden birkaç dilim kesmeliydim!</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">…Zaten 'Sekiz Şef'e tek başıma katılmayı planlamıyordum. Böyle… daha iyi.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Jack">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">… İnsan değilsiniz, değil mi? Öyle olmasanız bile, yeni malzemelere hoş geldiniz.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bu Pierre'in hedefi için…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Onlara çok sert vurmamaya dikkat edelim… Malzemeleri en iyi kalitede tutmalıyız.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Kazandığımız için Tanrı'ya şükür, Pierre. Tüm eşyaları alalım ve geri dönelim, olur mu?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">'Sekiz Şef'in dikkatini çekecek iyi bir kitap bulursak, değil mi?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Üzgünüm, Pierre… Daha… güçlü olmalıydım…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Bana verdiğin söz ne olacak.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bu adamın tadıyla nasıl bir turta yapılır…?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Seni kesmek, Alt Şehir'de bulduğumuz malzemelerden farklı hissettiriyor.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Pierre'in dediği gibi çok güzel kokuyordun. Ne yazık.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Eğer sana daha fazla yardım edemeyeceksem, o zaman hemen şimdi seni takip etmeliyim.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>
