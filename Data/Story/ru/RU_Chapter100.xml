@@ -8365,7 +8365,7 @@ Aprecio vuestra ayuda.</Content>
         <Dialog ID="33" Model="네짜흐">
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
-          <VoiceFile>ch8_Netzach_ep4_netzach22</VoiceContent>
+          <VoiceFile>ch8_Netzach_ep4_netzach22</VoiceFile>
           <Content>Tekdüze bir hayat yaşamaya devam ettim... Daha önce hiç görmediğim bir yüzle tanışana kadar.</Content>
         </Dialog>
         <Dialog ID="34" Model="롤랑">
