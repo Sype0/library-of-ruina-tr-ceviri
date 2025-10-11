@@ -2964,53 +2964,53 @@
         <VoiceFile>ch4_Dawn_ep1_salvador35</VoiceFile>
         <Content>Tanıştığımıza memnun oldum. Angela olmalısınız.</Content>
       </Dialog>
-      <Dialog ID="88" Model="앤젤라">
+        <Dialog ID="88" Model="앤젤라">
         <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Dawn_ep1_angela5</VoiceFile>
-          <Content>Sí. Soy la directora y bibliotecaria de esta Biblioteca.</Content>
+          <Content>Evet. Ben bu Kütüphane'nin direktörü ve kütüphanecisiyim.</Content>
         </Dialog>
         <Dialog ID="89" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Operador de Dawn</Title>
+          <Title>Dawn Operatörü</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador36</VoiceFile>
-          <Content>Dime, ¿qué debemos hacer para matarte?</Content>
+          <Content>Söyle bana, seni öldürmek için ne yapmalıyız?</Content>
         </Dialog>
         <Dialog ID="90" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Dawn_ep1_angela6</VoiceFile>
-          <Content>También me gustaría saber eso.</Content>
+          <Content>Ben de bunu öğrenmek isterim.</Content>
         </Dialog>
-        <Dialog ID="91" Model="살바도르">
+        <Dialog ID="91" Model="살바โด르">
           <Teller>Salvador</Teller>
-          <Title>Operador de Dawn</Title>
+          <Title>Dawn Operatörü</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador37</VoiceFile>
-          <Content>Ya veo, ya veo. Tienes la capacidad de entender simples bromas.</Content>
+          <Content>Anlıyorum, anlıyorum. Basit şakalardan anlama yeteneğin var.</Content>
         </Dialog>
         <Dialog ID="92" Model="유나">
           <Teller>Yuna</Teller>
-          <Title>Fixer de Dawn</Title>
+          <Title>Dawn Onarıcısı</Title>
           <VoiceFile>ch4_Dawn_ep1_yuna25-01</VoiceFile>
-          <Content>Acortemos la charla, ¿de acuerdo, maestro?</Content>
+          <Content>Sohbeti kısa keselim, olur mu, usta?</Content>
         </Dialog>
         <Dialog ID="93" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Operador de Dawn</Title>
+          <Title>Dawn Operatörü</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador38</VoiceFile>
-          <Content>Ahora, Angela, no esperes tener un final pacífico luego de mancharte las manos en tanta sangre.</Content>
+          <Content>Şimdi, Angela, o kadar çok kana elini bulaştırdıktan sonra huzurlu bir son beklememelisin.</Content>
         </Dialog>
         <Dialog ID="94" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Dawn_ep1_angela7</VoiceFile>
-          <Content>Supongo que lo mismo puede ser dicho sobre ti.</Content>
+          <Content>Sanırım aynı şey senin için de söylenebilir.</Content>
         </Dialog>
         <Dialog ID="95" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Dawn_ep1_angela8</VoiceFile>
-          <Content>Entonces, que encuentres tu libro en este lugar.</Content>
+          <Content>O halde, kitabını bu yerde bul.</Content>
         </Dialog>
       </Place>
     </Episode>
