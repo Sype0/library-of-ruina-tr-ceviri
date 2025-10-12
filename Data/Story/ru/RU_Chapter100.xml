@@ -589,7 +589,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland12</VoiceFile>
-          <Content>Bana zaten anlatacaksan, neden zahmet edip anlatayımmı diye soruyorsun ki?!</Content>
+          <Content>Bana zaten anlatacaksan, neden zahmet edip anlatayım mı diye soruyorsun ki?!</Content>
         </Dialog>
         <Dialog ID="23" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -775,7 +775,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela5</VoiceFile>
-          <Content>O'ydu; seni tamamen sadece kendini tatmin etmek için kullandı.</Content>
+          <Content>Oydu, seni tamamen sadece kendini tatmin etmek için kullandı.</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -826,7 +826,7 @@
           <Teller>Angela</Teller>
           <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela11</VoiceFile>
-          <Content>Ne komik. Yaptığınız şeyleri “sıkı çalışma” olarak adlandırabilirmiyiz?</Content>
+          <Content>Ne komik. Yaptığınız şeyleri “sıkı çalışma” olarak adlandırabilir dis?</Content>
         </Dialog>
         <Dialog ID="62" Model="게부라">
           <Teller>Gebura</Teller>
@@ -2782,7 +2782,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Yesod_ep3_roland8</VoiceFile>
-          <Content>Hey, beni gerizekalı yerine koymayı bırak. O KADAR DA aptal değilim, biliyormusun?!</Content>
+          <Content>Hey, beni gerizekalı yerine koymayı bırak. O KADAR DA aptal değilim, biliyor musun?!</Content>
         </Dialog>
         <Dialog ID="13" Model="예소드">
           <Teller>Yesod</Teller>
@@ -2860,7 +2860,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Yesod_ep3_roland14</VoiceFile>
-          <Content>Gökyüzünden para mı yağdırmak falan mı? Bu gerçekten herkesi kurtarabilir.</Content>
+          <Content>Gökyüzünden para falan yağdırmak mı? Bu gerçekten herkesi kurtarabilir.</Content>
         </Dialog>
         <Dialog ID="26" Model="예소드">
           <Teller>Yesod</Teller>
@@ -2872,7 +2872,7 @@
           <Teller>Yesod</Teller>
           <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod15</VoiceFile>
-          <Content>Ve yaptığımız fedakarlık hakkında bu kadar hafife konuşmaya hakkın yok.</Content>
+          <Content>Ve yaptığımız fedakarlık hakkında bu kadar hafif konuşmaya hakkın yok.</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>Roland</Teller>
@@ -2908,7 +2908,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Yesod_ep3_roland16</VoiceFile>
-          <Content>Ne? Benim Tamirci duyularıma göre o, karanlık bir tarikat lideri gibi kokuyor.</Content>
+          <Content>Ne? Benim Düzeltici duyularıma göre o, karanlık bir tarikat lideri gibi kokuyor.</Content>
         </Dialog>
         <Dialog ID="34" Model="롤랑">
           <Teller>Roland</Teller>
@@ -8096,7 +8096,7 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland20</VoiceFile>
-          <Content>Tamirci (Fixer) olarak çalışırken her türden insanı görüyorsun.</Content>
+          <Content>Düzeltici olarak çalışırken her türden insanı görüyorsun.</Content>
         </Dialog>
         <Dialog ID="76" Model="네짜흐">
           <Teller>Netzach</Teller>
@@ -8132,7 +8132,7 @@ Aprecio vuestra ayuda.</Content>
           <Teller>Netzach</Teller>
           <Title>Baş Kütüphaneci - Sanat</Title>
           <VoiceFile>ch8_Netzach_ep3_netzach32</VoiceFile>
-          <Content>Peki ya sen, Roland? Özgür olduğunda tekrar Tamirci mi olacaksın?</Content>
+          <Content>Peki ya sen, Roland? Özgür olduğunda tekrar Düzeltici mi olacaksın?</Content>
         </Dialog>
         <Dialog ID="82" Model="롤랑">
           <Teller>Roland</Teller>

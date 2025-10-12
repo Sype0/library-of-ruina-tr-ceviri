@@ -795,7 +795,7 @@
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep2_san4</VoiceFile>
-          <Content>Benim kardeşim... Boş verin. Bir kez daha, verdiğim sıkıntı için özür dilerim özür dilerim ve yardımlarınız için tekrar teşekkür ederim.</Content>
+          <Content>Benim kardeşim... Boş verin. Bir kez daha, verdiğim sıkıntı için özür dilerim ve yardımlarınız için tekrar teşekkür ederim.</Content>
         </Dialog>
         <Dialog ID="10" Model="줄리아">
           <Teller>Julia</Teller>
@@ -1101,7 +1101,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland9</VoiceFile>
-          <Content>Whoa, bunları anlatmanı hiç beklemiyordum...</Content>
+          <Content>Vay, bunları anlatmanı hiç beklemiyordum...</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -1155,7 +1155,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep2_roland12</VoiceFile>
-          <Content>Sıradan insanlar aniden canavara dönüşür. Ve etraflarındaki her şeyi öldürürler.</Content>
+          <Content>Sıradan insanlar aniden canavara dönüşür ve etraflarındaki her şeyi öldürürler.</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1347,7 +1347,7 @@
           <Teller>Walter</Teller>
           <Title>Zwei G. Bölüm 6 Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_walter10</VoiceFile>
-          <Content>Distorsiyon ile olan varsayılan ilişkiyi, Kütüphane'den intikam almak ya da meslektaşlarının kitaplarını geri almak için bir bahane olarak kullanmadığından emin misin?</Content>
+          <Content>Bozulma ile olan varsayılan ilişkiyi, Kütüphane'den intikam almak ya da meslektaşlarının kitaplarını geri almak için bir bahane olarak kullanmadığından emin misin?</Content>
         </Dialog>
         <Dialog ID="20" Model="이사도라">
           <Teller>Isadora</Teller>
@@ -1635,7 +1635,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch3_Zwei_ep3_roland12</VoiceFile>
-          <Content>Ah, yine o konu değil...</Content>
+          <Content>Ah, yine mi o konu...</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>Angela</Teller>
