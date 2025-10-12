@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<text id="ui_keterfloor">Genel İşler Katı</text>
-	<text id="ui_malkuthfloor">Tarih Katı</text>
-	<text id="ui_yesodfloor">Teknoloji Katı</text>
-	<text id="ui_hodfloor">Edebiyat Katı</text>
-	<text id="ui_netzachfloor">Sanat Katı</text>
-	<text id="ui_tipherethfloor">Doğa Bilimleri Katı</text>
-	<text id="ui_chesedfloor">Sosyal Bilimler Katı</text>
-	<text id="ui_geburafloor">Dil Katı</text>
-	<text id="ui_hokmafloor">Din Katı</text>
-	<text id="ui_binahfloor">Felsefe Katı</text>
+	<text id="ui_keterfloor">Genel isler Kati</text>
+	<text id="ui_malkuthfloor">Tarih Kati</text>
+	<text id="ui_yesodfloor">Teknoloji Kati</text>
+	<text id="ui_hodfloor">Edebiyat Kati</text>
+	<text id="ui_netzachfloor">Sanat Kati</text>
+	<text id="ui_tipherethfloor">Doga Bilimleri Kati</text>
+	<text id="ui_chesedfloor">Sosyal Bilimler Kati</text>
+	<text id="ui_geburafloor">Dil Kati</text>
+	<text id="ui_hokmafloor">Din Kati</text>
+	<text id="ui_binahfloor">Felsefe Kati</text>
 	<text id="ui_keter">Keter</text>
 	<text id="ui_malkuth">Malkuth</text>
 	<text id="ui_yesod">Yesod</text>
@@ -21,64 +21,64 @@
 	<text id="ui_binah">Binah</text>
 	<text id="ui_hokma">Hokma</text>
 	<text id="ui_maintitle_citystate_1">Dedikodu</text>
-	<text id="ui_maintitle_citystate_2">Şehir Masalı</text>
-	<text id="ui_maintitle_citystate_3">Şehir Efsanesi</text>
-	<text id="ui_maintitle_citystate_4">Şehir Vebası</text>
-	<text id="ui_maintitle_citystate_5">Şehir Kabusu</text>
+	<text id="ui_maintitle_citystate_2">sehir Masali</text>
+	<text id="ui_maintitle_citystate_3">sehir Efsanesi</text>
+	<text id="ui_maintitle_citystate_4">sehir Vebasi</text>
+	<text id="ui_maintitle_citystate_5">sehir Kabusu</text>
 	<text id="ui_ability_hp">Can</text>
 	<text id="ui_ability_break">Denge Direnci</text>
 	<text id="ui_ability_emotionlevel">Maks. Duygu Seviyesi</text>
-	<text id="ui_ability_speeddice">Hız Zarı</text>
+	<text id="ui_ability_speeddice">Hiz Zari</text>
 	<text id="ui_ability_passive">Pasif Yetenekler</text>
 	<text id="ui_controlbutton_main">Kütüphane</text>
 	<text id="ui_controlbutton_invitation">Davet</text>
-	<text id="ui_controlbutton_library">Kitaplık</text>
+	<text id="ui_controlbutton_library">Kitaplik</text>
 	<text id="ui_floormain_title_floorshelf">Kat {0}</text>
-	<text id="ui_floormain_title_perfection">Katın İdraki</text>
-	<text id="ui_floormain_title_callfloorfeedphase">Teşkilâtlanma</text>
+	<text id="ui_floormain_title_perfection">Katin idraki</text>
+	<text id="ui_floormain_title_callfloorfeedphase">Teskilâtlanma</text>
 	<text id="ui_floormain_title_formation">Görevler</text>
 	<text id="ui_floormain_title_quest"> {0} Görevleri</text>
-	<text id="ui_floormain_title_questroland">Roland'ın Görevleri</text>
-	<text id="ui_floormain_questalarm_floorperfection">Katın İdrak Durumu</text>
-	<text id="ui_floormain_questalarm_questclear">Tüm görevler tamamlandı</text>
-	<text id="ui_librarianmain_title_callbookfeedphase">İdrak Sayfası</text>
-	<text id="ui_librarianmain_title_callcustomizephase">Kütüphaneciyi Özelleştirme</text>
+	<text id="ui_floormain_title_questroland">Roland'in Görevleri</text>
+	<text id="ui_floormain_questalarm_floorperfection">Katin idrak Durumu</text>
+	<text id="ui_floormain_questalarm_questclear">Tüm görevler tamamlandi</text>
+	<text id="ui_librarianmain_title_callbookfeedphase">idrak Sayfasi</text>
+	<text id="ui_librarianmain_title_callcustomizephase">Kütüphaneciyi Özellestirme</text>
 	<text id="ui_book_maintitle">Kitap</text>
 	<text id="ui_book_bookname_emptybook">Yok</text>
-	<text id="ui_book_bookname_unequip">Kaldır</text>
-	<text id="ui_book_bookinfo_emptybook">Kitap seçili değil</text>
-	<text id="ui_bookinfo_title_equipeffect">Kullanım Etkileri</text>
-	<text id="ui_bookinfo_title_useeffect">Yakma Kalıntıları</text>
-	<text id="ui_bookinfo_getexp">İdrak +{0}</text>
+	<text id="ui_book_bookname_unequip">Kaldir</text>
+	<text id="ui_book_bookinfo_emptybook">Kitap seçili degil</text>
+	<text id="ui_bookinfo_title_equipeffect">Kullanim Etkileri</text>
+	<text id="ui_bookinfo_title_useeffect">Yakma Kalintilari</text>
+	<text id="ui_bookinfo_getexp">idrak +{0}</text>
 	<text id="ui_bookinfo_title_storycontent">Hikaye</text>
-	<text id="ui_bookfilter_storyorder">Hikayeye Göre Sırala</text>
-	<text id="ui_bookfilter_gradeorder">Sınıfa Göre Sırala</text>
-	<text id="ui_bookfilter_getorder">Edinime Göre Sırala</text>
-	<text id="ui_bookfilter_rarityorder">Nadirliğe Göre Sırala</text>
-	<text id="ui_card_maintitle">Savaş Kitaplığı</text>
+	<text id="ui_bookfilter_storyorder">Hikayeye Göre Sirala</text>
+	<text id="ui_bookfilter_gradeorder">Sinifa Göre Sirala</text>
+	<text id="ui_bookfilter_getorder">Edinime Göre Sirala</text>
+	<text id="ui_bookfilter_rarityorder">Nadirlige Göre Sirala</text>
+	<text id="ui_card_maintitle">Savas Kitapligi</text>
 	<text id="ui_card_title_soulshelf">Ana Sayfalar</text>
-	<text id="ui_card_title_battleshelf">Savaş Sayfaları</text>
+	<text id="ui_card_title_battleshelf">Savas Sayfalari</text>
 	<text id="ui_cardfilter_cost">Maliyet</text>
-	<text id="ui_cardfilter_dicenumber">Zar Sayısı</text>
-	<text id="ui_gift_title_battlesymbol">Savaş Simgesi</text>
+	<text id="ui_cardfilter_dicenumber">Zar Sayisi</text>
+	<text id="ui_gift_title_battlesymbol">Savas Simgesi</text>
 	<text id="ui_gift_eye">Göz</text>
 	<text id="ui_gift_nose">Burun</text>
 	<text id="ui_gift_cheek">Yanak</text>
-	<text id="ui_gift_mouth">Ağız</text>
+	<text id="ui_gift_mouth">Agiz</text>
 	<text id="ui_gift_ear">Kulak</text>
 	<text id="ui_gift_headdress1">Aksesuar 1 </text>
 	<text id="ui_gift_headdress2">Aksesuar 2</text>
 	<text id="ui_gift_headdress3">Aksesuar 3</text>
 	<text id="ui_gift_headdress4">Aksesuar 4</text>
-	<text id="ui_customize_maintitle">Kütüphaneciyi Özelleştirme</text>
-	<text id="ui_customize_title_name">İsim &amp; Unvan</text>
-	<text id="ui_customize_title_appearance">Görünüş</text>
+	<text id="ui_customize_maintitle">Kütüphaneciyi Özellestirme</text>
+	<text id="ui_customize_title_name">isim &amp; Unvan</text>
+	<text id="ui_customize_title_appearance">Görünüs</text>
 	<text id="ui_customize_title_script">Diyalog</text>
 	<text id="ui_customize_main_exit">Geri</text>
 	<text id="ui_customize_main_close">Kapat</text>
-	<text id="ui_customize_name_entername">Bir İsim Girin</text>
+	<text id="ui_customize_name_entername">Bir isim Girin</text>
 	<text id="ui_customize_name_enterdirect">Kendi ismini gir</text>
-	<text id="ui_customize_name_namelist">İsim Listesi</text>
+	<text id="ui_customize_name_namelist">isim Listesi</text>
 	<text id="ui_customize_name_usertitle">Unvan</text>
 	<text id="ui_customize_name_prefix">Ön Ek</text>
 	<text id="ui_customize_name_suffix">Son Ek</text>
@@ -86,76 +86,76 @@
 	<text id="ui_customize_appearance_backhair">Arka Saç</text>
 	<text id="ui_customize_appearance_haircolor">Saç Rengi</text>
 	<text id="ui_customize_appearance_normal">Normal</text>
-	<text id="ui_customize_appearance_attack">Saldırırken</text>
+	<text id="ui_customize_appearance_attack">Saldirirken</text>
 	<text id="ui_customize_appearance_shot">Vurulurken</text>
 	<text id="ui_customize_appearance_skincolor">Ten Rengi</text>
 	<text id="ui_customize_appearance_eyecolor">Göz Rengi</text>
 	<text id="ui_customize_script_fullview">Tam Görünüm</text>
-	<text id="ui_customize_script_battlestart">Savaş Girişi</text>
-	<text id="ui_customize_script_battlevictory">Zafer Nârası</text>
+	<text id="ui_customize_script_battlestart">Savas Girisi</text>
+	<text id="ui_customize_script_battlevictory">Zafer Nârasi</text>
 	<text id="ui_customize_script_death">Ölüm</text>
 	<text id="ui_customize_script_allydeath">Müttefik Ölümü</text>
 	<text id="ui_customize_script_killenemy">Öldürünce</text>
-	<text id="ui_customize_script_arousal">Uyanış</text>
-	<text id="ui_customize_script_collapse">Yıkım</text>
+	<text id="ui_customize_script_arousal">Uyanis</text>
+	<text id="ui_customize_script_collapse">Yikim</text>
 	<text id="ui_customize_subtitle_title">Düzenle</text>
-	<text id="ui_customize_subtitle_name">İsim &amp; Unvan Düzenle</text>
-	<text id="ui_customize_subtitle_appearance">Görünüş Düzenle</text>
+	<text id="ui_customize_subtitle_name">isim &amp; Unvan Düzenle</text>
+	<text id="ui_customize_subtitle_appearance">Görünüs Düzenle</text>
 	<text id="ui_customize_subtitle_script">Diyalog Tipi Düzenle</text>
-	<text id="ui_floorfeedbook_maintitle">Kat İdraki</text>
-	<text id="ui_floorfeedbook_button_applybook">Kitapları Yak</text>
+	<text id="ui_floorfeedbook_maintitle">Kat idraki</text>
+	<text id="ui_floorfeedbook_button_applybook">Kitaplari Yak</text>
 	<text id="ui_floorfeedbook_button_back">Geri Dön</text>
-	<text id="ui_bookfeedbook_maintitle">Sayfa İdraki</text>
-	<text id="ui_bookfeedbook_button_applybook">Sayfayı Yak</text>
+	<text id="ui_bookfeedbook_maintitle">Sayfa idraki</text>
+	<text id="ui_bookfeedbook_button_applybook">Sayfayi Yak</text>
 	<text id="ui_bookfeedbook_button_back">Geri Dön</text>
-	<text id="ui_library_maintitle">Kitaplık</text>
-	<text id="ui_library_applybook">Kitapları Yak</text>
-	<text id="ui_library_back">İptal</text>
+	<text id="ui_library_maintitle">Kitaplik</text>
+	<text id="ui_library_applybook">Kitaplari Yak</text>
+	<text id="ui_library_back">iptal</text>
 	<text id="ui_library_bookselect">Kitap Seç</text>
 	<text id="ui_library_arrowname">???</text>
 	<text id="ui_library_titlename">???</text>
 	<text id="ui_library_titledesc">???</text>
 	<text id="ui_invitation_maintitle">Hikaye</text>
 	<text id="ui_invitation_titlecontent">Davet</text>
-	<text id="ui_invitation_context">Sevgili Misafir: \n Kütüphaneye girmeye hoş geldiniz.\nKütüphane Kitapları size \n bilgelik, zenginlik, onur ve aradığınız tüm gücü \n verebilir. Ancak, sizi bir Sınav bekliyor.\nBu Sınavdan sağ çıkamazsanız,\n o zaman siz de bir Kitap olursunuz.</text>
+	<text id="ui_invitation_context">Sevgili Misafir: \n Kütüphaneye girmeye hos geldiniz.\nKütüphane Kitaplari size \n bilgelik, zenginlik, onur ve aradiginiz tüm gücü \n verebilir. Ancak, sizi bir Sinav bekliyor.\nBu Sinavdan sag çikamazsaniz,\n o zaman siz de bir Kitap olursunuz.</text>
 	<text id="ui_invitation_from">- Angela</text>
-	<text id="ui_invitation_todaybook">Günün Kitapları</text>
+	<text id="ui_invitation_todaybook">Günün Kitaplari</text>
 	<text id="ui_invitation_bookname_emptyslot">Kitap Kaydet</text>
 	<text id="ui_invitation_disabled">Gerek Yok</text>
-	<text id="ui_invitation_receiver">Alıcı</text>
+	<text id="ui_invitation_receiver">Alici</text>
 	<text id="ui_invitation_send">Davet Gönder</text>
 	<text id="ui_invitation_checkenemyinfo">Misafir Bilgilerini Görüntüle</text>
-	<text id="ui_invitation_button_openbooklist">Kitaplığa Bak</text>
+	<text id="ui_invitation_button_openbooklist">Kitapliga Bak</text>
 	<text id="ui_invitation_enemyinfo_title">Misafir</text>
-	<text id="ui_invitation_enemyinfo_reward_title">Olası Ödüller</text>
-	<text id="ui_invitation_enemyinfo_reward_afterbattle">Misafir alındıktan sonra mevcut</text>
-	<text id="ui_invitation_enemyinfo_reviewstory">Hikayeyi Hatırla</text>
-	<text id="ui_invitation_enemyinfo_prevstory">Savaştan Önce</text>
-	<text id="ui_invitation_enemyinfo_nextstory">Savaştan Sonra</text>
-	<text id="ui_invitation_reviewsephirahstory">Sefira Hikayesini Hatırla</text>
-	<text id="ui_battlesetting_maintitle_stagestart">Sahneyi Başlat</text>
-	<text id="ui_battlesetting_subtitle_progress">Kalan Perde Sayısı: {0}</text>
+	<text id="ui_invitation_enemyinfo_reward_title">Olasi Ödüller</text>
+	<text id="ui_invitation_enemyinfo_reward_afterbattle">Misafir alindiktan sonra mevcut</text>
+	<text id="ui_invitation_enemyinfo_reviewstory">Hikayeyi Hatirla</text>
+	<text id="ui_invitation_enemyinfo_prevstory">Savastan Önce</text>
+	<text id="ui_invitation_enemyinfo_nextstory">Savastan Sonra</text>
+	<text id="ui_invitation_reviewsephirahstory">Sefira Hikayesini Hatirla</text>
+	<text id="ui_battlesetting_maintitle_stagestart">Sahneyi Baslat</text>
+	<text id="ui_battlesetting_subtitle_progress">Kalan Perde Sayisi: {0}</text>
 	<text id="ui_battlesetting_possiblefloor">Mevcut Katlar:</text>
 	<text id="ui_battlesetting_normaldata">Kitap Bilgileri</text>
-	<text id="ui_battlesetting_deckinfo">Savaş Sayfaları</text>
-	<text id="ui_battlesetting_giftinfo">Savaş Simgesi</text>
+	<text id="ui_battlesetting_deckinfo">Savas Sayfalari</text>
+	<text id="ui_battlesetting_giftinfo">Savas Simgesi</text>
 	<text id="ui_characterlist_enemy_waveshelf">Perde {0}</text>
-	<text id="ui_battleresult_maintitle">Perde Kapanışı</text>
+	<text id="ui_battleresult_maintitle">Perde Kapanisi</text>
 	<text id="ui_battleresult_subtitlereturn">Devam Et</text>
-	<text id="ui_battleresult_getgift">Kazanılan Savaş Simgesi</text>
-	<text id="ui_battleresult_losegift">Kaybedilen Savaş Simgesi</text>
-	<text id="ui_battleresult_title_rewardbook">Kazanılan Kitaplar</text>
+	<text id="ui_battleresult_getgift">Kazanilan Savas Simgesi</text>
+	<text id="ui_battleresult_losegift">Kaybedilen Savas Simgesi</text>
+	<text id="ui_battleresult_title_rewardbook">Kazanilan Kitaplar</text>
 	<text id="ui_battleresult_losebook">Kaybedilen Kitap</text>
 	<text id="ui_battleresult_empty">Yok</text>
-	<text id="ui_battleresult_emptybookname">Kitap Seçili Değil</text>
+	<text id="ui_battleresult_emptybookname">Kitap Seçili Degil</text>
 	<text id="ui_battleresult_returnrewadlist">Kapat</text>
-	<text id="ui_popup_levelup_floor"> {0} İdrak seviyesi yükseldi!</text>
+	<text id="ui_popup_levelup_floor"> {0} idrak seviyesi yükseldi!</text>
 	<text id="ui_popup_opensephirah_questalarm">Yeni bir Görev eklendi</text>
-	<text id="ui_popup_opensephirah_title">{0} Açıldı</text>
-	<text id="ui_popup_librarygradeup_title">Kütüphane Sınıfı</text>
+	<text id="ui_popup_opensephirah_title">{0} Açildi</text>
+	<text id="ui_popup_librarygradeup_title">Kütüphane Sinifi</text>
 	<text id="ui_popup_gacha_confirm">Onayla</text>
 	<text id="ui_option_title">Seçenekler</text>
-	<text id="ui_option_gameplay">Oynanış</text>
+	<text id="ui_option_gameplay">Oynanis</text>
 	<text id="ui_option_language">Dil</text>
 	<text id="ui_option_kr">Korece(KR)</text>
 	<text id="ui_option_en">Türkçe</text>
@@ -163,7 +163,7 @@
 	<text id="ui_option_cn">Çince(ZH-CN)</text>
 	<text id="ui_option_audio">Ses Seviyesi</text>
 	<text id="ui_option_sound_all">Ana Ses</text>
-	<text id="ui_option_sound_bgm">Fon Müziği</text>
+	<text id="ui_option_sound_bgm">Fon Müzigi</text>
 	<text id="ui_option_sound_effect">Ses Efektleri</text>
 	<text id="ui_option_sound_voice">Seslendirmeler</text>
 	<text id="ui_option_video">Video</text>
@@ -172,11 +172,11 @@
 	<text id="ui_option_texture">Doku Kalitesi</text>
 	<text id="ui_option_high_texture">Yüksek</text>
 	<text id="ui_option_middle_texture">Orta</text>
-	<text id="ui_option_low_texture">Düşük</text>
+	<text id="ui_option_low_texture">Düsük</text>
 	<text id="ui_option_fullscreenmode">Tam Ekran</text>
 	<text id="ui_option_windowmode">Pencere</text>
-	<text id="ui_option_Initializestoreddata">Ses Ayarlarını Sıfırla</text>
-	<text id="ui_option_apply">Onayla ve Çık</text>
+	<text id="ui_option_Initializestoreddata">Ses Ayarlarini Sifirla</text>
+	<text id="ui_option_apply">Onayla ve Çik</text>
 	<text id="ui_title_newgame">Yeni Oyun</text>
 	<text id="ui_title_continue">Devam Et</text>
 	<text id="ui_title_setting">Ayarlar</text>
@@ -184,203 +184,203 @@
 	<text id="tooltip_tooltipPanel" xsi:nil="true"/>
 	<text id="ui_subtitle_none" xsi:nil="true"/>
 	<text id="ui_floormain_questalarm_queststate">Eksik Atamalar: {0}</text>
-	<text id="ui_gift_title_getcondition">Edinme Koşulu</text>
+	<text id="ui_gift_title_getcondition">Edinme Kosulu</text>
 	<text id="ui_tooltip_floor_1">{0} Bilgi Görünümü.</text>
-	<text id="ui_tooltip_floor_2">Kat İdrak durumu arttı.</text>
+	<text id="ui_tooltip_floor_2">Kat idrak durumu artti.</text>
 	<text id="ui_tooltip_floor_3">Mevcut Kat Bilgisini Kontrol Et.</text>
 	<text id="ui_tooltip_floor_4">Kütüphaneci Profiline Bak.</text>
-	<text id="ui_tooltip_librarian_1">Ana Sayfayı Değiştir.</text>
-	<text id="ui_tooltip_librarian_2">Savaş Sayfasını Değiştir.</text>
-	<text id="ui_tooltip_librarian_3"> {0} Savaş Simgesini Değiştir.</text>
+	<text id="ui_tooltip_librarian_1">Ana Sayfayi Degistir.</text>
+	<text id="ui_tooltip_librarian_2">Savas Sayfasini Degistir.</text>
+	<text id="ui_tooltip_librarian_3"> {0} Savas Simgesini Degistir.</text>
 	<text id="ui_tooltip_libraryGrade_1">Söylenti</text>
 	<text id="ui_tooltip_libraryGrade_2">Kentsel Mit</text>
 	<text id="ui_tooltip_libraryGrade_3">Kentsel Efsane</text>
-	<text id="ui_tooltip_filter_1">Eski Hikayeye Göre Sırala </text>
-	<text id="ui_tooltip_filter_2">Yeni Hikayeye Göre Sırala</text>
-	<text id="ui_tooltip_filter_3">En Yüksek Sınıfa Göre Sırala</text>
-	<text id="ui_tooltip_filter_4">En Düşük Sınıfa Göre Sırala</text>
-	<text id="ui_tooltip_filter_5">En Yeniye Göre Sırala</text>
-	<text id="ui_tooltip_filter_6">En Eskiye Göre Sırala</text>
-	<text id="ui_tooltip_book_1">Seçimi Kaldır</text>
-	<text id="ui_tooltip_book_2">Seçili Ana Sayfa ile Değiştir.</text>
-	<text id="ui_tooltip_bookInfo_1">Kitabın anlatacak bir hikayesi var mı gör.</text>
-	<text id="ui_tooltip_bookInfo_2">Görünümü Artır</text>
+	<text id="ui_tooltip_filter_1">Eski Hikayeye Göre Sirala </text>
+	<text id="ui_tooltip_filter_2">Yeni Hikayeye Göre Sirala</text>
+	<text id="ui_tooltip_filter_3">En Yüksek Sinifa Göre Sirala</text>
+	<text id="ui_tooltip_filter_4">En Düsük Sinifa Göre Sirala</text>
+	<text id="ui_tooltip_filter_5">En Yeniye Göre Sirala</text>
+	<text id="ui_tooltip_filter_6">En Eskiye Göre Sirala</text>
+	<text id="ui_tooltip_book_1">Seçimi Kaldir</text>
+	<text id="ui_tooltip_book_2">Seçili Ana Sayfa ile Degistir.</text>
+	<text id="ui_tooltip_bookInfo_1">Kitabin anlatacak bir hikayesi var mi gör.</text>
+	<text id="ui_tooltip_bookInfo_2">Görünümü Artir</text>
 	<text id="ui_tooltip_librarianInfo_1">Kitap listesini kapat.</text>
-	<text id="ui_tooltip_card_1">Seçili Savaş Sayfası ile Değiştir.</text>
+	<text id="ui_tooltip_card_1">Seçili Savas Sayfasi ile Degistir.</text>
 	<text id="ui_tooltip_card_2">Sayfa listesini kapat.</text>
 	<text id="ui_tooltip_card_3">Maliyeti {0} olan Sayfaya bak.</text>
-	<text id="ui_tooltip_card_4">Zarı {0} olan Sayfaya bak.</text>
-	<text id="ui_tooltip_card_5">Seçimi Kaldır</text>
-	<text id="ui_tooltip_gift_1">Savaş Simgesi listesini kapat.</text>
-	<text id="ui_tooltip_gifit_2">Savaş Simgesini Kuşan.</text>
+	<text id="ui_tooltip_card_4">Zari {0} olan Sayfaya bak.</text>
+	<text id="ui_tooltip_card_5">Seçimi Kaldir</text>
+	<text id="ui_tooltip_gift_1">Savas Simgesi listesini kapat.</text>
+	<text id="ui_tooltip_gifit_2">Savas Simgesini Kusan.</text>
 	<text id="ui_tooltip_invitation_1">Bir Kitap seçin.</text>
-	<text id="ui_tooltip_invitation_2">Seçili Kitabı iptal et.</text>
-	<text id="ui_tooltip_invitation_3">Sağ tık: Bilgi sekmesini geri al</text>
+	<text id="ui_tooltip_invitation_2">Seçili Kitabi iptal et.</text>
+	<text id="ui_tooltip_invitation_3">Sag tik: Bilgi sekmesini geri al</text>
 	<text id="ui_tooltip_invitation_4"> "{0}" davet et.</text>
-	<text id="ui_tooltip_invitation_5">Prologu Hatırla.</text>
-	<text id="ui_tooltip_library_1">Listeden idrak etmek istediğin bir Kitap seç.</text>
-	<text id="ui_tooltip_library_2">{0} Katı İdraki.</text>
-	<text id="ui_tooltip_library_3">Kütüphanecinin kuşanmakta olduğu Sayfanın idraki.</text>
-	<text id="ui_tooltip_library_4">{0} şu anda bu Sayfayı kuşanıyor.</text>
-	<text id="ui_tooltip_curtain_1">Bu yükseltme şu anda erişilemez.</text>
+	<text id="ui_tooltip_invitation_5">Prologu Hatirla.</text>
+	<text id="ui_tooltip_library_1">Listeden idrak etmek istedigin bir Kitap seç.</text>
+	<text id="ui_tooltip_library_2">{0} Kati idraki.</text>
+	<text id="ui_tooltip_library_3">Kütüphanecinin kusanmakta oldugu Sayfanin idraki.</text>
+	<text id="ui_tooltip_library_4">{0} su anda bu Sayfayi kusaniyor.</text>
+	<text id="ui_tooltip_curtain_1">Bu yükseltme su anda erisilemez.</text>
 	<text id="ui_tooltip_lower_1">ESC: Duraklat Menüsünü Aç</text>
-	<text id="ui_tooltip_lower_2">F1: Kılavuzu Aç</text>
+	<text id="ui_tooltip_lower_2">F1: Kilavuzu Aç</text>
 	<text id="ui_customize_appearance_eye">Göz</text>
-	<text id="ui_customize_appearance_brow">Kaş</text>
-	<text id="ui_customize_appearance_mouth">Ağız</text>
-	<text id="ui_library_abilitycontent_0">Kabul sırasında {0} seçebilirsin.</text>
-	<text id="ui_library_abilitycontent_1">{0} Kütüphaneci Asistanı uyandı.</text>
-	<text id="ui_library_abilitycontent_2">Artık Kütüphanecilerin İsim ve Görünüşünü Özelleştirebilirsin.</text>
-	<text id="ui_library_abilitycontent_3">Artık yeni Anormallik Sayfalarına erişebilirsin.</text>
-	<text id="ui_library_abilitycontent_4">Artık Kütüphanecilerin Unvan ve Diyaloglarını Özelleştirebilirsin.</text>
-	<text id="ui_library_abilitycontent_5">Artık Savaş Simgelerini Yapılandırabilirsin.</text>
+	<text id="ui_customize_appearance_brow">Kas</text>
+	<text id="ui_customize_appearance_mouth">Agiz</text>
+	<text id="ui_library_abilitycontent_0">Kabul sirasinda {0} seçebilirsin.</text>
+	<text id="ui_library_abilitycontent_1">{0} Kütüphaneci Asistani uyandi.</text>
+	<text id="ui_library_abilitycontent_2">Artik Kütüphanecilerin isim ve Görünüsünü Özellestirebilirsin.</text>
+	<text id="ui_library_abilitycontent_3">Artik yeni Anormallik Sayfalarina erisebilirsin.</text>
+	<text id="ui_library_abilitycontent_4">Artik Kütüphanecilerin Unvan ve Diyaloglarini Özellestirebilirsin.</text>
+	<text id="ui_library_abilitycontent_5">Artik Savas Simgelerini Yapilandirabilirsin.</text>
 	<text id="ui_library_abilitycontent_6">???</text>
 	<text id="ui_library_abilitycontent_7">???</text>
 	<text id="ui_library_abilitycontent_8">???</text>
 	<text id="ui_library_abilitycontent_9">???</text>
 	<text id="ui_library_abilitycontent_10">???</text>
-	<text id="ui_library_abilitycontent_11">Bir Kütüphane Şefi uyandı.</text>
+	<text id="ui_library_abilitycontent_11">Bir Kütüphane sefi uyandi.</text>
 	<text id="ui_library_abilitycontent_12">???</text>
 	<text id="ui_library_abilitycontent_13">???</text>
 	<text id="ui_library_abilitycontent_14">???</text>
 	<text id="ui_library_abilitycontent_15">???</text>
-	<text id="ui_library_abilitycontent_16">Bir Kütüphane Şefi ve {0} Kütüphaneci Asistanı uyandı.</text>
+	<text id="ui_library_abilitycontent_16">Bir Kütüphane sefi ve {0} Kütüphaneci Asistani uyandi.</text>
 	<text id="ui_escpanel_continue">Oyuna Devam Et</text>
-	<text id="ui_escpanel_manual">Kılavuz</text>
+	<text id="ui_escpanel_manual">Kilavuz</text>
 	<text id="ui_escpanel_option">Ayarlar</text>
-	<text id="ui_escpanel_returntitle">Başlık Ekranına Dön</text>
-	<text id="ui_escpanel_exit">Oyundan Çık</text>
-	<text id="ui_option_resetSound">Ses Seviyesini Sıfırla</text>
+	<text id="ui_escpanel_returntitle">Baslik Ekranina Dön</text>
+	<text id="ui_escpanel_exit">Oyundan Çik</text>
+	<text id="ui_option_resetSound">Ses Seviyesini Sifirla</text>
 	<text id="ui_customize_emptyslot">(Hiçbiri)</text>
 	<text id="ui_customize_main_totalsave">Kaydet</text>
 	<text id="ui_ability_recover">Denge Direnci Yenileme</text>
-	<text id="ui_ability_tune">Ayarlama Zarı</text>
-	<text id="ui_ability_amp">Yükseltme Zarı</text>
+	<text id="ui_ability_tune">Ayarlama Zari</text>
+	<text id="ui_ability_amp">Yükseltme Zari</text>
 	<text id="endbatte_typo_win">Zafer</text>
 	<text id="endbatte_type_lose">Yenilgi</text>
-	<text id="creaturebookshelf_needselect">Anormallik Sayfası/Sayfalarını seçmelisin</text>
-	<text id="ui_popup_endcontents_1">Şimdilik hazırladığımız tüm içerik bu kadar.
-Daha fazlası için lütfen sabırla bir sonraki güncellemeyi bekleyin.</text>
-	<text id="ui_popup_endcontents_2">Daha fazlası için lütfen sabırla bir sonraki güncellemeyi bekleyin.</text>
-	<text id="ui_popup_manualalarm_1">Kılavuzu açmak için F1 tuşuna basabilirsin.</text>
-	<text id="ui_popup_manualalarm_2">ESC menüsündeki &lt;Kılavuz&gt; butonu aracılığıyla da kılavuza erişebilirsin.</text>
-	<text id="ui_popup_customizealarm_returnsave_1"> {0} özelleştirme menüsünden değişiklikleri kaydetmeden çıkmak istediğine emin misin?</text>
-	<text id="ui_popup_customizealarm_returnsave_2">Kütüphaneci özelleştirme menüsünden değişiklikleri kaydetmeden çıkmak istediğine emin misin?</text>
-	<text id="ui_popup_customizealarm_savecomplete">Değişiklikler kaydedildi.</text>
-	<text id="ui_tooltip_gifit_3">{0} Savaş Simgesini Göster</text>
-	<text id="ui_tooltip_gifit_4">{0} Savaş Simgesini Gizle</text>
+	<text id="creaturebookshelf_needselect">Anormallik Sayfasi/Sayfalarini seçmelisin</text>
+	<text id="ui_popup_endcontents_1">simdilik hazirladigimiz tüm içerik bu kadar.
+Daha fazlasi için lütfen sabirla bir sonraki güncellemeyi bekleyin.</text>
+	<text id="ui_popup_endcontents_2">Daha fazlasi için lütfen sabirla bir sonraki güncellemeyi bekleyin.</text>
+	<text id="ui_popup_manualalarm_1">Kilavuzu açmak için F1 tusuna basabilirsin.</text>
+	<text id="ui_popup_manualalarm_2">ESC menüsündeki &lt;Kilavuz&gt; butonu araciligiyla da kilavuza erisebilirsin.</text>
+	<text id="ui_popup_customizealarm_returnsave_1"> {0} özellestirme menüsünden degisiklikleri kaydetmeden çikmak istedigine emin misin?</text>
+	<text id="ui_popup_customizealarm_returnsave_2">Kütüphaneci özellestirme menüsünden degisiklikleri kaydetmeden çikmak istedigine emin misin?</text>
+	<text id="ui_popup_customizealarm_savecomplete">Degisiklikler kaydedildi.</text>
+	<text id="ui_tooltip_gifit_3">{0} Savas Simgesini Göster</text>
+	<text id="ui_tooltip_gifit_4">{0} Savas Simgesini Gizle</text>
 	<text id="ui_tooltip_invitation_6">{0} gerekli.</text>
-	<text id="ui_tooltip_invitation_7">{0} Günün Kitabından kaldır.</text>
-	<text id="ui_tooltip_invitation_8">Sol tık: Davet gönder, Sağ tık: İptal et</text>
+	<text id="ui_tooltip_invitation_7">{0} Günün Kitabindan kaldir.</text>
+	<text id="ui_tooltip_invitation_8">Sol tik: Davet gönder, Sag tik: iptal et</text>
 	<text id="ui_cardfilter_shelflimit">Sayfa Limiti</text>
 	<text id="ui_invitation_button_back">Kütüphaneyi Kapat</text>
 	<text id="ui_customize_main_edit">Düzenle</text>
 	<text id="ui_customize_main_save">Kaydet</text>
-	<text id="ui_popup_normalinvitaionopen">Artık genel davetler gönderebilirsin.</text>
-	<text id="ui_popup_floorevelupopen">Artık Kat İdrak seviyesini artırabilirsin.</text>
-	<text id="ui_popup_cardeditopen">Artık savaş kitaplığını düzenleyebilirsin.</text>
-	<text id="ui_popup_booklevelupopen">Artık Kitapların idrak seviyesini artırabilirsin.</text>
-	<text id="ui_popup_libraryopen">Artık Kitaplığa erişebilirsin.</text>
+	<text id="ui_popup_normalinvitaionopen">Artik genel davetler gönderebilirsin.</text>
+	<text id="ui_popup_floorevelupopen">Artik Kat idrak seviyesini artirabilirsin.</text>
+	<text id="ui_popup_cardeditopen">Artik savas kitapligini düzenleyebilirsin.</text>
+	<text id="ui_popup_booklevelupopen">Artik Kitaplarin idrak seviyesini artirabilirsin.</text>
+	<text id="ui_popup_libraryopen">Artik Kitapliga erisebilirsin.</text>
 	<text id="ui_reviewstory_episode">Bölüm</text>
 	<text id="ui_sendinvitationbutton">Gönder</text>
 	<text id="ui_customize_title_size">Boyut</text>
-	<text id="ui_floormain_questalarm_onequestclear">Tamamlandı</text>
+	<text id="ui_floormain_questalarm_onequestclear">Tamamlandi</text>
 	<text id="ui_ability_limitlevel"> {0}. seviyede edinilebilir</text>
-	<text id="ui_tooltip_lower_3">Sağ tık: Ayrıl</text>
+	<text id="ui_tooltip_lower_3">Sag tik: Ayril</text>
 	<text id="ui_invitation_prologue">Prolog</text>
 	<text id="ui_corepage">Ana Sayfa</text>
-	<text id="ui_cardfilter_equiplimit">Maksimum Kuşanma Limiti Aşıldı</text>
-	<text id="ui_resistance_slash">Kesme Hasarı Direnci</text>
-	<text id="ui_resistance_penetrate">Delme Hasarı Direnci</text>
-	<text id="ui_resistance_hit">Vurma Hasarı Direnci</text>
+	<text id="ui_cardfilter_equiplimit">Maksimum Kusanma Limiti Asildi</text>
+	<text id="ui_resistance_slash">Kesme Hasari Direnci</text>
+	<text id="ui_resistance_penetrate">Delme Hasari Direnci</text>
+	<text id="ui_resistance_hit">Vurma Hasari Direnci</text>
 	<text id="ui_resistance_break_slash">Kesme Denge Direnci</text>
 	<text id="ui_resistance_break_penetrate">Delme Denge Direnci</text>
 	<text id="ui_resistance_break_hit">Vurma Denge Direnci</text>
 	<text id="ui_resistance_weak">Kritik</text>
-	<text id="ui_resistance_vulnerable">Zayıf</text>
+	<text id="ui_resistance_vulnerable">Zayif</text>
 	<text id="ui_resistance_normal">Normal</text>
-	<text id="ui_resistance_endure">Dayanıklı</text>
+	<text id="ui_resistance_endure">Dayanikli</text>
 	<text id="ui_resistance_resist">Etkisiz</text>
 	<text id="ui_resistance_immune">Etkisiz</text>
-	<text id="ui_corepage_stat">İstatistikler</text>
-	<text id="ui_librarian_stat">İstatistikler</text>
-	<text id="ui_tooltip_resistance_slash">Kesme Hasarı Direnci: {0}</text>
-	<text id="ui_tooltip_resistance_penetrate">Delme Hasarı Direnci: {0}</text>
-	<text id="ui_tooltip_resistance_hit">Vurma Hasarı Direnci: {0}</text>
+	<text id="ui_corepage_stat">istatistikler</text>
+	<text id="ui_librarian_stat">istatistikler</text>
+	<text id="ui_tooltip_resistance_slash">Kesme Hasari Direnci: {0}</text>
+	<text id="ui_tooltip_resistance_penetrate">Delme Hasari Direnci: {0}</text>
+	<text id="ui_tooltip_resistance_hit">Vurma Hasari Direnci: {0}</text>
 	<text id="ui_tooltip_resistance_break_slash">Kesme Denge Direnci: {0}</text>
 	<text id="ui_tooltip_resistance_break_penetrate">Delme Denge Direnci: {0}</text>
 	<text id="ui_tooltip_resistance_break_hit">Vurma Denge Direnci: {0}</text>
-	<text id="ui_tooltip_maxexp">İdrak seviyesini daha fazla yükseltemezsin.</text>
+	<text id="ui_tooltip_maxexp">idrak seviyesini daha fazla yükseltemezsin.</text>
 	<text id="ui_tooltip_maxlevel">Maksimum Seviye</text>
-	<text id="ui_popup_newgame">Kayıtlı oyununuzu silip sıfırdan başlamak istediğinize emin misiniz?</text>
+	<text id="ui_popup_newgame">Kayitli oyununuzu silip sifirdan baslamak istediginize emin misiniz?</text>
 	<text id="ui_popup_yesbutton">Evet</text>
-	<text id="ui_popup_nobutton">Hayır</text>
-	<text id="ui_invitation_noinvitationenemy">Şu anda davet edebileceğin misafir yok.</text>
-	<text id="ui_rarity_common">Cep Kitabı</text>
+	<text id="ui_popup_nobutton">Hayir</text>
+	<text id="ui_invitation_noinvitationenemy">su anda davet edebilecegin misafir yok.</text>
+	<text id="ui_rarity_common">Cep Kitabi</text>
 	<text id="ui_rarity_uncommon">Ciltli Kitap</text>
-	<text id="ui_rarity_rare">Sınırlı Baskı</text>
+	<text id="ui_rarity_rare">Sinirli Baski</text>
 	<text id="ui_rarity_unique">Sanat Eseri</text>
-	<text id="ui_tooltip_equiplimit_unique">Kütüphanede yalnızca {0} Kütüphaneci tarafından kuşanılabilir</text>
-	<text id="ui_tooltip_equiplimit_uncommon">Kat başına yalnızca {0} Kütüphaneci tarafından kuşanılabilir</text>
+	<text id="ui_tooltip_equiplimit_unique">Kütüphanede yalnizca {0} Kütüphaneci tarafindan kusanilabilir</text>
+	<text id="ui_tooltip_equiplimit_uncommon">Kat basina yalnizca {0} Kütüphaneci tarafindan kusanilabilir</text>
 	<text id="ui_tooltip_equiplimit_common">Limit yok</text>
 	<text id="ui_popup_tutorial_burn">Yakmak için bir Kitap seçin.</text>
-	<text id="ui_popup_tutorial_levelup">Genel İşler Katının İdrak seviyesini yükseltin.</text>
-	<text id="ui_popup_tutorial_setting">Kütüphanecilerin Ana ve Savaş Sayfalarını düzenle ve bir sonraki Misafiri davet et.</text>
-	<text id="ui_popup_tutorial_pagelevelup">Artık Ana Sayfa idrak seviyesini yükseltebilirsin.</text>
-	<text id="ui_popup_tutorial_normalinvite">Artık genel davetler gönderebilirsin.</text>
-	<text id="ui_invitation_needfloortotallevel">Kütüphane Sınıfının {0} seviyesine ulaşması gerekiyor</text>
-	<text id="ui_popup_notenoughcard">Yeterli Savaş Sayfası yok. Aşağıdaki boşluklar savaşta temel sayfalarla doldurulacaktır.</text>
-	<text id="ui_equip_level_title">Ana Sayfa İdrak Durumu</text>
-	<text id="ui_equip_limit">Kuşanma limitine ulaşıldı</text>
-	<text id="ui_drop_limit">Depolama limitine ulaşıldı</text>
-	<text id="ui_deck_limit">Savaş Sayfası kuşanma limiti</text>
+	<text id="ui_popup_tutorial_levelup">Genel isler Katinin idrak seviyesini yükseltin.</text>
+	<text id="ui_popup_tutorial_setting">Kütüphanecilerin Ana ve Savas Sayfalarini düzenle ve bir sonraki Misafiri davet et.</text>
+	<text id="ui_popup_tutorial_pagelevelup">Artik Ana Sayfa idrak seviyesini yükseltebilirsin.</text>
+	<text id="ui_popup_tutorial_normalinvite">Artik genel davetler gönderebilirsin.</text>
+	<text id="ui_invitation_needfloortotallevel">Kütüphane Sinifinin {0} seviyesine ulasmasi gerekiyor</text>
+	<text id="ui_popup_notenoughcard">Yeterli Savas Sayfasi yok. Asagidaki bosluklar savasta temel sayfalarla doldurulacaktir.</text>
+	<text id="ui_equip_level_title">Ana Sayfa idrak Durumu</text>
+	<text id="ui_equip_limit">Kusanma limitine ulasildi</text>
+	<text id="ui_drop_limit">Depolama limitine ulasildi</text>
+	<text id="ui_deck_limit">Savas Sayfasi kusanma limiti</text>
 	<text id="ui_rewardlist">Kilit Açma Listesi</text>
-	<text id="ui_popup_nocontents">Şimdilik hazırladığımız tüm hikaye bu kadar.
-Daha fazlası için lütfen sabırla bir sonraki güncellemeyi bekleyin.</text>
-	<text id="ui_popup_decklimitchange">Savaş Sayfası limiti değiştirildi.
-Savaş Kitaplığı sıfırlandı.</text>
-	<text id="ui_levlelupreward_1">Kütüphane Şefi açıldı</text>
-	<text id="ui_levlelupreward_2">{0}: Kütüphaneci/ler uyandı</text>
-	<text id="ui_levlelupreward_3">Özelleştirme #1 (İsim, Görünüş) açıldı</text>
-	<text id="ui_levlelupreward_4">Anormallik Sayfaları açıldı</text>
-	<text id="ui_levlelupreward_5">Özelleştirme #2 (Unvanlar, Diyaloglar) açıldı</text>
-	<text id="ui_levlelupreward_6">Savaş Simgelerini düzenleme açıldı</text>
-	<text id="ui_popup_getstorybook">Kazanıldı: {0}.</text>
+	<text id="ui_popup_nocontents">simdilik hazirladigimiz tüm hikaye bu kadar.
+Daha fazlasi için lütfen sabirla bir sonraki güncellemeyi bekleyin.</text>
+	<text id="ui_popup_decklimitchange">Savas Sayfasi limiti degistirildi.
+Savas Kitapligi sifirlandi.</text>
+	<text id="ui_levlelupreward_1">Kütüphane sefi açildi</text>
+	<text id="ui_levlelupreward_2">{0}: Kütüphaneci/ler uyandi</text>
+	<text id="ui_levlelupreward_3">Özellestirme #1 (isim, Görünüs) açildi</text>
+	<text id="ui_levlelupreward_4">Anormallik Sayfalari açildi</text>
+	<text id="ui_levlelupreward_5">Özellestirme #2 (Unvanlar, Diyaloglar) açildi</text>
+	<text id="ui_levlelupreward_6">Savas Simgelerini düzenleme açildi</text>
+	<text id="ui_popup_getstorybook">Kazanildi: {0}.</text>
 	<text id="ui_popup_closedStage">Davet edilebilecek misafir yok.</text>
-	<text id="ui_popup_maxfloorfeed">Bir seferde yalnızca 20 Kitap yakılabilir.</text>
-	<text id="ui_popup_notenough_inventory">Ana Sayfaları saklamak için yeterli alan yok.</text>
-	<text id="ui_battle_return_to_title">Savaşı kaybedeceksin ve davette kullandığın Kitapları da kaybedeceksin.</text>
-	<text id="ui_custom_corebook">Görünüş Önizlemesi</text>
-	<text id="ui_book_bookname_equip">Kuşan</text>
+	<text id="ui_popup_maxfloorfeed">Bir seferde yalnizca 20 Kitap yakilabilir.</text>
+	<text id="ui_popup_notenough_inventory">Ana Sayfalari saklamak için yeterli alan yok.</text>
+	<text id="ui_battle_return_to_title">Savasi kaybedeceksin ve davette kullandigin Kitaplari da kaybedeceksin.</text>
+	<text id="ui_custom_corebook">Görünüs Önizlemesi</text>
+	<text id="ui_book_bookname_equip">Kusan</text>
 	<text id="ui_decklock_slot">Düzenlenemez</text>
-	<text id="ui_decklock_level">Deste düzenlenmeden önce Sayfanın {0}. seviyeye ulaşması gerekir.</text>
+	<text id="ui_decklock_level">Deste düzenlenmeden önce Sayfanin {0}. seviyeye ulasmasi gerekir.</text>
 	<text id="creaturebookshelf_needselectunit">Lütfen bir Kütüphaneci seçin.</text>
-	<text id="ui_popup_creature_battle_start">"{0}" Kitabına girecek misin?</text>
-	<text id="ui_abnormalityshelf">Anormallik Sayfası</text>
-	<text id="ui_getabnormalitycard">Anormallik Sayfası edinildi</text>
+	<text id="ui_popup_creature_battle_start">"{0}" Kitabina girecek misin?</text>
+	<text id="ui_abnormalityshelf">Anormallik Sayfasi</text>
+	<text id="ui_getabnormalitycard">Anormallik Sayfasi edinildi</text>
 	<text id="ui_passivesuccession_currentpassive">Mevcut Pasifler</text>
-	<text id="ui_passivesuccession_possiblepassive">Aktarılabilir Pasif Yetenekler</text>
+	<text id="ui_passivesuccession_possiblepassive">Aktarilabilir Pasif Yetenekler</text>
 	<text id="ui_passivesuccession_totallist">Yetenek Listesi</text>
 	<text id="ui_passivesuccession_common">Normal</text>
-	<text id="ui_passivesuccession_inherent">Eşsiz</text>
+	<text id="ui_passivesuccession_inherent">Essiz</text>
 	<text id="ui_passivesuccession_apply">Onayla</text>
-	<text id="ui_popup_passivesuccessionalarm_changepassive">Yuvanın seçili pasif yetenek ile değiştirilmesini ister misin?
-Yuvanın orijinal yeteneği kaybolacaktır.</text>
-	<text id="ui_book_bookname_emptydeck">Desteği Boşalt</text>
+	<text id="ui_popup_passivesuccessionalarm_changepassive">Yuvanin seçili pasif yetenek ile degistirilmesini ister misin?
+Yuvanin orijinal yetenegi kaybolacaktir.</text>
+	<text id="ui_book_bookname_emptydeck">Destegi Bosalt</text>
 	<text id="ui_book_bookname_filldeck">Temel Sayfalarla Doldur</text>
-	<text id="BattleUI_getexp">Ek İdrak kazanımı: %{0}</text>
-	<text id="ui_bookfilter_Levelorder">Seviyeye Göre Sırala</text>
-	<text id="ui_battlesetting_availableunitnumber">En fazla {0} Kütüphaneci katılabilir</text>
-	<text id="ui_battlesetting_completewave">Kabul tamamlandı</text>
+	<text id="BattleUI_getexp">Ek idrak kazanimi: %{0}</text>
+	<text id="ui_bookfilter_Levelorder">Seviyeye Göre Sirala</text>
+	<text id="ui_battlesetting_availableunitnumber">En fazla {0} Kütüphaneci katilabilir</text>
+	<text id="ui_battlesetting_completewave">Kabul tamamlandi</text>
 	<text id="ui_battlesetting_selectedunitnumber">Seçili Kütüphaneciler</text>
-	<text id="ui_reviewstory_talk">Kısa Hikayeler</text>
-	<text id="ui_book_bookname_lockbook">Sayfayı Kilitle</text>
-	<text id="ui_book_bookname_unlockbook">Sayfanın Kilidini Aç</text>
-	<text id="ui_dialog_log">Kayıt</text>
-	<text id="ui_popup_getstorycard">"{0}" Savaş Sayfasından {1} kopya edindin</text>
+	<text id="ui_reviewstory_talk">Kisa Hikayeler</text>
+	<text id="ui_book_bookname_lockbook">Sayfayi Kilitle</text>
+	<text id="ui_book_bookname_unlockbook">Sayfanin Kilidini Aç</text>
+	<text id="ui_dialog_log">Kayit</text>
+	<text id="ui_popup_getstorycard">"{0}" Savas Sayfasindan {1} kopya edindin</text>
 	<text id="ui_filter_search_detail">Sayfa Ara</text>
-	<text id="ui_filter_reset">Sıfırla</text>
-	<text id="ui_filter_detail">Gelişmiş</text>
+	<text id="ui_filter_reset">Sifirla</text>
+	<text id="ui_filter_detail">Gelismis</text>
 	<text id="ui_filter_rarity">Nadir</text>
 	<text id="ui_filter_dice">Zar</text>
 	<text id="ui_filter_buf">Anahtar Kelime</text>
@@ -389,162 +389,162 @@ Yuvanın orijinal yeteneği kaybolacaktır.</text>
 	<text id="ui_dice_penetrate">Delme</text>
 	<text id="ui_dice_hit">Vurma</text>
 	<text id="ui_dice_guard">Blok</text>
-	<text id="ui_dice_evasion">Kaçınma</text>
-	<text id="ui_buf_burn">Yanık</text>
+	<text id="ui_dice_evasion">Kaçinma</text>
+	<text id="ui_buf_burn">Yanik</text>
 	<text id="ui_buf_paralysis">Felç</text>
 	<text id="ui_buf_bleeding">Kanama</text>
-	<text id="ui_buf_vulnerable">Kırılgan</text>
-	<text id="ui_buf_weak">Zayıf</text>
-	<text id="ui_buf_disarm">Silahsızlanma</text>
-	<text id="ui_buf_binding">Bağlama</text>
+	<text id="ui_buf_vulnerable">Kirilgan</text>
+	<text id="ui_buf_weak">Zayif</text>
+	<text id="ui_buf_disarm">Silahsizlanma</text>
+	<text id="ui_buf_binding">Baglama</text>
 	<text id="ui_buf_protection">Koruma</text>
 	<text id="ui_buf_strength">Güç</text>
-	<text id="ui_buf_endurance">Dayanıklılık</text>
-	<text id="ui_buf_quickness">Hız</text>
-	<text id="ui_ability_energy">Işık Yenileme</text>
+	<text id="ui_buf_endurance">Dayaniklilik</text>
+	<text id="ui_buf_quickness">Hiz</text>
+	<text id="ui_ability_energy">Isik Yenileme</text>
 	<text id="ui_ability_drawcard">Sayfa Çekme</text>
 	<text id="ui_customize_hairstyle">Saç Stili</text>
-	<text id="ui_customize_facestyle">Yüz &amp; İfade</text>
+	<text id="ui_customize_facestyle">Yüz &amp; ifade</text>
 	<text id="ui_customize_previewappearance">Önizleme</text>
 	<text id="ui_dialog_auto">Otomatik</text>
 	<text id="ui_newtooltip_battle_1">Mevcut Can</text>
 	<text id="ui_newtooltip_battle_2">Mevcut Denge Direnci</text>
-	<text id="ui_newtooltip_battle_3">Mevcut Duygu Paraları</text>
-	<text id="ui_newtooltip_battle_4">Şu anda seçili Anormallik Sayfası listesi</text>
-	<text id="ui_newtooltip_battle_5">Şu anda etkili olan Anormallik Sayfası</text>
+	<text id="ui_newtooltip_battle_3">Mevcut Duygu Paralari</text>
+	<text id="ui_newtooltip_battle_4">su anda seçili Anormallik Sayfasi listesi</text>
+	<text id="ui_newtooltip_battle_5">su anda etkili olan Anormallik Sayfasi</text>
 	<text id="ui_newtooltip_battle_6">Hedefin Fiziksel Hasar Direnci: {0} vs {1}</text>
 	<text id="ui_newtooltip_battle_7">Hedefin Denge Direnci: {0} vs {1}</text>
 	<text id="ui_newtooltip_battle_8">Eldeki Sayfalar</text>
 	<text id="ui_newtooltip_battle_9">Mevcut Can</text>
-	<text id="ui_newtooltip_battle_10">Mevcut Duygu Paraları</text>
+	<text id="ui_newtooltip_battle_10">Mevcut Duygu Paralari</text>
 	<text id="ui_newtooltip_battle_11">Mevcut Duygu Seviyesi</text>
-	<text id="ui_newtooltip_battle_12">Savaşı Başlatmak İçin Tıklayın</text>
+	<text id="ui_newtooltip_battle_12">Savasi Baslatmak için Tiklayin</text>
 	<text id="ui_newtooltip_battle_13">Ekip Duygu Seviyesi</text>
-	<text id="ui_newtooltip_battle_14">Hızlı Mod Açık/Kapalı
-Hızlı Mod "Kapalı" olduğunda Zar manuel olarak atılır.</text>
+	<text id="ui_newtooltip_battle_14">Hizli Mod Açik/Kapali
+Hizli Mod "Kapali" oldugunda Zar manuel olarak atilir.</text>
 	<text id="ui_newtooltip_battle_15">Misafir Hedefini Göster</text>
-	<text id="ui_newtooltip_battle_16">Çatışmaları Göster</text>
+	<text id="ui_newtooltip_battle_16">Çatismalari Göster</text>
 	<text id="ui_newtooltip_battle_17">Kütüphaneci Hedefini Göster</text>
 	<text id="ui_newtooltip_main_1">{0} Bilgisine Bak.</text>
 	<text id="ui_newtooltip_main_2">{0} Bilgisine Bak.</text>
 
 
-  <text id ="ui_popup_opencomplete_floor">{0} İdraki Tamamlandı</text>
-  <text id ="ui_popup_openuncomplete_floor">{0} İdraki Başarısız Oldu</text>
-  <text id="ui_library_abilitycontent_17">Artık E.G.O. Sayfalarını kullanabilirsin.</text>
+  <text id ="ui_popup_opencomplete_floor">{0} idraki Tamamlandi</text>
+  <text id ="ui_popup_openuncomplete_floor">{0} idraki Basarisiz Oldu</text>
+  <text id="ui_library_abilitycontent_17">Artik E.G.O. Sayfalarini kullanabilirsin.</text>
   <text id="ui_library_abilitycontent_18">Duygu Seviyesi {0}. seviyeye yükseldi.</text>
-  <text id="ui_popup_creature_bossbattle_start">{0} hikayesinin final bölümünü görmeye hazır mısın?</text>
-  <text id="ui_getegocard">E.G.O. Sayfası edinildi</text>
-  <text id="ui_egocard">E.G.O. Sayfası</text>
+  <text id="ui_popup_creature_bossbattle_start">{0} hikayesinin final bölümünü görmeye hazir misin?</text>
+  <text id="ui_getegocard">E.G.O. Sayfasi edinildi</text>
+  <text id="ui_egocard">E.G.O. Sayfasi</text>
 
-  <text id="ui_newtooltip_battle_18">Rastgele Savaş Sayfalarını boş Hız zarlarına yerleştirir.
-Bu, şu anda Savaş Sayfasında olan Zarın Hızını etkilemez.</text>
+  <text id="ui_newtooltip_battle_18">Rastgele Savas Sayfalarini bos Hiz zarlarina yerlestirir.
+Bu, su anda Savas Sayfasinda olan Zarin Hizini etkilemez.</text>
 
-  <text id="ui_ability_speeddicenumber">Hız Zarı Yuvası</text>
+  <text id="ui_ability_speeddicenumber">Hiz Zari Yuvasi</text>
 
-  <text id="ui_dice_standby">Karşı Saldırı</text>
+  <text id="ui_dice_standby">Karsi Saldiri</text>
   <text id="ui_dice_onlyone">Tekil</text>
-  <text id="ui_dice_charge">Şarj</text>
+  <text id="ui_dice_charge">sarj</text>
   <text id="ui_dice_smoke">Duman</text>
   <text id="ui_ability_recoverhp">Can Yenileme</text>
 
-  <text id="ui_passivesuccession_selectchangepassive">Kullanımdaki Pasifler</text>
-  <text id="ui_passivesuccession_equipbooks">Kuşanılan Ana Sayfalar</text>
+  <text id="ui_passivesuccession_selectchangepassive">Kullanimdaki Pasifler</text>
+  <text id="ui_passivesuccession_equipbooks">Kusanilan Ana Sayfalar</text>
   <text id="ui_passivesuccession_selectsuccessionpassive">Mevcut Pasifler Listesi</text>
-  <text id="ui_passivesuccession_originalarm">Ana Sayfa Kuşan</text>
-  <text id="ui_passivesuccession_usingpassive">Kullanımda</text>
+  <text id="ui_passivesuccession_originalarm">Ana Sayfa Kusan</text>
+  <text id="ui_passivesuccession_usingpassive">Kullanimda</text>
   <text id="ui_passivesuccession_title">Ana Sayfa Düzenle</text>
   <text id="ui_passivesuccession_booklist">Ana Sayfa Listesi</text>
 
-  <text id="ui_passivesuccession_beinherited">Kuşan</text>
-  <text id="ui_passivesuccession_beinheritedother">Şu Anda Başka Bir Ana Sayfada</text>
-  <text id="ui_passivesuccession_releaseinherit">Kaldır</text>
+  <text id="ui_passivesuccession_beinherited">Kusan</text>
+  <text id="ui_passivesuccession_beinheritedother">su Anda Baska Bir Ana Sayfada</text>
+  <text id="ui_passivesuccession_releaseinherit">Kaldir</text>
   
-  <text id="ui_passivesuccession_applyalarm">Değişiklikleri kaydet ve Ana Sayfa düzenlemeyi bitirilsin mi?</text>
-  <text id="ui_passivesuccession_releaseequipedbookalarm">Bu Sayfaya ait bir pasif yetenek şu anda kullanılıyor.
-Bu Sayfadan kaldırmak ister misin?</text>
-  <text id="ui_passivesuccession_releaseequipedotherbookalarm">Bu Sayfa şu anda başka bir Ana Sayfada kuşanılmış durumda.
-O Sayfadan kaldırmak ister misin?
+  <text id="ui_passivesuccession_applyalarm">Degisiklikleri kaydet ve Ana Sayfa düzenlemeyi bitirilsin mi?</text>
+  <text id="ui_passivesuccession_releaseequipedbookalarm">Bu Sayfaya ait bir pasif yetenek su anda kullaniliyor.
+Bu Sayfadan kaldirmak ister misin?</text>
+  <text id="ui_passivesuccession_releaseequipedotherbookalarm">Bu Sayfa su anda baska bir Ana Sayfada kusanilmis durumda.
+O Sayfadan kaldirmak ister misin?
   </text>
 
-  <text id="ui_maintitle_citystate_6">Şehrin Yıldızı</text>
+  <text id="ui_maintitle_citystate_6">sehrin Yildizi</text>
 
-  <text id ="ui_bookinfo_attachedbookalarm">Şu Anda Başka Bir Ana Sayfada</text>
+  <text id ="ui_bookinfo_attachedbookalarm">su Anda Baska Bir Ana Sayfada</text>
 
-  <text id ="ui_bookinventory_equipbook">Kuşan</text>
-  <text id ="ui_bookinventory_givepassiverelease">Ana Sayfayı Kaldır</text>
-  <text id ="ui_bookinventory_receivepassiverelease">Ana Sayfaları Kaldır</text>
+  <text id ="ui_bookinventory_equipbook">Kusan</text>
+  <text id ="ui_bookinventory_givepassiverelease">Ana Sayfayi Kaldir</text>
+  <text id ="ui_bookinventory_receivepassiverelease">Ana Sayfalari Kaldir</text>
 
-  <text id="ui_popup_release_all">Şu anda kuşanılmış olan tüm Ana Sayfaları kaldıralım mı?</text>
-  <text id="ui_appearanceselect">Görünüş Değiştir</text>
+  <text id="ui_popup_release_all">su anda kusanilmis olan tüm Ana Sayfalari kaldiralim mi?</text>
+  <text id="ui_appearanceselect">Görünüs Degistir</text>
 
 
   <text id="ui_save">Kaydet</text>
-  <text id="ui_deck_apply_assure">Seçili Desteği Kütüphaneciye aktarılsın mı?</text>
+  <text id="ui_deck_apply_assure">Seçili Destegi Kütüphaneciye aktarilsin mi?</text>
   <text id="ui_deck_save_assure">Bu yuvada zaten bir deste var.
 Üzerine yeni bir deste yazmak ister misin?</text>
-  <text id="ui_deck_save">Mevcut Desteği Kaydet</text>
+  <text id="ui_deck_save">Mevcut Destegi Kaydet</text>
   <text id="ui_show_decklist">Deste Listesini Göster</text>
   <text id="ui_apply_deck">Aktar</text>
   <text id="ui_back_to_list">Listele</text>
   <text id="ui_close_popup">Kapat</text>
 
-  <text id="ui_deck_change_name">Yeniden Adlandır</text>
+  <text id="ui_deck_change_name">Yeniden Adlandir</text>
   <text id="ui_deck_close_list">Listeyi Kapat</text>
-  <text id="ui_card_equip_limit">Kuşanma Limiti</text>
-  <text id="ui_card_open_equipstate">Kuşanma Durumunu Göster</text>
+  <text id="ui_card_equip_limit">Kusanma Limiti</text>
+  <text id="ui_card_open_equipstate">Kusanma Durumunu Göster</text>
 
-  <text id="ui_deck_delete_assure">Bu desteyi silmek istediğine emin misin?</text>
+  <text id="ui_deck_delete_assure">Bu desteyi silmek istedigine emin misin?</text>
 
-  <text id="ui_customtoggle_title">Görünüş Değiştir</text>
+  <text id="ui_customtoggle_title">Görünüs Degistir</text>
 
-  <text id="ui_card_equipstate_lackofcards">Yeterli Savaş Sayfası Yok</text>
+  <text id="ui_card_equipstate_lackofcards">Yeterli Savas Sayfasi Yok</text>
   <text id="ui_card_equipstate_fullofdeck">Deste listesi dolu</text>
-  <text id="ui_card_equipstate_overcardlimit">Kuşanma Limiti Aşıldı</text>
-  <text id="ui_card_equipstate_overfloorlimit">Kat Limiti Aşıldı</text>
+  <text id="ui_card_equipstate_overcardlimit">Kusanma Limiti Asildi</text>
+  <text id="ui_card_equipstate_overfloorlimit">Kat Limiti Asildi</text>
   <text id="ui_card_equipstate_fartypelimit">Sadece Uzak Menzil</text>
-  <text id="ui_card_equipstate_neartypelimit">Sadece Yakın Menzil</text>
+  <text id="ui_card_equipstate_neartypelimit">Sadece Yakin Menzil</text>
   <text id="ui_card_equipstate_onlypagelimit">Bu Ana Sayfa ile uyumlu olmayan özel Sayfa</text>
-  <text id="ui_card_bookcardequipinfo_notify">Yalnızca kuşanılmamış Ana Sayfaları göreceksin.</text>
+  <text id="ui_card_bookcardequipinfo_notify">Yalnizca kusanilmamis Ana Sayfalari göreceksin.</text>
 
-  <text id="ui_passivesuccession_releasepassive">Kaldır</text>
+  <text id="ui_passivesuccession_releasepassive">Kaldir</text>
 
   <text id="ui_passivesuccession_costtitle">Maliyet</text>
 
-  <text id ="ui_bookinfo_rewardrestbutton">Ödülleri Sıfırla</text>
+  <text id ="ui_bookinfo_rewardrestbutton">Ödülleri Sifirla</text>
 
 <text id ="ui_equippageinventory_bookmark">Favorilerim</text>
   <text id ="ui_equippageinventory_addbookmark">Favori Ata</text>
-  <text id ="ui_equippageinventory_releasebookmark">Favorilerden Kaldır</text>
+  <text id ="ui_equippageinventory_releasebookmark">Favorilerden Kaldir</text>
 
-  <text id ="ui_equippageinventory_alreadyequipedequippage">Sayfayı Kuşan</text>
+  <text id ="ui_equippageinventory_alreadyequipedequippage">Sayfayi Kusan</text>
 
   <text id="ui_floorfeedbook_selectedpaneltitle">Toplam Kitap: {0}</text>
 
-  <text id="ui_bookfilter_reinforced">Kartlı Sayfalar</text>
+  <text id="ui_bookfilter_reinforced">Kartli Sayfalar</text>
 
-  <text id="ui_invitation_availableunitnumber">Konuşlandırılabilir Birimler:</text>
-  <text id="ui_invitation_enemyfloornumber">Perde Sayısı:</text>
+  <text id="ui_invitation_availableunitnumber">Konuslandirilabilir Birimler:</text>
+  <text id="ui_invitation_enemyfloornumber">Perde Sayisi:</text>
 
-  <text id="ui_stories_etc">Diğer</text>
-  <text id="ui_storiesbymainstory">Kütüphane Şefleri</text>
+  <text id="ui_stories_etc">Diger</text>
+  <text id="ui_storiesbymainstory">Kütüphane sefleri</text>
   <text id="ui_storiesbychapter">Ana Hikaye</text>
   <text id="ui_storiesbybook">Kitaplar</text>
 
-<text id="ui_battlesettingeditbutton">Ayarları Değiştir</text>
+<text id="ui_battlesettingeditbutton">Ayarlari Degistir</text>
   <text id="ui_cannotbemodifiedequippage">Sayfa düzenlenemez</text>
 
-  <text id="ui_completetoapply">Tamamlandı</text>
+  <text id="ui_completetoapply">Tamamlandi</text>
   
   <text id="ui_color_h">Ton</text>
   <text id="ui_color_s">Doygunluk</text>
-  <text id="ui_color_v">Parlaklık</text>
+  <text id="ui_color_v">Parlaklik</text>
   <text id="ui_resultemotionlevelrewardtitle">Duygu Seviyesi Bonusu</text>
-  <text id ="ui_resultgetbookincreasepertitle">{0} Oran Artışı</text>
+  <text id ="ui_resultgetbookincreasepertitle">{0} Oran Artisi</text>
   <text id="ui_selectgendertype">Vücut Tipi</text>
-  <text id="ui_resultemptygift">Savaş Simgesi Edinilmedi</text>
-  <text id="ui_genderappearance_a">A Seçeneği</text>
-  <text id="ui_genderappearance_b">B Seçeneği</text>
+  <text id="ui_resultemptygift">Savas Simgesi Edinilmedi</text>
+  <text id="ui_genderappearance_a">A Seçenegi</text>
+  <text id="ui_genderappearance_b">B Seçenegi</text>
   
   <text id="ui_passivessuccessionbuttontitle">Pasif Yetenekler</text>
   
@@ -555,27 +555,27 @@ O Sayfadan kaldırmak ister misin?
   <text id="ui_controllbutton_main">Kütüphane</text>
   <text id="ui_booklist">Kitap Listesi</text>
 
-  <text id="ui_battlepagelist">Savaş Sayfası Listesi</text>
+  <text id="ui_battlepagelist">Savas Sayfasi Listesi</text>
   <text id ="ui_select">Seç</text>
   <text id ="ui_menu">Menü</text>
 
-  <text id ="ui_customcoretype_melee">Özelleştirilmiş Yakın Menzil Sayfası</text>
-  <text id ="ui_customcoretype_hybrid">Özelleştirilmiş Karma Sayfa</text>
-  <text id ="ui_customcoretype_range">Özelleştirilmiş Uzak Menzil Sayfası</text>
+  <text id ="ui_customcoretype_melee">Özellestirilmis Yakin Menzil Sayfasi</text>
+  <text id ="ui_customcoretype_hybrid">Özellestirilmis Karma Sayfa</text>
+  <text id ="ui_customcoretype_range">Özellestirilmis Uzak Menzil Sayfasi</text>
 
 	<text id ="ui_drop_reward">{0}: %{1} - Kopya: {2}</text>
 
   <text id ="ui_decksetting_save">Desteleri Kaydet</text>
   <text id ="ui_decksetting_list">Desteleri Yükle</text>
 
-  <text  id ="ui_alarm_openpassivesuccession">Artık Pasif Yetenekleri aktarabilirsin.</text>
+  <text  id ="ui_alarm_openpassivesuccession">Artik Pasif Yetenekleri aktarabilirsin.</text>
 
   <text  id ="ui_alarm_passivesuccession_costup"> Pasif aktarma Maliyet Limiti {0}'dan {1}'e yükseltildi.</text>
 
-  <text id ="ui_equippage_notequip">Kuşanılamaz</text>
+  <text id ="ui_equippage_notequip">Kusanilamaz</text>
 
-  <text id ="ui_alarm_battlesetting_canusebinah">Bu savaş için Kütüphane Şefi Binah'ı kontrol edebilirsin.</text>
-  <text id ="ui_alarm_main_canusebinah">Felsefe Katı Kütüphane Şefi Binah artık mevcut.</text>
+  <text id ="ui_alarm_battlesetting_canusebinah">Bu savas için Kütüphane sefi Binah'i kontrol edebilirsin.</text>
+  <text id ="ui_alarm_main_canusebinah">Felsefe Kati Kütüphane sefi Binah artik mevcut.</text>
 
   <text id ="ui_slash_form">Kesme</text>
   <text id ="ui_penetrate_form">Delme</text>
@@ -585,124 +585,124 @@ O Sayfadan kaldırmak ister misin?
 
   <text id="ui_maintitle_citystate_7">Impuritas Civitatis</text>
 
-  <text id ="ui_alarm_battlesetting_canuseblacksilence">Roland, bu savaş için Kara Sessizlik Sayfalarıyla kuşanılacak.</text>
-  <text id ="ui_alarm_main_canuseblacksilence">Roland'ın Ana Sayfaları Kara Sessizlik Sayfalarıyla değiştirildi.</text>
+  <text id ="ui_alarm_battlesetting_canuseblacksilence">Roland, bu savas için Kara Sessizlik Sayfalariyla kusanilacak.</text>
+  <text id ="ui_alarm_main_canuseblacksilence">Roland'in Ana Sayfalari Kara Sessizlik Sayfalariyla degistirildi.</text>
 
-  <text id ="ui_storyarchives_nullepisodecaution">Lütfen okumak istediğin bölümü listeden seç.</text>
+  <text id ="ui_storyarchives_nullepisodecaution">Lütfen okumak istedigin bölümü listeden seç.</text>
 
 
 
-  <text id="ui_controller_controlscroll">Listede kaydırmak için fare tekerleğini kullan.</text>
-  <text id="ui_controller_scrolltotop">En Üste Kaydır</text>
+  <text id="ui_controller_controlscroll">Listede kaydirmak için fare tekerlegini kullan.</text>
+  <text id="ui_controller_scrolltotop">En Üste Kaydir</text>
 
   <text id="ui_controller_story_playvoice">Sesi Oynat</text>
 
-  <text id="ui_controller_zoominout">Yakınlaştır/Uzaklaştır</text>
-  <text id="ui_controller_zoomreset">Yakınlaştırmayı Sıfırla</text>
+  <text id="ui_controller_zoominout">Yakinlastir/Uzaklastir</text>
+  <text id="ui_controller_zoomreset">Yakinlastirmayi Sifirla</text>
 
 
-  <text id="ui_invitation_send_blueReveration">İstenmeyen Misafirleri Kabul Et</text>
+  <text id="ui_invitation_send_blueReveration">istenmeyen Misafirleri Kabul Et</text>
 
   
 
-  <text id ="ui_alarm_enterthebluereverberationprimary">{0} Kabulü için başlamaya hazır mısın?</text>
+  <text id ="ui_alarm_enterthebluereverberationprimary">{0} Kabulü için baslamaya hazir misin?</text>
 
-  <text id ="ui_controller_removedeck">Desteği Sil</text>
+  <text id ="ui_controller_removedeck">Destegi Sil</text>
 
-  <text id ="ui_alarm_feedingbook_backtomain">Kitap yakmayı durdurup önceki ekrana geri dönülsün mü?</text>
+  <text id ="ui_alarm_feedingbook_backtomain">Kitap yakmayi durdurup önceki ekrana geri dönülsün mü?</text>
   <text id ="ui_controller_showdetailinfo">Detaylar</text>
-  <text id ="ui_controller_popupshowhide">Sayfayı Aç/Kapat</text>
-  <text id ="ui_passivesuccession_cancelconfirmalarm">Değişiklikleri kaydetmeden geri dönülsün mü?</text>
+  <text id ="ui_controller_popupshowhide">Sayfayi Aç/Kapat</text>
+  <text id ="ui_passivesuccession_cancelconfirmalarm">Degisiklikleri kaydetmeden geri dönülsün mü?</text>
 
-  <text id="ui_floor_initbattle_blueReveration">Sıfırla</text>
+  <text id="ui_floor_initbattle_blueReveration">Sifirla</text>
 
-  <text id ="ui_alarm_initfloorbattlethebluereverberationprimary">Bu kat için Kabul süreci sıfırlanacak, bu Kabulde kullanılan Sayfalar üzerindeki kısıtlama kalkacak.
+  <text id ="ui_alarm_initfloorbattlethebluereverberationprimary">Bu kat için Kabul süreci sifirlanacak, bu Kabulde kullanilan Sayfalar üzerindeki kisitlama kalkacak.
 Devam etmek ister misin?</text>
 
-  <text id ="ui_alarm_enterthebluereverberationprimary_keter">Genel İşler Katında Roland misafiri tek başına kabul edecek.
-Kabul başlasın mı?</text>
+  <text id ="ui_alarm_enterthebluereverberationprimary_keter">Genel isler Katinda Roland misafiri tek basina kabul edecek.
+Kabul baslasin mi?</text>
 
   <text id="ui_blueprimary_exit">Kabulü Kaybet</text>
   
-  <text id ="ui_controller_showtooltip">Detayları Gör</text>
-  <text id ="ui_controller_focusmove">Objeler Arasında Geçiş Yap</text>
-  <text id ="ui_controller_panelmove">Paneller Arasında Değiştir</text>
+  <text id ="ui_controller_showtooltip">Detaylari Gör</text>
+  <text id ="ui_controller_focusmove">Objeler Arasinda Geçis Yap</text>
+  <text id ="ui_controller_panelmove">Paneller Arasinda Degistir</text>
   <text id ="ui_controller_leftmenu">Sol Menü</text>
-  <text id ="ui_showdetail">Detayları Göster</text>
+  <text id ="ui_showdetail">Detaylari Göster</text>
 
   
-  <text id ="ui_alarm_blueprimaryreward">Yankılanma Meclisi Kabulü ödülleri sadece bir kez elde edilebilir.</text>
+  <text id ="ui_alarm_blueprimaryreward">Yankilanma Meclisi Kabulü ödülleri sadece bir kez elde edilebilir.</text>
 
 
-  <text id="ui_alarm_startthebluereverberationprimary">Bu noktadan itibaren davet gönderemeyecek, Kitap yakamayacak, Anormalliklerle savaşamayacak veya Kat İdraki yapamayacaksın.
-Gerçekten olacaklara hazır mısın?</text>
+  <text id="ui_alarm_startthebluereverberationprimary">Bu noktadan itibaren davet gönderemeyecek, Kitap yakamayacak, Anormalliklerle savasamayacak veya Kat idraki yapamayacaksin.
+Gerçekten olacaklara hazir misin?</text>
 
-  <text id ="ui_alarm_backthebluereverberationprimary">Şimdi vazgeçersen, şu ana kadarki tüm ilerlemeni kaybedecek ve Hana Birliği Kabulüne geri gönderileceksin.
-Vazgeçmek istediğine emin misin?</text>
+  <text id ="ui_alarm_backthebluereverberationprimary">simdi vazgeçersen, su ana kadarki tüm ilerlemeni kaybedecek ve Hana Birligi Kabulüne geri gönderileceksin.
+Vazgeçmek istedigine emin misin?</text>
 
 
-  <text id="ui_newtooltip_battle_19">Kütüphanecinin Hız zarında şu anda seçili tüm Savaş Sayfalarını iptal et</text>
+  <text id="ui_newtooltip_battle_19">Kütüphanecinin Hiz zarinda su anda seçili tüm Savas Sayfalarini iptal et</text>
 
- <text id="ui_enterendcontentsformidway">Sonraki Kabulü Başlat</text>
-  <text id ="ui_alarm_enterendcontentsformidway">Bir sonraki savaşa devam etmek için "Sonraki Kabulü Başlat"a bas.</text>
+ <text id="ui_enterendcontentsformidway">Sonraki Kabulü Baslat</text>
+  <text id ="ui_alarm_enterendcontentsformidway">Bir sonraki savasa devam etmek için "Sonraki Kabulü Baslat"a bas.</text>
   
-  <text id ="ui_alarm_enterblacksilence">Kara Sessizlik Kabulünü başlatalım mı?</text>
+  <text id ="ui_alarm_enterblacksilence">Kara Sessizlik Kabulünü baslatalim mi?</text>
 
-  <text id ="ui_alarm_entertwistedblue">Çarpık Yankılanma Meclisi Kabulünü başlatalım mı?</text>
+  <text id ="ui_alarm_entertwistedblue">Çarpik Yankilanma Meclisi Kabulünü baslatalim mi?</text>
 
 //잔향악단2차 클리어후 결과 보상창 상단 텍스트
-  <text id ="ui_alarm_rewardtwistedblue">Kara Sessizlik ve Yankılanma Meclisi ödüllerini edin.</text>
+  <text id ="ui_alarm_rewardtwistedblue">Kara Sessizlik ve Yankilanma Meclisi ödüllerini edin.</text>
 
 
-  <text id="ui_battle_switchtarget">Çatışma Hedefini Değiştir</text>
+  <text id="ui_battle_switchtarget">Çatisma Hedefini Degistir</text>
   
   
-  <text id ="ui_storyselectoption_blacksilence_kill">Roland'ı reddet ve Angela bu acıyı özgürlük kazanmak için kucaklasın.</text>
-  <text id ="ui_storyselectoption_blacksilence_forgive">Roland'ı affet ve Angela her şeyin eskisi gibi olmasına izin versin.</text>
-  <text id ="ui_storyselectoption_blacksilence_forgivecondition">Angela bunu ancak her katta ihtiyacı olan her şeyin İdrakini tamamladıktan sonra yapabilir.</text>
-  <text id ="ui_storyselectoption_angela_kill">Angela'yı reddet ve Roland intikamının son adımını tamamlasın.</text>
-  <text id ="ui_storyselectoption_angela_forgive">Angela'yı affet.</text>
-  <text id ="ui_storyselectoption_angela_forgivecondition">Roland, ancak her katta ihtiyacı olan her şeyin İdrakini tamamladıktan sonra bunu aşabilir.</text>
+  <text id ="ui_storyselectoption_blacksilence_kill">Roland'i reddet ve Angela bu aciyi özgürlük kazanmak için kucaklasin.</text>
+  <text id ="ui_storyselectoption_blacksilence_forgive">Roland'i affet ve Angela her seyin eskisi gibi olmasina izin versin.</text>
+  <text id ="ui_storyselectoption_blacksilence_forgivecondition">Angela bunu ancak her katta ihtiyaci olan her seyin idrakini tamamladiktan sonra yapabilir.</text>
+  <text id ="ui_storyselectoption_angela_kill">Angela'yi reddet ve Roland intikaminin son adimini tamamlasin.</text>
+  <text id ="ui_storyselectoption_angela_forgive">Angela'yi affet.</text>
+  <text id ="ui_storyselectoption_angela_forgivecondition">Roland, ancak her katta ihtiyaci olan her seyin idrakini tamamladiktan sonra bunu asabilir.</text>
 
-  <text id="ui_passivedetailfilter">Gelişmiş Arama</text>
+  <text id="ui_passivedetailfilter">Gelismis Arama</text>
   <text id="ui_passivekeyword_Power">Güç</text>
   <text id="ui_passivekeyword_strength">Kuvvet</text>
-  <text id="ui_passivekeyword_endurance">Dayanıklılık</text>
-  <text id="ui_passivekeyword_burn">Yanık</text>
+  <text id="ui_passivekeyword_endurance">Dayaniklilik</text>
+  <text id="ui_passivekeyword_burn">Yanik</text>
   <text id="ui_passivekeyword_paralysis">Felç</text>
   <text id="ui_passivekeyword_bleeding">Kanama</text>
   <text id="ui_passivekeyword_Recover">Yenileme</text>
   <text id="ui_passivekeyword_damage">Hasar</text>
 
-  <text id ="ui_alarm_enterhead">Final Kabulünü başlatmak ister misin?</text>
+  <text id ="ui_alarm_enterhead">Final Kabulünü baslatmak ister misin?</text>
 
 
   <text id="ui_title_credit">Jenerik</text>
-  <text id="ui_alarm_esc_endingcredit">Jeneriği atlamak istediğine emin misin?</text>
+  <text id="ui_alarm_esc_endingcredit">Jenerigi atlamak istedigine emin misin?</text>
 
-  <text id="ui_credit_fastalarm">Hızlı İlerleme</text>
+  <text id="ui_credit_fastalarm">Hizli ilerleme</text>
   <text id="ui_credit_skipalarm">ATLA</text>
 
-<text id="ui_alarm_endcontentsrewardcantuse">İlerlemen Kara Sessizlik Kabulüne kadar kaydedildi.
-Kara Sessizlik Kabulü ve Yankılanma Meclisi Kabulü'nü tamamladıktan sonra alınan ödüller geçici olarak kullanılamayacaktır.</text>
+<text id="ui_alarm_endcontentsrewardcantuse">ilerlemen Kara Sessizlik Kabulüne kadar kaydedildi.
+Kara Sessizlik Kabulü ve Yankilanma Meclisi Kabulü'nü tamamladiktan sonra alinan ödüller geçici olarak kullanilamayacaktir.</text>
 
   <text id="ui_alarm_ensurestoryselection">Bu, gelecekteki ilerlemeni etkileyebilir.
-Seçmek istediğine emin misin?</text>
+Seçmek istedigine emin misin?</text>
 
-<text id="ui_alarm_isrunningtutorial">Eğitimi atlamak istediğine emin misin?</text>
+<text id="ui_alarm_isrunningtutorial">Egitimi atlamak istedigine emin misin?</text>
 
 
-<text id="ui_alarm_dropbookensurereset">Ödülleri sıfırla?
+<text id="ui_alarm_dropbookensurereset">Ödülleri sifirla?
 (Ana Sayfalar limitin ötesinde yenilenmeyecektir)</text>
-  <text id="ui_battle_return_to_title_creature">Bu savaşı kaybedeceksin ve başlık ekranına döneceksin.</text>
-  <text id="ui_controller_switchcamp">Taraf Değiştir</text>
-  <text id="ui_controller_movebattlecam">Kamerayı Ayarla</text>
-  <text id="ui_controller_resetbattlecam">Kamerayı Sıfırla</text>
-  <text id="ui_controller_startbattle">Savaşı Başlat</text>
+  <text id="ui_battle_return_to_title_creature">Bu savasi kaybedeceksin ve baslik ekranina döneceksin.</text>
+  <text id="ui_controller_switchcamp">Taraf Degistir</text>
+  <text id="ui_controller_movebattlecam">Kamerayi Ayarla</text>
+  <text id="ui_controller_resetbattlecam">Kamerayi Sifirla</text>
+  <text id="ui_controller_startbattle">Savasi Baslat</text>
   <text id="ui_controller_upperui">Üst Bölge</text>
-  <text id="ui_controller_selectbattlepage">Savaş Sayfası Seç</text>
+  <text id="ui_controller_selectbattlepage">Savas Sayfasi Seç</text>
   <text id="ui_controller_selecttarget">Hedef Seç</text>
-  <text id="ui_controller_cancelbattlepage">Savaş Sayfası Seçimini Kaldır</text>
+  <text id="ui_controller_cancelbattlepage">Savas Sayfasi Seçimini Kaldir</text>
   <text id="ui_controller_unitdetail">Detaylar</text>
 
   <text id="ui_alarm_equippageempty">Hiç Ana Sayfan yok.
@@ -710,8 +710,8 @@ Devam etmeden önce lütfen bir Kitap yak.</text>
   
   <text id="ui_controller_equippagepreview_hide">Gizle</text>
 
-  <text id="ui_storyarchieves_creatureRebatle">Anormallik Rövanşı</text>
-  <text id="ui_sephirah_finalbattle">İdrak</text>
+  <text id="ui_storyarchieves_creatureRebatle">Anormallik Rövansi</text>
+  <text id="ui_sephirah_finalbattle">idrak</text>
 
 
   <text id="ui_invitation_customtoggle">Atölye</text>
