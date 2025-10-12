@@ -6028,345 +6028,345 @@
 				</Dialog>
         <Dialog ID="29" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow16</VoiceFile>
-          <Content>Y el último Fixer de pie fue desarmado cuidadosamente, haciendo el sonido más espléndido imaginable, como hermosas notas rojas esparcidas de su cuerpo.</Content>
+          <Content>Ve ayakta kalan son Düzeltici, vücudundan yayılan güzel kırmızı notalar gibi hayal edilebilecek en muhteşem sesi çıkararak özenle parçalandı.</Content>
         </Dialog>
         <Dialog ID="30" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow17 (2)</VoiceFile>
-          <Content>Sí... Esa actuación... La música celestial que me atravesó...</Content>
+          <Content>Evet... O performans... Beni delip geçen o ilahi müzik...</Content>
         </Dialog>
         <Dialog ID="31" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow18</VoiceFile>
-          <Content>Pero entonces el Silencio Negro intervino y le cortó las manos y cabeza al Pianista. Mató completamente el ánimo.</Content>
+          <Content>Ama sonra Kara Sessizlik araya girdi ve Piyanist'in elleriyle kafasını kesti. Havanın cılkını çıkardı.</Content>
         </Dialog>
         <Dialog ID="32" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow19</VoiceFile>
-          <Content>Yo también quería ser parte de esa actuación~</Content>
+          <Content>Ben de o performansın bir parçası olmak isterdim~</Content>
         </Dialog>
         <Dialog ID="33" Model="무무">
           <Teller>MuMu</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu8-01</VoiceFile>
-          <Content>Uf... Estoy tan celoso... Yo tuve que sentarme en mi Oficina y escuchar la música viniendo desde lejos...</Content>
+          <Content>Öf... Çok kıskanıyorum... Ofisimde oturup müziğin uzaktan gelişini dinlemek zorunda kaldım...</Content>
         </Dialog>
         <Dialog ID="34" Model="오잉크">
           <Teller>Oink</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_oink7</VoiceFile>
-          <Content>Vaya... Yo también quiero hacerlo... Quiero hacer música que sea la mitad de buena que la del Pianista...</Content>
+          <Content>Vay canına... Ben de yapmak istiyorum... Piyanist'inki kadar olmasa da yarısı kadar iyi bir müzik yapmak istiyorum...</Content>
         </Dialog>
         <Dialog ID="35" Model="오잉크">
           <Teller>Oink</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_oink8</VoiceFile>
-          <Content>Pero mírame... Sin importar cuanto golpee los huesos, arranque los tendones y raspe la carne de mis instrumentos, no puedo ni acercarme...</Content>
+          <Content>Ama bana bak... Enstrümanlarımın kemiklerini ne kadar vurursam, tendonlarını koparırsam ve etlerini kazırsam da yaklaşamıyorum bile...</Content>
         </Dialog>
         <Dialog ID="36" Model="오잉크">
           <Teller>Oink</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_oink9</VoiceFile>
-          <Content>Y Heehaw y Doodle-doo... dijeron esas cosas...</Content>
+          <Content>Ve Heehaw ve Doodle-doo... o şeyleri söylediler...</Content>
         </Dialog>
         <Dialog ID="37" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow20 (2)</VoiceFile>
-          <Content>No, Oink... No hay necesidad de ser tan impaciente.</Content>
+          <Content>Hayır, Oink... Bu kadar sabırsız olmaya gerek yok.</Content>
         </Dialog>
         <Dialog ID="38" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow21 (2)</VoiceFile>
-          <Content>Es cierto que aún tenemos un largo camino por recorrer antes de actuar como el Pianista hizo...</Content>
+          <Content>Piyanist'in yaptığı gibi performans sergilemeden önce gidecek uzun bir yolumuz olduğu doğru...</Content>
         </Dialog>
         <Dialog ID="39" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow22</VoiceFile>
-          <Content>Pero nos estamos acercando, ¿puedes verlo? Si ponemos todo nuestro corazón y alma en nuestra actuación todos los días, seremos capaces de hacerlo algún día...</Content>
+          <Content>Ama yaklaşıyoruz, görmüyor musun? Performansımıza her gün tüm kalbimizi ve ruhumuzu koyarsak, bir gün yapabileceğiz...</Content>
         </Dialog>
         <Dialog ID="40" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow23</VoiceFile>
-          <Content>La actuación de Doodle-doo, Heehaw y Woof era increíble, ¿no es así?</Content>
+          <Content>Doodle-doo, Heehaw ve Woof'un performansı harikaydı, değil mi?</Content>
         </Dialog>
         <Dialog ID="41" Model="무무">
           <Teller>MuMu</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu9-01</VoiceFile>
-          <Content>¡Sí! ¡Los tres dieron una actuación fantástica!</Content>
+          <Content>Evet! Üçü de harika bir performans sergiledi!</Content>
         </Dialog>
         <Dialog ID="42" Model="무무">
           <Teller>MuMu</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu10-01</VoiceFile>
-          <Content>Aunque fueron a un viaje para preparar su próxima actuación, así que no escucharemos de ellos por un tiempo...</Content>
+          <Content>Bir sonraki performansları için hazırlık gezisine çıktılar, bu yüzden bir süre onlardan haber alamayacağız...</Content>
         </Dialog>
         <Dialog ID="43" Model="오잉크">
           <Teller>Oink</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_oink10</VoiceFile>
-          <Content>Eso fue... ¿Seremos capaces de actuar así algún día?</Content>
+          <Content>Şeydi... Biz de bir gün böyle performans sergileyebilecek miyiz?</Content>
         </Dialog>
         <Dialog ID="44" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow24 (2)</VoiceFile>
-          <Content>Por supuesto~ Vamos a hablarlo de nuevo después de terminar esta actuación y ocuparnos del trabajo de la Biblioteca que Heehaw nos dio.</Content>
+          <Content>Elbette~ Bu performansı bitirip Heehaw'ın bize verdiği Kütüphane işini hallettikten sonra tekrar konuşalım.</Content>
         </Dialog>
         <Dialog ID="45" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow25</VoiceFile>
-          <Content>Ella dijo que iba a haber una actuación más grande que nunca.</Content>
+          <Content>Şimdiye kadarkilerin en büyüğü olacak bir performans olacağını söyledi.</Content>
         </Dialog>
         <Dialog ID="46" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow26</VoiceFile>
-          <Content>Y que podríamos encontrar instrumentos nuevos en la Biblioteca, ¿sabes?</Content>
+          <Content>Ve Kütüphane'de yepyeni enstrümanlar bulabileceğimizi, biliyor musun?</Content>
         </Dialog>
         <Dialog ID="47" Model="오잉크">
           <Teller>Oink</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_oink11</VoiceFile>
-          <Content>Sí... Estoy emocionado de ver la actuación que Heehaw mencionó...</Content>
+          <Content>Evet... Heehaw'ın bahsettiği performansı görmek için heyecanlıyım...</Content>
         </Dialog>
         <Dialog ID="48" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow27</VoiceFile>
-          <Content>Déjame ver ... ¡Aha!</Content>
+          <Content>Dur bakayım... Aha!</Content>
         </Dialog>
         <Dialog ID="49" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow28</VoiceFile>
-          <Content>¿Por qué no actuamos en un supermercado la próxima vez~? A Oink le gustan los supermercados, ¿verdad?</Content>
+          <Content>Bir dahaki sefere bir süpermarkette performans sergilemeye ne dersiniz~? Oink süpermarketleri sever, değil mi?</Content>
         </Dialog>
         <Dialog ID="50" Model="무무">
           <Teller>MuMu</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu11-01</VoiceFile>
-          <Content>¡Cuenta conmigo~! Es divertido porque hay todo tipo de instrumentos en los supermercados.</Content>
+          <Content>Beni de dahil et~! Eğlenceli olur çünkü süpermarketlerde her türlü enstrüman var.</Content>
         </Dialog>
         <Dialog ID="51" Model="오잉크">
           <Teller>Oink</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_oink12</VoiceFile>
-          <Content>Gracias, Meow... Gracias, MuMu... ¡Practicaré más duro!</Content>
+          <Content>Teşekkürler, Meow... Teşekkürler, MuMu... Daha sıkı pratik yapacağım!</Content>
         </Dialog>
         <Dialog ID="52" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow29 (2)</VoiceFile>
-          <Content>¡Bien! ¡Prepárense, chicos!</Content>
+          <Content>Güzel! Hazır olun millet!</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Mekan: Kütüphane İçi</PlaceName>
         <Dialog ID="53" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Bremen_ep1_roland1</VoiceFile>
-          <Content>Parece que el Pianista dejó un montón de locos en su aparición.</Content>
+          <Content>Görünüşe göre Piyanist ortaya çıkışıyla birlikte bir sürü deliyi geride bırakmış.</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Bremen_ep1_angela1-01</VoiceFile>
-          <Content>“De lo roto y la ruina, la más hermosa actuación comienza...”</Content>
+          <Content>“Kırık ve harabelerden, en güzel performans başlar...”</Content>
         </Dialog>
         <Dialog ID="55" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Bremen_ep1_roland2</VoiceFile>
-          <Content>¿Qué, estás interesada en escuchar la música del Pianista?</Content>
+          <Content>Ne, Piyanist'in müziğini dinlemeye mi merak saldın?</Content>
         </Dialog>
         <Dialog ID="56" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Bremen_ep1_angela2</VoiceFile>
-          <Content>Para nada. He escuchado ese tipo de música más que suficientes veces.</Content>
+          <Content>Hiç de değil. O tür müziği yeterince kereden fazla dinledim.</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Bremen_ep1_roland3</VoiceFile>
-          <Content>... ¿Hay algún otro tipo de músico chiflado como el Pianista?</Content>
+          <Content>... Piyanist gibi başka kaç tane kaçık müzisyen var?</Content>
         </Dialog>
         <Dialog ID="58" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Bremen_ep1_angela3</VoiceFile>
-          <Content>Es similar, pero no exactamente el mismo. ¿Qué tal tú, escuchaste la música del Pianista por ti mismo?</Content>
+          <Content>Benzer, ama tamamen aynı değil. Ya sen, Piyanist'in müziğini kendin dinledin mi?</Content>
         </Dialog>
         <Dialog ID="59" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Bremen_ep1_roland4</VoiceFile>
-          <Content>Obvio, sería mucho más rápido contar las personas en la Ciudad que no escucharon ese maldito sonido.</Content>
+          <Content>Açıkçası, o lanet sesi duymayan Şehir'deki insanları saymak çok daha kolay olurdu.</Content>
         </Dialog>
         <Dialog ID="60" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Bremen_ep1_roland5</VoiceFile>
-          <Content>Su música no solo me atravesó, casi destrozó todo mi ser. Y entonces. ... No importa. No quiero recordar esa actuación de nuevo.</Content>
+          <Content>Müziği sadece beni delip geçmekle kalmadı, neredeyse tüm benliğimi parçaladı. Ve sonra... Boşver. O performansı bir daha hatırlamak istemiyorum.</Content>
         </Dialog>
         <Dialog ID="61" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Bremen_ep1_roland6</VoiceFile>
-          <Content>De todos modos, entre la gente que hace música, no hay gente cuerda.</Content>
+          <Content>Her neyse, müzik yapan insanlar arasında aklı başında kimse yok.</Content>
         </Dialog>
         <Dialog ID="62" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Bremen_ep1_angela4-02</VoiceFile>
-          <Content>Parece que les encantan las actuaciones que los guian a la perdición...</Content>
+          <Content>Görünüşe göre onları felakete götüren performansları seviyorlar...</Content>
         </Dialog>
         <Dialog ID="63" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Bremen_ep1_roland7</VoiceFile>
-          <Content>Supongo que viven en su propio mundo que nadie más puede entender.</Content>
+          <Content>Sanırım kimsenin anlayamayacağı kendi dünyalarında yaşıyorlar.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Mekan: Kütüphane Girişi</PlaceName>
         <Dialog ID="64" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow29-01</VoiceFile>
-          <Content>¡El gato dice~!</Content>
+          <Content>Kedi der kii~!</Content>
         </Dialog>
         <Dialog ID="65" Model="오잉크,무무">
-          <Teller>Oink y MuMu</Teller>
-          <Title>Músico de Bremens</Title>
+          <Teller>Oink ve MuMu</Teller>
+          <Title>Bremen Müzisyenleri</Title>
           <VoiceFile>ch4_Bremen_ep1_oinkmumu1</VoiceFile>
           <Content>Meow~ Meow~</Content>
         </Dialog>
         <Dialog ID="66" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow30 (2)</VoiceFile>
-          <Content>¡El cerdo dice~!</Content>
+          <Content>Domuz der kii~!</Content>
         </Dialog>
         <Dialog ID="67" Model="오잉크,무무">
-          <Teller>Oink y MuMu</Teller>
-          <Title>Músico de Bremens</Title>
+          <Teller>Oink ve MuMu</Teller>
+          <Title>Bremen Müzisyenleri</Title>
           <VoiceFile>ch4_Bremen_ep1_oinkmumu2</VoiceFile>
           <Content>Oinkie~ Oink~</Content>
         </Dialog>
         <Dialog ID="68" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow32</VoiceFile>
-          <Content>¡El conejo dice~!</Content>
+          <Content>Tavşan der kii~!</Content>
         </Dialog>
         <Dialog ID="69" Model="오잉크">
           <Teller>Oink</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_oink13</VoiceFile>
-          <Content>... ¿Squeak... squeak...?</Content>
+          <Content>... Ciyak... ciyak...?</Content>
         </Dialog>
         <Dialog ID="70" Model="무무">
           <Teller>MuMu</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu12</VoiceFile>
-          <Content>Esto es tan triste...</Content>
+          <Content>Bu çok üzücü...</Content>
         </Dialog>
         <Dialog ID="71" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Bremen_ep1_angela5</VoiceFile>
-          <Content>Bienvenidos, queridos invitados. Yo soy la direc—</Content>
+          <Content>Hoş geldiniz, sevgili konuklar. Ben direktör—</Content>
         </Dialog>
         <Dialog ID="72" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow33</VoiceFile>
-          <Content>¡MuMu~! No te desanimes.</Content>
+          <Content>MuMu~! Cesaretin kırılmasın.</Content>
         </Dialog>
         <Dialog ID="73" Model="무무">
           <Teller>MuMu</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu13</VoiceFile>
-          <Content>Pero los conejos no tienen ningún sonido característico para llorar.</Content>
+          <Content>Ama tavşanların ağlayacak belirgin bir sesi yok.</Content>
         </Dialog>
         <Dialog ID="74" Model="오잉크">
           <Teller>Oink</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_oink14</VoiceFile>
-          <Content>¡Entonces podemos crear uno...!</Content>
+          <Content>O zaman bir tane yaratabiliriz...!</Content>
         </Dialog>
         <Dialog ID="75" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow33-01</VoiceFile>
-          <Content>¡Buena idea!</Content>
+          <Content>İyi fikir!</Content>
         </Dialog>
         <Dialog ID="76" Model="무무">
           <Teller>MuMu</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu14-01</VoiceFile>
-          <Content>Chicos...</Content>
+          <Content>Çocuklar...</Content>
         </Dialog>
         <Dialog ID="77" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Bremen_ep1_angela6</VoiceFile>
-          <Content>Qué montón de estupideces.</Content>
+          <Content>Ne kadar saçmalık.</Content>
         </Dialog>
         <Dialog ID="78" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow35 (2)</VoiceFile>
-          <Content>¿Por qué estás parada ahí, peli azul? ¿No vas a dejarnos entrar?</Content>
+          <Content>Neden öyle dikiliyorsun, mavi saçlı? Bizi içeri almayacak mısın?</Content>
         </Dialog>
         <Dialog ID="79" Model="오잉크">
           <Teller>Oink</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_oink15</VoiceFile>
-          <Content>¡Estúpida máquina, no dejes a tus invitados esperando!</Content>
+          <Content>Aptal makine, konuklarını bekletme!</Content>
         </Dialog>
         <Dialog ID="80" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Bremen_ep1_angela7-01</VoiceFile>
-          <Content>¿Qué?</Content>
+          <Content>Ne?</Content>
         </Dialog>
         <Dialog ID="81" Model="미야오">
           <Teller>Meow</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow36</VoiceFile>
-          <Content>Hahahaha, solo mírala~ ¿También tiene sangre roja?</Content>
+          <Content>Hahahaha, sadece ona bak~ Onun da kırmızı kanı var mı?</Content>
         </Dialog>
         <Dialog ID="82" Model="오잉크">
           <Teller>Oink</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_oink16</VoiceFile>
-          <Content>Puede sangrar, pero por dentro sigue siendo un montón de chatarra metálica. Es desagradable.</Content>
+          <Content>Kanayabilir, ama içeriden hala bir hurda yığını. İğrenç.</Content>
         </Dialog>
         <Dialog ID="83" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Bremen_ep1_angela8</VoiceFile>
-          <Content>... ¿?</Content>
+          <Content>...?</Content>
         </Dialog>
         <Dialog ID="84" Model="무무">
           <Teller>MuMu</Teller>
-          <Title>Músico de Bremen</Title>
+          <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_mumu15-01</VoiceFile>
-          <Content>Apresúrate y déjanos entrar antes que rompamos tus piernas.</Content>
+          <Content>Acele et ve bacaklarını kırmadan bizi içeri al.</Content>
         </Dialog>
         <Dialog ID="85" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6377,707 +6377,707 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Episode 1 Epilogue</EpisodeName>
+      <EpisodeName>Bölüm 1 Sonsöz</EpisodeName>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Mekan: Kütüphane İçi</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Bremen_ep1_roland8</VoiceFile>
-          <Content>Pero qué... ¡¿Angela, qué está pasando?!</Content>
+          <Content>Ama ne... Angela, neler oluyor?!</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Bremen_ep1_roland9</VoiceFile>
-          <Content>Esa es sangre... ¡Pensé que eres completamente una máquina!</Content>
+          <Content>Bu kan... Tamamen bir makine olduğunu sanıyordum!</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Bremen_ep1_angela10</VoiceFile>
-          <Content>También estoy sorprendida... Ese golpe no debería haberme afectado...</Content>
+          <Content>Ben de şaşkınım... O darbe beni etkilememeliydi...</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Bremen_ep1_roland10</VoiceFile>
-          <Content>¿Estás bien? ¿Te duele?</Content>
+          <Content>İyi misin? Canın yanıyor mu?</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Bremen_ep1_angela11</VoiceFile>
-          <Content>... Estoy bien. Ahora sé lo que duele ser golpeada.</Content>
+          <Content>... İyiyim. Artık darbe almanın nasıl bir his olduğunu biliyorum.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Bremen_ep1_roland11</VoiceFile>
-          <Content>¿Puede ser que estás más cerca de convertirte en una humana...?</Content>
+          <Content>Belki de insana dönüşmeye daha yakınsın...?</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Bremen_ep1_angela12</VoiceFile>
-          <Content>Puede ser una señal de que estoy cerca de alcanzar mi libertad... Aún no hay necesidad de preocuparse.</Content>
+          <Content>Belki de özgürlüğüme kavuşmaya yakın olduğumun bir işaretidir... Henüz endişelenmeye gerek yok.</Content>
         </Dialog>
       </Place>
     </Episode>
   </Group>
   <Group>
-    <GroupName>Wedge Office</GroupName>
+    <GroupName>Kama Ofisi</GroupName>
     <Episode>
-      <EpisodeName>Episode 1</EpisodeName>
+      <EpisodeName>Bölüm 1</EpisodeName>
       <Place>
-        <PlaceName>Localización: Oficina Wedge</PlaceName>
+        <PlaceName>Mekan: Kama Ofisi</PlaceName>
         <Dialog ID="0" Model="파멜라">
           <Teller>Pamela</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela1 (2)</VoiceFile>
-          <Content>Sírvete a ti mismo. Morirás de hambre si no comes nada.</Content>
+          <Content>Kendine servis yap. Hiçbir şey yemezsen açlıktan ölürsün.</Content>
         </Dialog>
         <Dialog ID="1" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Fixer de Dawn</Title>
+          <Title>Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip1</VoiceFile>
-          <Content>Gracias por la comida, pero... aún no siento ganas de comer nada...</Content>
+          <Content>Yemek için teşekkürler, ama... hala yemek yeme isteğim yok...</Content>
         </Dialog>
         <Dialog ID="2" Model="파멜라">
           <Teller>Pamela</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela2</VoiceFile>
-          <Content>Es normal, tu Oficina fue arrasada. Pero aun así deberías endurecer tu corazón.</Content>
+          <Content>Ofisinin yerle bir olması normal. Ama yine de yüreğini sertleştirmelisin.</Content>
         </Dialog>
         <Dialog ID="3" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip2</VoiceFile>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="4" Model="파멜리">
           <Teller>Pameli</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli1 (2)</VoiceFile>
-          <Content>¿Piensas que fue tu culpa?</Content>
+          <Content>Kendi hatan olduğunu mu düşünüyorsun?</Content>
         </Dialog>
         <Dialog ID="5" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip3-01</VoiceFile>
-          <Content>Sí... si los hubiera detenido...</Content>
+          <Content>Evet... Eğer onları durdursaydım...</Content>
         </Dialog>
         <Dialog ID="6" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip4</VoiceFile>
-          <Content>Si hubiera sido más fuerte y más maduro...</Content>
+          <Content>Daha güçlü ve daha olgun olsaydım...</Content>
         </Dialog>
         <Dialog ID="7" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip5</VoiceFile>
-          <Content>Si me hubiera quedado... en lugar de escapar... </Content>
+          <Content>Kaçmak yerine... orada kalsaydım... </Content>
         </Dialog>
         <Dialog ID="8" Model="파멜리">
           <Teller>Pameli</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli2 (2)</VoiceFile>
-          <Content>Entonces es tu culpa.</Content>
+          <Content>O zaman bu senin hatan.</Content>
         </Dialog>
         <Dialog ID="9" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip6-01</VoiceFile>
-          <Content>... ¿Eh?</Content>
+          <Content>... Ha?</Content>
         </Dialog>
         <Dialog ID="10" Model="파멜리">
           <Teller>Pameli</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli3 (2)</VoiceFile>
-          <Content>Eras demasiado tonto y débil para mantener a los otros a salvo. Es tu culpa que todos murieran.</Content>
+          <Content>Diğerlerini güvende tutamayacak kadar aptal ve zayıftın. Herkesin ölmesi senin hatan.</Content>
         </Dialog>
         <Dialog ID="11" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip7-01</VoiceFile>
           <Content>...</Content>
         </Dialog>
-        <Dialog ID="12" Model="파멜리">
+        <Dialog ID="12" Model="파멜I">
           <Teller>Pameli</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli4 (2)</VoiceFile>
-          <Content>¿Te sientes mejor ahora? Piensa lo que quieras.</Content>
+          <Content>Şimdi daha iyi hissediyor musun? İstediğini düşün.</Content>
         </Dialog>
         <Dialog ID="13" Model="파멜리">
           <Teller>Pameli</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli5</VoiceFile>
-          <Content>Cuando algo pasa, todo lo que tienes que hacer en crear razones que son convenientes para ti, ¿verdad?</Content>
+          <Content>Bir şey olduğunda, yapman gereken tek şey sana uygun nedenler yaratmak, değil mi?</Content>
         </Dialog>
         <Dialog ID="14" Model="파멜리">
           <Teller>Pameli</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli6 (2)</VoiceFile>
-          <Content>No es como si realmente te importara la causa; solo quieres creer lo que sea que te convenza.</Content>
+          <Content>Nedeni gerçekten umursadığın yok; sadece seni rahatlatan neyse ona inanmak istiyorsun.</Content>
         </Dialog>
         <Dialog ID="15" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar1-01</VoiceFile>
-          <Content>Hey, niñas. No molesten tanto a ese chico.</Content>
+          <Content>Hey, kızlar. Çocuğa bu kadar eziyet etmeyin.</Content>
         </Dialog>
         <Dialog ID="16" Model="파멜라">
           <Teller>Pamela</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela3 (2)</VoiceFile>
-          <Content>No hice nada. Pameli lo dijo todo.</Content>
+          <Content>Ben bir şey yapmadım. Hepsini Pameli söyledi.</Content>
         </Dialog>
         <Dialog ID="17" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar2</VoiceFile>
-          <Content>Bien, Philip. ¿Te sientes mejor para hablar ahora? </Content>
+          <Content>Pekala, Philip. Şimdi konuşacak kadar iyi hissediyor musun? </Content>
         </Dialog>
         <Dialog ID="18" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip8</VoiceFile>
-          <Content>Sí. Gracias por su amabilidad.</Content>
+          <Content>Evet. Kibarlığınız için teşekkür ederim.</Content>
         </Dialog>
         <Dialog ID="19" Model="파멜라">
           <Teller>Pamela</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela4</VoiceFile>
-          <Content>Somos Oficinas hermanas después de todo. Debemos ayudarnos.</Content>
+          <Content>Sonuçta kardeş ofisleriz. Birbirimize yardım etmeliyiz.</Content>
         </Dialog>
         <Dialog ID="20" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar3</VoiceFile>
-          <Content>Lamento que no pudiéramos ayudar. Estábamos en medio de manejar un caso de Distorsión en las calles del Distrito 12.</Content>
+          <Content>Yardım edemediğimiz için üzgünüm. 12. Bölge sokaklarında bir Çarpıtma vakasıyla uğraşmakla meşguldük.</Content>
         </Dialog>
         <Dialog ID="21" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar4</VoiceFile>
-          <Content>Aquellos victimizados por ‘El Circo de las Ocho en Punto’ realizaron un espectáculo de pura locura y hedonismo.</Content>
+          <Content>'Sekizdeki Sirk'in kurbanları, saf bir çılgınlık ve hedonizm gösterisi sergilediler.</Content>
         </Dialog>
         <Dialog ID="22" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar5</VoiceFile>
-          <Content>Fue como un festival en el infierno. Nos dieron bastantes problemas.</Content>
+          <Content>Cehennemdeki bir festival gibiydi. Bize epey sorun çıkardılar.</Content>
         </Dialog>
-        <Dialog ID="23" Model="파멜리">
+        <Dialog ID="23" Model="파멜İ">
           <Teller>Pameli</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli7</VoiceFile>
-          <Content>También tuve que reemplazar mi cuerpo. Este no es para nada mi estilo...</Content>
+          <Content>Ben de vücudumu değiştirmek zorunda kaldım. Bu hiç benim tarzım değil...</Content>
         </Dialog>
         <Dialog ID="24" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip9-01</VoiceFile>
-          <Content>... ¿Ese es un cuerpo robótico? ¿Su forma no infringe la Enmienda Ética?</Content>
+          <Content>... Bu robotik bir vücut mu? Şekli Etik Değişikliği ihlal etmiyor mu?</Content>
         </Dialog>
         <Dialog ID="25" Model="파멜라">
           <Teller>Pamela</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela5 (2)</VoiceFile>
-          <Content>No es mecánico, es una clonación de mi cuerpo. Me hice un seguro biológico de recuperación del cuerpo hace un tiempo.</Content>
+          <Content>Mekanik değil, vücudumun klonu. Bir süre önce biyolojik vücut kurtarma sigortası yaptırmıştım.</Content>
         </Dialog>
         <Dialog ID="26" Model="파멜라">
           <Teller>Pamela</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela6 (2)</VoiceFile>
-          <Content>El cuerpo de Pameli fue desgarrado más allá de la recuperación, así que esta era la única forma que teníamos.</Content>
+          <Content>Pameli'nin vücudu kurtarılamayacak kadar parçalanmıştı, bu yüzden tek yol buydu.</Content>
         </Dialog>
         <Dialog ID="27" Model="파멜라">
           <Teller>Pamela</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela7 (2)</VoiceFile>
-          <Content>Por suerte su cabeza estaba intacta. Pensé que los seguros eran una completa estafa, pero este nos sirvió por una vez.</Content>
+          <Content>Neyse ki kafası sağlamdı. Sigortaların tamamen bir aldatmaca olduğunu düşünmüştüm, ama bu sefer işimize yaradı.</Content>
         </Dialog>
         <Dialog ID="28" Model="파멜라">
           <Teller>Pamela</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela8</VoiceFile>
-          <Content>Hablando de eso, ¿tu Oficina tenía algún seguro?</Content>
+          <Content>Bundan bahsetmişken, sizin Ofisinizin sigortası var mıydı?</Content>
         </Dialog>
         <Dialog ID="29" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip10-01</VoiceFile>
-          <Content>Era un miembro relativamente nuevo en esa Oficina, así que no sé tanto...</Content>
+          <Content>O Ofis'te nispeten yeni bir üyeydim, bu yüzden pek bilmiyorum...</Content>
         </Dialog>
         <Dialog ID="30" Model="파멜라">
           <Teller>Pamela</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela9 (2)</VoiceFile>
-          <Content>Querrás ver si tu Oficina tenía alguno. Hay muchos tipos de seguros con condiciones variadas.</Content>
+          <Content>Ofisinizin olup olmadığını kontrol etmelisin. Çeşitli koşullara sahip birçok sigorta türü var.</Content>
         </Dialog>
-        <Dialog ID="31" Model="파멜리">
+        <Dialog ID="31" Model="파멜İ">
           <Teller>Pameli</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli8</VoiceFile>
-          <Content>Es genial tener un cuerpo de nuevo, pero... ¿por qué tenía que ser este?</Content>
+          <Content>Tekrar bir vücuda sahip olmak harika, ama... neden bu olmak zorundaydı?</Content>
         </Dialog>
         <Dialog ID="32" Model="파멜라">
           <Teller>Pamela</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela10</VoiceFile>
-          <Content>¿Qué? Me hice una cirugía de clonación urgentemente para salvarte, ¿y así es como me agradeces?</Content>
+          <Content>Ne? Seni kurtarmak için aceleyle klonlama ameliyatı oldum, karşılığında böyle mi teşekkür ediyorsun?</Content>
         </Dialog>
-        <Dialog ID="33" Model="파멜리">
+        <Dialog ID="33" Model="파멜İ">
           <Teller>Pameli</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli9 (2)</VoiceFile>
-          <Content>¿Cuál es el punto? Incluso solo mirarme al espejo es desalentador.</Content>
+          <Content>Ne anlamı var? Aynaya bakmak bile moral bozucu.</Content>
         </Dialog>
         <Dialog ID="34" Model="파멜라">
           <Teller>Pamela</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela13</VoiceFile>
-          <Content>No te atrevas a dañar ese cuerpo.</Content>
+          <Content>O vücuda zarar vermeye kalkma sakın.</Content>
         </Dialog>
         <Dialog ID="35" Model="파멜라">
           <Teller>Pamela</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela14 (2)</VoiceFile>
-          <Content>¿Sabes qué, por qué no solo te mueres permanentemente esta vez? Así no podrás recuperarte de ninguna manera. Tampoco tendrías que pagarme por el cuerpo clonado.</Content>
+          <Content>Biliyor musun, neden bu sefer kalıcı olarak ölmüyorsun? O zaman hiçbir şekilde iyileşemezsin. Klonlanmış vücut için de bana ödeme yapmak zorunda kalmazsın.</Content>
         </Dialog>
-        <Dialog ID="36" Model="파멜리">
+        <Dialog ID="36" Model="파멜İ">
           <Teller>Pameli</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli10 (2)</VoiceFile>
-          <Content>¿Acaso quieres pelear?</Content>
+          <Content>Kavga mı istiyorsun?</Content>
         </Dialog>
         <Dialog ID="37" Model="파멜라">
           <Teller>Pamela</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela15 (2)</VoiceFile>
-          <Content>Claro que sí, mocosa.</Content>
+          <Content>Elbette, velet.</Content>
         </Dialog>
         <Dialog ID="38" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar6</VoiceFile>
-          <Content>... Ciertamente eres increíble preparando ssanghwa-cha como Salvador dijo.</Content>
+          <Content>... Salvador'un dediği gibi ssanghwa-cha hazırlamada gerçekten harikasın.</Content>
         </Dialog>
         <Dialog ID="39" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip11-01</VoiceFile>
-          <Content>Me halagas, señor...</Content>
+          <Content>İltifat ediyorsunuz, efendim...</Content>
         </Dialog>
         <Dialog ID="40" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar7</VoiceFile>
-          <Content>Philip. ¿‘La Biblioteca’ parecía estar relacionada con el Fenómeno de la Distorsión de alguna forma?</Content>
+          <Content>Philip. ‘Kütüphane'nin Çarpıtma Fenomeni ile bir şekilde bağlantılı görünüp görünmediği hakkında bir fikrin var mı?</Content>
         </Dialog>
         <Dialog ID="41" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip12-01</VoiceFile>
-          <Content>No estoy seguro. No he experimentado la Distorsión por mí mismo.</Content>
+          <Content>Emin değilim. Çarpıtma'yı bizzat deneyimlemedim.</Content>
         </Dialog>
         <Dialog ID="42" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip13-01</VoiceFile>
-          <Content>Pero ese lugar era lo más raro que nunca había visto.</Content>
+          <Content>Ama orası şimdiye kadar gördüğüm en tuhaf yerdi.</Content>
         </Dialog>
         <Dialog ID="43" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip14-01</VoiceFile>
-          <Content>Y el maestro y la superiora... se volvieron libros ahí...</Content>
+          <Content>Ve usta ile kıdemli... orada kitaba dönüştü...</Content>
         </Dialog>
         <Dialog ID="44" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar8-01</VoiceFile>
-          <Content>... Eso no ayuda.</Content>
+          <Content>... Bu pek yardımcı olmuyor.</Content>
         </Dialog>
         <Dialog ID="45" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar9-01</VoiceFile>
-          <Content>Muchas Asociaciones han comenzado a mantener un ojo en este asunto.</Content>
+          <Content>Pek çok Birlik bu konuya göz kulak olmaya başladı.</Content>
         </Dialog>
         <Dialog ID="46" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar10</VoiceFile>
-          <Content>No solo las Asociaciones; incluso las Alas y los Dedos no tienen ninguna pista sobre qué hacer con la Distorsión.</Content>
+          <Content>Sadece Birlikler değil; Kanatlar ve Parmaklar bile Çarpıtma konusunda ne yapacaklarına dair hiçbir fikre sahip değiller.</Content>
         </Dialog>
         <Dialog ID="47" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip15-01</VoiceFile>
-          <Content>Entiendo...</Content>
+          <Content>Anlıyorum...</Content>
         </Dialog>
         <Dialog ID="48" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar12</VoiceFile>
-          <Content>No pareces muy interesado en este tema.</Content>
+          <Content>Bu konuya pek ilgili görünmüyorsun.</Content>
         </Dialog>
-        <Dialog ID="49" Model="오스카">
+        <Dialog ID="49" Model="오स्카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar13-01</VoiceFile>
-          <Content>Debes querer olvidar todo este asunto de la Distorsión y volver a la Biblioteca para recuperar los libros de tus compañeros.</Content>
+          <Content>Tüm bu Çarpıtma meselesini unutup meslektaşlarının kitaplarını geri almak için Kütüphane'ye geri dönmek istiyor olmalısın.</Content>
         </Dialog>
         <Dialog ID="50" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip16-01</VoiceFile>
-          <Content>... Desearía poder hacer eso.</Content>
+          <Content>... Keşke yapabilseydim.</Content>
         </Dialog>
         <Dialog ID="51" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip17-01</VoiceFile>
-          <Content>Pero mi maestro me dijo en su nota que no debería actuar apresuradamente y en su lugar depender de su ayuda.</Content>
+          <Content>Ama ustam notunda aceleyle hareket etmememi ve onun yardımına güvenmemi söyledi.</Content>
         </Dialog>
         <Dialog ID="52" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar14-01</VoiceFile>
-          <Content>Ese viejo amigo mío me dejó un pequeño compañero bastante problemático...</Content>
+          <Content>Bu yaşlı arkadaşım bana oldukça sorunlu bir küçük dost bıraktı...</Content>
         </Dialog>
         <Dialog ID="53" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar15</VoiceFile>
-          <Content>La muerte está grapada a este negocio, pero su esposa e hijos deben tener el corazón roto.</Content>
+          <Content>Ölüm bu işin içine işlemiş, ama karısı ve çocukları çok üzülmüş olmalı.</Content>
         </Dialog>
         <Dialog ID="54" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar16-01</VoiceFile>
-          <Content>¿Los has ido a visitar?</Content>
+          <Content>Onları ziyarete gittin mi?</Content>
         </Dialog>
         <Dialog ID="55" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip18</VoiceFile>
-          <Content>No... Aún no pude visitarlos.</Content>
+          <Content>Hayır... Henüz onları ziyaret edemedim.</Content>
         </Dialog>
         <Dialog ID="56" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar17</VoiceFile>
-          <Content>¿Por qué?</Content>
+          <Content>Neden?</Content>
         </Dialog>
         <Dialog ID="57" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip19</VoiceFile>
-          <Content>... Estoy demasiado avergonzado como para verlos a la cara.</Content>
+          <Content>... Yüzlerine bakamayacak kadar utanıyorum.</Content>
         </Dialog>
         <Dialog ID="58" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar18</VoiceFile>
-          <Content>Nuestra próxima parada es la Biblioteca. Prepara tu equipo.</Content>
+          <Content>Bir sonraki durağımız Kütüphane. Ekipmanını hazırla.</Content>
         </Dialog>
         <Dialog ID="59" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip20</VoiceFile>
-          <Content>... Gracias, señor.</Content>
+          <Content>... Teşekkür ederim, efendim.</Content>
         </Dialog>
         <Dialog ID="60" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar19</VoiceFile>
-          <Content>No confundas mis actos con amabilidad. Solo te llevamos con nosotros porque ya planeábamos ir ahí.</Content>
+          <Content>Hareketlerimi nezaket sanma. Oraya gitmeyi zaten planladığımız için seni yanımıza alıyoruz.</Content>
         </Dialog>
         <Dialog ID="61" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar20-01</VoiceFile>
-          <Content>E ir a la Biblioteca es lo menos que puedo hacer para asumir la responsabilidad por la muerte de mi viejo amigo.</Content>
+          <Content>Ve Kütüphane'ye gitmek, eski arkadaşımın ölümünün sorumluluğunu üstlenmek için yapabileceğim en az şey.</Content>
         </Dialog>
         <Dialog ID="62" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar21-01</VoiceFile>
-          <Content>Personalmente. Nunca hubiera dejado que un Fixer como tú se uniera a mi Oficina. Nos daría un mal nombre.</Content>
+          <Content>Şahsen. Senin gibi bir Düzeltici'nin Ofisime katılmasına asla izin vermezdim. Bize kötü bir ün kazandırırdın.</Content>
         </Dialog>
         <Dialog ID="63" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip21</VoiceFile>
-          <Content>... ¿Está mal... es tan patético que quiera devolver el favor a mis colegas, por su bien...?</Content>
+          <Content>... Yanlış mı... meslektaşlarıma onlar için karşılık vermek istemem bu kadar acınası mı...?</Content>
         </Dialog>
         <Dialog ID="64" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip22</VoiceFile>
-          <Content>Todos dicen que no actúe basado en el afecto, que es algo tonto y sin clase...</Content>
+          <Content>Herkes şefkate dayalı hareket etmememi, bunun aptalca ve aşağılık olduğunu söylüyor...</Content>
         </Dialog>
         <Dialog ID="65" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip23-01</VoiceFile>
-          <Content>¡¡¡No podemos como Fixers... no, como personas viviendo en la Ciudad, hacer algo por el bien de otros!!!</Content>
+          <Content>Biz Düzelticiler olarak... hayır, Şehir'de yaşayan insanlar olarak başkaları için bir şeyler yapamaz mıyız!!!</Content>
         </Dialog>
-        <Dialog ID="66" Model="파멜리">
+        <Dialog ID="66" Model="파멜İ">
           <Teller>Pameli</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli11 (2)</VoiceFile>
-          <Content>Gosh, eres insufrible. No te dijo que estuvieras mal ni nada.</Content>
+          <Content>Aman Tanrım, dayanılmazsın. Sana yanlış bir şey yaptığını söylemedi ki.</Content>
         </Dialog>
-        <Dialog ID="67" Model="파멜리">
+        <Dialog ID="67" Model="파멜İ">
           <Teller>Pameli</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli12 (2)</VoiceFile>
-          <Content>Solo dijo que no quería a ese tipo de Fixers en nuestra Oficina, tan simple como eso. No seas tan miserable por eso.</Content>
+          <Content>Sadece Ofisimizde bu tür Düzelticileri istemediğini söyledi, bu kadar basit. Bu yüzden bu kadar perişan olma.</Content>
         </Dialog>
-        <Dialog ID="68" Model="파멜리">
+        <Dialog ID="68" Model="파멜İ">
           <Teller>Pameli</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli13 (2)</VoiceFile>
-          <Content>Nada es menos confiable que alguien que es fácilmente guiado por sus sentimientos.</Content>
+          <Content>Duyguları tarafından kolayca yönlendirilen birinden daha güvenilmez bir şey yoktur.</Content>
         </Dialog>
-        <Dialog ID="69" Model="파멜리">
+        <Dialog ID="69" Model="파멜İ">
           <Teller>Pameli</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli14 (2)</VoiceFile>
-          <Content>¿Quieres que nos maten a todos para que puedas cumplir tus ideales o qué? </Content>
+          <Content>İdeallerini gerçekleştirmek için hepimizin ölmesini mi istiyorsun yoksa ne? </Content>
         </Dialog>
         <Dialog ID="70" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar22</VoiceFile>
-          <Content>De verdad debes creer que tus acciones son por los demás.</Content>
+          <Content>Eylemlerinin başkaları için olduğuna gerçekten inanıyor olmalısın.</Content>
         </Dialog>
         <Dialog ID="71" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar23</VoiceFile>
-          <Content>Que eres diferente de todos los ciudadanos crueles y egoístas de esta Ciudad.</Content>
+          <Content>Bu Şehir'in tüm zalim ve bencil vatandaşlarından farklı olduğunu düşünüyorsun.</Content>
         </Dialog>
         <Dialog ID="72" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar24</VoiceFile>
-          <Content>Pensando que estás peleando por alguna causa mayor.</Content>
+          <Content>Daha büyük bir amaç için savaştığını düşünüyorsun.</Content>
         </Dialog>
         <Dialog ID="73" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar25</VoiceFile>
-          <Content>Pero date cuenta que en realidad esos pensamientos son completamente egoístas.</Content>
+          <Content>Ama fark et ki bu düşünceler aslında tamamen bencilce.</Content>
         </Dialog>
         <Dialog ID="74" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar26</VoiceFile>
-          <Content>Es el tipo más peligroso de egoísmo. Te engañas a ti mismo al pensar que eres alguien desinteresado.</Content>
+          <Content>En tehlikeli bencillik türü bu. Kendini fedakar biri olduğunu düşünerek kandırıyorsun.</Content>
         </Dialog>
         <Dialog ID="75" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar27-01</VoiceFile>
-          <Content>No existe tal cosa como una acción desinteresada para los humanos. Incluso el acto del auto-sacrificio es al final para uno mismo.</Content>
+          <Content>İnsanlar için fedakar bir eylem diye bir şey yoktur. Özverili davranmak bile nihayetinde kendisi içindir.</Content>
         </Dialog>
         <Dialog ID="76" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar28</VoiceFile>
-          <Content>Un muy peligroso tipo de egoísmo, uno que lentamente devora a tus compañeros y te guía hasta la condena...</Content>
+          <Content>Çok tehlikeli bir bencillik türü, yoldaşlarını yavaşça yiyip bitiren ve seni mahkumiyete götüren...</Content>
         </Dialog>
         <Dialog ID="77" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip24-01</VoiceFile>
-          <Content>¡Yo...!</Content>
+          <Content>Ben...!</Content>
         </Dialog>
         <Dialog ID="78" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar29</VoiceFile>
-          <Content>Diste un buen discurso, pero me pregunto si realmente estabas enojado por el bien de Salvador y de tus otros colegas.</Content>
+          <Content>Güzel bir konuşma yaptın, ama Salvador ve diğer meslektaşların için mi gerçekten sinirlendin merak ediyorum.</Content>
         </Dialog>
         <Dialog ID="79" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip25-01</VoiceFile>
-          <Content>... Iré a prepararme.</Content>
+          <Content>... Gidip hazırlanacağım.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Mekan: Kütüphane İçi</PlaceName>
         <Dialog ID="80" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Wedge_ep1_roland1</VoiceFile>
-          <Content>Ese chico Philip parece estar herido, pero estoy de acuerdo con Oscar aquí.</Content>
+          <Content>O Philip denen çocuk yaralı görünüyor, ama burada Oscar'a katılıyorum.</Content>
         </Dialog>
         <Dialog ID="81" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Wedge_ep1_roland2</VoiceFile>
-          <Content>Pocas cosas son tan peligrosas y repugnantes como el egoísmo disfrazado de “por el bien de alguien más”...</Content>
+          <Content>“Başkası için” diye gizlenmiş bencillik kadar tehlikeli ve iğrenç az şey vardır...</Content>
         </Dialog>
         <Dialog ID="82" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Wedge_ep1_angela1</VoiceFile>
-          <Content>Creo que sé lo que quieres decir. La determinación para trabajar por el bien de otros puede ser una espantosa y repugnante arma.</Content>
+          <Content>Ne demek istediğini anladığımı sanıyorum. Başkaları için çalışma kararlılığı, korkunç ve iğrenç bir silah olabilir.</Content>
         </Dialog>
         <Dialog ID="83" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Wedge_ep1_angela2</VoiceFile>
-          <Content>Especialmente si uno cree fuertemente que la justicia que persiguen vale la pena el sacrificio...</Content>
+          <Content>Özellikle de peşinde koştukları adaletin fedakarlığa değdiğine kuvvetle inanıyorlarsa...</Content>
         </Dialog>
         <Dialog ID="84" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Wedge_ep1_angela3</VoiceFile>
-          <Content>Están cegados por su justicia propia y no se preocupan por sus alrededores. No les importa qué les pasa a los otros.</Content>
+          <Content>Kendi doğrulukları tarafından kör edilmiş durumdalar ve çevrelerindekileri umursamıyorlar. Başkalarına ne olduğu umurlarında değil.</Content>
         </Dialog>
         <Dialog ID="85" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Wedge_ep1_angela4</VoiceFile>
-          <Content>Se justifican a ellos mismos por seguir adelante persiguiendo su justicia, destrozando todo en su camino...</Content>
+          <Content>Kendi adaletlerinin peşinden giderek ilerlemeyi haklı çıkarıyorlar, yollarına çıkan her şeyi parçalayarak...</Content>
         </Dialog>
         <Dialog ID="86" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Wedge_ep1_roland3</VoiceFile>
-          <Content>Wow... Esta podría ser la primera vez que nos entendemos el uno al otro. Me siento tocado.</Content>
+          <Content>Vay canına... Bu, birbirimizi anladığımız ilk an olabilir. Etkilendim.</Content>
         </Dialog>
         <Dialog ID="87" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Wedge_ep1_angela5</VoiceFile>
-          <Content>¿Qué tal si lo celebramos con champán?</Content>
+          <Content>Bir şampanya ile kutlamaya ne dersin?</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
-        <Dialog ID="88" Model="파멜리">
+        <PlaceName>Mekan: Kütüphane Girişi</PlaceName>
+        <Dialog ID="88" Model="파멜İ">
           <Teller>Pameli</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli15</VoiceFile>
-          <Content>Deja de poner esa cara, ¿vale? Eres tan molesto.</Content>
+          <Content>O suratı yapmayı bırak, tamam mı? Çok sinir bozucu.</Content>
         </Dialog>
         <Dialog ID="89" Model="파멜라">
           <Teller>Pamela</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela16</VoiceFile>
-          <Content>Aún se sigue recuperando. Deberíamos darle algo de espacio.</Content>
+          <Content>Hala iyileşiyor. Ona biraz zaman tanımalıyız.</Content>
         </Dialog>
-        <Dialog ID="90" Model="파멜리">
+        <Dialog ID="90" Model="파멜İ">
           <Teller>Pameli</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli16</VoiceFile>
-          <Content>Pequeñas cosas como esta pueden afectar mi concentración.</Content>
+          <Content>Bunun gibi küçük şeyler konsantrasyonumu etkileyebilir.</Content>
         </Dialog>
         <Dialog ID="91" Model="필립">
           <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip26</VoiceFile>
-          <Content>... No importa. No necesitan preocuparse por mí. Intentaré no ser una molestia.</Content>
+          <Content>... Sorun değil. Benim için endişelenmenize gerek yok. Bir sorun olmamaya çalışacağım.</Content>
         </Dialog>
         <Dialog ID="92" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar30</VoiceFile>
-          <Content>Te apuñalaré tan pronto como determine que te estás metiendo en nuestro camino.</Content>
+          <Content>Yolumuza çıktığını anladığım anda seni bıçaklarım.</Content>
         </Dialog>
         <Dialog ID="93" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Wedge_ep1_angela6</VoiceFile>
-          <Content>Bienvenidos, queridos invitados. Aunque parece que su grupo está de mal humor.</Content>
+          <Content>Hoş geldiniz, sevgili konuklar. Grubunuzun keyfi yerinde değil gibi görünüyor.</Content>
         </Dialog>
         <Dialog ID="94" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar31</VoiceFile>
-          <Content>Pensé que eras una máquina... ¿Pero puede que seas parcialmente humana?</Content>
+          <Content>Senin bir makine olduğunu sanıyordum... Ama kısmen insan olabilir misin?</Content>
         </Dialog>
-        <Dialog ID="95" Model="파멜리">
+        <Dialog ID="95" Model="파멜İ">
           <Teller>Pameli</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli17</VoiceFile>
-          <Content>No nos mires con tanta rabia. Solo te pinchamos para asegurarnos, no para intentar matarte ni nada.</Content>
+          <Content>Bize o kadar öfkeyle bakma. Sadece emin olmak için seni dürttük, öldürmeye çalışmadık.</Content>
         </Dialog>
         <Dialog ID="96" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Wedge_ep1_angela7</VoiceFile>
-          <Content>Qué rudos. ¿Nadie les ha enseñado a comportarse?</Content>
+          <Content>Ne kadar kaba. Kimse size görgü kurallarını öğretmedi mi?</Content>
         </Dialog>
         <Dialog ID="97" Model="파멜라">
           <Teller>Pamela</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela17</VoiceFile>
-          <Content>Mmm, escuché que la bibliotecaria de este lugar era amable.</Content>
+          <Content>Hmm, buranın kütüphanecisinin kibar olduğunu duymuştum.</Content>
         </Dialog>
         <Dialog ID="98" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Wedge_ep1_angela8</VoiceFile>
-          <Content>Alguien me recomendó que no necesitaba ser amable con invitados maleducados que me abofetean y escupen sin ninguna razón.</Content>
+          <Content>Bana, beni sebepsiz yere tokatlayan ve tüküren kaba konuklara karşı kibar olmama gerek olmadığı tavsiye edildi.</Content>
         </Dialog>
         <Dialog ID="99" Model="오스카">
           <Teller>Oscar</Teller>
-          <Title>Operador de Wedge</Title>
+          <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar32-01</VoiceFile>
-          <Content>Me disculpo. No podemos permitirnos ser amables cuando nuestras vidas están en riesgo.</Content>
+          <Content>Özür dilerim. Hayatlarımız risk altındayken kibar olmayı göze alamayız.</Content>
         </Dialog>
         <Dialog ID="100" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Wedge_ep1_angela9</VoiceFile>
-          <Content>Oh, ¿en serio?</Content>
+          <Content>Öyle mi?</Content>
         </Dialog>
-        <Dialog ID="101" Model="파멜리">
+        <Dialog ID="101" Model="파멜İ">
           <Teller>Pameli</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli18 (2)</VoiceFile>
-          <Content>No es como escuchamos que era para nada.</Content>
+          <Content>Hiç de duyduğumuz gibi değil.</Content>
         </Dialog>
         <Dialog ID="102" Model="파멜라">
           <Teller>Pamela</Teller>
-          <Title>Fixer de Wedge</Title>
+          <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela18 (2)</VoiceFile>
-          <Content>Debe de tener sus propias preocupaciones.</Content>
+          <Content>Kendi endişeleri olmalı.</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Episode 1 Epilogue</EpisodeName>
+      <EpisodeName>Bölüm 1 Sonsöz</EpisodeName>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Mekan: Kütüphane İçi</PlaceName>
         <Dialog ID="0" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Wedge_ep1_roland4</VoiceFile>
-          <Content>Whoa... ¿Qué pasó con ese niño Philip?</Content>
+          <Content>Vay... O Philip çocuğa ne oldu?</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Wedge_ep1_roland5</VoiceFile>
-          <Content>¿Cuándo consiguió ese equipo de taller de alto nivel? No, ni siquiera los talleres podrían hacer un equipo tan bueno como ese...</Content>
+          <Content>O üst düzey atölye ekipmanını ne zaman aldı? Hayır, atölyeler bile bu kadar iyi bir ekipman yapamaz...</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Wedge_ep1_roland6-01</VoiceFile>
-          <Content>Esto actualmente... me recuerda a ese chico...</Content>
+          <Content>Bu bana o çocuğu hatırlatıyor...</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7089,85 +7089,85 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Wedge_ep1_angela11</VoiceFile>
-          <Content>Parece ser ‘E.G.O’.</Content>
+          <Content>Görünüşe göre ‘E.G.O'ymuş.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Wedge_ep1_roland7</VoiceFile>
-          <Content>¿‘E.G.O’? ¿Te refieres al ego? ¿Como la consciencia de alguien?</Content>
+          <Content>‘E.G.O'? Ego mu demek istiyorsun? Birinin bilinci gibi mi?</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Wedge_ep1_angela12</VoiceFile>
-          <Content>Es un tonto juego de palabras. Son esencialmente lo mismo.</Content>
+          <Content>Aptalca bir kelime oyunu. Özünde aynı şey.</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Wedge_ep1_angela13</VoiceFile>
-          <Content>El caparazón del ego de uno. Es la manifestación física de la mente.</Content>
+          <Content>Birinin egosunun kabuğu. Zihnin fiziksel tezahürüdür.</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Wedge_ep1_roland8</VoiceFile>
-          <Content>¡¿Qué?! ¿La mente? ¿Físicamente traida al mundo real? Suena demasiado vago como para que sea una cosa real.</Content>
+          <Content>Ne?! Zihin mi? Fiziksel olarak gerçek dünyaya mı getirildi? Gerçek bir şey olmak için çok belirsiz geliyor.</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Wedge_ep1_angela14</VoiceFile>
-          <Content>Era la Singular de L Corp, aunque el proceso era diferente...</Content>
+          <Content>L Şirketi'nin Tekilliğiydi, ancak süreç farklıydı...</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Wedge_ep1_angela15</VoiceFile>
-          <Content>Mientras que en L Corp. extraíamos el E.G.O deliberadamente. Philip debe haberlo manifestado gracias a la influencia de las Noches Blancas y Días Oscuros.</Content>
+          <Content>L Şirketi'ndeyken E.G.O'yu kasten çıkarırdık. Philip, Beyaz Geceler ve Kara Günler'in etkisi sayesinde tezahür ettirmiş olmalı.</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Wedge_ep1_angela16</VoiceFile>
-          <Content>Sí, ahora lo entiendo un poco.</Content>
+          <Content>Evet, şimdi biraz anladım.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Wedge_ep1_roland9</VoiceFile>
-          <Content>Pisa los frenos un momento... Quieres decir que cualquiera puede extraer un equipamiento poderoso como ese de sus mentes, ¿completamente gratis?</Content>
+          <Content>Biraz yavaşla... Yani herkes bu kadar güçlü bir ekipmanı zihninden çıkarabilir, tamamen bedavaya mı?</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Wedge_ep1_angela17</VoiceFile>
-          <Content>No lo sé. Esta es mi primera vez viendo que se manifiesta de esta forma.</Content>
+          <Content>Bilmiyorum. İlk defa bu şekilde tezahür ettiğini görüyorum.</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Wedge_ep1_angela18</VoiceFile>
-          <Content>Si tenías tanta curiosidad, no debiste haber dejado que se escapara.</Content>
+          <Content>Bu kadar meraklıysan, kaçmasına izin vermemeliydin.</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Wedge_ep1_roland10</VoiceFile>
-          <Content>Uf~ No sabía que ese viejo le había puesto un dispositivo encima... el viejo Oscar no es para nada honesto consigo mismo.</Content>
+          <Content>Uf~ O yaşlı adamın üzerine bir cihaz taktığını bilmiyordum... Yaşlı Oscar hiç de dürüst değil.</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Wedge_ep1_angela19</VoiceFile>
-          <Content>Parece que tienes muchos amigos viejos.</Content>
+          <Content>Görünüşe göre çok sayıda eski arkadaşın var.</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_Wedge_ep1_roland11</VoiceFile>
-          <Content>Bueno, sí. Son veteranos sazonados con montañas de experiencia. Es difícil no encontrarse con ellos una o dos veces como Fixer, ¿sabes?</Content>
+          <Content>Şey, evet. Onlar dağlarca deneyime sahip deneyimli emektarlar. Bir Düzeltici olarak onlarla bir veya iki kez karşılaşmamak zor, biliyor musun?</Content>
         </Dialog>
       </Place>
     </Episode>
