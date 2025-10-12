@@ -301,7 +301,7 @@ Daha fazlası için lütfen sabırla bir sonraki güncellemeyi bekleyin.</text>
 	<text id="ui_resistance_normal">Normal</text>
 	<text id="ui_resistance_endure">Dayanıklı</text>
 	<text id="ui_resistance_resist">Etkisiz</text>
-	<text id="ui_resistance_immune">Bağışık</text>
+	<text id="ui_resistance_immune">Etkisiz</text>
 	<text id="ui_corepage_stat">İstatistikler</text>
 	<text id="ui_librarian_stat">İstatistikler</text>
 	<text id="ui_tooltip_resistance_slash">Kesme Hasarı Direnci: {0}</text>
