@@ -88,13 +88,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland1</VoiceFile>
-          <Content>¿Efendim? ...¡¡¿Ne?!!</Content>
+          <Content>Efendim? ...Ne?!!</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_prol_ep1_angela2</VoiceFile>
-          <Content>Eğer tahminlerin doğru ise, kendimizi daha büyük sendikalardan gelen konuklara hatta kanatların kendilerine dahi hazırlamamız gerekiyor, ¿haksız mıyım?</Content>
+          <Content>Eğer tahminlerin doğru ise, kendimizi daha büyük sendikalardan gelen konuklara hatta kanatların kendilerine dahi hazırlamamız gerekiyor, haksız mıyım?</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>Roland</Teller>
@@ -106,7 +106,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_prol_ep1_angela3</VoiceFile>
-          <Content>¿Yine ne saçmalıyorsun?</Content>
+          <Content>Yine ne saçmalıyorsun?</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>Roland</Teller>
@@ -130,7 +130,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_prol_ep1_angela5-01</VoiceFile>
-          <Content>Sana duyduğum güven arttığı için bir miktar da olsun dostluğumuzu geliştirmek istedim. Bu yüzden size nispeten daha samimi bir şekilde seslenmek istedim ¿Bu bir sorun mu?</Content>
+          <Content>Sana duyduğum güven arttığı için bir miktar da olsun dostluğumuzu geliştirmek istedim. Bu yüzden size nispeten daha samimi bir şekilde seslenmek istedim Bu bir sorun mu?</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>Roland</Teller>
@@ -148,7 +148,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_prol_ep1_angela6</VoiceFile>
-          <Content>¿Büyük annein uzun zaman önce kaybolduğunu söylememiş miydin?</Content>
+          <Content>Büyük annein uzun zaman önce kaybolduğunu söylememiş miydin?</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>Roland</Teller>
@@ -166,7 +166,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland8</VoiceFile>
-          <Content>¿Ne?... Benim gibi birisinin evlenmiş olması ilginizi çekmiyor, ¿değil mi? Siz daha çok biz insanlar arasında gerçekleşen evlilik adındaki bu verimsiz uygulama ile ilgileniyorsunuz, ¿Yanlış mıyım?</Content>
+          <Content>Ne?... Benim gibi birisinin evlenmiş olması ilginizi çekmiyor, değil mi? Siz daha çok biz insanlar arasında gerçekleşen evlilik adındaki bu verimsiz uygulama ile ilgileniyorsunuz, Yanlış mıyım?</Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -244,7 +244,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland16</VoiceFile>
-          <Content>Ohh, ¿Farkında olamdan fazla mı uzattım...?</Content>
+          <Content>Ohh, Farkında olamdan fazla mı uzattım...?</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -274,7 +274,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland20</VoiceFile>
-          <Content>Ben burada basitçe anlatıyorum, ama tüm bu hengame sırasında yaşadığım acı gerçekti, ¿anlatabiliyor muyum?</Content>
+          <Content>Ben burada basitçe anlatıyorum, ama tüm bu hengame sırasında yaşadığım acı gerçekti, anlatabiliyor muyum?</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>Roland</Teller>
@@ -370,7 +370,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_prol_ep1_angela15</VoiceFile>
-          <Content>¿Peki sen bu acı ile ile nasıl başa çıkıyorsun?</Content>
+          <Content>Peki sen bu acı ile ile nasıl başa çıkıyorsun?</Content>
         </Dialog>
         <Dialog ID="60" Model="롤랑">
           <Teller>Roland</Teller>
@@ -382,13 +382,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_prol_ep1_angela16</VoiceFile>
-          <Content>Bu arada, ¿Senin için hayatında en şaşırtıcı diğer iki şey neydi? Merak ettim.</Content>
+          <Content>Bu arada, Senin için hayatında en şaşırtıcı diğer iki şey neydi? Merak ettim.</Content>
         </Dialog>
         <Dialog ID="62" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland36</VoiceFile>
-          <Content>¿Hmm? ¿Burada çalışıyor olmanın bana bu kadar yakışmış olması sanırım? İlk şeyi ise şimdilik kendime saklayacağım, ¿Tüm sırlarımı aynı anda ortaya dökmek eğlenceli olmaz değil mi?</Content>
+          <Content>Hmm? Burada çalışıyor olmanın bana bu kadar yakışmış olması sanırım? İlk şeyi ise şimdilik kendime saklayacağım, Tüm sırlarımı aynı anda ortaya dökmek eğlenceli olmaz değil mi?</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>Angela</Teller>
