@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <text id="BattleUI_StartBattle_Act">Sahne {0}</text>
+  <text id="BattleUI_StartBattle_WaveInfo">Perde {0}</text>
+  <text id="BattleUI_Victory_Floor">{0} Üzerinde Perde {1} Kapaniyor</text>
+  <text id="BattleUI_Victory_Final">"{0}" Karsilamasinin Perdesi iniyor</text>
+  <text id="BattleUI_Defeat_Floor">{0} Üzerinde Perde {1} Sona Erdi</text>
+  <text id="BattleUI_Defeat_Final">{0} Karsilamasi Sona Erdi</text>
+  <text id="BattleUI_HideCard">Gizle</text>
+  <text id="BattleUI_ShowCard">Göster</text>
+  <text id="BattleUI_GetBook">{0} Elde Edildi</text>
+  <text id="BattleUI_Abnormality">Anormallik</text>
+  <text id="BattleUI_Light">Isik</text>
+  <text id="BattleUI_Ability">Etki</text>
+  <text id="BattleUI_Passive">Pasif Yetenek</text>
+  <text id="BattleUI_SelectAbnormality">Anormallik Sayfasini Seç</text>
+  <text id="BattleUI_Get_Emotion_Positive">Pozitif Duygu Birikti</text>
+  <text id="BattleUI_Get_Emotion_Negative">Negatif Duygu Birikti</text>
+  <text id="BattleUI_Quick_Mode">Hizli Mod</text>
+  <text id="BattleUI_MaxValue">Maksimum Hasar!</text>
+  <text id="BattleUI_Breaked">Sersemledi!</text>
+  <text id="BattleUI_SpeedDiceBonus">Hiz Bonusu</text>
+  <text id="BattleUI_Deflect">Saptirildi!</text>
+  <text id="BattleUI_StartBattle_CreatureInfo">{0}</text>
+  <text id="BattleUI_Victory_Creature">{0} Baskilanmasi Tamamlandi</text>
+  <text id="BattleUI_Defeat_Creature">{0} Baskilanmasi Basarisiz Oldu</text>
+
+  <text id="BattleUI_EmotionLevel">Duygu Seviyesi</text>
+
+  <text id="BattleUI_Selectegocard">E.G.O. Sayfasini Seç</text>
+
+  <text id="BattleUI_DiceTypeBonus">Tür Avantaji Gücü +{0}</text>
+
+  <text id="BattleUI_EmotionLevel_AddMaxPlayPoint">Maks. Isik +1</text>
+  <text id="BattleUI_EmotionLevel_AddSpeedDice">Hiz Zari +1</text>
+  <text id="BattleUI_EmotionLevel_AddDrawNum">Bu sahnede iki veya daha fazla Savas Sayfasi oynadiktan sonra, sonraki sahnede fazladan bir Sayfa çek</text>
+
+
+  <text id="BattleUI_Book_DropProb">{0}: %{1}</text>
+  <text id="BattleUI_Book_DropNum">{0} kopya</text>
+
+  <text id="BattleUI_Speed_Max">Maks. Hiz</text>
+
+  <text id="BattleUI_debuf">Durum Sorunu</text>
+</localize>
