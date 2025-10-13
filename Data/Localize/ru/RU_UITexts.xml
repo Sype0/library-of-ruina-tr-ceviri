@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<text id="ui_keterfloor">Genel isler Kati</text>
+	<text id="ui_keterfloor">Keter Kati</text>
 	<text id="ui_malkuthfloor">Tarih Kati</text>
 	<text id="ui_yesodfloor">Teknoloji Kati</text>
 	<text id="ui_hodfloor">Edebiyat Kati</text>
@@ -21,10 +21,10 @@
 	<text id="ui_binah">Binah</text>
 	<text id="ui_hokma">Hokma</text>
 	<text id="ui_maintitle_citystate_1">Dedikodu</text>
-	<text id="ui_maintitle_citystate_2">sehir Masali</text>
-	<text id="ui_maintitle_citystate_3">sehir Efsanesi</text>
-	<text id="ui_maintitle_citystate_4">sehir Vebasi</text>
-	<text id="ui_maintitle_citystate_5">sehir Kabusu</text>
+	<text id="ui_maintitle_citystate_2">Sehir Masali</text>
+	<text id="ui_maintitle_citystate_3">Sehir Efsanesi</text>
+	<text id="ui_maintitle_citystate_4">Sehir Vebasi</text>
+	<text id="ui_maintitle_citystate_5">Sehir Kabusu</text>
 	<text id="ui_ability_hp">Can</text>
 	<text id="ui_ability_break">Denge Direnci</text>
 	<text id="ui_ability_emotionlevel">Maks. Duygu Seviyesi</text>
