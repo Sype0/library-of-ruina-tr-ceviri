@@ -826,7 +826,7 @@
           <Teller>Angela</Teller>
           <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela11</VoiceFile>
-          <Content>Ne komik. Yaptığınız şeyleri “sıkı çalışma” olarak adlandırabilir dis?</Content>
+          <Content>Ne komik. Yaptığınız şeyleri “sıkı çalışma” olarak adlandırabilir miyiz?</Content>
         </Dialog>
         <Dialog ID="62" Model="게부라">
           <Teller>Gebura</Teller>
@@ -2584,7 +2584,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Yesod_ep2_roland7</VoiceFile>
-          <Content>Fakat, Fixer olarak sezgilerim bana aksini söylüyor.</Content>
+          <Content>Fakat, Düzeltici olarak sezgilerim bana aksini söylüyor.</Content>
         </Dialog>
         <Dialog ID="12" Model="예소드">
           <Teller>Yesod</Teller>
