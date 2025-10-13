@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="5">
-    <Title>Bölüm 5-Kentsel Kabus-‘Rüya paramparça oldu; kule yıkıldı.’</Title>
+    <Title>Bölüm 5-Şehir Kabusu-‘Rüya paramparça oldu; kule yıkıldı.’</Title>
   </Chapter>
   <Group>
     <GroupName>Prolog</GroupName>
@@ -73,7 +73,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Mirinae6</VoiceFile>
-          <Content>Bugünden itibaren, Kütüphane, Hana Derneği Merkezi tarafından bir "Kentsel Kabus" olarak belirlenmiştir.</Content>
+          <Content>Bugünden itibaren, Kütüphane, Hana Derneği Merkezi tarafından bir "Şehir Kabusu" olarak belirlenmiştir.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -631,7 +631,7 @@
         <Teller>Tenma</Teller>
         <Title>Shi D. Kısım 2 Düzelticisi</Title>
         <VoiceFile>ch5_Shi_ep1_Tenma6</VoiceFile>
-        <Content>Direktör... On gündür arka arkaya Kentsel Kabus sınıfı vakalarla uğraşıyoruz.</Content>
+        <Content>Direktör... On gündür arka arkaya Şehir Kabusu sınıfı vakalarla uğraşıyoruz.</Content>
       </Dialog>
       <Dialog ID="16" Model="텐마">
         <Teller>Tenma</Teller>
