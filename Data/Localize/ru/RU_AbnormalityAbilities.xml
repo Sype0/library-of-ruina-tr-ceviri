@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbnormalityAbilityRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Abnormality ID="FairyCarnival_Care">
+    <AbilityList>
+      <Ability> {0} Can Yeniler</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="FairyCarnival_Gluttony">
+    <AbilityList>
+      <Ability> {0} Can Yeniler</Ability>
+      <Ability>Hasar</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="BeautyandtheBeast_Curse">
+    <AbilityList>
+      <Ability>Alınan Hasar {0}</Ability>
+      <Ability>Lanet</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="BeautyandtheBeast_Hate">
+    <AbilityList>
+      <Ability>Zar Geliştir</Ability>
+      <Ability> {0} Can Azaltır</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="ScorchedGirl_Walk">
+    <AbilityList>
+      <Ability>{0} Hasar</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="ScorchedGirl_Ashes">
+    <AbilityList>
+      <Ability>Alınan Hasar {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="HappyTeddyBear_Hug">
+    <AbilityList>
+      <Ability>Sersemletme Hasarı {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="HappyTeddyBear_Memory">
+    <AbilityList>
+      <Ability>Maliyet Azaltıldı</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="TheDreamingCurrent_Sea">
+    <AbilityList>
+      <Ability>Hız {0}</Ability>
+      <Ability> {0} Işık Yeniler</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="TheDreamingCurrent_Run">
+    <AbilityList>
+      <Ability>Hız {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="TheDreamingCurrent_candy">
+    <AbilityList>
+      <Ability>'Şeker' Kazan</Ability>
+      <Ability>Hasar {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="27thofMarch_Shelter">
+    <AbilityList>
+      <Ability>Bulanık; Harekete Geçemez; {0} Can Yeniler</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="1.76 MHz_MHz">
+    <AbilityList>
+      <Ability>Güç {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="1.76MHz_423">
+    <AbilityList>
+      <Ability>Hasar {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="ForsakenMurderer_Tie">
+    <AbilityList>
+      <Ability>Hız {0}</Ability>
+      <Ability>Hasar {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="ForsakenMurderer_Metal">
+    <AbilityList>
+      <Ability>Zar Geliştir</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="LittleHelper_Clean">
+    <AbilityList>
+      <Ability>Zar Geliştir</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="LittleHelper_Pattern">
+    <AbilityList>
+      <Ability> {0} Hız ve {1} Güç Kazan</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Schadenfreude_See">
+    <AbilityList>
+      <Ability> {0} Zayıflık, {0} Silahsızlanma Uygular</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Schadenfreude_Eye">
+    <AbilityList>
+      <Ability>Güç {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="YouMustBeHappy_Q">
+    <AbilityList>
+      <Ability>Minimum Değer</Ability>
+      <Ability>Maksimum Değer</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="ChangeAnything_Energy">
+    <AbilityList>
+      <Ability> {0} Işık Yeniler</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Variant_Dimensional">
+    <AbilityList />
+  </Abnormality>
+  <Abnormality ID="Behavior_Adjustment">
+    <AbilityList>
+      <Ability>Zar Geliştir</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="SpiderBud_Cocoon">
+    <AbilityList>
+      <Ability> {0} Sersemletme Hasarı Ver, {1} Kırılganlık Uygular</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="SpiderBud_Dinner">
+    <AbilityList>
+      <Ability> {0} Can Yeniler</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="ShyLookToday_Face">
+    <AbilityList>
+      <Ability>Güç {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="OldLady_Lonely">
+    <AbilityList>
+      <Ability>Yalnızlık Uygular</Ability>
+      <Ability>Hız {0}, {1} Hasar Alır</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="OldLady_Story">
+    <AbilityList>
+      <Ability>Hasar {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="MeatLantern_Predation">
+    <AbilityList>
+      <Ability>Hasar {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="MeatLantern_Bait">
+    <AbilityList>
+      <Ability>Güç {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="MeatLantern_Ambush">
+    <AbilityList>
+      <Ability>Bulanık Kazan</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Porccubus_Thorn">
+    <AbilityList>
+      <Ability>Sonraki Savunma Zarını Zayıflatır</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Porccubus_Happy">
+    <AbilityList>
+      <Ability> {0} Işık Yeniler</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="RedShoes_Kirakira">
+    <AbilityList>
+      <Ability>Baştan Çıkarma Uygular</Ability>
+      <Ability>Hasar {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="RedShoes_Desire">
+    <AbilityList>
+      <Ability>Hız {0}</Ability>
+      <Ability> {0} Kanama Uygular</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="UniverseZogak_Echo">
+    <AbilityList>
+      <Ability>Her iki karakterin tüm zarlarını yok eder</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="UniverseZogak_Tentacle">
+    <AbilityList>
+      <Ability>Zar Geliştir</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="ChildofGalaxy_Friend">
+    <AbilityList>
+      <Ability> {0} Can Yeniler</Ability>
+      <Ability> {0} Hasar Alır</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="ChildofGalaxy_Tear">
+    <AbilityList>
+      <Ability> {0} Can Kaybeder</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="ChildofGalaxy_Token">
+    <AbilityList>
+      <Ability> {0} Can Yeniler</Ability>
+      <Ability> {0} Can Kaybeder</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="SingingMachine_Music">
+    <AbilityList>
+      <Ability>Zar Geliştir</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="SingingMachine_Rhythm">
+    <AbilityList>
+      <Ability>Ritim Kazan</Ability>
+      <Ability>Ritim Uygula</Ability>
+      <Ability>Zar Geliştir</Ability>
+      <Ability>Alınan Hasar {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="TheLittlePrince_Bigbusut">
+    <AbilityList>
+      <Ability>Sersemletme Hasarı {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Alriune_Bush">
+    <AbilityList>
+      <Ability>{0} Hasar</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Alriune_flower">
+    <AbilityList>
+      <Ability>Tüm Karakterlere {0} Hasar Verir</Ability>
+      <Ability>Bulanık Kazan</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Rudolta_Gift">
+    <AbilityList>
+      <Ability>Sersemletme Hasarı {0}, {1} Bağlama Uygular</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Theresia_Orgel">
+    <AbilityList>
+      <Ability>Sersemletme Direnci İyileşmesi Arttı</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Bloodbath_Blood">
+    <AbilityList>
+      <Ability>Hız {0}</Ability>
+      <Ability>Zar Geliştir</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Bloodbath_Scar">
+    <AbilityList>
+      <Ability>Alınan Hasar {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Bloodbath_Hands">
+    <AbilityList>
+      <Ability>Sersemletme Hasarı {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="TheSnowQueen_Sord">
+    <AbilityList>
+      <Ability>Bağlama {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="TheSnowQueen_Chu">
+    <AbilityList>
+      <Ability>Buz Parçası Uygular</Ability>
+      <Ability>Hareketsiz Bırak</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="TheSnowQueen_Snow">
+    <AbilityList>
+      <Ability>Sersemletme Hasarı {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Pinocchio_Learn">
+    <AbilityList />
+  </Abnormality>
+  <Abnormality ID="Pinocchio_Lie">
+    <AbilityList>
+      <Ability>Sayfaları Yeniden Çek</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="QuietKid_Hammer">
+    <AbilityList>
+      <Ability>Sersemletme Hasarı {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="QuietKid_Eyeshine">
+    <AbilityList>
+      <Ability>Hız {0}</Ability>
+      <Ability>Hasar {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="MirrorofAdjustment_Mirror">
+    <AbilityList>
+      <Ability>Rastgele Maliyet</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="HeartofAspiration_Doki">
+    <AbilityList>
+      <Ability>Hız {0}</Ability>
+      <Ability> {0} Can Kaybeder</Ability>
+    </AbilityList>
+  </Abnormality>
+
+  <BattleCardAbility ID="selfbleeding1">
+    <Desc>[Kullanıldığında] Sonraki Sahne kendinize 1 Kanama Uygulayın</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="selfbleeding2">
+    <Desc>[Kullanıldığında] Sonraki Sahne kendinize 2 Kanama Uygulayın</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="selfbleeding1energy1">
+    <Desc>[Kullanıldığında] Sonraki Sahne kendinize 1 Kanama Uygulayın; 1 Işık Yeniler</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="selfbleeding3powerup2">
+    <Desc>[Kullanıldığında] Bu Sahne kendinize 3 Kanama Uygulayın; bu Sayfadaki tüm Zarlar +2 Güç Kazanır</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="selfbleeding5powerup3">
+    <Desc>[Kullanıldığında] Bu Sahne kendinize 5 Kanama Uygulayın; bu Sayfadaki tüm Zarlar +3 Güç Kazanır</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="alliespower1">
+    <Desc>[Kullanıldığında] Sonraki Sahne Müttefiklere 1 Güç Verir</Desc>
+  </BattleCardAbility>
+
+</AbnormalityAbilityRoot>
