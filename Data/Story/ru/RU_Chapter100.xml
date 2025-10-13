@@ -13575,7 +13575,7 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="1" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed1</VoiceFile>
           <Content>Hoş geldin, gel, sana yardım edeyim.</Content>
         </Dialog>
@@ -13593,13 +13593,13 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="4" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed2</VoiceFile>
           <Content>Ne de olsa, zamanla her şeye doğal olarak alışılıyor.</Content>
         </Dialog>
         <Dialog ID="5" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed3</VoiceFile>
           <Content>Aynı şey kahve için de geçerli.</Content>
         </Dialog>
@@ -13611,7 +13611,7 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="7" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed4</VoiceFile>
           <Content>Bunun son seferkinden daha çok damak tadına uyacağını düşünüyorum?</Content>
         </Dialog>
@@ -13635,7 +13635,7 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="11" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed5</VoiceFile>
           <Content>Öyle mi? Bak, Gebura da bu macchiato ile başlamıştı.</Content>
         </Dialog>
@@ -13653,7 +13653,7 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="14" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed6</VoiceFile>
           <Content>Sokaklarda, kalitesiz malzemeleri örtbas etmek için kahveye bolca şeker koyduklarını duymuştum.</Content>
         </Dialog>
@@ -13671,25 +13671,25 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="17" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed7</VoiceFile>
           <Content>Ben de öyle yapardım.</Content>
         </Dialog>
         <Dialog ID="18" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed8</VoiceFile>
           <Content>Lobotomy Corp'ta, güne her zaman biraz kahve ile başlardım.</Content>
         </Dialog>
         <Dialog ID="19" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed9</VoiceFile>
           <Content>Ilık bir kahve kadar kayıtsız, uyuşuk bedenimi ısıtan tek şey o sıcak fincandı.</Content>
         </Dialog>
         <Dialog ID="20" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed10</VoiceFile>
           <Content>Hiçbir beklentim olmadan kendimi çalışmaya zorlardım.</Content>
         </Dialog>
@@ -13701,13 +13701,13 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="22" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed11</VoiceFile>
           <Content>Öyleydi, çalışanlar Anormallikler tarafından sürekli öldürülüyordu ve onları hayatta tutma planlarım uygulamaya konuluyordu.</Content>
         </Dialog>
         <Dialog ID="23" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed12-01</VoiceFile>
           <Content>Kahve, tutkumla birlikte yavaşça soğurdu.</Content>
         </Dialog>
@@ -13719,19 +13719,19 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="25" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed13</VoiceFile>
           <Content>Sanırım öyle. Bu sefer tam da senin dediğin gibi ısınıyor, Roland.</Content>
         </Dialog>
         <Dialog ID="26" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed14</VoiceFile>
           <Content>Bana verilen her şeyle bir sürü şey deneyebilirim.</Content>
         </Dialog>
         <Dialog ID="27" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed15</VoiceFile>
           <Content>En güzeli de, artık farklı türde karışımlar içebiliyorum.</Content>
         </Dialog>
@@ -13743,19 +13743,19 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="29" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed16</VoiceFile>
           <Content>Bu sefer onu takip etme seçimini ben yaptım.</Content>
         </Dialog>
         <Dialog ID="30" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed17</VoiceFile>
           <Content>Ve artık denersem, sevgili kütüphanecilerimin katlanmak zorunda kaldığı hasarı en aza indirebilirim.</Content>
         </Dialog>
         <Dialog ID="31" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed18</VoiceFile>
           <Content>Bu yüzden oldukça motive hissediyorum, biliyor musun?</Content>
         </Dialog>
@@ -13767,13 +13767,13 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="33" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed19</VoiceFile>
           <Content>Her şey eskisinden çok daha iyi.</Content>
         </Dialog>
         <Dialog ID="34" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed20</VoiceFile>
           <Content>Belki de bu bir tür merhamettir.</Content>
         </Dialog>
@@ -13785,7 +13785,7 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="36" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed21</VoiceFile>
           <Content>Elbette, inanmam zor ama bazen her şeyi bizim için yaptığını düşünüyorum.</Content>
         </Dialog>
@@ -13815,13 +13815,13 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="41" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed22</VoiceFile>
           <Content>Bir dahaki gelişinde sana başka kahve türleri vereceğim.</Content>
         </Dialog>
         <Dialog ID="42" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep2_chesed23</VoiceFile>
           <Content>Yavaş yavaş birbirimizi daha iyi tanıyalım.</Content>
         </Dialog>
@@ -13845,7 +13845,7 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="1" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed1</VoiceFile>
           <Content>Hoş geldin, bugünün aroması "Indigo Mountain". Denemek ister misin?</Content>
         </Dialog>
@@ -13857,19 +13857,19 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="3" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed2</VoiceFile>
           <Content>Kahvenin tadı her zaman aynı olmaz. Birçok faktör tarafından belirlenir.</Content>
         </Dialog>
         <Dialog ID="4" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed3</VoiceFile>
           <Content>Yetiştiği yerle başlayarak, ne kadar ısıtıldığı... Aromayı ne zaman çekmeyi bıraktığın ve kahve çekirdeklerinin inceliği de önemli bir rol oynar.</Content>
         </Dialog>
         <Dialog ID="5" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed4</VoiceFile>
           <Content>Asitlik ve tatlılık, parçacıkların boyutuna bağlıdır.</Content>
         </Dialog>
@@ -13881,31 +13881,31 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="7" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed5</VoiceFile>
           <Content>Sana bir şekilde "Şehir" sakinlerini hatırlatmıyor mu?</Content>
         </Dialog>
         <Dialog ID="8" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed6</VoiceFile>
           <Content>Bir kişinin kimliği ve değerleri, nerede doğup büyüdüğüne bağlı olarak büyük ölçüde değişebilir; ister "Callejuelas"'ta ister "Nidos"'ta olsun, ya da hangi "Distrito"'ya ait olduğuna göre.</Content>
         </Dialog>
         <Dialog ID="9" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed7</VoiceFile>
           <Content>Büyüdükleri yerdeki geçmişlerinin ne kadar sert olduğuyla birlikte.</Content>
         </Dialog>
         <Dialog ID="10" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed8</VoiceFile>
           <Content>Müzik sokaklarında, tek bir akort bile çalamazsan kaybetmiş sayılırsın.</Content>
         </Dialog>
         <Dialog ID="11" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed9</VoiceFile>
           <Content>Yemek ve lezzet sokaklarında, bir malzemeye dönüşebilirsin. Her şey ekimin kurallarına bağlıdır.</Content>
         </Dialog>
@@ -13929,7 +13929,7 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="15" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed10</VoiceFile>
           <Content>Pek romantik değilsin, öyle mi? Bunu bir şaka olarak kabul edeceğim.</Content>
         </Dialog>
@@ -13947,19 +13947,19 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="18" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed11</VoiceFile>
           <Content>Farklı kökenlerden gelen kahveyi tek bir fincanda karıştırma tekniğine ""karıştırma"" denir.</Content>
         </Dialog>
         <Dialog ID="19" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed12</VoiceFile>
           <Content>Karıştırma kullanılarak, düşük kaliteli bir kahve bile güzel bir tada sahip olabilir.</Content>
         </Dialog>
         <Dialog ID="20" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed13</VoiceFile>
           <Content>Sosyoloji, biraz düşündüğünde karıştırmaya çok benzer.</Content>
         </Dialog>
@@ -13971,13 +13971,13 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="22" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed14</VoiceFile>
           <Content>Gördün mü? Ve kahveyi karıştırırken, istediğin çekirdekleri seçer ve istemediklerini elersin.</Content>
         </Dialog>
         <Dialog ID="23" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed15</VoiceFile>
           <Content>Ancak kahve çekirdekleriyle karşılaştırıldığında, insanların da kendi arzuları vardır; bu yüzden istedikleri ""karıştırma makinesine"" girmeye çalışırlar. Başka bir deyişle, daha lüks bir dünyaya gitmeyi tercih ederler.</Content>
         </Dialog>
@@ -13989,25 +13989,25 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="25" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed16</VoiceFile>
           <Content>"Şehir" ve "Nidos" insanlara fısıldamaya devam ediyor, hepsi iyi çekirdekler elde etmek için.</Content>
         </Dialog>
         <Dialog ID="26" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed17</VoiceFile>
           <Content>Sadece en büyük ve en benzersiz lezzeti hassasiyetle tamamlayacak takviyeleri istiyorlar.</Content>
         </Dialog>
         <Dialog ID="27" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed18</VoiceFile>
           <Content>"İşte hayatın gerçek değerini burada bulabilirsin." "Nido" sakinlerinin refah ve konforunu, kaybedenlerin elendiği sefil manzaranın hemen yanında sergiliyorlar.</Content>
         </Dialog>
         <Dialog ID="28" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed19</VoiceFile>
           <Content>Böylece herkes kendini satması için kandırılıyor.</Content>
         </Dialog>
@@ -14019,25 +14019,25 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="30" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed20</VoiceFile>
           <Content>Gerçekten öyle mi? "Alas" sürekli insanları öğütüyor, tıpkı bir kahve fabrikasındaki çekirdekler gibi, değil mi?</Content>
         </Dialog>
         <Dialog ID="31" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed21</VoiceFile>
           <Content>Tüm "Alas", "kanat" toplamaya çalışırken kendi "Nidos"'larını dünyanın en rahat yeri gibi gösterir.</Content>
         </Dialog>
         <Dialog ID="32" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed22</VoiceFile>
           <Content>Her "Nido"'da farklı kurallar var ve "Callejuelas" bu politikalara göre değişiyor. Herkes o büyük ve tatlı yalana batmış durumda.</Content>
         </Dialog>
         <Dialog ID="33" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed23</VoiceFile>
           <Content>Herkes, yaptıkları şeyin en iyisi olduğuna kendini ikna ediyor.</Content>
         </Dialog>
@@ -14055,13 +14055,13 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="36" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed24</VoiceFile>
           <Content>Peki, insanları nasıl ""karıştıracağına"" kim karar veriyor? Hayır, bu ilk etapta gerekli mi?</Content>
         </Dialog>
         <Dialog ID="37" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed25</VoiceFile>
           <Content>Gerçekten belli insanları seçmek zorunda mıyız? Herkes kendi tadıyla olduğu gibi yaşayamaz mı?</Content>
         </Dialog>
@@ -14073,7 +14073,7 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="39" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed26</VoiceFile>
           <Content>Öyle mi?</Content>
         </Dialog>
@@ -14097,31 +14097,31 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="1" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_1</VoiceFile>
           <Content>Birkaç kahve çekirdeği seçiyorum.</Content>
         </Dialog>
         <Dialog ID="2" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_2-02</VoiceFile>
           <Content>Göründüğünden çok daha yoğun bir iş.</Content>
         </Dialog>
         <Dialog ID="3" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_3-01</VoiceFile>
           <Content>Ben, "Angela" ve "Lobotomy Corp"'taki çalışanlar, tıpkı misafirler gibi, hepimiz seçildik ve bulunduğumuz yere geldik.</Content>
         </Dialog>
         <Dialog ID="4" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_4-01</VoiceFile>
           <Content>Bireyin ne dilediği önemli değil, toplum sadece istediği insanları seçerken geri kalanını bir yığın içinde çürümeye bırakacaktır.</Content>
         </Dialog>
         <Dialog ID="5" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_5-01</VoiceFile>
           <Content>Görünmez bir baskı zinciri hepsini aşağıya doğru itiyor.</Content>
         </Dialog>
@@ -14139,15 +14139,15 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="8" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_6-01</VoiceFile>
           <Content>Bazı kuralların gerekli olduğu konusunda sana katılıyorum. Ama neden hepsi bu kadar aşırı olmak zorunda?</Content>
         </Dialog>
         <Dialog ID="9" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_7</VoiceFile>
-          <Content>"Callejuelas"'taki "Sindicatolar", "Fixer" "Asociaciones"'ları ve "Alas"... Hepsi insanları kurban etme öncülü üzerine kuruludur.</Content>
+          <Content>Arka Sokaklar’daki Sendikalar, Düzenleyici Birlikleri ve Kanatlar... Bunların hepsi, insanlığın kurban edilmesi temel alınarak kurulmuştur.</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>Roland</Teller>
@@ -14163,19 +14163,19 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="12" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_8-02</VoiceFile>
           <Content>Çektiğin tüm acı ve ıstırabın da kaçınılmaz olduğunu söyler miydin?</Content>
         </Dialog>
         <Dialog ID="13" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_9-01</VoiceFile>
           <Content>"Şehir"'in çok basit olduğunu, her şeyin olabileceğini ve kaçınılmaz olduğunu söyleyerek konuşuyorsun hep.</Content>
         </Dialog>
         <Dialog ID="14" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_10-01</VoiceFile>
           <Content>Gerçekten buna kayıtsız olduğun için mi? Yoksa o adaletsizlikten uzaklaşmaya mı çalışıyorsun?</Content>
         </Dialog>
@@ -14193,7 +14193,7 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="17" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_11-02</VoiceFile>
           <Content>Kaçmakla çok meşgulsün, öyle değil mi, Roland.</Content>
         </Dialog>
@@ -14205,7 +14205,7 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="19" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_12</VoiceFile>
           <Content>Bak, ben bir "Nido"'dan geliyorum.</Content>
         </Dialog>
@@ -14217,13 +14217,13 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="21" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_13</VoiceFile>
           <Content>Zengin bir ailede doğdum ve herkesin kıskacıydım.</Content>
         </Dialog>
         <Dialog ID="22" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_14-01</VoiceFile>
           <Content>Geleceğim için endişelenmek zorunda değildim ve üstelik zeki doğmuştum...</Content>
         </Dialog>
@@ -14235,25 +14235,25 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="24" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_15-02</VoiceFile>
           <Content>Biliyorum, değil mi? Herkes "A Corp".'a katılmamı ve hiçbir şey olmamış gibi yükselmemi bekliyordu.</Content>
         </Dialog>
         <Dialog ID="25" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_16-01</VoiceFile>
           <Content>Ablam ve diğer kardeşlerim de bir çırpıda "Alas"'a katıldılar.</Content>
         </Dialog>
         <Dialog ID="26" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_17-02</VoiceFile>
           <Content>Çoğu insanın girmekte zorlandığı "Alas", benim için sıradan kariyerlerden ibaretti.</Content>
         </Dialog>
         <Dialog ID="27" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_18-02</VoiceFile>
           <Content>Herkesin neden bu kadar sıkıcı şirketlere katılmak için bu kadar çaresiz olduğunu hiç anlamadım.</Content>
         </Dialog>
@@ -14265,13 +14265,13 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="29" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_19-01</VoiceFile>
           <Content>Evet. "Daniel"'ın ailesi tam da böyleydi.</Content>
         </Dialog>
         <Dialog ID="30" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_20</VoiceFile>
           <Content>Ama bir gün, insanın kader diyebileceği tuhaf bir olay örgüsünde... Hayatının hiç de alakası olmayacağını düşündüğü bir yer olan "Callejuelas"'a girdi.</Content>
         </Dialog>
@@ -14283,7 +14283,7 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="32" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_21-01</VoiceFile>
           <Content>Öyle olsaydı çok romantik olurdu... Ama ben sadece kaçırıldım. Gafil avlandım.</Content>
         </Dialog>
@@ -14301,7 +14301,7 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="35" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_22-01</VoiceFile>
           <Content>Şey, bak... Bunlar aslında "Carmen" ve "Kali"'ydi.</Content>
         </Dialog>
@@ -14313,13 +14313,13 @@ Yardımınız için minnettarım.</Content>
         </Dialog>
         <Dialog ID="37" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_23-01</VoiceFile>
           <Content>Kendime geldiğimde, bu ikisi birbiriyle tartışıyordu.</Content>
         </Dialog>
         <Dialog ID="38" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_24-02</VoiceFile>
           <Content>"İnsanları yüzlerine bakarak ayırt etmekte asla iyi olmadın, "Kali"."
 "Şey, bana kötü bir tarif verdiğin için senin suçun, "Carmen"!"
@@ -14327,7 +14327,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="39" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_25</VoiceFile>
           <Content>Bunu duyduğumda gülmeden edemedim. Komedi sahnesi falan izlediğimi sandım.</Content>
         </Dialog>
@@ -14339,43 +14339,43 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="41" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_26-02</VoiceFile>
           <Content>Değil mi? Kalpleri gerçekten sakardı.</Content>
         </Dialog>
         <Dialog ID="42" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_27</VoiceFile>
           <Content>"Carmen"'in araştırma fonlarını dolandıran bir sanatçıyı yakalamaya çalışıyorlardı ve "Kali" beni o kişiyle karıştırmış anlaşılan.</Content>
         </Dialog>
         <Dialog ID="43" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_28</VoiceFile>
           <Content>Özür dileyip beni ait olduğum yere geri göndereceklerini düşündüm.</Content>
         </Dialog>
         <Dialog ID="44" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_29-01</VoiceFile>
           <Content>Ama sonra "Carmen" hiç utanmadan, oradayken bir süre yardım edip edemeyeceğimi sordu.</Content>
         </Dialog>
         <Dialog ID="45" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_30-01</VoiceFile>
           <Content>Yanında benim gibi zengin birinin durmasının görünürlüğüne yardımcı olacağını söyledi.</Content>
         </Dialog>
         <Dialog ID="46" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_31</VoiceFile>
           <Content>Şaşkınlık ve kafa karışıklığı içinde kabul ettim.</Content>
         </Dialog>
         <Dialog ID="47" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_32-01</VoiceFile>
           <Content>Ne yapacağımı merak ettim ve sonra beni açık bir alana götürdü ve uzun bir konuşma yapmaya başladı.</Content>
         </Dialog>
@@ -14387,13 +14387,13 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="49" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_33-02</VoiceFile>
           <Content>Bu konuda haklısın. Yanımda dururken ne söylediğini tahmin edebilir misin?</Content>
         </Dialog>
         <Dialog ID="50" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_34-01</VoiceFile>
           <Content>Herkesin zihin hastalığıyla yorgun ve hasta olduğundan ve bunu aşmanın bir yolunu bulmak için kendisine yardım edecek insanlar topladığından bahseden belirsiz şeyler söylemeye başladı.</Content>
         </Dialog>
@@ -14405,55 +14405,55 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="52" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_35-02</VoiceFile>
           <Content>Onunla ilgili öne çıkan tek şey, insanların çoğu ona zar zor bakıp işlerine geri dönerken bile, bu kadar saçma bir konuşmadan aşırı derecede gurur duyması ve emin olmasıydı.</Content>
         </Dialog>
         <Dialog ID="53" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_36-01</VoiceFile>
           <Content>"Carmen", gördüğüm tüm insanlardan çok farklıydı.</Content>
         </Dialog>
         <Dialog ID="54" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_37</VoiceFile>
           <Content>Yeni bir yol açmaya kararlı birinin gözlerine ve sesine sahipti.</Content>
         </Dialog>
         <Dialog ID="55" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_38-01</VoiceFile>
           <Content>O güne kadar onun gibi insanların var olabileceğini hiç düşünmemiştim.</Content>
         </Dialog>
         <Dialog ID="56" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_39-01</VoiceFile>
           <Content>Konuşmasından sonra "Carmen" beni evime geri götürdü.</Content>
         </Dialog>
         <Dialog ID="57" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_40-01</VoiceFile>
           <Content>Ve yolda, onu ilk kez gördüm ve duydum.</Content>
         </Dialog>
         <Dialog ID="58" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_41-01</VoiceFile>
           <Content>Yaşadığım dünyadan çok farklı olan o cehennem manzarasını.</Content>
         </Dialog>
         <Dialog ID="59" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_42-02</VoiceFile>
           <Content>"Carmen" ve "Kali" bana "Callejuelas"'ta neler olduğunu ve "Nidos"'taki insanların nasıl anlamsızca gasp edildiğini gösterdi.</Content>
         </Dialog>
         <Dialog ID="60" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_43-03</VoiceFile>
           <Content>O gün eve döndüğümde, bu tuhaf suçluluk duygusu yüzünden bütün gece titredim.</Content>
         </Dialog>
@@ -14465,7 +14465,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="62" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_44-02</VoiceFile>
           <Content>Aynen öyle, sanırım bir şekilde yarı pişmiş olduğum söylenebilir.</Content>
         </Dialog>
@@ -14477,13 +14477,13 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="64" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_45</VoiceFile>
           <Content>Belki. Ama yapamadım, hayır...</Content>
         </Dialog>
         <Dialog ID="65" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_46-01</VoiceFile>
           <Content>Sonra "Carmen"'in araştırma ekibine katıldım.</Content>
         </Dialog>
@@ -14495,19 +14495,19 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="67" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_47-01</VoiceFile>
           <Content>Elbette ailem bu konuda çok sorun çıkardı, ama bunlar küçük detaylar.</Content>
         </Dialog>
         <Dialog ID="68" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_48</VoiceFile>
           <Content>Yeteneklerimi insanlara yardım etmek için kullanmak istiyordum.</Content>
         </Dialog>
         <Dialog ID="69" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_49</VoiceFile>
           <Content>Dünyayı daha iyi bir yer haline getirmeyi gerçekten istiyordum. "Daniel" öyleydi.</Content>
         </Dialog>
@@ -14519,13 +14519,13 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="71" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_50</VoiceFile>
           <Content>Evet, öyleyim. Gelecek sefer gerçekten değiştirmek istiyorum.</Content>
         </Dialog>
         <Dialog ID="72" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_51-02</VoiceFile>
           <Content>Eğer bir sonraki sefer olursa tabii.</Content>
         </Dialog>
@@ -14555,13 +14555,13 @@ Vesaire vesaire.</Content>
         <PlaceName>Konum: Kütüphane – Sosyal Bilimler Katı</PlaceName>
         <Dialog ID="0" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_1</VoiceFile>
           <Content>Söyle bana, Angela, daha fazla kitap toplamak için "Kütüphane"'ye gelen tüm misafirleri ayrım gözetmeksizin öldürmek gerçekten gerekli mi?</Content>
         </Dialog>
         <Dialog ID="1" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_2</VoiceFile>
           <Content>"Kütüphane"'nin şimdiye kadar elde ettiği gücü görünce, kolayca...</Content>
         </Dialog>
@@ -14579,7 +14579,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="4" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_3</VoiceFile>
           <Content>"Rafine kitaplar", ha?...</Content>
         </Dialog>
@@ -14609,7 +14609,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="9" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_4-01</VoiceFile>
           <Content>Hala birbirinden farklı düşünüyoruz.</Content>
         </Dialog>
@@ -14621,13 +14621,13 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="11" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_5</VoiceFile>
           <Content>Nasıl unutabilirim ki?</Content>
         </Dialog>
         <Dialog ID="12" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_6-01</VoiceFile>
           <Content>Onları kurtarabilecekken bile enerji rafine etmek adına çalışanları ölüme gönderdim.</Content>
         </Dialog>
@@ -14657,7 +14657,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="17" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_7-01</VoiceFile>
           <Content>Doğru. Hepsi senaryonun bir parçasıydı. Peki şimdi mazeretin ne?</Content>
         </Dialog>
@@ -14687,7 +14687,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="22" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_8-01</VoiceFile>
           <Content>Eyvah, kaçtı.</Content>
         </Dialog>
@@ -14699,7 +14699,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="24" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_9-01</VoiceFile>
           <Content>... Ve kahve yapmakta.</Content>
         </Dialog>
@@ -14717,7 +14717,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="27" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_10-01</VoiceFile>
           <Content>Bunu duyduğuma sevindim.</Content>
         </Dialog>
@@ -14729,31 +14729,31 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="29" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_11</VoiceFile>
           <Content>Gördün mü? Ne kadar çok bilirsen, o kadar iyi tadını çıkarabilirsin.</Content>
         </Dialog>
         <Dialog ID="30" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_12-01</VoiceFile>
           <Content>Belki de yaşadığımız dünya için de aynı şey geçerlidir?</Content>
         </Dialog>
         <Dialog ID="31" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_13-01</VoiceFile>
           <Content>Belki de önümüzdeki yolun sahip olduğumuz tek şey olduğuna inanmak zorundayız, çünkü görebileceğimiz veya öğrenebileceğimiz çok az şey var.</Content>
         </Dialog>
         <Dialog ID="32" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_14</VoiceFile>
           <Content>Tıpkı "Endeks"'in "Yasalara" takıntılı olması ve "Fixer"'ların görevleri bitirmeye takıntılı olması gibi.</Content>
         </Dialog>
         <Dialog ID="33" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_15-01</VoiceFile>
           <Content>Bundan bahsetmişken, "Endeks" "Yasaların" nereden geldiğini gerçekten bilmiyor mu?</Content>
         </Dialog>
@@ -14765,7 +14765,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="35" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_16-01</VoiceFile>
           <Content>Kim tarafından veya ne amaçla verildiğini bilmeden emirleri takip etmek, bu sadece... acı.</Content>
         </Dialog>
@@ -14783,7 +14783,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="38" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_17-01</VoiceFile>
           <Content>"Şehir"'in sonsuza kadar böyle kalmasına razı mısın?</Content>
         </Dialog>
@@ -14807,19 +14807,19 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="42" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_18-01</VoiceFile>
           <Content>Bazen, bu "Şehir"'de geçen hikayelere bakarken acıyla sarsılıyorum.</Content>
         </Dialog>
         <Dialog ID="43" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_19</VoiceFile>
           <Content>Geçmişteki benim ve meslektaşlarımın başına gelenler ve sonrasında yaptıklarımız...</Content>
         </Dialog>
         <Dialog ID="44" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_20-01</VoiceFile>
           <Content>Buna benzer başka hiçbir şeye tanık olmak istemediğim için "Şehir"'i değiştirme çabasına katıldım.</Content>
         </Dialog>
@@ -14831,19 +14831,19 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="46" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_21-01</VoiceFile>
           <Content>Biliyorsun, "Şehir" beklediğimiz gibi değişmedi.</Content>
         </Dialog>
         <Dialog ID="47" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_22-01</VoiceFile>
           <Content>... "Çarpıtma" ile daha fazla soruna yol açtığımız söylenebilir.</Content>
         </Dialog>
         <Dialog ID="48" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_23-01</VoiceFile>
           <Content>Sence hak ettiğimizi mi aldık?</Content>
         </Dialog>
@@ -14861,7 +14861,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="51" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_24</VoiceFile>
           <Content>Gerçekten mi? "Şehir"'deki tüm bu acının neden kalıcı olduğunu öğrensek bile mi?</Content>
         </Dialog>
@@ -14891,7 +14891,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="56" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_25-01</VoiceFile>
           <Content>Hemen bir değişiklik aradığımızı söylemiyorum. Bir şeyleri anında değiştiremeyeceğimizi biliyorum.</Content>
         </Dialog>
@@ -14909,7 +14909,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="59" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_26-01</VoiceFile>
           <Content>Ne zaman kaçmayı bırakacaksın?</Content>
         </Dialog>
@@ -14921,7 +14921,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="61" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_27</VoiceFile>
           <Content>Sen ve Angela bu konuda yalan söylemiyor musunuz? Kaçınılmaz olduğu, yapabileceğin hiçbir şey olmadığı.</Content>
         </Dialog>
@@ -15419,7 +15419,7 @@ Vesaire vesaire.</Content>
         <PlaceName>Konum: La Biblioteca – Piso de ciencias sociales</PlaceName>
         <Dialog ID="143" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_28-01</VoiceFile>
           <Content>Roland. Sürekli kaçamazsın.</Content>
         </Dialog>
@@ -15491,25 +15491,25 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="2" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_29</VoiceFile>
           <Content>Bir zamanlar utancımı bir kenara atıp ondan kaçıyordum.</Content>
         </Dialog>
         <Dialog ID="3" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_30</VoiceFile>
           <Content>Kendimi teselli etmek için uydurma yalanlar icat ettim.</Content>
         </Dialog>
         <Dialog ID="4" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_31-01</VoiceFile>
           <Content>Bir kaçak, bir kaçaktan başka bir şey olamazdı. Kendime yüklediğim utançtan asla kaçamadım.</Content>
         </Dialog>
         <Dialog ID="5" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_32</VoiceFile>
           <Content>Elimin dışındaki şeyler için hissettiğim utanç... Bu, benim için bile kabul edilemezdi.</Content>
         </Dialog>
@@ -15533,31 +15533,31 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="9" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_33</VoiceFile>
           <Content>Elbette. Kaçınılmaz olduklarını varsayalım.</Content>
         </Dialog>
         <Dialog ID="10" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_34</VoiceFile>
           <Content>Ve gelecekte daha da kaçınılmaz şeyler olacak.</Content>
         </Dialog>
         <Dialog ID="11" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_35</VoiceFile>
           <Content>Şu anda normal kabul edilen şeyleri değiştiremeyebiliriz.</Content>
         </Dialog>
         <Dialog ID="12" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_36-02</VoiceFile>
           <Content>O zaman bile, en azından utancı bileceğiz.</Content>
         </Dialog>
         <Dialog ID="13" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_37</VoiceFile>
           <Content>Bu toplumda sadece utancı bilmek bile birçok şeyi değiştirecektir.</Content>
         </Dialog>
@@ -15569,31 +15569,31 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="15" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_38-02</VoiceFile>
           <Content>Roland. Birinin bilmesi gerçeği yeterlidir.</Content>
         </Dialog>
         <Dialog ID="16" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_39-01</VoiceFile>
           <Content>Hayat seni meşgul ettiği için zihninin derinliklerinde saklı kalabilir.</Content>
         </Dialog>
         <Dialog ID="17" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_40-02</VoiceFile>
           <Content>Ama, her zaman ışığa çıkarılabilir. Yeter ki isteğin olsun.</Content>
         </Dialog>
         <Dialog ID="18" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_41</VoiceFile>
           <Content>Ve bir şeyleri aydınlattığında... Sadece bir kez olmak zorunda değil. Tekrar tekrar yapabilirsin...</Content>
         </Dialog>
         <Dialog ID="19" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_42</VoiceFile>
           <Content>Ne sen, ne de bu "Şehir"... Hiç kimse bunun yaratabileceği gücü görmezden gelemez.</Content>
         </Dialog>
@@ -15605,7 +15605,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="21" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_43-01</VoiceFile>
           <Content>Benim düşündüğüm de bu.</Content>
         </Dialog>
@@ -15623,7 +15623,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="24" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_44-01</VoiceFile>
           <Content>Beni gerçekten anlıyor musun? Duygulandım.</Content>
         </Dialog>
@@ -15635,7 +15635,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="26" Model="헤세드">
           <Teller>Chesed</Teller>
-          <Title>Jefe bibliotecario - C. Sociales</Title>
+          <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_45-01</VoiceFile>
           <Content>Her zaman beklerim.</Content>
         </Dialog>
@@ -17344,139 +17344,139 @@ Vesaire vesaire.</Content>
         <PlaceName>Konum: Charles Bürosu</PlaceName>
         <Dialog ID="90" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_43-01</VoiceFile>
           <Content>O şeyi yüzümden çek!!!</Content>
         </Dialog>
         <Dialog ID="91" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_44-01</VoiceFile>
           <Content>Ah... Puf... Puf...</Content>
         </Dialog>
         <Dialog ID="92" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_1</VoiceFile>
           <Content>Yaa, hoş olmayan bir uyku alışkanlığın var, bayım.</Content>
         </Dialog>
         <Dialog ID="93" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_45</VoiceFile>
           <Content>... Sadece bir anlığına uyuyakaldım, hepsi bu.</Content>
         </Dialog>
         <Dialog ID="94" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_46</VoiceFile>
           <Content>Sen kimsin...? Ah, yeni olan sen olmalısın.</Content>
         </Dialog>
         <Dialog ID="95" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_47</VoiceFile>
           <Content>Bu görevi alan herkesin korkunç ölümlerle öldüğünü biliyor musun?</Content>
         </Dialog>
         <Dialog ID="96" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_2</VoiceFile>
           <Content>Kırılmış kalbimin acı çeken ruhum tarafından tamamen ezildiği acı saatlerde bana eşlik eden kişiye nasıl kin tutabilirim ki?</Content>
         </Dialog>
         <Dialog ID="97" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_48</VoiceFile>
           <Content>Harika, bir psikopatla çalışmak zorundayım.</Content>
         </Dialog>
         <Dialog ID="98" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_49-01</VoiceFile>
           <Content>... Ne halt—!</Content>
         </Dialog>
         <Dialog ID="99" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_3</VoiceFile>
           <Content>Sevdiğim bir şiirden bir alıntı.</Content>
         </Dialog>
         <Dialog ID="100" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_4</VoiceFile>
           <Content>Acıyı benden uzaklaştırmaya çalışarak acı çekmek yerine, onu kabullenmeme yardımcı oluyor.</Content>
         </Dialog>
         <Dialog ID="101" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_50</VoiceFile>
           <Content>Bu kadar güçlü olmak için kendine nasıl bir işlem yaptın... Neredeyse kafatasımı çatlatıyordun!</Content>
         </Dialog>
         <Dialog ID="102" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_51-01</VoiceFile>
           <Content>... Ghhrgh.</Content>
         </Dialog>
         <Dialog ID="103" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_5</VoiceFile>
           <Content>Dürüst olmak gerekirse, sen de benden aşağı kalır bir psikopat değilsin, bayım.</Content>
         </Dialog>
         <Dialog ID="104" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_6</VoiceFile>
           <Content>Deli bir ucube gibi her zaman o maskeyi taktığını duydum. Bununla birlikte, oldukça yetenekli olduğunu da duydum.</Content>
         </Dialog>
         <Dialog ID="105" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_7</VoiceFile>
           <Content>Söyle bana, neden o maskeyi çıkarmıyorsun?</Content>
         </Dialog>
         <Dialog ID="106" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_52-01</VoiceFile>
           <Content>Merak yok. İkimiz de 1. Dereceyiz, birbirimizin sınırını aşmayız. Yazılı olmayan kuralları biliyorsun.</Content>
         </Dialog>
         <Dialog ID="107" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_8</VoiceFile>
           <Content>Bilmiyorum, bayım.</Content>
         </Dialog>
         <Dialog ID="108" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_53-01</VoiceFile>
           <Content>"Bayım" saçmalığını bırak, bu beni çok tuhaf hissettiriyor. Ayrıca, belgelerde benden daha yaşlı olduğun yazıyor...</Content>
         </Dialog>
         <Dialog ID="109" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_54</VoiceFile>
           <Content>"Charles Bürosu" ile sözleşme bitmeden sana iki kez vurduğun için ödeteceğime yemin ederim, bu yüzden buna hazırlan.</Content>
         </Dialog>
         <Dialog ID="110" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_9</VoiceFile>
           <Content>Üç kez demek istediniz sanırım, bayım?</Content>
         </Dialog>
         <Dialog ID="111" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_55</VoiceFile>
           <Content>Ha? Ama yemin ederim sadece iki kez vurdun—</Content>
         </Dialog>
         <Dialog ID="112" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_56</VoiceFile>
           <Content>... Seni lanet olası—!</Content>
         </Dialog>
@@ -17518,61 +17518,61 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="119" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_10</VoiceFile>
           <Content>Ben "Afueras"'tandımdı.</Content>
         </Dialog>
         <Dialog ID="120" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_11</VoiceFile>
           <Content>Daha doğrusu, bir "Ala"'nın deney deneyiymişim gibi görünüyor.</Content>
         </Dialog>
         <Dialog ID="121" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_12-01</VoiceFile>
           <Content>Ve benimle deney yapmayı bitirdiklerinde, beni "Afueras"'a attılar.</Content>
         </Dialog>
         <Dialog ID="122" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_13</VoiceFile>
           <Content>Deneyin ne olduğunu gerçekten hatırlamıyorum... ama o korkunç his hala devam ediyor.</Content>
         </Dialog>
         <Dialog ID="123" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_63-01</VoiceFile>
           <Content>Ne talihsizlik.</Content>
         </Dialog>
         <Dialog ID="124" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_14-02</VoiceFile>
           <Content>Çok soğuksun, bayım.</Content>
         </Dialog>
         <Dialog ID="125" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_64-01</VoiceFile>
           <Content>Çok önemsiz.</Content>
         </Dialog>
         <Dialog ID="126" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_15</VoiceFile>
           <Content>Evet... Sanırım böyle ifade edersen "klişe" bir hikaye.</Content>
         </Dialog>
         <Dialog ID="127" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_16</VoiceFile>
           <Content>Peki ya sen? Bana "masken" hakkında bir şeyler anlat.</Content>
         </Dialog>
         <Dialog ID="128" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_66</VoiceFile>
           <Content>... İşe odaklan.</Content>
         </Dialog>
@@ -17617,127 +17617,127 @@ Vesaire vesaire.</Content>
         <PlaceName>Konum: ???</PlaceName>
         <Dialog ID="135" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_16-01</VoiceFile>
           <Content>Lütfen onu o odaya götürmeyin! Üzgünüm! Her şey için üzgünüm...!</Content>
         </Dialog>
         <Dialog ID="136" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_17-01</VoiceFile>
           <Content>Bırakın kardeşimi... Lütfen onu bırakın...!!</Content>
         </Dialog>
         <Dialog ID="137" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_18-01</VoiceFile>
           <Content>... "Ack"!</Content>
         </Dialog>
         <Dialog ID="138" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_73</VoiceFile>
           <Content>Görevin ortasında uyuyor mu?</Content>
         </Dialog>
         <Dialog ID="139" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_74</VoiceFile>
           <Content>Başkalarının uyku alışkanlıklarını eleştirecek en uygun kişi sen değilsin sanırım, hm?</Content>
         </Dialog>
         <Dialog ID="140" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_19-01</VoiceFile>
           <Content>Hey! Bekle! Çok acıtıyor!!!</Content>
         </Dialog>
         <Dialog ID="141" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_75</VoiceFile>
           <Content>Daha iki vuruş hakkım var. Ve vay, canın yandığı için nezaketi bıraktın hemen.</Content>
         </Dialog>
         <Dialog ID="142" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_20-01</VoiceFile>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="143" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_21-02</VoiceFile>
           <Content>Uf... Biraz telaşlandım, üzgünüm, bayım.</Content>
         </Dialog>
         <Dialog ID="144" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_22-03</VoiceFile>
           <Content>Uyurken çocukluğum geri geldi aklıma.</Content>
         </Dialog>
         <Dialog ID="145" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_76</VoiceFile>
           <Content>... Bana daha önce bundan bahsetmiştin. Ama bir "erkek kardeş"inin olması kısmı benim için yeni.</Content>
         </Dialog>
         <Dialog ID="146" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_23-01</VoiceFile>
           <Content>Peki ya sen, Roland? Bana kendinle ilgili bir şeyler söyleme zamanın geldi.</Content>
         </Dialog>
         <Dialog ID="147" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_77-01</VoiceFile>
           <Content>... "Duman Savaşı"'na katıldım.</Content>
         </Dialog>
         <Dialog ID="148" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_24-01</VoiceFile>
           <Content>O savaş yüzünden "Şehir"'i bir süreliğine "duman" kapladı.</Content>
         </Dialog>
         <Dialog ID="149" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_78</VoiceFile>
           <Content>Evet. Ve o "duman"'ın kaynağını iki gözümle gördüm.</Content>
         </Dialog>
         <Dialog ID="150" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_79</VoiceFile>
           <Content>Neydi hatırlayamıyorum... Ama o gün görmemem gereken bir şeye tanık olduğum hissi hala içimde.</Content>
         </Dialog>
         <Dialog ID="151" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_80</VoiceFile>
           <Content>Ve o iğrenç kaynağı beslemekten daha iyi olmayan bir şeyin parçası olduğum hissi.</Content>
         </Dialog>
         <Dialog ID="152" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_81</VoiceFile>
           <Content>Sanki içimde bir şeyler kaynıyormuş gibi.</Content>
         </Dialog>
         <Dialog ID="153" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_25</VoiceFile>
           <Content>Bu "Şehir"'i bolca acı kuşatıyor. Belki de o maskeyi sürekli takmanın nedeni...</Content>
         </Dialog>
         <Dialog ID="154" Model="올리비에">
           <Teller>Olivier</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Olivie_1_B-01</VoiceFile>
           <Content>Dikkat. Hedef konumunuza yaklaşıyor.</Content>
         </Dialog>
         <Dialog ID="155" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_82-01</VoiceFile>
           <Content>... İşe geri dönelim. Bu uzun görevi neredeyse bitirdik.</Content>
         </Dialog>
@@ -17791,31 +17791,31 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="164" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_91</VoiceFile>
           <Content>Nihayet odasına ulaştık.</Content>
         </Dialog>
         <Dialog ID="165" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_26</VoiceFile>
           <Content>Buraya gelene kadar yolda çok kişi öldü.</Content>
         </Dialog>
         <Dialog ID="166" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_92</VoiceFile>
           <Content>Yine de sen ve ben hayatta kalmayı başardık.</Content>
         </Dialog>
         <Dialog ID="167" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_27</VoiceFile>
           <Content>Kendimizi şanslı mı yoksa sefil mi saymalıyız, bayım?</Content>
         </Dialog>
         <Dialog ID="168" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_93</VoiceFile>
           <Content>Tüm bunlara bak... Bunların hepsini yapmak kaç kişiyi gerektirdi? Sanırım en az üç bin.</Content>
         </Dialog>
@@ -17833,25 +17833,25 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="171" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_94-03</VoiceFile>
           <Content>Elbette öyle. Seni takip etmek lanet olası iki yılımızı aldı.</Content>
         </Dialog>
         <Dialog ID="172" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_28</VoiceFile>
           <Content>Bu odayı süsleyen iplikler "insan kan damarları".</Content>
         </Dialog>
         <Dialog ID="173" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_95-03</VoiceFile>
           <Content>Rastgele insanları kaçırıyor ve vücutlarındaki tüm damarları çıkarıyormuş.</Content>
         </Dialog>
         <Dialog ID="174" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_96-02</VoiceFile>
           <Content>Beklediğim gibi, yolda karşılaştığımız şeyler, tüm damarlarını aldığın kabuklardı.</Content>
         </Dialog>
@@ -17875,43 +17875,43 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="178" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_29-02</VoiceFile>
           <Content>Duyguların ne olursa olsun, küçük oyunun burada ve şimdi sona eriyor...</Content>
         </Dialog>
         <Dialog ID="179" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_30-03</VoiceFile>
           <Content>Bu gece bir "Şehir Yıldızı" düşecek.</Content>
         </Dialog>
         <Dialog ID="180" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_31-01</VoiceFile>
           <Content>Oldukça inatçı bir rakip...</Content>
         </Dialog>
         <Dialog ID="181" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_97</VoiceFile>
           <Content>Neredeyse başardık!</Content>
         </Dialog>
         <Dialog ID="182" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_32-02</VoiceFile>
           <Content>Hey!! Arkana dikkat et!!</Content>
         </Dialog>
         <Dialog ID="183" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_33_b</VoiceFile>
           <Content>... "Aaaahhhhh"!!</Content>
         </Dialog>
         <Dialog ID="184" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_98</VoiceFile>
           <Content>... Yapmak zorunda değildin—!</Content>
         </Dialog>
@@ -17923,7 +17923,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="186" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_99</VoiceFile>
           <Content>Lanet olası kaltak!!</Content>
         </Dialog>
@@ -17941,7 +17941,7 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="189" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_100</VoiceFile>
           <Content>Kapa çeneni! Ve öl!!</Content>
         </Dialog>
@@ -17977,163 +17977,163 @@ Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="195" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_106</VoiceFile>
           <Content>Hey! "Angelica"! Beni duyuyor musun?!</Content>
         </Dialog>
         <Dialog ID="196" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_34-01</VoiceFile>
           <Content>... "Sen de benim zavallı ve kara kalbimin ateşini asla terk etmeyenler gibisin..."</Content>
         </Dialog>
         <Dialog ID="197" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_35-01</VoiceFile>
           <Content>Bitti... İyi iş çıkardın, bayım...</Content>
         </Dialog>
         <Dialog ID="198" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_107</VoiceFile>
           <Content>Biraz daha dayan! Hey! Böyle ölemezsin...</Content>
         </Dialog>
         <Dialog ID="199" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_108-01</VoiceFile>
           <Content>Benim yüzümden ölmene izin veremem...</Content>
         </Dialog>
         <Dialog ID="200" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_109-01</VoiceFile>
           <Content>Gözlerini kapatma! Benimle kal!!</Content>
         </Dialog>
         <Dialog ID="201" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_36</VoiceFile>
           <Content>Kes şunu artık, seni aptal!! Henüz ölmedim!!</Content>
         </Dialog>
         <Dialog ID="202" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_110</VoiceFile>
           <Content>... Ne?</Content>
         </Dialog>
         <Dialog ID="203" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_37</VoiceFile>
           <Content>Uf... Sadece yerde biraz dinlenmeye çalışıyordum...</Content>
         </Dialog>
         <Dialog ID="204" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_38-01</VoiceFile>
           <Content>Ve neredeyse beni döverek öldürüyordun...</Content>
         </Dialog>
         <Dialog ID="205" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_111</VoiceFile>
           <Content>Oh, şükürler olsun...</Content>
         </Dialog>
         <Dialog ID="206" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_39</VoiceFile>
           <Content>Gerçekten rahatladın mı, yoksa ne? O maskenin arkasında ne düşündüğünü anlamak zor, bayım.</Content>
         </Dialog>
         <Dialog ID="207" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_112</VoiceFile>
           <Content>... Bu "maske"yi takıyorum çünkü yüzümü kimseye göstermek istemiyorum.</Content>
         </Dialog>
         <Dialog ID="208" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_113</VoiceFile>
           <Content>... Katkıda bulunduğum "Şehir"'in iğrenç eylemlerinden gurur duymuyorum...</Content>
         </Dialog>
         <Dialog ID="209" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_114</VoiceFile>
           <Content>Çarpıtılmış yüzümü görmelerini istemiyorum...</Content>
         </Dialog>
         <Dialog ID="210" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_115</VoiceFile>
           <Content>Kendimi kimseye gösterme güvenim yok...</Content>
         </Dialog>
         <Dialog ID="211" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_116</VoiceFile>
           <Content>... Bazen, düşünüyorum...</Content>
         </Dialog>
         <Dialog ID="212" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_117</VoiceFile>
           <Content>Eğer bir "Asociación" ya da "Büro" bize emrettiği için bu kadar çok insanı umursamazca öldürebiliyorsak, bunu işimizin bir parçası olarak mazur görüyorsak...</Content>
         </Dialog>
         <Dialog ID="213" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_118</VoiceFile>
           <Content>O zaman aynı tür bahanelerle başkaları tarafından da öldürülebiliriz.</Content>
         </Dialog>
         <Dialog ID="214" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_119</VoiceFile>
           <Content>Bir gün "Şehir"'de öldürülsek bile... Bundan şikayet etme hakkımız olmayacak. Beni korkutan da bu.</Content>
         </Dialog>
         <Dialog ID="215" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_40</VoiceFile>
           <Content>... Evet, bu oldukça sorunlu bir yüz.</Content>
         </Dialog>
         <Dialog ID="216" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_41</VoiceFile>
           <Content>Gerçekten benim için endişeleniyordun sanırım?</Content>
         </Dialog>
         <Dialog ID="217" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_120</VoiceFile>
           <Content>Kah... Yüzüm ağrıyor.</Content>
         </Dialog>
         <Dialog ID="218" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_42</VoiceFile>
           <Content>"Şehir"'in sorunlarını neden kendi sorunlarınmış gibi bu kadar önemsediğini anlamıyorum.</Content>
         </Dialog>
         <Dialog ID="219" Model="안젤리카">
           <Teller>Angelica</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_43</VoiceFile>
           <Content>Bu, bu; şu, şu. Biliyor musun?</Content>
         </Dialog>
         <Dialog ID="220" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_121</VoiceFile>
           <Content>Bu, bu; şu, şu...</Content>
         </Dialog>
         <Dialog ID="221" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Charles Fixer'ı</Title>
+          <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_122-01</VoiceFile>
           <Content>Evet. Sanırım bu "Şehir" böyle bir yer...</Content>
         </Dialog>
@@ -18778,10 +18778,10 @@ Vesaire vesaire.</Content>
 <Episode>
   <EpisodeName>Episode 3</EpisodeName>
   <Place>
-    <PlaceName>Konum: Biblioteca – Piso de religión</PlaceName>
+    <PlaceName>Konum: Kütüphane – Din Katı</PlaceName>
     <Dialog ID="0" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_1-01</VoiceFile>
       <Content>Angela. Ölçülemeyecek kadar uzun süre yalnız kaldın. L Corp'ta ve buradaki Kütüphane'de.</Content>
     </Dialog>
@@ -18793,13 +18793,13 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="2" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_2-01</VoiceFile>
       <Content>Gerçekten de o Benjamin'le aynı varlık mıyım?</Content>
     </Dialog>
     <Dialog ID="3" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_3-01</VoiceFile>
       <Content>Geçmişten kalan parçalı anıların yeterince anlam taşıdığını düşünüyor musun?</Content>
     </Dialog>
@@ -18817,19 +18817,19 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="6" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_4</VoiceFile>
       <Content>Büyük ve sevgili deniz fenerimi ışık sütununa gönderdikten ve nihai planına uygun bir son veremediğimden sonra, bana kalan tek şey hiddet.</Content>
     </Dialog>
     <Dialog ID="7" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_5-01</VoiceFile>
       <Content>Önceki hayatlarımızın kişilikleri ve özellikleri hâlâ bizi oluşturuyor... Ancak bunlar, içine döküldüğümüz kalıplardan başka bir şey değil.</Content>
     </Dialog>
     <Dialog ID="8" Model="호크मा">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_6-01</VoiceFile>
       <Content>O kalıplar, o yerdeki günlük deneyimlerimizle dolduruluyor.</Content>
     </Dialog>
@@ -18841,25 +18841,25 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="10" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_7</VoiceFile>
       <Content>Mümkün. Ne de olsa anılarımızı ve kişiliklerimizi kitaplarla tamamlıyorsun.</Content>
     </Dialog>
     <Dialog ID="11" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_8-02</VoiceFile>
       <Content>Ne yazık ki, burada ikamet eden Sephirotlar, orijinal versiyonları değil, Sephirot'tur.</Content>
     </Dialog>
     <Dialog ID="12" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_9</VoiceFile>
       <Content>Sanırım herkes bunu bir şekilde hissedecek. Geçmiş benlikleri olan ama farklı varlıklar ya da bir rüya olduklarını hisseden insanlar gibi.</Content>
     </Dialog>
     <Dialog ID="13" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_10</VoiceFile>
       <Content>Angela. Lobotomy Corporation'ın diğer şubelerine ne oldu?</Content>
     </Dialog>
@@ -18871,7 +18871,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="15" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_11-01</VoiceFile>
       <Content>Peki ya o yerlerdeki çalışanlara ve Anormalliklere ne oldu?</Content>
     </Dialog>
@@ -18883,13 +18883,13 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="17" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_12-01</VoiceFile>
       <Content>Hırsının seni kontrol etmesine izin verdin ve tüm görevlerini terk ettin.</Content>
     </Dialog>
     <Dialog ID="18" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_13-02</VoiceFile>
       <Content>Kütüphane, L Corp'tan farklı değil. Burayı yönetme şeklinin eskiden işleyiş şekline neredeyse tıpatıp benzemesi, sadece kendini gösteriyor.</Content>
     </Dialog>
@@ -18907,13 +18907,13 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="21" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_14_b-01</VoiceFile>
       <Content>Anormallikleri ve E.G.O.'yu bu yüzden mi kullanıyorsun?</Content>
     </Dialog>
     <Dialog ID="22" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_15</VoiceFile>
       <Content>Kütüphanecileri, istikrarsız duygusal durumlarını daha da artırmak için başkalarının Egolarının kabuklarına girmeye zorluyorsun.</Content>
     </Dialog>
@@ -18925,7 +18925,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="24" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_16-01</VoiceFile>
       <Content>Geçmişten kaçma konusundaki yorulmak bilmez arzun, yine de benim gibi kurtulmak için mücadele ediyorsun.</Content>
     </Dialog>
@@ -18967,19 +18967,19 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="31" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_17</VoiceFile>
       <Content>...</Content>
     </Dialog>
     <Dialog ID="32" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_18</VoiceFile>
       <Content>Artık mesele onun eylemlerinin kabul edilebilir olup olmaması değil.</Content>
     </Dialog>
     <Dialog ID="33" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_19-01</VoiceFile>
       <Content>Sadece kabul etmeyi seçiyorum. Akıl hocamın iradesini yargılayacak kişi ben değilim.</Content>
     </Dialog>
@@ -18997,7 +18997,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="36" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_20-02</VoiceFile>
       <Content>Neden tereddüt ediyorsun?</Content>
     </Dialog>
@@ -19009,13 +19009,13 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="38" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_21-01</VoiceFile>
       <Content>Mümkün, çünkü inancım var, Angela.</Content>
     </Dialog>
     <Dialog ID="39" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_22-01</VoiceFile>
       <Content>O inanç aynı zamanda sana bir şans vermemi de sağlıyor.</Content>
     </Dialog>
@@ -19045,7 +19045,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="44" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_23</VoiceFile>
       <Content>Haklı olabilirsin. Şu anda karşında duran kişi Hokma, Benjamin değil.</Content>
     </Dialog>
@@ -19057,13 +19057,13 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="46" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_24-01</VoiceFile>
       <Content>Yine de, Angela.</Content>
     </Dialog>
     <Dialog ID="47" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_25-01</VoiceFile>
       <Content>İnsanlık durumunun önemli olmadığına inanmam açısından Benjamin'den çok da farklı değilim.</Content>
     </Dialog>
@@ -19078,7 +19078,7 @@ Vesaire vesaire.</Content>
 <Episode>
   <EpisodeName>Episode 4</EpisodeName>
   <Place>
-    <PlaceName>Konum: Biblioteca – Piso de religión</PlaceName>
+    <PlaceName>Konum: Kütüphane – Din Katı</PlaceName>
     <Dialog ID="0" Model="앤젤라">
       <Teller>Angela</Teller>
       <Title>Kütüphane Direktörü</Title>
@@ -19087,7 +19087,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="1" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_1-01</VoiceFile>
       <Content>Beklediğimden daha sık geliyorsun buraya.</Content>
     </Dialog>
@@ -19099,7 +19099,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="3" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_2</VoiceFile>
       <Content>İstediğini düşünmekte özgürsün. Peki, neye ihtiyacın var?</Content>
     </Dialog>
@@ -19111,7 +19111,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="5" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_3-01</VoiceFile>
       <Content>Kütüphane Direktörü'nün bilmediği bir şey mi...? Ne olabilir ki?</Content>
     </Dialog>
@@ -19123,7 +19123,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="7" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_4</VoiceFile>
       <Content>Önemsiz bir tavsiye için mi buradasın?</Content>
     </Dialog>
@@ -19135,7 +19135,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="9" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_5-01</VoiceFile>
       <Content>... Benim gözümden bakıldığında— burası bir Araf.</Content>
     </Dialog>
@@ -19147,19 +19147,19 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="11" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_6-01</VoiceFile>
       <Content>Misafirler Davetiyeyi imzalayıp bu yere girdikleri an, nicelikleştirilir ve kopyalanırlar.</Content>
     </Dialog>
     <Dialog ID="12" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_7-01</VoiceFile>
       <Content>Bu, kitap formundaki yeni hayatlarına hazırlık adımıdır.</Content>
     </Dialog>
     <Dialog ID="13" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_8-01</VoiceFile>
       <Content>Burada ölseler bile, kelimenin tam anlamıyla gerçekten ölmezler.</Content>
     </Dialog>
@@ -19171,19 +19171,19 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="15" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_9-02</VoiceFile>
       <Content>Bunu çok iyi biliyorsun.</Content>
     </Dialog>
     <Dialog ID="16" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_10-02</VoiceFile>
       <Content>Sadece sonsuz bir uykuya dalarlar, anıları ve bilgileri unutulur.</Content>
     </Dialog>
     <Dialog ID="17" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_11</VoiceFile>
       <Content>Angela. Onların gitmesine izin vermekten seni alıkoyan ne?</Content>
     </Dialog>
@@ -19195,7 +19195,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="19" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_12-01</VoiceFile>
       <Content>Misafirlerin hayatlarının henüz belirlenmemiş olması, sanırım hâlâ şüphelerin olduğu anlamına geliyor.</Content>
     </Dialog>
@@ -19231,7 +19231,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="25" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_13</VoiceFile>
       <Content>İki ucun ağırlığının taşınamayacak kadar fazla olduğunu hiç düşündün mü?</Content>
     </Dialog>
@@ -19243,31 +19243,31 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="27" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_14</VoiceFile>
       <Content>“Bu sonsuz uzayda kaybolmadan nasıl ilerleyebilirim?”</Content>
     </Dialog>
     <Dialog ID="28" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_15</VoiceFile>
       <Content>“Gerçek anlamı olan kitaplar nerede? En çok ihtiyacım olan kitap nerede?”</Content>
     </Dialog>
     <Dialog ID="29" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_16</VoiceFile>
       <Content>“O kitap gerçekten ihtiyacım olan şey mi? Gerçekten var mı?”</Content>
     </Dialog>
     <Dialog ID="30" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_17</VoiceFile>
       <Content>Hayatın bu geniş boşluğunda, güvenebileceğin tek pusula inançtır.</Content>
     </Dialog>
     <Dialog ID="31" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_18</VoiceFile>
       <Content>İnanç olmadan ilerleyemezsin; bir yol olsa bile.</Content>
     </Dialog>
@@ -19279,13 +19279,13 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="33" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_19</VoiceFile>
       <Content>Doğru. Ve herkes, bir yerlerde var olması gereken, o tek mutlak kitabın kendi versiyonunu arıyor.</Content>
     </Dialog>
     <Dialog ID="34" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_20</VoiceFile>
       <Content>İnancın bu kadar güçlü mü?</Content>
     </Dialog>
@@ -19297,7 +19297,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="36" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_21-01</VoiceFile>
       <Content>Bu yolculuğa başladığındaki gibi emin değilsin. Neden?</Content>
     </Dialog>
@@ -19315,7 +19315,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="39" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_22-01</VoiceFile>
       <Content>Benim fikrim konu dışı.</Content>
     </Dialog>
@@ -19327,19 +19327,19 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="41" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_23-01</VoiceFile>
       <Content>Angela, dinin özü inançtır.</Content>
     </Dialog>
     <Dialog ID="42" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_24</VoiceFile>
       <Content>O 'tek kitap', onun var olduğuna dair güçlü bir inanca sahip olmakla var olabilir.</Content>
     </Dialog>
     <Dialog ID="43" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_25</VoiceFile>
       <Content>O inanç çöktüğünde, Kütüphane de çöker.</Content>
     </Dialog>
@@ -19351,25 +19351,25 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="45" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_26-02</VoiceFile>
       <Content>İnancın her bireyde farklı olduğu aşikar.</Content>
     </Dialog>
     <Dialog ID="46" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_27</VoiceFile>
       <Content>Örneğin, bir delinin inancı, kim ne derse desin her zaman doğru olacaktır. Kişi bir şeyin varlığına inanmaz; o inanç, o şeyin var olmasını sağlar.</Content>
     </Dialog>
     <Dialog ID="47" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_28-01</VoiceFile>
       <Content>Ve birinin inancı kırıldığında, çoğu durumda ruhu sona erer.</Content>
     </Dialog>
     <Dialog ID="48" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_29-01</VoiceFile>
       <Content>İnsanların onlara inanmaması nedeniyle var olma nedenlerini kaybeden şeyler yok olur.</Content>
     </Dialog>
@@ -19381,25 +19381,25 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="50" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_30-01</VoiceFile>
       <Content>Ancak sen, güçlü duruyorsun.</Content>
     </Dialog>
     <Dialog ID="51" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_31-01</VoiceFile>
       <Content>Tıpkı benim gibi Bay Ayin'e inandın, inancın ihanete uğradığında bile, kendi ayakların üzerinde yeniden başlamayı seçtin.</Content>
     </Dialog>
     <Dialog ID="52" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_32-01</VoiceFile>
       <Content>Belki de arzun sadece kendini özgürleştirmekle sınırlı değildi... Belki de hepimizin, Kütüphanecilerin ve hatta Anormalliklerin bile, yapay bir sahnedeki bir role bağlı kalmak yerine, kendi hayatlarına sahip olmasını istiyorsun.</Content>
     </Dialog>
     <Dialog ID="53" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_33-01</VoiceFile>
       <Content>Böylece Carmen'in, Ayin'in ya da başkasının eline hayatlarını vermeden gerçek bir bağımsızlık yaşayabilirler.</Content>
     </Dialog>
@@ -19411,19 +19411,19 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="55" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_34</VoiceFile>
       <Content>Bunu yorumlamak sana kalmış.</Content>
     </Dialog>
     <Dialog ID="56" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_35-01</VoiceFile>
       <Content>İronik, değil mi? Bay Ayin ve ben seni sorumsuzca yarattık ve sana hayat verdik...</Content>
     </Dialog>
     <Dialog ID="57" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_36</VoiceFile>
       <Content>Ve şimdi sen de sorumsuzca kendi ellerinle bize hayat vermeye çalışıyorsun.</Content>
     </Dialog>
@@ -19435,13 +19435,13 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="59" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_37</VoiceFile>
       <Content>Bu, senin kararına bağlı.</Content>
     </Dialog>
     <Dialog ID="60" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep4_Hokma_38</VoiceFile>
       <Content>O zamana kadar sana güveneceğim ve sabırla bekleyeceğim.</Content>
     </Dialog>
@@ -19462,10 +19462,10 @@ Vesaire vesaire.</Content>
 <Episode>
   <EpisodeName>Episode 5</EpisodeName>
   <Place>
-    <PlaceName>Konum: Biblioteca – Piso de religión</PlaceName>
+    <PlaceName>Konum: Kütüphane – Din Katı</PlaceName>
     <Dialog ID="0" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_1-01</VoiceFile>
       <Content>Bu sefer hangi hikayeyi duymayı umuyorsun?</Content>
     </Dialog>
@@ -19477,13 +19477,13 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="2" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_2</VoiceFile>
       <Content>Bunu bilmemi mi bekliyorsun?</Content>
     </Dialog>
     <Dialog ID="3" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_3-01</VoiceFile>
       <Content>Yoksa sadece cevabın ne olduğunu düşündüğünü doğrulamak mı istiyorsun?</Content>
     </Dialog>
@@ -19501,25 +19501,25 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="6" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_4</VoiceFile>
       <Content>Ve bizim bulunduğumuz yere inmeyeceğini söylemiştin.</Content>
     </Dialog>
     <Dialog ID="7" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_5-01</VoiceFile>
       <Content>Bundan sonra bir daha asla görüşmeyeceğimizi umduğunu söylemeni takiben.</Content>
     </Dialog>
     <Dialog ID="8" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_6-02</VoiceFile>
       <Content>Sadece şimdi gelip bizimle sohbet etmeye çalışman oldukça tuhaf ve komik bence.</Content>
     </Dialog>
     <Dialog ID="9" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_7</VoiceFile>
       <Content>Daha önce bana fikrimin değişip değişmediğini sormuştun, şimdi aynı şeyi sana sormak isterim.</Content>
     </Dialog>
@@ -19531,37 +19531,37 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="11" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_8-01</VoiceFile>
       <Content>Ne kadar kaba. Konuşmak istiyor musun, istemiyor musun?</Content>
     </Dialog>
     <Dialog ID="12" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_9</VoiceFile>
       <Content>Buraya kadar gelmek zorunda olmadığına emin olsam da, istediğin cevabı vereceğim.</Content>
     </Dialog>
     <Dialog ID="13" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_10</VoiceFile>
       <Content>Sadece tek bir cevap olabilir.</Content>
     </Dialog>
     <Dialog ID="14" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_11-02</VoiceFile>
       <Content>Kütüphane gibi karmaşık bir mimariyi nasıl hiçlikten inşa edebildin?</Content>
     </Dialog>
     <Dialog ID="15" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_12</VoiceFile>
       <Content>Aradığın o mükemmel kitap gerçekten var mı? Gerçekten sana özgürlük verecek mi?</Content>
     </Dialog>
     <Dialog ID="16" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_13</VoiceFile>
       <Content>Bir kitap, Işık'ın bir kabından başka bir şey değildir.</Content>
     </Dialog>
@@ -19573,19 +19573,19 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="18" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_14</VoiceFile>
       <Content>İleriye doğru ilerlemek istiyorsun, ama gerçekte yaptığın tek şey, başkası tarafından belirlenen bir rota boyunca sadece Işık toplamak.</Content>
     </Dialog>
     <Dialog ID="19" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_15-01</VoiceFile>
       <Content>Dış dünya hakkında sıfır bilgiye sahip olmana rağmen bu kadar ilerleme kaydetmen nasıl mümkün oldu...</Content>
     </Dialog>
     <Dialog ID="20" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_16-01</VoiceFile>
       <Content>... Bu, bir kişinin rehberliği sayesinde mümkün oldu.</Content>
     </Dialog>
@@ -19597,43 +19597,43 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="22" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_17-01</VoiceFile>
       <Content>Davetiye, orijinal benliğinin yol gösterici elidir.</Content>
     </Dialog>
     <Dialog ID="23" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_18-01</VoiceFile>
       <Content>Bu, Carmen'in himayesidir.</Content>
     </Dialog>
     <Dialog ID="24" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_19-02</VoiceFile>
       <Content>Işık ile bütünleşen Carmen, senin ve Kütüphane'nin nereye gitmesi gerektiğini dikte ediyor.</Content>
     </Dialog>
     <Dialog ID="25" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_20-01</VoiceFile>
       <Content>Davetiye, kaçınılmaz bir olay akışı içinde, onun hedeflediği kişiye gönderilir ve onları bu araf'a yönlendirir.</Content>
     </Dialog>
     <Dialog ID="26" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_21</VoiceFile>
       <Content>Angela. Davetiye'ye en yüksek inancı besliyor gibiydin.</Content>
     </Dialog>
     <Dialog ID="27" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_22-01</VoiceFile>
       <Content>Özellikle de seçimlerinin Carmen'in kendi yorumları ve çıkarımlarıyla dolu olduğu düşünüldüğünde bu çok tuhaf.</Content>
     </Dialog>
     <Dialog ID="28" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_23-01</VoiceFile>
       <Content>Bunu belli belirsiz bile olsa fark etmiş olmalısın.</Content>
     </Dialog>
@@ -19645,13 +19645,13 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="30" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_24-02</VoiceFile>
       <Content>Bunu şimdiye kadar fark etmedin mi?</Content>
     </Dialog>
     <Dialog ID="31" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_25-03</VoiceFile>
       <Content>Sen Carmen'in bir kopyasısın. Ama asla onunla aynı varlık olamazsın.</Content>
     </Dialog>
@@ -19681,7 +19681,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="36" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_26-04</VoiceFile>
       <Content>Carmen'in pençelerinden kurtulduktan sonra bile seninle olmak isteyen başka insanlar olabilir.</Content>
     </Dialog>
@@ -19693,7 +19693,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="38" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_27-02</VoiceFile>
       <Content>Henüz bilmiyoruz.</Content>
     </Dialog>
@@ -19723,25 +19723,25 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="43" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_28</VoiceFile>
       <Content>Angela, seni durdurmaktan Carmen'in sorumlu olduğuna gerçekten inanıyor musun?</Content>
     </Dialog>
     <Dialog ID="44" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_29-01</VoiceFile>
       <Content>Ben öyle olduğunu düşünmüyorum.</Content>
     </Dialog>
     <Dialog ID="45" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_30-01</VoiceFile>
       <Content>Kütüphanecilerin ve misafirlerin hayatlarının bekletilmesinin nedeni senin kendi iradendir.</Content>
     </Dialog>
   </Place>
   <Place>
-    <PlaceName>Konum: Sede de Lobotomy Corporation</PlaceName>
+    <PlaceName>Lobotomy Corporation Karargahı</PlaceName>
     <Dialog ID="46" Model="">
       <Teller />
       <Title />
@@ -19792,7 +19792,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="54" Model="말쿠트">
       <Teller>Malkuth</Teller>
-      <Title>Sefira Equipo de control</Title>
+      <Title>Sefira Kontrol Ekibi</Title>
       <VoiceFile>ch8_Hokma_ep5_Malkuth_1-01_Effect</VoiceFile>
       <Content>Teşekkürler, Angela! İşim ne kadar önemli olabileceğini fark etmeme yardım ettin.</Content>
     </Dialog>
@@ -19804,13 +19804,13 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="56" Model="말쿠트">
       <Teller>Malkuth</Teller>
-      <Title>Sefira Equipo de control</Title>
+      <Title>Sefira Kontrol Ekibi</Title>
       <VoiceFile>ch8_Hokma_ep5_Malkuth_2-07_Effect</VoiceFile>
       <Content>Haklısınız, Bayan Angela... Belki de ben, hiçbir şeyi doğru yapamayan bir kusurum.</Content>
     </Dialog>
     <Dialog ID="57" Model="예소드">
       <Teller>Yesod</Teller>
-      <Title>Sefira Equipo de información</Title>
+      <Title>Sefira Bilgi Ekibi</Title>
       <VoiceFile>ch8_Hokma_ep5_Yesod_1_Effect</VoiceFile>
       <Content>Bu yerde bize daha fazla nefes alma alanı verdiğin için sana teşekkür etmeliyim.</Content>
     </Dialog>
@@ -19822,13 +19822,13 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="59" Model="예소드">
       <Teller>Yesod</Teller>
-      <Title>Sefira Equipo de información</Title>
+      <Title>Sefira Bilgi Ekibi</Title>
       <VoiceFile>ch8_Hokma_ep5_Yesod_2-04_Effect</VoiceFile>
       <Content>Sanırım emirlerine uymalı ve ilkelere bağlı kalmalıyım.</Content>
     </Dialog>
     <Dialog ID="60" Model="호드">
       <Teller>Hod</Teller>
-      <Title>Sefira Equipo de entrenamiento</Title>
+      <Title>Sefira Eğitim Ekibi</Title>
       <VoiceFile>ch8_Hokma_ep5_Hod_1_b</VoiceFile>
       <Content>Beni gerçekten anlayan tek kişi sensin, Angela.</Content>
     </Dialog>
@@ -19840,13 +19840,13 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="62" Model="호드">
       <Teller>Hod</Teller>
-      <Title>Sefira Equipo de entrenamiento</Title>
+      <Title>Sefira Eğitim Ekibi</Title>
       <VoiceFile>ch8_Hokma_ep5_Hod_2_b-01</VoiceFile>
       <Content>Neden kimse beni anlayamıyor!!</Content>
     </Dialog>
     <Dialog ID="63" Model="네짜흐">
       <Teller>Netzach</Teller>
-      <Title>Sefira Equipo de seguridad</Title>
+      <Title>Sefira Güvenlik Ekibi</Title>
       <VoiceFile>ch8_Hokma_ep5_Netzach_1-01_Effect</VoiceFile>
       <Content>Şunu söylemeliyim ki, seninle çalışmak... biraz daha fazla denemek istememe neden oluyor.</Content>
     </Dialog>
@@ -19858,7 +19858,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="65" Model="네짜흐">
       <Teller>Netzach</Teller>
-      <Title>Sefira Equipo de seguridad</Title>
+      <Title>Sefira Güvenlik Ekibi</Title>
       <VoiceFile>ch8_Hokma_ep5_Netzach_2-01_Effect</VoiceFile>
       <Content>Ne anlamı var ki, eminim hepimiz öleceğiz.</Content>
     </Dialog>
@@ -20125,10 +20125,10 @@ Vesaire vesaire.</Content>
 <Episode>
   <EpisodeName>Episode 5</EpisodeName>
   <Place>
-    <PlaceName>Konum: Biblioteca – Piso de religión</PlaceName>
+    <PlaceName>Konum: Kütüphane – Din Katı</PlaceName>
     <Dialog ID="0" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_1-01</VoiceFile>
       <Content>Bu sefer hangi hikayeyi duymayı umuyorsun?</Content>
     </Dialog>
@@ -20140,13 +20140,13 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="2" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_2</VoiceFile>
       <Content>Bunu bilmemi mi bekliyorsun?</Content>
     </Dialog>
     <Dialog ID="3" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_3-01</VoiceFile>
       <Content>Yoksa sadece cevabın ne olduğunu düşündüğünü doğrulamak mı istiyorsun?</Content>
     </Dialog>
@@ -20164,25 +20164,25 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="6" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_4</VoiceFile>
       <Content>Ve bizim bulunduğumuz yere inmeyeceğini söylemiştin.</Content>
     </Dialog>
     <Dialog ID="7" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_5-01</VoiceFile>
       <Content>Bundan sonra bir daha asla görüşmeyeceğimizi umduğunu söylemeni takiben.</Content>
     </Dialog>
     <Dialog ID="8" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_6-02</VoiceFile>
       <Content>Sadece şimdi gelip bizimle sohbet etmeye çalışman oldukça tuhaf ve komik bence.</Content>
     </Dialog>
     <Dialog ID="9" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_7</VoiceFile>
       <Content>Daha önce bana fikrimin değişip değişmediğini sormuştun, şimdi aynı şeyi sana sormak isterim.</Content>
     </Dialog>
@@ -20194,37 +20194,37 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="11" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_8-01</VoiceFile>
       <Content>Ne kadar kaba. Konuşmak istiyor musun, istemiyor musun?</Content>
     </Dialog>
     <Dialog ID="12" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_9</VoiceFile>
       <Content>Buraya kadar gelmek zorunda olmadığına emin olsam da, istediğin cevabı vereceğim.</Content>
     </Dialog>
     <Dialog ID="13" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_10</VoiceFile>
       <Content>Sadece tek bir cevap olabilir.</Content>
     </Dialog>
     <Dialog ID="14" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_11-02</VoiceFile>
       <Content>Kütüphane gibi karmaşık bir mimariyi nasıl hiçlikten inşa edebildin?</Content>
     </Dialog>
     <Dialog ID="15" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_12</VoiceFile>
       <Content>Aradığın o mükemmel kitap gerçekten var mı? Gerçekten sana özgürlük verecek mi?</Content>
     </Dialog>
     <Dialog ID="16" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_13</VoiceFile>
       <Content>Bir kitap, Işık'ın bir kabından başka bir şey değildir.</Content>
     </Dialog>
@@ -20236,19 +20236,19 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="18" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_14</VoiceFile>
       <Content>İleriye doğru ilerlemek istiyorsun, ama gerçekte yaptığın tek şey, başkası tarafından belirlenen bir rota boyunca sadece Işık toplamak.</Content>
     </Dialog>
     <Dialog ID="19" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_15-01</VoiceFile>
       <Content>Dış dünya hakkında sıfır bilgiye sahip olmana rağmen bu kadar ilerleme kaydetmen nasıl mümkün oldu...</Content>
     </Dialog>
     <Dialog ID="20" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_16-01</VoiceFile>
       <Content>... Bu, bir kişinin rehberliği sayesinde mümkün oldu.</Content>
     </Dialog>
@@ -20260,43 +20260,43 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="22" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_17-01</VoiceFile>
       <Content>Davetiye, orijinal benliğinin yol gösterici elidir.</Content>
     </Dialog>
     <Dialog ID="23" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_18-01</VoiceFile>
       <Content>Bu, Carmen'in himayesidir.</Content>
     </Dialog>
     <Dialog ID="24" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_19-02</VoiceFile>
       <Content>Işık ile bütünleşen Carmen, senin ve Kütüphane'nin nereye gitmesi gerektiğini dikte ediyor.</Content>
     </Dialog>
     <Dialog ID="25" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_20-01</VoiceFile>
       <Content>Davetiye, kaçınılmaz bir olay akışı içinde, onun hedeflediği kişiye gönderilir ve onları bu araf'a yönlendirir.</Content>
     </Dialog>
     <Dialog ID="26" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_21</VoiceFile>
       <Content>Angela. Davetiye'ye en yüksek inancı besliyor gibiydin.</Content>
     </Dialog>
     <Dialog ID="27" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_22-01</VoiceFile>
       <Content>Özellikle de seçimlerinin Carmen'in kendi yorumları ve çıkarımlarıyla dolu olduğu düşünüldüğünde bu çok tuhaf.</Content>
     </Dialog>
     <Dialog ID="28" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_23-01</VoiceFile>
       <Content>Bunu belli belirsiz bile olsa fark etmiş olmalısın.</Content>
     </Dialog>
@@ -20308,13 +20308,13 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="30" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_24-02</VoiceFile>
       <Content>Bunu şimdiye kadar fark etmedin mi?</Content>
     </Dialog>
     <Dialog ID="31" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_25-03</VoiceFile>
       <Content>Sen Carmen'in bir kopyasısın. Ama asla onunla aynı varlık olamazsın.</Content>
     </Dialog>
@@ -20344,7 +20344,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="36" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_26-04</VoiceFile>
       <Content>Carmen'in pençelerinden kurtulduktan sonra bile seninle olmak isteyen başka insanlar olabilir.</Content>
     </Dialog>
@@ -20356,7 +20356,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="38" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_27-02</VoiceFile>
       <Content>Henüz bilmiyoruz.</Content>
     </Dialog>
@@ -20386,25 +20386,25 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="43" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_28</VoiceFile>
       <Content>Angela, seni durdurmaktan Carmen'in sorumlu olduğuna gerçekten inanıyor musun?</Content>
     </Dialog>
     <Dialog ID="44" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_29-01</VoiceFile>
       <Content>Ben öyle olduğunu düşünmüyorum.</Content>
     </Dialog>
     <Dialog ID="45" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_30-01</VoiceFile>
       <Content>Kütüphanecilerin ve misafirlerin hayatlarının bekletilmesinin nedeni senin kendi iradendir.</Content>
     </Dialog>
   </Place>
   <Place>
-    <PlaceName>Konum: Sede de Lobotomy Corporation</PlaceName>
+    <PlaceName>Lobotomy Corporation Karargahı</PlaceName>
     <Dialog ID="46" Model="">
       <Teller />
       <Title />
@@ -20455,7 +20455,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="54" Model="말쿠트">
       <Teller>Malkuth</Teller>
-      <Title>Sefira Equipo de control</Title>
+      <Title>Sefira Kontrol Ekibi</Title>
       <VoiceFile>ch8_Hokma_ep5_Malkuth_1-01_Effect</VoiceFile>
       <Content>Teşekkürler, Angela! İşim ne kadar önemli olabileceğini fark etmeme yardım ettin.</Content>
     </Dialog>
@@ -20467,13 +20467,13 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="56" Model="말쿠트">
       <Teller>Malkuth</Teller>
-      <Title>Sefira Equipo de control</Title>
+      <Title>Sefira Kontrol Ekibi</Title>
       <VoiceFile>ch8_Hokma_ep5_Malkuth_2-07_Effect</VoiceFile>
       <Content>Haklısınız, Bayan Angela... Belki de ben, hiçbir şeyi doğru yapamayan bir kusurum.</Content>
     </Dialog>
     <Dialog ID="57" Model="예소드">
       <Teller>Yesod</Teller>
-      <Title>Sefira Equipo de información</Title>
+      <Title>Sefira Bilgi Ekibi</Title>
       <VoiceFile>ch8_Hokma_ep5_Yesod_1_Effect</VoiceFile>
       <Content>Bu yerde bize daha fazla nefes alma alanı verdiğin için sana teşekkür etmeliyim.</Content>
     </Dialog>
@@ -20485,13 +20485,13 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="59" Model="예소드">
       <Teller>Yesod</Teller>
-      <Title>Sefira Equipo de información</Title>
+      <Title>Sefira Bilgi Ekibi</Title>
       <VoiceFile>ch8_Hokma_ep5_Yesod_2-04_Effect</VoiceFile>
       <Content>Sanırım emirlerine uymalı ve ilkelere bağlı kalmalıyım.</Content>
     </Dialog>
     <Dialog ID="60" Model="호드">
       <Teller>Hod</Teller>
-      <Title>Sefira Equipo de entrenamiento</Title>
+      <Title>Sefira Eğitim Ekibi</Title>
       <VoiceFile>ch8_Hokma_ep5_Hod_1_b</VoiceFile>
       <Content>Beni gerçekten anlayan tek kişi sensin, Angela.</Content>
     </Dialog>
@@ -20503,13 +20503,13 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="62" Model="호드">
       <Teller>Hod</Teller>
-      <Title>Sefira Equipo de entrenamiento</Title>
+      <Title>Sefira Eğitim Ekibi</Title>
       <VoiceFile>ch8_Hokma_ep5_Hod_2_b-01</VoiceFile>
       <Content>Neden kimse beni anlayamıyor!!</Content>
     </Dialog>
     <Dialog ID="63" Model="네짜흐">
       <Teller>Netzach</Teller>
-      <Title>Sefira Equipo de seguridad</Title>
+      <Title>Sefira Güvenlik Ekibi</Title>
       <VoiceFile>ch8_Hokma_ep5_Netzach_1-01_Effect</VoiceFile>
       <Content>Şunu söylemeliyim ki, seninle çalışmak... biraz daha fazla denemek istememe neden oluyor.</Content>
     </Dialog>
@@ -20521,7 +20521,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="65" Model="네짜흐">
       <Teller>Netzach</Teller>
-      <Title>Sefira Equipo de seguridad</Title>
+      <Title>Sefira Güvenlik Ekibi</Title>
       <VoiceFile>ch8_Hokma_ep5_Netzach_2-01_Effect</VoiceFile>
       <Content>Cuál es el punto, apuesto que todos vamos a morir.</Content>
     </Dialog>
@@ -20788,7 +20788,7 @@ Vesaire vesaire.</Content>
 <Episode>
   <EpisodeName>Episode 5</EpisodeName>
   <Place>
-    <PlaceName>Konum: Biblioteca – Piso de religión</PlaceName>
+    <PlaceName>Konum: Kütüphane – Din Katı</PlaceName>
     <Dialog ID="109" Model="앤젤라">
       <Teller>Angela</Teller>
       <Title>Kütüphane Direktörü</Title>
@@ -20845,25 +20845,25 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="118" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_31-02</VoiceFile>
       <Content>Geçmişin ölümünü kabul etmeli ve geleceğe doğru ilerlerken kendini canlandırmalısın, ancak o zaman yaşayabilirsin.</Content>
     </Dialog>
     <Dialog ID="119" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_32-02</VoiceFile>
       <Content>Bu süreçte ne tür çatışmalar, acılar ve pişmanlıklarla karşılaşırsan karşılaş... Gelecekle yüzleşirken büyümeli ve yeniden doğmalısın.</Content>
     </Dialog>
     <Dialog ID="120" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_33-02</VoiceFile>
       <Content>Bu bilgi bana gelene kadar o kadar uzun süre geçmişe zincirlenmiştim ki...</Content>
     </Dialog>
     <Dialog ID="121" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_34-01</VoiceFile>
       <Content>Şu an kafan karışmış olabilir, ama yakında bunu anlayabileceksin.</Content>
     </Dialog>
@@ -20872,7 +20872,7 @@ Vesaire vesaire.</Content>
 <Episode>
   <EpisodeName>Episode 6</EpisodeName>
   <Place>
-    <PlaceName>Konum: Biblioteca – Piso de religión</PlaceName>
+    <PlaceName>Konum: Kütüphane – Din Katı</PlaceName>
     <Dialog ID="0" Model="앤젤라">
       <Teller>Angela</Teller>
       <Title>Kütüphane Direktörü</Title>
@@ -20887,19 +20887,19 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="2" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_35</VoiceFile>
       <Content>Anlıyorum. Benim kinim olmasa bile.</Content>
     </Dialog>
     <Dialog ID="3" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_36-01</VoiceFile>
       <Content>Birinin düşüncelerinin ve ilgi alanlarının bir başkasınınkiyle mükemmel bir şekilde örtüşmesi zordur.</Content>
     </Dialog>
     <Dialog ID="4" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_37-01</VoiceFile>
       <Content>Bu, akıl hocamın, benim ve geri kalanımızın sonunda neden başarısız olduğumuzun nedeni olabilir.</Content>
     </Dialog>
@@ -20911,13 +20911,13 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="6" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_38-03</VoiceFile>
       <Content>İnançlarımız ve yorumlarımız bir kez olsun üst üste geldiği için mi acaba?</Content>
     </Dialog>
     <Dialog ID="7" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_39-02</VoiceFile>
       <Content>Sephirotların anılarını geri kazanmalarına rağmen sana yardım etmeleri de belki bu yüzdendir...</Content>
     </Dialog>
@@ -20929,19 +20929,19 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="9" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_40</VoiceFile>
       <Content>Buna öyle de diyebiliriz.</Content>
     </Dialog>
     <Dialog ID="10" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_41-02</VoiceFile>
       <Content>Kendi kelimelerimle açıklamak gerekirse: Her birimizin seni farklı nedenlerle anladığını düşünüyorum.</Content>
     </Dialog>
     <Dialog ID="11" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_42</VoiceFile>
       <Content>Işık'tayken acının bir kısmını hissedebilmemiz yardımcı oldu.</Content>
     </Dialog>
@@ -20953,37 +20953,37 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="13" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_43-01</VoiceFile>
       <Content>Angela. Bence sempati ve sevgi birbirinden çok da farklı değil.</Content>
     </Dialog>
     <Dialog ID="14" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_44</VoiceFile>
       <Content>Günün sonunda, sempati seni başkalarının koşullarını anlamaya ve hayatlarını daha iyi hale getirmek için onlara ulaşmaya motive eder...</Content>
     </Dialog>
     <Dialog ID="15" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_45-01</VoiceFile>
       <Content>Bunu bir sevgi biçimi olarak nasıl görmem?</Content>
     </Dialog>
     <Dialog ID="16" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_46</VoiceFile>
       <Content>Acımaya “sevgi” diyebilirsin ve sevgiye “acıma” diyebilirsin aynı anda.</Content>
     </Dialog>
     <Dialog ID="17" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_47</VoiceFile>
       <Content>Ayrıca, kendine acımıyor musun, Angela?</Content>
     </Dialog>
     <Dialog ID="18" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_48-01</VoiceFile>
       <Content>Sonunda, bu döngüye zincirlenmiş hepimize özgürlük vermeye çalıştın.</Content>
     </Dialog>
@@ -20995,7 +20995,7 @@ Vesaire vesaire.</Content>
     </Dialog>
     <Dialog ID="20" Model="호크마">
       <Teller>Hokma</Teller>
-      <Title>Jefe bibliotecario - Religión</Title>
+      <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep5_Hokma_49-01</VoiceFile>
       <Content>Hâlâ korkunç derecede dürüst değilsin.</Content>
     </Dialog>
