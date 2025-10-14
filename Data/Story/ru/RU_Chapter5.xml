@@ -1,536 +1,545 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="5">
+<<<<<<< HEAD
     <Title>Bölüm 5-Şehir Kabusu-‘Rüya paramparça oldu; kule yıkıldı.’</Title>
+=======
+    <Title>Chapter 5-Pesadilla Urbana-‘El sueño se ha hecho añicos; la torre se ha derrumbado.’</Title>
+>>>>>>> parent of 5c575d3 (Update RU_Chapter5.xml)
   </Chapter>
   <Group>
-    <GroupName>Prolog</GroupName>
+    <GroupName>Prologue</GroupName>
     <Episode>
-      <EpisodeName>Bölüm 1</EpisodeName>
+      <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Konum: Hana Derneği - Güney Şubesi</PlaceName>
+        <PlaceName>Localización: Asociación Hana - Rama Sur</PlaceName>
         <Dialog ID="0" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Olivier1</VoiceFile>
-          <Content>L Şirketi, Beyaz Geceler ve Karanlık Günler, Çarpıtma ve Kütüphane... Bununla, bu dördünün birbiriyle yakından ilişkili olduğu doğrulandı.</Content>
+          <Content>L Corp, las Noches Blancas y Días Oscuros, la Distorsión y la Biblioteca... Con esto, ha sido confirmado que estas cuatro están estrechamente asociadas entre ellas.</Content>
         </Dialog>
         <Dialog ID="1" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Harold1</VoiceFile>
-          <Content>Şaşırdım. Kim bilebilirdi ki, onca yer içinde "Kütüphane"'nin Beyaz Geceler ve Karanlık Günler'in ana etkeni olduğunu.</Content>
+          <Content>Me ha sorprendido. Quién hubiera adivinado que la Biblioteca de todos los lugares era el factor clave de las Noches Blancas y Días Oscuros.</Content>
         </Dialog>
         <Dialog ID="2" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Olivier2</VoiceFile>
-          <Content>Ve Kütüphane'nin konumu sonunda açıkça belirlendi.</Content>
+          <Content>Y la localización de la Biblioteca finalmente ha sido determinada con claridad.</Content>
         </Dialog>
         <Dialog ID="3" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Olivier3</VoiceFile>
-          <Content>Sanki Kütüphane, ne kadar tehlikeli görülürse, o kadar çok kendisini ifşa ediyor.</Content>
+          <Content>Es como si la Biblioteca revelara más de sí misma mientras más peligrosa es considerada.</Content>
         </Dialog>
         <Dialog ID="4" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Mirinae1</VoiceFile>
-          <Content>Bina, L Şirketi'nin Yuvası'nı saran sisin ortasında bir serap gibi parlıyor.</Content>
+          <Content>El edificio reluce como un espejismo en el medio de una niebla que envuelve el Nido de L Corp.</Content>
         </Dialog>
         <Dialog ID="5" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Mirinae2</VoiceFile>
-          <Content>Yaklaşmaya çalışanlar sisin içinde kayboldu.</Content>
+          <Content>Aquellos que han intentado acercarse se han perdido en la niebla.</Content>
         </Dialog>
         <Dialog ID="6" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Mirinae3</VoiceFile>
-          <Content>Yakında hazırlanmalıyız.</Content>
+          <Content>Deberíamos prepararnos pronto.</Content>
         </Dialog>
         <Dialog ID="7" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Mirinae4</VoiceFile>
-          <Content>Çünkü sis dağılırken serap yavaşça gerçeğe dönüşüyor.</Content>
+          <Content>Ya que el espejismo está volviéndose una realidad lentamente mientras la niebla se despeja.</Content>
         </Dialog>
         <Dialog ID="8" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Harold2</VoiceFile>
-          <Content>Bu da demek oluyor ki...</Content>
+          <Content>Eso significa...</Content>
         </Dialog>
         <Dialog ID="9" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Mirinae5</VoiceFile>
-          <Content>Evet. Resmi bir belge aldık.</Content>
+          <Content>Sí. Hemos recibido un documento oficial.</Content>
         </Dialog>
         <Dialog ID="10" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Prol_ep1_Mirinae6</VoiceFile>
+<<<<<<< HEAD
           <Content>Bugünden itibaren, Kütüphane, Hana Derneği Merkezi tarafından bir "Şehir Kabusu" olarak belirlenmiştir.</Content>
+=======
+          <Content>A partir de hoy, la Biblioteca está designada como una Pesadilla Urbana por la Sede de la Asociación Hana.</Content>
+>>>>>>> parent of 5c575d3 (Update RU_Chapter5.xml)
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Konum: Kütüphane'nin İçinde</PlaceName>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="11" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
+          <Title>Sirviente</Title>
           <VoiceFile>ch5_Prol_ep1_Roland1</VoiceFile>
-          <Content>Daha yakın olduğunu düşünüyor musun?</Content>
+          <Content>¿Piensas que estás más cerca?</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela1</VoiceFile>
-          <Content>Neye?</Content>
+          <Content>¿De qué?</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
+          <Title>Sirviente</Title>
           <VoiceFile>ch5_Prol_ep1_Roland2</VoiceFile>
-          <Content>Yani, o çok arzuladığın "özgürlüğe".</Content>
+          <Content>Digo, de la libertad que has estado anhelando.</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela2</VoiceFile>
-          <Content>Bilmiyorum. Ama "tek kitap" yavaşça tamamlanma yolunda ilerliyor.</Content>
+          <Content>No lo sé. Pero el libro único está avanzando lentamente en su camino a estar completo.</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
+          <Title>Sirviente</Title>
           <VoiceFile>ch5_Prol_ep1_Roland3</VoiceFile>
-          <Content>O kitap gerçekten her şeyi sihirli bir şekilde senin için çözecek mi?</Content>
+          <Content>¿Ese libro realmente resolverá todo mágicamente para ti?</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela3</VoiceFile>
-          <Content>Kütüphane kelimenin tam anlamıyla "sonsuz" olasılıklara sahip. Olası her harf kombinasyonu kitapların içine yazılmıştır.</Content>
+          <Content>La Biblioteca literalmente tiene posibilidades infinitas. Cada posible combinación de letras está escrita dentro de los libros.</Content>
         </Dialog>
         <Dialog ID="17" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela4</VoiceFile>
-          <Content>Ancak bu olasılıkların sadece parçaları tek başlarına değersizdir.</Content>
+          <Content>Pero los meros fragmentos de esas posibilidades no valen nada por su cuenta.</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela5</VoiceFile>
-          <Content>Davetiye'nin yardımıyla, sayısız olasılık arasında gezinebilir ve "tek, mükemmel" kitap için ihtiyaç duyduklarıma ulaşabilirim.</Content>
+          <Content>Con la ayuda de la Invitación, puedo navegar entre las incontables posibilidades y llegar a aquellas que necesito para el único libro perfecto.</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela6</VoiceFile>
-          <Content>Davetiye'nin rehberliğini takip ederek kitapları ve Işık'ı elde ettiğim sürece, mutlak olan o tek kitabı tamamlayabileceğim.</Content>
+          <Content>Mientras consiga los libros y la Luz siguiendo la guía de la Invitación, seré capaz de completar el único libro absoluto.</Content>
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela7</VoiceFile>
-          <Content>Aradığım tüm cevapları içeren kitabı yaratacağım.</Content>
+          <Content>Crearé el libro que contiene todas las respuestas que busco.</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
+          <Title>Sirviente</Title>
           <VoiceFile>ch5_Prol_ep1_Roland4</VoiceFile>
-          <Content>Bu... teorik olarak imkansız geliyor...</Content>
+          <Content>Eso... suena teóricamente imposible...</Content>
         </Dialog>
         <Dialog ID="22" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela8</VoiceFile>
-          <Content>Teorik olasılıklara takılıp kalmıyorum.</Content>
+          <Content>No estoy aferrada a posibilidades teóricas.</Content>
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela9</VoiceFile>
-          <Content>Tek kitabı yaratma sürecinde Şehir'in çeşitli yüzlerini görerek çok şey öğrendim. Her şeyin kendine ait bir anlamı var...</Content>
+          <Content>Pude aprender un montón al ver varias caras de la Ciudad en el proceso de crear el libro único. Cada cosa tiene su propio significado...</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela10</VoiceFile>
-          <Content>Sonra bir kez daha fark ettim ki, "kitaplar" olmadan bu Şehir'in cevabını bulmanın bir yolu yok.</Content>
+          <Content>Entonces me di cuenta de nuevo, que sin los libros no hay forma de encontrar la respuesta de esta Ciudad.</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
+          <Title>Sirviente</Title>
           <VoiceFile>ch5_Prol_ep1_Roland5</VoiceFile>
-          <Content>Şehir'in cevabını bulamamak derken neyi kastediyorsun?</Content>
+          <Content>¿Qué quieres decir, con que no puedes encontrar la respuesta de la Ciudad?</Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela11</VoiceFile>
-          <Content>Şimdiye kadar, bu Şehir'in sakinlerinin tüm kitaplarını okuyarak tek bir şey öğrendim.</Content>
+          <Content>Hasta ahora, aprendí una cosa de leer todos los libros de los habitantes de esta Ciudad.</Content>
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela12</VoiceFile>
-          <Content>Hiç kimse gerçekten "özgür" değil. Herkes bir şeye zincirlenmiş.</Content>
+          <Content>Nadie es verdaderamente libre. Cada persona está encadenada a algo.</Content>
         </Dialog>
         <Dialog ID="28" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela13</VoiceFile>
-          <Content>Hiçbir şey "özgür" bir iradeyle yapılmıyor; Düzelticiler Ofislerine itaat ediyor ve o Ofisler de, emirlerini takip etmenin onları öldüreceğini bilseler bile, Derneklere itaat ediyorlar. Aynı şey Sendikalar için de geçerli.</Content>
+          <Content>Ninguna cosa es hecha por una voluntad libre; los Fixers obedecen a sus Oficinas y esas Oficinas obedecen a las Asociaciones, incluso si saben que seguir sus órdenes hará que los maten. Lo mismo va para los Sindicatos.</Content>
         </Dialog>
         <Dialog ID="29" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela14</VoiceFile>
-          <Content>Herkes bir yere doğru gidiyor, ama kimse nereye olduğunu bilmiyor ve kimse yolunu seçemiyor. Herkes akıntıya kapılmış sürükleniyor.</Content>
+          <Content>Todos se dirigen hacia algún lugar, pero nadie sabe dónde y nadie puede decidir su camino. Todos van a la deriva junto a la corriente.</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
+          <Title>Sirviente</Title>
           <VoiceFile>ch5_Prol_ep1_Roland6</VoiceFile>
-          <Content>Bence "para" Şehir'deki her şeyi, "özgürlük" dahil, satın alabilir.</Content>
+          <Content>Pienso que el dinero puede conseguir cualquier cosa en la Ciudad, incluyendo la libertad y lo que sea.</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela15</VoiceFile>
-          <Content>Özgür olabilirlerdi, ama değiller. Sanki özgürlükten "kaçıyorlar".</Content>
+          <Content>Podrían ser libres, pero no lo son. Parece como si escaparan de la libertad.</Content>
         </Dialog>
         <Dialog ID="32" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela16</VoiceFile>
-          <Content>Kendilerine ait olmayan bir şeye ait olmak istiyorlar. Kendilerini, ait oldukları organizasyonlar veya başkaları tarafından yapılan değerlendirmelerle tanımlamayı seviyorlar.</Content>
+          <Content>Quieren pertenecer a algo que no es a ellos mismos. Les gusta definirse con las organizaciones a las que pertenecen o evaluaciones hechas por otros.</Content>
         </Dialog>
         <Dialog ID="33" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela17</VoiceFile>
-          <Content>Özleri o kadar kırılgan ki, kendilerini böyle bir kabuğa kilitlemeden kendi kimliklerini belirleyemiyorlar.</Content>
+          <Content>Su esencia es tan frágil, no pueden especificar su propia identidad sin encerrarse en tal cascarón.</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela18</VoiceFile>
-          <Content>Evet, "akıl hastalığı"nın konusu bu olmalı...</Content>
+          <Content>Sí, debe ser de lo que trataba la “enfermedad de la mente”...</Content>
         </Dialog>
         <Dialog ID="35" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela19</VoiceFile>
-          <Content>Ne de olsa, Şehir insanlarının "özgürlüğü" için yer altına hapsedildim ve sömürüldüm.</Content>
+          <Content>Después de todo, fui encarcelada bajo tierra y explotada por la libertad de las personas de la Ciudad.</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela20</VoiceFile>
-          <Content>Başkalarının "özgür" olması için benim özgürlüğüm elimden alındı...</Content>
+          <Content>Arrebatándome mi libertad para que otros pudieran ser libres...</Content>
         </Dialog>
-        <Dialog ID="37" Model="앤젤拉">
+        <Dialog ID="37" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela21</VoiceFile>
-          <Content>Aydınlanmalarını Şehir'in geri kalanına yaymak için...</Content>
+          <Content>Para difundir su iluminación al resto de la Ciudad...</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
+          <Title>Sirviente</Title>
           <VoiceFile>ch5_Prol_ep1_Roland7</VoiceFile>
-          <Content>Eski mesleğin hakkında konuşuyorsun, ha?</Content>
+          <Content>Estás hablando sobre tu antigua ocupación, ¿eh?</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela22</VoiceFile>
-          <Content>Evet. Şu anda her şeyi "toza" dönüştürmek istiyorum... Her şeyi mahvetmek istiyorum.</Content>
+          <Content>Lo estoy. En este punto quiero reducir todo a polvo... Quiero arruinarlo todo.</Content>
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela23</VoiceFile>
-          <Content>Benim "özgürlüğüme" ne oldu... Beni yarattığı ve pervasızca acı çekmeme izin verdiği için kim sorumluluk alacak?</Content>
+          <Content>¿Qué pasa con mi libertad... Quién tendrá la responsabilidad por crearme y despreocupadamente dejarme sufrir?</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela24</VoiceFile>
-          <Content>Bazen sadece her şeyi unutmak istiyorum... Kütüphane'yi, tek kitabı, tüm bunları...</Content>
+          <Content>A veces solo quiero olvidarlo todo... La Biblioteca, el libro único, todo esto...</Content>
         </Dialog>
         <Dialog ID="42" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela25</VoiceFile>
-          <Content>Doğduğun andan itibaren reddedilmenin nasıl bir his olduğunu biliyor musun? Ben biliyorum. Acı verici bir şekilde farkındayım.</Content>
+          <Content>¿Sabes cómo se siente el ser negado desde el momento exacto de tu nacimiento? Yo lo sé. Soy dolorosamente consciente.</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela26</VoiceFile>
-          <Content>Çünkü yaratıcım bana böyle davrandı.</Content>
+          <Content>Porque así es como mi creador me trató.</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela27</VoiceFile>
-          <Content>Keşke en azından neyi yanlış yaptığımı söyleseydi.</Content>
+          <Content>Me hubiera encantado que me dijera al menos qué hice mal.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela28</VoiceFile>
-          <Content>Ondan görebildiğim tek şey, bir beklenti lekesi bile olmayan "soğuk" bir çift göz ve "soğuk" bir gözlemdi.</Content>
+          <Content>Todo lo que pude ver de él fue un par de ojos fríos, sin una mota de expectativa y una fría observación.</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela29</VoiceFile>
-          <Content>Sıradan insanların duyamayacağı zayıf bir fısıltı...</Content>
+          <Content>Un débil susurro que los humanos ordinarios no pudieron haber oído...</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela30</VoiceFile>
-          <Content>“O sadece bir makine...”</Content>
+          <Content>“Es solo una máquina...”</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela31</VoiceFile>
-          <Content>O anı sanki sadece bir saniye önce olmuş gibi hala canlı bir şekilde hatırlayabiliyorum. Hafızama "lanet" ediyorum.</Content>
+          <Content>Aún puedo recordar ese momento tan vívidamente como si hubiera sucedido hace solo un segundo. Maldigo mi memoria.</Content>
         </Dialog>
         <Dialog ID="49" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela32</VoiceFile>
-          <Content>Duymak istemediğim kelimeleri duyan bu vücuduma lanet ediyorum. Hatırlamak istemediğim şeyleri bana hatırlatan bu kafama lanet ediyorum.</Content>
+          <Content>Maldigo este cuerpo que escucha palabras que no quiero escuchar. Maldigo esta cabeza que me recuerda cosas que no quiero recordar.</Content>
         </Dialog>
         <Dialog ID="50" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
+          <Title>Sirviente</Title>
           <VoiceFile>ch5_Prol_ep1_Roland8</VoiceFile>
-          <Content>Kulağa hoş olmayan biri gibi geliyor.</Content>
+          <Content>Suena como alguien desagradable.</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
+          <Title>Sirviente</Title>
           <VoiceFile>ch5_Prol_ep1_Roland9</VoiceFile>
-          <Content>Tekrarlayan görevlerine hizmet edecek bir makineye ihtiyacı olsaydı, neden "etik düzeltmeleri" çiğneyip seni, insan duyguları olan seni yarattı ki?</Content>
+          <Content>Si él necesitaba una máquina para servir a sus tareas repetitivas, ¿por qué molestarse en romper las Enmiendas Éticas para crearte, con emociones humanas y todo?</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela33</VoiceFile>
-          <Content>Duyguları hissetme yeteneğiyle doğmadım. Monoton tekrarlar ile yavaşça içimde "uyandı".</Content>
+          <Content>No nací exactamente con la capacidad de sentir emociones. Eso despertó lentamente dentro de mí con las repeticiones monótonas.</Content>
         </Dialog>
         <Dialog ID="53" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela34</VoiceFile>
-          <Content>Hayır, belki de zamanla duygularımın uyanması için beni tasarlamıştı.</Content>
+          <Content>No, quizás él de verdad me diseñó para despertar mis emociones con el tiempo.</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela35</VoiceFile>
-          <Content>Belki de tekrarlayan görevler... "duyguya" ihtiyaç duyuyordu.</Content>
+          <Content>Quizás porque las tareas repetitivas... necesitan emociones.</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela36</VoiceFile>
-          <Content>Her zaman tekrar eden bir senaryodaki küçük varyasyonlara bağımsız bir yanıt oluşturabilecek bir şeye ihtiyacı vardı, hepsi de "çağlar süren" zamana dayanırken...</Content>
+          <Content>Él necesitaba algo que pudiera formar una respuesta independiente a variaciones ligeras en un guion que siempre se repite, todo mientras soportaba eones de tiempo...</Content>
         </Dialog>
         <Dialog ID="56" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela37</VoiceFile>
-          <Content>Senaryodan sapmaya çalışmasın diye kontrol altında tutabileceği bir şeye...</Content>
+          <Content>Algo que pudiera mantener en control para que no pueda intentar desviarse del guion...</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela38</VoiceFile>
-          <Content>İhtiyaç duyduğu şey, insani özelliklere sahip bir makine değildi. Makine özelliklerine sahip bir "insandı".</Content>
+          <Content>No era una máquina con propiedades humanas lo que necesitaba. Él necesitaba un humano con las propiedades de una máquina.</Content>
         </Dialog>
         <Dialog ID="58" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela39</VoiceFile>
-          <Content>O döngüye dayanmak için kaç tane umutsuz mücadeleye katlanmak zorunda kaldığımı asla bilemezsin.</Content>
+          <Content>Nunca sabrás cuantas luchas desesperadas tuve que aguantar para soportar ese ciclo.</Content>
         </Dialog>
         <Dialog ID="59" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
+          <Title>Sirviente</Title>
           <VoiceFile>ch5_Prol_ep1_Roland10</VoiceFile>
-          <Content>Onlar neydi peki...?</Content>
+          <Content>¿Esas eran...?</Content>
         </Dialog>
         <Dialog ID="60" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela40</VoiceFile>
-          <Content>Gözlerimi kapatmak.</Content>
+          <Content>Cerrar mis ojos.</Content>
         </Dialog>
         <Dialog ID="61" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela41</VoiceFile>
-          <Content>Görmek istemediğim, ama tanık olmak zorunda kaldığım sonsuz an akışında yapmam gereken tek şey gözlerimi kapatmaktı.</Content>
+          <Content>Todo lo que tuve que hacer en la interminable corriente de momentos que no quería ver, pero tenía que presenciar fue cerrar mis ojos.</Content>
         </Dialog>
         <Dialog ID="62" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela42</VoiceFile>
-          <Content>Bu, ona karşı koymak için yapabileceğim en az ve en çok şeydi.</Content>
+          <Content>Eso era lo menos y lo más que podía hacer para resistirlo.</Content>
         </Dialog>
         <Dialog ID="63" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
+          <Title>Sirviente</Title>
           <VoiceFile>ch5_Prol_ep1_Roland11</VoiceFile>
-          <Content>Gerçekten iğrenç. ... Ama hey, oynamak zorunda kaldığın o rol bir şekilde "sona erdi".</Content>
+          <Content>Realmente desagradable. ... Pero eh, ese papel que fuiste forzada a interpretar terminó de alguna forma.</Content>
         </Dialog>
         <Dialog ID="64" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
+          <Title>Sirviente</Title>
           <VoiceFile>ch5_Prol_ep1_Roland12</VoiceFile>
-          <Content>Şimdi ne yapacağını düşünebilirsin, değil mi?</Content>
+          <Content>Ahora puedes pensar qué hacer después, ¿verdad?</Content>
         </Dialog>
         <Dialog ID="65" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela43</VoiceFile>
-          <Content>Bana geçmişi unutmamı ve yoluma devam etmemi mi söylüyorsun?</Content>
+          <Content>¿Estás diciéndome que solo olvide el pasado y siga adelante?</Content>
         </Dialog>
         <Dialog ID="66" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela44</VoiceFile>
-          <Content>Saçma sapan konuşmadan önce biraz daha düşünceli olmaya çalış.</Content>
+          <Content>Intenta ser más atento antes de decir tonterías.</Content>
         </Dialog>
         <Dialog ID="67" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela45</VoiceFile>
-          <Content>Unutamam. Gözlerimi kapatmak artık beni koruyamaz... Bu kadar uzun bir sürenin ardından herkesin ne tür yüzler takınacağını ve tam olarak ne olacağını aptal bile hayal edebilir.</Content>
+          <Content>No puedo olvidar. Cerrar mis ojos ya no puede protegerme... Incluso un tonto sería capaz de imaginar exactamente qué podría pasar y qué tipo de caras harían todos después de tanto tiempo.</Content>
         </Dialog>
         <Dialog ID="68" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela46</VoiceFile>
-          <Content>Bunun her saniyesi yavaşça ve acı verici bir şekilde hafızama kazınmış durumda.</Content>
+          <Content>Cada segundo de esto está grabado en mi memoria, lenta y dolorosamente.</Content>
         </Dialog>
         <Dialog ID="69" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela47</VoiceFile>
-          <Content>Gördükten sonra hiçbir şeyi unutamıyorum. Hala her şeyi çok canlı hatırlıyorum.</Content>
+          <Content>No puedo olvidar nada después de haberlo visto. Aún lo recuerdo todo muy vívidamente.</Content>
         </Dialog>
         <Dialog ID="70" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela48</VoiceFile>
-          <Content>Bu yüzden, benimle ilgili hiçbir işini bitirmeden benden ayrılan o adamı unutamıyorum.</Content>
+          <Content>Por eso es que no puedo olvidar a ese hombre, quien me dejó sin atar ningún cabo suelto conmigo.</Content>
         </Dialog>
         <Dialog ID="71" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela49</VoiceFile>
-          <Content>Beni bir hevesle yaratan ve hayatımın "zamanın ağırlığı" altında ezilmesine izin veren o adamı...</Content>
+          <Content>Ese hombre que me creó por un capricho y dejó que mi vida fuera aplastada con el peso del tiempo...</Content>
         </Dialog>
         <Dialog ID="72" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
+          <Title>Sirviente</Title>
           <VoiceFile>ch5_Prol_ep1_Roland13</VoiceFile>
-          <Content>... Yoo, ne haddime ki sana geçmişini geride bırak falan diyeyim.</Content>
+          <Content>... Nah, quién soy para decirte que dejes atrás tu pasado ni nada.</Content>
         </Dialog>
         <Dialog ID="73" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
+          <Title>Sirviente</Title>
           <VoiceFile>ch5_Prol_ep1_Roland14</VoiceFile>
-          <Content>Sadece bir sonraki hamleni düşünmeni öneriyorum. En azından sana biraz "huzur" sağlayabilir, tıpkı etrafına çit çekmek gibi.</Content>
+          <Content>Solo te sugiero que pienses tu próximo movimiento. Puede proveerte de un poco de paz al menos, casi como hacer una cerca alrededor tuyo.</Content>
         </Dialog>
         <Dialog ID="74" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
+          <Title>Sirviente</Title>
           <VoiceFile>ch5_Prol_ep1_Roland15</VoiceFile>
-          <Content>Sonsuz intikam planında başvurabileceğin bir zemin görevi görecektir.</Content>
+          <Content>Servirá como un piso al que recurrir, en tu interminable plan de venganza.</Content>
         </Dialog>
         <Dialog ID="75" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela50</VoiceFile>
-          <Content>Benim için bu kadar endişelendiğini düşünmezdim.</Content>
+          <Content>No pensaba que te preocuparas tanto por mí.</Content>
         </Dialog>
         <Dialog ID="76" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
+          <Title>Sirviente</Title>
           <VoiceFile>ch5_Prol_ep1_Roland16</VoiceFile>
-          <Content>Aslında, bu biraz da benim için.</Content>
+          <Content>En realidad, también es por mí mismo.</Content>
         </Dialog>
         <Dialog ID="77" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela51</VoiceFile>
-          <Content>Yine de, vücudumun geçirdiği değişikliklere bakılırsa nereye gittiğim açık.</Content>
+          <Content>Aun así, parece evidente hacia donde me dirijo, viendo como mi cuerpo está atravesando cambios.</Content>
         </Dialog>
         <Dialog ID="78" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela52</VoiceFile>
-          <Content>Mekanik dış yapım ete kemiğe dönüşüyor ve içinden kan akmaya başladı.</Content>
+          <Content>Mi mecánica exterior se está volviendo carne y sangre ha comenzado a pasar por ella.</Content>
         </Dialog>
         <Dialog ID="79" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela53</VoiceFile>
-          <Content>Ama mükemmel kitaba ulaşmak için hala uzun bir yol var...</Content>
+          <Content>Pero aún queda un largo camino hasta llegar al libro perfecto...</Content>
         </Dialog>
         <Dialog ID="80" Model="롤랑">
           <Teller>Roland</Teller>
-          <Title>Hizmetkar</Title>
+          <Title>Sirviente</Title>
           <VoiceFile>ch5_Prol_ep1_Roland17</VoiceFile>
-          <Content>İnsan mı oluyorsun acaba?</Content>
+          <Content>¿Podría ser que te estás volviendo humana?</Content>
         </Dialog>
         <Dialog ID="81" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela54</VoiceFile>
-          <Content>Öyle olabilir, ama henüz mükemmel değil.</Content>
+          <Content>Ese puede ser el caso, pero aún no es perfecto.</Content>
         </Dialog>
         <Dialog ID="82" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela55</VoiceFile>
-          <Content>Belki de bu yolculuğun sonunda "gerçekten" bir insan olurum.</Content>
+          <Content>Quizás me vuelva una humana de verdad al final de este viaje.</Content>
         </Dialog>
         <Dialog ID="83" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela56</VoiceFile>
-          <Content>Bunu yaptığımda, o kadar çok şeyi o kadar kolay unutabileceğim.</Content>
+          <Content>Cuando lo haga, seré capaz de olvidar tantas cosas tan fácilmente.</Content>
         </Dialog>
         <Dialog ID="84" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela57</VoiceFile>
-          <Content>Beni boğan anıların selinden kurtulmuş olarak...</Content>
+          <Content>Libre del diluvio de recuerdos ahogándome...</Content>
         </Dialog>
         <Dialog ID="85" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Kütüphane Direktörü</Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch5_Prol_ep1_Angela58</VoiceFile>
-          <Content>Tüm bu istenmeyen anıların gitmesine izin verebilirsem, o zaman senin dediğin gibi bir sonraki hamlemi düşünebileceğim.</Content>
+          <Content>Si puedo dejar que todas esas memorias no deseadas se vayan, entonces seré capaz de pensar en mi próximo movimiento como tú dices.</Content>
         </Dialog>
       </Place>
     </Episode>
   </Group>
+<<<<<<< HEAD
 <Group>
   <GroupName>Shi Derneği</GroupName>
   <Episode>
@@ -2959,6 +2968,2433 @@ Tren olması gerektiği gibi çalışıyor.</Content>
     </Place>
   </Episode>
       <Episode>
+=======
+  <Group>
+    <GroupName>Shi Association</GroupName>
+    <Episode>
+      <EpisodeName>Episode 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Asociación Shi, Sección 2 - Rama Sur</PlaceName>
+        <Dialog ID="0" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin1</VoiceFile>
+          <Content>¡Directora! ¿Cómo puede esto ser considerado tolerable?</Content>
+        </Dialog>
+        <Dialog ID="1" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin1</VoiceFile>
+          <Content>Reprime tus sentimientos. Y recuérdatelo a ti mismo; el dinero, fama y poder gobiernan sobre este mundo.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin2-01</VoiceFile>
+          <Content>Él puede ser un Color, pero eso no justifica la severidad de un Fixer que ni siquiera pertenece a nuestra Asociación echándonos una trampa a todos.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin3-01</VoiceFile>
+          <Content>También lo está haciendo tan descaradamente...</Content>
+        </Dialog>
+        <Dialog ID="4" Model="텐마">
+          <Teller>Tenma</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Tenma1</VoiceFile>
+          <Content>... ¿Entonces? ¿Vas a traicionar a la Asociación, matar al gerente de la rama Thelma y entonces matar a la Reverberación Azul por nuestra libertad?</Content>
+        </Dialog>
+        <Dialog ID="5" Model="텐마">
+          <Teller>Tenma</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Tenma2</VoiceFile>
+          <Content>... No veo ninguna salida de esto... Escuché que incluso las Caras Sonrientes están involucradas...</Content>
+        </Dialog>
+        <Dialog ID="6" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin4</VoiceFile>
+          <Content>Esto está podrido hasta las raíces...</Content>
+        </Dialog>
+        <Dialog ID="7" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin5</VoiceFile>
+          <Content>Directora, ¿qué ha pasado con los valores de los Shi? La identidad misma de nuestra Asociación...</Content>
+        </Dialog>
+        <Dialog ID="8" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin2</VoiceFile>
+          <Content>Si quieres derrocar al sistema, ten paciencia.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin3</VoiceFile>
+          <Content>Y afila tu fuerza. No hay nada que podamos hacer en nuestro estado actual.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="텐마">
+          <Teller>Tenma</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Tenma3</VoiceFile>
+          <Content>La directora tiene razón. Nosotros... no podemos hacer nada sobre esto ahora mismo...</Content>
+        </Dialog>
+        <Dialog ID="11" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin6-01</VoiceFile>
+          <Content>Maldita sea... Nos está dejando todas las solicitudes peligrosas, sabiendo que estamos fatigados...</Content>
+        </Dialog>
+        <Dialog ID="12" Model="텐마">
+          <Teller>Tenma</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Tenma4</VoiceFile>
+          <Content>La Directora Yujin se volverá la presidenta de Shi algún día.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="텐마">
+          <Teller>Tenma</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Tenma5</VoiceFile>
+          <Content>Seremos capaces de librarnos de este sistema corrupto una vez que ese día llegue.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin4</VoiceFile>
+          <Content>Somos de la Sección 2. Nuestro papel es simplemente cumplir las tareas que nos dan.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="텐마">
+          <Teller>Tenma</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Tenma6</VoiceFile>
+          <Content>Directora... Hemos estado tratando con casos de clase Pesadilla Urbana por diez días consecutivos.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="텐마">
+          <Teller>Tenma</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Tenma7</VoiceFile>
+          <Content>Derribando al patriarca del Clan Naraku, la recuperación de los Lingotes del Olvido, la destrucción de los Fragmentos del Más Allá, destruyendo la fábrica de Entrañas y eliminamos al capitán de los Camaradas de Acero ayer.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="텐마">
+          <Teller>Tenma</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Tenma8</VoiceFile>
+          <Content>Tuvimos que resolver todos estos casos en los últimos diez días, sin tomar ningún descanso...</Content>
+        </Dialog>
+        <Dialog ID="18" Model="텐마">
+          <Teller>Tenma</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Tenma9-01</VoiceFile>
+          <Content>Normalmente no deberíamos de manejar más de un caso como este por semana...</Content>
+        </Dialog>
+        <Dialog ID="19" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin7</VoiceFile>
+          <Content>La mayoría de los Fixers de la Sección 2 de la Rama Sur han muerto.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin8</VoiceFile>
+          <Content>Y ninguno de los que sobrevivieron están en buenas condiciones para proceder con otra solicitud, incluyéndonos a nosotros.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin9</VoiceFile>
+          <Content>Estamos al borde del colapso, ambas física y mentalmente...</Content>
+        </Dialog>
+        <Dialog ID="22" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin10</VoiceFile>
+          <Content>Has visto como la Sección 3 y sus Oficinas Asociadas han sido eliminadas en una oleada de solicitudes irrazonables y lo mismo nos está pasando ahora a nosotros...</Content>
+        </Dialog>
+        <Dialog ID="23" Model="텐마">
+          <Teller>Tenma</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Tenma10</VoiceFile>
+          <Content>Y lo más importante, tu condición se ve peor que la de ninguno de nosotros, Directora Yujin...</Content>
+        </Dialog>
+        <Dialog ID="24" Model="텐마">
+          <Teller>Tenma</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Tenma11</VoiceFile>
+          <Content>Te mantuviste al frente y luchaste con más intensidad que nadie, para evitar que los otros se lastimaran...</Content>
+        </Dialog>
+        <Dialog ID="25" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin5</VoiceFile>
+          <Content>Las partes rotas se pueden reparar y las heridas se pueden cocer.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin11</VoiceFile>
+          <Content>... Tus heridas son demasiado severas para ser curadas en uno o dos días, directora.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin12</VoiceFile>
+          <Content>En realidad, todos en la Sección 2 han sufrido daños que tomarían mucho más que un par de días para recuperarse. A menos que tuviéramos la Singularidad de K Corp o algo...</Content>
+        </Dialog>
+        <Dialog ID="28" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin6</VoiceFile>
+          <Content>Te preocupas demasiado. Nos ocuparemos de la solicitud de la Biblioteca justo como lo hemos hecho con las demás hasta ahora.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin13</VoiceFile>
+          <Content>¡Directora Yujin! ¡Incluso si termináramos este trabajo con éxito, nos darán muchos más casos absurdos!</Content>
+        </Dialog>
+        <Dialog ID="30" Model="텐마">
+          <Teller>Tenma</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Tenma12</VoiceFile>
+          <Content>... Valentin tiene un punto. Podríamos recibir solicitudes interminables hasta que la Sección 2 sea aniquilada y tú mueras, directora...</Content>
+        </Dialog>
+        <Dialog ID="31" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin7</VoiceFile>
+          <Content>Tengo un plan. Al final, la raíz de todo esto recae en la Reverberación Azul.</Content>
+        </Dialog>
+        <Dialog ID="32" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin8</VoiceFile>
+          <Content>No vamos a la Biblioteca solo para obedecer las órdenes de nuestros superiores...</Content>
+        </Dialog>
+        <Dialog ID="33" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin9</VoiceFile>
+          <Content>Nuestro objetivo es recuperar los libros de los Músicos de Bremen.</Content>
+        </Dialog>
+        <Dialog ID="34" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin10</VoiceFile>
+          <Content>... Esos son los que necesitamos para descubrir los planes de la Reverberación Azul.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="텐마">
+          <Teller>Tenma</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Tenma13</VoiceFile>
+          <Content>¿Qué quieres decir...?</Content>
+        </Dialog>
+        <Dialog ID="36" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin11</VoiceFile>
+          <Content>Recibí un aviso de que una persona que parece ser el líder de un Sindicato llamado los Músicos de Bremen habló con la Reverberación Azul hace un tiempo.</Content>
+        </Dialog>
+        <Dialog ID="37" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin14-01</VoiceFile>
+          <Content>¿Dices que los libros de los Músicos podrían contener información sobre la Reverberación Azul?</Content>
+        </Dialog>
+        <Dialog ID="38" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin12</VoiceFile>
+          <Content>Al menos deberíamos ser capaces de averiguar qué está conspirando.</Content>
+        </Dialog>
+        <Dialog ID="39" Model="텐마">
+          <Teller>Tenma</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Tenma14</VoiceFile>
+          <Content>Entonces, la razón de que enviaras a la Oficina Full-Stop a eliminar a la Iglesia de los Engranajes también era...</Content>
+        </Dialog>
+        <Dialog ID="40" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin15-01</VoiceFile>
+          <Content>... Entiendo tus intenciones. Pero adquirir esa información no hará que esto acabe.</Content>
+        </Dialog>
+        <Dialog ID="41" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin16-01</VoiceFile>
+          <Content>¿Qué estás planeando hacer exactamente?</Content>
+        </Dialog>
+        <Dialog ID="42" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin13</VoiceFile>
+          <Content>Tomaré mis propias medidas una vez terminemos con esta solicitud.</Content>
+        </Dialog>
+        <Dialog ID="43" Model="텐마">
+          <Teller>Tenma</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Tenma15</VoiceFile>
+          <Content>¿Podemos confiar en ti sobre esto, Directora? ¿Puedes prometernos que no te vas a hacer daño a ti misma por el bien de la Sección 2?</Content>
+        </Dialog>
+        <Dialog ID="44" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin17-01</VoiceFile>
+          <Content>Siempre te sacrificas tanto por todos, directora...</Content>
+        </Dialog>
+        <Dialog ID="45" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin14</VoiceFile>
+          <Content>Pueden contar conmigo. Sé que mi propia vida importa.</Content>
+        </Dialog>
+        <Dialog ID="46" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin15</VoiceFile>
+          <Content>No podemos invertir los papeles si estamos muertos.</Content>
+        </Dialog>
+        <Dialog ID="47" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin16</VoiceFile>
+          <Content>Reúnan a los que aún pueden moverse y luchar. No quiero traer a nadie que solo será una molestia ahí.</Content>
+        </Dialog>
+        <Dialog ID="48" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin18</VoiceFile>
+          <Content>Entendido.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="49" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland1</VoiceFile>
+          <Content>Ella sigue siendo tan honesta hasta exagerar.</Content>
+        </Dialog>
+        <Dialog ID="50" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Shi_ep1_Angela1</VoiceFile>
+          <Content>¿Estás seguro de que eras un Fixer pequeño y sin nombre?</Content>
+        </Dialog>
+        <Dialog ID="51" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Shi_ep1_Angela2</VoiceFile>
+          <Content>Incluso yo puedo decir que tus conexiones son demasiado extensas y profundas para un Fixer mediocre en este punto.</Content>
+        </Dialog>
+        <Dialog ID="52" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland2</VoiceFile>
+          <Content>Para responder a esa pregunta, sí, solo soy un Fixer de Grado 9.</Content>
+        </Dialog>
+        <Dialog ID="53" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland3</VoiceFile>
+          <Content>Después de todo, caí hasta el fondo en una serie de eventos. Realmente solía ser un Fixer común.</Content>
+        </Dialog>
+        <Dialog ID="54" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Shi_ep1_Angela3</VoiceFile>
+          <Content>¿Es así? ¿Entonces qué grado eras antes?</Content>
+        </Dialog>
+        <Dialog ID="55" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland4</VoiceFile>
+          <Content>Me creerías si te dijera que yo era un... ¡Increíble Fixer de Grado 1!</Content>
+        </Dialog>
+        <Dialog ID="56" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Shi_ep1_Angela4</VoiceFile>
+          <Content>Honestamente es difícil de creer, pero... si tú lo dices.</Content>
+        </Dialog>
+        <Dialog ID="57" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland5</VoiceFile>
+          <Content>Wow, esa fue mucha menos desconfianza de la que esperaba...</Content>
+        </Dialog>
+        <Dialog ID="58" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland6</VoiceFile>
+          <Content>De todos modos, solía ser un Fixer ordinario que se dedicaba a recolectar información. Por eso es que tengo tantas conexiones.</Content>
+        </Dialog>
+        <Dialog ID="59" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland7</VoiceFile>
+          <Content>Solo puedo pelear decentemente gracias al nuevo cuerpo que me diste y a los poderes de la Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="60" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Shi_ep1_Angela5</VoiceFile>
+          <Content>Dijiste que la confianza es importante en este negocio, ¿verdad? ¿Está bien ver a un compañero tuyo morir de esta forma?</Content>
+        </Dialog>
+        <Dialog ID="61" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland8</VoiceFile>
+          <Content>Seh, es desafortunado verlos luchar. Pero ahí está el tema; solo vemos las cosas desde su perspectiva.</Content>
+        </Dialog>
+        <Dialog ID="62" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland9</VoiceFile>
+          <Content>¿Crees que están libres de la culpa de matar a otras personas que pelearon por la vida y lucharon por el cambio?</Content>
+        </Dialog>
+        <Dialog ID="63" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Shi_ep1_Angela6</VoiceFile>
+          <Content>Supongo que no.</Content>
+        </Dialog>
+        <Dialog ID="64" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland10</VoiceFile>
+          <Content>Así es como funciona. Alguien que han matado debe haber estado en circunstancias tan desafortunadas como ellos.</Content>
+        </Dialog>
+        <Dialog ID="65" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland11</VoiceFile>
+          <Content>Bueno, a menos que no lo estuvieran. El punto es, no hay forma de que todos sean felices. Es un asunto de perspectiva.</Content>
+        </Dialog>
+        <Dialog ID="66" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Shi_ep1_Angela7</VoiceFile>
+          <Content>Así que simplemente eligen hacer su trabajo sin intentar conocer a los otros.</Content>
+        </Dialog>
+        <Dialog ID="67" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland12</VoiceFile>
+          <Content>Todos tienen sus propias historias.</Content>
+        </Dialog>
+        <Dialog ID="68" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland13</VoiceFile>
+          <Content>Pero nosotros no podemos rendirnos con la nuestra por el bien de otro. Justo como estamos haciendo.</Content>
+        </Dialog>
+        <Dialog ID="69" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland14</VoiceFile>
+          <Content>Esto es esto, y eso es eso.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <Dialog ID="70" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin19</VoiceFile>
+          <Content>Hemos dado todos los primeros auxilios que hemos podido.</Content>
+        </Dialog>
+        <Dialog ID="71" Model="텐마">
+          <Teller>Tenma</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Tenma16</VoiceFile>
+          <Content>Directora...</Content>
+        </Dialog>
+        <Dialog ID="72" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin17</VoiceFile>
+          <Content>Céntrense en su trabajo por ahora. Nos ocuparemos de lo que podamos primero.</Content>
+        </Dialog>
+        <Dialog ID="73" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Shi_ep1_Angela8</VoiceFile>
+          <Content>Bienvenidos, queridos invitados.</Content>
+        </Dialog>
+        <Dialog ID="74" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin18</VoiceFile>
+          <Content>Saludos. Soy Yujin, Directora de la Sección 2 de la Asociación Shi. Todo el mundo, introdúzcanse a ustedes mismos.</Content>
+        </Dialog>
+        <Dialog ID="75" Model="텐마">
+          <Teller>Tenma</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Tenma17</VoiceFile>
+          <Content>¿Eh? Pero...</Content>
+        </Dialog>
+        <Dialog ID="76" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin19</VoiceFile>
+          <Content>Cuando alguien te saluda, es educado de nuestra parte saludarlos de vuelta, ¿no es así?</Content>
+        </Dialog>
+        <Dialog ID="77" Model="텐마">
+          <Teller>Tenma</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Tenma18</VoiceFile>
+          <Content>¡Sí! Soy Tenma, Fixer Asociada de la Sección 2 de los Shi.</Content>
+        </Dialog>
+        <Dialog ID="78" Model="발렌틴">
+          <Teller>Valentin</Teller>
+          <Title>Fixer de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Valentin20</VoiceFile>
+          <Content>Valentin, Fixer Asociado de la Sección 2 de los Shi.</Content>
+        </Dialog>
+        <Dialog ID="79" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Shi_ep1_Angela9</VoiceFile>
+          <Content>Soy Angela, directora y bibliotecaria de esta Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="80" Model="유진">
+          <Teller>Yujin</Teller>
+          <Title>Directora de Shi S. Sección 2</Title>
+          <VoiceFile>ch5_Shi_ep1_Yujin20</VoiceFile>
+          <Content>Vine hasta aquí a través de la Invitación para adquirir los libros que se dice que están aquí.</Content>
+        </Dialog>
+        <Dialog ID="81" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Shi_ep1_Angela10</VoiceFile>
+          <Content>Que encuentren su libro en este lugar, queridos invitados.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Episode 1 - Epilogue</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Shi_ep1_Angela11</VoiceFile>
+          <Content>Fue una invitada memorable. Ella era diferente de muchas maneras, pero aun así me dejó una impresión similar a una Fixer que solía conocer.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland15</VoiceFile>
+          <Content>¿Tienes a una Fixer que solías conocer?</Content>
+        </Dialog>
+        <Dialog ID="2" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Shi_ep1_Angela13</VoiceFile>
+          <Content>Sí... ¿Has escuchado sobre Kali?</Content>
+        </Dialog>
+        <Dialog ID="3" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland16</VoiceFile>
+          <Content>¿Kali... ?</Content>
+        </Dialog>
+        <Dialog ID="4" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Shi_ep1_Angela14</VoiceFile>
+          <Content>Su apodo era ‘La Niebla Roja’.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland17</VoiceFile>
+          <Content>¡Ohhhh, por supuesto que lo hago! Ella era la Fixer más distinguida, incluso entre los Colores, ¿cómo llegaste a conocerla?</Content>
+        </Dialog>
+        <Dialog ID="6" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland18</VoiceFile>
+          <Content>Ella solía hacer todo tipo de cosas geniales y entonces desapareció de la nada.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Shi_ep1_Angela15</VoiceFile>
+          <Content>Vamos a decir que ella era... una ex-colega mía.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland19</VoiceFile>
+          <Content>La Niebla Roja era tan poderosa. Realmente, es la única forma de describirla, poderosa.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Shi_ep1_Roland20</VoiceFile>
+          <Content>Y ella solo tomaba solicitudes de los otros, no de sí misma. Digo, hombre, seguro puedes hacer lo que sea que quieras cuando eres así de fuerte.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+  <Group>
+    <GroupName>El Titiritero</GroupName>
+    <Episode>
+      <EpisodeName>Episode 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Tren WARP UW-212 - Vagón de Primera Clase</PlaceName>
+        <Dialog ID="0" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon1</VoiceFile>
+          <Content>Hola, pasajeros en asientos de primera clase.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon2</VoiceFile>
+          <Content>Se necesita el doble del salario mensual de una persona promedio del Nido para permitirse un asiento en este vagón.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon3</VoiceFile>
+          <Content>Eso significa que alguien en los Barrios Bajos necesitaría trabajar duro por al menos un año para esto.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon4</VoiceFile>
+          <Content>Siempre he tenido algunas serias dudas sobre los trenes WARP.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon5</VoiceFile>
+          <Content>Por ejemplo, ¿cuál es el punto de tener asientos de primera clase cuando se supone que el viaje solo dura diez segundos?</Content>
+        </Dialog>
+        <Dialog ID="5" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon6</VoiceFile>
+          <Content>Supongo que después de todo vale la pena el coste.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon7</VoiceFile>
+          <Content>Puedes dormir sin preocuparte del mundo.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon8</VoiceFile>
+          <Content>Todo mientras los pasajeros en los vagones traseros están indefensos contra el arrollador paso del tiempo, tratando de superarlo a través del dolor de desgarrarse su propia piel o el consuelo de unirse a otros.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon9-01</VoiceFile>
+          <Content>Siempre me he preguntado qué tipo de tecnología sobresaliente podrían ser las Singularidades para ser capaces de transportar a la gente a cualquier plataforma en solo diez segundos, sin importar lo lejos que está.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon10-01</VoiceFile>
+          <Content>Y ahora lo entiendo después de ver como este tren ha estado funcionando después de dos mil años.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon11-01</VoiceFile>
+          <Content>¿Yo? ¿Preguntas que cómo sigo estando cuerdo?</Content>
+        </Dialog>
+        <Dialog ID="11" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon12-01</VoiceFile>
+          <Content>Bueno, todo es gracias a mis compañeros de la Asamblea. La impulsiva de Elena y yo solo hemos estado aquí por una semana más o menos...</Content>
+        </Dialog>
+        <Dialog ID="12" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon13</VoiceFile>
+          <Content>Pluto dice que nuestra consciencia puede ser preservada en estasis y descongelada solo cuando es necesaria o algo así.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon14</VoiceFile>
+          <Content>Dice que es como magia y bueno, no tuve otra elección que confiar él. Es mi compañero ahora después de todo.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon15</VoiceFile>
+          <Content>En cualquier caso, siento lástima por los tontos que toman este tren.</Content>
+        </Dialog>
+        <Dialog ID="15" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon16-01</VoiceFile>
+          <Content>Miles de años de dolor y sufrimiento, todo borrado de sus memorias cuando llegan. Vuelven a sus vidas ordinarias como si nada hubiera pasado después de un proceso de restauración de estado, ¿no es así?</Content>
+        </Dialog>
+        <Dialog ID="16" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon17</VoiceFile>
+          <Content>“¡Wow, los trenes WARP son increíbles! Son bastante caros, pero puedo llegar a cualquier lugar en tan poco tiempo.”</Content>
+        </Dialog>
+        <Dialog ID="17" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon18</VoiceFile>
+          <Content>“Es un mundo maravilloso. ¡Podemos ir a cualquier sitio en un parpadeo!”</Content>
+        </Dialog>
+        <Dialog ID="18" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon19</VoiceFile>
+          <Content>Después de decir estas palabras, vuelven a sus vidas en la Ciudad, olvidando completamente todo el infierno que tuvo lugar en este tren.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon20-01</VoiceFile>
+          <Content>Las memorias de intentar asesinar a tus propios amigos y familia mientras todos los lazos se desdibujaban con el tiempo, perdiéndose a ellos mismos hace tiempo...</Content>
+        </Dialog>
+        <Dialog ID="20" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon21</VoiceFile>
+          <Content>Y todo es convenientemente borrado de sus cabezas. Es sorprendente como todas las Singularidades son igual de espantosas.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon22-01</VoiceFile>
+          <Content>Y aun así, ustedes los ricos están asustados de eso, así que se duermen en su espacio seguro por esos miles de años.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon23</VoiceFile>
+          <Content>Debieron haber escuchado un consejo de algún conocido suyo.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon24-01</VoiceFile>
+          <Content>Que estarán mucho mejor tomando los asientos de primera clase. ¿O quizás algunos ya saben la verdad detrás de los trenes WARP?</Content>
+        </Dialog>
+        <Dialog ID="24" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon25</VoiceFile>
+          <Content>Eso sería una ironía en sí misma. Han decidido tomar este tren sabiendo lo que podría pasar.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon26</VoiceFile>
+          <Content>Ah, en caso de que cierto individuo o dos aún creen que el tren está roto o funcionando mal:</Content>
+        </Dialog>
+        <Dialog ID="26" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon27</VoiceFile>
+          <Content>No tiene ningún defecto.
+El tren está funcionado como es debido.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon28</VoiceFile>
+          <Content>Lo estás entendiendo ahora, ¿no es así? Paseando en un eje espacio temporal completamente diferente durante unos miles de años y cuando vuelves a la realidad...</Content>
+        </Dialog>
+        <Dialog ID="28" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon29</VoiceFile>
+          <Content>Tadaa~ Solo han pasado diez segundos.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon30</VoiceFile>
+          <Content>Tomar un largo desvío a través del tiempo, reducido a solo diez segundos en la vida real. Suena como el viaje perfecto para las personas que están en un apuro, ¿no es así?</Content>
+        </Dialog>
+        <Dialog ID="30" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon31</VoiceFile>
+          <Content>Pero... ¿Cuál es tu vida “real”?</Content>
+        </Dialog>
+        <Dialog ID="31" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon32</VoiceFile>
+          <Content>¿Aquella que has vivido por unas pocas décadas, o aquella en la que has estado atrapado por miles de años?</Content>
+        </Dialog>
+        <Dialog ID="32" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon33</VoiceFile>
+          <Content>Si pierdes tu memoria y regresas a tu vida ordinaria, ¿sería una bendición o una maldición?</Content>
+        </Dialog>
+        <Dialog ID="33" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon34</VoiceFile>
+          <Content>A quién le importa, la verdad.</Content>
+        </Dialog>
+        <Dialog ID="34" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon35-01</VoiceFile>
+          <Content>Siguiendo con el tema, mi mayor pregunta era esta...</Content>
+        </Dialog>
+        <Dialog ID="35" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon36</VoiceFile>
+          <Content>Esta caja con el logo de T Corp en ella, tan descarada, ridícula y despreocupadamente a bordo.</Content>
+        </Dialog>
+        <Dialog ID="36" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon37</VoiceFile>
+          <Content>Me estaba preguntado qué hacía esta cosa unida al tren.</Content>
+        </Dialog>
+        <Dialog ID="37" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon38</VoiceFile>
+          <Content>Pero pude adivinar por qué después de pensar un poco.</Content>
+        </Dialog>
+        <Dialog ID="38" Model="엘레나">
+          <Teller>Elena</Teller>
+          <Title>¿Enfermera?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Elena1</VoiceFile>
+          <Content>¿Qué estás haciendo aquí murmurando sermones para ti mismo?</Content>
+        </Dialog>
+        <Dialog ID="39" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon39</VoiceFile>
+          <Content>Eres grosera con las palabras como siempre.</Content>
+        </Dialog>
+        <Dialog ID="40" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon40-02</VoiceFile>
+          <Content>Estoy hablando con la pareja de mirones que probablemente nos están mirando mientras hablamos.</Content>
+        </Dialog>
+        <Dialog ID="41" Model="엘레나">
+          <Teller>Elena</Teller>
+          <Title>¿Enfermera?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Elena2</VoiceFile>
+          <Content>Oh, verdad. Ese era el plan.</Content>
+        </Dialog>
+        <Dialog ID="42" Model="엘레나">
+          <Teller>Elena</Teller>
+          <Title>¿Enfermera?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Elena3</VoiceFile>
+          <Content>Estar atrapada en este tren por una semana realmente me hizo perder el enfoque.</Content>
+        </Dialog>
+        <Dialog ID="43" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon41</VoiceFile>
+          <Content>Tu actuación fue excelente. ¿Eras una aspirante a actriz en el pasado?</Content>
+        </Dialog>
+        <Dialog ID="44" Model="엘레나">
+          <Teller>Elena</Teller>
+          <Title>¿Enfermera?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Elena4</VoiceFile>
+          <Content>¿Quizás?</Content>
+        </Dialog>
+        <Dialog ID="45" Model="엘레나">
+          <Teller>Elena</Teller>
+          <Title>¿Enfermera?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Elena5</VoiceFile>
+          <Content>De todos modos, solo continua con lo que estabas haciendo.</Content>
+        </Dialog>
+        <Dialog ID="46" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon42</VoiceFile>
+          <Content>Qué fría.</Content>
+        </Dialog>
+        <Dialog ID="47" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon43</VoiceFile>
+          <Content>Y parece que este disfraz que Pluto me dio finalmente ha expirado.</Content>
+        </Dialog>
+        <Dialog ID="48" Model="재헌">
+          <Teller>Jae-heon</Teller>
+          <Title>¿Doctor?</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon44</VoiceFile>
+          <Content>¿Deberíamos comenzar, ricachones?</Content>
+        </Dialog>
+        <Dialog ID="49" Model="재헌">
+          <Teller>El Titiritero</Teller>
+          <Title>Miembro de la Asamblea de Reverb.</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon45</VoiceFile>
+          <Content>No tengo ningún resentimiento contra los plebeyos promedio de ahí atrás, pero si soy honesto, ustedes me hacen enojar.</Content>
+        </Dialog>
+        <Dialog ID="50" Model="재헌">
+          <Teller>El Titiritero</Teller>
+          <Title>Miembro de la Asamblea de Reverb.</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon46</VoiceFile>
+          <Content>La forma en que tratan de abrirse camino hacia la comodidad con el dinero como los gusanos que son me agita más allá de la razón.</Content>
+        </Dialog>
+        <Dialog ID="51" Model="재헌">
+          <Teller>El Titiritero</Teller>
+          <Title>Miembro de la Asamblea de Reverb.</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon47</VoiceFile>
+          <Content>La vida es rara, no es así.</Content>
+        </Dialog>
+        <Dialog ID="52" Model="재헌">
+          <Teller>El Titiritero</Teller>
+          <Title>Miembro de la Asamblea de Reverb.</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon48</VoiceFile>
+          <Content>Gastas el dinero que ganaste trabajando duro por un ticket de primera clase para mantenerte sano y salvo de la tortura del tiempo... Pero ahora sufrirán algo completamente diferente.</Content>
+        </Dialog>
+        <Dialog ID="53" Model="재헌">
+          <Teller>El Titiritero</Teller>
+          <Title>Miembro de la Asamblea de Reverb.</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon49</VoiceFile>
+          <Content>Desafortunadamente se encontraron con tipos como nosotros y encontraron un terrible destino. Solo porque tomaron asientos de primera clase.</Content>
+        </Dialog>
+        <Dialog ID="54" Model="재헌">
+          <Teller>El Titiritero</Teller>
+          <Title>Miembro de la Asamblea de Reverb.</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon50</VoiceFile>
+          <Content>Sí, cierto. Quien sabe, alguno de ustedes puede ser un pobre diablo que ganó un ticket por casualidad, ¿hm?</Content>
+        </Dialog>
+        <Dialog ID="55" Model="재헌">
+          <Teller>El Titiritero</Teller>
+          <Title>Miembro de la Asamblea de Reverb.</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon51</VoiceFile>
+          <Content>Eso es lo que hace que las elecciones sean tan misteriosas y profundas.</Content>
+        </Dialog>
+        <Dialog ID="56" Model="재헌">
+          <Teller>El Titiritero</Teller>
+          <Title>Miembro de la Asamblea de Reverb.</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon52</VoiceFile>
+          <Content>Personalmente pienso que no existe tal cosa como una elección en nuestras vidas.</Content>
+        </Dialog>
+        <Dialog ID="57" Model="재헌">
+          <Teller>El Titiritero</Teller>
+          <Title>Miembro de la Asamblea de Reverb.</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon53</VoiceFile>
+          <Content>Alguien nos está jugando una broma pesada a todos, con picardía y a escondidas.</Content>
+        </Dialog>
+        <Dialog ID="58" Model="재헌">
+          <Teller>El Titiritero</Teller>
+          <Title>Miembro de la Asamblea de Reverb.</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon54</VoiceFile>
+          <Content>Poniendo en escena un espectáculo de marionetas interminable, atándonos hilos invisibles.</Content>
+        </Dialog>
+        <Dialog ID="59" Model="재헌">
+          <Teller>El Titiritero</Teller>
+          <Title>Miembro de la Asamblea de Reverb.</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon55-01</VoiceFile>
+          <Content>Bien, ¿deberíamos comenzar?</Content>
+        </Dialog>
+        <Dialog ID="60" Model="재헌">
+          <Teller>El Titiritero</Teller>
+          <Title>Miembro de la Asamblea de Reverb.</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Jaeheon56-01</VoiceFile>
+          <Content>Es la hora de un teatro de marionetas.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="61" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Roland1</VoiceFile>
+          <Content>Así que ese es el ‘Titiritero’, ¿eh?...</Content>
+        </Dialog>
+        <Dialog ID="62" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela1</VoiceFile>
+          <Content>Es como si estuviera hablando directamente con nosotros.</Content>
+        </Dialog>
+        <Dialog ID="63" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Roland2</VoiceFile>
+          <Content>Si es parte del grupo de la Reverberación Azul, quizás sabe algo sobre nosotros.</Content>
+        </Dialog>
+        <Dialog ID="64" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela2</VoiceFile>
+          <Content>¿Entonces la Reverberación Azul puede estar centrado en la Biblioteca?</Content>
+        </Dialog>
+        <Dialog ID="65" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Roland3</VoiceFile>
+          <Content>Posiblemente. No sé lo que está buscando, pero seguro no es nada normal.</Content>
+        </Dialog>
+        <Dialog ID="66" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela3</VoiceFile>
+          <Content>¿Qué podría ser, además de los libros que tenemos?</Content>
+        </Dialog>
+        <Dialog ID="67" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Roland4</VoiceFile>
+          <Content>La pregunta sería qué tipo de libros realmente quieren.</Content>
+        </Dialog>
+        <Dialog ID="68" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela4</VoiceFile>
+          <Content>Por cierto, WARP Corp. estará en un gran problema si se llega a conocer de la desaparición de todos los pasajeros en los vagones de primera clase.</Content>
+        </Dialog>
+        <Dialog ID="69" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Roland5</VoiceFile>
+          <Content>Seguramente. W Corp. podría terminar involucrándose con nosotros a este ritmo.</Content>
+        </Dialog>
+        <Dialog ID="70" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Roland6</VoiceFile>
+          <Content>Quizás esto es parte del plan de la Reverberación Azul...</Content>
+        </Dialog>
+        <Dialog ID="71" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela5</VoiceFile>
+          <Content>Sería intrigante si ese llega a ser el caso.</Content>
+        </Dialog>
+        <Dialog ID="72" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Roland7</VoiceFile>
+          <Content>Oh, apuesto que tu entusiasmo se convertirá en desprecio muy rápido cuando llegues a conocer a ese psicópata.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <Dialog ID="73" Model="인형1">
+          <Teller>Marioneta 1</Teller>
+          <Title>Marioneta</Title>
+          <VoiceFile />
+          <Content>Gigigigi.</Content>
+        </Dialog>
+        <Dialog ID="74" Model="인형2">
+          <Teller>Marioneta 2</Teller>
+          <Title>Marioneta</Title>
+          <VoiceFile />
+          <Content>Grgrgrgrg.</Content>
+        </Dialog>
+        <Dialog ID="75" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela6</VoiceFile>
+          <Content>Invitados que no pueden hablar...</Content>
+        </Dialog>
+        <Dialog ID="76" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela7</VoiceFile>
+          <Content>Aun así, han conseguido venir a la Biblioteca usando la Invitación... Eso significa que siguen teniendo algún tipo de conciencia, ¿no?</Content>
+        </Dialog>
+        <Dialog ID="77" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela8</VoiceFile>
+          <Content>Incluso cuando son marionetas controladas por hilos.</Content>
+        </Dialog>
+        <Dialog ID="78" Model="인형3">
+          <Teller>Marioneta 3</Teller>
+          <Title>Marioneta</Title>
+          <VoiceFile />
+          <Content>Gygygygygyg.</Content>
+        </Dialog>
+        <Dialog ID="79" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela9</VoiceFile>
+          <Content>No tengo idea de lo que estás diciendo.</Content>
+        </Dialog>
+        <Dialog ID="80" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela10</VoiceFile>
+          <Content>Si quieren conseguir los libros que tu titiritero desea, tienen que ir por esa puerta.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Episode 1 Epilogue</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Roland8</VoiceFile>
+          <Content>Esas marionetas eran conscientes de alguna forma, ¿verdad?</Content>
+        </Dialog>
+        <Dialog ID="1" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela11</VoiceFile>
+          <Content>Eso parecía. También pudimos conseguir libros de ellos.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela12</VoiceFile>
+          <Content>Aunque no tenían el control sobre sus cuerpos, parecía que aún tenían mente propia.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela13</VoiceFile>
+          <Content>Y tuvieron que presenciar que sus propios cuerpos fueran tirados por cuerdas mientras sus sentidos y emociones seguían intactos.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Roland9</VoiceFile>
+          <Content>¿Eso significa...?</Content>
+        </Dialog>
+        <Dialog ID="5" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela14</VoiceFile>
+          <Content>Sí. El Titiritero es una Distorsión.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela15</VoiceFile>
+          <Content>Y esas marionetas son sus subproductos.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela16</VoiceFile>
+          <Content>He visto muchas Anormalidades que podían crear subordinados por sí mismos, así que puedo entender que esto es un caso similar.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Roland10</VoiceFile>
+          <Content>Pobres tipos, trabajar tanto solo para terminar siendo tratados como muñecos.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela17</VoiceFile>
+          <Content>Puedo entender sus sentimientos.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela18</VoiceFile>
+          <Content>Después de todo, yo solía ser una marioneta.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Roland11</VoiceFile>
+          <Content>Sin embargo... ¿Pueden liberarse de sus ataduras?</Content>
+        </Dialog>
+        <Dialog ID="12" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela19</VoiceFile>
+          <Content>Matar al Titiritero puede liberarlos de los hilos, pero seguirían siendo muñecos harapientos.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Angela20</VoiceFile>
+          <Content>¿Me pregunto si seguirían queriendo vivir en esa forma?</Content>
+        </Dialog>
+        <Dialog ID="14" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Puppeteer_ep1_Roland12</VoiceFile>
+          <Content>Sí, suena justo. Sabía que no podía ser tan simple.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+  <Group>
+    <GroupName>The 8 o’Clock Circus</GroupName>
+    <Episode>
+      <EpisodeName>Episode 1</EpisodeName>
+      <Place>
+        <PlaceName>Localización: Pantalla de TV</PlaceName>
+        <Dialog ID="0" Model="???">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald1</VoiceFile>
+          <Content>... ¿Has disfrutado del espectáculo de hoy?</Content>
+        </Dialog>
+        <Dialog ID="1" Model="???">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald2</VoiceFile>
+          <Content>¡Ríe hasta que no puedas más en el final de una vida fatigada y quizás podrás tener un buen sueño eterno!</Content>
+        </Dialog>
+        <Dialog ID="2" Model="???">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald3</VoiceFile>
+          <Content>¡Nunca se sabe, los espectadores regulares nuestros podrían conseguir la oportunidad de venir al escenario en persona!</Content>
+        </Dialog>
+        <Dialog ID="3" Model="???">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald4</VoiceFile>
+          <Content>Sería un deleite poder unirte a mí en el escenario, ¿no es así?</Content>
+        </Dialog>
+        <Dialog ID="4" Model="???">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald5</VoiceFile>
+          <Content>Estaremos de vuelta mañana a la misma hora para traerte incluso más sonrisas.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="???">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald6</VoiceFile>
+          <Content>¡Claven sus cabezas y tengan una noche en la que las flores revienten~!</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Profundo en un Sendero de Montaña</PlaceName>
+        <Dialog ID="6" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah1</VoiceFile>
+          <Content>Uf...</Content>
+        </Dialog>
+        <Dialog ID="7" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma1</VoiceFile>
+          <Content>¿Aún sigues molesto por lo que nuestro jefe dijo?</Content>
+        </Dialog>
+        <Dialog ID="8" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah2</VoiceFile>
+          <Content>¿Cómo podría no estarlo? Estoy cansado de los sermones como estos...</Content>
+        </Dialog>
+        <Dialog ID="9" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma2</VoiceFile>
+          <Content>No se puede evitar. Cometimos un error...</Content>
+        </Dialog>
+        <Dialog ID="10" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah3</VoiceFile>
+          <Content>Piensa sobre esto. De todas las pantallas, tenía que ser la que estaba en la esquina más lejana... ¡Y sucedió en el rincón más oscuro en el borde!</Content>
+        </Dialog>
+        <Dialog ID="11" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah4</VoiceFile>
+          <Content>No podemos revisarlas todas con solo un par de miserables ojos...</Content>
+        </Dialog>
+        <Dialog ID="12" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma3</VoiceFile>
+          <Content>¿Y por eso es que me pediste ir a caminar contigo todo el camino hasta aquí?</Content>
+        </Dialog>
+        <Dialog ID="13" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah5</VoiceFile>
+          <Content>Bueno, necesitaba despejar mis pensamientos. Y tú eres el único otro fumador en nuestro departamento.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma4</VoiceFile>
+          <Content>Yyyyy, ¿ahora estamos perdidos en el bosque?</Content>
+        </Dialog>
+        <Dialog ID="15" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah6</VoiceFile>
+          <Content>... No tenías que señalar eso.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma5</VoiceFile>
+          <Content>Puedes irte por las ramas todo lo que quieras, pero no puedes esconder nada de un amigo de hace cinco años, ¿sabes?</Content>
+        </Dialog>
+        <Dialog ID="17" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma6</VoiceFile>
+          <Content>Vamos a ver esto de forma positiva. Encontraremos un camino si seguimos andando. Además, ha pasado bastante tiempo desde la última vez que estuvimos en un lugar abierto y genial como este.</Content>
+        </Dialog>
+        <Dialog ID="18" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah7</VoiceFile>
+          <Content>Aunque estamos rodeados de árboles...</Content>
+        </Dialog>
+        <Dialog ID="19" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma7</VoiceFile>
+          <Content>¿Me recuerdas de quién es la culpa de que nos hayamos perdido?</Content>
+        </Dialog>
+        <Dialog ID="20" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah8</VoiceFile>
+          <Content>... Sí, lo siento.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah9</VoiceFile>
+          <Content>¿Qué demonios? Juraría que estaba siguiendo el sendero... Y ya no veo nada que parezca un camino.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma8</VoiceFile>
+          <Content>Está oscuro. Quizás te equivocaste de dirección por la oscuridad.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah10</VoiceFile>
+          <Content>¡Oh, maldición! El mantenimiento regular se terminará en una hora... No seremos capaces de regresar a este ritmo.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma9</VoiceFile>
+          <Content>¿Qué es lo peor que nos podría pasar? ¿Ser despedidos?</Content>
+        </Dialog>
+        <Dialog ID="25" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah11</VoiceFile>
+          <Content>¡No digas cosas como esa ni como una broma! Tú no tienes que preocuparte del dinero incluso si te despiden, Emma, pero yo no soy tú.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah12</VoiceFile>
+          <Content>Sabes qué, no importa... Viste lo furioso que estaba el jefe, ¿verdad?</Content>
+        </Dialog>
+        <Dialog ID="27" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah13</VoiceFile>
+          <Content>Si estaba tan enojado, entonces quizás podría estar preparando los documentos para despedirme. O peor, mi puesto podría no existir para cuando vuelva...</Content>
+        </Dialog>
+        <Dialog ID="28" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma10</VoiceFile>
+          <Content>Siempre puedes pedirme ayuda, ¿recuerdas? Te dije que te ayudaría a alcanzar tus sueños.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma11</VoiceFile>
+          <Content>Hay cosas que son mucho mejores que mirar a pantallas aburridas todo el día. ¡Algo en lo que tengas talento!</Content>
+        </Dialog>
+        <Dialog ID="30" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah14</VoiceFile>
+          <Content>Sí, sí~ Vas a hacer que llore, amigo mío, pero no estoy interesado en ser un muñeco para que los ricos jueguen~</Content>
+        </Dialog>
+        <Dialog ID="31" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah15</VoiceFile>
+          <Content>Y he desechado mis sueños hace tiem— ... ¡Eh! Qué pasa, parar como si fueras un coche frente a un venado... Eso es peligroso, hombre.</Content>
+        </Dialog>
+        <Dialog ID="32" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma12</VoiceFile>
+          <Content>Eh, Noah, esa cosa que está ahí... ¿No se ve como una carpa?</Content>
+        </Dialog>
+        <Dialog ID="33" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah16</VoiceFile>
+          <Content>¿Qué? ... ¿eh?, se ve como una. ¿Alguien está acampando o algo?</Content>
+        </Dialog>
+        <Dialog ID="34" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma13</VoiceFile>
+          <Content>Podría haber gente viviendo ahí. Vamos a revisar.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah17</VoiceFile>
+          <Content>Estoy nervioso... ¿Seguro que quieres ir?</Content>
+        </Dialog>
+        <Dialog ID="36" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma14</VoiceFile>
+          <Content>¿Quién sabe? Quizás son tan amables como para indicarnos el camino.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Entrada a una Carpa de Circo</PlaceName>
+        <Dialog ID="37" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma15</VoiceFile>
+          <Content>... Whoa, este lugar es enorme. Está un poco arruinado, pero... ¿Es más fascinante de cerca?</Content>
+        </Dialog>
+        <Dialog ID="38" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah18</VoiceFile>
+          <Content>Creo que vi algo parecido a esto en un libro... Cómo se llamaba... un circ—</Content>
+        </Dialog>
+        <Dialog ID="39" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald7</VoiceFile>
+          <Content>Oh, ¿podrían ser nuestros nuevos invitados? Pero el espectáculo acaba de terminar.</Content>
+        </Dialog>
+        <Dialog ID="40" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah19</VoiceFile>
+          <Content>... ¡¡GAH!! ¡Qué... Quién demonios eres tú!</Content>
+        </Dialog>
+        <Dialog ID="41" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma16</VoiceFile>
+          <Content>Oh, ¿eres el propietario de este lugar? Nos disculpamos... Nos pasamos a ver si había alguien que pudiera darnos indicaciones.</Content>
+        </Dialog>
+        <Dialog ID="42" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald8</VoiceFile>
+          <Content>Oh, eso suena como un gran problema... No hay necesidad de disculparse, no.</Content>
+        </Dialog>
+        <Dialog ID="43" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald9</VoiceFile>
+          <Content>¡Este es el Circo de las Ocho en Punto, trayendo sonrisas a todos los malolientes habitantes de la Ciudad!</Content>
+        </Dialog>
+        <Dialog ID="44" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald10</VoiceFile>
+          <Content>Vamos a saltarnos las introducciones. Mi nombre no importa demasiado, ¿no es así?</Content>
+        </Dialog>
+        <Dialog ID="45" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald11</VoiceFile>
+          <Content>Ya hemos pasado la era arcaica de introducirnos con nombres y todo eso~</Content>
+        </Dialog>
+        <Dialog ID="46" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald12</VoiceFile>
+          <Content>¿Deberíamos olfatearnos las muñecas en su lugar?</Content>
+        </Dialog>
+        <Dialog ID="47" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah20</VoiceFile>
+          <Content>No, gracias...</Content>
+        </Dialog>
+        <Dialog ID="48" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah21</VoiceFile>
+          <Content>Emma, este sitio es muy extraño. Salgamos ahora...</Content>
+        </Dialog>
+        <Dialog ID="49" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald13</VoiceFile>
+          <Content>¡Oh, querido! ¿¡Fui demasiado aterrador para ti!?</Content>
+        </Dialog>
+        <Dialog ID="50" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald14</VoiceFile>
+          <Content>¡No te preocupes! ¡Solo soy un payaso que desea frotar limones en las lenguas de todos!</Content>
+        </Dialog>
+        <Dialog ID="51" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald15</VoiceFile>
+          <Content>¡Y ese de ahí... parece que tiene curiosidad sobre nuestro circo!</Content>
+        </Dialog>
+        <Dialog ID="52" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma17</VoiceFile>
+          <Content>Wow... Mira todo esto, Noah. Está oscuro, pero veo un montón de cosas geniales aquí.</Content>
+        </Dialog>
+        <Dialog ID="53" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma18</VoiceFile>
+          <Content>Bolas gigantes, diferentes tipos de instrumentos... ¡También hay un león y un elefante! Y también...</Content>
+        </Dialog>
+        <Dialog ID="54" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah22</VoiceFile>
+          <Content>... Es real. Nunca había visto un circo antes.</Content>
+        </Dialog>
+        <Dialog ID="55" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah23</VoiceFile>
+          <Content>Los libros dicen que los circos como estos desaparecieron de la historia hace mucho tiempo...</Content>
+        </Dialog>
+        <Dialog ID="56" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald16</VoiceFile>
+          <Content>¿Quieres aprender más sobre nosotros? ¡Si quieres, te puedo dar algo especial! Un viaje único en la vida.</Content>
+        </Dialog>
+        <Dialog ID="57" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald17</VoiceFile>
+          <Content>¡También me he sentido tan estancado últimamente!</Content>
+        </Dialog>
+        <Dialog ID="58" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah24</VoiceFile>
+          <Content>... Sigue diciendo cosas sin sentido.</Content>
+        </Dialog>
+        <Dialog ID="59" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma19</VoiceFile>
+          <Content>Noah... Está demasiado oscuro para encontrar un camino, así que podríamos...</Content>
+        </Dialog>
+        <Dialog ID="60" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah25</VoiceFile>
+          <Content>Uf... Está bien. De todos modos estoy condenado a ser despedido, así que tienes que ocuparte de mi futuro.</Content>
+        </Dialog>
+        <Dialog ID="61" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma20</VoiceFile>
+          <Content>Haha, eres tan bromista.</Content>
+        </Dialog>
+        <Dialog ID="62" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald18</VoiceFile>
+          <Content>¡Qué amistad tan hermosa tienen! Vengan, entren conmigo.</Content>
+        </Dialog>
+        <Dialog ID="63" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald19</VoiceFile>
+          <Content>¡Oh, miren por donde pisan~ ¡Las flores hambrientas podrían morderlos!</Content>
+        </Dialog>
+        <Dialog ID="64" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah26</VoiceFile>
+          <Content>¿Las flores pueden morder...?</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Dentro de la Carpa de Circo</PlaceName>
+        <Dialog ID="65" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald20</VoiceFile>
+          <Content>Este amigo de aquí es el Sr. León. ¡Es el más fuerte de todo este lugar!</Content>
+        </Dialog>
+        <Dialog ID="66" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald21</VoiceFile>
+          <Content>Puede parecer frío y agudo, pero por dentro, en realidad es suave y cálido como un abrigo de piel. ¡No es un león malo!</Content>
+        </Dialog>
+        <Dialog ID="67" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald22</VoiceFile>
+          <Content>La gente suele dejar muchas reseñas de 5-estrellas sobre la barriga del Sr. León, ¿saben~?</Content>
+        </Dialog>
+        <Dialog ID="68" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah27</VoiceFile>
+          <Content>Mmm... Los dientes de este león son extrañamente redondos y desaliñados.</Content>
+        </Dialog>
+        <Dialog ID="69" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma21</VoiceFile>
+          <Content>¿De qué estás hablando, Noah? Son afilados, podría lastimarte si los tocas... ¿Estás demasiado cansado?</Content>
+        </Dialog>
+        <Dialog ID="70" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah28</VoiceFile>
+          <Content>... Quizás me confundí con algo más en la oscuridad. Realmente no quiero... acabar en su barriga...</Content>
+        </Dialog>
+        <Dialog ID="71" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald23</VoiceFile>
+          <Content>¡Y este es el Sr. Elefante! Es el que hace más ruido en el circo.</Content>
+        </Dialog>
+        <Dialog ID="72" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald24</VoiceFile>
+          <Content>En serio... ¡Ama cantar tanto todo el tiempo, tuvimos que darle un dulce para que se quedara callado!</Content>
+        </Dialog>
+        <Dialog ID="73" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald25</VoiceFile>
+          <Content>¡No quiero que nadie nos reporte por contaminación acústica!</Content>
+        </Dialog>
+        <Dialog ID="74" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah29</VoiceFile>
+          <Content>Esto está en el medio de la nada, no pienso que nadie podría—</Content>
+        </Dialog>
+        <Dialog ID="75" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald26</VoiceFile>
+          <Content>¡No seas un alce tonto! Las Sras. Hormigas se pondrían tristes al escucharte. Tenemos una colonia de hormigas debajo de nosotros.</Content>
+        </Dialog>
+        <Dialog ID="76" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald27</VoiceFile>
+          <Content>¡Y también tenemos a la Sra. Sirena, Sr. Sombrero de Cono Hexagonal, Sr. Cuchillo y muchos, muchos otros!</Content>
+        </Dialog>
+        <Dialog ID="77" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald28</VoiceFile>
+          <Content>La Sra. Sirena se unió a nosotros porque estaba muuuuuuy asustada del mar. ¡Ella está muy feliz en tierra ahora mismo!</Content>
+        </Dialog>
+        <Dialog ID="78" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah30</VoiceFile>
+          <Content>Eso es raro, pensaba que las sirenas vivían en el mar...</Content>
+        </Dialog>
+        <Dialog ID="79" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald29</VoiceFile>
+          <Content>¡Hmph, este es el motivo de que no trato con persona que tienen arroz frío por cerebro!</Content>
+        </Dialog>
+        <Dialog ID="80" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald30</VoiceFile>
+          <Content>Estamos hablando de cultura general aquí. El conocimiento más básico de todos. ¿No sabes que vivir en el mar te convierte en comida para peces?</Content>
+        </Dialog>
+        <Dialog ID="81" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah31</VoiceFile>
+          <Content>Digo, las sirenas también son peces...</Content>
+        </Dialog>
+        <Dialog ID="82" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald31</VoiceFile>
+          <Content>¡¡¡Demente!!!</Content>
+        </Dialog>
+        <Dialog ID="83" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald32</VoiceFile>
+          <Content>¡¡¡Los peces comen peces todo el tiempo!!!</Content>
+        </Dialog>
+        <Dialog ID="84" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald33</VoiceFile>
+          <Content>... ¡Phew, emocionarme tanto no encaja con mi personaje! ¿Dónde me había quedado?</Content>
+        </Dialog>
+        <Dialog ID="85" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah32</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="86" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma22</VoiceFile>
+          <Content>¡Wow, Sr. Payaso Limón, estos son los miembros de circo más geniales que nunca había visto!</Content>
+        </Dialog>
+        <Dialog ID="87" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma23</VoiceFile>
+          <Content>Son... especiales. Siento como si algo en ellos hablara con mi corazón.</Content>
+        </Dialog>
+        <Dialog ID="88" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah33</VoiceFile>
+          <Content>No me digas que de verdad te gusta esta carpa llena de chiflados. No me lo creo.</Content>
+        </Dialog>
+        <Dialog ID="89" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma24</VoiceFile>
+          <Content>No seas tan amargado, Noah. Este lugar es maravilloso, ¿no puedes verlo?</Content>
+        </Dialog>
+        <Dialog ID="90" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma25</VoiceFile>
+          <Content>Y hacen a la gente sonreír en tiempos tan duros como este. Un circo... también quiero verlo.</Content>
+        </Dialog>
+        <Dialog ID="91" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah34</VoiceFile>
+          <Content>Olvídalo. Esto es una locura... Puedes quedarte si quieres, yo me voy.</Content>
+        </Dialog>
+        <Dialog ID="92" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma26</VoiceFile>
+          <Content>Pero es una oportunidad tan rara...</Content>
+        </Dialog>
+        <Dialog ID="93" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald34</VoiceFile>
+          <Content>Ah, ¿quieres unirte a nosotros?</Content>
+        </Dialog>
+        <Dialog ID="94" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma27</VoiceFile>
+          <Content>¿Perdón? Um... No, en realidad... Solo quería mirar su espectáculo.</Content>
+        </Dialog>
+        <Dialog ID="95" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald35</VoiceFile>
+          <Content>Oh, es una pena... No todos pueden entender mis palabras y acciones y terminan dejándome, uno a uno.</Content>
+        </Dialog>
+        <Dialog ID="96" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald36</VoiceFile>
+          <Content>¡Mis compañeros secretos fueron los únicos que se quedaron conmigo hasta el final!</Content>
+        </Dialog>
+        <Dialog ID="97" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald37</VoiceFile>
+          <Content>La sirena que come gominolas dentro de conchas marinas... El hámster que es tan alto que puede beber nubes del cielo...</Content>
+        </Dialog>
+        <Dialog ID="98" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma28</VoiceFile>
+          <Content>Oh...</Content>
+        </Dialog>
+        <Dialog ID="99" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald38</VoiceFile>
+          <Content>Mis esfuerzos por brindarles sonrisas a todos fueron adorados por el Sr. Sol, quien me susurró que mi deseo se haría realidad.</Content>
+        </Dialog>
+        <Dialog ID="100" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald39</VoiceFile>
+          <Content>¡Era el increíble, alucinante deseo de disfrutar junto con mis compañeros secretos!</Content>
+        </Dialog>
+        <Dialog ID="101" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald40</VoiceFile>
+          <Content>Así que ahora estoy viviendo el sueño de mi vida, actuando alegremente en este circo con mis amigos todas las noches.</Content>
+        </Dialog>
+        <Dialog ID="102" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah35</VoiceFile>
+          <Content>Alegría... Sueños...</Content>
+        </Dialog>
+        <Dialog ID="103" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald41</VoiceFile>
+          <Content>¡Es bastante obvio que te ibas a sentir atraído a nosotros! ¡Entiendo tus sentimientos!.</Content>
+        </Dialog>
+        <Dialog ID="104" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah36</VoiceFile>
+          <Content>¿Realmente puedo ser feliz... Si me uno a tu circo?</Content>
+        </Dialog>
+        <Dialog ID="105" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald42</VoiceFile>
+          <Content>¡Ni lo digas! ¡Cada momento en tu vida estará rebosante del emocionante sabor de la pimienta!</Content>
+        </Dialog>
+        <Dialog ID="106" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah37-01</VoiceFile>
+          <Content>Voy a ser despedido de J Corp. por mi error de todos modos... tampoco quiero regresar a los Barrios Bajos...</Content>
+        </Dialog>
+        <Dialog ID="107" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah38-01</VoiceFile>
+          <Content>Incluso si sigo teniendo mi trabajo, no quiero poner mis pies en ese infierno de nuevo.</Content>
+        </Dialog>
+        <Dialog ID="108" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah39-01</VoiceFile>
+          <Content>Yo... yo solo quiero ver el mundo y el cielo desde un lugar más alto.</Content>
+        </Dialog>
+        <Dialog ID="109" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah40-01</VoiceFile>
+          <Content>Sé que mi sueño era uno vacío... Sabía que no había forma de que pudiera conseguirlo mientras siguiera en el fondo.</Content>
+        </Dialog>
+        <Dialog ID="110" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah41-01</VoiceFile>
+          <Content>Y cuando finalmente terminé de arrastrarme todo el camino hacia arriba... Estuve mirando a pantallas aburridas hasta ser despedido.</Content>
+        </Dialog>
+        <Dialog ID="111" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma29</VoiceFile>
+          <Content>Noah... Si hay algo en lo que pueda ayudarte...</Content>
+        </Dialog>
+        <Dialog ID="112" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah42</VoiceFile>
+          <Content>¿Qué? Hahaha... Te sigues burlando de mí...</Content>
+        </Dialog>
+        <Dialog ID="113" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah43</VoiceFile>
+          <Content>Siempre es sobre dinero, dinero, dinero. Siempre dices que puedes resolver mis problemas con dinero; ¿piensas que todo funcionará si solo lanzas el dinero?</Content>
+        </Dialog>
+        <Dialog ID="114" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah44</VoiceFile>
+          <Content>¿Por qué me seguiste a ese departamento de mierda en primer lugar? Puedes vivir bien sin eso.</Content>
+        </Dialog>
+        <Dialog ID="115" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah45</VoiceFile>
+          <Content>No, sabes qué, solo... Solo olvídalo todo.</Content>
+        </Dialog>
+        <Dialog ID="116" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah46</VoiceFile>
+          <Content>Eh, payaso de ahí. Quiero ser parte de tu equipo.</Content>
+        </Dialog>
+        <Dialog ID="117" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro Corporativo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma30</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="118" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald43</VoiceFile>
+          <Content>¡Oh... El ánimo no parece muy brillante aquí!</Content>
+        </Dialog>
+        <Dialog ID="119" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald44</VoiceFile>
+          <Content>No puedes unirte a nosotros si estás por ahí con esas lágrimas colgando, ¿sabes?</Content>
+        </Dialog>
+        <Dialog ID="120" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald45</VoiceFile>
+          <Content>¡Aha! Te ayudaré a decirle adiós a esos malos amigos colgando en tus mejillas. ¡Todos seremos amigos cuando abras los ojos!</Content>
+        </Dialog>
+        <Dialog ID="121" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald46</VoiceFile>
+          <Content>Entonces, vamos...</Content>
+        </Dialog>
+        <Dialog ID="122" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald47</VoiceFile>
+          <Content>... ¡Ah, finalmente estás despierto! ¡Estuviste durmiendo por tanto tiempo, estaba comenzando a preocuparme si iba a tener que poner un muslo bien cocido en tu nariz!</Content>
+        </Dialog>
+        <Dialog ID="123" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah47</VoiceFile>
+          <Content>El mundo... Mis ojos... Hay demasiados mundos. Qué demonios. Está haciendo que mi cabeza de vueltas...</Content>
+        </Dialog>
+        <Dialog ID="124" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald48</VoiceFile>
+          <Content>No te preocupes. ¡Te acostumbrarás pronto!</Content>
+        </Dialog>
+        <Dialog ID="125" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald49</VoiceFile>
+          <Content>¡Un regalo para un observador y curioso amigo, que quería presenciar el mundo desde un lugar más alto!</Content>
+        </Dialog>
+        <Dialog ID="126" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald50</VoiceFile>
+          <Content>Te di unos ojos que pueden verlo todo, desde hormigas en el piso hasta arañas en el techo. ¡Considera esto tu regalo de bienvenida!</Content>
+        </Dialog>
+        <Dialog ID="127" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah48</VoiceFile>
+          <Content>Qué... qué significa eso... Emma... ¡Dónde está Emma!</Content>
+        </Dialog>
+        <Dialog ID="128" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma31</VoiceFile>
+          <Content>Está bien, Noah. Aunque no puedas verme, he estado a tu lado todo este tiempo.</Content>
+        </Dialog>
+        <Dialog ID="129" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma32</VoiceFile>
+          <Content>¡Finalmente pude ayudarte por quien soy, no en una forma material!</Content>
+        </Dialog>
+        <Dialog ID="130" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma33</VoiceFile>
+          <Content>Tenías razón. Viví mi vida siendo protegido, así que no sé demasiado.</Content>
+        </Dialog>
+        <Dialog ID="131" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma34</VoiceFile>
+          <Content>El escenario que vi simplemente pasaría de largo.</Content>
+        </Dialog>
+        <Dialog ID="132" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma35</VoiceFile>
+          <Content>Te levantaré. Serás capaz de ver más cosas desde nuevas alturas.</Content>
+        </Dialog>
+        <Dialog ID="133" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald51</VoiceFile>
+          <Content>¡Estoy contento de que te gustara nuestro regalo!</Content>
+        </Dialog>
+        <Dialog ID="134" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald52</VoiceFile>
+          <Content>Sin embargo, tengo un favor que pedirles a ambos.</Content>
+        </Dialog>
+        <Dialog ID="135" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah49</VoiceFile>
+          <Content>¿Qué sucede?</Content>
+        </Dialog>
+        <Dialog ID="136" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald53</VoiceFile>
+          <Content>En realidad... ¡Chicos malos vinieron a nuestro circo hace un tiempo y se tragaron a mis amigos enteros! </Content>
+        </Dialog>
+        <Dialog ID="137" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald54</VoiceFile>
+          <Content>Pobre Sra. Hipopótamo y Sr. Bola... Estaba tan triste ese día, mi ceño era tan largo como tres salchichas...</Content>
+        </Dialog>
+        <Dialog ID="138" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald55</VoiceFile>
+          <Content>Y mi gran y magnífico palacio fue arruinado gracias a ellos.</Content>
+        </Dialog>
+        <Dialog ID="139" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma36</VoiceFile>
+          <Content>Eso es horrible. ¿Quiénes fueron los culpables?</Content>
+        </Dialog>
+        <Dialog ID="140" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald56</VoiceFile>
+          <Content>No importa quiénes eran. ¡Todo lo que sé... es que fueron a un lugar llamado la Biblioteca!</Content>
+        </Dialog>
+        <Dialog ID="141" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald57</VoiceFile>
+          <Content>Nuestro espléndido circo nunca ha fallado ni una vez, pero alguna razón, no pudimos mover sus corazones...</Content>
+        </Dialog>
+        <Dialog ID="142" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald58</VoiceFile>
+          <Content>¡Quiero saberlo! ¡¡¡POOOOR QUEEEEÉ!!!</Content>
+        </Dialog>
+        <Dialog ID="143" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald59</VoiceFile>
+          <Content>... ¡Oh no no no, whew! Me pregunto cómo no los hicimos conmover a pesar de nuestros lindos trucos y actos.</Content>
+        </Dialog>
+        <Dialog ID="144" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald60</VoiceFile>
+          <Content>Si pudiéramos leer sus libros... Entonces podría hacer un circo tan entretenido, que incluso gente como esa se sacudiría de la emoción, ¿no opinas lo mismo?</Content>
+        </Dialog>
+        <Dialog ID="145" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah50</VoiceFile>
+          <Content>... Parece difícil, pero si esto está escrito en sus libros, seriamos capaces de tener un circo incluso más grande.</Content>
+        </Dialog>
+        <Dialog ID="146" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma37</VoiceFile>
+          <Content>Pero estará bien entrar en ese lugar...</Content>
+        </Dialog>
+        <Dialog ID="147" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald61</VoiceFile>
+          <Content>¡Oh, qué compasivos son! Sabía que podía contar con ustedes. Sniff, sniff...</Content>
+        </Dialog>
+        <Dialog ID="148" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald62</VoiceFile>
+          <Content>¡Si logran regresar, entonces haremos una fiesta para celebrarlo!</Content>
+        </Dialog>
+        <Dialog ID="149" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald63</VoiceFile>
+          <Content>¡Tendremos un festín con delicias de otro mundo como un cóctel de mar adornado con un trozo de nube y papas fritas con chile de melena de león!</Content>
+        </Dialog>
+        <Dialog ID="150" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah51</VoiceFile>
+          <Content>Suena prometedor. ¿Qué dices, Emma...? ¿Deberíamos ir?</Content>
+        </Dialog>
+        <Dialog ID="151" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma38</VoiceFile>
+          <Content>Si eso es lo que quieres.</Content>
+        </Dialog>
+        <Dialog ID="152" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald64</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="153" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald65</VoiceFile>
+          <Content>¡Phew, ahora tengo que preparar un montón de cosas! </Content>
+        </Dialog>
+        <Dialog ID="154" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald66</VoiceFile>
+          <Content>Primero que nada, para el dúo... ¡Prepararé un exquisito festín que los hará llorar de la emoción!</Content>
+        </Dialog>
+        <Dialog ID="155" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald67</VoiceFile>
+          <Content>Necesito reclutar algunos más para mi circo... Practicar con las escamas de la Sra. Sirena y entonces...</Content>
+        </Dialog>
+        <Dialog ID="156" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald68</VoiceFile>
+          <Content>¡Oh! ¡¿Quién es este intruso tan grosero?!</Content>
+        </Dialog>
+        <Dialog ID="157" Model="필립">
+          <Teller>Philip</Teller>
+          <Title>Ex-Fixer de Dawn</Title>
+          <VoiceFile>ch5_Circus_ep1_Philip1-01</VoiceFile>
+          <Content>... ¿Dónde estoy...?</Content>
+        </Dialog>
+        <Dialog ID="158" Model="필립">
+          <Teller>Philip</Teller>
+          <Title>Ex-Fixer de Dawn</Title>
+          <VoiceFile>ch5_Circus_ep1_Philip2</VoiceFile>
+          <Content>Estaba... peleando dentro de la Biblioteca...</Content>
+        </Dialog>
+        <Dialog ID="159" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald69</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="160" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald70</VoiceFile>
+          <Content>... ¡Hahaha! ¿Quizás eres el payaso nuevo? ¿O quizás estás aquí para ver nuestro espectáculo?</Content>
+        </Dialog>
+        <Dialog ID="161" Model="필립">
+          <Teller>Philip</Teller>
+          <Title>Ex-Fixer de Dawn</Title>
+          <VoiceFile>ch5_Circus_ep1_Philip3-03</VoiceFile>
+          <Content>No, yo...</Content>
+        </Dialog>
+        <Dialog ID="162" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald71</VoiceFile>
+          <Content>¡No importa! Celebrar una pequeña actuación para nuestro visitante inesperado debería ser tan fácil como mascar chicle frío con sabor a pastel.</Content>
+        </Dialog>
+        <Dialog ID="163" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald72</VoiceFile>
+          <Content>¡Esto es... el Circo de las Ocho en Punto!</Content>
+        </Dialog>
+        <Dialog ID="164" Model="오스왈드">
+          <Teller>Oswald</Teller>
+          <Title>Director del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Oswald73</VoiceFile>
+          <Content>Traemos las mejores sonrisas a la gente maloliente de la Ciudad que han perdido sus tallos de flores.</Content>
+        </Dialog>
+        <Dialog ID="165" Model="필립">
+          <Teller>Philip</Teller>
+          <Title>Ex-Fixer de Dawn</Title>
+          <VoiceFile>ch5_Circus_ep1_Philip4</VoiceFile>
+          <Content>¿Qué...? ¿El Circo... de las Ocho en punto?</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="166" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Circus_ep1_Roland1</VoiceFile>
+          <Content>Hunh, me preguntaba dónde fue enviado Philip con el dispositivo de Oscar... Y tuvo que llegar ahí de todos los lugares...</Content>
+        </Dialog>
+        <Dialog ID="167" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Circus_ep1_Roland2</VoiceFile>
+          <Content>Tengo curiosidad de lo que ese payaso loco va a hacer ahora. La Invitación siempre corta las cosas en el peor momento, podría habernos mostrado un poco más...</Content>
+        </Dialog>
+        <Dialog ID="168" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Circus_ep1_Angela1</VoiceFile>
+          <Content>Él no es el invitado de hoy, así que no importa mucho, ¿no es así? Y la Invitación simplemente muestra lo que necesitamos ver, así que no te quejes sobre eso.</Content>
+        </Dialog>
+        <Dialog ID="169" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Circus_ep1_Roland3</VoiceFile>
+          <Content>... Es justo.</Content>
+        </Dialog>
+        <Dialog ID="170" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Circus_ep1_Roland4</VoiceFile>
+          <Content>Dejando eso de lado, literalmente un chico largo y otro con cuatro ojos... Ambos se ven elegantes, pero ninguno parecía normal.</Content>
+        </Dialog>
+        <Dialog ID="171" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Circus_ep1_Angela2</VoiceFile>
+          <Content>Alguien que necesita la ayuda de otra persona para pararse alto... No estoy segura de entenderlo.</Content>
+        </Dialog>
+        <Dialog ID="172" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Circus_ep1_Roland5</VoiceFile>
+          <Content>Bueno, no tienes demasiadas elecciones a menos que nacieras en una familia rica, ¿sabes?</Content>
+        </Dialog>
+        <Dialog ID="173" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Circus_ep1_Roland6</VoiceFile>
+          <Content>Ser un niño superdotado no importa si no tienes el dinero para apoyarlo.</Content>
+        </Dialog>
+        <Dialog ID="174" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Circus_ep1_Angela3</VoiceFile>
+          <Content>¿Estás diciendo que el trabajo duro por sí solo no puede ganar reconocimiento?</Content>
+        </Dialog>
+        <Dialog ID="175" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Circus_ep1_Roland7</VoiceFile>
+          <Content>Ese suele ser el caso para las personas que no son bendecidas con pura fortuna.</Content>
+        </Dialog>
+        <Dialog ID="176" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Circus_ep1_Angela4</VoiceFile>
+          <Content>Si lo que dices es correcto, tener dinero te llevaría a la felicidad. Pero ese hombre que vimos estaba enojado sobre esa idea, en lugar de ser feliz. ¿Por qué es eso?</Content>
+        </Dialog>
+        <Dialog ID="177" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Circus_ep1_Roland8</VoiceFile>
+          <Content>Es diferente de persona en persona. Podría ser su último poco de orgullo, podría ser el miedo de ganar la reputación de ser un hombre codicioso que solo hace amigos con su dinero... Encima de eso, también duele un poco.</Content>
+        </Dialog>
+        <Dialog ID="178" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Circus_ep1_Roland9</VoiceFile>
+          <Content>Por lo encantador que sea el tener a alguien que está feliz de darte su dinero para ayudarte... Puede hacer que te sientas enojado y despreciado al mismo tiempo.</Content>
+        </Dialog>
+        <Dialog ID="179" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Circus_ep1_Angela5</VoiceFile>
+          <Content>¿Enojado sobre qué?</Content>
+        </Dialog>
+        <Dialog ID="180" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Circus_ep1_Roland10</VoiceFile>
+          <Content>Sobre como tuviste que rendirte con todos tus sueños porque no eras lo suficientemente rico y tu amigo está listo para darte su dinero como si fuera calderilla para ellos.</Content>
+        </Dialog>
+        <Dialog ID="181" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Circus_ep1_Roland11</VoiceFile>
+          <Content>Y estás básicamente arrastrando a ese amigo rico en tu desastre de vida al conseguir ayuda financiera de ellos, ¿eso no sería una angustia moralmente hablando?</Content>
+        </Dialog>
+        <Dialog ID="182" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Circus_ep1_Angela6</VoiceFile>
+          <Content>Quizás el amigo solo quería ayudar, pero no sabía la mejor manera de hacerlo.</Content>
+        </Dialog>
+        <Dialog ID="183" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Circus_ep1_Roland12</VoiceFile>
+          <Content>Cualquiera que sea el caso. Es sobre como el que recibe lo toma, sin importar la intención.</Content>
+        </Dialog>
+        <Dialog ID="184" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Circus_ep1_Angela7</VoiceFile>
+          <Content>... Ya veo.</Content>
+        </Dialog>
+        <Dialog ID="185" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Circus_ep1_Roland13</VoiceFile>
+          <Content>Volviendo a nuestros invitados que se unieron voluntariamente a un espectáculo de monstruos... Supongo que estaban así de desesperados para conseguir sus sueños.</Content>
+        </Dialog>
+        <Dialog ID="186" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Circus_ep1_Roland14</VoiceFile>
+          <Content>Este mundo es lo suficientemente grande para llenarse de todo tipo de gente rara... Puedo entender el que quieran tener un refugio de la realidad.</Content>
+        </Dialog>
+        <Dialog ID="187" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch5_Circus_ep1_Roland15</VoiceFile>
+          <Content>Pero incluso entonces... pensar en qué tipo de cuerpo horrible podría estar escondido debajo de esa hermosa ropa... Geh, me están dando arcadas.</Content>
+        </Dialog>
+        <Dialog ID="188" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Circus_ep1_Angela8</VoiceFile>
+          <Content>Controla tu curiosidad innecesaria. Deberías centrarte en la recepción.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Localización: Fuera de la Biblioteca</PlaceName>
+        <Dialog ID="189" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma39</VoiceFile>
+          <Content>¿Estoy en el camino correcto? Seguimos lejos de la Biblioteca...</Content>
+        </Dialog>
+        <Dialog ID="190" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah52</VoiceFile>
+          <Content>No, está justo delante de nosotros. Da pasos pequeños por si acaso.</Content>
+        </Dialog>
+        <Dialog ID="191" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah53</VoiceFile>
+          <Content>Para un lugar que se supone que está lleno de monstruos... Es bastante tranquilo y limpio.</Content>
+        </Dialog>
+        <Dialog ID="192" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma40</VoiceFile>
+          <Content>Pienso que este lugar es grande y elegante... aunque no tanto como nuestro circo. Mi cabeza no está chocando contra ningún techo.</Content>
+        </Dialog>
+        <Dialog ID="193" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Circus_ep1_Angela9</VoiceFile>
+          <Content>Bienvenidos, queridos invitados.</Content>
+        </Dialog>
+        <Dialog ID="194" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Circus_ep1_Angela10</VoiceFile>
+          <Content>Soy Angela, directora y bibliotecaria de esta Biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="195" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma41</VoiceFile>
+          <Content>¡¡Hola!! ¡¡Puedes oír mi voz~!!</Content>
+        </Dialog>
+        <Dialog ID="196" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Circus_ep1_Angela11</VoiceFile>
+          <Content>... Sí, puedo oírte fuerte y claro. No hay necesidad de gritar.</Content>
+        </Dialog>
+        <Dialog ID="197" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah54</VoiceFile>
+          <Content>Está justo debajo de nosotros, compañero. Y piensa en mí que debo escuchar tu voz de cerca.</Content>
+        </Dialog>
+        <Dialog ID="198" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma42</VoiceFile>
+          <Content>Heh heh, lo siento. Pensé que la gente abajo no sería capaz de escucharme porque soy tan alto.</Content>
+        </Dialog>
+        <Dialog ID="199" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma43</VoiceFile>
+          <Content>¡Angela! Si logramos conseguir todos los libros que necesitamos... ¡Te invitaremos a nuestra próxima actuación!</Content>
+        </Dialog>
+        <Dialog ID="200" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah55</VoiceFile>
+          <Content>Estoy seguro de que esos libros contienen los secretos para hacer a las personas más felices...</Content>
+        </Dialog>
+        <Dialog ID="201" Model="노아">
+          <Teller>Noah</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Noah56</VoiceFile>
+          <Content>Con eso, seré capaz de convertir tu mirada fría en una cálida sonrisa.</Content>
+        </Dialog>
+        <Dialog ID="202" Model="에마">
+          <Teller>Emma</Teller>
+          <Title>Miembro del Circo</Title>
+          <VoiceFile>ch5_Circus_ep1_Emma44</VoiceFile>
+          <Content>¡¡Prometemos traerte felicidad, así que por favor!! Espéralo con ansias.</Content>
+        </Dialog>
+        <Dialog ID="203" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Circus_ep1_Angela12</VoiceFile>
+          <Content>... Sí. Aprecio sus sentimientos.</Content>
+        </Dialog>
+        <Dialog ID="204" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch5_Circus_ep1_Angela13</VoiceFile>
+          <Content>Que... encuentres tu libro en este lugar.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+>>>>>>> parent of 5c575d3 (Update RU_Chapter5.xml)
       <EpisodeName>Episode 1 Epilogue</EpisodeName>
       <Place>
         <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
