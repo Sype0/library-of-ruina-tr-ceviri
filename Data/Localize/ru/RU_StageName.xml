@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <CharactersNameRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Name ID="2">Fareler</Name>
-	<Name ID="3">Yun Bürosu Düzelticileri</Name>
-	<Name ID="4">Yun Bürosu Çaylak</Name>
-	<Name ID="5">Yun Bürosu</Name>
+	<Name ID="3">Yun'un Ofisi Düzelticileri</Name>
+	<Name ID="4">Yun'un Ofisi Çaylagi</Name>
+	<Name ID="5">Yun'un Ofisi</Name>
 	<Name ID="6">Demir Kardesligi</Name>
-	<Name ID="7">Kanca Bürosu</Name>
-	<Name ID="10001">Pierre'in Bistrosu</Name>
-	<Name ID="10002">Sokak Lambasi Bürosu</Name>
-	<Name ID="10003">Sokak Lambasi Lulu</Name>
+	<Name ID="7">Kanca Ofisi</Name>
+	<Name ID="10001">Pierre'nin Bistrosu</Name>
+	<Name ID="10002">Sokak Lambasi Ofisi</Name>
+	<Name ID="10003">Sokak Lambasi'ndan Lulu</Name>
 	<Name ID="20001">Zwei Üyeleri</Name>
 	<Name ID="20002">Zwei Birligi Ⅰ</Name>
 	<Name ID="20003">Zwei Birligi Ⅱ</Name>
-	<Name ID="20004">Azidisi Bürosu</Name>
+	<Name ID="20004">Azidisi Ofisi</Name>
 	<Name ID="20005">Sokak Köpekleri</Name>
   <Name ID="30001">Karnaval</Name>
-  <Name ID="30002">Tam Durak Bürosu</Name>
-  <Name ID="30003">safak Bürosu</Name>
-  <Name ID="30004">Bakis Bürosu</Name>
+  <Name ID="30002">Tam-Tarikat Durdurma Ofisi</Name>
+  <Name ID="30003">Safak Ofisi</Name>
+  <Name ID="30004">Bakis Ofisi</Name>
   <Name ID="30005">Tomerry</Name>
   <Name ID="30006">Kurokumo Klani</Name>
   <Name ID="30007">Bremen Mizikacilari</Name>
-  <Name ID="30008">Kama Bürosu</Name>
+  <Name ID="30008">Kama Ofisi</Name>
   <Name ID="40001">Shi Birligi</Name>
   <Name ID="40002">Kuklalar</Name>
   <Name ID="40003">Saat 8 Sirki</Name>
   <Name ID="40004">Süpürücüler</Name>
-  <Name ID="40005">indeks Misyoneri</Name>
+  <Name ID="40005">indeks Misyonerleri</Name>
   <Name ID="40006">WARP Temizlik Ekibi</Name>
-  <Name ID="40007">Gülen Yüzler</Name>
+  <Name ID="40007">Gülümseyen Suratlar</Name>
   <Name ID="40008">Aglayan Çocuklar</Name>
   <Name ID="50001">Liu Birligi Bölüm 2</Name>
 	<Name ID="50002">Liu Birligi Bölüm 2 Ⅱ</Name>
   <Name ID="50003">Basparmak</Name>
   <Name ID="50004">Basparmak Ⅱ</Name>
-  <Name ID="50005">Baston Bürosu</Name>
+  <Name ID="50005">Baston Ofisi</Name>
   <Name ID="50006">Mavi Yanki</Name>
-  <Name ID="50007">indeks Vekili</Name>
+  <Name ID="50007">indeks Vekilleri</Name>
   <Name ID="50008">Liu Birligi Bölüm 1</Name>
-  <Name ID="50010">R sirketi</Name>
-  <Name ID="50011">R sirketi Ⅱ</Name>
+  <Name ID="50010">R Corp.</Name>
+  <Name ID="50011">R Corp. Ⅱ</Name>
   <Name ID="50012">Mor Gözyasi</Name>
   <Name ID="50013">Xiao</Name>
 
   <Name ID="60001">Hana Birligi</Name>
   <Name ID="60002">Olivier</Name>
   
-  <Name ID="100001">Varos Kasabi</Name>
-	<Name ID="100002">Kanca Bürosu Kalintilari</Name>
-	<Name ID="100003">sehir Masali Sinifi Sendika</Name>
-	<Name ID="100004">Sinif 8 Tamirci</Name>
-	<Name ID="100005">Sinif 7 Tamirci</Name>
-	<Name ID="100006">sehir Efsanesi Sinifi Büro</Name>
-	<Name ID="100007">sehir Efsanesi Sinifi Sendika</Name>
+  <Name ID="100001">Arka Sokaklar Kasaplari</Name>
+	<Name ID="100002">Kanca Ofisi Artiklari</Name>
+	<Name ID="100003">Sehir Masali Sinifi Sendika</Name>
+	<Name ID="100004">8.Sinif Düzelticiler</Name>
+	<Name ID="100005">7.Sinif Düzelticiler</Name>
+	<Name ID="100006">Sehir Efsanesi Sinifi Ofis</Name>
+	<Name ID="100007">Sehir Efsanesi Sinifi Sendika</Name>
 	<Name ID="100008">Balta Çetesi</Name>
   <Name ID="100009">Pasli Zincirler</Name>
-  <Name ID="100010">Atölyeye Bagli Düzeltici</Name>
+  <Name ID="100010">Atölyeye Bagli Düzelticiler</Name>
   <Name ID="100011">Yedi Birligi</Name>
   <Name ID="100012">Kiliç Soyu</Name>
-  <Name ID="100013">Sinif 1 Tamirci Dong-hwan</Name>
+  <Name ID="100013">Dong-hwan 1.Sinif Düzeltici</Name>
   
   <Name ID="210001">Kan Banyosu</Name>
   <Name ID="210002">Arzunun Kalbi</Name>
-  <Name ID="201001">Yanik Kiz</Name>
+  <Name ID="201001">Kavrulmus Kiz</Name>
   <Name ID="201002">Mutlu Oyuncak Ayi</Name>
   <Name ID="202001">Unutulmus Katil</Name>
   <Name ID="202002">Küçük Yardimci</Name>
   <Name ID="203001">Bugünün Çekingen Bakisi</Name>
   <Name ID="203002">Kirmizi Ayakkabilar</Name>
-  <Name ID="204001">Evren Parçasi</Name>
-  <Name ID="204002">Galaksi Çocugu</Name>
+  <Name ID="204001">Evrenin Parçasi</Name>
+  <Name ID="204002">Galaksinin Çocugu</Name>
 
   <Name ID="201003">Peri Festivali</Name>
   <Name ID="203003">Örümcek Kozasi</Name>
   <Name ID="204003">Porccubus</Name>
 
-  <Name ID="202003">sarki Söyleyen Makine</Name>
+  <Name ID="202003">Sarki Söyleyen Makine</Name>
 
   <Name ID="210003">Pinokyo</Name>
 
@@ -83,16 +83,16 @@
 
   <Name ID="205002">Umutsuzluk sövalyesi</Name>
 
-  <Name ID="201004">Ari Kraliçe</Name>
+  <Name ID="201004">Kraliçe Ari</Name>
 
   <Name ID="206001">Kirmizi Baslikli Parali Asker</Name>
   <Name ID="207001">Bilgelik Arayan Korkuluk</Name>
 
-  <Name ID="207002">iyi Kalpli Oduncu</Name>
+  <Name ID="207002">Sicak Kalpli Oduncu</Name>
 
   <Name ID="202004">Ölü Kelebeklerin Cenazesi</Name>
 
-  <Name ID="206002">Büyük Kötü Kurt</Name>
+  <Name ID="206002">Büyük ve Gelecekte Kötü Olacak Kurt</Name>
 
   <Name ID="205003">Açgözlülük Krali</Name>
 
@@ -146,7 +146,7 @@
   <Name ID="210008">Kar Kraliçesi</Name>
   <Name ID="210009">Sessiz Kiz</Name>
 
-  <Name ID="100014">Jeong Bürosu</Name>
+  <Name ID="100014">Jeong Ofisi</Name>
   <Name ID="100015">Gece Delicisi</Name>
   <Name ID="100016">Udjat</Name>
   <Name ID="100017">Mirae Hayat Sigortasi</Name>
