@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <GroupName>Mavi Yankı 2 Hod</GroupName>
+  <GroupName>The Blue Reverberation2 Hod</GroupName>
   <Character ID="H_G_Greta">
     <Type ID="START_BATTLE">
       <BattleDialog ID="START_BATTLE_0">Hawhawhaw! Malzemeleri hazırlama zamanı mı?</BattleDialog>

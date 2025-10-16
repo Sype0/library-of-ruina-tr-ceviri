@@ -103,7 +103,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep1_roland4</VoiceFile>
-          <Content>En azından canlı gözüküyon.</Content>
+          <Content>En azından canlı gözüküyorsun.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>Roland</Teller>
@@ -211,7 +211,7 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep1_malkuth18</VoiceFile>
-          <Content>Yeah!</Content>
+          <Content>Evet!</Content>
         </Dialog>
       </Place>
     </Episode>

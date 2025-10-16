@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <GroupName>Mavi Yankı 2 Netzach</GroupName>
+  <GroupName>The Blue Reverberation2 Netzach</GroupName>
   <Character ID="N_B_Bremen">
     <Type ID="START_BATTLE">
       <BattleDialog ID="START_BATTLE_0">Hav hav! Koo koriko~ Heehaw~!!</BattleDialog>
