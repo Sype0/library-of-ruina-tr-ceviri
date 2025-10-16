@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="100">
-    <Title>Sephirot Hikayeleri</Title>
+    <Title>Sephirot Substories</Title>
   </Chapter>
   <Group>
     <GroupName>Malkuth – History / The Will to Stand up Straight</GroupName>
@@ -13,13 +13,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep1_roland1</VoiceFile>
-          <Content>Angela'nın dediği gibi. Gerçekten de kütüphaneye bir kat daha büyüdü</Content>
+          <Content>Angela'nın dediği gibi. Gerçekten de kütüphaneye bir kat daha kazandık.</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep1_roland2</VoiceFile>
-          <Content>Selam~ İsmim Roland</Content>
+          <Content>Selam~ İsmim Rolan-</Content>
         </Dialog>
         <Dialog ID="2" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -55,13 +55,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Malkuth_ep1_angela3</VoiceFile>
-          <Content>Anlaşma buydu, hatırlıyorsun değil mi?</Content>
+          <Content>Anlaşma buydu, hatırladın mı?</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Malkuth_ep1_angela4</VoiceFile>
-          <Content>Her şeyi bir kenara bırakıp geri aldığın şu etten vücüdün tanıdını çıkarmaya bak<.</Content>
+          <Content>Ve sonunda şu geri aldığın etten vücudunun değerini bilmeyi dene.</Content>
         </Dialog>
         <Dialog ID="9" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -73,7 +73,7 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep1_malkuth5</VoiceFile>
-          <Content>Heh... Bunu unutma. Seninle hâlâ aynı fikirde değilim!</Content>
+          <Content>Bunu unutma. Seninle hâlâ aynı fikirde değilim!</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -103,13 +103,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep1_roland4</VoiceFile>
-          <Content>En azından canlı görünüyorsun.</Content>
+          <Content>En azından canlı gözüküyon.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep1_roland5</VoiceFile>
-          <Content>Az önce ne oluyordu?</Content>
+          <Content>Demin ne oluyordu?</Content>
         </Dialog>
         <Dialog ID="17" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -151,7 +151,7 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep1_malkuth12</VoiceFile>
-          <Content>Sonra biz kütüphaneciler toplanan kitapları okuyacağız, katlarımızı kademeli olarak oluşturup kütüphaneyi parça parça tamamlıyacağız.</Content>
+          <Content>Sonra biz kütüphaneciler toplanan kitapları okuyacağız, katlarımızı kademeli olarak oluşturup kütüphaneyi bir uzantı olarak tamamlıyacağız.</Content>
         </Dialog>
         <Dialog ID="24" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -211,7 +211,7 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep1_malkuth18</VoiceFile>
-          <Content>Evet, öyle yapalım!</Content>
+          <Content>Yeah!</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -247,13 +247,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland3</VoiceFile>
-          <Content>Bu arada, son buluşmamızda Angela'la konuşurken senin “etten bir vücuda sahip olmak” ile alakalı bir şeyler dediğini hatırlıyor gibiyim.</Content>
+          <Content>Bu arada, son buluşmamızda Angela'nın seninle konuşurken cümlelerden birinde senin “etten bir vücuda sahip olmak” dediğini hatırlıyor gibiyim.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland4</VoiceFile>
-          <Content>Yani, daha önceden, insan falan değil miydin?</Content>
+          <Content>Yani, daha önceden, insan falan değilmiydin?</Content>
         </Dialog>
         <Dialog ID="6" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -289,7 +289,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland8</VoiceFile>
-          <Content>Bunu, vücudunu geri aldığına sevinmediğin şeklinde algılıyorum doğru mu? Angela ile konuşurken çokta mutlu gözükmüyordun.</Content>
+          <Content>Bunu, vücudunu geri aldığına sevinmediğin olarak algılıyorum doğrumu? Aldığın vakit çokta mutlu gözükmüyordun.</Content>
         </Dialog>
         <Dialog ID="12" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -319,19 +319,19 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth8</VoiceFile>
-          <Content>Bu Kütüphane ve kütüphanecilerin oldukça köklü bir geçmişleri var.</Content>
+          <Content>Bu Kütüphane ve kütüphanecilerin çok özlü bir geçmişleri var.</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland10</VoiceFile>
-          <Content>3.denemen? Mezardan falan gerimi dirilebildiğini söylemeyeceksin demi?</Content>
+          <Content>3.denemen? Mezardan falan gerimi dirilebiliyorsun?</Content>
         </Dialog>
         <Dialog ID="18" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth9</VoiceFile>
-          <Content>Aslında bunlar, önceki 2 bedenimden aktarılan birikmiş anılarım, net olmak gerekirse.</Content>
+          <Content>Aslında bu, önceki 2 bedenimden aktarılan birikmiş anılarım, net olmak gerekirse.</Content>
         </Dialog>
         <Dialog ID="19" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -343,19 +343,19 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland11</VoiceFile>
-          <Content>Zor bir sorunla karşılaşıyorsun gibi. Peki ya şuan nasılsın?</Content>
+          <Content>Zor bir sorunla karşılaşıyorsun gibi. Peki ya şu anki halin?</Content>
         </Dialog>
         <Dialog ID="21" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth11</VoiceFile>
-          <Content>...Ben herkesin çalışmalarını boşa çıkaran sorumsuz biriyim. Her zaman öyleydim.</Content>
+          <Content>...Ben herkesin çalışmalarını boşa çıkaran sorumsuz biriyim.</Content>
         </Dialog>
         <Dialog ID="22" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth12</VoiceFile>
-          <Content>Sınırlarımın dışındaki bir şeye ulaşmaya çalışan ve sonunda da sorun çıkaran bir aptalım, sanırım...</Content>
+          <Content>Sınırlarımın dışında bir şeye ulaşmaya çalışan ve sonunda da sorun çıkaran bir aptalım, sanırım...</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>Roland</Teller>
@@ -367,13 +367,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland13</VoiceFile>
-          <Content>Biraz ağırdan alalım istersen</Content>
+          <Content>Şimdi biraz sakinleşelim.</Content>
         </Dialog>
         <Dialog ID="25" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland14</VoiceFile>
-          <Content>Şimdilik derin bir nefes al~</Content>
+          <Content>Derin bir nefes al~</Content>
         </Dialog>
         <Dialog ID="26" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -391,7 +391,7 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth14</VoiceFile>
-          <Content>Fuu!</Content>
+          <Content>Pah~</Content>
         </Dialog>
         <Dialog ID="29" Model="롤랑">
           <Teller>Roland</Teller>
@@ -415,7 +415,7 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep2_malkuth16</VoiceFile>
-          <Content>Fuu!</Content>
+          <Content>Pah~!</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
           <Teller>Roland</Teller>
@@ -445,7 +445,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland19</VoiceFile>
-          <Content>Tamamdır. Ben de işimdilik işime odaklanmalıyım. Geçmişteki benliklerimizin sorunlarını düzeltmek için acele etmeme gerek yok.</Content>
+          <Content>Tamamdır. Ben de işimde gayret göstereceğim. Geçmişteki benliklerimizin sorunlarını düzeltmek için acele etmeyelim.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -505,7 +505,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland5</VoiceFile>
-          <Content>Vay canına, bir an için buranın Yapay Zeka Etiğini birden fazla kez ihlal ettiğini düşündüm. Eğer öyle olsaydı, "Baş" burayı yerle bir etmek için bir anda gelebilirdi.</Content>
+          <Content>Vay canına, bir an için buranın Yapay Zeka Etik Yasası’nı birden fazla kez ihlal ettiğini düşündüm. Eğer öyle olsaydı, Kafa burayı yerle bir etmek için anında gelebilirdi.</Content>
         </Dialog>
         <Dialog ID="9" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -517,7 +517,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland6</VoiceFile>
-          <Content>Aynen, Ona "Baş" derler. Genelde sessiz kalmayı severlermiş ama iş başa düştüğünde korkutucu derecede hızlı ve titizlermiş. Öyle duydum yani...</Content>
+          <Content>Aynen, o Kafa. Genelde sessiz kalmayı severlermiş ama iş başa düştüğünde korkutucu derecede hızlı ve titizlermiş. Öyle duydum yani...</Content>
         </Dialog>
         <Dialog ID="11" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -535,7 +535,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland8</VoiceFile>
-          <Content>Söylediklerini görmezden gelmeye falan çalışmıyordum Malkuth. Eğer seni kötü hissettirdiysem özür dilerim.</Content>
+          <Content>Söylediklerini görmezden gelmeye falan çalışmıyordum, Malkuth. Eğer seni kötü hissettirdiysem özür dilerim.</Content>
         </Dialog>
         <Dialog ID="14" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -583,19 +583,19 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth11</VoiceFile>
-          <Content>Hey, ortamı bozmasana! Burada evet demen gerekiyordu!</Content>
+          <Content>Hey, moralimizi bozmasana! Burada kabul etmen gerekiyordu!</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland12</VoiceFile>
-          <Content>Bana zaten anlatacaksan, neden anlatayım mı diye soruyorsun ki?!</Content>
+          <Content>Bana zaten anlatacaksan, neden zahmet edip anlatayım mı diye soruyorsun ki?!</Content>
         </Dialog>
         <Dialog ID="23" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth12</VoiceFile>
-          <Content>Hahaha. beni yakaladın.</Content>
+          <Content>Hahaha. Orada beni yakaladın.</Content>
         </Dialog>
         <Dialog ID="24" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -607,7 +607,7 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth14</VoiceFile>
-          <Content>Bir anda önemli görevleri yerine getirmem gereken bir rol verildi.</Content>
+          <Content>Uyandığım anda yerine getirmem gereken bir rol verildi.</Content>
         </Dialog>
         <Dialog ID="26" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -625,25 +625,25 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth17</VoiceFile>
-          <Content>Her şeye rağmen, Lobotomy Corp.'ta insanlık dışı eylemler yapmaya devam ettim.</Content>
+          <Content>Böylece, Lobotomy Corp.'ta insanlık dışı eylemler yapmaya devam ettim.</Content>
         </Dialog>
         <Dialog ID="29" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth18</VoiceFile>
-          <Content>Ne yaptığımı çok düşünmedim bile. Ne de olsa hepsi benim için sadece işti.</Content>
+          <Content>Ne yaptığımı sorgulamadım bile, çünkü hepsi benim için sadece işti.</Content>
         </Dialog>
         <Dialog ID="30" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth19</VoiceFile>
-          <Content>Hatta bunların hepsi bana bir tür çağrı gibi geliyordu. Beni yönlendiren tek şey, yeterince çabalamadığım için bir şeylerin yanlış gittiğine dair belirsiz bir histi.</Content>
+          <Content>Hatta bir tür çağrı gibi geliyordu. Beni yönlendiren tek şey, yeterince çabalamadığım için bir şeylerin yanlış gittiğine dair belirsiz bir histi.</Content>
         </Dialog>
         <Dialog ID="31" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth20</VoiceFile>
-          <Content>Sağlıksız çalışma anlayışım, birçok kişiyi tehlikeye sürükledi. Şımarık bir çocuk gibi, başkalarını kendi standartlarıma uymaya zorladım.</Content>
+          <Content>Sağlıksız derecedeki gayret anlayışım, birçok kişiyi tehlikeye sürükledi. Şımarık bir çocuk gibi, başkalarını kendi standartlarıma uymaya zorladım.</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
           <Teller>Roland</Teller>
@@ -661,25 +661,25 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth21</VoiceFile>
-          <Content>Hmm, daha çok... Anılarım bir şekilde bana tekrardan hatırlatıldı demek, daha doğru olur.</Content>
+          <Content>Hmm, daha çok... Anılarım bana hatırlatıldı demek, daha doğru olur!</Content>
         </Dialog>
         <Dialog ID="35" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth22</VoiceFile>
-          <Content>Lobotomy Corp.’taki hayatım ne de olsa ikinci hayatımdı.</Content>
+          <Content>Lobotomy Corp.’taki hayatım aslında ikinci hayatımdı.</Content>
         </Dialog>
         <Dialog ID="36" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth23</VoiceFile>
-          <Content>Ve orada çalışırken duygularımı nihayet ortaya çıktığında, sonunda ilk hayatımı hatırlayabildim.</Content>
+          <Content>Ve orada çalışırken duygularım nihayet ortaya çıktığında, sonunda ilk hayatımı hatırlayabildim.</Content>
         </Dialog>
         <Dialog ID="37" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth24</VoiceFile>
-          <Content>Yaptığım tüm hataları ve başarısızlıkları... pişmanlıkları.</Content>
+          <Content>Yaptığım tüm hataları ve başarısızlıkları... ve pişmanlıkları.</Content>
         </Dialog>
         <Dialog ID="38" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -727,19 +727,19 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland17</VoiceFile>
-          <Content>Ama seni kim diriltti? Ve hangi amaçlarla? Sadece sana o içsel aydınlanmayı verebilmek için mi?</Content>
+          <Content>Ama seni kim diriltti? Ve hangi amaçlarla? Sadece sana o aydınlanmayı vermek için mi?</Content>
         </Dialog>
         <Dialog ID="46" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth30</VoiceFile>
-          <Content>Belki. Böylece tüm bu kederi ve kırgınlığı arkamda bırakabilirdim...</Content>
+          <Content>Belki. Böylece tüm bu kederi ve kırgınlığı bırakabilirdim...</Content>
         </Dialog>
         <Dialog ID="47" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth31</VoiceFile>
-          <Content>Ve bu sayede hatlarımın kefaretimi bulabilirdim...</Content>
+          <Content>Ve böylece kefaretimi bulabilirdim...</Content>
         </Dialog>
         <Dialog ID="48" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -751,7 +751,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland18</VoiceFile>
-          <Content>Angela! Ödümü kopardın. Tüm bu konuşmaları dinliyor muydun yoksa?</Content>
+          <Content>Vay canına! Ödümü kopardın. Tüm bunları dinliyor muydun yoksa?</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -781,7 +781,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela6</VoiceFile>
-          <Content>*İç çeker*...Senin bu saçmalıklarını artık duymaya tahammül edemiyorum.</Content>
+          <Content>*İç çeker*... Bu saçmalıkları artık duymaya tahammül edemiyorum.</Content>
         </Dialog>
         <Dialog ID="55" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -826,7 +826,7 @@
           <Teller>Angela</Teller>
           <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela11</VoiceFile>
-          <Content>Komik. Yaptığınız bu şeyleri “sıkı çalışma” olarak adlandırabilir miyiz?</Content>
+          <Content>Ne komik. Yaptığınız şeyleri “sıkı çalışma” olarak adlandırabilir miyiz?</Content>
         </Dialog>
         <Dialog ID="62" Model="게부라">
           <Teller>Gebura</Teller>
@@ -868,7 +868,7 @@
           <Teller>Binah</Teller>
           <Title>Sefira Çıkarım Ekibi</Title>
           <VoiceFile>ch8_Malkuth_ep3_binah1</VoiceFile>
-          <Content>Kendini bu kadar yalnız hissetme.</Content>
+          <Content>Kendini bu kadar yalnız hissetme şimdi.</Content>
         </Dialog>
         <Dialog ID="69" Model="비나">
           <Teller>Binah</Teller>
@@ -886,19 +886,19 @@
           <Teller>Binah</Teller>
           <Title>Sefira Çıkarım Ekibi</Title>
           <VoiceFile>ch8_Malkuth_ep3_binah3</VoiceFile>
-          <Content>Bu, onun eylemlerinin bir başka sonucu olmalı. Ben sadece tüm olayları içtenlikle kabul ediyorum.</Content>
+          <Content>Bu, onun eylemlerinin bir başka sonucu olmalı. Ben sadece tüm olayları geçerli kabul ediyorum.</Content>
         </Dialog>
         <Dialog ID="72" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela15</VoiceFile>
-          <Content>Yapabilseydim, senin için gözyaşı dökmek isterdim.</Content>
+          <Content>Yapabilseydim, senin için bir şükran gözyaşı dökmek isterdim.</Content>
         </Dialog>
         <Dialog ID="73" Model="비나">
           <Teller>Binah</Teller>
           <Title>Sefira Çıkarım Ekibi</Title>
           <VoiceFile>ch8_Malkuth_ep3_binah4</VoiceFile>
-          <Content>Nasıl istersen öyle davranmaktan çekinme.</Content>
+          <Content>İsteklerine göre hareket etmekten çekinme.</Content>
         </Dialog>
         <Dialog ID="74" Model="호크마">
           <Teller>Hokma</Teller>
@@ -910,7 +910,7 @@
           <Teller>Angela</Teller>
           <Title>AI Sekreter</Title>
           <VoiceFile>ch8_Malkuth_ep3_angela16</VoiceFile>
-          <Content>Artık ne yapıp yapamayacağıma sadece ben karar veriyorum.</Content>
+          <Content>Artık ne yapıp yapamayacağıma ben karar veriyorum.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -931,13 +931,13 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth34</VoiceFile>
-          <Content>Benim hayatım... O, hepsi sadece insanlığı kurtarmak içindi...!</Content>
+          <Content>Benim hayatım... O, insanlığı kurtarmak içindi...!</Content>
         </Dialog>
         <Dialog ID="79" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth35</VoiceFile>
-          <Content>Bu yüzden hayatımı feda etmeye en baştan hazırdım! Daha büyük bir amaç uğrunaydı!</Content>
+          <Content>Bu yüzden hayatımı feda etmeye hazırdım! Daha büyük bir amaç uğrunaydı!</Content>
         </Dialog>
         <Dialog ID="80" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -967,19 +967,19 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep3_malkuth38</VoiceFile>
-          <Content>Sana da aptal gibi mi geliyoruz, Roland?</Content>
+          <Content>Biz sana da aptal gibi mi görünüyoruz, Roland?</Content>
         </Dialog>
         <Dialog ID="85" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland20</VoiceFile>
-          <Content>Hmm... Yani, yeteri kadar detaylara hakim değilim. Şu "insanlığı kurtarma” meselesini de anlayabildiğimi söyleyemem.</Content>
+          <Content>Hmm... Yani, yeteri kadar detayları bilmiyorum. Şu "insanlığı kurtarma” meselesini de pek anlayabilmiş değilim.</Content>
         </Dialog>
         <Dialog ID="86" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep3_roland21</VoiceFile>
-          <Content>Ama samimiyetle sizlerin aradığı şey buysa, yargılamak kimin haddine?</Content>
+          <Content>Ama samimiyetle aradığın buysa, yargılamak kimin haddine?</Content>
         </Dialog>
         <Dialog ID="87" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -1033,13 +1033,13 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth2-01</VoiceFile>
-          <Content>Oh, merhaba Roland! Kütüphanecilerle bir miktar antereman yapıyorduk.</Content>
+          <Content>Oh, merhaba Roland! Kütüphanecilerle antrenman seansı yapıyordum.</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep4_roland2</VoiceFile>
-          <Content>Gayet iyi gidiyor gibi görünüyor. Herkesle iyi anlaşıyorsun sanırım?</Content>
+          <Content>Gayet iyi gidiyor gibi görünüyor. Herkesle iyi anlaşıyorsunuz sanırım?</Content>
         </Dialog>
         <Dialog ID="4" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -1051,7 +1051,7 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth4-01</VoiceFile>
-          <Content>Daha öncelerinde onlara sahada değil de sadece arka plandan yardım edebiliyordum.</Content>
+          <Content>Daha önce onlara sahada değil de sadece arka plandan yardım edebiliyordum.</Content>
         </Dialog>
         <Dialog ID="6" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -1063,7 +1063,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep4_roland3</VoiceFile>
-          <Content>Lobotomy Corp çalışanları, ha?.. Ferahlatıcı bir his olmalı.</Content>
+          <Content>Lobotomy Corp yoldaşları, ha?.. Ferahlatıcı olmalı.</Content>
         </Dialog>
         <Dialog ID="8" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -1087,25 +1087,25 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth9-01</VoiceFile>
-          <Content>Bu ifade hoşuma gitti, tarihde yaşadıklarımızı özetlemenin iyi bir yolu gibi. Ayrıca eskiden duyduğum bir şeye de benziyor.</Content>
+          <Content>Bu ifade hoşuma gitti, tarihin özünü özetlemenin iyi bir yolu gibi. Ayrıca eskiden duyduğum bir şeye de benziyor.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep4_roland4</VoiceFile>
-          <Content>Haksız da değilsin. Ama bugünlerde tarihten herhangi bir ders alabilen çok fazla insan da yok.</Content>
+          <Content>Haksız değilsin. Ama bugünlerde tarihten ders alabilen çok fazla insan yok.</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep4_roland5</VoiceFile>
-          <Content>Ders aslında açık görünüyor ama onu uygulamaya koymak zor olan kısım.</Content>
+          <Content>Ders açık görünüyor ama onu uygulamaya koymak zor olan kısım.</Content>
         </Dialog>
         <Dialog ID="14" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth10</VoiceFile>
-          <Content>Geçmişim hakkında çok düşündüm.</Content>
+          <Content>Geçmiş hakkında çok düşündüm.</Content>
         </Dialog>
         <Dialog ID="15" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -1129,13 +1129,13 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth13</VoiceFile>
-          <Content>Özel biri değildim.Zengin birisi değildim ve herhangi bir konuda özel bir yeteneğim de yoktu.</Content>
+          <Content>Özel biri değildim. Daha zengin değildim ve hiçbir yeteneğim de yoktu.</Content>
         </Dialog>
         <Dialog ID="19" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth14</VoiceFile>
-          <Content>Elijah'ın yaşadığı Yuva'daki insanlar... Hepsi hayatlarındaki amaçlarını kaybetmiş, boşluğa bakmak dışında hiçbir şey yapmıyor gibiydiler.</Content>
+          <Content>Elijah'ın yaşadığı Yuva'daki insanlar... Hepsi hayatlarındaki odak noktasını kaybetmiş, boşluğa bakarak hiçbir şey yapmıyor gibiydiler.</Content>
         </Dialog>
         <Dialog ID="20" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -1147,13 +1147,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep4_roland7</VoiceFile>
-          <Content>Yuva onlarca tuaf parlak şeyle ve bir sürü renkli ışıkla dolu değil mi? Neredeyse kör edici.</Content>
+          <Content>Yuva parlak şeylerle ve renkli ışıklarla dolu değil mi? Neredeyse kör edici.</Content>
         </Dialog>
         <Dialog ID="22" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth16</VoiceFile>
-          <Content>Doğru, ama o renkler kimse için gerekli değildi.</Content>
+          <Content>Doğru, ama o renkler okumak için gerekli değildi.</Content>
         </Dialog>
         <Dialog ID="23" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -1171,13 +1171,13 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth18</VoiceFile>
-          <Content>Tam olarak değil, ama onları görebilmek için çok uğraştı! Renkler oradaydı, gözünün önündeydi. Sadece biz onları göremiyorduk.</Content>
+          <Content>Tam olarak değil, ama... onları görebilmek için çok uğraştı! Renkler oradaydı, sadece biz onları göremiyorduk.</Content>
         </Dialog>
         <Dialog ID="26" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth19</VoiceFile>
-          <Content>Elijah diğerlerinin de bu renkleri bilmesini istedi.</Content>
+          <Content>Elijah diğerlerinin bilmesini istedi.</Content>
         </Dialog>
         <Dialog ID="27" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -1213,19 +1213,19 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth24</VoiceFile>
-          <Content>Belki de o zamandan beri çok uzun zaman geçtiği içindir.</Content>
+          <Content>Belki de o zamandan beri çok uzun zaman geçti.</Content>
         </Dialog>
         <Dialog ID="33" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth25</VoiceFile>
-          <Content>Diğer kütüphaneciler de muhtemelen seninle aynı şeyi hissediyordur.</Content>
+          <Content>Diğer kütüphaneciler de muhtemelen aynı şeyi hissediyor.</Content>
         </Dialog>
         <Dialog ID="34" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth26</VoiceFile>
-          <Content>Mevcut hayatım daha çok Lobotomy Corp'taki Malkuth'un hayatının bir uzantısı gibi hissettiriyor.</Content>
+          <Content>Mevcut hayatım daha çok Lobotomy Corp'taki Malkuth hayatının bir uzantısı gibi hissettiriyor.</Content>
         </Dialog>
         <Dialog ID="35" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -1237,7 +1237,7 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth28</VoiceFile>
-          <Content>Sanki, çok uzaktaki bir geçmişten gelen birinin anılarını izliyormuşum gibi, ne demek istediğimi anlıyor musun?</Content>
+          <Content>Sanki, çok uzaktaki bir geçmişten gelen birinin anıları artık benim bir parçasıymış gibi, ne demek istediğimi anlıyor musun?</Content>
         </Dialog>
         <Dialog ID="37" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -1267,13 +1267,13 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth32</VoiceFile>
-          <Content>Yaşadığım hayatlara ve kendi tarihime bakıyorum.</Content>
+          <Content>Yaşadığım hayatlara ve tarihime bakıyorum.</Content>
         </Dialog>
         <Dialog ID="42" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth33</VoiceFile>
-          <Content>Geçmişe bakarken yeterince zaman harcamadığımızı düşünüyorum. İlerlemekle çok meşgulüz.</Content>
+          <Content>Geçmişe bakarken yeterince zaman harcamadığımızı düşünüyorum. İlerlemeye çok meşgulüz.</Content>
         </Dialog>
         <Dialog ID="43" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -1285,7 +1285,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep4_roland11</VoiceFile>
-          <Content>Geriye bakmaya kimsenin zamanı yok. Şu anda bile, sadece ileri doğru koşabiliyorum.</Content>
+          <Content>Geriye bakmaya kimsenin zamanı yok. Şu anda bile, sadece ileri doğru koşuyorum.</Content>
         </Dialog>
         <Dialog ID="45" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1297,13 +1297,13 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth35-01</VoiceFile>
-          <Content>Bunun doğru olduğunu düşünüyorum. Gerçi şu anki sorunlarımızın çözümünü geçmişte bulabileceğimi sanmıyorum...</Content>
+          <Content>Bunun doğru olduğunu düşünüyorum. Gerçi şu anki sorunlarımızın çözümünü bulabileceğimi sanmıyorum...</Content>
         </Dialog>
         <Dialog ID="47" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth36-01</VoiceFile>
-          <Content>Sanırım Angela'nın daha önce bana söylediği şey cevabını bulmaya yaklaşıyorum.</Content>
+          <Content>Sanırım Angela'nın daha önce bana söylediği şeyin cevabını bulmaya yaklaşıyorum.</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1315,19 +1315,19 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth37</VoiceFile>
-          <Content>Mmm. Eski hayatımı düşününce herhangi bir hayalim olduğunu söylemek zor...</Content>
+          <Content>Mmm. Bir hayal diyebileceğim bir şeyim yok...</Content>
         </Dialog>
         <Dialog ID="50" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth38</VoiceFile>
-          <Content>Ama artık işler farklı. Eğer bundan sonra ne yapmak istediğimi soruyorsan...</Content>
+          <Content>Ama artık işler farklı. Eğer bundan sonra ne yapmak istediğimi hayal edebilseydim...</Content>
         </Dialog>
         <Dialog ID="51" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth39</VoiceFile>
-          <Content>Sanırım mimar olmak isterdim!</Content>
+          <Content>Sanırım mimar olmak isterdim, belki de!</Content>
         </Dialog>
         <Dialog ID="52" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -1339,7 +1339,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep4_roland14</VoiceFile>
-          <Content>Ha? Sanırım bu büyük imparatorluklar da tek günde inşa edilmedi.</Content>
+          <Content>Ha? Sanırım büyük imparatorluklar tek günde inşa edilmedi.</Content>
         </Dialog>
         <Dialog ID="54" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -1363,13 +1363,13 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth43-01</VoiceFile>
-          <Content>Şöyle bir söz var: "Binalarımızı biz şekillendiririz; sonrasında onlar bizi şekillendirir."</Content>
+          <Content>Şöyle bir söz var: "Binalarımızı biz şekillendiririz; sonra onlar bizi şekillendirir."</Content>
         </Dialog>
         <Dialog ID="58" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth44-01</VoiceFile>
-          <Content>Şimdiye kadar yaşamış insanları değiştirmek için çok geç olabilir, ama Şehir'in yapılarının küçük sakinleri büyürken üzerlerindeki etkisini düşün...</Content>
+          <Content>Şimdiye kadar yaşamış insanları değiştirmek için çok geç olabilir, ama Şehir'in yapılarının sakinleri büyürken üzerlerindeki etkisini düşün...</Content>
         </Dialog>
         <Dialog ID="59" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -1381,13 +1381,13 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth46-01</VoiceFile>
-          <Content>... Şuanlık aklımdaki düşünceler bunlar!</Content>
+          <Content>...Aklımdaki düşünceler bunlar!</Content>
         </Dialog>
         <Dialog ID="61" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep4_roland16</VoiceFile>
-          <Content>Fırsatın olsa iyi bir iş çıkaracağından eminim, Malkuth. Bence böyle bir iş sana da yakışır.</Content>
+          <Content>Fırsatın olsa iyi bir iş çıkaracağından eminim, Malkuth. Bence bu iş sana da yakışır.</Content>
         </Dialog>
         <Dialog ID="62" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -1405,7 +1405,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep4_roland17</VoiceFile>
-          <Content>...Malesef benim gözlerim hep geçmişe sabitlenmiş durumda.</Content>
+          <Content>...Benim gözlerim hep geçmişe sabitlenmiş durumda.</Content>
         </Dialog>
         <Dialog ID="65" Model="롤랑">
           <Teller>Roland</Teller>
