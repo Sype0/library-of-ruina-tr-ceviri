@@ -3034,13 +3034,13 @@
 					<Teller>Roland</Teller>
 					<Title>Hizmetkar</Title>
 					<VoiceFile>ch4_Dawn_ep1_roland8</VoiceFile>
-					<Content>Fixer'lar hayatlarında çok fazla insan tanır; hepsini hatırlamak neredeyse imkansızdır.</Content>
+					<Content>Düzeltici'ler hayatlarında çok fazla insan tanır; hepsini hatırlamak neredeyse imkansızdır.</Content>
 				</Dialog>
 				<Dialog ID="3" Model="롤랑">
 					<Teller>Roland</Teller>
 					<Title>Hizmetkar</Title>
 					<VoiceFile>ch4_Dawn_ep1_roland9</VoiceFile>
-					<Content>Ve o ihtiyar çoğu Fixer'dan bile daha fazla insan tanımış olmalı, bu yüzden tanıdığı herkesi hatırlamasının imkanı yok.</Content>
+					<Content>Ve o ihtiyar çoğu Düzeltici'den bile daha fazla insan tanımış olmalı, bu yüzden tanıdığı herkesi hatırlamasının imkanı yok.</Content>
 				</Dialog>
 				<Dialog ID="4" Model="롤랑">
 					<Teller>Roland</Teller>
@@ -3107,7 +3107,7 @@
 				<PlaceName>Konum: WARP Platformu</PlaceName>
 				<Dialog ID="0" Model="달록">
 					<Teller>Dalloc</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_dalloc1-01</VoiceFile>
 					<Content>Molar Ofisi'nin trene bindiği doğrulandı.</Content>
 				</Dialog>
@@ -3119,7 +3119,7 @@
 				</Dialog>
 				<Dialog ID="2" Model="달록">
 					<Teller>Dalloc</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_dalloc2-01</VoiceFile>
 					<Content>Hmm.</Content>
 				</Dialog>
@@ -3131,7 +3131,7 @@
 				</Dialog>
 				<Dialog ID="4" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono1-01</VoiceFile>
 					<Content>Dalloc bana yardım ediyor ama hiç de kolay değil.</Content>
 				</Dialog>
@@ -3143,7 +3143,7 @@
 				</Dialog>
 				<Dialog ID="6" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono2</VoiceFile>
 					<Content>Bunu sormak için biraz geç biliyorum ama, bu iş güvenilir mi?</Content>
 				</Dialog>
@@ -3155,13 +3155,13 @@
 				</Dialog>
 				<Dialog ID="8" Model="달록">
 					<Teller>Dalloc</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_dalloc3-01</VoiceFile>
 					<Content>Bu bir Cane Ofisi anlaşması, bu yüzden muhtemelen onlara güvenebiliriz.</Content>
 				</Dialog>
 				<Dialog ID="9" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono3-01</VoiceFile>
 					<Content>Bu şekilde güvenmiyorum. Buradaki sorun ödeme değil. Eğer bir Tekilliğin sırlarını öğrenmeye çalışırken yakalanırsak, işimiz biter. Hiçbir sigorta bizi koruyamaz.</Content>
 				</Dialog>
@@ -3173,25 +3173,25 @@
 				</Dialog>
 				<Dialog ID="11" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono4</VoiceFile>
 					<Content>Eğer durabilseydik burada olmazdık...</Content>
 				</Dialog>
 				<Dialog ID="12" Model="달록">
 					<Teller>Dalloc</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_dalloc4</VoiceFile>
 					<Content>WARP treni beş dakika içinde kalkacak.</Content>
 				</Dialog>
 				<Dialog ID="13" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono5-01</VoiceFile>
 					<Content>Cidden, bu hiç hoşuma gitmiyor. Üzerlerine yerleştirdiğimiz bir gözetleme cihazıyla her şeyin nedenini ve sonucunu takip edebilmemizin bir anlamı var mı?</Content>
 				</Dialog>
 				<Dialog ID="14" Model="달록">
 					<Teller>Dalloc</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_dalloc5-01</VoiceFile>
 					<Content>Bu Cane Ofisi'nin bize verdiği cihaz. Şehir'de sadece birkaç kopyası olan paha biçilmez bir şey olduğunu söylediler.</Content>
 				</Dialog>
@@ -3203,13 +3203,13 @@
 				</Dialog>
 				<Dialog ID="16" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono6</VoiceFile>
 					<Content>Bu Şehir'in her türlü tuhaf teknolojiye sahip olduğunu biliyorum ama yine de bir şeyin bu kadar kullanışlı olabileceğinden şüpheliyim.</Content>
 				</Dialog>
 				<Dialog ID="17" Model="달록">
 					<Teller>Dalloc</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_dalloc6</VoiceFile>
 					<Content>Hey! Tren kalkıyor.</Content>
 				</Dialog>
@@ -3221,49 +3221,49 @@
 				</Dialog>
 				<Dialog ID="19" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono7-01</VoiceFile>
 					<Content>Dokuz... Sekiz... Nedensellik kayıt cihazı şimdilik çalışıyor.</Content>
 				</Dialog>
 				<Dialog ID="20" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono8-01</VoiceFile>
 					<Content>Yedi... Ne...? Bir şeyler yanlış...</Content>
 				</Dialog>
 				<Dialog ID="21" Model="달록">
 					<Teller>Dalloc</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_dalloc7-01</VoiceFile>
 					<Content>Kayboldular... artık onları gözlemleyemiyoruz...</Content>
 				</Dialog>
 				<Dialog ID="22" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono9</VoiceFile>
 					<Content>Bir WARP treninin içinde mi kayboldular? Daha hedefine ulaşmadı bile...</Content>
 				</Dialog>
 				<Dialog ID="23" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono10-01</VoiceFile>
 					<Content>Bu cihazda bir tuhaflık olduğunu biliyordum. Sana hiçbir teknolojinin bu kadar kullanışlı olamayacağını söylemiştim!</Content>
 				</Dialog>
 				<Dialog ID="24" Model="달록">
 					<Teller>Dalloc</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_dalloc8</VoiceFile>
 					<Content>Cihazı suçlama, bozuk değil. Hala çalışıyor, görüyor musun?</Content>
 				</Dialog>
 				<Dialog ID="25" Model="달록">
 					<Teller>Dalloc</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_dalloc9</VoiceFile>
 					<Content>Trenin içinde bir şeyler olmuş olmalı.</Content>
 				</Dialog>
 				<Dialog ID="26" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono11-01</VoiceFile>
 					<Content>Belki Tekillikle ilgili bir sorun vardı... Yoksa cihazı fark edip onunla mı oynadılar?</Content>
 				</Dialog>
@@ -3275,31 +3275,31 @@
 				</Dialog>
 				<Dialog ID="28" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono12</VoiceFile>
 					<Content>Asla bilemezsin.</Content>
 				</Dialog>
 				<Dialog ID="29" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono13</VoiceFile>
 					<Content>Belki W Corp, Tekilliklerinin sızmasını önlemek için bir parazit sinyali gönderiyordur.</Content>
 				</Dialog>
 				<Dialog ID="30" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono14</VoiceFile>
 					<Content>Ve Cane Ofisi bize bu isteği vermeden önce herhangi bir ön araştırma yapmadı mı?</Content>
 				</Dialog>
 				<Dialog ID="31" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono15-01</VoiceFile>
 					<Content>Delireceğim... İki yüz milyon Ahn için bu sahte işi yapıyoruz.</Content>
 				</Dialog>
 				<Dialog ID="32" Model="달록">
 					<Teller>Dalloc</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_dalloc10-01</VoiceFile>
 					<Content>Şikayet etmeyi bırak, tamam mı?</Content>
 				</Dialog>
@@ -3317,7 +3317,7 @@
 				</Dialog>
 				<Dialog ID="35" Model="달록">
 					<Teller>Dalloc</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_dalloc11</VoiceFile>
 					<Content>... Olamaz. Kaybolmalarının üzerinden bir dakika bile geçmedi.</Content>
 				</Dialog>
@@ -3329,25 +3329,25 @@
 				</Dialog>
 				<Dialog ID="37" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono16-02</VoiceFile>
-					<Content>Evet, duymuştum. Bugünlerde tüm Fixer'lar ve Sendikalar ondan bahsediyor.</Content>
+					<Content>Evet, duymuştum. Bugünlerde tüm Düzeltici'ler ve Sendikalar ondan bahsediyor.</Content>
 				</Dialog>
 				<Dialog ID="38" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono17</VoiceFile>
 					<Content>Peki, plan ne? O tuhaf yere mi gideceğiz?</Content>
 				</Dialog>
 				<Dialog ID="39" Model="달록">
 					<Teller>Dalloc</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_dalloc12-01</VoiceFile>
 					<Content>Başka seçeneğimiz yok.</Content>
 				</Dialog>
 				<Dialog ID="40" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono18-01</VoiceFile>
 					<Content>İki yüz milyon Ahn söz konusu olsa bile, hayatımı riske atmak istemiyorum. Oraya gitmek başarının garantisiymiş gibi değil...</Content>
 				</Dialog>
@@ -3359,7 +3359,7 @@
 				</Dialog>
 				<Dialog ID="42" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono19-01</VoiceFile>
 					<Content>Uff... Umarım işler daha da kötüleşmez.</Content>
 				</Dialog>
@@ -3455,13 +3455,13 @@
 				</Dialog>
 				<Dialog ID="57" Model="달록">
 					<Teller>Dalloc</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_dalloc13</VoiceFile>
 					<Content>Sonuç görülebilir ama süreç değil...</Content>
 				</Dialog>
 				<Dialog ID="58" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono20</VoiceFile>
 					<Content>Tıpkı son zamanlarda Şehir'in gündeminde olan Distorsiyon gibi. Ne kadar sinir bozucu.</Content>
 				</Dialog>
@@ -3497,13 +3497,13 @@
 				</Dialog>
 				<Dialog ID="64" Model="보노">
 					<Teller>Bono</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono21</VoiceFile>
 					<Content>Bizim için aptalca bir soruydu.</Content>
 				</Dialog>
 				<Dialog ID="65" Model="달록">
 					<Teller>Dalloc</Teller>
-					<Title>Gaze Fixer</Title>
+					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_dalloc14-01</VoiceFile>
 					<Content>Neler olup bittiği hakkında hiçbir fikrim yok...</Content>
 				</Dialog>
@@ -4641,7 +4641,7 @@
 					<Teller>Elena</Teller>
 					<Title>Love Town Annesi</Title>
 					<VoiceFile>ch4_Tomerry_ep1_elena55</VoiceFile>
-					<Content>Arkanda oturan Fixer'lar, tıpkı buna benzeyen bir Davetiye aldıktan kısa süre sonra kayboldu.</Content>
+					<Content>Arkanda oturan Düzeltici'ler, tıpkı buna benzeyen bir Davetiye aldıktan kısa süre sonra kayboldu.</Content>
 				</Dialog>
 				<Dialog ID="170" Model="토머리">
 					<Teller>Tomerry</Teller>
@@ -5557,7 +5557,7 @@
 					<Teller>Roland</Teller>
 					<Title>Hizmetkar</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_roland6</VoiceFile>
-					<Content>Elbette, Kanat o Sendika'yı zorla dışarı atmak için Fixer'lar ve diğer Sendikalar kiralayabilir, ama bu başka bir hikaye.</Content>
+					<Content>Elbette, Kanat o Sendika'yı zorla dışarı atmak için Düzeltici'ler ve diğer Sendikalar kiralayabilir, ama bu başka bir hikaye.</Content>
 				</Dialog>
 				<Dialog ID="102" Model="앤젤라">
 					<Teller>Angela</Teller>
@@ -5988,13 +5988,13 @@
 					<Teller>MuMu</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_mumu6</VoiceFile>
-					<Content>Özellikle sondaki Fixer'lar topluluğu!</Content>
+					<Content>Özellikle sondaki Düzeltici'ler topluluğu!</Content>
 				</Dialog>
 				<Dialog ID="23" Model="무무">
 					<Teller>MuMu</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_mumu7</VoiceFile>
-					<Content>O yoğun konserin sonunda, Fixer'lar piyano ile birleşti ve müziği özümsediler. Keşke orada olsaydım...</Content>
+					<Content>O yoğun konserin sonunda, Düzeltici'ler piyano ile birleşti ve müziği özümsediler. Keşke orada olsaydım...</Content>
 				</Dialog>
 				<Dialog ID="24" Model="미야오">
 					<Teller>Meow</Teller>
@@ -6012,7 +6012,7 @@
 					<Teller>Meow</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_meow13</VoiceFile>
-					<Content>Fixer'lar notaların yanında koşuyor ve Piyanist'e doğru hücum ediyorlardı...</Content>
+					<Content>Düzeltici'ler notaların yanında koşuyor ve Piyanist'e doğru hücum ediyorlardı...</Content>
 				</Dialog>
 				<Dialog ID="27" Model="미야오">
 					<Teller>Meow</Teller>
