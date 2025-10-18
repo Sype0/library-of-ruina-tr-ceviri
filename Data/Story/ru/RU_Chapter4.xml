@@ -3104,7 +3104,7 @@
 		<Episode>
 			<EpisodeName>Bölüm 1</EpisodeName>
 			<Place>
-				<PlaceName>Konum: WARP Platformu</PlaceName>
+				<PlaceName>Konum: Işınlanma Platformu</PlaceName>
 				<Dialog ID="0" Model="달록">
 					<Teller>Dalloc</Teller>
 					<Title>Gaze Düzeltici'si</Title>
@@ -3181,7 +3181,7 @@
 					<Teller>Dalloc</Teller>
 					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_dalloc4</VoiceFile>
-					<Content>WARP treni beş dakika içinde kalkacak.</Content>
+					<Content>Işınlanma treni beş dakika içinde kalkacak.</Content>
 				</Dialog>
 				<Dialog ID="13" Model="보노">
 					<Teller>Bono</Teller>
@@ -3241,7 +3241,7 @@
 					<Teller>Bono</Teller>
 					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono9</VoiceFile>
-					<Content>Bir WARP treninin içinde mi kayboldular? Daha hedefine ulaşmadı bile...</Content>
+					<Content>Bir Işınlanma treninin içinde mi kayboldular? Daha hedefine ulaşmadı bile...</Content>
 				</Dialog>
 				<Dialog ID="23" Model="보노">
 					<Teller>Bono</Teller>
@@ -3436,7 +3436,7 @@
 					<Teller>Roland</Teller>
 					<Title>Hizmetkar</Title>
 					<VoiceFile>ch4_Gaze_ep1_roland8</VoiceFile>
-					<Content>Bu arada, WARP trenine ne olduğunu oldukça merak ediyorum.</Content>
+					<Content>Bu arada, Işınlanma trenine ne olduğunu oldukça merak ediyorum.</Content>
 				</Dialog>
 				<Dialog ID="55" Model="앤젤라">
 					<Teller>Angela</Teller>
@@ -3481,7 +3481,7 @@
 					<Teller>Alloc</Teller>
 					<Title>Gaze Operatörü</Title>
 					<VoiceFile>ch4_Gaze_ep1_alloc15-01</VoiceFile>
-					<Content>WARP treninde olmaları gerekiyordu. Sadece birkaç saniye için!</Content>
+					<Content>Işınlanma treninde olmaları gerekiyordu. Sadece birkaç saniye için!</Content>
 				</Dialog>
 				<Dialog ID="62" Model="앤젤라">
 					<Teller>Angela</Teller>
@@ -3629,7 +3629,7 @@
 		<Episode>
 			<EpisodeName>Bölüm 1</EpisodeName>
 			<Place>
-				<PlaceName>Konum: WARP Treni UW-212 İçinde</PlaceName>
+				<PlaceName>Konum: Işınlanma Treni UW-212 İçinde</PlaceName>
 				<Dialog ID="0" Model="토미">
 					<Teller>Tommy</Teller>
 					<Title>Yolcu</Title>
@@ -3688,7 +3688,7 @@
 					<Teller>Tommy</Teller>
 					<Title>Yolcu</Title>
 					<VoiceFile>ch4_Warp_ep1_tommy5</VoiceFile>
-					<Content>WARP trenlerinin sadece on saniyede varması gerektiğini sanıyordum?</Content>
+					<Content>Işınlanma trenlerinin sadece on saniyede varması gerektiğini sanıyordum?</Content>
 				</Dialog>
 				<Dialog ID="10" Model="토미">
 					<Teller>Tommy</Teller>
@@ -3742,7 +3742,7 @@
 					<Teller>Elena</Teller>
 					<Title>Hemşire</Title>
 					<VoiceFile>ch4_Tomerry_ep1_elena8-01</VoiceFile>
-					<Content>Görüyorsun, WARP trenlerini oldukça sık kullandım. Her zaman hedefime 10 saniyelik keyifli bir yolculuk yaptım.</Content>
+					<Content>Görüyorsun, Işınlanma trenlerini oldukça sık kullandım. Her zaman hedefime 10 saniyelik keyifli bir yolculuk yaptım.</Content>
 				</Dialog>
 				<Dialog ID="19" Model="엘레나">
 					<Teller>Elena</Teller>
