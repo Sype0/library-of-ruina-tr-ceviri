@@ -2212,33 +2212,33 @@ Bu karakter Kabul sonunda hayattaysa, yenilen her Misafir için 1 ek Kitap kazan
       </Dialogues>
     </AbnormalityCard>
     
-    <AbnormalityCard ID="WhiteNight_White">
-      <Abnormality>NocheBlanca</Abnormality>
-      <CardName>Poder Divino</CardName>
-      <AbilityDesc>[Solo un Aliado]
-Mientras este personaje este con vida, todos los aliados ganan 2 de Protección cada Escena.
-Si este personaje ha usado la Página E.G.O. de la NocheBlanca, los aliados también reciben 3 menos de Daño por ataque.</AbilityDesc>
-      <FlaborText>“No tengas miedo. Soy el salvador y estaré contigo.”</FlaborText>
+<AbnormalityCard ID="WhiteNight_White">
+      <Abnormality>BeyazGece</Abnormality>
+      <CardName>İlahi Güç</CardName>
+      <AbilityDesc>[Yalnızca Bir Müttefik]
+Bu karakter hayatta olduğu sürece, tüm müttefikler her Sahne 2 Koruma kazanır.
+Bu karakter Beyaz Gece'nin E.G.O. Sayfasını kullandıysa, müttefikler ayrıca saldırılardan 3 daha az Hasar alır.</AbilityDesc>
+      <FlaborText>“Korkmayın. Ben kurtarıcıyım ve sizinle olacağım.”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">No temas. Ninguna calamidad podrá perturbarte.</Dialogue>
-        <Dialogue ID="2">Conseguirás un cuerpo nuevo libre de la corrupción, así como puede alguien negar que esto es salvación.</Dialogue>
-        <Dialogue ID="3">Creé en mí y estarás por siempre fuera de la oscuridad.</Dialogue>
-        <Dialogue ID="4">Serás venerado, porque soy divino.</Dialogue>
+        <Dialogue ID="1">Korkma. Hiçbir felaket seni rahatsız edemez.</Dialogue>
+        <Dialogue ID="2">Kirlilikten arınmış yeni bir bedene kavuşacaksın; kimse bunun kurtuluş olduğunu inkâr edemez.</Dialogue>
+        <Dialogue ID="3">Bana inan ve sonsuza dek karanlığın dışında kal.</Dialogue>
+        <Dialogue ID="4">Sana saygı duyulacak, çünkü ben ilahiyim.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="WhiteNight_Apostle">
-      <Abnormality>NocheBlanca</Abnormality>
-      <CardName>Apóstoles</CardName>
-      <AbilityDesc>[Solo un Aliado]
-Mientras este personaje este con vida, todos los aliados hacen +2-7 de Daño con sus ataques.
-Si el personaje ha usado 'Bautismo' 12 o más veces esta Recepción, los aliados también ganan +1 de Poder.</AbilityDesc>
-      <FlaborText>“¿No os he escogido yo a vosotros los doce? Ahora levántense, mis sirvientes. Levántense y Sírvanme.”</FlaborText>
+      <Abnormality>BeyazGece</Abnormality>
+      <CardName>Havariler</CardName>
+      <AbilityDesc>[Yalnızca Bir Müttefik]
+Bu karakter hayatta olduğu sürece, tüm müttefikler saldırılarıyla +2-7 Hasar verir.
+Karakter bu Resepsiyon'da 'Vaftiz'i 12 veya daha fazla kez kullandıysa, müttefikler ayrıca +1 Güç kazanır.</AbilityDesc>
+      <FlaborText>“On ikinizi ben seçmedim mi? Şimdi kalkın, hizmetkârlarım. Kalkın ve bana hizmet edin.”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Busca la paz y la santidad. Sin estos, no podrás mirarme.</Dialogue>
-        <Dialogue ID="2">Aquellos que aguantan hasta el final serán capaces de seguir.</Dialogue>
-        <Dialogue ID="3">Acepta mi gracia y enterraré tus errores en el pasado.</Dialogue>
-        <Dialogue ID="4">Obedéceme y deléitate con la alegría y felicidad eterna.</Dialogue>
+        <Dialogue ID="1">Barış ve kutsallık arayın. Bunlar olmadan beni göremezsiniz.</Dialogue>
+        <Dialogue ID="2">Sonuna kadar dayananlar takip edebileceklerdir.</Dialogue>
+        <Dialogue ID="3">Lütfumu kabul et ve hatalarını geçmişe gömeyim.</Dialogue>
+        <Dialogue ID="4">Bana itaat edin ve sonsuz neşe ve mutlulukla zevk alın.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
   </Sephirah>
@@ -2248,7 +2248,7 @@ Si el personaje ha usado 'Bautismo' 12 o más veces esta Recepción, los aliados
     <AbnormalityCard ID="Enemy_Fight">
       <Abnormality></Abnormality>
       <CardName>???</CardName>
-      <AbilityDesc>Al comienzo de una Escena, gana 1 de Fuerza.</AbilityDesc>
+      <AbilityDesc>Bir Sahnenin başlangıcında 1 Güç kazanır.</AbilityDesc>
       <FlaborText></FlaborText>
       <Dialogues>
         <Dialogue ID="1"></Dialogue>
@@ -2258,7 +2258,7 @@ Si el personaje ha usado 'Bautismo' 12 o más veces esta Recepción, los aliados
     <AbnormalityCard ID="Enemy_Gloom">
       <Abnormality></Abnormality>
       <CardName>???</CardName>
-      <AbilityDesc>Al comienzo de una Escena, gana 1 de Endeble y 2 de Dureza.</AbilityDesc>
+      <AbilityDesc>Bir Sahnenin başlangıcında 1 Zayıf ve 2 Dayanıklılık kazanır.</AbilityDesc>
       <FlaborText></FlaborText>
       <Dialogues>
         <Dialogue ID="1"></Dialogue>
@@ -2268,7 +2268,7 @@ Si el personaje ha usado 'Bautismo' 12 o más veces esta Recepción, los aliados
     <AbnormalityCard ID="Enemy_Friend">
       <Abnormality></Abnormality>
       <CardName>? ? ?</CardName>
-      <AbilityDesc>Cuando otro aliado es atacado, gana 1 de Fuerza la siguiente Escena (Dos veces por Escena)</AbilityDesc>
+      <AbilityDesc>Başka bir müttefik saldırıldığında, sonraki Sahne 1 Güç kazanır (Sahne başına iki kez)</AbilityDesc>
       <FlaborText></FlaborText>
       <Dialogues>
         <Dialogue ID="1"></Dialogue>
@@ -2278,7 +2278,7 @@ Si el personaje ha usado 'Bautismo' 12 o más veces esta Recepción, los aliados
     <AbnormalityCard ID="Enemy_Bind">
       <Abnormality></Abnormality>
       <CardName>? ? ?</CardName>
-      <AbilityDesc>Al comienzo de una Escena, gana 1 de Dureza.</AbilityDesc>
+      <AbilityDesc>Bir Sahnenin başlangıcında 1 Dayanıklılık kazanır.</AbilityDesc>
       <FlaborText></FlaborText>
       <Dialogues>
         <Dialogue ID="1"></Dialogue>
