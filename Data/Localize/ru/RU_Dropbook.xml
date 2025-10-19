@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <text id="dropbook_something">Bir seyin Kitabi</text>
+  <text id="dropbook_rat">Siçanlarin Kitabi</text>
+  <text id="dropbook_9fixer">9. Derece Çözücü Kitabi</text>
+  <text id="dropbook_novicefixer">Acemi Çözücü Kitabi</text>
+  <text id="dropbook_finn">Finn'in Kitabi</text>
+  <text id="dropbook_yunoffice">Yun Bürosunun Kitabi</text>
+  <text id="dropbook_eri">Eri'nin Kitabi</text>
+  <text id="dropbook_yun">Yun'un Kitabi</text>
+  <text id="dropbook_iron">Demir Kardesliginin Kitabi</text>
+  <text id="dropbook_mo">Mo'nun Kitabi</text>
+  <text id="dropbook_consta">Consta'nin Kitabi</text>
+  <text id="dropbook_arnold">Arnold'un Kitabi</text>
+  <text id="dropbook_hook1">Hook Bürosu, Cilt Ⅰ</text>
+  <text id="dropbook_hook2">Hook Bürosu, Cilt Ⅱ</text>
+  <text id="dropbook_taein">Taein'in Kitabi</text>
+  <text id="dropbook_naoki">Naoki'nin Kitabi</text>
+  <text id="dropbook_mccullin">McCullin'in Kitabi</text>
+  <text id="dropbook_district23">Bölge 23 Rehberi</text>
+  <text id="dropbook_pierre">Pierre'in Kitabi</text>
+  <text id="dropbook_jack">Jack'in Kitabi</text>
+  <text id="dropbook_darkbackstreet1">Gecekondunun Karanlik Sokaklari, Cilt Ⅰ</text>
+  <text id="dropbook_backstreet1">Bir Gecekondu Çözücüsü, Cilt Ⅰ</text>
+  <text id="dropbook_mars">Mars'in Kitabi</text>
+  <text id="dropbook_lulu">Lulu'nun Kitabi</text>
+  <text id="dropbook_backstreet2">Bir Gecekondu Çözücüsü, Cilt Ⅱ</text>
+  <text id="dropbook_zwei1">Zwei 6 Güney Bölümü</text>
+  <text id="dropbook_streetlight1">Sokak Lambasi Bürosu</text>
+  <text id="dropbook_streetlight2">Sokak Lambasi Bürosu, Cilt Ⅱ</text>
+  <text id="dropbook_san">San'in Kitabi</text>
+  <text id="dropbook_julia">Julia'nin Kitabi</text>
+  <text id="dropbook_zwei2">Zwei 6 Güney Bölümü, Cilt Ⅱ</text>
+  <text id="dropbook_isadora">Isadora'nin Kitabi</text>
+  <text id="dropbook_walter">Walter'in Kitabi</text>
+  <text id="dropbook_molar">Azidisi Bürosunun Kitabi</text>
+  <text id="dropbook_olga">Olga'nin Kitabi</text>
+  <text id="dropbook_rain">Rain'in Kitabi</text>
+  <text id="dropbook_mika">Mika'nin Kitabi</text>
+  <text id="dropbook_straydogs">Sokak Köpeklerinin Kitabi</text>
+  <text id="dropbook_gyeongmi">Gyeong-mi'nin Kitabi</text>
+  <text id="dropbook_dino">Dino'nun Kitabi</text>
+  <text id="dropbook_zulu">Zulu'nun Kitabi</text>
+  <text id="dropbook_darkbackstreet2">Gecekondunun Karanlik Sokaklari, Cilt Ⅱ</text>
+  <text id="dropbook_backstreet3">Bir Gecekondu Çözücüsü, Cilt Ⅲ</text>
+  <text id="dropbook_backstreet4">Bir Gecekondu Çözücüsü, Cilt Ⅳ</text>
+  <text id="dropbook_8fixer">Bir 8. Derece Çözücü Kitabi</text>
+  <text id="dropbook_7fixer">Bir 7. Derece Çözücü Kitabi</text>
+  <text id="dropbook_axegang">Balta Çetesinin Kitabi</text>
+  <text id="dropbook_distortion">Çarpitmanin Kitabi</text>
+  <text id="dropbook_lobotomycorp">Lobotomy Corporation Kitabi</text>
+  <text id="dropbook_carnival">Karnavalin Kitabi</text>
+
+  <text id="dropbook_fullstop">Full-Stop Bürosunun Kitabi</text>
+  <text id="dropbook_liwei">Liwei'nin Kitabi</text>
+  <text id="dropbook_stephan">Stephan'in Kitabi</text>
+  <text id="dropbook_tamaki">Tamaki'nin Kitabi</text>
+  
+  <text id="dropbook_dawn">Dawn Bürosunun Kitabi</text>
+  <text id="dropbook_salvador">Salvador'un Kitabi</text>
+  <text id="dropbook_yuna">Yuna'nin Kitabi</text>
+
+  <text id="dropbook_gaze">Gaze Bürosunun Kitabi</text>
+  <text id="dropbook_alloc">Alloc'un Kitabi</text>
+  <text id="dropbook_dalloc">Dalloc'un Kitabi</text>
+  <text id="dropbook_bono">Bono'nun Kitabi</text>
+
+  <text id="dropbook_tomerry">Tomerry'nin Kitabi</text>
+
+  <text id="dropbook_sayo">Sayo'nun Kitabi</text>
+  <text id="dropbook_yang">Yang'in Kitabi</text>
+  <text id="dropbook_gin">Gin'in Kitabi</text>
+  <text id="dropbook_kurokumo">Kurokumo Klaninin Kitabi</text>
+
+  <text id="dropbook_bremen">Bremen Mizikacilarinin Kitabi</text>
+  <text id="dropbook_meow">Miyav'in Kitabi</text>
+  <text id="dropbook_mumu">MuMu'nun Kitabi</text>
+  <text id="dropbook_oink">Oink'in Kitabi</text>
+
+  <text id="dropbook_wedge">Wedge Bürosunun Kitabi</text>
+  <text id="dropbook_oscar">Oscar'in Kitabi</text>
+  <text id="dropbook_pameli">Pameli'nin Kitabi</text>
+  <text id="dropbook_pamela">Pamela'nin Kitabi</text>
+
+  <text id="dropbook_shi">Shi Birliginin Kitabi</text>
+  <text id="dropbook_yujin">Yujin'in Kitabi</text>
+  <text id="dropbook_valentin">Valentin'in Kitabi</text>
+  <text id="dropbook_tenma">Tenma'nin Kitabi</text>
+
+  <text id="dropbook_puppeteer">Bir Kuklanin Kitabi</text>
+  <text id="dropbook_puppet1">Agir Bir Kuklanin Kitabi</text>
+
+  <text id="dropbook_emma">Emma'nin Kitabi</text>
+  <text id="dropbook_noah">Noah'nin Kitabi</text>
+
+  <text id="dropbook_sweeper">Bir Temizlikçinin Kitabi</text>
+  <text id="dropbook_anton">Anton'un Kitabi</text>
+  <text id="dropbook_lyla">Lyla'nin Kitabi</text>
+  <text id="dropbook_valerie">Valerie'nin Kitabi</text>
+
+  <text id="dropbook_index">Dizin Müridinin Kitabi</text>
+
+  <text id="dropbook_warpcrew">WARP Temizlik Ekibinin Kitabi</text>
+  <text id="dropbook_rose">Rose'un Kitabi</text>
+  <text id="dropbook_sen">Sen'in Kitabi</text>
+  <text id="dropbook_lesti">Lesti'nin Kitabi</text>
+
+  <text id="dropbook_wang">Wang'in Kitabi</text>
+  <text id="dropbook_jin">Jin'in Kitabi</text>
+  <text id="dropbook_mi">Mi'nin Kitabi</text>
+  <text id="dropbook_smilingfaces">Gülen Yüzlerin Kitabi</text>
+
+  <text id="dropbook_philip">Kararsiz Aglayan Çocuklarin Kitabi</text>
+
+  <text id="dropbook_liu1">Liu Birligi, Cilt Ⅰ</text>
+  <text id="dropbook_liu2">Liu Birligi, Cilt Ⅱ</text>
+  <text id="dropbook_lowel">Lowell'in Kitabi</text>
+  <text id="dropbook_cecil">Cecil'in Kitabi</text>
+  <text id="dropbook_mei">Mei'nin Kitabi</text>
+
+  <text id="dropbook_thumb">Basparmagin Kitabi</text>
+  <text id="dropbook_kalo">Kalo'nun Kitabi</text>
+  <text id="dropbook_katriel">Katriel'in Kitabi</text>
+  <text id="dropbook_boris">Boris'in Kitabi</text>
+  <text id="dropbook_dennis">Denis'in Kitabi</text>
+
+  <text id="dropbook_cane">Cane Bürosunun Kitabi</text>
+  <text id="dropbook_nemo">Nemo'nun Kitabi</text>
+  <text id="dropbook_martina">Martina'nin Kitabi</text>
+  <text id="dropbook_bada">Bada'nin Kitabi</text>
+
+  <text id="dropbook_gears">Disliler Kilisesi Hayraninin Kitabi</text>
+
+  <text id="dropbook_index2">Dizinin Kitabi</text>
+  <text id="dropbook_esther">Esther'in Kitabi</text>
+  <text id="dropbook_hubert">Hubert'in Kitabi</text>
+  <text id="dropbook_gloria">Gloria'nin Kitabi</text>
+
+  <text id="dropbook_liuAssociation2_1">Liu Birligi 2. Bölüm, Cilt Ⅰ</text>
+  <text id="dropbook_liuAssociation2_2">Liu Birligi 2. Bölüm, Cilt Ⅱ</text>
+  
+  <text id="dropbook_liuAssociation1">Liu Birligi 1. Bölüm Kitabi</text>
+  <text id="dropbook_chun">Chun'un Kitabi</text>
+
+  <text id="dropbook_redMist">Kirmizi Sis'in Kitabi</text>
+
+  <text id="dropbook_rabbit">Tavsan Ekibinin Kitabi</text>
+  <text id="dropbook_rhino">Gergedan Ekibinin Kitabi</text>
+  <text id="dropbook_reindeer">Geyik Ekibinin Kitabi</text>
+
+  <text id="dropbook_nikolai">Nikolai'nin Kitabi</text>
+  <text id="dropbook_myo">Myo'nun Kitabi</text>
+  <text id="dropbook_maxim">Maxim'in Kitabi</text>
+  <text id="dropbook_rudolph">Rudolph'un Kitabi</text>
+
+  <text id="dropbook_nikolai2">Nikolai'nin Tam Kitabi</text>
+  <text id="dropbook_myo2">Myo'nun Tam Kitabi</text>
+  <text id="dropbook_maxim2">Maxim'in Tam Kitabi</text>
+  <text id="dropbook_rudolph2">Rudolph'un Tam Kitabi</text>
+
+  <text id="dropbook_purpletear">Mor Gözyasi'nin Kitabi</text>
+
+  <text id="dropbook_xiao">Xiao'nun Kitabi</text>
+  <text id="dropbook_miris">Miris'in Kitabi</text>
+
+  <text id="dropbook_yan">얀샋ㄷ요무'nun Kitabi</text>
+
+  <text id="dropbook_jikan">Jikan'in Kitabi</text>
+  <text id="dropbook_rustychain">Pasli Bir Zincirin Kitabi</text>
+  <text id="dropbook_workshopsolver">Atölyeye Bagli Bir Çözücü Kitabi</text>
+  <text id="dropbook_dante">Dante'nin Kitabi</text>
+  <text id="dropbook_sevenfixers">Seven Birligi Çözücüsünün Kitabi</text>
+  <text id="dropbook_kimsatgat">Bambu sapkali Kim'in Kitabi</text>
+  <text id="dropbook_sword">Kiliç Soyu Suikastçisinin Kitabi</text>
+  <text id="dropbook_classonefixer">1. Derece Çözücü Dong-hwan'in Kitabi</text>
+
+
+  <text id="dropbook_hanaAssociation">Hana Birliginin Kitabi</text>
+  <text id="dropbook_mirinae">Mirinae'nin Kitabi</text>
+  <text id="dropbook_harold">Harold'un Kitabi</text>
+  <text id="dropbook_olivier">Olivier'in Kitabi</text>
+
+  <text id="dropbook_hanahuda">Hanafuda'nin Kitabi</text>
+  <text id="dropbook_J_Cop">Jeong Bürosu Çözücüsünün Kitabi</text>
+  <text id="dropbook_awlofnight">Bir Gece Bizinin Kitabi</text>
+  <text id="dropbook_awlofnightnamed">Allen'in Kitabi</text>
+  <text id="dropbook_usett">Bir Udjat'in Kitabi</text>
+  <text id="dropbook_miraenamed">Irina'nin Kitabi</text>
+  <text id="dropbook_mirae">Bir Mirae Hayat Sigortacisinin Kitabi</text>
+  <text id="dropbook_cornamed">Yae'nin Kitabi</text>
+  <text id="dropbook_cor">Bir Brosür Atölyesi Çözücüsünün Kitabi</text>
+  <text id="dropbook_bayyardnamed">Bayard'in Kitabi</text>
+  <text id="dropbook_bayyard">Bayard Bürosu Çözücüsünün Kitabi</text>
+
+
+</localize>

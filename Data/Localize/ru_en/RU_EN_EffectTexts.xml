@@ -1,0 +1,1601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <effectTextList>
+    <BattleEffectText ID="OldLady_Lonely">
+      <Name>Talep</Name>
+      <Desc>Hizi 2 azaltir. Sahnenin baslangicinda 1-2 Hasar alir. (Birikmez)</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="RedShoes_Kirakira">
+      <Name>Kirmizi Ayakkabilarin Cazibesi</Name>
+      <Desc>&lt;Parilti&gt; kullanan hedefe öncelikli olarak saldirir. +2-4 Hasar verir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="TheDreamingCurrent_Sea">
+      <Name>Gökkusagi Okyanusu</Name>
+      <Desc>{0} Sahne boyunca Hizi 3 azaltir. Sahnenin baslangicinda mevcut Canin %10'unu kaybeder ve 1 Isik yeniler.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Bloodbath_Hands">
+      <Name>Solgun Eller</Name>
+      <Desc>Bir karakter {0} kez vurulduktan sonra, ek olarak 3-10 Sersemletme Hasari verir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="TheSnowQueen_Chu">
+      <Name>Buz Kiymiklari</Name>
+      <Desc>{0} + Buz Kiymigi almak, karakteri iki Sahne boyunca Hareketsiz birakir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="HappyTeddyBear_Hug">
+      <Name>Ayicik Sevgisi</Name>
+      <Desc>&lt;Nostaljik Anilar&gt; kullanan bir hedefe karsi Çarpisma kaybettiginde, %{0} olasilikla Zar sonucuna esit Sersemletme Hasari alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="TheDreamingCurrent_candy">
+      <Name>seker</Name>
+      <Desc>&lt;seker&gt; kullanan hedefe ek olarak %{0} Hasar verir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="ChildofGalaxy_Token">
+      <Name>Jeton</Name>
+      <Desc>{0} Sahne boyunca, Sahnenin baslangicinda Maksimum Canin %10'unu yeniler. Bir müttefik öldügünde Maksimum Canin %20'si kadar Hasar alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Stun">
+      <Name>Hareketsiz</Name>
+      <Desc>Sahne süresince hareket edemez.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Break">
+      <Name>Sersemlemis</Name>
+      <Desc>Sahne süresince hareket edemez. Sahnenin baslangicinda Kart çekmez veya Isik yenilemez.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Burn">
+      <Name>Yanik</Name>
+      <Desc>Sahnenin sonunda {0} Hasar alir ve Yanik miktarinin 1/3'ü azalir. (Asagi Yuvarlanir)</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Paralysis">
+      <Name>Felç</Name>
+      <Desc>Sahne süresince, bir Karakter bir Savas Sayfasi oynadiginda, rastgele seçilen {0} adede kadar Zarin maksimum sonucu 3 azalir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Bleeding">
+      <Name>Kanama</Name>
+      <Desc>Sahne boyunca, karakter bir Saldiri Zari attiginda {0} Hasar alir ve Kanama miktarinin 1/3'ü azalir. (Yukari Yuvarlanir)</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Vulnerable">
+      <Name>Kirilgan</Name>
+      <Desc>Bu Sahne boyunca saldirilardan ek {0} Hasar alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Weak">
+      <Name>Zayif</Name>
+      <Desc>Sahne süresince Saldiri Zarlarinin Gücünü {0} azaltir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Disarm">
+      <Name>Silahsizlanma</Name>
+      <Desc>Sahne süresince Savunma Zarlarinin Gücünü {0} azaltir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Binding">
+      <Name>Baglama</Name>
+      <Desc>Sahne süresince Hizi {0} azaltir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Protection">
+      <Name>Koruma</Name>
+      <Desc>Bu Sahne boyunca saldirilardan {0} daha az Hasar alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Strength">
+      <Name>Güçlü</Name>
+      <Desc>Sahne süresince Saldiri Zarlarinin Gücünü {0} artirir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Endurance">
+      <Name>Dayanikli</Name>
+      <Desc>Sahne süresince Savunma Zarlarinin Gücünü {0} artirir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Quickness">
+      <Name>Hiz</Name>
+      <Desc>Sahne süresince Hizi {0} artirir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Blurry">
+      <Name>Bulanik</Name>
+      <Desc>Bu karakter, Bulanik durumu olmayan baska hedefler varken düsman tarafindan hedef alinamaz. Sahne sonunda kaldirilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Burn_Keyword">
+      <Name>Yanik X</Name>
+      <Desc>Sahne sonunda X Hasar alir ve miktarin 1/3'ü azalir. (Asagi Yuvarlanir)</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Paralysis_Keyword">
+      <Name>Felç X</Name>
+      <Desc>Sahne boyunca, Sayfa kullanildiginda En fazla X Zarin maksimum sonucu 3 azalir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Bleeding_Keyword">
+      <Name>Kanama X</Name>
+      <Desc>Sahne boyunca, karakter bir Saldiri Zari kullandiginda X Hasar alir ve miktarin 1/3'ü azalir. (Yukari Yuvarlanir)</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Vulnerable_Keyword">
+      <Name>Kirilgan X</Name>
+      <Desc>Bu Sahne boyunca saldirilardan ek X Hasar alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Weak_Keyword">
+      <Name>Zayif X</Name>
+      <Desc>Saldiri Zarlari bu Sahne boyunca X Güç kaybeder.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Disarm_Keyword">
+      <Name>Silahsizlanma X</Name>
+      <Desc>Savunma Zarlari bu Sahne boyunca X Güç kaybeder.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Binding_Keyword">
+      <Name>Baglama X</Name>
+      <Desc>Bu Sahne boyunca Hizi X azaltir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Protection_Keyword">
+      <Name>Koruma X</Name>
+      <Desc>Bu Sahne boyunca saldirilardan X daha az Hasar alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Strength_Keyword">
+      <Name>Güç X</Name>
+      <Desc>Saldiri Zarlari bu Sahne boyunca +X Güç kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Endurance_Keyword">
+      <Name>Dayaniklilik X</Name>
+      <Desc>Savunma Zarlari bu Sahne boyunca +X Güç kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Quickness_Keyword">
+      <Name>Hiz X</Name>
+      <Desc>Bu Sahne boyunca Hizi X artirir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="bstart_Keyword">
+      <Name>Çarpisma Baslangici</Name>
+      <Desc>Bir Sahnenin Çarpisma Asamasi basladiginda ve karakterler hedeflerine ulasmadan önce tetiklenir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_Keyword">
+      <Name>Özel Sayfa</Name>
+      <Desc>Yalnizca belirli Anahtar Sayfalar tarafindan kullanilabilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="counter_Keyword">
+      <Name>Karsi Saldiri</Name>
+      <Desc>Yalniz-tarafli bir saldiri aldiginda Zar oynanir (Her iki karakter de Savas Sayfasi kullandiginda ve rakibin daha fazla Zari oldugunda uygulanmaz)</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="FairyFestival_Recovery">
+      <Name>Hazirlanmis Et</Name>
+      <Desc>1 Can'dayken Peri Kraliçesi tarafindan tüketilecektir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="SpiderBud_Cocoon">
+      <Name>Kozalak</Name>
+      <Desc>Küçük Örümceklerin Hedefi.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Philip_Attack">
+      <Name>Kavurucu Kiliç</Name>
+      <Desc>Basarili bir saldirida hedefe 4 Yanik uygular.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Philip_Defense">
+      <Name>Tüy Kalkan</Name>
+      <Desc>Vurulduktan sonra saldirana 2 Yanik uygular. Saldirilardan -5 Hasar alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Philip_Strong">
+      <Name>Yanan Saldiri</Name>
+      <Desc>Bu Sahne boyunca +2 Hiz Zari kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Philip_Ready">
+      <Name>Yanan Saldiri Hazirlaniyor</Name>
+      <Desc>{0} Sahne içinde Yanan Saldiri kullanacak.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="QueenOfHatred_Sign">
+      <Name>Kötü Adam</Name>
+      <Desc>Nefret Kraliçesi'nin hedefi olur.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="QueenOfHatred_Hatred">
+      <Name>Nefret</Name>
+      <Desc>Nefret Kraliçesi'nin *tüm* Sayfalarinin hedefi olur.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="KnightOfDespair_Blessing">
+      <Name>Gözyaslari</Name>
+      <Desc>Bir Hiz Zari kazanir. Özel Savas Sayfalari kullanir. Dirençler degisir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Gaho">
+      <Name>Kutsama</Name>
+      <Desc>Önceki Sahnede en çok hasar veren hasar türüne karsi dirençler bu Sahne için "Dirençli" olarak degisir. (Fiziksel Hasar ve Sersemletme Hasari için ayri ayri uygulanir)</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Ability/BloodBath_Hand">
+      <Name>Solgun Eller</Name>
+      <Desc>Kütüphaneci'nin 'Solgun Eller' Anormallik Sayfasiyla yaptigi her üçüncü vurusta ek 3-10 Sersemletme Hasari alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="SweepersSkill">
+      <Name>Azim</Name>
+      <Desc>Ölümcül Hasar aldiginda, %80 olasilikla bir miktar Can ile dirilir. Bu olasilik her dirilmede yariya iner.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="SlashPowerUp">
+      <Name>Kesme Artisi</Name>
+      <Desc>Kesme Zarlari bu Sahne boyunca +{0} Güç kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="PenetratePowerUp">
+      <Name>Delme Artisi</Name>
+      <Desc>Delme Zarlari bu Sahne boyunca +{0} Güç kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="HitPowerUp">
+      <Name>Vurma Artisi</Name>
+      <Desc>Vurma Zarlari bu Sahne boyunca +{0} Güç kazanir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Queenbee_Spore">
+      <Name>Sporlar</Name>
+      <Desc>Sahnenin baslangicinda {0} Hasar alir ve Birikim miktari yariya iner. (Asagi Yuvarlanir)
+Karakter bir Saldiri Zari attiginda {0} Hasar alir.
+Karakter bir durum sorunuyla ölürse, sonraki Sahne'de bir isçi Ari ortaya çikar.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Queenbee_Punish">
+      <Name>Ceza</Name>
+      <Desc>'isçi Ari' Anormallik Sayfasina sahip olmayan Kütüphanecilerden +2-4 Hasar alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Snowwhite_Vine">
+      <Name>Asmalar</Name>
+      <Desc>'Asmalar' Anormallik Sayfasina sahip bir Kütüphaneci bu karaktere saldirdiginda, Delme Zarlari +1-2 Güç kazanir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Burning_Match">
+      <Name>Alevli</Name>
+      <Desc>Bir Hiz Zari kazanir; Zar Gücü +2; karakter her Zar attiginda Maksimum Canin %5'ini kaybeder.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="TeddyLove">
+      <Name>Sevgi</Name>
+      <Desc>Bu karaktere saldiran rakibin tüm Zarlari, bu etkinin Birikim miktarina esit Güç kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="FairyMeat">
+      <Name>Taze Et</Name>
+      <Desc>'Kanat Çirpislari' bu karaktere karsi +2 Güç kazanir ve vurdugunda 10 Can yeniler.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="AreaCard_Keyword">
+      <Name>Alan Saldirisi</Name>
+      <Desc>Tüm düsmanlari hedefler. Basarili bir vurus, hedefin Savas Sayfasini veya Zar eylemini yok eder.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="AreaDiceAll_Keyword">
+      <Name>Toplam</Name>
+      <Desc>Saldiri, hedefin Savas Sayfasinda atilan Zarlarin Toplamindan &gt; ise, hedefler hasar alir ve Sayfalari yok edilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="AreaDiceEach_Keyword">
+      <Name>Bireysel</Name>
+      <Desc>Atilan Zar, hedefin mevcut Zarindan daha büyükse, hedefler hasar alir ve Zar yok edilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="FairyMeal">
+      <Name>Oburluk</Name>
+      <Desc>Mevcut Toplam Hasar: {0}.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="OnlyOne_Keyword">
+      <Name>Essiz</Name>
+      <Desc>Bir Karakter, Destesinde tekrar eden Sayfa yoksa 'Essiz'dir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="RedHood_Angry">
+      <Name>Öfke</Name>
+      <Desc>2 Sahne sürer. Her Sahne +2 Güç kazanir ve Alan Saldirisi Sayfalari kullanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="RedHood_Rage">
+      <Name>Kontrolsüz Öfke</Name>
+      <Desc>Kalici. Her Sahne +5 Güç ve Hiz kazanir ve Alan Saldirisi Sayfalari kullanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="RedHood_Hunt">
+      <Name>Av</Name>
+      <Desc>'Av' Anormallik Sayfasina sahip Kütüphanecinin saldirilarindan +2-6 Hasar alir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="WarpCharge">
+      <Name>Yük</Name>
+      <Desc>Belirli Savas Sayfalarinin özelliklerini etkiler. Ayni anda 10 Yük biriktirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Lumberjack_Heart">
+      <Name>Sicak Kalp</Name>
+      <Desc>Zar'in maksimum sonucu +{0} artar.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="GalaxyBoy_Stone">
+      <Name>Bir Dostluk Jetonu</Name>
+      <Desc>Sahnenin baslangicinda Maksimum Canin %10'unu yeniler.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Smoke">
+      <Name>Duman</Name>
+      <Desc>%{0} daha fazla Hasar alir. 10'a kadar birikebilir. Karakter 9+ Duman Birikimine sahipse Zar Gücü +1. Sahne sonunda 1 Duman kaybeder.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Smoke_buf">
+      <Name>Duman</Name>
+      <Desc>%{0} daha fazla Hasar verir. 10'a kadar birikebilir. Karakter 9+ Duman Birikimine sahipse Zar Gücü +1. Sahne sonunda 1 Duman kaybeder.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Smoke_Keyword">
+      <Name>Duman</Name>
+      <Desc>Alinan Hasari artirir. 9+ Duman Birikiminde Tüm Zarlar +1 Güç kazanir. 10'a kadar birikir. Her Sahne sonunda -1 Duman kaybeder.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Butterfly_Seal">
+      <Name>Mühürlü</Name>
+      <Desc>{0} Hiz Zari kullanilamaz. En soldaki Zar önce Mühürlenir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Freischutz_Bullet">
+      <Name>Sihirli Mermi</Name>
+      <Desc>Her 7. Yakin Dövüs veya Menzilli Sayfa rastgele bir hedefi (müttefikler dahil) hedefler.</Desc>
+      </BattleEffectText>
+
+    <BattleEffectText ID="CB_BigBadWolf_Stealth">
+      <Name>Gölgede Gizlenme</Name>
+      <Desc>Kurt'un hedefi olmayan Kütüphaneciler hareket edemez.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wolf_Claw">
+      <Name>Vahset Pençeleri</Name>
+      <Desc>Bu Sahne için +2 Güç kazanir; hedef alinamaz; düsmanlarla Çarpismaya giremez; her basarili saldiridan sonraki Sahne'de 1 Kanama uygular.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Crying_Weak">
+      <Name>Belirginlesmis Zihin</Name>
+      <Desc>Tüm Dirençler "Ölümcül" olarak degisir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="BurningGirl_Burn">
+      <Name>Kömür</Name>
+      <Desc>Saldiri Zarlari "[Vurdugunda] 1 Yanik uygular" kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="BurningGirl_Ember">
+      <Name>Kor</Name>
+      <Desc>'Kibrit' içeren Sayfalarin ilk Zarinin Maksimum Sonucu her Birikim için 1 artar. Zar vurdugunda Kor Birikimine esit Yanik uygular. 4 veya daha fazla Kor varsa, ilk Zar atildiktan sonra %25 olasilikla patlar ve Zar sonucuna esit Hasar alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="SingingMachine_Rhythm">
+      <Name>Ritim</Name>
+      <Desc>Bu etki aktifken, Sahnenin baslangicinda 1 Güç kazanir ve saldirilardan +2-5 Sersemletme Hasari alir. Sahne sonunda 1 Ritim kaybeder.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Porccubus_Happy">
+      <Name>Duygu</Name>
+      <Desc>Bir saldiri aldiginda Duygu 3 Birikime ulasirsa, 2-7 Hasar ve Sersemletme Hasari alir ve bu durumu kaybeder.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="onlypage_yujin_Keyword">
+      <Name>Yujin'e Özel Sayfa</Name>
+      <Desc>Yalnizca Yujin'in Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_sweeper_Keyword">
+      <Name>Temizlikçilere Özel Sayfa</Name>
+      <Desc>Yalnizca Temizlikçilerin Anahtar Sayfalarina sahip Destelere yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_warp_Keyword">
+      <Name>Rose, Lesti ve Sen'e Özel Sayfa</Name>
+      <Desc>Yalnizca Rose, Lesti ve Sen'in Anahtar Sayfalarina sahip Destelere yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_philip_Keyword">
+      <Name>Kararsiz Aglayan Çocuk'a Özel Sayfa</Name>
+      <Desc>Yalnizca Kararsiz Aglayan Çocuk'un Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_lowel_Keyword">
+      <Name>Lowell'e Özel Sayfa</Name>
+      <Desc>Yalnizca Lowell'in Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_chulsan_Keyword">
+      <Name>Cecil ve Mei'ye Özel Sayfa</Name>
+      <Desc>Yalnizca Cecil ve Mei'nin Anahtar Sayfalarina sahip Destelere yerlestirilebilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="HodFinal_CopiousBleeding">
+      <Name>Derin Yara</Name>
+      <Desc>Bir saldiri alindiginda Derin Yara 5 Birikime ulasirsa, Maksimum Canin %25'ine esit Hasar alir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="CardBuf_Latitia_Heart">
+      <Name>Laetitia'nin Hediyesi</Name>
+      <Desc>{0} Sahne içinde patlar</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Latitia_Heart">
+      <Name>At-is</Name>
+      <Desc>Bir 'Hediye' Sayfasi patladiginda bir Birikim kazanir. 3 Birikimde karakter öldürülür ve sonraki Sahne'de bir 'Küçük Arkadas' ortaya çikar.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Latitia_Gift">
+      <Name>Hediye Edilmis</Name>
+      <Desc>Karakter Hediye'yi verenden baska bir rakiple Çarpismaya girerse, Çarpismanin baslangicinda 2-7 Hasar alir ve %40 olasilikla sonraki Sahne'de 2 Kanama alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="BlackSwan_Nettle">
+      <Name>Isirgan Otu Giysisi</Name>
+      <Desc>Sahnenin baslangicinda bu durum etkisinin miktarina esit Koruma kazanir. Bir saldiri alindiginda bir Birikim kaybedilir.</Desc>
+    </BattleEffectText>
+
+
+    <BattleEffectText ID="HodFinal_BlackSwanDeadBro">
+      <Name>Kayip Aile</Name>
+      <Desc>Sahnenin baslangicinda bu durumun miktari 4 veya daha fazlaysa, özel bir Savas Sayfasi kullanilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Laetitia_Gift_Keyword">
+      <Name>Küçük Hediye</Name>
+      <Desc>1 Maliyetli zayif bir Savas Sayfasi. Düsmanlar diger Sayfalar yerine bunu kullanmayi önceliklendirir. Kullanildiginda Tüketilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="onlypage_thumb">
+      <Name>Basparmaga Özel Sayfa</Name>
+      <Desc>Yalnizca Basparmak Üyelerinin (Soldato, Kalo, Katriel ve Deniss) Anahtar Sayfalarina sahip Destelere yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_thumb2">
+      <Name>Kalo, Katriel ve Denis'e Özel Sayfa</Name>
+      <Desc>Yalnizca Kalo, Katriel ve Deniss'in Anahtar Sayfalarina sahip Destelere yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_boris">
+      <Name>Boris'e Özel Sayfa</Name>
+      <Desc>Yalnizca Boris'in Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="bullet_keyword">
+      <Name>Mühimmat</Name>
+      <Desc>Kullanildiginda veya Atildiginda, Menzilli Savas Sayfalarina ek etkiler verir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="DmgUp">
+      <Name>Hasar Artisi</Name>
+      <Desc>Karakterin oynadigi tüm Saldiri Zarlari bu Sahne boyunca +{0} Hasar kazanir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Universe_DecreaseMaxBp">
+      <Name>Siniri Asma</Name>
+      <Desc>Maksimum Sersemletme Direnci %{0} azalir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Universe_Enlightenment">
+      <Name>Kontrol Edilemez Bilgi</Name>
+      <Desc>'Aydinlanma' karti elinizde oldugu için Sersemletme Direnciniz %50 azaldi.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Alriune_Attacker">
+      <Name>Tazminat Defne Taci</Name>
+      <Desc>Yalnizca bu karakter Alriune'a (ve onun Gücünü kullanan birine) Hasar verebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Alriune_Debuf">
+      <Name>Aroma</Name>
+      <Desc>Sahnenin baslangicinda {0} Sersemletme Hasari alir ve Birikim miktari yariya iner. (Asagi Yuvarlanir)</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="ResistWeakBP">
+      <Name>Azalmis Sersemletme Direnci</Name>
+      <Desc>Tüm Sersemletme Hasari Dirençleri bu Sahne için "Ölümcül" olarak degisir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Orchestra_Enthusiastic">
+      <Name>Hevesli Hayranlik</Name>
+      <Desc>Kontrol Edilemez. Sersemletildiginde bu durum kaldirilir ve karakter sonraki Sahne'de Sersemlemeden kurtulur.
+Yalnizca akli basinda Kütüphanecilerden Sersemletme Hasari alir; yalnizca bu etkiye sahip Kütüphanecilerden Fiziksel Hasar alir. Anormallik saldirilarindan (Yalnizca 'Final' hariç) Hasar almaz.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="PowerUpOrchestraEgo">
+      <Name>Pianissimo</Name>
+      <Desc>Angela bu karaktere karsi Çarpismada +2 Güç kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="AllPowerUp">
+      <Name>Güç Artisi</Name>
+      <Desc>Zar Gücü +{0}</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="DecreaseSpeedTo1">
+      <Name>Sabit Hiz: 1</Name>
+      <Desc>Bu Sahne için Hiz 1'e sabitlenir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Alriune_Flower">
+      <Name>Taçyapragi</Name>
+      <Desc>Karakter 'Bahar Yaratilisi' Anormallik Sayfasina sahip Kütüphaneciden 4 vurus aldiginda, tüm karakterler 3-7 Sersemletme Hasari alir ve karakter sonraki Sahne'de hedef alinamaz.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="NoTargeting">
+      <Name>Hedef Yok</Name>
+      <Desc>Bu karakter hedef alinamaz.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Orchestra_Affect">
+      <Name>Hevesli Hayranlik</Name>
+      <Desc>Müttefikler dahil rastgele karakterleri hedefler. Saldirilarda +2-4 Hasar verir.</Desc>
+    </BattleEffectText>
+
+
+    <BattleEffectText ID="TakeBreakDamage2">
+      <Name>Sersemletmeye Karsi Kirilgan</Name>
+      <Desc>Bu Sahne boyunca saldirilardan +2 Sersemletme Hasari alir.</Desc>
+    </BattleEffectText>
+
+
+    <BattleEffectText ID="onlypage_nemo">
+      <Name>Nemo'ya Özel Sayfa</Name>
+      <Desc>Yalnizca Nemo'nun Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_bada">
+      <Name>Bada'ya Özel Sayfa</Name>
+      <Desc>Yalnizca Bada'nin Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_martina">
+      <Name>Martina'ya Özel Sayfa</Name>
+      <Desc>Yalnizca Martina'nin Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="NullifyPower">
+      <Name>Güç iptal Edildi</Name>
+      <Desc>Bu Sahne boyunca Güç ile ilgili etkilerden etkilenmez.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Alriune_Petal">
+      <Name>Taçyapragi</Name>
+      <Desc>Üç Taçyapragi açtiginda, o Sahne'de bir Alan Saldirisi Sayfasi kullanilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="BigBird_Charm">
+      <Name>Büyülenmis</Name>
+      <Desc>Kontrol Edilemez. Hiz 1'e sabitlenir. 'Kamasmis' kullanir, Büyük Kus'u hedefler.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="BigBird_Eye">
+      <Name>Dik Dik Bakiyor</Name>
+      <Desc>{0} Sahne boyunca sadece bu durumu uygulayan karakteri hedefleyebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="BigBird_Sleep">
+      <Name>Uykuda</Name>
+      <Desc>Bu Sahne için Sersemlemis olur.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Lumberjack_Cut">
+      <Name>Sicak Kalp</Name>
+      <Desc>Karakter Çarpisma Asamasi basladiginda 3 veya daha fazla Isiga sahipse Saldiri Zarlarinin Gücünü 1-2 artirir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="SnowQueen_Debuf">
+      <Name>Soguk</Name>
+      <Desc>Her Sahnenin baslangicinda 1 Soguk kaybedilir.
+Sahnenin baslangicinda, karakter 4 veya daha fazla Soguk'a sahipse, 2 Baglama ve Zayif kazanir.
+Karakter 6 veya daha fazla Soguk'a sahipse, sonraki Sahnenin baslangicinda Hareketsiz olur ve üzerindeki tüm Soguk birikimini kaldirir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Vibrate">
+      <Name>Titresim</Name>
+      <Desc>???</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="BloodyTree_Emotion_Damage">
+      <Name>Kanli Kanatlar</Name>
+      <Desc>Bir karakter çarpismaya girdiginde, kendileri, hedef ve 'Kanli Kanatlar' Anormallik Sayfasina sahip Kütüphaneciler hariç tüm karakterler 1-10 Hasar alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="SnowQueen_Emotion_Shard">
+      <Name>Buz Kiymigi</Name>
+      <Desc>Sahnenin sonunda Birikim 3 veya daha fazlaysa, karakter sonraki Sahne için Hareketsiz olur.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="SnowQueen_Emotion_Stun">
+      <Name>Donmus</Name>
+      <Desc>Bu Sahne hareket edemez. Düsmaniniz ise, sonraki Sahne'de 6 Baglama kazanir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="HokmaFirstCounter">
+      <Name>Hareketsiz</Name>
+      <Desc>{0} Sahne içinde uyanacak. Cennetin Dikeni veya Cenneti Kazima Sersemlemis ise, bu gerçeklesmez.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="HokmaFirstCounter2">
+      <Name>Hareketsiz</Name>
+      <Desc>Bir Diken {0} Sahne içinde uyanacak veya ortaya çikacak. Cenneti Kazima Sersemlemis ise, bu gerçeklesmez.</Desc>
+    </BattleEffectText>
+
+
+    <BattleEffectText ID="Mountain_WeakResist">
+      <Name>Azalmis Sersemletme Direnci</Name>
+      <Desc>Tüm Sersemletme Hasari Dirençleri bu Sahne için "Ölümcül" olarak degisir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="WayBackHome_Target">
+      <Name>Sari Tuglali Yol</Name>
+      <Desc>Eve Dönüs Yolu ve Korkak Kedi'nin hedefi.
+Korkak Kedi bu karaktere saldirdiginda +5 Güç kazanir.
+'Arkadaslar! Hadi Eve Gidelim~!' saldirilarinin tümü bu duruma sahip hedefi vuramazsa, Eve Dönüs Yolu'nun son saldirisi iptal edilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="WayBackHome_Coward_Strength">
+      <Name>Cesaret</Name>
+      <Desc>Eve Dönüs Yolu'nun bu Sahne'de saldirildigi miktar kadar Güç kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="WayBackHome_Super_Cancel">
+      <Name>Ulasilamaz Ev</Name>
+      <Desc>'Eve' yönlendirilen Sayfa iptal edildiginde Sayaci artirir.
+Bu 3'e ulasirsa, sonraki Sahne'de güçlü bir Savas Sayfasi kullanilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="WayBackHome_Emotion_Target">
+      <Name>Yürüme</Name>
+      <Desc>Anormallik Sayfasina sahip Kütüphaneci, dogru sirada bir hedefe saldirdiginda 3 ek Hasar verir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="WayBackHome_Emotion_Protected">
+      <Name>Birlikte Yürünmüs Bir Yol</Name>
+      <Desc>Bir müttefik baslangiçta bu karakteri hedef alan bir saldiriyi engellerse, Sayfalari 1-2 Güç kazanir</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="DangoCreature_Emotion_Healed">
+      <Name>Bölme</Name>
+      <Desc>Bu Perde'de yenilenen toplam Can miktari.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="IndexRelease">
+      <Name>Kiliç Kilidi Açildi</Name>
+      <Desc>Zar Gücü +1</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="IndexReleaseCount">
+      <Name>Kilidi Açma</Name>
+      <Desc>Bu Perde'de kullanilan benzersiz Savas Sayfasi sayisi: {0}</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="IndexOnlyCardCount">
+      <Name>Alan Saldirisi Zamanlayicisi</Name>
+      <Desc>Her 4 Sahne'de bir Alan Saldirisi kullanir; baska Vekiller yoksa her 2 Sahne'de bir kullanir. ({0} Sahne içinde kullanilacak)</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="IndexReleaseCard2_Keyword">
+      <Name>Kilidi Aç-Ⅱ</Name>
+      <Desc>Kesme (2-6), Delme(1-3) Zarlari olan Savas Sayfasi; '[Kullanildiginda] Bu Sayfayi Tüketir ve El'e 'Kilidi Aç-Ⅲ' ekler'</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="IndexReleaseCard3_Keyword">
+      <Name>Kilidi Aç-Ⅲ</Name>
+      <Desc>Kesme (3-7), Delme(2-4) Zarlari olan Savas Sayfasi; '[Kullanildiginda] 1 Isik Yeniler ve 1 Sayfa Çeker'</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="onlypage_esther_Keyword">
+      <Name>Esther'e Özel Sayfa</Name>
+      <Desc>Yalnizca Esther'in Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_hubert_Keyword">
+      <Name>Hubert'e Özel Sayfa</Name>
+      <Desc>Yalnizca Hubert'in Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_gloria_Keyword">
+      <Name>Gloria'ya Özel Sayfa</Name>
+      <Desc>Yalnizca Gloria'nin Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Decay">
+      <Name>Çürüme</Name>
+      <Desc>Sahnenin sonunda {0} Hasar alir ve 1 Çürüme kaybeder. Bir saldiri alindiginda, bu durumun miktarina esit ek Hasar ve Sersemletme Hasari alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="ServantOfWrath_Wand">
+      <Name>Asa</Name>
+      <Desc>'Düseceksin...!' Savas Sayfasi bu karaktere karsi kullanildiginda, o Sayfadaki tüm Zarlar bu durumun miktariyla orantili Güç kazanir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Nihil_Hatred">
+      <Name>Kötü Adam</Name>
+      <Desc>Karakter bu etkiye sahipken, Sahnenin baslangicinda 3 Kirilgan kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Nihil_Meaningless">
+      <Name>Bosluk</Name>
+      <Desc>Karakter bu etkiye sahipken, Sahnenin baslangicinda 7 Zayif, Silahsizlanma ve Kirilgan kazanir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Angry_Angry">
+      <Name>Öfke</Name>
+      <Desc>Kontrol Edilemez; müttefikler dahil rastgele karakterleri hedefler. Sahnenin baslangicinda 2 Güç kazanir, 2 Isik yeniler ve 2 Sayfa daha çeker. (Belirli bir Anormallik Sayfasi kosulu tamamlanirsa Dezavantaj iptal edilir.)</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Angry_Friend">
+      <Name>Yoldaslik</Name>
+      <Desc>ilgili Anormallik Sayfasina sahip bir Kütüphaneci bu karakteri yenerse, tüm Kütüphaneciler 3 Isik yeniler, 10 Can ve Sersemletme Direnci yeniler ve yeni bir 'Yoldaslik' uygulanabilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Nihil_MagicalPower">
+      <Name>Sihirli Kizlar</Name>
+      <Desc>Dört Sihirli Kiz Sayfasi eldeyken, Kütüphaneci her Sahne 1-2 Güç kazanir ve Zayif, Silahsizlanma veya Baglama'dan etkilenmez.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Nihil_Nihil">
+      <Name>Yokluk</Name>
+      <Desc>Sahnenin baslangicinda diger tüm karakterlere 5 Zayif, Silahsizlanma ve Baglama uygular. Hirs, Nefret ve Öfke Anormallik Sayfalarinin dezavantajlari asagidaki gibi iptal edilir:
+Hirs: Yalnizca Kütüphaneci bu etkiyi tetikleyebilir.
+Nefret: Çarpisma kaybettiginde ek Sersemletme Hasari almazsin.
+Öfke: Kütüphanecilerinin kontrolünü geri alirsin.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_chun_Keyword">
+      <Name>Chun'a Özel Sayfa</Name>
+      <Desc>Yalnizca Chun'un Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="CardBuf_burnUp_Keyword">
+      <Name>Yirtici Hiddetli Ates</Name>
+      <Desc>Bu Sayfa kullanilirken, Savas Sayfalari kullanilarak uygulanan Yanik iki katina çikar.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="BurnSpread_Keyword">
+      <Name>Yangin Gücü</Name>
+      <Desc>Karakter sonraki {0} Sahne içinde Sersemlerse, diger tüm müttefikler sonraki Sahnenin baslangicinda bu karakterin sahip oldugu Yanik miktarinin yarisi kadar Yanik alir. (Asagi Yuvarlanir)</Desc>
+    </BattleEffectText>
+
+
+    <BattleEffectText ID="Silence_StopTime">
+      <Name>Sessizlik</Name>
+      <Desc>Kurulum Asamasi zaman kisitlamasi bu Sahne için uygulanmaz.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Silence_TraceCount">
+      <Name>Biriken Zaman</Name>
+      <Desc>simdiye kadar yenilen 'Zaman Kalintilari' sayisi.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Silence_TimeOut">
+      <Name>Durdurulamaz Zaman</Name>
+      <Desc>Özel desen {0} Sahne içinde gerçeklesecek.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Silence_PowerClash">
+      <Name>ilerleyen Zaman</Name>
+      <Desc>Bir *Çarpismada* +3 Güç kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Silence_PowerAtk">
+      <Name>ilerleyen Zaman</Name>
+      <Desc>Bir *Yalniz-tarafli Saldirida* +3 Güç kazanir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="SmallBird_Punishment">
+      <Name>Cezalandirici</Name>
+      <Desc>Bu Sahne oynanan ilk Savas Sayfasi'nin ilk Zari +2-4 Güç kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Smallbird_Beak">
+      <Name>Cezalandirici Gaga</Name>
+      <Desc>Hasar +{0}</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Clock_Thirteen">
+      <Name>On Üçüncü Geçis Ücreti</Name>
+      <Desc>Kullanilan Sayfa Sayisi: {0}
+Her 13 Sayfada bir +1-2 Güç kazanir.
+Sayfadaki Zarlar sunu kazanir: '[Vurdugunda] Hedefin Maksimum Caninin (Zar Degeri)% kadari kadar ek Hasar verir'.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="RedMist">
+      <Name>Kirmizi Sis</Name>
+      <Desc>Zar Gücü +{0}. 5'e kadar birikebilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="onlypage_redmist_Keyword">
+      <Name>Kirmizi Sis'e Özel Sayfa</Name>
+      <Desc>Yalnizca Kirmizi Sis'in Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="BinahFairy">
+      <Name>Peri</Name>
+      <Desc>Her Zar atildiginda {0} Hasar alir. Sahnenin sonunda {0} Hasar alir ve Peri Birikimi yariya iner. (Asagi Yuvarlanir)</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="RedMistEgoReady">
+      <Name>E.G.O Ortaya Çikarma</Name>
+      <Desc>{0} Sahne içinde E.G.O Ortaya Çikaracak</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="RedMistEgo">
+      <Name>E.G.O Ortaya Çikarildi</Name>
+      <Desc>'Büyük Bölme: Yatay' kullanabilir. Zar Gücü +2. Her Sahne 40+'tan az Hasar verirse Sersemletme Hasari alir.
+Bu etki Sersemletildiginde devre disi kalir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Fairy_Keyword">
+      <Name>Peri X</Name>
+      <Desc>Her Zar atildiginda X Hasar alir. Sahnenin sonunda X Hasar alir ve Peri Birikimi yariya iner. (Asagi Yuvarlanir)</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Sin_Abnormality">
+      <Name>Günah</Name>
+      <Desc>Günah miktari Sahnenin baslangicinda belirli bir miktari asarsa, Yargi Kusu özel bir Savas Sayfasi kullanir. Günah saldirmak ve Hasar vermek yoluyla müttefiklere aktarilabilir. (Sayfa basina bir kez)</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Sin_AbnormalityCard">
+      <Name>Günah</Name>
+      <Desc>Günah miktari 5 veya daha fazlasina ulasirsa, Maksimum Canin %10'una esit Hasar alir ve tüm Birikimi kaldirir. Günah saldirmak ve Hasar vermek yoluyla baska bir karaktere aktarilabilir. (Sayfa basina bir kez)</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="onlypage_rhino_Keyword">
+      <Name>Gergedan Ekibine Özel Sayfa</Name>
+      <Desc>Yalnizca Gergedan Ekibi ve Maxim'in Anahtar Sayfalarina sahip Destelere yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_reindeer_Keyword">
+      <Name>Geyik Ekibine Özel Sayfa</Name>
+      <Desc>Yalnizca Geyik Ekibi ve Rudolph'un Anahtar Sayfalarina sahip Destelere yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_myo_Keyword">
+      <Name>Myo'ya Özel Sayfa</Name>
+      <Desc>Yalnizca Myo'nun Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_maxim_Keyword">
+      <Name>Maxim'e Özel Sayfa</Name>
+      <Desc>Yalnizca Maxim'in Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_rudolph_Keyword">
+      <Name>Rudolph'a Özel Sayfa</Name>
+      <Desc>Yalnizca Rudolph'un Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_nicolai_Keyword">
+      <Name>Nikolai'ye Özel Sayfa</Name>
+      <Desc>Yalnizca Nikolai'nin Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="WarpChargeR">
+      <Name>Yük+</Name>
+      <Desc>Belirli Savas Sayfalarinin özelliklerini etkiler. Ayni anda 20 Yük biriktirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="NicolaiTarget">
+      <Name>isaret</Name>
+      <Desc>Saldirilardan %50 daha fazla Hasar ve Sersemletme Hasari alir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="MyoBerserk">
+      <Name>Vahsi Mod</Name>
+      <Desc>Zar Gücü +1</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="RedHoodFinal_Berserk">
+      <Name>Hiddet</Name>
+      <Desc>2 Sahne sürer. Her Sahne 2 Güç kazanir ve Alan Saldirisi Sayfalari kullanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="RedHoodFinal_Rage">
+      <Name>Kontrolsüz Hiddet</Name>
+      <Desc>Kalici. Her Sahne 4 Güç kazanir ve Alan Saldirisi Sayfalari kullanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="RedHoodFinal_Mark">
+      <Name>Evin isareti</Name>
+      <Desc>Parali Askerin saldirilarindan %50 daha fazla Hasar alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="RedHoodFinal_Scar">
+      <Name>Yaralar</Name>
+      <Desc>Sahnenin baslangicinda Yara miktarina esit Kanama kazanir. Sahnenin baslangicinda miktar 6 veya daha fazlaysa, Maksimum Canin %20'sine esit Hasar alir ve tüm Birikimi kaldirir. Kurt tarafindan saldirildiginda, Yara miktarina esit ek Hasar alir. Kurt'un Zarlari 4 veya daha fazla Yara'ya sahip hedeflere karsi +2 Güç kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Nothing_Skin">
+      <Name>Kabuk</Name>
+      <Desc>Bu Sahne için önceki Sahnede yenilen karakterin tüm Dirençlerini ve Savas Sayfalarini kopyalar.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Nothing_Fear">
+      <Name>Terör</Name>
+      <Desc>Sahnenin baslangicinda elinde 3 veya daha fazla 'Terör' kopyasi varsa, elindeki her kopya için 10 Hasar ve Sersemletme Hasari alir ve Sahne boyunca Hareketsiz olur.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Nothing_Mimic">
+      <Name>Taklit</Name>
+      <Desc>Belirli Savas Sayfalarinin özelliklerini etkiler. 10'a kadar birikebilir. Her Sahne sonunda 1 Taklit kaybeder.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Nosferatu_Blood">
+      <Name>Kan</Name>
+      <Desc>Kan miktarina bagli olarak farkli Savas Sayfalari kullanir. Maksimum Canin %5'inden büyük bir Hasara dayanildiginda 1 Kan kaybedilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Nosferatu_Blight">
+      <Name>Sudan Korkma</Name>
+      <Desc>2 Sahne sürer. Sahnenin baslangicinda Maksimum Canin %5'ini kaybeder ve 1 Güç, 1 Hiz ve 5 Kanama kazanir. Karakterin Cani %50 veya daha az ise, kontrol edilemez olur ve %25 olasilikla bir müttefike saldirir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="egoChange_Keyword">
+      <Name>Senkronizasyon</Name> <Desc>Savas Sayfalarini benzersiz olanlarla degistirir. Durum devre disi kaldiginda Deste ve El normale döner. Baska bir E.G.O Senkronizasyonu veya E.G.O Ortaya Çikarma ile birlikte kullanilamaz.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="onlypage_purpleTear_Keyword">
+      <Name>Mor Gözyasi'na Özel Sayfa</Name>
+      <Desc>Yalnizca Mor Gözyasi'nin Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="StanceChange_Keyword">
+      <Name>Durus Degistir</Name>
+      <Desc>Destedeki ve eldeki tüm Sayfalari kaldirir ve yeni Durus ile olusturulan Deste ile degistirir. Ardindan, Durus degistirmeden önceki Sayfa sayisina esit Sayfa çeker.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="StanceSlash">
+      <Name>Kesme Durusu</Name>
+      <Desc>Kesme Zarlari Gücü +2. Saldirilarla %50 daha fazla Hasar verir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="StancePenetrate">
+      <Name>Delme Durusu</Name>
+      <Desc>Delme Zarlari Gücü +2. Savas Sayfalari kullanarak durum sorunlari uyguladiginda, iki kat Birikim uygular.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="StanceHit">
+      <Name>Vurma Durusu</Name>
+      <Desc>Vurma Zarlari Gücü +2. Saldirilarla %50 daha fazla Sersemletme Hasari verir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="StanceDefense">
+      <Name>Engelleme Durusu</Name> <Desc>Savunma Zarlari Gücü +2. Tüm durum sorunlarini kaldirir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="DefensePowerUp">
+      <Name>Savunma Artisi</Name>
+      <Desc>Savunma Zarlari bu Sahne boyunca +{0} Güç kazanir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Lumberjack_Heart_Final">
+      <Name>Sicak Kalp</Name>
+      <Desc>Sahnenin baslangicinda 'Sicak Kalp' miktarina göre Isik yeniler. (Temel Isik yenilenmesi yoktur) Her Sahne sonunda 1 Sicak Kalp kaybedilir. 3'e kadar birikebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Lumberjack_Meat_Final">
+      <Name>Kalp Parçalari</Name>
+      <Desc>Roland'in oynadigi belirli Savas Sayfalarinin Gücünü artirir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Lumberjack_Piece_Final">
+      <Name>Zihin Parçalari</Name>
+      <Desc>Bu durumun miktari 4'e ulasirsa, sonraki Sahne 1 Sicak Kalp kazanir ve bunun 4 Birikimi kaldirilir. Her Sahne sonunda 1 Zihin Parçasi kaybedilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="WayBackHome_Super_Cancel_Final">
+      <Name>Ulasilamaz Ev</Name>
+      <Desc>'Eve' yönlendirilen Sayfa iptal edildiginde Sayaci artirir.
+Bu 2'ye ulasirsa, sonraki Sahne'de güçlü bir Savas Sayfasi kullanilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="WayBackHome_Coward_Final">
+      <Name>Korkaklik</Name>
+      <Desc>'Eve Dönüs Yolu'nun bu Sahne'de saldirildigi miktar kadar Zayif kazanir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Ozma_Oblivion">
+      <Name>Unutkanlik</Name>
+      <Desc>Tüm Savas Sayfalari benzersiz olanlarla degisir. Vuruldugunda, orijinal desteden rastgele bir Savas Sayfasi yenilenir. Kalan Sayfalar: {0}</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Ozma_AwakenPumpkin_Strength">
+      <Name>Güneyin Jack'i</Name>
+      <Desc>Her Sahne 2 Güç kazanir</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Ozma_AwakenPumpkin_Endurance">
+      <Name>Bati'nin Jack'i</Name>
+      <Desc>Her Sahne 2 Dayaniklilik kazanir</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Ozma_AwakenPumpkin_Quickness">
+      <Name>Kuzey'in Jack'i</Name>
+      <Desc>Her Sahne 2 Hiz kazanir</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Ozma_AwakenPumpkin_BreakDmg">
+      <Name>Dogu'nun Jack'i</Name>
+      <Desc>Saldirilarla +3 Sersemletme Hasari verir</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Ozma_LibrarianToPumpkin">
+      <Name>Kayip Anilar</Name>
+      <Desc>Tüm Savas Sayfalari benzersiz olanlarla degisir. Tüm istatistikler degisir. Bu karakterin diger pasif yetenekleri etkinlesmez.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Ozma_PumpkinToLibrarian">
+      <Name>Mükemmel Jack</Name>
+      <Desc>Kabaga dönüsen Kütüphanecinin Anahtar Sayfasini ve Savas Sayfalarini kullanir. Her Sahne 2 Güç, 2 Dayaniklilik, 1 Hiz ve Sersemletme Hasarini 3 artiran bir Bonus kazanir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Wizard_Lumberjack">
+      <Name>iyi Kalpli Oduncu</Name>
+      <Desc>Bu karakterin Asamasi sirasinda tek bir Sahne'de düsmanlara 30 veya daha fazla Hasar verdikten sonra, kendiniz dahil tüm karakterlerin Isigini tamamen yeniler.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wizard_Scarecrow">
+      <Name>Bilgelik Arayan Korkuluk</Name>
+      <Desc>Bu karakterin Asamasi basladiginda, El'e 'Bilgelik' ve 4 özel Savas Sayfasi ekler ve Hiz Zari sayisini 5'e çikarir.
+Asama sonunda tüm Kütüphanecileri orijinal formlarina geri döndüremezseniz, Hiz Zari sayisini 1'e düsürür.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wizard_Lion">
+      <Name>Korkak Kedi</Name>
+      <Desc>Bu karakterin Asamasi basladiginda, El'e bir 'Cesaret' kopyasi eklenir. Hiz Zari sayisi 5'e çikarilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wizard_WaybackHome">
+      <Name>Eve Dönüs Yolu</Name>
+      <Desc>El'e 4 özel Savas Sayfasi ekler.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wizard_Ozma">
+      <Name>Ozma</Name>
+      <Desc>El'e bir 'Kabak' kopyasi ve 3 özel Savas Sayfasi ekler.
+Bu karakterin Asamasi basladiginda 'Kabak'in maliyeti 0'a düsürülür ve bir Hiz Zari en hizlisi olur.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wizard_Scarecrow_Debuf">
+      <Name>Talas Çuvali</Name>
+      <Desc>Hiz Zari sayisi 1'e düsürülür.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Wizard_Lumberjack_Original">
+      <Name>iyi Kalpli Oduncu</Name>
+      <Desc>Orijinal Formuna geri dönmesi gerekiyor.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wizard_Lion_Original">
+      <Name>Korkak Kedi</Name>
+      <Desc>Orijinal Formuna geri dönmesi gerekiyor.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wizard_WaybackHome_Original">
+      <Name>Eve Dönüs Yolu</Name>
+      <Desc>Orijinal Formuna geri dönmesi gerekiyor.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wizard_Ozma_Original">
+      <Name>Ozma</Name>
+      <Desc>Orijinal Formuna geri dönmesi gerekiyor.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Wizard_Lumberjack_LightOfF">
+      <Name>Kursun Kalp</Name>
+      <Desc>Daha az Isik ile baslar ve maksimum Isik Kapasitesi azaltilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wizard_Scarecrow_Fail">
+      <Name>Talas Çuvali</Name>
+      <Desc>Savas sonuna kadar Hiz Zari sayisi 1'e düsürülür.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wizard_Lion_Courage">
+      <Name>Cesaret</Name>
+      <Desc>Üzerinizdeki tüm Zayif, Silahsizlanma ve Kirilgan etkilerini kaldirir. 10 Güç ve 5 Hiz kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wizard_Lion_Coward">
+      <Name>Korkaklik</Name>
+      <Desc>Savas sonuna kadar her Sahne 5 Zayif, Silahsizlanma ve Kirilgan uygular.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wizard_Ozma_Support">
+      <Name>Jack'e Yardim</Name>
+      <Desc>Saldiri Zarlari bu Sahne için +2 Güç kazanir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Ozma_revive">
+      <Name>Yasam Tozu</Name>
+      <Desc>'Yasam Tozu' Anormallik Sayfasi etkisiyle dirilebilir</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wizard_potion">
+      <Name>Sivi Cesaret</Name>
+      <Desc>Saldirilarla +6 Hasar verir; saldirilardan +3 Hasar alir</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wizard_poket">
+      <Name>Talas Çuvali</Name>
+      <Desc>Çarpisma kazandiginda 8 Sersemletme Direnci yeniler; Çarpisma kaybettiginde 4 Sersemletme Hasari alir</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wizard_heart">
+      <Name>Kursun Kalp</Name>
+      <Desc>Her Sahne 5 Can kaybeder ve ek 1 Isik yeniler</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wizard_home">
+      <Name>Ulasilamaz Ev</Name>
+      <Desc>Çarpisma kaybettiginde kendisine 4 Sersemletme Hasari verir ve sonraki Zara +2 Güç ekler</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wizard_change">
+      <Name>Dönüsüm</Name>
+      <Desc>Çarpismada basarili bir saldiri yaptiginda, %50 olasilikla rakibin sonraki Zarini yok eder; Çarpismada vuruldugunda, %50 olasilikla kendi sonraki Zarini yok eder.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Wizard_emerald">
+      <Name>Zümrüt</Name>
+      <Desc>Buna vuran herhangi bir karakter bu Sahne için 1 Isik yeniler. (Karakter basina en fazla 2)</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="onlypage_xiao_Keyword">
+      <Name>Xiao'ya Özel Sayfa</Name>
+      <Desc>Yalnizca Xiao'nun Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_chunMiris_Keyword">
+      <Name>Chun ve Miris'e Özel Sayfa</Name>
+      <Desc>Yalnizca Chun ve Miris'in Anahtar Sayfalarina sahip Destelere yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="BreakProtection_Keyword">
+      <Name>Sersemletme Korumasi X</Name>
+      <Desc>Bu Sahne boyunca saldirilardan X daha az Sersemletme Hasari alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="BreakProtection">
+      <Name>Sersemletme Korumasi</Name>
+      <Desc>Bu Sahne boyunca saldirilardan {0} daha az Sersemletme Hasari alir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="NullifyPowerReady">
+      <Name>Pú Láo</Name>
+      <Desc>Pú Láo etkisi {0} Sahne içinde etkinlesecek, Zar Gücü degisikliklerini iptal eder</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="BurnDown">
+      <Name>Aleve Karsi Kalkan</Name>
+      <Desc>Bu Sahne için 10 daha az Yanik Hasari alir</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Sin_Abnormality_Final">
+      <Name>Günah isareti</Name>
+      <Desc>Günah isareti miktari Sahnenin baslangicinda belirli bir miktari asarsa, Roland özel bir Savas Sayfasi kullanir. Günah isareti saldirmak ve Hasar vermek yoluyla baska bir karaktere (Roland hariç) aktarilabilir. (Sayfa basina bir kez)</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="SmallBird_Punish_Final">
+      <Name>Ceza</Name>
+      <Desc>Roland'in saldirilarindan +8 Hasar alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="SmallBird_Vigil_Final">
+      <Name>Uyaniklik</Name>
+      <Desc>Bu Sahne'de daha düsük Hiza sahip müttefiklere saldirildigi miktar kadar Güç kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Final_BigBird_Charm">
+      <Name>Büyülenmis</Name>
+      <Desc>{0} Sahne sürer. Kontrol Edilemez. Hiz 1'e sabitlenir. Özel bir Savas Sayfasi kullanir, Roland'i hedefler. Müttefikler tarafindan vuruldugunda Fiziksel Hasar almaz. Karakter Sersemletildiginde kaldirilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Final_BigBird_Darkness">
+      <Name>Karanlik</Name>
+      <Desc>{0} Sahne boyunca Güç ile ilgili etkileri iptal eder</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Final_BigBird_Darkness_Keyword">
+      <Name>Karanlik</Name>
+      <Desc>2 Sahne süren, Güç ile ilgili etkileri iptal eden bir durum.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="ApocalypseBird_Sin">
+      <Name>Agir Suçluluk</Name>
+      <Desc>Vurdugunda ek {0} Sersemletme Hasari alir. Sahnenin sonunda miktar 5 veya daha fazlaysa, Maksimum Canin %10'u kadar Hasar alir ve tüm Birikimi kaldirir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="ApocalypseBird_Charm">
+      <Name>Korkmus</Name>
+      <Desc>Tüm Dirençler "Ölümcül" olarak degisir. Sahnenin baslangicinda 4 Felç kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="ApocalypseBird_BigEye">
+      <Name>Kiyamet Yumurtasi - Büyük Gözler</Name>
+      <Desc>Güç ile ilgili etkilerden etkilenmez.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="ApocalypseBird_LongArm">
+      <Name>Kiyamet Yumurtasi - Uzun Kollar</Name>
+      <Desc>Bu etki aktifken durum etkilerine karsi bagisiktir. Sahnenin baslangicinda tüm durum etkilerini kaldirir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="ApocalypseBird_SmallBeak">
+      <Name>Kiyamet Yumurtasi - Küçük Gaga</Name>
+      <Desc>Kütüphanecinin elindeki rastgele 2 Sayfanin Maliyeti bu Sahne için 1 artar</Desc>
+    </BattleEffectText>
+
+
+    <BattleEffectText ID="ApocalypseBird_Apocalypse">
+      <Name>Canavar</Name>
+      <Desc>Bu karakter tarafindan Saldirilan/Saldirilan karakterlerin Zarlari Güç ile ilgili etkilerden etkilenmez. Bu Zarlarin minimum ve maksimum sonuçlari 3 azalir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="ApocalypseBird_Peace">
+      <Name>Davetsiz Misafir</Name>
+      <Desc>{0} Sahne sürer. Bu karakterin yaptigi tüm saldirilar 2-4 daha az Hasar ve Sersemletme Hasari verir. Vuruldugunda ek 1-2 Hasar alir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="onlypage_yan_Keyword">
+      <Name>얀샋ㄷ요무'ya Özel Sayfa</Name>
+      <Desc>Yalnizca 얀샋ㄷ요무'nun Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="YanArea_Ready">
+      <Name>Çarpik Kiliç</Name>
+      <Desc>{0} Sahne içinde Çarpik Kiliç kullanacak.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="WhiteNight_Hokma">
+      <Name>Gerçek Kurtulus</Name>
+      <Desc>Bas Kütüphaneci ölürse, tüm Kütüphaneciler onunla birlikte ölür.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="PlagueDoctor_Bless">
+      <Name>Kutsama</Name>
+      <Desc>Sahip oldugunuz tüm hastaliklardan ve yaralardan sizi iyilestirecektir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="WhiteNight_Awe">
+      <Name>Hürmet</Name>
+      <Desc>Sahnenin sonunda {0} Sersemletme Hasari alir ve bu durumun 1 Birikimi kaybedilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="WhiteNight_ApostlePowerUp">
+      <Name>Vahiy</Name>
+      <Desc>Havarilerin Saldiri Zarlari bu duruma sahip bir karakterle savastiklarinda +2 Güç kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="WhiteNight_BeApostle">
+      <Name>Çagri</Name>
+      <Desc>Bu karakter Sahne sonunda ölecek; bu gerçeklestiginde bir Koruyucu Havari ortaya çikacak.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="WhiteNight_SuspendedAnimation">
+      <Name>Askiya Alinmis</Name>
+      <Desc>Can 2 veya daha az düserse, dirilene kadar Sersemlemis kalir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="WhiteNight_Protection">
+      <Name>Dikenli Taç</Name>
+      <Desc>Bu savas boyunca kalici olarak 100 Koruma ve 100 Sersemletme Korumasi kazanir.</Desc> </BattleEffectText>
+    <BattleEffectText ID="WhiteNight_WeakResist">
+      <Name>Gardi Düsük</Name>
+      <Desc>Tüm Dirençler "Ölümcül" olarak degisir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Emotion_PlagueDoctor_Blessed">
+      <Name>Kutsanmis</Name>
+      <Desc>Bu Sahne Vaftiz Edildi.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Emotion_PlagueDoctor_Bless_Stack">
+      <Name>Vaftiz</Name>
+      <Desc>Bu Resepsiyon'da {0} kez 'Vaftiz' kullanildi. (En fazla 12 kez sayilir)</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Emotion_BlueStar_MartyrBuf">
+      <Name>sehit</Name>
+      <Desc>Bu Sahne basarili bir vurusta ek 4-6 Sersemletme Hasari verir ama 1-3 Hasar alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Emotion_BlueStar_SoundBuf_Cool">
+      <Name>Nostaljik Bir Ses</Name>
+      <Desc>'Nostaljik Bir Ses' Anormallik Sayfasinin etkisi ('Bir Yildizin Sesini Duyabiliyorum!' durum etkisiyle belirtilir) {0} Sahne içinde etkinlesecek.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Emotion_BlueStar_SoundBuf">
+      <Name>Bir Yildizin Sesini Duyabiliyorum!</Name>
+      <Desc>Bu Sahne saldirilarla +2-4 Sersemletme Hasari verir.</Desc>
+    </BattleEffectText>
+
+
+    <BattleEffectText ID="onlypage_hana_Keyword">
+      <Name>Mirinae, Harold ve Olivier'e Özel Sayfa</Name>
+      <Desc>Yalnizca Mirinae, Harold ve Olivier'in Anahtar Sayfalarina sahip Destelere yerlestirilebilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="HanaPassive1">
+      <Name>Geon</Name>
+      <Desc>Bu Sahne 1 Güç kazanir ve saldirilarla ek 2 Hasar ve Sersemletme Hasari verir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="HanaPassive2">
+      <Name>Gon</Name>
+      <Desc>Bu Sahne 1 Dayaniklilik kazanir ve saldirilardan %30 daha az Hasar ve Sersemletme Hasari alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="HanaPassive3">
+      <Name>Gam</Name>
+      <Desc>1 Isik yeniler.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="HanaPassive4">
+      <Name>Ri</Name>
+      <Desc>1 Sayfa çeker.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="HanaSpecialCard1">
+      <Name>Ek Etki</Name>
+      <Desc>Geon - 'Kullanildiginda: Bu Sayfadaki tüm Zarlar +1 Güç kazanir'</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="HanaSpecialCard2">
+      <Name>Ek Etki</Name>
+      <Desc>Gon - 'Çarpisma Baslangici: 2 Koruma ve Sersemletme Korumasi kazanir'</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="HanaSpecialCard3">
+      <Name>Ek Etki</Name>
+      <Desc>Gam - 'Kullanildiginda: 1 Isik Yeniler'
+Ri - 'Kullanildiginda: 2 Sayfa Çeker'</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="BlackSilenceSpecial">
+      <Name>Furioso</Name>
+      <Desc>Kara Sessizlik tarafindan kullanilan Savas Sayfasi sayisi: {0}</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="BlackSilenceCardCount">
+      <Name>Kara Sessizlik</Name>
+      <Desc>Bu durumun miktari 2 oldugunda, sonraki Savas Sayfasindaki tüm Zarlar +2 Güç kazanir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="RolandAndOlivier">
+      <Name>Düello</Name>
+      <Desc>Ek Maksimum Can ve Maksimum Sersemletme Direnci kazanir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="DanteGraspInformation">
+      <Name>Bilgiyi Kavrama</Name>
+      <Desc>{0} bu Sahne için "Normal" olarak degisir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="DanteWeakPointDetection">
+      <Name>Zayif Nokta Açiga Çikti</Name>
+      <Desc>Bir "Zayif" direnç bu Perde için "Ölümcül" olarak degisir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Engard_Keyword">
+      <Name>Hazir Ol</Name>
+      <Desc>Kesme (6-10) Zari olan 2 Maliyetli bir Savas Sayfasi; 'Kullanildiginda Tüketilir; [Kullanildiginda] Sonraki Sahne kendisine 1 Güç verir'</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Giveuptheflesh_Keyword">
+      <Name>Kemiklerini Geri Alma</Name>
+      <Desc>Karsi Saldiri Kesme (14-23) Zari olan 5 Maliyetli bir Savas Sayfasi; 'Kullanildiginda Tüketilir; [Vurdugunda] 5 Felç ve 3 Kanama uygular; ayni anda 2 tane olamaz'</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="onlypage_kim">
+      <Name>Bambu sapka Kim'e Özel Sayfa</Name>
+      <Desc>Yalnizca Bambu sapka Kim'in Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Vibrate_Re">
+      <Name>Titresim</Name>
+      <Desc>7'ye kadar birikebilir</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="onlypage_argalia_Keyword">
+      <Name>Argalia'ya Özel Sayfa</Name>
+      <Desc>Yalnizca Argalia'nin Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_elena_Keyword">
+      <Name>Elena'ya Özel Sayfa</Name>
+      <Desc>Yalnizca Elena'nin Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_pluto_Keyword">
+      <Name>Pluto'ya Özel Sayfa</Name>
+      <Desc>Yalnizca Pluto'nun Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_philip2_Keyword">
+      <Name>Philip'e Özel Sayfa</Name>
+      <Desc>Yalnizca Philip'in Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_tanya_Keyword">
+      <Name>Tanya'ya Özel Sayfa</Name>
+      <Desc>Yalnizca Tanya'nin Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Librarian_PuppetThread">
+      <Name>Kuklaci ipleri</Name>
+      <Desc>Sahnenin baslangicinda 1 Güç veya Dayaniklilik kazanir. Can 1'in altina düsemez. Can 1'e düserse veya 'Kukla ipleri' pasif yetenegine sahip bir müttefik yoksa, bu durum Sahne sonunda kaldirilir.</Desc>
+    </BattleEffectText>
+
+
+    <BattleEffectText ID="HeavySmoke">
+      <Name>Bogucu Sis</Name>
+      <Desc>3'e kadar birikebilir. Karakter sonraki Sahnenin baslangicinda her Bogucu Sis Birikimi için rastgele bir durum sorunu (Kanama, Felç, Zayif, Silahsizlanma, Baglama veya Kirilgan) alir, tüm Bogucu Sis birikimini kaybeder.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="HeavySmoke_buf">
+      <Name>Bogucu Sis</Name>
+      <Desc>3'e kadar birikebilir. Karakter sonraki Sahnenin baslangicinda her Bogucu Sis Birikimi için rastgele bir durum sorunu (Kanama, Felç, Zayif, Silahsizlanma, Baglama veya Kirilgan) alir, tüm Bogucu Sis birikimini kaybeder.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="HeavySmoke_Keyword">
+      <Name>Bogucu Sis</Name>
+      <Desc>3'e kadar birikebilir. Karakter sonraki Sahnenin baslangicinda bu etkinin her Birikimi için rastgele bir durum sorunu (Kanama, Felç, Zayif, Silahsizlanma, Baglama veya Kirilgan) alir. Tüm Birikimleri kaybeder.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="SpiritLink">
+      <Name>Ruh Bagi</Name>
+      <Desc>Sersemletme Direnci 1'in altina düsmez.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="BlackEnergy">
+      <Name>Karanlik Mevcudiyet</Name>
+      <Desc>1 Sahne sürer. Angelica ile savasirken Zar Gücü +1.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="WhiteEnergy">
+      <Name>Beyaz Mevcudiyet</Name>
+      <Desc>1 Sahne sürer. Roland ile savasirken Zar Gücü +1.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="BlackMark">
+      <Name>Karanlik isaret</Name>
+      <Desc>Roland tarafindan hedeflenir. Roland'in Saldiri Zarlari bu karaktere karsi +3 Güç kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="BlackFrantic">
+      <Name>Çilgin</Name>
+      <Desc>Sahnenin baslangicinda mevcut Sersemletme Direncinin %50'sini kaybeder (Yalnizca bir kez). Her Sahne 2 Güç ve Hiz kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="WhiteLoss">
+      <Name>Teselli Bulunmaz</Name>
+      <Desc>Her Sahne 3 Baglama, Felç ve Kirilgan uygular.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Roland_4th_Lie">
+      <Name>Yalanlar</Name>
+      <Desc>Orijinal Maliyeti 3 veya daha az olan tüm Savas Sayfalarinin Maliyetini rastgele degistirir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Roland_4th_Weapon">
+      <Name>Silah Kirilmasi</Name>
+      <Desc>Roland'in Yara etkilerini yok sayar. Saldiri Zarlari Roland'a karsi +1 Güç kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Roland_4th_DmgReduction_Hit">
+      <Name>Yaralar - Ezikler</Name>
+      <Desc>Vurma saldirilarindan 2-5 daha az Hasar alir. Bir Vurma saldirisiyla vuruldugunda, %25 olasilikla Hasari 0'a düsürür.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Roland_4th_DmgReduction_Penetrate">
+      <Name>Yaralar - Delikler</Name>
+      <Desc>Delme saldirilarindan 2-5 daha az Hasar alir. Bir Delme saldirisiyla vuruldugunda, %25 olasilikla Hasari 0'a düsürür.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Roland_4th_DmgReduction_Slash">
+      <Name>Yaralar - Kesikler</Name>
+      <Desc>Kesme saldirilarindan 2-5 daha az Hasar alir. Bir Kesme saldirisiyla vuruldugunda, %25 olasilikla Hasari 0'a düsürür.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Roland_4th_Blood">
+      <Name>Kan</Name>
+      <Desc>Savunma Zarlari bu Sahne 1-2 Güç kazanir. Bir Savunma Zari Çarpisma kaybederse, 3-6 Sersemletme Hasari alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Roland_4th_Gaze">
+      <Name>Okuma</Name>
+      <Desc>Bu Sahne 1 Güç kazanir. Bir Saldiri Zari Hasar veremezse, 3-6 Sersemletme Hasari alir. Bu etki tetiklendiginde kazanilan Güç 1 artar.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Roland_4th_Curiosity">
+      <Name>Merak</Name>
+      <Desc>Bu Sahne boyunca, vurdugunda hedefin elindeki rastgele iki Sayfayi Destesine geri karistirir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Roland_4th_Kiss">
+      <Name>Öpücük</Name>
+      <Desc>Baglama durumuna sahip Kütüphanecileri hedeflemeyi önceliklendirir. Bu Sahne boyunca, Çarpisma kazandiginda rakibe Buz Kiymigi uygular. Sahnenin sonunda, 3 veya daha fazla Buz Kiymigi'na sahip karakterler sonraki Sahne için Hareketsiz olur.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Roland_4th_NonTargetable">
+      <Name>Harekete Hazir</Name>
+      <Desc>{0} Sahne boyunca hareket etmez, hedef alinamaz ve Durum Etkilerinden Hasar almaz. Bu karakter {0} Sahne sonra harekete geçtiginde, tüm durum etkileri kaldirilir.</Desc>
+    </BattleEffectText>
+
+
+    <BattleEffectText ID="Arrest">
+      <Name>Kisitlama</Name>
+      <Desc>Bu durum Sahne sonunda kaybolmaz. Philip bu durumun 3 veya daha fazla Birikimine sahip bir karakteri vurursa, o karakter sonraki Sahne için Hareketsiz olur.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Arrest_buf">
+      <Name>Kisitlama</Name>
+      <Desc>Bu durum Sahne sonunda kaybolmaz.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Arrest_Keyword">
+      <Name>Kisitlama</Name>
+      <Desc>Bu durum Sahne sonunda kaybolmaz.</Desc>
+    </BattleEffectText>
+
+
+    <BattleEffectText ID="Tanya_Killed">
+      <Name>siddetli Firtina</Name>
+      <Desc>Perde boyunca saldirilarla +3 Hasar verir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Jaeheon_Killed">
+      <Name>Serbest Kalmis Et</Name>
+      <Desc>Perde boyunca Sahnenin baslangicinda 1-3 Hiz kazanir ve tüm Zarlar +1 Güç kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Jaeheon_String">
+      <Name>Kukla ipleri</Name>
+      <Desc>En düsük Hiza sahip {0} Hiz Zari kontrol edilemez hale gelir ve saldirirken müttefikleri hedefler. (3'e kadar birikebilir) Jae-heon ölürse kalkar.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Oswald_String">
+      <Name>Kirmizi iplikler</Name>
+      <Desc>{0} Sahne içinde, iki veya daha fazla karakter bu duruma sahipse, ölürler ve Bay Tavsan ortaya çikar. Bir Kütüphaneci bu duruma sahipse, Sahnenin baslangicinda 10 Hiz kazanir. Oswald veya Jae-heon ölürse kalkar.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Oswald_Vulnerable">
+      <Name>Kirilgan</Name>
+      <Desc>Tüm Dirençler bu Sahne için "Ölümcül" olarak degisir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="RolandWeak">
+      <Name>Yorgun</Name>
+      <Desc>Roland'in Savas Sayfalari zayifladi.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="DeadInBattle">
+      <Name>Savas Disi</Name>
+      <Desc>Bu Perde savaslara katilamaz</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="ClawCounter">
+      <Name>iptal Edildi</Name>
+      <Desc>Zari 30 veya daha yüksek olan bir saldiriyi bir kez engelleyebilir</Desc>
+    </BattleEffectText>
+
+
+    <BattleEffectText ID="KeterFinal_Eager">
+      <Name>Özlem</Name>
+      <Desc>Bu karakter Saldiriyken, bu durumun miktarina esit Güç kazanir. Özlem miktari, bu karakter Sersemletildiginde veya Arzu Saldiriyken oldugu Sahne bittiginde sifirlanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="KeterFinal_FerventBeats">
+      <Name>Hararetli Kalp Atislari</Name>
+      <Desc>Karakter {0} Sahne içinde ölür. Her Sahnenin baslangicinda 4 Güç, Dayaniklilik, Hiz ve Koruma kazanir.
+Sersemletme Hasari Direnci "Etkisiz" olarak degisir.
+Arzu Saldiriyken degilse, bu karakter özel Savas Sayfalari kullanir.
+Bu etki etkinlestiginde, 'Özlem' etkisi kaldirilir.
+Bu etki Arzu'nun Saldirisi bittiginde kaldirilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="KeterFinal_Lung1">
+      <Name>Özlem - inanç</Name>
+      <Desc>Sahnenin baslangicinda Arzu'nun sahip oldugu Özlem miktarinin yarisi kadar Güç ve Dayaniklilik kazanir (Yukari Yuvarlanir).</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="KeterFinal_Lung2">
+      <Name>Özlem - Aci</Name>
+      <Desc>Bir müttefik yenildiginde Arzu'ya 4 Özlem verir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="KeterFinal_Lung3">
+      <Name>Özlem - Çaba</Name>
+      <Desc>Vuruldugunda Arzu'ya 1 Özlem verir. Sahnenin sonunda karakter Hasar veremezse, Arzu 2 Özlem kaybeder.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="KeterFinal_Lung4">
+      <Name>Özlem - Bekleyis</Name>
+      <Desc>Sahnenin sonunda Arzu'ya 3 Özlem verir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="KeterFinal_FailLying">
+      <Name>Neden Kötü?</Name>
+      <Desc>Yalan yakalandi. 4 Zayif ve Silahsizlanma uygular ve Sersemletme Hasari Direnci "Ölümcül" olarak degisir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="KeterFinal_SuccessLying">
+      <Name>Lalala~</Name>
+      <Desc>Yalan yakalanmadi. 4 Güç ve Dayaniklilik kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="KeterFinal_ChangeCostAll">
+      <Name>Bir Yalan sarkisi</Name>
+      <Desc>Sahnenin baslangicinda, tüm karakterlerin ellerindeki orijinal Maliyeti 3 veya daha az olan tüm Savas Sayfalarinin Maliyeti rastgele olur.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="KeterFinal_ChangeLibrarianHands">
+      <Name>Bir Merak sarkisi</Name>
+      <Desc>Sahnenin baslangicinda, tüm Kütüphaneciler tüm Savas Sayfalarini atar ve ardindan 3 Sayfa çeker.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="KeterFinal_DoubleEmotion">
+      <Name>Isik Tohumu</Name>
+      <Desc>Bu Perde Duygu iki kat daha hizli artar.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="KeterFinal_SilenceGirl_Nail">
+      <Name>Çiviler</Name>
+      <Desc>Çekiçten ek {0} Hasar alir. Sahne sonunda 1 Çivi kaybeder.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="KeterFinal_SilenceGirl_Gaze_Attack">
+      <Name>Endise</Name>
+      <Desc>Bu Sahne boyunca, bu karakterin dahil oldugu çarpismalardaki hiçbir Zar Güç Artisi veya Azaltilmasindan etkilenmez. Saldirilarla +1~2 Hasar verir. Bu Sahne Saldiri Zarlariyla herhangi bir Hasar veremezse, 15 Sersemletme Hasari alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="KeterFinal_SilenceGirl_Gaze_Defense">
+      <Name>Korku</Name>
+      <Desc>Bu Sahne boyunca, bu karakterin dahil oldugu çarpismalardaki hiçbir Zar Güç Artisi veya Azaltilmasindan etkilenmez. Yansitma ile +1~2 Sersemletme Hasari verir. Bu Sahne Engelleme Zarlariyla herhangi bir Yansitilmis Hasar veremezse, 15 Sersemletme Hasari alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="KeterFinal_SilenceGirl_Gaze_Attacked">
+      <Name>Kendini Suçlama</Name>
+      <Desc>Bu Sahne boyunca, bu karakterin dahil oldugu çarpismalardaki hiçbir Zar Güç Artisi veya Azaltilmasindan etkilenmez. Saldirilardan 1~2 daha az Sersemletme Hasari alir. Bu Sahne herhangi bir Hasar almazsa, 15 Sersemletme Hasari alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="KeterFinal_SilenceGirl_Light">
+      <Name>Sönük Isik</Name>
+      <Desc>Bu Asama sonuna kadar 9 benzersiz E.G.O Sayfasi kullanamazsan...</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="KeterFinal_SilenceGirl_Hand_Target">
+      <Name>Sabit Hedef</Name>
+      <Desc>Bu karakterin saldirilari Yönlendirilemez.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="KeterFinal_Light">
+      <Name>Ilik Isik</Name>
+      <Desc>ileriye dogru bir adim atma Gücünü hissediyorsun.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="KeterFinal_Cogito">
+      <Name>Son Isik Parçasi</Name>
+      <Desc>Yeni bir E.G.O Sayfasi kullanilabilir!</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="KeterFinal_Angela_Ego">
+      <Name>Isik Parçalari</Name>
+      <Desc>Kullanilan benzersiz E.G.O Sayfasi sayisi: {0}</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="CardBuf_KeterFinal_SilenceGirl_CostDown">
+      <Name>Maliyet Azaltildi</Name>
+      <Desc>Maliyet -{0}, Bu Sayfadaki Zar Gücü -{0}. Atildiginda veya Kullanildiginda sifirlanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="CardBuf_KeterFinal_SilenceGirl_CostUp">
+      <Name>Maliyet Artirildi</Name>
+      <Desc>Maliyet +{0}, Bu Sayfadaki Zar Gücü +{0}. Atildiginda veya Kullanildiginda sifirlanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="KeterFinal_SilenceGirl_BlackHand_Attacked">
+      <Name>Kanaat</Name>
+      <Desc>Zar Gücü +10</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="KeterFinal_SilenceGirl_Sin_Ready">
+      <Name>Yaklasan Huzur</Name>
+      <Desc>{0} Sahne içinde, Suçluluk'a sahip karakterlere karsi Güçlü bir Savas Sayfasi kullanir. Karakter Sersemletilirse saldiri bir Sahne gecikir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="QuietKid_Hammer_Buf">
+      <Name>Çiviler</Name> <Desc>Bir Vurma saldirisiyla vuruldugunda, karakter bu durumun her Birikimi için 5 Hasar alir, ardindan kaldirilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="HeartofAspiration_Heart">
+      <Name>Arzu</Name>
+      <Desc>Maksimum Cani %15 artirir. (Mevcut Can buna göre artar) 1-2 Hiz kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Teddy_Head">
+      <Name>Nostaljik Anilar</Name>
+      <Desc>Çarpisma kazandiginda %20 olasilikla Zar sonucuna esit ek Sersemletme Hasari verir. Ayni karakterle birden çok kez Çarpismaya girmek olasiligi artirir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="oneinch_penetrate">
+      <Name>Hassas Yirtilma</Name>
+      <Desc>Vurma (5-10), Delme(15-24) Zarlari olan 2 Maliyetli bir Savas Sayfasi; '[Kullanildiginda] Bu Sayfayi Tüketir; ayni anda 2 tane olamaz'</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="ExhaustOnUse_Keyword">
+      <Name>Tek Kullanimlik</Name>
+      <Desc>Sayfa kullanildiginda Tüketilir. Tüketilen Sayfalar Perde sonuna kadar oyundan kaldirilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Exhaust_Keyword">
+      <Name>Tüketilmis</Name>
+      <Desc>Sayfa Perde sonuna kadar oyundan kaldirilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Instant_Keyword">
+      <Name>Oynandiginda</Name>
+      <Desc>Sayfanin etkisi bir Hiz Zarina yerlestirildikten hemen sonra gerçeklesir.</Desc>
+    </BattleEffectText>
+
+
+    <BattleEffectText ID="Freischutz_Request">
+      <Name>Gerekli Hedef</Name>
+      <Desc>'Talep' Anormallik Sayfasina sahip karakterden +3-5 Hasar alir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="CardBuf_NihilClown_Card">
+      <Name>Anlamsiz Mücadele</Name>
+      <Desc>Bu Sembole sahip Sayfayi kullanarak bir Çarpisma kaybettiginde 1 'Faydasizliga Dogru Adim' kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Buf_NihilClown_Card">
+      <Name>Faydasizliga Dogru Adimlar</Name>
+      <Desc>4'e ulastiginda, sonraki Sahne 'ise Yaramaz' kazanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="NihilClown_Card">
+      <Name>ise Yaramaz</Name>
+      <Desc>Her Sahne 5 Koruma kazanir. Durum etkilerine karsi bagisik.
+Vurdugunda, saldirgan sonraki Sahne 1 Çürüme ve Kirilgan alir. (Sahne basina iki kez)</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Nosferatu_BloodHope">
+      <Name>Kan</Name>
+      <Desc>Her Sahne sonunda 3 Kan kaybedilir.
+0 Kan'da: Sahnenin baslangicinda 4-8 Sersemletme Direnci kaybeder.
+1+ Kan'da: Saldiri Zari attiginda 2-7 Can kaybeder ve Hasari 3-7 artirir.
+15+ Kan'da: 2 Güç kazanir. Kan miktari sonraki Sahnenin baslangicinda sifirlanir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="ApocalypseBird_BigEyeEffect">
+      <Name>Büyük Kus Tarafindan Büyülenmis</Name>
+      <Desc>&lt;'Büyük Gözler'&gt; Anormallik Sayfasina sahip karakteri hedefler. Saldirilarla +2-4 Hasar verir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="Matan_Flame">
+      <Name>Kara Alev</Name>
+      <Desc>Anahtar Sayfanin "Dirençli/Etkisiz" dirençleri "Zayif/Ölümcül" olarak degisir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="onlypage_bayyard">
+      <Name>Bayard'a Özel Sayfa</Name>
+      <Desc>Yalnizca Bayard'in Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="onlypage_cor">
+      <Name>Yae'ye Özel Sayfa</Name>
+      <Desc>Yalnizca Yae'nin Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="onlypage_awl">
+      <Name>Allen'a Özel Sayfa</Name>
+      <Desc>Yalnizca Allen'in Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="onlypage_usett">
+      <Name>Udjat'a Özel Sayfa</Name>
+      <Desc>Yalnizca Udjat'in Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_mirae">
+      <Name>Irina'ya Özel Sayfa</Name>
+      <Desc>Yalnizca Irina'nin Anahtar Sayfasina sahip bir Desteye yerlestirilebilir.</Desc>
+    </BattleEffectText>
+
+
+  </effectTextList>
+</BattleEffectTextRoot>
