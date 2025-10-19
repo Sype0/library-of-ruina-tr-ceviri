@@ -1,0 +1,2298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="1100000">
+      <LocalizedName></LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="1110000">
+      <LocalizedName></LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="1">
+      <LocalizedName>Kaçinma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="2">
+      <LocalizedName>Hafif Saldiri</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="3">
+      <LocalizedName>Hafif Savunma</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="4">
+      <LocalizedName>Saldir ve Kapat</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="5">
+      <LocalizedName>Odakli Saldirilar</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="11">
+      <LocalizedName>Bagirsaklari Topla</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="12">
+      <LocalizedName>Hayatta Kalmak için Siçan Rehberi</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="13">
+      <LocalizedName>Kirli Vurus</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="14">
+      <LocalizedName>Isirik</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="15">
+      <LocalizedName>Sokagi Geçme</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="16">
+      <LocalizedName>Kayarak Uzaklasma</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="100001">
+      <LocalizedName>Saldir ve Siyril</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="100002">
+      <LocalizedName>itme</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="100003">
+      <LocalizedName>Vurma</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="100004">
+      <LocalizedName>Önleyici Saldiri</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="100005">
+      <LocalizedName>Hiz</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="101001">
+      <LocalizedName>Bagirsaklari Topla</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="101002">
+      <LocalizedName>Hayatta Kalmak için Siçan Rehberi</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="101003">
+      <LocalizedName>Kirli Vurus</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="101004">
+      <LocalizedName>Isirik</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="101005">
+      <LocalizedName>Sokagi Geçme</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="101006">
+      <LocalizedName>Kayarak Uzaklasma</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="102001">
+      <LocalizedName>Komuta Et</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="102002">
+      <LocalizedName>Çok Yavassin</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="102003">
+      <LocalizedName>Çaresiz</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="102004">
+      <LocalizedName>Kisa Bir Ara Vakti</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="102005">
+      <LocalizedName>iyi Hissediyorum</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="102006">
+      <LocalizedName>Hazirlik</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="103001">
+      <LocalizedName>V-Vurus!</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="103002">
+      <LocalizedName>B-Bir Kere Yasanir!</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="103003">
+      <LocalizedName>D-Dolduruldu!</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="103004">
+      <LocalizedName>D-Direnis</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="103005">
+      <LocalizedName>G-Güçlendirildi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="103006">
+      <LocalizedName>K-Kes!</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="104001">
+      <LocalizedName>Hâkimiyet</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="104002">
+      <LocalizedName>Önce Ben</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="104003">
+      <LocalizedName>Yapabilirsen Savun</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="104004">
+      <LocalizedName>Hücum</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="104005">
+      <LocalizedName>ipucu</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="104006">
+      <LocalizedName>Sakatlama</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="200001">
+      <LocalizedName>Ezme</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="200002">
+      <LocalizedName>Çoklu Engelleme</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="200003">
+      <LocalizedName>Çoklu Saldiri</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="200004">
+      <LocalizedName>Hizli Saldiri</LocalizedName>
+      <Ability>[Kullanildiginda] 2 Hiz Kazanir</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="200005">
+      <LocalizedName>Güçlü Saldiri</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="201001">
+      <LocalizedName>Taze Tut</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="201002">
+      <LocalizedName>Malzemeleri Kirp</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="201003">
+      <LocalizedName>Her seyi Pisirebilirim</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="201004">
+      <LocalizedName>Pisirme Hazirligi</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="201005">
+      <LocalizedName>Malzeme Avi</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="201006">
+      <LocalizedName>Zalimlik</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="201007">
+      <LocalizedName>istah</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="202001">
+      <LocalizedName>Yönünü Degistirme</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="202002">
+      <LocalizedName>Hazir Zihin</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="202003">
+      <LocalizedName>Ates Yakma</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="202004">
+      <LocalizedName>Alevli Sopami Dene!</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="202005">
+      <LocalizedName>Bilgi Toplama</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="202006">
+      <LocalizedName>Sessiz Gece</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="202007">
+      <LocalizedName>Durmaksizin Hücum</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="202008">
+      <LocalizedName>Hizli Adimlar</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="202009">
+      <LocalizedName>Bilgi Toplama</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="202010">
+      <LocalizedName>Ates Çikarma</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="202011">
+      <LocalizedName>Alevli Sopami Ye!</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="202012">
+      <LocalizedName>Hazir Zihin</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="300001">
+      <LocalizedName>Geri Kalan</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="300002">
+      <LocalizedName>Keskin Kayma</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="300003">
+      <LocalizedName>Arkadan Saldiri</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="300004">
+      <LocalizedName>Çikmaz</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="300005">
+      <LocalizedName>Hizlanma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="301001">
+      <LocalizedName>isi Halletme</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="301002">
+      <LocalizedName>Sessiz Gece</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="301003">
+      <LocalizedName>Çit</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="301004">
+      <LocalizedName>Kalkanin</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="301005">
+      <LocalizedName>Savas Hazirligi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="301006">
+      <LocalizedName>Girdap Kilici</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="301007">
+      <LocalizedName>Koruyucu</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="301008">
+      <LocalizedName>Bastirma</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="301009">
+      <LocalizedName>Kaçinma</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="301010">
+      <LocalizedName>Misilleme</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="301011">
+      <LocalizedName>Kanun ve Düzen</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="302001">
+      <LocalizedName>Vahsi Saldiri</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="302002">
+      <LocalizedName>Bekle!</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="302003">
+      <LocalizedName>Bahis</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="302004">
+      <LocalizedName>Cesur Karar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="302005">
+      <LocalizedName>Sakin Kal</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="302006">
+      <LocalizedName>Hizli Adimlar Sanati</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="302007">
+      <LocalizedName>Dilimleme</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="303001">
+      <LocalizedName>Buna Dayan!</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="303002">
+      <LocalizedName>Kavga</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="303003">
+      <LocalizedName>Seni Bitirecegim</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="303004">
+      <LocalizedName>Yavas Baslangiç</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="303005">
+      <LocalizedName>sok Edici Vurus</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="303006">
+      <LocalizedName>Yikici Etki</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="303007">
+      <LocalizedName>Araya Girme</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="303008">
+      <LocalizedName>Ezilme</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="303009">
+      <LocalizedName>Isinma</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="1100001">
+      <LocalizedName>Ögrenme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="401001">
+      <LocalizedName>Terzilik</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="401002">
+      <LocalizedName>sölen</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="401003">
+      <LocalizedName>iyi Bir ipek Olacaksin</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="401004">
+      <LocalizedName>Lezzetli Olacak misin?</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="401005">
+      <LocalizedName>Ögretinin Emirleri Gibi</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="401006">
+      <LocalizedName>Tuhaf Saldiri</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="401007">
+      <LocalizedName>Büyüleyici Kumas</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="402001">
+      <LocalizedName>Hedefi Vurma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="402002">
+      <LocalizedName>Karsilik Verme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="402003">
+      <LocalizedName>Ayirt Etmeksizin Atislar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="402004">
+      <LocalizedName>Yakin Dövüsten Nefret Ediyorum</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="402005">
+      <LocalizedName>Bir Adim Daha Yok</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="402006">
+      <LocalizedName>Vurulusu Kabul Et</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="402007">
+      <LocalizedName>Kafadan Vurus</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="402008">
+      <LocalizedName>Hedef Tespit Edildi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="402009">
+      <LocalizedName>Hayati Durdurma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="402010">
+      <LocalizedName>Gölgenin Ötesi</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="403001">
+      <LocalizedName>safak Yarigi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="403002">
+      <LocalizedName>Günes Parlamasi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="403003">
+      <LocalizedName>Kelebek Kesimi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="403004">
+      <LocalizedName>Kovma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="403005">
+      <LocalizedName>Alacakaranlik Kilici</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="403006">
+      <LocalizedName>istegi Yönetme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="403007">
+      <LocalizedName>Damgalama</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="404001">
+      <LocalizedName>Gözlemle</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="404002">
+      <LocalizedName>Bulunan Firsat</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="404003">
+      <LocalizedName>Kisitlama Kollari</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="404004">
+      <LocalizedName>Sen Bir Engelsin</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="404005">
+      <LocalizedName>Zzzzzap</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="404006">
+      <LocalizedName>Elektrik Desarji</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="404007">
+      <LocalizedName>Yapisal Analiz</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="404008">
+      <LocalizedName>Kaçinilmaz Bakis</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="405001">
+      <LocalizedName>Bulanik Anilar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="405002">
+      <LocalizedName>Öfke Firtinasi</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="405003">
+      <LocalizedName>Keskin Saldiri'</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="405004">
+      <LocalizedName>Agir Saldiri'</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="405005">
+      <LocalizedName>Sivri Et'</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="405006">
+      <LocalizedName>Keskin Hücum</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="405007">
+      <LocalizedName>siskin Hücum</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="405008">
+      <LocalizedName>Keskin Hücum</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="405009">
+      <LocalizedName>Kareler iyi Görünüyor mu?</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="405010">
+      <LocalizedName>Üçgenler Daha iyi Geliyor!</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="405011">
+      <LocalizedName>Hadi Oynayalim!</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="405012">
+      <LocalizedName>Ask sehri Herkesi Agirliyor</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="405013">
+      <LocalizedName>Kargasa</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="405014">
+      <LocalizedName>Ask Kirbaci</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="405015">
+      <LocalizedName>Bulanik Anilar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="405016">
+      <LocalizedName>Öfke Firtinasi</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="406001">
+      <LocalizedName>Mürekkepleme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="406002">
+      <LocalizedName>Keskin Biçak</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="406003">
+      <LocalizedName>Duvar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="406004">
+      <LocalizedName>Temiz Kesim</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="406005">
+      <LocalizedName>Umutsuzluk Kesimi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="406006">
+      <LocalizedName>Sessiz Sis</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="406007">
+      <LocalizedName>Gecekondu Kurallari</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="406008">
+      <LocalizedName>Temizleme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="406009">
+      <LocalizedName>Kara Bulut</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="407001">
+      <LocalizedName>Agir Ses</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="407002">
+      <LocalizedName>Unutulmaz Melodi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="407003">
+      <LocalizedName>Prova</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="407004">
+      <LocalizedName>Müzik Siginagi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="407005">
+      <LocalizedName>iyimser Performans</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="407006">
+      <LocalizedName>Tendonsal Ses</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="407007">
+      <LocalizedName>Kirmizi Notalar</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="408001">
+      <LocalizedName>Delip Geçme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="408002">
+      <LocalizedName>Isik Mizragi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="408003">
+      <LocalizedName>Çarpisma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="408004">
+      <LocalizedName>Mizrak Taramasi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="408005">
+      <LocalizedName>Yüksek Hizli Biçaklama</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="408006">
+      <LocalizedName>Agit</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="408007">
+      <LocalizedName>Yanan Vurus</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="408008">
+      <LocalizedName>Kavurucu Kiliç</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="408009">
+      <LocalizedName>Vahsi Hücum</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="408010">
+      <LocalizedName>Tüy Kalkan</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="408011">
+      <LocalizedName>Hüzünlü Alacakaranlik</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="408012">
+      <LocalizedName>Kavurucu Kiliç</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="408013">
+      <LocalizedName>Tüy Kalkan</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="409001">
+      <LocalizedName>Bu Zinciri Tatmak ister misin?</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="409002">
+      <LocalizedName>Yumusaksin</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="409003">
+      <LocalizedName>Önden Kaçis</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="409004">
+      <LocalizedName>Yandan Saldiri</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="409005">
+      <LocalizedName>iste Benim Firsatim</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="409006">
+      <LocalizedName>Yüz Yüze</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="409007">
+      <LocalizedName>simdi Öl</LocalizedName>
+    </BattleCardDesc>
+
+
+    <BattleCardDesc ID="410001">
+      <LocalizedName>Silahi Onarma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="410002">
+      <LocalizedName>Biçakla ve Patlat</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="410003">
+      <LocalizedName>Bileme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="410004">
+      <LocalizedName>iyilestirme</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="501001">
+      <LocalizedName>Ölüm Siniri</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="501002">
+      <LocalizedName>Uç Nokta</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="501003">
+      <LocalizedName>Hizli Saldiri</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="501004">
+      <LocalizedName>Uçan Kiliç</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="501005">
+      <LocalizedName>Sonsuz Savas</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="501006">
+      <LocalizedName>Umutsuz Mücadele</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="501007">
+      <LocalizedName>Krizi Asmak için</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="502001">
+      <LocalizedName>Otomatik Hareket</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="502002">
+      <LocalizedName>Manken</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="502003">
+      <LocalizedName>Bastirilmis Et</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="502004">
+      <LocalizedName>Enerjik Jest</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="502005">
+      <LocalizedName>Gigigig</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="502006">
+      <LocalizedName>Gicirdama</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="502007">
+      <LocalizedName>Kukla Bariyeri</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="503001">
+      <LocalizedName>Keskin Tirnaklar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="503002">
+      <LocalizedName>Biçak Sirki</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="503003">
+      <LocalizedName>Hokkabazlik</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="503004">
+      <LocalizedName>Joker</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="503005">
+      <LocalizedName>Aslan Pençeleri</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="503006">
+      <LocalizedName>Tek Tekerlekli Bisiklet Gösterisi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="503007">
+      <LocalizedName>Agir Yük</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="503008">
+      <LocalizedName>sov Baslasin</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="503009">
+      <LocalizedName>Hokkabazlik</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="503010">
+      <LocalizedName>Joker</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="1100003">
+      <LocalizedName>Kibrit</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="504001">
+      <LocalizedName>333… 1973</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="504002">
+      <LocalizedName>Çöp Atma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="504003">
+      <LocalizedName>Gecekondu Temizligi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="504004">
+      <LocalizedName>Aile için</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="504005">
+      <LocalizedName>Yakit Çikarma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="504006">
+      <LocalizedName>Gecekonduda Gece</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="505001">
+      <LocalizedName>Ögretinin isaret Ettigi Yer</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="505002">
+      <LocalizedName>Ögretiyi Yerine Getirme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="505003">
+      <LocalizedName>infaz Etme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="505004">
+      <LocalizedName>Ögretinin iradesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="505005">
+      <LocalizedName>inanç</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="505006">
+      <LocalizedName>Köseye Sikismis Kisi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="505007">
+      <LocalizedName>Müridin Kilici</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="511001">
+      <LocalizedName>Angajman</LocalizedName> </BattleCardDesc>
+    <BattleCardDesc ID="511002">
+      <LocalizedName>Karsilik</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="511003">
+      <LocalizedName>Ok</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="511004">
+      <LocalizedName>Yel Degirmeni</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="511005">
+      <LocalizedName>Hazir Ol</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="512001">
+      <LocalizedName>Kilici Çekme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="512002">
+      <LocalizedName>Akupunktur</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="512003">
+      <LocalizedName>Et Kesimi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="512004">
+      <LocalizedName>Devirme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="512005">
+      <LocalizedName>Suikast</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="512006">
+      <LocalizedName>Kemiklerini Geri Alma</LocalizedName> </BattleCardDesc>
+    <BattleCardDesc ID="513002">
+      <LocalizedName>Parçalama</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="513003">
+      <LocalizedName>Derin Biçaklama</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="513004">
+      <LocalizedName>Kritik Bir An</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="513005">
+      <LocalizedName>Bagirsaklari Dökme</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="910001">
+      <LocalizedName>Kibritin Dördüncü Alevi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910002">
+      <LocalizedName>Unutulmus Olan</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910003">
+      <LocalizedName>Kanat Çirpislari</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910004">
+      <LocalizedName>Esekarisi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910005">
+      <LocalizedName>Yesil Filiz</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="506001">
+      <LocalizedName>Uzayi Yirtma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="506002">
+      <LocalizedName>Boyutsal Çatlak</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="506003">
+      <LocalizedName>Dalga</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="506004">
+      <LocalizedName>Asiri Yükleme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="506005">
+      <LocalizedName>Geri Sarma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="506006">
+      <LocalizedName>Atlayis</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="506007">
+      <LocalizedName>Enerji Döngüsü</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="507001">
+      <LocalizedName>Derin Nefes</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="507002">
+      <LocalizedName>Et Biftegi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="507003">
+      <LocalizedName>Dumani içine Çekme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="507004">
+      <LocalizedName>Duman izi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="507005">
+      <LocalizedName>Gizli Kiliç</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="507006">
+      <LocalizedName>Pipo</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="507007">
+      <LocalizedName>Duyulari Kaybetme</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="1100002">
+      <LocalizedName>Ögrenme</LocalizedName>
+      <Ability>[Çarpisma Baslangici] Tüm Zarlari Rakibin Sayfa Zarlariyla Degistirir</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="1100004">
+      <LocalizedName>Kibrit</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="1100005">
+      <LocalizedName>Talep</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="910011">
+      <LocalizedName>Pismanlik</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910012">
+      <LocalizedName>Ögütücü Mk. 5-2</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910013">
+      <LocalizedName>Uyum</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910014">
+      <LocalizedName>Ciddi Agit</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910015">
+      <LocalizedName>Sihirli Mermi</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="508010">
+      <LocalizedName>Yanan Vurus</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="508011">
+      <LocalizedName>Vahsi Hücum</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="508001">
+      <LocalizedName>Teselli Bulunmaz Aci</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="508002">
+      <LocalizedName>Hüzün Yarasi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="508003">
+      <LocalizedName>Çarpik ilizyon</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="508004">
+      <LocalizedName>Geçmis ilizyon</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="508005">
+      <LocalizedName>Kisitlama</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="508006">
+      <LocalizedName>Mirilti</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="508007">
+      <LocalizedName>Kanat Vurusu</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="508008">
+      <LocalizedName>Kurban Etme</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="601001">
+      <LocalizedName>Duygu Türbülansi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="601002">
+      <LocalizedName>içsel Ates</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="601003">
+      <LocalizedName>Kiliç Akisi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="601004">
+      <LocalizedName>Saglam Savunma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="601005">
+      <LocalizedName>Hizli Kiliç</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="601006">
+      <LocalizedName>Asagi Kosturmaca</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="601007">
+      <LocalizedName>Önden Hücum</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="601008">
+      <LocalizedName>Yükselen Firtina</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="601009">
+      <LocalizedName>Tiěshānkào</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="601010">
+      <LocalizedName>Kasirga Tekmesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="601011">
+      <LocalizedName>Yüksek Tekme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="601012">
+      <LocalizedName>Demir Duvar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="601013">
+      <LocalizedName>Topyekün Savas</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="601014">
+      <LocalizedName>Öfkeli Firtina: Hasar</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="910016">
+      <LocalizedName>Günün ifadesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910017">
+      <LocalizedName>Kana Susamislik</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910018">
+      <LocalizedName>Kirmizi Gözler</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910019">
+      <LocalizedName>Laetitia</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910020">
+      <LocalizedName>Kara Kugu</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="910117">
+      <LocalizedName>Küçük Hediye</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="602001">
+      <LocalizedName>Yeniden Doldurma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="602002">
+      <LocalizedName>Süngü Muharebesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="602003">
+      <LocalizedName>Bastirici Atis</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="602004">
+      <LocalizedName>Mermi Darbesi</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="602005">
+      <LocalizedName>Sürpriz Atesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="602006">
+      <LocalizedName>Odakli Atis</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="602007">
+      <LocalizedName>Vahsi Muhafiz</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="602008">
+      <LocalizedName>Çelik Parmak Bogumlari</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="602009">
+      <LocalizedName>Yargi Özeti</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="602010">
+      <LocalizedName>Disiplin</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="602011">
+      <LocalizedName>Le Regole</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="602012">
+      <LocalizedName>Sinif ve Saygi</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="602020">
+      <LocalizedName>Zirh Delici Mühimmat</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="602021">
+      <LocalizedName>Buz Mühimmati</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="602022">
+      <LocalizedName>Alev Mühimmati</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="603001">
+      <LocalizedName>Enerji Isini</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="603002">
+      <LocalizedName>Darbeyi Emme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="603003">
+      <LocalizedName>Altin Bir Firsat!</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="603004">
+      <LocalizedName>Yikim Vurusu</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="603005">
+      <LocalizedName>Hazir!</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="603006">
+      <LocalizedName>Enerji Kalkani</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="603007">
+      <LocalizedName>Enerji Dönüsümü</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="603008">
+      <LocalizedName>Gizemli Saldiri</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="604001">
+      <LocalizedName>Buhar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="604002">
+      <LocalizedName>Savunma Emri</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="604003">
+      <LocalizedName>Otonom Kosu</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="604004">
+      <LocalizedName>Hücum Emri</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="604005">
+      <LocalizedName>Dislilerle Yönlendirme</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="604021">
+      <LocalizedName>Mavi Yol</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="604022">
+      <LocalizedName>Baslangiç</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="604023">
+      <LocalizedName>Bekleme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="604024">
+      <LocalizedName>Kesfetme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="604025">
+      <LocalizedName>Firtinali Dans</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="910021">
+      <LocalizedName>Bir Yerden Parçalar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910022">
+      <LocalizedName>Bizim Galaksimiz</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910023">
+      <LocalizedName>Haz</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910024">
+      <LocalizedName>Zayif Aroma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910025">
+      <LocalizedName>Da Capo</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="1100006">
+      <LocalizedName>Sonsuz Performans</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="605001">
+      <LocalizedName>Kökünü Kurutma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="605002">
+      <LocalizedName>Ceza</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="605003">
+      <LocalizedName>Kelle Kesme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="605004">
+      <LocalizedName>Ciddi Saldiri</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="605005">
+      <LocalizedName>Yok Etme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="605006">
+      <LocalizedName>Bag Zincirleri</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="605007">
+      <LocalizedName>Çoklu Kesikler</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="605008">
+      <LocalizedName>Kilidi Aç-Ⅰ</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="605009">
+      <LocalizedName>Kilidi Aç-Ⅱ</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="605010">
+      <LocalizedName>Kilidi Aç-Ⅲ</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="605021">
+      <LocalizedName>Agir Yörünge</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="605022">
+      <LocalizedName>Hizli Yörünge</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="1100007">
+      <LocalizedName>Beyhude Nefret</LocalizedName>
+      <Ability>[Kullanildiginda] Bu Sayfayi Tüketir ve 1 Isik Geri Kazandirir</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="1100008">
+      <LocalizedName>Issiz Umutsuzluk</LocalizedName>
+      <Ability>[Kullanildiginda] Bu Sayfayi Tüketir ve 1 Isik Geri Kazandirir</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="1100009">
+      <LocalizedName>Faydasiz Hirs</LocalizedName>
+      <Ability>[Kullanildiginda] Bu Sayfayi Tüketir ve 1 Isik Geri Kazandirir</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="1100010">
+      <LocalizedName>Bos Öfke</LocalizedName>
+      <Ability>[Kullanildiginda] Bu Sayfayi Tüketir ve 1 Isik Geri Kazandirir</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="1100011">
+      <LocalizedName>Her sey Bosluga Döner</LocalizedName>
+      <Ability>[Çarpisma Baslangici] Eldeki tüm Sayfalari Tüketir. Bundan sonraki her Sahnede, bu sekilde tüketilen Sayfa sayisina esit Güç ve Dayaniklilik kazanir.</Ability>
+    </BattleCardDesc>
+
+
+    <BattleCardDesc ID="606001">
+      <LocalizedName>Öfkeli Firtina: Ask</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="606002">
+      <LocalizedName>Alevli Ejderha Yumrugu</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="606003">
+      <LocalizedName>Hararetli Duygular</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="606004">
+      <LocalizedName>Alev Dansi</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="606005">
+      <LocalizedName>siddetli Alev</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="606006">
+      <LocalizedName>Tek Noktaya Biçaklama</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="606007">
+      <LocalizedName>Atesli Parlama</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="606008">
+      <LocalizedName>içsel Tutku</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="910026">
+      <LocalizedName>Ask ve Nefret Adina</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910027">
+      <LocalizedName>Gözyaslariyla Bileylenmis Kiliç</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910028">
+      <LocalizedName>Altin Kosu</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910029">
+      <LocalizedName>Kör Öfke</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910030">
+      <LocalizedName>Yokluk</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="1100012 ">
+      <LocalizedName>Sessizlik</LocalizedName>
+      <Ability>[Oynandiginda] Maksimum Canin %15'i Kadar Hasar Alir; diger tüm karakterler 5 Hiz kaybeder</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="1100013">
+      <LocalizedName>Yükseltme</LocalizedName>
+      <Ability>[Oynandiginda] Maksimum Canin %10'u Kadar Hasar Alir; 5 Hiz kazanir</Ability>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="607001">
+      <LocalizedName>Büyük Bölme: Yatay</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="607002">
+      <LocalizedName>Büyük Bölme: Dikey</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="607003">
+      <LocalizedName>Dikey Kesim</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="607004">
+      <LocalizedName>Mizraklar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="607005">
+      <LocalizedName>Yatay Kesim</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="607006">
+      <LocalizedName>Ruhu Yogunlastirma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="607007">
+      <LocalizedName>Atilma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="607008">
+      <LocalizedName>E.G.O Ortaya Çikarma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="607021">
+      <LocalizedName>Büyük Bölme: Yatay</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="607022">
+      <LocalizedName>Büyük Bölme: Dikey</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="607201">
+      <LocalizedName>Dejenere Asma Kilit</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="607202">
+      <LocalizedName>Dejenere Peri</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="607203">
+      <LocalizedName>Dejenere sok Dalgasi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="607204">
+      <LocalizedName>Dejenere Sütun</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="607205">
+      <LocalizedName>Dejenere Zincir</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="608001">
+      <LocalizedName>Vahsi Biçaklar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="608002">
+      <LocalizedName>Zihni Ezme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="608003">
+      <LocalizedName>Yeri Yikma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="608004">
+      <LocalizedName>Atma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="608005">
+      <LocalizedName>Zihin Kirbaci</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="608006">
+      <LocalizedName>Gergedan Hücumu</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="608007">
+      <LocalizedName>Odaklanmis Ates</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="608008">
+      <LocalizedName>Milimetrik Atis</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="608009">
+      <LocalizedName>Savas Komutasi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="608010">
+      <LocalizedName>Enerji Vurusu</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="608011">
+      <LocalizedName>Agir Darbe</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="608012">
+      <LocalizedName>Hizli Kesimler</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="608013">
+      <LocalizedName>Hizli Bastirma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="608014">
+      <LocalizedName>Otlamak</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="608015">
+      <LocalizedName>Konsantrasyon</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="608016">
+      <LocalizedName>Klon</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="608017">
+      <LocalizedName>Vahsi Mod</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="910031">
+      <LocalizedName>Kizil Yara izi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910032">
+      <LocalizedName>Kobalt Yara izi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910033">
+      <LocalizedName>Gülümseme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910034">
+      <LocalizedName>Susuz</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910035">
+      <LocalizedName>Taklit</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="920001">
+      <LocalizedName>Esitlemeyi Bozma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920002">
+      <LocalizedName>Mermi Yagmuru</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920003">
+      <LocalizedName>Sihirli Mermi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920004">
+      <LocalizedName>Sessiz Mermi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920005">
+      <LocalizedName>Kaçinilmaz Mermi</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="920101">
+      <LocalizedName>Esitlemeyi Bozma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920102">
+      <LocalizedName>Tereddüt Etmeden Vurma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920103">
+      <LocalizedName>Mermi Yagmuru</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920104">
+      <LocalizedName>Canavar Avi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920105">
+      <LocalizedName>içi Bos Kabuk</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="609001">
+      <LocalizedName>Yilan Kilici Teknigi</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="609002">
+      <LocalizedName>Mor Kiliç</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="609003">
+      <LocalizedName>Yilan Yarigi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="609004">
+      <LocalizedName>Yilan Avi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="609005">
+      <LocalizedName>Yaralama</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="609006">
+      <LocalizedName>Zehirli Disler</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="609007">
+      <LocalizedName>Devirme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="609008">
+      <LocalizedName>Yilan Darbesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="609009">
+      <LocalizedName>Düello</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="609010">
+      <LocalizedName>Yilansi Bariyer</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="609011">
+      <LocalizedName>Engelleme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="609012">
+      <LocalizedName>Zayif Noktayi Belirleme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="609013">
+      <LocalizedName>Serap Firtinasi</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="609020">
+      <LocalizedName>Kesen Durus</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="609021">
+      <LocalizedName>Delip Geçen Durus</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="609022">
+      <LocalizedName>Küt Durus</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="609023">
+      <LocalizedName>Engelleme Durusu</LocalizedName>
+    </BattleCardDesc>
+
+
+    <BattleCardDesc ID="910036">
+      <LocalizedName>Hasat</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910037">
+      <LocalizedName>Kesme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910038">
+      <LocalizedName>Arama içgüdüsü</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910039">
+      <LocalizedName>Solan Anilar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910040">
+      <LocalizedName>Sahte Taht</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="1100014">
+      <LocalizedName>Unutkanlik</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="1100015">
+      <LocalizedName>Zümrüt</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="1100016">
+      <LocalizedName>Sihir Numarasi</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="610001">
+      <LocalizedName>Pú Láo</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="610002">
+      <LocalizedName>Bì Àn</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="610003">
+      <LocalizedName>Jiāo Tú</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="610004">
+      <LocalizedName>Bì Xì</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="610005">
+      <LocalizedName>Yá Zì</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="610006">
+      <LocalizedName>Jīn Ní</LocalizedName>
+      </BattleCardDesc>
+
+    <BattleCardDesc ID="610008">
+      <LocalizedName>Chī Wěn</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="610009">
+      <LocalizedName>Tāo Tiè</LocalizedName>
+      </BattleCardDesc>
+
+    <BattleCardDesc ID="610010">
+      <LocalizedName>Yanan Ejderha Kesimi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="610011">
+      <LocalizedName>Koordineli Hücum</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="610012">
+      <LocalizedName>Ters Yükselis</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="610013">
+      <LocalizedName>Ters Yükselis</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="610021">
+      <LocalizedName>Yá Zì</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="610022">
+      <LocalizedName>Tāo Tiè</LocalizedName>
+      </BattleCardDesc>
+
+    <BattleCardDesc ID="910041">
+      <LocalizedName>Lamba</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="910042">
+      <LocalizedName>Adalet</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="910043">
+      <LocalizedName>Gaga</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="910044">
+      <LocalizedName>Alacakaranlik</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="910045">
+      <LocalizedName>Kiyamet</LocalizedName>
+      </BattleCardDesc>
+
+    <BattleCardDesc ID="1100017">
+      <LocalizedName>Küçük Gaga</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="611001">
+      <LocalizedName>Çarpik Biçak</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="611002">
+      <LocalizedName>Ugursuz isaret</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="611003">
+      <LocalizedName>Engelleme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="611004">
+      <LocalizedName>Ugursuz Güç</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="611005">
+      <LocalizedName>irade Kilici</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="611006">
+      <LocalizedName>Kör inanç</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="611007">
+      <LocalizedName>sehrin iradesi</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="611008">
+      <LocalizedName>Çarpik Biçak</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="611021">
+      <LocalizedName>Dev Yumruk</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="611022">
+      <LocalizedName>Sikistirma</LocalizedName> </BattleCardDesc>
+    <BattleCardDesc ID="611023">
+      <LocalizedName>Yumruk Yagmuru</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="611024">
+      <LocalizedName>Nöbet</LocalizedName> </BattleCardDesc>
+
+    <BattleCardDesc ID="611031">
+      <LocalizedName>Saldiri</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="611032">
+      <LocalizedName>Koruma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="611033">
+      <LocalizedName>Nöbet</LocalizedName> </BattleCardDesc>
+    <BattleCardDesc ID="611034">
+      <LocalizedName>Onarim</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="611035">
+      <LocalizedName>Direnis</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="611036">
+      <LocalizedName>Tümünü Onar</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="611041">
+      <LocalizedName>Ögreti-Ⅰ</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="611042">
+      <LocalizedName>Ögreti-Ⅱ</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="611043">
+      <LocalizedName>Ögreti-Ⅲ</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="611044">
+      <LocalizedName>Ögreti-Ⅳ</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="1100018">
+      <LocalizedName>sehit</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="1100019">
+      <LocalizedName>Vaftiz</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="1100020">
+      <LocalizedName>Samimi Vaftiz</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="910046">
+      <LocalizedName>Cennet</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910047">
+      <LocalizedName>Ölüm Sessizligi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910048">
+      <LocalizedName>Yildizin Sesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910049">
+      <LocalizedName>Tövbe</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910050">
+      <LocalizedName>Kaybolmus Cennet</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="920201">
+      <LocalizedName>K0rkm4yin</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920202">
+      <LocalizedName>Kutsama</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920203">
+      <LocalizedName>B3n Kurt4ric1y1m</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920204">
+      <LocalizedName>Gücümü B1l1n</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920205">
+      <LocalizedName>Vaftiz</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="920301">
+      <LocalizedName>S3n O'nun 0gluSun</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920302">
+      <LocalizedName>S3n Kr4l sin</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920303">
+      <LocalizedName>4tes Y4gdirm4mizi 1st1y0r musun?</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="920401">
+      <LocalizedName>S3n1 T4k1p ed3c3g1m</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920402">
+      <LocalizedName>1r4d3n Y3r1n3 G3ls1n</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920403">
+      <LocalizedName>S3n1 H3r Kötülükten K0ruy4c4k</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="920501">
+      <LocalizedName>L4mb4m1 Y4nik Tutuy0rSun</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920502">
+      <LocalizedName>Sözl3r1n B4n4 G3l1r</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920503">
+      <LocalizedName>B1z3 Huzur V3r</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="920601">
+      <LocalizedName>Çünkü O Kuts4ldir</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920602">
+      <LocalizedName>R4bb1n 1r4d3s1 Y3r1n3 G3ls1n</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920603">
+      <LocalizedName>O'n4 B4gli K4l4c4gim</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="920604">
+      <LocalizedName>Isik B4n4 Y0l Göst3r3c3k</LocalizedName>
+    </BattleCardDesc>
+
+
+    <BattleCardDesc ID="701001">
+      <LocalizedName>Trigram Formasyonu</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="701002">
+      <LocalizedName>Impugnatio Ultima</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="701003">
+      <LocalizedName>Yeniden Birlesme</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="701004">
+      <LocalizedName>Heksagram Darbesi</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="701005">
+      <LocalizedName>Heksagram Tekmesi</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="701006">
+      <LocalizedName>Göksel Mizrak</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="701007">
+      <LocalizedName>ilahi Hiz</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="701008">
+      <LocalizedName>Acimasiz Vurus</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="701009">
+      <LocalizedName>Görüntü Kalintisi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="701010">
+      <LocalizedName>Karsilasma</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="701011">
+      <LocalizedName>Yürüyüs</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="701012">
+      <LocalizedName>Kararlilik</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="701021">
+      <LocalizedName>Dört Trigram Geon</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="701022">
+      <LocalizedName>Dört Trigram Gon</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="701023">
+      <LocalizedName>Dört Trigram Gam</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="701024">
+      <LocalizedName>Dört Trigram Ri</LocalizedName>
+      </BattleCardDesc>
+
+    <BattleCardDesc ID="702001">
+      <LocalizedName>Allas Atölyesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702002">
+      <LocalizedName>Wheels Endüstrisi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702003">
+      <LocalizedName>Zelkova Atölyesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702004">
+      <LocalizedName>Old Boys Atölyesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702005">
+      <LocalizedName>Mook Atölyesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702006">
+      <LocalizedName>Ranga Atölyesi</LocalizedName>
+      </BattleCardDesc>
+    <BattleCardDesc ID="702007">
+      <LocalizedName>Kristal Atölye</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702008">
+      <LocalizedName>Mantik Atölyesi</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="702009">
+      <LocalizedName>Durandal</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702010">
+      <LocalizedName>Furioso</LocalizedName>
+    </BattleCardDesc>
+
+
+    <BattleCardDesc ID="704001">
+      <LocalizedName>Mavi Yol</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="704002">
+      <LocalizedName>Parçalama</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="704003">
+      <LocalizedName>Sonsuza Dek Dönen Disli</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="704004">
+      <LocalizedName>süpheli Sözlesme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="704005">
+      <LocalizedName>Biraz Eglenelim~</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="704006">
+      <LocalizedName>Ghghgh</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="704007">
+      <LocalizedName>Kan Dökülme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="704008">
+      <LocalizedName>Yeniden Dogan Yanan Vurus</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="704009">
+      <LocalizedName>Dövme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="704010">
+      <LocalizedName>Koro</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="704011">
+      <LocalizedName>Allegro</LocalizedName> </BattleCardDesc>
+    <BattleCardDesc ID="704012">
+      <LocalizedName>Largo</LocalizedName> </BattleCardDesc>
+    <BattleCardDesc ID="704013">
+      <LocalizedName>Rezonans Tirpan</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="704014">
+      <LocalizedName>Firtinali Dans</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="704015">
+      <LocalizedName>Kizil Pençeler</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="704016">
+      <LocalizedName>Süper Hiz</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="704017">
+      <LocalizedName>Gözdagi Verme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="704018">
+      <LocalizedName>Horoz Ötüsü</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="704101">
+      <LocalizedName>Kukla ipleri</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="704102">
+      <LocalizedName>imzasiz Sözlesme: Özgürlük</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="704103">
+      <LocalizedName>imzasiz Sözlesme: Yükseltme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="704104">
+      <LocalizedName>imzasiz Sözlesme: Hiz</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="704105">
+      <LocalizedName>imzasiz Sözlesme: Güç</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="704106">
+      <LocalizedName>imzasiz Sözlesme: Isik</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="702101">
+      <LocalizedName>Vahsi Salinim</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702102">
+      <LocalizedName>Et Isirigi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702103">
+      <LocalizedName>Kuyruk Vurusu</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702104">
+      <LocalizedName>Et Parçalari</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702105">
+      <LocalizedName>Sivri Dokunaçlar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702106">
+      <LocalizedName>Duman Yayilimi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702107">
+      <LocalizedName>Salinim</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702108">
+      <LocalizedName>Parçalama</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702109">
+      <LocalizedName>Dikenli Dokunaçlar</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="707101">
+      <LocalizedName>Çarpik Cesaret</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707102">
+      <LocalizedName>Alevli Vurus</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707103">
+      <LocalizedName>Kisitlama</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707104">
+      <LocalizedName>Keder Yarasi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707105">
+      <LocalizedName>Kavurucu Umutsuzluk</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="705201">
+      <LocalizedName>Karanlik Bag</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705202">
+      <LocalizedName>Kararsiz Bag</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705203">
+      <LocalizedName>Kombo: Zelkova Atölyesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705204">
+      <LocalizedName>Kombo: Allas Atölyesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705205">
+      <LocalizedName>Kombo: Atölye Mantigi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705206">
+      <LocalizedName>Gözetim</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705207">
+      <LocalizedName>Çilginlik</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705208">
+      <LocalizedName>Öfke</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705209">
+      <LocalizedName>Siyah Vals</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705211">
+      <LocalizedName>Beyaz Bag</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705212">
+      <LocalizedName>Kararsiz Bag</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705213">
+      <LocalizedName>Zelkova Atölyesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705214">
+      <LocalizedName>Allas Atölyesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705215">
+      <LocalizedName>Atölye Mantigi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705216">
+      <LocalizedName>Wheels Endüstrisi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705217">
+      <LocalizedName>Beyaz Vals</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705218">
+      <LocalizedName>Gözetim</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="702301">
+      <LocalizedName>Ani - Yun Bürosu</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702302">
+      <LocalizedName>Ani - Dawn Bürosu</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702303">
+      <LocalizedName>Ani - Zwei Birligi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702304">
+      <LocalizedName>Ani - Ask sehri</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702305">
+      <LocalizedName>Ani - Liu Birligi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702306">
+      <LocalizedName>Ani - Shi Birligi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702307">
+      <LocalizedName>Ani - Hana Birligi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702308">
+      <LocalizedName>Ani - Mor Gözyasi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702309">
+      <LocalizedName>Ani - Mavi Yanki</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702310">
+      <LocalizedName>Hiddet</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702315">
+      <LocalizedName>Çatisma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702311">
+      <LocalizedName>Keder</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702313">
+      <LocalizedName>siddetli</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702314">
+      <LocalizedName>Çiglik</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702320">
+      <LocalizedName>irade Gücü</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702321">
+      <LocalizedName>Ögrenme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702316">
+      <LocalizedName>Istirap</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="702312">
+      <LocalizedName>Bosluk</LocalizedName>
+    </BattleCardDesc>
+
+<BattleCardDesc ID="707501">
+      <LocalizedName>sovu Baslatalim mi~?</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707502">
+      <LocalizedName>Yeni Üyemizle Tanistirayim!</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707503">
+      <LocalizedName>Tak~! Kablammo!!</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707504">
+      <LocalizedName>Sürprize Hazir misiniz!?♥️</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707505">
+      <LocalizedName>Al, Yakala~!♣️</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707506">
+      <LocalizedName>Üzerine Atlayalim mi?♦️</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707507">
+      <LocalizedName>Sana ihtiyacimiz Var, Biliyor musun~?!</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707508">
+      <LocalizedName>Direnmeyin~!</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707509">
+      <LocalizedName>ZiRVE!!!</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707510">
+      <LocalizedName>TROMPEEEETLER!!!</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="707701">
+      <LocalizedName>Gergin ipler</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707702">
+      <LocalizedName>Kontrol ipleri</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707703">
+      <LocalizedName>Birlestirici ipler</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707704">
+      <LocalizedName>Sakin Hayal Etme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707705">
+      <LocalizedName>Dikis</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707706">
+      <LocalizedName>Dikme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707707">
+      <LocalizedName>Etkisiz Hale Getirme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707708">
+      <LocalizedName>Kukla</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707709">
+      <LocalizedName>Kukla</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707710">
+      <LocalizedName>Manipüle Edilmis Et</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707711">
+      <LocalizedName>Manipüle Edilmis Et</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707712">
+      <LocalizedName>Kirmizi iplikler</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707713">
+      <LocalizedName>Kirmizi iplikler</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="707604">
+      <LocalizedName>Gözdagi Verme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707611">
+      <LocalizedName>Kurt Hücumu</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707601">
+      <LocalizedName>Yumruklar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707602">
+      <LocalizedName>Tekmeler ve Ezmeler</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707603">
+      <LocalizedName>Süper Hiz</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707612">
+      <LocalizedName>Dövme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707613">
+      <LocalizedName>Simsiyah Hücum</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="706001">
+      <LocalizedName>Yörünge</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="706002">
+      <LocalizedName>Çikarma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="706003">
+      <LocalizedName>Serum R</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="706004">
+      <LocalizedName>Serum W</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="706005">
+      <LocalizedName>Üç Serum Kokteyli</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="706006">
+      <LocalizedName>Serum K</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="706011">
+      <LocalizedName>ince Çizgi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="706012">
+      <LocalizedName>Çizgi</LocalizedName></BattleCardDesc>
+    <BattleCardDesc ID="706013">
+      <LocalizedName>Kalin Çizgi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="706014">
+      <LocalizedName>sok Dalgasi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="706015">
+      <LocalizedName>Kafes</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="706201">
+      <LocalizedName>Asma Kilit</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="706202">
+      <LocalizedName>Peri</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="706203">
+      <LocalizedName>sok Dalgasi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="706204">
+      <LocalizedName>Sütun</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="706205">
+      <LocalizedName>Zincir</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="910006">
+      <LocalizedName>Kesilmis Bilekler</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910007">
+      <LocalizedName>Arzu</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910008">
+      <LocalizedName>Marionet</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910009">
+      <LocalizedName>Buz Kiymigi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="910010">
+      <LocalizedName>Vicdan Azabi</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="612001">
+      <LocalizedName>Açiga Saldiri</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="612002">
+      <LocalizedName>Hançerle Dürtme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="612003">
+      <LocalizedName>Feyk</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="612004">
+      <LocalizedName>Firsati Degerlendirme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="612005">
+      <LocalizedName>Zayif Noktaya</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="612006">
+      <LocalizedName>Biçak</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="411101">
+      <LocalizedName>Gündüz ve Gece</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="411102">
+      <LocalizedName>Tekrar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="411103">
+      <LocalizedName>Masayi Ters Çevirme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="411104">
+      <LocalizedName>Karistirma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="411105">
+      <LocalizedName>Sakura</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="613001">
+      <LocalizedName>Arp</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="613002">
+      <LocalizedName>Kum Ayirma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="613003">
+      <LocalizedName>Kum Darbesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="613004">
+      <LocalizedName>Furūsiyya</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="613005">
+      <LocalizedName>Jamadhar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="613006">
+      <LocalizedName>Udjat</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="614001">
+      <LocalizedName>Takas</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="614002">
+      <LocalizedName>Sigorta Kapsami</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="614003">
+      <LocalizedName>Esdeger Degisim</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="614004">
+      <LocalizedName>Bir Kalabaliga Tazminat</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="614005">
+      <LocalizedName>Son Darbe</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="614006">
+      <LocalizedName>Hayat Sigortasi</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="615001">
+      <LocalizedName>Deneme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="615002">
+      <LocalizedName>Duman Darbesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="615003">
+      <LocalizedName>Duman Çarpismasi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="615004">
+      <LocalizedName>Duman Saplamasi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="615005">
+      <LocalizedName>Anlik Modifikasyon</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="615006">
+      <LocalizedName>Dumani içine Çekme</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="616001">
+      <LocalizedName>Diken Biçaklamasi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="616002">
+      <LocalizedName>ikiye Ayirma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="616003">
+      <LocalizedName>Kusursuz Saldiri</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="616004">
+      <LocalizedName>Geri Vurma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="616005">
+      <LocalizedName>Büyük Salinim</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="616006">
+      <LocalizedName>Hazirlik</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="616007">
+      <LocalizedName>Hassasiyetle Kirma</LocalizedName>
+    </BattleCardDesc>
+
+
+    <BattleCardDesc ID="1100023">
+      <LocalizedName>Sivi Cesaret</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="1100024">
+      <LocalizedName>Talas Çuvali</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="1100025">
+      <LocalizedName>Kursun Kalp</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="1100026">
+      <LocalizedName>Ulasilamaz Ev</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="1100027">
+      <LocalizedName>Dönüsüm</LocalizedName>
+    </BattleCardDesc>
+
+
+  </cardDescList>
+</BattleCardDescRoot>

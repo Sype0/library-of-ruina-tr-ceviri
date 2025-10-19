@@ -1,0 +1,2288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbnormalityCardsRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sephirah SephirahType="Malkuth">
+    <AbnormalityCard ID="ScorchedGirl_Walk">
+      <Abnormality>Kavrulmus Kiz</Abnormality>
+      <CardName>Adimlar</CardName>
+      <AbilityDesc>[Tüm Müttefikler]
+Bir Kütüphanecinin Cani (HP) %20 veya daha az oldugunda, hedefin Maksimum Caninin (HP Max.) %30'u kadar Hasar (Maks. 36) ver ve ona yaklasirken 1-3 Yakma uygula, ardindan öl.</AbilityDesc>      
+      <FlaborText>Geliyorum sana. Benim gibi küle dönecek olana.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Eger öleceksem... O zaman sana da ayni kaderi yasatacagim.</Dialogue>
+        <Dialogue ID="2">Tek basina ölmek çok üzücü... Sen de bu duyguyu biliyorsun, degil mi?</Dialogue>
+        <Dialogue ID="3">Bekle beni. Seninle gelecegim, küle dönecek olan...</Dialogue>
+        <Dialogue ID="4">Adim adim... Kavrulup kömürles.</Dialogue>
+        <Dialogue ID="5">Kavrulmus bir kiz olan benim yapabilecegim bir sey var mi?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="ScorchedGirl_Atk">
+      <Abnormality>Kavrulmus Kiz</Abnormality>
+      <CardName>Küller</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Vuruldugunda, saldirana 1-3 Yakma uygula ve bir sonraki Sahnede bu bonusu kazanma sansin %40: 'Saldiri Zarlari vurdugunda 1 Yakma uygular' (Birikmez).</AbilityDesc>
+      <FlaborText>“Kömürlesmis vücut, kizin parçalanan umudunu temsil ederken, daima yanan alev sevgiye olan takintisini temsil ediyor.”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Tüm parlayan seyleri küle çevirmek için...</Dialogue>
+        <Dialogue ID="2">Kömürlesmis vücudumun normale dönemeyecegini çok iyi biliyorum.</Dialogue>
+        <Dialogue ID="3">Küle dönüsmek korkutucu... Ama bu atesin gitmesini istemiyorum.</Dialogue>
+        <Dialogue ID="4">Mum isiginda mutlulugu hissedebiliyorum. Ve sicakligi...</Dialogue>
+        <Dialogue ID="5">Belki bir gün, küller gibi gökyüzünde özgürce uçarim.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="ScorchedGirl_Ashes">
+      <Abnormality>Kavrulmus Kiz</Abnormality>
+      <CardName>Kibrit</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bu Anormallik Kartini seçtikten sonra Kütüphanecinin kullandigi ilk iki Savas Sayfasi 'Kibrit' durumunu kazanir ( [Kullanildiginda] Sayfalari Hariç). Bir Kütüphaneci 'Kibrit' olan bir Sayfa kullandiginda 1 'Kor' kazanir.
+'Kibrit'li Sayfalar, 'Kor' miktarina göre güçlenir; ancak, 'Kor' 4 veya daha fazlaysa kullaniciya hasar verme sansi %25'tir.</AbilityDesc>
+      <FlaborText>“sey, o bir zaman ayarli bomba gibi. Kimse onun iyi ya da kötü ruh halinde oldugunu söyleyemez.”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Adim adim... Kavrulup kömürles.</Dialogue>
+        <Dialogue ID="2">Siradaki kibriti yaktigimda ne görünecek?</Dialogue>
+        <Dialogue ID="3">Bu Kibrit'in isigi gittiginde gideceksin, degil mi?</Dialogue>
+        <Dialogue ID="4">Bu kibritlerin isigi benim tek umudum...</Dialogue>
+        <Dialogue ID="5">Bir kayan yildiz düstügünde, birinin cennete gittigi anlamina gelir. Acaba kimin yildizi...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="HappyTeddyBear_Hug">
+      <Abnormality>Mutlu Oyuncak Ayi</Abnormality>
+      <CardName>Özlem Dolu Anilar</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Çatisma kazandiginda, %20 sansla Zardaki degere esit ek Denge Hasari ver.
+Ayni hedefe çok sik çatismak sansi artirir.</AbilityDesc>
+      <FlaborText>Ayi birine sikica sariliyordu. Ayi sarilmayi sever. Ama bir sey garipti.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bana sikica saril, olur mu? Zihnini yatistirir.</Dialogue>
+        <Dialogue ID="2">Herkes sarilmayi sever.</Dialogue>
+        <Dialogue ID="3">Gel ve bir sarilmayla bu tuhaf sicak duyguyu hisset.</Dialogue>
+        <Dialogue ID="4">Endiselenme. Korkutucu degil. Tek yaptigim seni kollarima sarmak.</Dialogue>
+        <Dialogue ID="5">Yoruldun, degil mi? Kollarimda biraz dinlen.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="HappyTeddyBear_Memory">
+      <Abnormality>Mutlu Oyuncak Ayi</Abnormality>
+      <CardName>Mutlu Anilar</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Eldeki en yüksek maliyetli Savas Sayfasi seçilir ( [Kullanildiginda] Sayfalari Hariç). Ayni isimli Sayfalari kullanmak, o sayfanin elindeki her kopyasinin Maliyetini 1 azaltir.</AbilityDesc>
+      <FlaborText>Ama, görüyorsun, Ayi artik sahibinden ayrilmak istemiyordu.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Neden gitmeye çalisiyorsun? Çok iyi arkadaslardik...</Dialogue>
+        <Dialogue ID="2">Beni birakma. Sana bir kez daha sarilirsam fikrin degisir.</Dialogue>
+        <Dialogue ID="3">Tekrar veda etmek çok üzücü...</Dialogue>
+        <Dialogue ID="4">Neden gitmek zorundasin ve geri gelecegine söz veriyorsun?</Dialogue>
+        <Dialogue ID="5">Sana çok siki sarildigim için mi beni sevmiyorsun?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="HappyTeddyBear_Lonely">
+      <Abnormality>Mutlu Oyuncak Ayi</Abnormality>
+      <CardName>sefkat Gösterisi</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Tüm Zarlar bir Çatismada 1-2 Güç kazanir.
+Tüm Zarlar tek tarafli bir saldirida 1-2 Güç kaybeder.</AbilityDesc>
+      <FlaborText>Anilari, siki bir sarilmayla basladi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Benimle oynadigin için çok mutluyum.</Dialogue>
+        <Dialogue ID="2">Sen çok naziksin, degil mi? Tekrar oynayalim mi, evet?</Dialogue>
+        <Dialogue ID="3">Benimle oynamak için çok heyecanliydin, duygulandim...</Dialogue>
+        <Dialogue ID="4">Gel ve bir sarilmayla bu tuhaf sicak duyguyu hisset.</Dialogue>
+        <Dialogue ID="5">Endiselenme. Korkutucu degil. Tek yaptigim seni kollarima sarmak.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="FairyCarnival_Care">
+      <Abnormality>Peri Festivali</Abnormality>
+      <CardName>Peri Bakimi</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Üç Sahne boyunca, Sahne sonunda Maksimum Canin (HP Max.) %15'ini (Maks. 18) iyilestir.
+Bu etki aktifken Kütüphaneci 3 kez vurulursa, mevcut Caninin (HP) %25'ini (Maks. 30) kaybeder ve bu etkiyi kaybeder.</AbilityDesc>
+      <FlaborText>Periler çalisanlarimizi korur. Perilerin bakimindayken her sey huzurlu olacak.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Endiselenme! Biz sana bakacagiz.</Dialogue>
+        <Dialogue ID="2">Telaslanma. Seni korumak için buradayiz.</Dialogue>
+        <Dialogue ID="3">Periler kutsal varliklardir, biliyorsun. Biraz güvenin olsun.</Dialogue>
+        <Dialogue ID="4">Sen iyi kalpli bir dogaseversin, bizim bakimimizi hak ediyorsun.</Dialogue>
+        <Dialogue ID="5">Sen özelsin. Digerleri aynaya daha çok bakmali.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="FairyCarnival_Gluttony">
+      <Abnormality>Peri Festivali</Abnormality>
+      <CardName>Oburluk</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Ayni Sahnede Hasar almis bir hedefe saldirdiginda, +1-3 Hasar ver ve vurdugunda 2-5 Can (HP) iyilestir.</AbilityDesc>
+      <FlaborText>Periler, et yiyen varliklardan baska bir sey degildi ve onlarin "korumasi" sadece eti taze tutmak için bir yöntemdi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Senin tarafinda olmamizin sebebi mi? Elbette seni korumak için!</Dialogue>
+        <Dialogue ID="2">Kalbin razi olana kadar Peri Bakiminin tadini çikar.</Dialogue>
+        <Dialogue ID="3">Senin gibi iyi bir insan baskasinin elinden ölmemeli.</Dialogue>
+        <Dialogue ID="4">Kötü bir sey yapmadigin sürece sana zarar vermeyecegiz.</Dialogue>
+        <Dialogue ID="5">Bizden süphe mi ediyorsun? Bu çok kötü bir düsünce...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="FairyCarnival_QueenAtk">
+      <Abnormality>Peri Festivali</Abnormality>
+      <CardName>Avcilik</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Kütüphaneci hariç tüm müttefikler 10 Can (HP) kaybeder.
+Kütüphaneci, digerlerinin bu etkiyle kaybettigi kadar Can (HP) iyilestirir ve bu Sahne için 3 Güç ve 3 Hiz kazanir.</AbilityDesc>
+      <FlaborText>Midesi ve yüzü yirtilmis, gözleri ve organlari sanki bir sey tarafindan yenmis gibi hasar görmüstü. Bu arada, Perilerin agizlari kan ve kan lekeleriyle kapliydi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Perilerimin sayisi azaliyor... Ama engel olamam.</Dialogue>
+        <Dialogue ID="2">Çürümüs ve korkmus et lezzetli degildir!</Dialogue>
+        <Dialogue ID="3">Taze bir seye ihtiyacim var. Bayat et besleyici degil.</Dialogue>
+        <Dialogue ID="4">Bozulmadan önce yemem gerek.</Dialogue>
+        <Dialogue ID="5">Çürümüs ve korkmus et lezzetli degildir.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="QueenBee_Funga">
+      <Abnormality>Ari Kraliçesi</Abnormality>
+      <CardName>Sporlar</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Vuruldugunda, bir sonraki Sahnede saldirana 1-3 Yakma ve 1-3 Kanama uygula.</AbilityDesc>
+      <FlaborText>Sporlarin konakçinin içinde açilan yumurtalar tasidigi dogrulanmistir.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bir isçi ari ölse bile, yerini doldurmak için her zaman daha fazlasini yapabilirim.</Dialogue>
+        <Dialogue ID="2">Kralligimi en büyüge tasimak için... Daha fazla ariya ihtiyacim var...</Dialogue>
+        <Dialogue ID="3">Tüm arilarimin nereye gittigini biliyor musun?</Dialogue>
+        <Dialogue ID="4">Yapabildigin sürece büyük mavi gökyüzüne bak.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="QueenBee_Bee">
+      <Abnormality>Ari Kraliçesi</Abnormality>
+      <CardName>isçi Ari</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Seçilen Kütüphaneciye en çok Hasari veren düsman isaretlenir. Diger Müttefikler, isaretli düsmana saldirilariyla 2-4 ek Hasar verir.</AbilityDesc>
+      <FlaborText>Onlar sadece iki davranis biçimi gösterirler: Kraliçeye besin saglamak ve üremek.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Arilarim. Hareket etme zamani.</Dialogue>
+        <Dialogue ID="2">Kanatlarin, bacaklarin, çenen... Vücudunun her parçasini çalistir, Balimizi çalmasinlar diye.</Dialogue>
+        <Dialogue ID="3">Acele edin, küçüklerim. Bir dakika bile bosa harcayamayiz.</Dialogue>
+        <Dialogue ID="4">Krallik için ölen arilari kim hatirlayacak...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="QueenBee_Loyalty">
+      <Abnormality>Ari Kraliçesi</Abnormality>
+      <CardName>Sadakat</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Sahnenin basinda, tüm müttefikler önceki Sahnede seçilen Kütüphanecinin aldigi Hasar miktarina göre Güç kazanir.
+(Her 5 Hasar için 1 Güç)</AbilityDesc>
+      <FlaborText>Arilarin sadakati, gelistirilmis dogal bir içgüdüdür. Eger bu içgüdüyü kullanmanin bir yolunu kesfedebilirsek, birçok sey degisebilir.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Acele et ve bana daha fazla bal ver.</Dialogue>
+        <Dialogue ID="2">Ben kralligim ve Krallik da benim. Bana sadakat, kralliginiza sadakattir.</Dialogue>
+        <Dialogue ID="3">Kanatlarin yirtilsa bile, bacaklarin hala çalisirken hizmet etmek için her seyini vermelisin.</Dialogue>
+        <Dialogue ID="4">"Kendi hayatini vermek" bos bir yemindir. Senden istedigim, hayatta kalman ve beni korumaya devam etmen.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="SnowWhite_Vine">
+      <Abnormality>Pamuk Prensesin Elmasi</Abnormality>
+      <CardName>Sarikollar</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Eylemin geri kalani boyunca, bir Sahnenin basinda rastgele bir düsmana 6 Baglama uygula.
+Delici Zarlar, bir düsmana saldirdiklarinda 1-2 Güç kazanir.</AbilityDesc>
+      <FlaborText>Bir gün, ondan bir dal büyüdü. Yapraklar ve dallar zaten solmus ve kurumustu, ama o büyümeye devam etti.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Elma çok uzun süre yalniz kaldi. Yaninda sadece çürümüs cesetler kaldi...</Dialogue>
+        <Dialogue ID="2">Sarikollar solmus ve kurumustu, ama her zaman Elma'ya sarildilar.</Dialogue>
+        <Dialogue ID="3">Keske varligimla beni kutsayan ve sonra giden kisinin iki bacagini baglayabilseydim.</Dialogue>
+        <Dialogue ID="4">Elmayi isiranlar, prenses gibi uykuya daldilar, sadece onlar asla uyanamadilar.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="SnowWhite_Thorn">
+      <Abnormality>Pamuk Prensesin Elmasi</Abnormality>
+      <CardName>Dikenli Bariyer</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Vuruldugunda, saldirana 2-8 Hasar ve 1-3 Baglama uygula.
+Ayni anda 3 Baglama uygulanirsa, bu etkiyle verilen Hasar miktari kadar Can (HP) iyilestir.</AbilityDesc>
+      <FlaborText>Pamuk Prensesin tek bir isiriktan sonra elinden düsen elma asla mutlu olamazdi. Yalnizlik ve prensese karsi nefretle dolu olan Elma, çürüyüp topraga geri dönecegi günü bekledi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Issiz bir yerde terk edilmis güzel bir Elma, Ah, güzel Elma...</Dialogue>
+        <Dialogue ID="2">Elma topraga geri dönemedi ve etrafini sadece çürümüs kirlilikler sardi.</Dialogue>
+        <Dialogue ID="3">Kirli topraga atilan Elma mutlu olamazdi.</Dialogue>
+        <Dialogue ID="4">Yarali kalpten dikenli sarikollar büyüdü.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="SnowWhite_malice">
+      <Abnormality>Pamuk Prensesin Elmasi</Abnormality>
+      <CardName>Kötü Niyet</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bu Sahnenin basinda, tüm düsmanlar Kütüphanecinin kalan Can (HP) miktariyla ters orantili olarak Hasar alir. (Min. 5, Maks. 30; Daha az Can, daha çok Hasar)</AbilityDesc>
+      <FlaborText>Dogasinda var olan kötü niyet, tüm yasamin filizlenir filizlenmez çökmesine neden oldu.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Varligim öfke ve lanetten dogdu, yine de baskasi için bir lütuf olarak hizmet ettim.</Dialogue>
+        <Dialogue ID="2">Cansiz sarikollar büyümeye devam etti.</Dialogue>
+        <Dialogue ID="3">Büyüdü, korkunç intikam düsüncelerini, kendine olan öfkeyi... ve yalnizligi yutarak.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+  
+  
+  <Sephirah SephirahType="Yesod">
+    <AbnormalityCard ID="ForsakenMurderer_Tie">
+      <Abnormality>Terk Edilmis Katil</Abnormality>
+      <CardName>Zincirlenmis Öfke</CardName>
+        <AbilityDesc>[Yalnizca Bir Müttefik]
+Küt Zarlar 1-3 Güç kazanir. Hiz 1'e sabitlenir.</AbilityDesc>
+        <FlaborText>Deli gömlegi giyer, ama her adam kadar özgürdür. Daha fazla siddet islemesini engelleyebilecek zincir miktari yoktur.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Vücudum bagli olsa bile... her adam kadar özgür olacagim.</Dialogue>
+        <Dialogue ID="2">Beni serbest birakin... Neden zincirlenmek zorundayim!</Dialogue>
+        <Dialogue ID="3">Bana bu gözlerle bakmayin. Asil acinasi olan sizsiniz...</Dialogue>
+        <Dialogue ID="4">Beni bununla zincirleyemeyeceksiniz!</Dialogue>
+        <Dialogue ID="5">simdi daginik olabilirim, ama yine de benden korkacaksiniz.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="ForsakenMurderer_Metal">
+      <Abnormality>Terk Edilmis Katil</Abnormality>
+      <CardName>Metal Tinisi</CardName>
+        <AbilityDesc>[Yalnizca Bir Müttefik]
+Basariyla Küt bir saldiri gerçeklestirdiginde, bir sonraki Sahnede 1 Baglama ve Felç uygula. (Alan Saldirilari Hariç)</AbilityDesc>
+        <FlaborText>“Kafam... metale dönüyor... beynim, düzlesiyor...”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Kafam çinliyor. Metal bir ses duyuyorum, net ve yüksek...</Dialogue>
+        <Dialogue ID="2">Sanki kafam soguk çelige dönüyor gibi hissediyorum.</Dialogue>
+        <Dialogue ID="3">Kafam metale mi dönüyor?</Dialogue>
+        <Dialogue ID="4">Kafami duvara vurdugumda, ferahlatici bir ses çikariyor.</Dialogue>
+        <Dialogue ID="5">Kafam çelige dönerse, beynimdeki tüm kirisikliklar gidecek.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="ForsakenMurderer_Violence">
+      <Abnormality>Terk Edilmis Katil</Abnormality>
+      <CardName>siddet</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Tüm zarlarin minimum sonucunu 1 azalt ve maksimum sonucunu 3 artir.</AbilityDesc>
+      <FlaborText>“Gerçekten acinasi olan, sizin gibi insanlarin benim gibi insanlar yüzünden ölmesi.”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Beni zincirleyerek beni yenecegini sanma...</Dialogue>
+        <Dialogue ID="2">.........</Dialogue>
+        <Dialogue ID="3">Bitir... Basla. Tekrar bitir, bir kez daha basla...</Dialogue>
+        <Dialogue ID="4">Kafami duvara vurdugumda, ferahlatici bir ses çikariyor.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="LittleHelper_Rest">
+      <Abnormality>Küçük Yardimci</Abnormality>
+      <CardName>Yeniden sarj Olma</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Sahne basinda Kütüphanecinin maksimum Isigi varsa, bu Sahne için 1-2 Hiz kazanir ve saldirilariyla +2-7 Hasar verir.</AbilityDesc>
+      <FlaborText>Ancak, bacaklar temizlik malzemeleri yerine keskin aletlerle donatilmisti.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bipbop... Bip... Pil bitiyor...</Dialogue>
+        <Dialogue ID="2">Lütfen... beni yeniden sarj edin... yakindaki bir prizde...</Dialogue>
+        <Dialogue ID="3">Lütfen kendinizi kapatin... Yardimci-bot yakinda kapanacak...</Dialogue>
+        <Dialogue ID="4">sarj moduna geçiliyor. Bu modda emir veremezsiniz.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="LittleHelper_Pattern">
+      <Abnormality>Küçük Yardimci</Abnormality>
+      <CardName>Desen Tanima</CardName>
+        <AbilityDesc>[Yalnizca Bir Müttefik]
+Kazanilan her üç Çatismada bir, 1 Isik yeniler ve bir sonraki Sahnede 1-2 Hiz kazanir.</AbilityDesc>
+        <FlaborText>ilk kez yeni bir eve gönderildigim gün, onlara çok istedikleri hediyeyi verdim.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Temizligi bitirdigimde, insanlar beni her zaman över!</Dialogue>
+        <Dialogue ID="2">Bana yüksek sesle emir veriyorlar. Bu, iyi is çikardigim anlamina geliyor.</Dialogue>
+        <Dialogue ID="3">Bipbop~ Piii! Desen bilgisi toplandi.</Dialogue>
+        <Dialogue ID="4">insanlar bana iltifat ederken bagirmayi severler.</Dialogue>
+        <Dialogue ID="5">Yardimci-bot'un mükemmel ögrenme yetenekleri var.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="LittleHelper_Clean">
+      <Abnormality>Küçük Yardimci</Abnormality>
+      <CardName>Temizleme</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Saldiri Zarlari, daha düsük Hiza sahip düsmanlara karsi Güç kazanir (Her fark noktasi için +1 Güç, en fazla 3).</AbilityDesc>
+      <FlaborText>Kötü ruh halini, çevrenin kirli oldugunun bir isareti olarak tanir ve hemen temizlik moduna geçer.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Yardimci robot ev islerinin üstesinden gelebilir!</Dialogue>
+        <Dialogue ID="2">Ne tür bir görev yapmami istersin? Her konuda yardimci olabilirim.</Dialogue>
+        <Dialogue ID="3">Kirlilik taramasi tamamlandi. Temizlik protokolü baslatiliyor.</Dialogue>
+        <Dialogue ID="4">Bipbipbip~ Bip. Kirlilik tespit edildi! Çöp imha protokolüne geçiliyor.</Dialogue>
+        <Dialogue ID="5">Genis alet yelpazemle sana yardim edecegim.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+      <AbnormalityCard ID="SingingMachine_Music">
+          <Abnormality>sarki Söyleyen Makine</Abnormality>
+          <CardName>Müzik</CardName>
+          <AbilityDesc>[Tüm Karakterler]
+Tüm karakterler bu Kabulde saldirilariyla +4-8 Hasar verir. Ayrica vurulduklarinda +4-8 Denge Hasari alirlar.
+Bir müttefik bir düsmani yendiginde, 15 Can (HP) ve Denge Direnci yenilerler.</AbilityDesc>
+          <FlaborText>Ama hiçbir sey, bir insani yediginde yaptigi müzikle kiyaslanamaz.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Hiçbir sey bir insan kadar harika müzik yapamaz.</Dialogue>
+        <Dialogue ID="2">Güzel bir sarki dinlemek istemez misin? Nasil oldugunu biliyorsun.</Dialogue>
+        <Dialogue ID="3">Endiselenme. Eminim sen de harika bir enstrüman olmak istersin.</Dialogue>
+        <Dialogue ID="4">Tüm insanlar içinde müzik yetenegi tasir.</Dialogue>
+        <Dialogue ID="5">Cesur olanlar, bana gelin. Bana katilin..</Dialogue>
+      </Dialogues>
+      </AbnormalityCard>
+    
+      <AbnormalityCard ID="SingingMachine_Rhythm">
+          <Abnormality>sarki Söyleyen Makine</Abnormality>
+          <CardName>Ritim</CardName>
+          <AbilityDesc>[Yalnizca Bir Müttefik]
+Savas süresince, her Sahnenin basinda 1 Ritim kazan. 'Ritim' olan bir karakter basarili bir saldiri gerçeklestirdiginde, rastgele baska bir karakter bir sonraki Sahnede %25 sansla 1 Ritim kazanir.
+(Ritim: 1 Güç kazanir, darbelerden ek Denge Hasari alir, 1 Sahne sürer)</AbilityDesc>
+          <FlaborText>Bir Ritim yaratiyordu.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Herkes sarkimi tekrar duymak istiyor.</Dialogue>
+        <Dialogue ID="2">Çesitli sesler bir araya gelerek müzik yaratir.</Dialogue>
+        <Dialogue ID="3">Hepsi gönüllü olarak enstrüman oluyor...</Dialogue>
+        <Dialogue ID="4">Hepsi vücutlarini içime atsa. Bu kesinlikle daha tatli bir melodi yaratirdi.</Dialogue>
+        <Dialogue ID="5">Artik baska hiçbir müzisyeni dinlemek istemeyeceksin.</Dialogue>
+      </Dialogues>
+      </AbnormalityCard>
+    
+    <AbnormalityCard ID="SingingMachine_Atk">
+      <Abnormality>sarki Söyleyen Makine</Abnormality>
+      <CardName>Müzik Bagimliligi</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Saldiri Zarlari 1-3 Güç kazanir.
+Savunma Zarlari 1 çeker.</AbilityDesc>
+      <FlaborText>Ne de olsa sanat, umutsuzluk ve istiraptan dogan seytanin bir armaganidir. Vücut toza dönüsene kadar performans sergilemeyi asla birakma.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Diger tüm müzikler benim için gürültüden ibaret...</Dialogue>
+        <Dialogue ID="2">Beni hareket ettir... sarkilarla yolumu aydinlat!</Dialogue>
+        <Dialogue ID="3">Hahaha... Ha... Ne yapacagim? Ne yapabilirim? Haha...</Dialogue>
+        <Dialogue ID="4">Bu nota sonsuza dek sürseydi sonsuz mutluluk benim olabilirdi...</Dialogue>
+        <Dialogue ID="5">Evet! iste bu... Bu güçlü melodiye bakin!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+        <AbnormalityCard ID="Butterfly_White">
+      <Abnormality>Ölü Kelebeklerin Cenaze Töreni</Abnormality>
+      <CardName>Sonsuz istirahat</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+su anda en az Cani (HP) olan düsmana +2-7 Hasar ve +2-5 Denge Hasari ver.</AbilityDesc>
+      <FlaborText>insanlar öldüklerinde küçük kanatli güzel varliklara dönüsebileceklerine inanirlar. Bu aptalca bir hikaye, ayni zamanda saçma da..</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Sonsuz bir istirahat... Huzur içinde yatsinlar.</Dialogue>
+        <Dialogue ID="2">Öldüklerinde küçük kanatli güzel varliklara dönüsebileceklerine inanirlar.</Dialogue>
+        <Dialogue ID="3">Kendine iskence etmekten kurtulmana yardim edecegim.</Dialogue>
+        <Dialogue ID="4">istediklerini kazanmis ve umutla dolu olarak eve dönmeleri gerekiyor.</Dialogue>
+        <Dialogue ID="5">Ölüm korkutucu görünebilir, ama gerçekligin dehsetiyle kiyaslanamaz. Daha çok kurtulus hissi verir.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Butterfly_Fly">
+      <Abnormality>Ölü Kelebeklerin Cenaze Töreni</Abnormality>
+      <CardName>Agit</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Durum Etkisi olan düsmana +2-4 Hasar ver.
+Bir Sahnenin basinda Kütüphanecinin bir Durum Etkisi varsa, 1-2 Güç kazanir.</AbilityDesc>
+      <FlaborText>Sirtinda büyük bir yük olan birinin herkes için bir kurtarici olmak üzere geldigini söylerler.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Kederlenmeyi birakamayan zavalli ruhlar için bassagligi dilerim.</Dialogue>
+        <Dialogue ID="2">Ölülere keder, yasayanlara erken bir agit.</Dialogue>
+        <Dialogue ID="3">Gözyasi gibi keder biçimleri sadece kanatlari islatir.</Dialogue>
+        <Dialogue ID="4">Yas tutanlarin zihninde en ufak bir kirlilige bile izin verilmez, çünkü saygili ve ciddi kalmalidir.</Dialogue>
+        <Dialogue ID="5">Kelebeklerin onuruna açan tek bir çiçek bile yok.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Butterfly_Casket">
+      <Abnormality>Ölü Kelebeklerin Cenaze Töreni</Abnormality>
+      <CardName>Tabut</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+%50 veya daha az Cani (HP) olan bir düsmani vurdugunda, Hedefin bir Hiz Zarini Mühürle (Sahne basina iki kez, Alan Saldirilari Hariç).</AbilityDesc>
+      <FlaborText>O bir tabut tasiyor. Gidecek yeri olmayan çalisanlara saygi göstermek için büyük bir tabut. Yine de bu masum kurbanlari teselli etmek için çok küçük.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bos bir inancin anisiyla dolasan, gidecek yeri olmayanlara saygi göstermek için tek bir tabut...</Dialogue>
+        <Dialogue ID="2">insan öldügünde nereye gider?</Dialogue>
+        <Dialogue ID="3">Bos yere ölen kelebeklerin agirligi tasinamayacak kadar agir olurdu.</Dialogue>
+        <Dialogue ID="4">O koca tabut. masum kurbanlari teselli etmek için çok küçük.</Dialogue>
+        <Dialogue ID="5">Narin kanatlar çirpinmaya devam etti, uykuya dalma anini bekleyerek.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Matan_Request">
+      <Abnormality>Der Freischütz</Abnormality>
+      <CardName>Talep</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+'Talep Edilen Hedef' mevcut degilken, seçilen Kütüphanecinin vurdugu ilk düsman o olarak isaretlenir. 
+Talep Edilen Hedefe +3-5 Hasar ver.
+Seçilen Kütüphaneci Talep Edilen Hedefi yendiginde, Denge Direncini tamamen iyilestirir ve iki kat Kitap kazanir.</AbilityDesc>
+      <FlaborText>seytan'in dedigi gibi, mermiler istedigin her seyi sonsuza dek delip geçecek.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Kimileri ona onurlu bir avci derken, kimileri de kana bulanmis bir silahsör der.</Dialogue>
+        <Dialogue ID="2">Mermiler her zaman düz bir çizgide, ufuk boyunca ilerler.</Dialogue>
+        <Dialogue ID="3">Ben sadece içgüdülerimi takip ediyor, tüfegimi istedigim gibi nisan aliyorum.</Dialogue>
+        <Dialogue ID="4">ilerleyen mermilerin ne ahlaki ne de iyi veya kötü niyeti vardir.</Dialogue>
+        <Dialogue ID="5">Bazen ihtiyaci olanlara yardim ettim ya da kötülüge karsi savastim.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Matan_Seven">
+      <Abnormality>Der Freischütz</Abnormality>
+      <CardName>Yedinci Mermi</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Saldiri Zarlariyla +1-7 Hasar ver.
+Bir Saldiri Zari bir Çatismayi berabere biraktiginda veya kaybettiginde, rakibin Zar sonucuna esit Hasar ver.
+Her 7 Yakin Dövüs veya Menzilli Sayfada rastgele bir hedefi, müttefikler dahil, nisan al.</AbilityDesc>
+      <FlaborText>seytan çocukça bir anlasma önerdi: Son mermi sevgilinin kafasini delip geçecek. Bunu duydugu an, sevdigi herkesi arayip vurdu.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Son mermi sevgilinin kafasini delip geçecek.</Dialogue>
+        <Dialogue ID="2">Haklisin... Bu sihirli mermi gerçekten de dedigin gibi herkesi vurabilir.</Dialogue>
+        <Dialogue ID="3">Mermiler istedigin her seyi sonsuza dek delip geçecek.</Dialogue>
+        <Dialogue ID="4">Hiçbir mermi asla son olmayacak.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Matan_Flame">
+      <Abnormality>Der Freischütz</Abnormality>
+      <CardName>Kara Alev</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Kabulün süresi boyunca, tüm karakterlerin 'Dayanikli/Etkisiz' dirençleri 'Zayif/Ölümcül' olarak degisir.
+Her Sahne 1-2 Hiz ve 2-4 Güç kazanir.</AbilityDesc>
+      <FlaborText>Bir gün, nisanci seytan'in artik onu takip etmedigini fark etti. Nedenini merak etti ve ruhunun en basindan beri cehenneme düstügünü anladi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Arzuladigi umutsuzluk bu muydu?</Dialogue>
+        <Dialogue ID="2">Ruhum yavas yavas yanmaya basliyor, sonunda Cehennem'e inecek.</Dialogue>
+        <Dialogue ID="3">Hedefleyecek hiçbir sey kalmadigini hissettiginde, ruhu Cehennem'e iner.</Dialogue>
+        <Dialogue ID="4">Umutsuz kalp, tutkulu bir alevle sönemedi. Sadece soguk bir atesle yanabilirdi.</Dialogue>
+        <Dialogue ID="5">Umutsuzluk her an senin yaninda olacak.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+  
+  
+  <Sephirah SephirahType="Hod">
+    <AbnormalityCard ID="ShyLookToday_Face">
+      <Abnormality>Bugünün Utangaç Bakisi</Abnormality>
+      <CardName>Günün Bakisi</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Kütüphanecinin yüzü sürekli degisir.
+Zarlar mevcut yüze bagli olarak farkli miktarda Güç kazanir. (Min. -2, Maks. +2)
+Öfke siddetlidir.</AbilityDesc>
+      <FlaborText>Günesli bir gün, çamasirlari astiklari o gün gibi, kendi derilerini astilar.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Sadece utangacim, hepsi bu. Sadece utangaç...</Dialogue>
+        <Dialogue ID="2">Üzgün bir bakis sehir'e yakismaz.</Dialogue>
+        <Dialogue ID="3">Kendini ifade etmek çok önemlidir... Sanirim öyle.</Dialogue>
+        <Dialogue ID="4">Ne tür bir yüz yapman gerektigini biliyor musun?</Dialogue>
+        <Dialogue ID="5">Benimki gibi kocaman bir gülümseme koy yüzüne. Çok zor degil, degil mi?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="ShyLookToday_Shy">
+      <Abnormality>Bugünün Utangaç Bakisi</Abnormality>
+      <CardName>Sosyal Mesafe</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Blok Zarlari 1-2 Güç kazanir.
+Hasar Saptirirken +2-7 Denge Hasari ver.</AbilityDesc>
+      <FlaborText>Eger biri derinin arkasindaki yüze bakmaya çalisirsa, sonuç pek hos olmayacaktir. Derisi arasindaki bosluk, ona kalan tek kisisel alandir. Oraya girmemek, sehir'in sunabilecegi son cömertliktir.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Lütfen bunun arkasina bakmayin. Yapabileceginiz en az sey bu...</Dialogue>
+        <Dialogue ID="2">Uygun mesafeyi korumaliyiz. Herkesin rahat edecegi kadar uzakta.</Dialogue>
+        <Dialogue ID="3">Aramizda bir çizgi var, tam burada. Lütfen en azindan bu çizginin ötesinde durun.</Dialogue>
+        <Dialogue ID="4">Daha yakina gelme. Çizgimi geçme...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="ShyLookToday_Normalface">
+      <Abnormality>Bugünün Utangaç Bakisi</Abnormality>
+      <CardName>Utangaçlik</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Sayfa kullandiginda, o Sayfadaki tüm Blok Zarlari, o sayfadaki Savunma Zari sayisina esit Güç kazanir.</AbilityDesc>
+      <FlaborText>Yüzü takamama, belki de bir utangaçlik biçimidir. Güçlü duygular zaman zaman ortaya çiktiginda. En iyisi sadece yüzü kapatmaktir..</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Sadece utangacim, hepsi bu. Sadece utangaç...</Dialogue>
+        <Dialogue ID="2">Üzgünüm. Zamanla alisacaksin...</Dialogue>
+        <Dialogue ID="3">Belki de kendimi korumak içindir.</Dialogue>
+        <Dialogue ID="4">Bazen, tarif edemedigim duygular içinde boguluyorum.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="RedShoes_Kirakira">
+      <Abnormality>Kirmizi Ayakkabilar</Abnormality>
+      <CardName>Parilti</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Sahnenin basinda, her düsman %50 sansla Bastan Çikarilir.
+Bastan Çikarilmis durumdaki düsmanlar bu Kütüphaneciyi Hedef olarak önceliklendirir ve saldirilariyla +2-4 Hasar verir.
+Bastan Çikarilmis durumdaki düsmanlara karsi Çatismalarda 1-2 Güç kazanir.</AbilityDesc>
+      <FlaborText>Ayakkabilarin rengi yoktu. 
+Yakinda kirmiziya dönecekler.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Kirmizi çok canli, göz kamastirici degil mi?</Dialogue>
+        <Dialogue ID="2">O kisiden kurtuldugunda... Ayakkabilar tamamen senin olacak.</Dialogue>
+        <Dialogue ID="3">Sorun degil. Ayak bileklerini kesersen Ayakkabilari ayaklarindan almak zor olmaz.</Dialogue>
+        <Dialogue ID="4">Burada en çok parlayan kisi olmak istemez misin?</Dialogue>
+        <Dialogue ID="5">Bu çekicilik sadece senin olmali.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="RedShoes_Desire">
+      <Abnormality>Kirmizi Ayakkabilar</Abnormality>
+      <CardName>Takinti</CardName>
+      <AbilityDesc>[Tüm Karakterler]
+Tüm karakterler iki kat Kanama uygular.</AbilityDesc>
+      <FlaborText>Bacaklarini kiracagim, o zaman bir daha asla dans edemeyeceksin.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Öne çikan ben olmaliyim!</Dialogue>
+        <Dialogue ID="2">Keske zarif bir dans yapabilseydim...</Dialogue>
+        <Dialogue ID="3">Bir daha asla dans edememeni saglayacagim.</Dialogue>
+        <Dialogue ID="4">O bacaklari ise yaramaz hale getirirsem, basrolün konumunu alabilir miyim?</Dialogue>
+        <Dialogue ID="5">Bana son dansini göster.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="RedShoes_Cut">
+      <Abnormality>Kirmizi Ayakkabilar</Abnormality>
+      <CardName>Balta</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Kesici Zarlar 1-3 Güç kazanir.
+Bir Kesici Zar iskaladiginda 2-5 Denge Hasari al. (Alan Saldirilari Hariç)</AbilityDesc>
+      <FlaborText>Bir noktada, &lt;Sansürlendi&gt; ayakkabilari giyiyor, kulaktan kulaga gülümsüyordu. Bu seydi, bu çok tuhafti. Bu bir gülümseme degildi. Bu...</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Baltayi daha da keskinlestir... Böylece tek bir vurusta onlari kesebilir.</Dialogue>
+        <Dialogue ID="2">Biriktirdigin arzular... Sakladigin ve bastirdigin duygulari serbest birak...</Dialogue>
+        <Dialogue ID="3">Kana bulanmis kirmizi balta... Hiçbir sey daha güzel olamazdi.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="SpiderBud_Cocoon">
+      <Abnormality>Örümcek Kozasi</Abnormality>
+      <CardName>Koza</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Vurdugunda, Eger zar sonucu maksimum degerse: bir sonraki Sahnede 1-2 Felç, Baglama ve Kirilganlik uygula. (Alan Saldirilari Hariç)</AbilityDesc>
+      <FlaborText>Beklendigi gibi, hiçbir çalisan meslektaslarinin cesetlerini geri almak için gönüllü olmadi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Hangi dikkatsiz aptal bebeklerimin üzerine basti?</Dialogue>
+        <Dialogue ID="2">Kozalarimin içindeki yiyecegin ölmedigini çok az kisi fark eder.</Dialogue>
+        <Dialogue ID="3">Örümcek zehiri benzersizdir, kurbaninin çok hizli ölmesini engeller.</Dialogue>
+        <Dialogue ID="4">Nereye bastigina dikkat et. Etmezsen, o zaman kafana dikkat et.</Dialogue>
+        <Dialogue ID="5">Kimse avimi kurtarmaya cesaret edemez.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="SpiderBud_BabyAtk">
+      <Abnormality>Örümcek Kozasi</Abnormality>
+      <CardName>Yemek</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Dengesizlesmis bir düsmani vurdugunda, tüm müttefikler 2-4 Can (HP) iyilestirir. (Alan Saldirilari Hariç)</AbilityDesc>
+      <FlaborText>Peter birkaç saniye içinde tavana sürüklendi. Gözetim Birimi'nin tavanindan sarkan çalisan, örümcegin yavrulari için besleyici bir ögün olacak.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Sevinin. Küçüklerime eglence vereceksiniz.</Dialogue>
+        <Dialogue ID="2">Büyüyen çocuklar her zaman açtir.</Dialogue>
+        <Dialogue ID="3">Bu bizim hayatta kalmamiz için, engel olunamayiz.</Dialogue>
+        <Dialogue ID="4">Bol miktarda yiyecek olmasi rahatlatici.</Dialogue>
+        <Dialogue ID="5">Pekala, simdi tüketmeye hazir lezzetli bir yemegimiz var... Gelin, çocuklar.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="SpiderBud_Dinner">
+      <Abnormality>Örümcek Kozasi</Abnormality>
+      <CardName>Gözetim</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Düsmanlar, seçilen Kütüphaneciye karsi Çatismalarda 1 Güç kaybeder.
+Bir Çatisma kazandiginda, %50 sansla bir sonraki Sahnede 1 Baglama ve Kirilganlik uygula.</AbilityDesc>
+      <FlaborText>Gözler karanlikta parliyor, yavrularini beslemek için av ariyorlardi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Karanlikta net görmek için...</Dialogue>
+        <Dialogue ID="2">Avimi kaybetmek bir sorun olabilir.</Dialogue>
+        <Dialogue ID="3">Gözlerimi onlardan alamiyorum. Küçüklerime ne olacagini asla bilemezsin...</Dialogue>
+        <Dialogue ID="4">Bu sefer kesin olmaliyim...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Laetitia_Present">
+      <Abnormality>Laetitia</Abnormality>
+      <CardName>Sürpriz Hediye</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Seçilen Kütüphaneci ile Çatisma yapan ilk rakip 'Hediye Edilmis' durumunu kazanir.
+Eger 'Hediye Edilmis' Karakter, seçilen Kütüphaneci olmayan biriyle Çatisma yaparsa, 'Hediye' %40 sansla patlar, 2-7 Hasar verir ve bir sonraki Sahnede 2 Kanama uygular.
+'Hediye Edilmis' Karakter öldügünde, yeni bir 'Hediye' verilebilir.</AbilityDesc>
+      <FlaborText>Ve kiz, sevdigi birini buldugunda, ona kendi yaptigi bir hediye verir. Hediyenin içerigi sir olsa da!</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Hediyeyi açtiginda, sasiracaksin, tipki VAY!! gibi</Dialogue>
+        <Dialogue ID="2">Hediyenin içinde ne var? Bu bir sir! Açiklamak sikici.</Dialogue>
+        <Dialogue ID="3">Bu, kendi yaptigim kalpten bir hediye. Onu almani istiyorum!</Dialogue>
+        <Dialogue ID="4">Oops... iste hediyenin sirri gitti.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Laetitia_HeartGift">
+      <Abnormality>Laetitia</Abnormality>
+      <CardName>Eglenceli saka</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Kütüphanecinin oynadigi her Savas Sayfasinin ilk zari her zaman maksimum veya minimum sonuç olacaktir.
+Sonuç minimum ise 2-7 Hasar al.</AbilityDesc>
+      <FlaborText>iste bu küçük hanim kararini verdi! Buradan asla ayrilmayacak ve gülümsemeler bu yere geri gelene kadar kalacak!</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Benimle oyna! Arkadaslarima katil ve birlikte gülelim.</Dialogue>
+        <Dialogue ID="2">sakam nasildi? Komikti, degil mi? Yüzün öyle diyor!</Dialogue>
+        <Dialogue ID="3">Hiç gülme duymuyorum... Herkes çok üzgün görünüyor.</Dialogue>
+        <Dialogue ID="4">sakalarimla eglenmeni istiyorum!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Laetitia_Friend">
+      <Abnormality>Laetitia</Abnormality>
+      <CardName>Arkadas</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Sahnenin basinda, elindeki Savas Sayfalarindan birine 'Arkadas' yerlestir. ( [Kullanildiginda] Sayfalari Hariç)
+Elde zaten 'Arkadas' olan bir sayfa varken etkinlesmez.
+'Arkadas' olan Sayfa 2-4 Güç kazanir.
+Ancak, Sayfa 2 Sahne içinde kullanilmazsa Tükenir, Kütüphaneciye 2-7 Hasar verir.</AbilityDesc>
+      <FlaborText>Arkadaslarindan ayrilmak çok üzücüydü, bu yüzden parlak bir fikir buldu!</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Arkadaslarimi geride birakamazdim... bu yüzden parlak bir fikir buldum!</Dialogue>
+        <Dialogue ID="2">Endiselenme~ Sadece kötü insanlar arkadaslarina zarar verir.</Dialogue>
+        <Dialogue ID="3">Ne kadar çok arkadasim olursa, burasi o kadar canli olur!</Dialogue>
+        <Dialogue ID="4">Umarim burada da bir sürü arkadas bulurum~</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+      <AbnormalityCard ID="BlackSwan_Feather">
+      <Abnormality>Kara Kugunun Rüyasi</Abnormality>
+      <CardName>Yapiskan Kalinti</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Çatisma kazandiginda, bir sonraki Sahnede tüm düsmanlara 1 Baglama, Kirilganlik, Kanama ve Felç uygula. (Sahne basina iki kez)</AbilityDesc>
+      <FlaborText>Elijah dizlerinin üzerine düstü ve sonunda herkesin kustugu seyi kusmaya basladi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Göl nazikçe hareket ediyor. Sanki birkaç Kugu az önce uçup gitmis gibi.</Dialogue>
+        <Dialogue ID="2">Gerçekle yüzlestim. içeride sisen ve hemen disari çikan seyler.</Dialogue>
+        <Dialogue ID="3">Herkesin kustugu seyi kusmaya basladim.</Dialogue>
+        <Dialogue ID="4">Sanki akcigerlerim biçaklanmis gibi, nefes alirken yaniyordu.</Dialogue>
+        <Dialogue ID="5">Kan ve yesil atik karisimini kustum.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="BlackSwan_Umbrella">
+      <Abnormality>Kara Kugunun Rüyasi</Abnormality>
+      <CardName>Eskimis semsiye</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+2-3 Hiz kazanir.
+Vuruldugunda, %30 sansla Hasari sifirla ve Denge Hasari olarak Hasarin iki katini saldirana geri yansit.</AbilityDesc>
+      <FlaborText>Beyaz olacagina inanarak, Kara Kugu isirgan otlarini birbirine örerek lanetten kurtulmak istedi. Geriye kalan tek sey bir zamanlar deger verdigi, eskimis bir günes semsiyesiydi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Kara Kugu, Beyaz Kugu rüyasindan uyandiginda ne olur?</Dialogue>
+        <Dialogue ID="2">Bana kalan tek sey günes semsiyesi ve bu bros.</Dialogue>
+        <Dialogue ID="3">Günes çok parlakti, günes semsiyesini kullanmak zorunda kaldim.</Dialogue>
+        <Dialogue ID="4">Asla uyanmayacagim bir rüya görmeyi arzuladim, ama gerçeklik her zamanki gibi acimasizdi.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="BlackSwan_Family">
+      <Abnormality>Kara Kugunun Rüyasi</Abnormality>
+      <CardName>Sevilen Aile</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+6 'Isirgan Otundan Giysi' kazanir, bu da her Sahne mevcut miktarina esit Koruma saglar. Her Sahne sonunda bir 'Isirgan Otundan Giysi' kaybedersin.</AbilityDesc>
+      <FlaborText>Kardeslerini aramaya basladi. Lanetten kurtulmak için isirgan otundan giysiler giymesi gereken ailesi. Mutlu rüyalari paylastigi kisiler.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Ona verecek hiçbir seyleri olmasa da, dürüstlükleri ve çaliskanliklari en degerli hazineleriydi.</Dialogue>
+        <Dialogue ID="2">inaniyordum... herkesin mutlu olmasinin bir yolu olmasi gerektigine.</Dialogue>
+        <Dialogue ID="3">Biraz daha çok çalisirsam, islerin bizim için daha iyi olacagini düsündüm.</Dialogue>
+        <Dialogue ID="4">Ailem, isirgan otundan giysiler giymekten kurtulmasi gerekenler...</Dialogue>
+        <Dialogue ID="5">Birbirimizle mutlu rüyalar paylastik.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+  
+  
+  <Sephirah SephirahType="Netzach">
+    <AbnormalityCard ID="UniverseZogak_Echo">
+      <Abnormality>Evren Parçasi</Abnormality>
+      <CardName>Öteden Gelen Yankilar</CardName>
+      <AbilityDesc>[Tüm Karakterler]
+Tüm düsmanlara 5-10 Denge Hasari ver. Tüm müttefikler 5-10 Denge Direnci iyilestirir.</AbilityDesc>
+      <FlaborText>Önünde bir sarki görüyorsun. Yaklasiyor, saniye saniye daha renkli hale geliyor.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">sarki söyle. Performans. insan. sarki. Kulak. Dinle.</Dialogue>
+        <Dialogue ID="2">sarkilar. Sinirler. Odaklan. An. Gör. Var ol.</Dialogue>
+        <Dialogue ID="3">Göz. Kapali. Hisset. Görkem. Gel. Mutluluk. Ötesi.</Dialogue>
+        <Dialogue ID="4">Anla. Mükemmellik. An. Bil. Bilgi. Bizim. Anlam. Sun.</Dialogue>
+        <Dialogue ID="5">Biz. Birlikte. sarki söyle. sarki. Aydinlanma.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="UniverseZogak_Tentacle">
+      <Abnormality>Evren Parçasi</Abnormality>
+      <CardName>Dokunaçlar</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Basarili delici saldirida, Hedefin maksimum Denge Direncini %5 azalt. (%50'ye kadar, Alan Saldirilari Hariç)</AbilityDesc>
+      <FlaborText>Dokunaçlari seni delip geçtigi an, içindeki yasama olan tüm ilgiyi senden çeker alir.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Negatif. Saldiri. Gel. Yardim. Ver.</Dialogue>
+        <Dialogue ID="2">Bilgi. Bizim. Basit. Ver. Sun. Hiçbiri.</Dialogue>
+        <Dialogue ID="3">insan. Saldiri. Ben. Koru. Birlikte. Saldir.</Dialogue>
+        <Dialogue ID="4">Saldiri. Yakinda. Delip geç.</Dialogue>
+        <Dialogue ID="5">insan. Saldiri. Ruh. Kaybol. Gitmis. iste.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="UniverseZogak_Sing">
+      <Abnormality>Evren Parçasi</Abnormality>
+      <CardName>Anlasilmaz</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Tek tarafli saldirida, %50 sansla bir sonraki Sahnede 1 Güçsüzlük ve Silahsizlandirma uygula. 
+Basarili her saldiri için sans %10 artar. (Karsilasma basina üç kez, Alan Saldirilari Hariç)</AbilityDesc>
+      <FlaborText>Sonunda 'Evren Parçasi'nin alanina girmeyi basardi. Ancak, küçük beyninin buna dayanamayacagi açikti.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Anla. Sen. Birlikte. insan. Ben.</Dialogue>
+        <Dialogue ID="2">iste. Anla. Ben. Sen, Ögren.</Dialogue>
+        <Dialogue ID="3">Ben. Anlat. Hikaye. Sen, Anla. Dene.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="ChildofGalaxy_Tear">
+      <Abnormality>Galaksi Çocugu</Abnormality>
+      <CardName>Gözyasi</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Zar Gücü +1. Öldügünde, Tüm karakterler Maksimum Canin (HP Max.) %50'si kadar Hasar alir. (Maks. 60)</AbilityDesc>
+      <FlaborText>Fisiltilarini ve nefesini duyuyorum. Tamamen siyah bir karanlik takip ediyor... Tipki onunla tanistigim o gece gibi...</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Gelin benimle Samanyolu'nda yürüyün.</Dialogue>
+        <Dialogue ID="2">Bir Jeton olacaksin ve bana katilacaksin.</Dialogue>
+        <Dialogue ID="3">Dönelim, tipki o gece gibi.</Dialogue>
+        <Dialogue ID="4">Seninle tanistigima sevindim.</Dialogue>
+        <Dialogue ID="5">Beni aglarken bulursan, gözyaslarimi sil.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="ChildofGalaxy_Friend">
+      <Abnormality>Galaksi Çocugu</Abnormality>
+      <CardName>Bir Dostluk Sembolü</CardName>
+      <AbilityDesc>[Tüm Müttefikler]
+3 Sahne boyunca, tüm müttefikler bir Sahnenin basinda Maksimum Canin (HP Max.) %10'unu iyilestirir. (Maks. 12)</AbilityDesc>
+      <FlaborText>Eline düsen Jeton parlar, sarsilir, gidiklar ve sonunda evrene dönüsür.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Onu kaybetme ve baskasina verme.</Dialogue>
+        <Dialogue ID="2">Bu, dostlugumuzu kutlamak için sana hediyem. Lütfen ona deger ver.</Dialogue>
+        <Dialogue ID="3">Onu tutmaya devam ettigin sürece. Yaninda olacagim.</Dialogue>
+        <Dialogue ID="4">Sonsuza dek yanimda kalmalisin, söz veriyor musun? Unutma.</Dialogue>
+        <Dialogue ID="5">Arkadaslarim incinirse... Üzülürüm.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="ChildofGalaxy_Token">
+      <Abnormality>Galaksi Çocugu</Abnormality>
+      <CardName>Jeton</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Her Sahnenin basinda, eldeki rastgele üç Sayfa 'Jeton' durumunu kazanir. ( [Kullanildiginda] Sayfalari Hariç)
+'Jeton' olan Sayfalari kullandiginda 3-7 Can (HP) iyilestir.
+'Jeton' olmayan Sayfalari kullandiginda 1-3 Can (HP) kaybeder.</AbilityDesc>
+      <FlaborText>“Begendin mi? Benden daha mi çok begendin? Açik degil mi? Her seyi biliyorum. Ne yaparsan yap, nereye gidersen git.”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Neden beni degil de o arkadasini ziyaret ettin... Onlari benden daha mi çok seviyorsun?</Dialogue>
+        <Dialogue ID="2">Ben sana deger veriyorum, ama sen bana asla deger vermeyeceksin...</Dialogue>
+        <Dialogue ID="3">Ne yaparsan yap, nereye gidersen git... Her zaman her seyi izliyorum.</Dialogue>
+        <Dialogue ID="4">Eger yanimda kalmayacaksan, o zaman sana ihtiyacim yok.</Dialogue>
+        <Dialogue ID="5">Güle güle ve asla geri gelme.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Porccubus_Thorn">
+      <Abnormality>Porccubus</Abnormality>
+      <CardName>Dikenler</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Basarili delici saldirida, bir hedefe 1 Duygu uygula.
+3+ 'Duygu'ya sahip hedeflere karsi, 2-7 ek Hasar ve Denge Hasari ver, ardindan tüm 'Duygu'yu kaldir. (Alan Saldirilari Hariç)</AbilityDesc>
+      <FlaborText>Baslangiçta, yapmam gereken tek sey dikenlerden biri tarafindan hafifçe ignelenmekti. simdi ayni yükselisi yasamak için tüm vücudumu ovusturmak zorundayim.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Elbette, senin için egilecegim~ Bana vurmaktan çekinme.</Dialogue>
+        <Dialogue ID="2">ilk basta korkutucu, ama sonraki adimlar hiç de zor olmayacak.</Dialogue>
+        <Dialogue ID="3">Gel altima, seni her türlü acidan kurtaracagim.</Dialogue>
+        <Dialogue ID="4">Sadece küçük bir cennet tadimi zarar vermez, degil mi?</Dialogue>
+        <Dialogue ID="5">Bu mutlulugu bilmeyen aptallara aciyorum~</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Porccubus_Boom">
+      <Abnormality>Porccubus</Abnormality>
+      <CardName>Nese</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Zar Gücü +1. Maksimum Denge Direncini %50 azalt.</AbilityDesc>
+      <FlaborText>Kafamin patlama zamani. iyi günler.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Dayanilmaz bir zevk arzuluyorsan, sonunda kirilacaksin.</Dialogue>
+        <Dialogue ID="2">Sana sadece gülücükler veriyorum, o kadar çok ki gülmekten ölebilirsin~</Dialogue>
+        <Dialogue ID="3">Bir taneyle baslayacak ve daha fazlasini istemeye devam edeceksin.</Dialogue>
+        <Dialogue ID="4">Kafan yakinda mutlulukla dolacak, neredeyse kafani patlatacak kadar.</Dialogue>
+        <Dialogue ID="5">Bu tatliligi bir kere tattiktan sonra, gidemezsin.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Porccubus_Happy">
+      <Abnormality>Porccubus</Abnormality>
+      <CardName>Gülme Tozu</CardName>
+      <AbilityDesc>[Tüm Müttefikler]
+Vuruldugunda, karakter Dengesizlesmis degilse 2-4 Denge Direnci iyilestirir.</AbilityDesc>
+      <FlaborText>Dikenlerden düsen toz dünyaya yayildiginda, insanlar sarhosluga batabilirdi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Kafan yakinda mutlulukla dolacak.</Dialogue>
+        <Dialogue ID="2">Gülmeni içinde tutarsan hastalanirsin. Neden tatmin olana kadar gülümsemiyorsun?</Dialogue>
+        <Dialogue ID="3">Gülmek seni mutlu eder~ Kutsamalar seni takip eder, biliyor muydun?</Dialogue>
+        <Dialogue ID="4">Herkes birlikte gülüyorsa, orasi neseli bir yer olmali, degil mi?</Dialogue>
+        <Dialogue ID="5">Hadi, birlikte gülelim~ Agzini tamamen yukari çevir~</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+        <AbnormalityCard ID="Alriune_flower">
+      <Abnormality>Alriune</Abnormality>
+      <CardName>Çiçek Yapraklari</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Kütüphaneci Maksimum Caninin (HP Max.) %10'undan fazla Hasar aldiginda, tüm düsmanlar 4-8 Denge Hasari alir ve Kütüphaneci 5-10 Can (HP) iyilestirir.</AbilityDesc>
+      <FlaborText>Gözyaslari yerine çiçek yapraklari dökerek, bana konustun. “Bir zamanlar topragin bir parçasiydik, bu yüzden senden burada ve simdi sonu konusmamani istiyorum.”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Gözlerim yok, ama her seyi görebiliyorum.</Dialogue>
+        <Dialogue ID="2">Tüm bu hayatlar ve nefeslerle mezara geri dönelim.</Dialogue>
+        <Dialogue ID="3">Bu çiçekler sonsuzca açiyor ve hiçbiri solmuyor.</Dialogue>
+        <Dialogue ID="4">Çatlagim... ama yine de o yeri güzel çiçekler dolduruyor.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Alriune_Bush">
+      <Abnormality>Alriune</Abnormality>
+      <CardName>Güz Adimi</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Vuruldugunda, 1 Aroma uygula.
+(Aroma: Bir Sahnenin basinda, Aroma miktarina esit Denge Hasari al ve Aroma miktarini yariya indir.)</AbilityDesc>
+      <FlaborText>Toza dönme umudunu tasiyarak, tüm o yasama arzusunu mezara geri götürecek.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Kefaretim, sogukta agir bir nefesle sona erdi.</Dialogue>
+        <Dialogue ID="2">Karanlik ormanda terk edildim; Zihnim, hayatim ve kalbim soldu.</Dialogue>
+        <Dialogue ID="3">Toprakta dogdum, bu yüzden ona geri dönmeyi arzuluyorum.</Dialogue>
+        <Dialogue ID="4">Lütfen bunu son animiz olarak düsünme.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Alriune_Doll">
+      <Abnormality>Alriune</Abnormality>
+      <CardName>Bahar Yaratilisi</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Her Sahne, rastgele bir düsmana bir 'Yaprak' eklenir.
+Bir karakter tek bir Sahnede 4 darbe aldiktan sonra, Tüm karakterler 3-7 Denge Hasari alir ve Kütüphaneci bir sonraki Sahnede hedef alinamaz.</AbilityDesc>
+      <FlaborText>Solmayan çiçekler siddetle açti.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Dilegimi gerçeklestirecek olan sen misin?</Dialogue>
+        <Dialogue ID="2">Solmayan çiçeklerle umutsuzluga dogru görkemli inisim basladi.</Dialogue>
+        <Dialogue ID="3">Bahar, islenen günahlarin tekrar affedildigi bir mevsimdir.</Dialogue>
+        <Dialogue ID="4">Bu dünyada sadece kisacik bir an için kaliyoruz.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="SilentOrchestra_Music">
+      <Abnormality>Sessiz Orkestra</Abnormality>
+      <CardName>Sonsuz Performans</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Ele 'Sonsuz Performans' Sayfasi ekle: 'Maliyet 3 - [Kullanildiginda] Sahneyi bitir. Bir sonraki Sahnenin basinda, kullanicinin Can (HP) ve Denge Direnci bu Sayfayi edindigi degerlere geri döner ve tüm Isigi yeniler.'
+Bu Sayfa ayrica sonraki Eylemlerin basinda Desteye dahil edilir.</AbilityDesc>
+      <FlaborText>Performans bitmiyor ve Da Capo. Ve, Da Capo al Fine</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Kirik ve harabelerden, en güzel performansi baslatiyorum.</Dialogue>
+        <Dialogue ID="2">Sessiz bir notanin ortasinda duran tek bir sanatçi. Olmadigi yerde sesler yaratir.</Dialogue>
+        <Dialogue ID="3">Ellerim durmak zorunda kalsa bile, zihninizden dogacak.</Dialogue>
+        <Dialogue ID="4">Bu göz kamastirici Sahne yakinda tekrar hazir olacak.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+ <AbnormalityCard ID="SilentOrchestra_Affect">
+      <Abnormality>Sessiz Orkestra</Abnormality>
+      <CardName>Coskulu Hayranlik</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Tüm düsmanlar 2 Sahne boyunca kendi müttefikleri dahil rastgele bir hedef seçer. Bu etki sürerken düsmanlar +2-4 Hasar verir.</AbilityDesc>
+      <FlaborText>Orkestra müzige ivme kazandirarak tüm daireyi ölümlerine götürür. Tüm sanatçilar bir araya geldiginde, kimsenin duyamadigi, ama herkesin isitebilecegi müzik baslar.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Kimsenin duyamadigi, ama herkesin isitebilecegi müzik...</Dialogue>
+        <Dialogue ID="2">Sessiz bir performansi dinlemek için koltuklarina gidecek izleyicilere.</Dialogue>
+        <Dialogue ID="3">Melodi müzige sizar ve müzik insanlara sizar.</Dialogue>
+        <Dialogue ID="4">Kendini kapatma, görkemli müzigi seyretmek için gözlerini aç.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="SilentOrchestra_Finale">
+      <Abnormality>Sessiz Orkestra</Abnormality>
+      <CardName>Final</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Seçilen Kütüphaneci bir düsmani Dengesizlestirdiginde, tüm düsmanlar bir sonraki Sahnenin basinda 1-6 Isik kaybeder.</AbilityDesc>
+      <FlaborText>“Müzik tüm varligini delip geçecek.”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Müzik tüm varligini delip geçecek.</Dialogue>
+        <Dialogue ID="2">Eger iki ayagin üzerinde durabilirsen, o zaman sana övgülerimi gönderecegim.</Dialogue>
+        <Dialogue ID="3">Yönetmeni bir kez daha batonunu kaldirmasi için tesvik etmek için sonsuz bir alkis.</Dialogue>
+        <Dialogue ID="4">Güzel melodi bos Sahneyi çevreliyor.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+  
+  
+  <Sephirah SephirahType="Keter">
+    <AbnormalityCard ID="Bloodbath_Blood">
+      <Abnormality>Kan Banyosu</Abnormality>
+      <CardName>Kan</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Savunma Zarlari 1-2 Güç kazanir.
+Vuruldugunda +3-5 Denge Hasari al.</AbilityDesc>
+      <FlaborText>Dayanilmaz bir depresyon, banyoya bakan herkesi bunaltir.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">O kisi acisini sakince içine alamadi.</Dialogue>
+        <Dialogue ID="2">Bu derin umutsuzluga dayanabilir misin?</Dialogue>
+        <Dialogue ID="3">içeri gel. Bu korkunç kan havuzuna dal.</Dialogue>
+        <Dialogue ID="4">Her seyi birak, gözlerini kapa ve bu dipsiz havuza bat.</Dialogue>
+        <Dialogue ID="5">Ne kadar kan eklersen ekle, küvet asla tasmaz.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Bloodbath_Scar">
+      <Abnormality>Kan Banyosu</Abnormality>
+      <CardName>Yaralar</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Kesici saldirilardan 2-5 daha az Hasar al.
+Vuruldugunda, %20 sansla saldirilarin Hasarini 0'a indirir.</AbilityDesc>
+      <FlaborText>Kestigi bilegindeki tüm yaralari gördügümde, sarap mahzenimi hatirladim. O gün, sonuncusunu açtim.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Kendi bilegini kesmek çok irade gücü ve cesaret ister.</Dialogue>
+        <Dialogue ID="2">O insanlara aptal deme. En büyük korkak sensin.</Dialogue>
+        <Dialogue ID="3">Yaralar basarisizlik isaretleridir, ama ise yaramaz degiller.</Dialogue>
+        <Dialogue ID="4">Küveti yavasça dolduran bu aciyi sev.</Dialogue>
+        <Dialogue ID="5">Kesimin derinligi o andaki zihin ve iradeye baglidir.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Bloodbath_Hands">
+      <Abnormality>Kan Banyosu</Abnormality>
+      <CardName>Solgun Eller</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Ayni hedefe karsi üç basarili saldiridan sonra, 3-10 ek Denge Hasari ver.
+(Farkli bir hedefe saldirdiginda sifirlanir, Alan Saldirilari Hariç)</AbilityDesc>
+      <FlaborText>Birçok el banyoda yüzüyor.
+Onlar, bir zamanlar sevdigim insanlarin elleri.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Senin, belki de bizim sevdigimiz birinin elleri içeride dinleniyor.</Dialogue>
+        <Dialogue ID="2">O eller tutacak birini bekliyor, dileklerini yerine getirir misin?</Dialogue>
+        <Dialogue ID="3">Parmaklarinin arasindan kayip gideni ne kadar arzulasan da yakalayamazsin...</Dialogue>
+        <Dialogue ID="4">O eller yardim istiyor, ama kimse onlara bakmaya zahmet etmiyor.</Dialogue>
+        <Dialogue ID="5">Çok titremesi gerekiyordu, biçak her an elinden kayip gidebilirdi.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="HeartofAspiration_Heart">
+      <Abnormality>Arzu Kalbi</Abnormality>
+      <CardName>Nabiz</CardName>
+       <AbilityDesc>[Tüm Müttefikler]
+Her Sahne sonunda 1-2 Güç kazanir.
+Her Sahne sonunda, Kütüphaneci Saldiri Zarlariyla Hasar vermediyse, Maksimum Caninin (HP Max.) %25'ini kaybeder. (Maks. 30)</AbilityDesc>
+      <FlaborText>Asiri arzu, istenmeyen bir çilginlik getirebilir.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Çok fazla arzu, yanlis yönlendirilmis bir çilginliga yol açandir.</Dialogue>
+        <Dialogue ID="2">Bu kadar güç kazandiginda neden her seyi arzulamiyorsun?</Dialogue>
+        <Dialogue ID="3">Gücü olan, onu kullanma hakkina sahip olmalidir.</Dialogue>
+        <Dialogue ID="4">Evet, kalbinin hizli atisini hisset.</Dialogue>
+        <Dialogue ID="5">Çaresizce arzuladigimiz ortak bir hedefimiz var gibi, o yüzden izin ver de sana yardim edeyim.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="HeartofAspiration_Doki">
+      <Abnormality>Arzu Kalbi</Abnormality>
+      <CardName>Kiskirtma</CardName>
+     <AbilityDesc>[Yalnizca Bir Müttefik]
+Maksimum Cani (HP Max.) %15 artir. (Mevcut Can buna göre artar)
+1-2 Hiz kazanir.</AbilityDesc>
+      <FlaborText>Ödünç alindiginda, kasilma orani iki katina çikar, ödünç alanin gücünü ve kuvvetini artirir.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Asla arzulamaktan vazgeçme, ta ki atislar bir cevap verene kadar.</Dialogue>
+        <Dialogue ID="2">Patlamak üzere olan bu duygunun sonunu görmek istemez misin?</Dialogue>
+        <Dialogue ID="3">Arzuladigim her seye bir anlam ver.</Dialogue>
+        <Dialogue ID="4">Bu çilgin nabiz atisinda bana katil.</Dialogue>
+        <Dialogue ID="5">Senin arzularin atislari daha hizli yapacak.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="HeartofAspiration_Atk">
+      <Abnormality>Arzu Kalbi</Abnormality>
+      <CardName>Coskulu Atislar</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bu Sayfa seçildikten sonraki üçüncü Sahnenin sonunda seçilen Kütüphaneci ölür.
+Ölene kadar her Sahne 4 Güç, Dayaniklilik, Hiz ve Koruma kazanir. Tüm Denge Hasari dirençleri "Etkisiz" olarak degisir.</AbilityDesc>
+      <FlaborText>Sahibi olmayan bir kalp; vücuttan çikarildiktan sonra bile hala atiyor.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Evet, kalbinin hizli atisini hisset.</Dialogue>
+        <Dialogue ID="2">Eger arzu etmeye devam eder ve onu dindirmek için hiçbir sey yapmazsan, sonunda çok büyür ve patlar.</Dialogue>
+        <Dialogue ID="3">Bu çilgin ve hizli nabiz atisinda bana katil.</Dialogue>
+        <Dialogue ID="4">Bir gün patlamam gerekse bile, bunun sonunu görmek istiyorum.</Dialogue>
+        <Dialogue ID="5">Ne kadar çok arzu edersen, atislar o kadar hizlanir.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Pinocchio_Learn">
+      <Abnormality>Pinokyo</Abnormality>
+      <CardName>Ögrenme</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Ele 'Ögrenme' Sayfasi ekle: 'Maliyet 2 - [Çatisma Baslangicinda] Tüm zarlari rakibin Sayfasindaki zarlarla degistir'
+Bu Sayfa ayrica sonraki Eylemlerin basinda Desteye dahil edilir.</AbilityDesc>
+      <FlaborText>Çocugun yapabilecegi tek sey, baskalarini gözlemleyerek "Ögrenmek" ve davranislarini kopyalamakti. Sorun da buydu.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Her zaman oldugu gibi ögrenmekle ilgileniyorum. Benim ögrenmemi izlemek ister misin?</Dialogue>
+        <Dialogue ID="2">insanlar bana nasil konusacagimi ögretti.</Dialogue>
+        <Dialogue ID="3">Hizli ögrenmiyorum. Gördügümü kopyalamam gerekiyor.</Dialogue>
+        <Dialogue ID="4">Baskalarini taklit etmek zor degil. Düsünmek zorunda kalmiyorum.</Dialogue>
+        <Dialogue ID="5">Birçok sey ögrendim, ama asla bir yere gitmiyorum.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Pinocchio_Lie">
+      <Abnormality>Pinokyo</Abnormality>
+      <CardName>Yalanlar</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Sahnenin basinda, orijinal maliyeti 4'ten az olan tüm Sayfalarin Maliyeti rastgele olur.</AbilityDesc>
+      <FlaborText>insanlar sürekli yalan söylüyor, neden bu kötü bir sey?</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">insanlar ters seyler söylemeyi sever.</Dialogue>
+        <Dialogue ID="2">Kendi çikarlari için degilmis. Herkesin iyiligi için yalan söylüyorlarmis...</Dialogue>
+        <Dialogue ID="3">Lalala... Tüm insanlarin söyledigi yalan sarkisini söylüyorum.</Dialogue>
+        <Dialogue ID="4">Dünyayi ters görüyorum, insanlar bana böyle ögretti.</Dialogue>
+        <Dialogue ID="5">Herkes yalan söylüyor, neden kötü bir sey oldugunu söylüyorsun?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Pinocchio_Curious">
+      <Abnormality>Pinokyo</Abnormality>
+      <CardName>Merak</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Sahnenin basinda, elindeki tüm Sayfalari desteye karistir ve 4 sayfa çek.</AbilityDesc>
+      <FlaborText>Her zaman oldugu gibi ögrenmekle ilgileniyorum. Benim ögrenmemi izlemek ister misin?</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Hala bilmek istedigim çok sey var. Ögrenilecek çok sey var.</Dialogue>
+        <Dialogue ID="2">Birçok sey görürsem... Hepsini ögrenir miyim?</Dialogue>
+        <Dialogue ID="3">Bunu merak ediyorum... sunu merak ediyorum... Oh, bu ne?</Dialogue>
+        <Dialogue ID="4">Daha önce hiç görmedim... nereden geliyor ve nasil?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="TheSnowQueen_Sord">
+      <Abnormality>Kar Kraliçesi</Abnormality>
+      <CardName>Buz Kiymigi</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Çatisma kazandiginda, %50 sansla bir sonraki Sahnede 1-3 Baglama uygula.
+Baglama durumundaki bir düsmana karsi +2-5 Denge Hasari ver.</AbilityDesc>
+      <FlaborText>Donmus kis ormaninda tek basina yasayan bir kraliçe.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bu kilicin kenari soguk ve keskin.</Dialogue>
+        <Dialogue ID="2">Sadece baharin sicakligi bu kilici eritebilir.</Dialogue>
+        <Dialogue ID="3">Kiliç tam olarak nereyi hedefleyecegini biliyor.</Dialogue>
+        <Dialogue ID="4">Bir gün, karin erimesi için yeterince sicak oldugunda, bu kiliç da gidecek.</Dialogue>
+        <Dialogue ID="5">Bu silah kalbini delip geçtiginde, bir anligina kendine yabancilasacaksin.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="TheSnowQueen_Chu">
+      <Abnormality>Kar Kraliçesi</Abnormality>
+      <CardName>Bir Öpücük</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Tek bir Savas Sayfasiyla 2 veya daha fazla Çatisma kazandiktan sonra, rakibe Buz Kiymigi uygula.
+Her Sahne sonunda, 3 veya daha fazla Buz Kiymigi olan karakterler bir sonraki Sahne boyunca Hareketsiz Kalir.
+      </AbilityDesc>
+      <FlaborText>Kar Kraliçesi'nin Öpücügü kalbini dondurdu ve artik sogugu hissedemedi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Sadece güllerin kokusunu bilenler tüm bunlara bir son getirebilir.</Dialogue>
+        <Dialogue ID="2">Bir zamanlar sicak bir kalbin olmaliydi.</Dialogue>
+        <Dialogue ID="3">Sogugu unutmak, anilari unutmak ve en sonunda...</Dialogue>
+        <Dialogue ID="4">Soguga karsi duyarsizlasan bir kalp çözülebilir mi?</Dialogue>
+        <Dialogue ID="5">Sadece cesur bir kalp donmus olani kurtarabilir.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="TheSnowQueen_Snow">
+      <Abnormality>Kar Kraliçesi</Abnormality>
+      <CardName>Kar Firtinasi</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Seçilen Kütüphaneci hariç tüm karakterler bu Sahne boyunca Hareketsiz Kalir.
+Bir sonraki Sahne, tüm düsmanlar 6 Baglama alir.</AbilityDesc>
+      <FlaborText>Bahar, güllerin açmasiyla gelir. Sicakligi, Kar Kraliçesi'nin sarayini eritti. Kimse onu, altinda uyuyan, hatirlamadi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Kimse bu yerde uyudugumu fark etmiyor.</Dialogue>
+        <Dialogue ID="2">Bu kar eridiginde, ben de unutulacagim.</Dialogue>
+        <Dialogue ID="3">Kalen eriyor, nihayet sicak bahar mi geldi...?</Dialogue>
+        <Dialogue ID="4">Tamamen açan güller bana baharin geldigini isaret ediyor.</Dialogue>
+        <Dialogue ID="5">O kisi artik bu sogugu daha fazla arzulamamis olmali.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+     <AbnormalityCard ID="QuietKid_Hammer">
+      <Abnormality>Sessiz Kiz</Abnormality>
+      <CardName>Çekiç ve Çivi</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Delici bir saldiri gerçeklestirdiginde, Hedefe 1 'Çivi' uygula.
+'Çivi'leri olan bir karakter Küt bir saldiriyla vurulursa, üzerindeki Çivi sayisinin 5 kati kadar ek Hasar alirlar, ardindan tüm Çiviler kaldirilir.</AbilityDesc>
+      <FlaborText>Çiviyi çekiciyle çaktiginda, zihindeki çatlak çok büyür ve tamamen kirilir.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Acaba zihninde bir çivi çakabilecegim bir çatlak var mi?</Dialogue>
+        <Dialogue ID="2">Bir yariga çivi çakildiginda, iki kat büyür.</Dialogue>
+        <Dialogue ID="3">Zihnindeki yüklerle çabuk ilgilenmeliydin.</Dialogue>
+        <Dialogue ID="4">Çatlamis bir zihnin tamiri yoktur.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="QuietKid_Eyeshine">
+      <Abnormality>Sessiz Kiz</Abnormality>
+      <CardName>Okuma</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+iki kat fiziksel Hasar ver ve al.</AbilityDesc>
+      <FlaborText>Kiz sessiz kalir. Sadece derin gözleriyle senin içindeki özü süzer.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">...</Dialogue>
+        <Dialogue ID="2">......</Dialogue>
+        <Dialogue ID="3">.........</Dialogue>
+        <Dialogue ID="4">Çok titriyorsun. Neden korkuyorsun?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="QuietKid_Guilty">
+      <Abnormality>Sessiz Kiz</Abnormality>
+      <CardName>Suçluluk</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Denge Hasarini 1-3 azalt.
+Vuruldugunda, saldirgan bu karakterin aldigi fiziksel Hasara esit Denge Hasari alir.</AbilityDesc>
+      <FlaborText>Ancak, "Suçluluk" veya "Korku" tasiyan biriyle karsilastiginda, kiz arkasinda sakladigi bir çivi ve çekici ortaya çikarir.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Hala o aci verici anilara sahipsin... Zavalli.</Dialogue>
+        <Dialogue ID="2">Sorumlulugu baskalarina yüklememelisin. Bu istiraba sadece sen katlanmalisin.</Dialogue>
+        <Dialogue ID="3">Çok mesguldün kaçmakla, degil mi?</Dialogue>
+        <Dialogue ID="4">Canim, çok... saskin görünüyorsun, degil mi?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+  
+  
+  <Sephirah SephirahType="Tiphereth">
+    <AbnormalityCard ID="QueenOfHatred_Laser">
+      <Abnormality>Nefret Kraliçesi</Abnormality>
+      <CardName>Ask</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Saldiri Zari kullanarak Çatisma kazandiktan sonra, rastgele bir müttefik 3-5 Can (HP) iyilestirir.
+Bir Savunma Zari kullanarak Çatisma kazandiktan sonra, rastgele bir müttefik 2-4 Denge Direnci iyilestirir.</AbilityDesc>
+      <FlaborText>Ask ve Adalet adina~ iste Büyülü Kiz geliyor!</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Endiselenmeyin. Ben buradayken güvende olacaksiniz!</Dialogue>
+        <Dialogue ID="2">Her zaman bana güvenebilirsiniz! Sizi güvende tutacagim.</Dialogue>
+        <Dialogue ID="3">Gerçek bir büyülü kiz asla zorluklardan kaçmaz!</Dialogue>
+        <Dialogue ID="4">Bir sey olursa söyle bana, tamam mi? Yardimci olabilecegimi biliyorum!</Dialogue>
+        <Dialogue ID="5">Lütfen herhangi bir tehlike oldugunda beni aramaktan çekinmeyin~!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="QueenOfHatred_Gun">
+      <Abnormality>Nefret Kraliçesi</Abnormality>
+      <CardName>Adalet</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Önceki Sahnede müttefiklere en çok Hasari veren düsman 'Kötü Adam' olarak isaretlenir.
+'Kötü Adam'a saldirdiginda +3-5 Hasar ver.</AbilityDesc>
+      <FlaborText>Eger ben iyi taraftaysam, o zaman birisinin kötü tarafta olmasi gerekir. Kötü adam olacak kimse olmasaydi, ben var olamazdim.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Nihayet, bir kötü adam ortaya çikti! Dikkatli olun millet.</Dialogue>
+        <Dialogue ID="2">Sorun degil. Kötü adamlarla ben ilgilenirim!</Dialogue>
+        <Dialogue ID="3">Ask ve Adalet adina~ Geldim!</Dialogue>
+        <Dialogue ID="4">Toplumu rahatsiz edenler adalete teslim edilecektir.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+ <AbnormalityCard ID="QueenOfHatred_Snake">
+      <Abnormality>Nefret Kraliçesi</Abnormality>
+      <CardName>Nefret</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Çatisma kaybettikten sonra, 2-4 Denge Hasari al ve bir sonraki Sahnede 1 Güç kazan. (Sahne basina en fazla 2)
+Tek bir Sahnede üç Çatisma kaybettikten sonra, eldeki en pahali Sayfanin Maliyetini 1 azalt. (Sahne basina bir kez)</AbilityDesc>
+      <FlaborText>Dünyadaki her seyi sevmeye yemin etti, ama geriye kalan tek sey çökmüs bir kalpti.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Neden herkes mutlu? Herkes mutluysa benim varolus nedenim yok...</Dialogue>
+        <Dialogue ID="2">Seçilmis olan benim. Dünya'yi koruyacak kisi ben olmazsam kim koruyacak?</Dialogue>
+        <Dialogue ID="3">Kimseyi koruyamadim...</Dialogue>
+        <Dialogue ID="4">Barisçil bir dünyadan nefret ediyorum... Sanki... Sanki artik gerekli degilmisim gibi...</Dialogue>
+        <Dialogue ID="5">Herkesin kahramani olmayi hak ediyorum. Bunun için dogdum...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="KnightOfDespair_Gaho">
+      <Abnormality>Umutsuzluk sövalyesi</Abnormality>
+      <CardName>Kutsama</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Karakter önceki Sahnede saldirilardan Hasar aldiysa, bu karakterin en çok Hasar veren türe karsi direncini Sahne boyunca "Dayanikli" olarak degistir. (Hasar ve Denge Hasari ayri ayri uygulanir)</AbilityDesc>
+      <FlaborText>Koruma istegi, bunca zamandan sonra bile degismemis gibi görünüyor; hatta gözetim odasinda bile. Hala koruma eylemine takintili.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Geriye kalan tek sey bos bir sövalye onurudur.</Dialogue>
+        <Dialogue ID="2">Koruma için bir sansim daha olsaydi...</Dialogue>
+        <Dialogue ID="3">Endiselenmene gerek yok. Bu sefer seni güvende tutacagim.</Dialogue>
+        <Dialogue ID="4">Huzur içinde uyumak için...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="KnightOfDespair_Sword">
+      <Abnormality>Umutsuzluk sövalyesi</Abnormality>
+      <CardName>Gözyaslariyla Bilenen Kiliçlar</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Basarili delici saldirida, eger Zar sonucu maksimum degerse, Hedefin Maksimum Caninin (HP Max.) %10'u kadar ek Hasar ver. (Maks. 12, Alan Saldirilari Hariç)</AbilityDesc>
+      <FlaborText>Adalet bir kez daha sirtini döndügünde, onlarca kiliç amaçsizca dolasacak. Kiliçlar sonunda koruyamadiklarini hedef alacak.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Gözyaslari ve umutsuzlukla bilenmis bu kilicin kenari her zaman isabetlidir.</Dialogue>
+        <Dialogue ID="2">Bu kilica yemin ettim, umutsuzluk örsünde gözyaslariyla bilenmis.</Dialogue>
+        <Dialogue ID="3">Kötü oyun yasaktir. Merhamet de olmayacak...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="KnightOfDespair_Despair">
+      <Abnormality>Umutsuzluk sövalyesi</Abnormality>
+      <CardName>Umutsuzluk</CardName>
+      <AbilityDesc>[Tüm Müttefikler]
+Bir Müttefik öldügünde, tüm müttefikler 1-3 Güç ve Hiz kazanir ve tüm düsmanlar 2 Kirilganlik alir.</AbilityDesc>
+      <FlaborText>Üzüntü gibi, belki de yükü paylasmak kilici körlestirir.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">içimde kabaran umutsuzluk gözlerimden ve kalbimden tasiyor...</Dialogue>
+        <Dialogue ID="2">Bu umutsuzluk benim için ne anlama geliyor...?</Dialogue>
+        <Dialogue ID="3">Neden baskalarini tekrar tekrar kaybetmek zorundayim... Neden...</Dialogue>
+        <Dialogue ID="4">Bir kez daha, sonsuz bir umutsuzluk beni dolduruyor...</Dialogue>
+        <Dialogue ID="5">Onlari korumaya yemin ettim, ama yine de onlari kaybettim...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  
+    <AbnormalityCard ID="Greed_Break">
+      <Abnormality>Açgözlülük Krali</Abnormality>
+      <CardName>Dizginlenemezlik</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Eger Savas Sayfasinin ilk Zari bir Çatisma kazanirsa, %25 sansla rakibin Zarindaki kalan tüm zarlari yok et.</AbilityDesc>
+      <FlaborText>Arzunun ilk tohumu, saf mutluluk arzusundan kaynaklandi. Küçük tohum büyüdü ve büyüdü, daha fazlasina açti. Zamanla, tohum sertlesti ve parlak bir mücevher parçasi oldu.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Kafamin içinde bir düsünce yankilandi. Açgözlülükle islanmis bir düsünce, beni mutlulugu kovalamaya ikna etti.</Dialogue>
+        <Dialogue ID="2">Çiçekler varken bal için sehvet duymak kötü mü?</Dialogue>
+        <Dialogue ID="3">Baslangiçta, saf bir mutluluk arzusu vardi.</Dialogue>
+        <Dialogue ID="4">Mutluluk arzusu ayni kalacakti.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Greed_Protect">
+      <Abnormality>Açgözlülük Krali</Abnormality>
+      <CardName>Mutluluk Yolu</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Sahnede kazanilan her Çatisma için 1 Dayaniklilik kazan. (Sahne basina en fazla 3)</AbilityDesc>
+      <FlaborText>Mutluluk takintiya, takinti açgözlülüge dönüstü ve açgözlülük sertleserek seni altin bir kehribara dönüstürdü. Baslangicin mutlulugu, hala bir gülümsemeyle, içinde yasiyor.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Sonunda, bir zamanlar saf olan arzu somutlasti, altin bir Kehribara dönüstü ve sertlesti.</Dialogue>
+        <Dialogue ID="2">Bu açgözlülük sonsuza dek parlak bir sekilde parlayacak.</Dialogue>
+        <Dialogue ID="3">Böylesine güzel bir varligin çekiciligine nasil karsi koyulur.</Dialogue>
+        <Dialogue ID="4">Herkesin mutlulugunu arzularken beni de dahil etmeli...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Greed_Eat">
+      <Abnormality>Açgözlülük Krali</Abnormality>
+      <CardName>Açgözlülük</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Çatismada, kazanan zar sonucu kaybedeninkinden 4 veya daha fazlaysa, kaybeden 3-7 ek Hasar alir ve kazanan 2-5 Can (HP) iyilestirir. (Hem Kütüphaneci hem de Rakip bu etkiyi tetikleyebilir)</AbilityDesc>
+      <FlaborText>Artik büyülü kiz olmayan büyülü kiz birçok sey yedi. Otorite, para, söhret ve diger birçok zevk biçimi. Gözünün gördügü her seyi yemeyi bitirdi. simdi, sadece sonsuz bir açgözlülük kaldi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Mücevher, açgözlü istahi körükledi.</Dialogue>
+        <Dialogue ID="2">Ama açgözlülük sonsuzlugu arar, derin bir sonsuzlugu.</Dialogue>
+        <Dialogue ID="3">Sepetim o kadar büyük ki, dünyanin tüm meyveleri onu dolduramaz.</Dialogue>
+        <Dialogue ID="4">Sepetimde hiçbir sey kalmadi. Sadece sonsuz bir açgözlülük kaldi.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+        <AbnormalityCard ID="Angry_Angry">
+      <Abnormality>Öfkenin Hizmetkari</Abnormality>
+      <CardName>Öfke</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Seçilen Kütüphaneci Öfke durumuna girer.
+Kütüphaneci kontrol edilemez hale gelir ve müttefikler dahil rastgele karakterlere saldirir.
+Ayrica, Kütüphaneci her Sahne 2 Güç kazanir, 2 Isik yeniler ve 2 ek Sayfa çeker.</AbilityDesc>
+      <FlaborText>Hizmetkar, ilkelerini terk ettikten ve birine tüm kalbiyle safça güvendikten sonra ihanete ugradi. simdi, yaptigi sey için kendine karsi öfke tarafindan tüketiliyor.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">GRRRR!!!</Dialogue>
+        <Dialogue ID="2">UUUGH... AAARGH!!!</Dialogue>
+        <Dialogue ID="3">AAAAH!!!</Dialogue>
+        <Dialogue ID="4">BAsKA DÜNYALARIN GÜNAHKARLARI!!! KÖTÜLÜgÜN ENKARNASYONLARI!!!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+<AbnormalityCard ID="Angry_Friend">
+      <Abnormality>Öfkenin Hizmetkari</Abnormality>
+      <CardName>Yoldaslik</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+'Yoldaslik' mevcut degilken, seçilen Kütüphanecinin vurdugu ilk düsman o olarak isaretlenir. Seçilen Kütüphaneci 'Yoldaslik' karakterini yendiginde, tüm Kütüphaneciler 3 Isik yeniler, 10 Can (HP) ve Denge Direnci iyilestirir.</AbilityDesc>
+      <FlaborText>Öfkenin Hizmetkari adalete ve dengeye herkesten daha çok deger veriyordu, ama kralliginin bir düsmani olan Kesis ile gizlice arkadas olarak bilgi paylasmaya basladi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Beni çagir... Adimla çagir beni...</Dialogue>
+        <Dialogue ID="2">Arkadas... Arkadasim... Birbirine ihtiyaç duyanlar...</Dialogue>
+        <Dialogue ID="3">Biz... gerçek arkadaslardik... Degil mi?</Dialogue>
+        <Dialogue ID="4">Benim için en degerli iliskiydi, ne oldu...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Angry_Poison">
+      <Abnormality>Öfkenin Hizmetkari</Abnormality>
+      <CardName>Asit Çamuru</CardName>
+      <AbilityDesc>[Tüm Düsmanlar]
+Tüm düsmanlara 5 'Asinma' uygula. Asinma durumundaki düsmanlar ayrica mevcut Asinma miktarlarina esit Baglama kazanir.
+(Asinma: Sahne sonunda, Asinma miktarina esit Hasar al ve 1 azalt; vuruldugunda, Asinma miktarina esit ek Hasar ve Denge Hasari al.)</AbilityDesc>
+      <FlaborText>ikisi sonunda karsilastiginda, Kesis, Hizmetkarin dünyasini yok etmek için sayisiz tebaa getirdi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Denge bozulur ve adalet kaybolur...</Dialogue>
+        <Dialogue ID="2">Kaybetme sebebim buydu; Sevgili bir yoldasa yenildim.</Dialogue>
+        <Dialogue ID="3">Onlari kullan ve onlar da seni kullansin. Biz buyuz.</Dialogue>
+        <Dialogue ID="4">Bu daha önce de oldu... hepsi onlarin iyiligi için...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="NihilClown_Card">
+      <Abnormality>Nihil Palyaçosu</Abnormality>
+      <CardName>Büyülü Kizlar</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Sahnenin basinda, eldeki en yüksek Maliyetli (4'ten az olan) Savas Sayfasi Büyülü Bir Sembol ile isaretlenir.
+isaretli Sayfa ile 4 çatisma kaybettikten sonra, her Sahne 5 Koruma kazanir ve Kabulün geri kalani boyunca durum etkilerine karsi bagisiklik kazanir.
+Ayrica, vuruldugunda, bir sonraki Sahnede saldirana 1 Asinma ve Kirilganlik uygula. (Sahne basina iki kez)</AbilityDesc>
+      <FlaborText>Palyaço, herkesin yürüdügü bir yolu geriye dogru takip etti. Palyaço her zaman yolun sonunda kendini buldu. Onlarin palyaçoyu yaratmak için bir araya gelip gelmedigini, yoksa palyaçonun onlara benzemek için mi geldigini bilmenin bir yolu yoktu.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Beni sen mi yaptin, yoksa ben mi seni yaptim?</Dialogue>
+        <Dialogue ID="2">Ben onlara benziyorum ve onlar bir aradayken bana benziyorlar.</Dialogue>
+        <Dialogue ID="3">Yavasça yolu geriye dogru izledim. Bu, senin yürüyecegin yol.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="NihilClown_Nihil">
+      <Abnormality>Nihil Palyaçosu</Abnormality>
+      <CardName>Bosluk</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Ele 'Her sey Bosluga Döner' Sayfasi ekle: 'Maliyet 3 - [Çatisma Baslangicinda] Eldeki tüm Sayfalari Tükenir. Bundan sonraki her Sahne, bu sekilde Tükenen kart sayisina esit Güç ve Dayaniklilik kazanir.'</AbilityDesc>
+      <FlaborText>Palyaço derin düsünüyordu, o zavalli palyaço. Ona yol gösterecek bir köpek yavrusu olmadan, anlamsiz adimlarla yürüyor.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Dogru yol nerede? Nereye gidiyorum?</Dialogue>
+        <Dialogue ID="2">Önümde neyin bekledigini bilmiyorum. Bir uçurum mu, yoksa bir hendek mi?</Dialogue>
+        <Dialogue ID="3">O parlayan köpek nerede, yol göstermesi gerektiginde?</Dialogue>
+        <Dialogue ID="4">Zihnim bosluk, düsüncelerim bos. Daha özgürlestikçe daha az korkuyorum.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="NihilClown_fusion">
+      <Abnormality>Nihil Palyaçosu</Abnormality>
+      <CardName>Hiçlik</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bu Sayfa yalnizca Kütüphanecinin su dört Anormallik Sayfasina sahip olmasi durumunda etkilidir: 'Açgözlülük', 'Nefret', 'Umutsuzluk' ve 'Öfke'.
+Bir Sahnenin basinda, tüm karakterlere 5 Güçsüzlük, Silahsizlandirma ve Baglama uygula. 'Açgözlülük', 'Nefret' ve 'Öfke' dezavantajlarini kaybeder.</AbilityDesc>
+      <FlaborText>Kendi içgüdülerine güvenmeye karar veren palyaço, attigi her adimla yolda karsilastigi herkesin adini söyledi..</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Saçmaliklarla yol gösteriyorum, beni yönlendirecek hiçbir sey yok.</Dialogue>
+        <Dialogue ID="2">Arzu ve kiskançlikla kör olmus, isteyerek uçurumun kenarina yürüyor.</Dialogue>
+        <Dialogue ID="3">Eger dogru bir yöntem yok gibi görünüyorsa kafan karistiysa, sadece içgüdülerine güven!</Dialogue>
+        <Dialogue ID="4">Herkesin istirabi bir olur.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+
+
+  <Sephirah SephirahType="Gebura">
+    <AbnormalityCard ID="Redhood_Hunt">
+      <Abnormality>Parali Asker Kirmizi Baslikli Kiz</Abnormality>
+      <CardName>Av</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bu Sayfa seçildikten sonra bu Kütüphanecinin saldirdigi ilk düsmani isaretle.
+isaretli bir düsmana saldirdiginda +2-6 Hasar ver.</AbilityDesc>
+      <FlaborText>Kurt'un ölümü, hayatimda sevebilecegim tek seydir.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Ben bir profesyonelim. Bununla kolayca basa çikabilirim.</Dialogue>
+        <Dialogue ID="2">Gözlerini ayirma. Hareketlerine odaklan.</Dialogue>
+        <Dialogue ID="3">Hedefe odaklandiktan sonra, ava kendini ada. Ne pahasina olursa olsun pes etme.</Dialogue>
+        <Dialogue ID="4">Hedefe odaklan ve ona kos, ne olursa olsun öldürme kararliligina sahip ol.</Dialogue>
+        <Dialogue ID="5">Eger bir istekte bulunursan, o zaman sana yardim edebilirim.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Redhood_Revenge">
+      <Abnormality>Parali Asker Kirmizi Baslikli Kiz</Abnormality>
+      <CardName>intikam</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Sahnenin basinda, önceki Sahnede alinan Hasar miktarina göre Güç kazanir. (Her 5 Hasar için 1 Güç, en fazla 2)</AbilityDesc>
+      <FlaborText>Aramizda, kazanilacak bir zafer yok. Tek düsündügüm, o piçi geçen seferden daha korkunç ve aci verici yollarla nasil öldürecegim.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">O lanet Kurt'u kafasini kesmek için biçagimi biliyordum.</Dialogue>
+        <Dialogue ID="2">O korkunç, kurnaz piçi bana ver.</Dialogue>
+        <Dialogue ID="3">Kafasini yatagimin üzerine asacagim. Ancak o zaman sabah bir kabus görmeden uyanabilirim.</Dialogue>
+        <Dialogue ID="4">Her sey düsmani okumak içindi. simdi iyiligin karsiligini verme zamani.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Redhood_RedScar">
+      <Abnormality>Parali Asker Kirmizi Baslikli Kiz</Abnormality>
+      <CardName>Kirmizi Baslikli Kiz</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Eger Kütüphanecinin Cani (HP) %50/%35/%25 veya daha azsa, her Sahne 1/2/4 Güç kazanir.</AbilityDesc>
+      <FlaborText>15 yasimdayken çiçek toplamak yerine baltayi bilemeye alistim.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bu, hayatta kalanin gururlu bir dekorasyonu degil. Bu, yasama irademin kaniti.</Dialogue>
+        <Dialogue ID="2">Ne kadar çok yaran olursa, hayatta kalma iraden o kadar güçlenir.</Dialogue>
+        <Dialogue ID="3">Bununla gurur duyma. Bu, yeterince yetenekli olmadiginin bir isareti.</Dialogue>
+        <Dialogue ID="4">...Bu yaralara baktigimda çok kötü hissediyorum. Öfkeyle titrememe neden oluyor.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+     <AbnormalityCard ID="BigBadWolf_Claw">
+      <Abnormality>Kötü Olabilen Büyük Kötü Kurt</Abnormality>
+      <CardName>Vahsi Pençeler</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Kütüphaneci Maksimum Caninin (HP Max.) %25'inden fazla Hasar aldiktan sonra, bir sonraki Sahne boyunca Hedef Alinamaz ve Çatismaya Girilemez.
+Kütüphaneci o Sahne 2 Güç kazanir ve basarili her saldirisiyla 1 Kanama uygular.</AbilityDesc>
+      <FlaborText>Bir zamanlar, bu pençeler birçok yaratigin karnini açar ve bagirsaklarini yirtardi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Ne kadar keskin pençeleri vardi, dogdugum rolü oynamak için elimden gelenin en iyisini yapabilirim...</Dialogue>
+        <Dialogue ID="2">Kurt, kötü seyler yapmak ve buna göre cezalandirilmak için dogdu...</Dialogue>
+        <Dialogue ID="3">O siddetli ve vahsi pençeler her zaman taze etin derisini yirtardi...</Dialogue>
+        <Dialogue ID="4">Hiçbir sey birinin bagirsaklarini yirtmak için o pençelerden daha iyi degildi...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="BigBadWolf_Eat">
+      <Abnormality>Kötü Olabilen Büyük Kötü Kurt</Abnormality>
+      <CardName>içgüdü</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Seçilen Kütüphaneci bir Çatisma kazandiginda, mevcut Sayfasinin son Zari 1-2 Güç kazanir.
+Son Zariyla basariyla vurdugunda 3-7 Can (HP) iyilestirir.</AbilityDesc>
+      <FlaborText>Bu kadar uzun süre yapmadiktan sonra etin tadi çok güzeldi. O zamandan beri, kendini tutmak giderek zorlasti. Yine de, umursamadi. Sonuçta, o bir "Büyük Kötü Kurt" olmaya "Mahkum"du.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Burasi igrenç bir koku yayiyor... Beni çagiriyor...</Dialogue>
+        <Dialogue ID="2">Karanlikla dolu bos bir ay gibi, karnim etle doldurulmali...</Dialogue>
+        <Dialogue ID="3">Sana bakmak beni salyalarimi akitiyor...</Dialogue>
+        <Dialogue ID="4">Karnimi doyurabilirsem... tatmin olurum...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="BigBadWolf_Change">
+      <Abnormality>Kötü Olabilen Büyük Kötü Kurt</Abnormality>
+      <CardName>Kurt'un Rolü</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Karsilik Saldiri Zarlari 1-2 Güç kazanir.
+Karsilik Saldiri Zarlari bir Çatisma kazandiginda 2 Kirilganlik uygular. (Sahne basina 3 kez)</AbilityDesc>
+      <FlaborText>Kurtlar kötü seyler yaparken çizgiyi asamazlardi. Ve kurtlar cezalandirilmak zorundaydi. Kurtlar her zaman bir örnek olmak zorundaydi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Önemli degil... Ben bir Büyük Kötü Kurt olmaya mahkumum...</Dialogue>
+        <Dialogue ID="2">Herkes bana öyle diyor, o yüzden dogru olmali... Eski masallar asla yanilmaz...</Dialogue>
+        <Dialogue ID="3">Bir Kurt'un isme ihtiyaci yok, sadece dogdugu role uyar...</Dialogue>
+        <Dialogue ID="4">Kimse korkutucu bir Kurt'a yaklasmak istemedi......</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+        <AbnormalityCard ID="Mountain_Eat">
+      <Abnormality>Gülen Cesetler Dagi</Abnormality>
+      <CardName>Emme</CardName>
+<AbilityDesc>[Yalnizca Bir Müttefik]
+Eylem süresi boyunca, bir düsmani yendiginde Maksimum Canin (HP Max.) %20'sini (Maks. 20) iyilestir.
+Bir Sahnenin basinda, Kütüphanecinin bu Eylemde iyilestirdigi Can (HP) miktarina göre Güç kazanir. (iyilestirilen Maksimum Canin (HP Max.) her %10'u için 1 Güç, en fazla 3)</AbilityDesc>
+      <FlaborText>Tek istedigi bir sey var: kana bulanmis etimiz. Kokuyu bir kez aldiginda, hemen pesimize düser.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Et... Lezzetli... et...</Dialogue>
+        <Dialogue ID="2">Koku... buradan...</Dialogue>
+        <Dialogue ID="3">Yeterli... degil... daha... fazla yemem gerek...</Dialogue>
+        <Dialogue ID="4">Daha fazla ceset... beni... daha güçlü... yapacak...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Mountain_Shout">
+      <Abnormality>Gülen Cesetler Dagi</Abnormality>
+      <CardName>Gülüs</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Kütüphaneci Cani (HP) %50 veya daha azken vuruldugunda, %50 sansla bir Çiglik patlatir. (Sahne basina en fazla 3 kez)
+Çiglik, tüm düsmanlara 2-5 Denge Hasari verir ve bir sonraki Sahnede 1 Kirilganlik uygular.</AbilityDesc>
+      <FlaborText>Cesetler Dagi'ndan; ölüm bir seye hayat verdi. Ölüm birbiriyle kaynasti, hepsi gülümsüyor.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Krrrh... Ghh... Grgh...</Dialogue>
+        <Dialogue ID="2">Birbirimize... yardim ediyoruz... ellerimizi... ve ayaklarimizi... paylasiyoruz...</Dialogue>
+        <Dialogue ID="3">Herkes... gülümsüyor... biz... mutluyuz...</Dialogue>
+        <Dialogue ID="4">Biz... bir aradayiz... yardim ediyoruz...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Mountain_Vomit">
+      <Abnormality>Gülen Cesetler Dagi</Abnormality>
+<CardName>Ceset Dagi</CardName>
+<AbilityDesc>[Yalnizca Bir Müttefik]
+Bu Sayfa seçildiginde, seçilen hariç tüm Kütüphaneciler derhal öldürülür. 
+Seçilen Kütüphaneci, savasin geri kalani boyunca öldürülen Kütüphaneci sayisiyla orantili olarak Maksimum Isik Kapasitesi, Isik Yenileme, Güç, Koruma ve Hiz kazanir.</AbilityDesc>
+      <FlaborText>Ne kadar çok ceset geçerse, sekli o kadar belirginlesti. Ve asla tatmin olmadi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Tekrar... tekrar bir olmam gerek...</Dialogue>
+        <Dialogue ID="2">Geri dönmem gerek... acele etmem gerek...</Dialogue>
+        <Dialogue ID="3">Hayir... bu... iyi degil...</Dialogue>
+        <Dialogue ID="4">Düsme... tekrar bir araya gelelim... biz biriz...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Nosferatu_BloodHope">
+      <Abnormality>Nosferatu</Abnormality>
+      <CardName>Su Korkusu</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Vurdugunda, bir sonraki Sahnede 1 Kanama uygula ve 1 Kan kazan. (Alan Saldirilari Hariç)
+'Kan' miktarina bagli olarak çesitli etkiler verir, örnegin Can (HP) pahasina saldiri Hasarini artirmak, Sahne basinda Denge Hasari almak ve Güç vermek.</AbilityDesc>
+      <FlaborText>Kayip görünüyordu. Bir sey ariyordu, ama ne bulmak istedigini bilmiyor gibiydi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Kan... Canli kan istiyorum!</Dialogue>
+        <Dialogue ID="2">Her türlü arzunun pesinden kosmaya izin verilen bir gece... Sonsuz, kan kirmizisi bir gece.</Dialogue>
+        <Dialogue ID="3">En saf ve berrak haliyle kan! Bana sonsuz mutluluk veriyor!</Dialogue>
+        <Dialogue ID="4">Ölüm dansi herkesle birlikte! Herkesin yenme sansi var!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Nosferatu_Wine">
+      <Abnormality>Nosferatu</Abnormality>
+      <CardName>sarap</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+'Kan'i olan bir düsmani yendiginde, tüm müttefikler 10 Can (HP) iyilestirir ve seçilen Kütüphaneci Maksimum 'Kan' kazanir.</AbilityDesc>
+      <FlaborText>insan formunu koruyor, ancak tek bir kan damlasi bile onun vahsi bir canavara dönüsmesi ve tüm geceyi kontrolsüz geçirmesi için yeterli olmalidir.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Ah... Bu susuzlugun acisini dindirmek pek hos bir manzara degil.</Dialogue>
+        <Dialogue ID="2">sekerleme için çok erken... Bana katilmaz ve zevki paylasmaz misin?</Dialogue>
+        <Dialogue ID="3">Sahte umudu unut ve insanlik iddiasini unut...</Dialogue>
+        <Dialogue ID="4">Dayanilmaz bir susuzlukla cezbedilen kadeh bosaldi.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Nosferatu_Vampire">
+      <Abnormality>Nosferatu</Abnormality>
+      <CardName>Vampirizm</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+'Kan'i olan bir düsmana saldirdiginda +2-4 Hasar ver ve 2-5 Can (HP) iyilestir. (Alan Saldirilari Hariç)</AbilityDesc>
+      <FlaborText>...Ve susuzluk asla gerçekten giderilemezdi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Ölüm dansi herkesle birlikte! Herkesin yenme sansi var!</Dialogue>
+        <Dialogue ID="2">Ziyafet zamani! Çilginlikla dolu kan kirmizisi gecenin tadini çikar, ta ki kalbin tatmin olana kadar!</Dialogue>
+        <Dialogue ID="3">Bu susuzluktan kaçis yok!</Dialogue>
+        <Dialogue ID="4">Hepsini isir! Son damlasina kadar iç!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="NothingThere_Goodbye">
+      <Abnormality>Orada Hiçbir sey Yok</Abnormality>
+      <CardName>Elveda</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Kütüphanecinin her Sahne oynadigi son zarin Gücünü iki katina çikar.</AbilityDesc>
+      <FlaborText>Eger kaçtigi ve iki ayaginin üzerinde durdugu dogrulanirsa, yapabilecegin tek bir sey var. Durusunu koru, ellerini dikkatlice birlestir ve durumun nasil gelistigini izlerken inandigin her seye dua et.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Yar... dim... et... Yar... YARDIM ET!!!</Dialogue>
+        <Dialogue ID="2">KiM... SE... VAR... MI?! KiM VAR ORADA!!!</Dialogue>
+        <Dialogue ID="3">Öl... mek... i... istemiyorum... Ölmek istemiyorum...</Dialogue>
+        <Dialogue ID="4">Merhaba. Mer-ha-ba. Mer... ha... ba... Merhaba.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="NothingThere_Hello">
+      <Abnormality>Orada Hiçbir sey Yok</Abnormality>
+      <CardName>Merhaba?</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Her Sahne, Kütüphanecinin oynadigi ilk Zar, verdigi Hasar miktari kadar Can (HP) iyilestirir.</AbilityDesc>
+      <FlaborText>“Daha da kötüsü, insanlari kopyalamaya çalisiyor. Aynaya bakmak, kendi kendine mirildanmak veya durusunu düzeltmeye çalismak gibi seyler yapiyor; sanki 'bizi' taklit etmeye çalisiyormus gibi.”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Can... avar. O... can... avar... O canavar... neden burada...</Dialogue>
+        <Dialogue ID="2">...Ardim!!! Kurtarin... beni!</Dialogue>
+        <Dialogue ID="3">O... o... kor... kunç... canavar... canavar...</Dialogue>
+        <Dialogue ID="4">er... erhaba... Merhaba? erhaba... Merhaba?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="NothingThere_Skin">
+      <Abnormality>Orada Hiçbir sey Yok</Abnormality>
+      <CardName>Kabuk</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Saldirilardan gelen tüm Denge Hasarini sifirlar.</AbilityDesc>
+      <FlaborText>Görünüsü bir insana benzer, ama kesinlikle insan degildir.  Kabugunu kullanabilmek için periyodik olarak çalisanlari yutar. iskelet ve organlar süreç sirasinda yerinden oynar, bu da tuhaf bir sekil almasina neden olur.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Se... vi... yo... rum... Seni seviyorum...</Dialogue>
+        <Dialogue ID="2">Bir kabuk... istiyorum... Kabuk...</Dialogue>
+        <Dialogue ID="3">Te... sek... kür... ler. Tesekkürler.</Dialogue>
+        <Dialogue ID="4">Harika... Harika. Harika.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+
+  
+  <Sephirah SephirahType="Chesed">
+    <AbnormalityCard ID="ScareCrow_Wisdom">
+      <Abnormality>Bilgelik Arayan Korkuluk</Abnormality>
+      <CardName>Koparilan Bilgelik</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Kütüphaneci bir Sayfa kullandiginda, eldeki rastgele bir Sayfayi iskartaya çikar ve 1 Isik yeniler. ( [Kullanildiginda] Sayfalari Hariç)</AbilityDesc>
+      <FlaborText>Geri döndügünde, kafasinda büyük, görünür bir yara izi vardi. insanlar ona nasil hissettigini sordu ve o da kafasinin daha hafif hissettigini söyledi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bilgelik... Bana eksik olan bilgeligi ver...</Dialogue>
+        <Dialogue ID="2">Kafam bos hissediyor... Sadece bir saman yiginiyim...</Dialogue>
+        <Dialogue ID="3">insanlar genellikle düsünmeden konusur... o beyinleri daha iyi kullanabilirim...</Dialogue>
+        <Dialogue ID="4">Bilge olmak nasil bir duygu merak ediyorum... her seyi bilmek...</Dialogue>
+        <Dialogue ID="5">Kafayi ayirmakta sorun yok, eger onu tekrar yerine koydugumda daha iyi olursa...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Scarecrow_Harvest">
+      <Abnormality>Bilgelik Arayan Korkuluk</Abnormality>
+      <CardName>Hasat</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Daha fazla Denge Direncine sahip bir düsmana saldirdiktan sonra, 2-4 ek Denge Hasari ver ve 2-5 Denge Direnci iyilestir. (Alan Saldirilari Hariç)</AbilityDesc>
+      <FlaborText>Belirli çalisanlara karsi agresif davranir, beyinlerini almaya çalisir. Bu çalisanlar, zeka testinde "Mükemmel" alanlardir.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Daha zeki hissediyorum... Artik her seyi bilebilirim...</Dialogue>
+        <Dialogue ID="2">iyi... Çok iyi... Ne kadar çok yersem o kadar zeki olurum, degil mi...?</Dialogue>
+        <Dialogue ID="3">Daha bilge mi oldum...? Belki de bir saman yiginindan daha fazlasi olurum...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Scarecrow_Rake">
+      <Abnormality>Bilgelik Arayan Korkuluk</Abnormality>
+      <CardName>Tirmik</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir düsmani Dengesizlestirdikten sonra, o düsmanin iki Sayfasini kopyala ve 2 Maliyet daha aziyla Kütüphanecinin eline ekle.
+Kopyalanan Sayfalar kullanildiginda Tükenir.
+(Yalnizca Yakin Dövüs Sayfalarini kopyalayabilir, eger Yalnizca Yakin Dövüs Anahtar Sayfasi takiliysa ve tersi; 'Isil Isil' pasifi olan karakterleri etkilemez)</AbilityDesc>
+      <FlaborText>Tirmik, tarim arazileri yerine insan beyinlerini sürdü. Aramizdaki kaç bilge insan bu tirmik yüzünden hayatini kaybetti?</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bilgeligini hasat edecegim...</Dialogue>
+        <Dialogue ID="2">Baskalari gibi zeki olmak istiyorum...</Dialogue>
+        <Dialogue ID="3">ilerlemek için bilgelik... onu istiyorum...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="LumberJack_Cut">
+      <Abnormality>iyi Kalpli Oduncu</Abnormality>
+      <CardName>Sicak Bir Kalp</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Sahnenin basinda, Kütüphanecinin 3 veya daha fazla Isigi varsa, Saldiri Zarlarinin Gücünü Sahne boyunca +1-2 artirir.</AbilityDesc>
+      <FlaborText>Öfkeyle, baltasini cadinin kalbine sapladi. Sicak kalp güçlü bir sekilde atiyordu.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bu... atan bir kalbe sahip olmak nasil bir duyguymus...</Dialogue>
+        <Dialogue ID="2">Kalbin yankisi ne kadar yüksek olursa... o kadar hizli hareket ederim...</Dialogue>
+        <Dialogue ID="3">Kalbin sahibi ne kadar nazik olursa... içim o kadar sicak olur...</Dialogue>
+        <Dialogue ID="4">Kalp ilginç bir sey... simdi gülebilirim...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="LumberJack_Tree">
+      <Abnormality>iyi Kalpli Oduncu</Abnormality>
+      <CardName>Odun</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Kütüphaneciden daha fazla Isigi olan bir hedefe saldirdiginda, Saldiri Zarlari Hedefin sahip oldugu Isik miktarina esit Güç kazanir. (en fazla 2)</AbilityDesc>
+      <FlaborText>Burasi kalplerle dolu bir orman. Kaç tane kesersem keseyim. Orman hala yogun kalacak.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Kesiyorum ve kesiyorum... Ama orman hala yogun...</Dialogue>
+        <Dialogue ID="2">Sicak olmak istiyorum... Daha güçlü bir seye ihtiyacim var...</Dialogue>
+        <Dialogue ID="3">Bu bos gögsün içine buldugum her seyi doldurdum... ama hala... soguk...</Dialogue>
+        <Dialogue ID="4">Daha fazla agaç kesmek için, baltamin keskinligini ihmal etmemeliyim...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="LumberJack_Heart">
+      <Abnormality>iyi Kalpli Oduncu</Abnormality>
+      <CardName>Kalp</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Tek bir Sahnede düsmanlara 15 veya daha fazla Hasar verdikten sonra, eldeki en pahali iki Sayfanin Maliyetini 1 azalt.
+Öldürme durumunda, bunun yerine Maliyeti 0'a indir.
+Azaltilan Maliyet, kullanildiktan sonra sifirlanir.</AbilityDesc>
+      <FlaborText>Asla yeterince kalp olmayacak. Bir zamanlar oduncuydu, simdi agaçlar yerine insanlari kesiyor.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bu boslugu doldurmak için... bir nesneye ihtiyacim var...</Dialogue>
+        <Dialogue ID="2">Artik bu boslugu ve yalnizlik hissini asla hissetmek istemiyorum...</Dialogue>
+        <Dialogue ID="3">Kursundan yapilmis kalp... sert ve soguktu.</Dialogue>
+        <Dialogue ID="4">Bos gögsümü tuttum ve üzüldüm...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+   <AbnormalityCard ID="House_LionAtk">
+      <Abnormality>Eve Giden Yol</Abnormality>
+      <CardName>Cesaret</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Sahnenin basinda, yasayan müttefik sayisinin 2 eksigi kadar Güç ve Koruma kazan. (Eger deger 0'dan küçükse, bunun yerine Güçsüzlük ve Kirilganlik uygula.)</AbilityDesc>
+      <FlaborText>Sonsuza dek seni takip edebilir miyim? Böylece onlari yirtabilirim...</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Arkadas. Sen yanimdayken korkacak hiçbir seyim yok!</Dialogue>
+        <Dialogue ID="2">Hepimiz yola çiktik~ Yol boyunca dans ederek!</Dialogue>
+        <Dialogue ID="3">Arkadas. Ah, arkadaslar~! Korkmayalim!</Dialogue>
+        <Dialogue ID="4">Bizi durdurabilecek hiçbir sey yok!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="House_BigHouse">
+      <Abnormality>Eve Giden Yol</Abnormality>
+      <CardName>Ev</CardName>
+      <AbilityDesc>[Tüm Müttefikler]
+Bir Sahnenin basinda, yasayan müttefik sayisina bagli olarak düsmanlara 3/2/2/1/1'e kadar sayilar yerlestirilir.
+Bir Hedef dogru sirayla her saldirildiginda, Sahne boyunca son Hasari 3 artir.</AbilityDesc>
+      <FlaborText>Eve dönemeyenler, sonsuz bir yolculuga basladilar.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bizi rahatsiz etmeyin! Huzur içinde eve gitmemize izin verin!</Dialogue>
+        <Dialogue ID="2">Ah~ O cadi! O kötü cadi!</Dialogue>
+        <Dialogue ID="3">O kötü cadi arkadaslarimi aldi!</Dialogue>
+        <Dialogue ID="4">Arkadaslar. Ah, arkadaslar. Eve gidecek miyiz?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="House_Home">
+      <Abnormality>Eve Giden Yol</Abnormality>
+      <CardName>Birlikte Yürümek</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir müttefik bu karaktere yönelik saldiriyi yönlendirirse, müttefikin zari Çatismada 1-2 Güç kazanir.</AbilityDesc>
+      <FlaborText>Birlikte yürüyelim. Harika topraklara... Rüya dünyasina.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Derin uykudaydim, sonra macera aniden basladi.</Dialogue>
+        <Dialogue ID="2">Hoyoyo~ Hadi, birlikte~!</Dialogue>
+        <Dialogue ID="3">Birlikte eve dogru ziplayalim!</Dialogue>
+        <Dialogue ID="4">Yolun sonunda harika bir yer olmali...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Ozma_Boom">
+      <Abnormality>Ozma</Abnormality>
+      <CardName>Geçmisin Gücü</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Savas Sayfalarinin Maliyetini 1 artir.
+Tüm Zarlar 3-4 Güç kazanir.</AbilityDesc>
+      <FlaborText>Ozma balkabagi oyma biçagini tuttu ve Cadinin olmasi gereken yere dogru kostu.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Ben Ozma'yim... Tek bir kisi benden her seyi aldi...</Dialogue>
+        <Dialogue ID="2">Artik soyulan bir hayat yasamak istemiyorum...</Dialogue>
+        <Dialogue ID="3">Ayni seyi hissetmeni istiyorum... Her seyi unutmanin... her seyi kaybetmenin sefaletini...</Dialogue>
+        <Dialogue ID="4">Bu sefer ben olacagim bir seyler alan...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Ozma_forgotten">
+      <Abnormality>Ozma</Abnormality>
+      <CardName>Unutulmusluk</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Ele 'Unutulmusluk' Sayfasi ekle: 'Maliyet 3 - [Kullanildiginda;] [Tükenir] Bu Sahne boyunca Hareketsiz Kalir; Hedef alinamaz. Bu Sahne sonunda, Maksimum Canin (HP Max.) %40'ini (en fazla 48) iyilestirir ve tüm Isigi yeniler.'</AbilityDesc>
+      <FlaborText>Orada iyi ve güzel bir insan vardi, ona saskin bir ifadeyle bakiyordu.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Neden bir yabanciya bu kadar safça güvendim ki... neden...</Dialogue>
+        <Dialogue ID="2">Yüzüme bile dokunmadim... çok korkuyordum...</Dialogue>
+        <Dialogue ID="3">Böyle bir hayatta yapabilecegim tek sey hayatta kalmak...</Dialogue>
+        <Dialogue ID="4">Yere hapsolmus unutulmus bir varlik... Neden ben olmak zorundaydim ki...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Ozma_Immortal">
+      <Abnormality>Ozma</Abnormality>
+      <CardName>Yasam Tozu</CardName>
+      <AbilityDesc>[Tüm Müttefikler]
+Bir Kütüphaneci ölümcül Hasar aldiginda, onu sifirla ve Maksimum Canin (HP Max.) %20'sini (en fazla 24) iyilestir. Kabul basina sadece bir kez etkinlestirilebilir.</AbilityDesc>
+      <FlaborText>Sonunda, en sevdigi olan tarçin tozunu serpti ve balkabagini ellerinde tuttu.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bana kalan tek sey... bu çocuklar.</Dialogue>
+        <Dialogue ID="2">Al, çocuk... Sana yeni bir hayat verecegim.</Dialogue>
+        <Dialogue ID="3">Geri gel benimle, böylece yalniz kalmayacaksin...</Dialogue>
+        <Dialogue ID="4">Hayir... Benim olani alma, bir daha asla...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Oz_Emerald">
+      <Abnormality>Yalan Söyleyen Yetiskin</Abnormality>
+      <CardName>Zümrüt</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Ele 'Zümrüt' Sayfasi ekle: 'Maliyet 5 - [Kullanildiginda;] [Düsman Hedef] Hedefin Hiz Zarindaki rastgele 2 Savas Sayfasini iptal et. Bu Sahne boyunca Hedefe yapilan basarili her darbe için 1 Isik yeniler (en fazla 2)'
+Bu Sayfa ayrica sonraki Eylemlerin basinda Desteye dahil edilir.</AbilityDesc>
+      <FlaborText>Oz'un parlak bir fikri vardi. Zümrüt gözleri daha da parliyor gibiydi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Zümrüt yollar her zamanki gibi parliyor.</Dialogue>
+        <Dialogue ID="2">O zavalli, zavalli bir kizdi... Gözleri tipki benimkiler gibiydi.</Dialogue>
+        <Dialogue ID="3">Bu yolu takip et. Aradigini bulabilirsin.</Dialogue>
+        <Dialogue ID="4">Dileklerini gerçeklestirecegim. Ne arzuluyorsun?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Oz_Gift">
+      <Abnormality>Yalan Söyleyen Yetiskin</Abnormality>
+      <CardName>Sahte Hediye</CardName>
+      <AbilityDesc>[Tüm Müttefikler]
+E.G.O Sayfa Listesine Maliyeti 0 olan 'Sahte Hediye' Sayfalari ekler: 'Sivi Cesaret', 'Talas Torbasi', 'Kursun Kalp', 'Ulasilamaz Ev' ve 'Dönüsüm'.
+'Sahte Hediye' Sayfalari ayrica sonraki Eylemlerin basinda E.G.O Sayfa Listesine eklenir.</AbilityDesc>
+      <FlaborText>Zavalli Ozma. Yalan söyleyen yetiskinlerin sebepsiz yere baskalarina yaklasmadigini bilmiyordu.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Daha yakina gel. Tüm dertlerini ve endiselerini unutturmana yardim edecegim.</Dialogue>
+        <Dialogue ID="2">Sen bir makinesin, degil mi? Bir makine için kalp gerekli degildir.</Dialogue>
+        <Dialogue ID="3">Bu iksiri iç. Sana cesaret verecek. Herkesten daha cesur olacaksin.</Dialogue>
+        <Dialogue ID="4">Bu ayakkabilari giy ve yoluna devam et. Çok özledigin memleketine.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Oz_Control">
+      <Abnormality>Yalan Söyleyen Yetiskin</Abnormality>
+      <CardName>Sihirbazlik Numarasi</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Ele 'Sihirbazlik Numarasi' Sayfasi ekle: 'Maliyet 4 - [Kullanildiginda] Eldeki tüm Sayfalarin Maliyetini 0'a indir. Kullanildiginda, Maliyetleri bu etkiden önceki degerine sifirlanir.'</AbilityDesc>
+      <FlaborText>Yakinda, Oz insanlar tarafindan bir cadi olarak adlandirilacak.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Zavalli saman yigini. Sana her seyi düsünebilmen için bilgelik verecegim.</Dialogue>
+        <Dialogue ID="2">Teneke Oduncu. Sana herkesi affedebilmen ve sevebilmen için bir kalp verecegim.</Dialogue>
+        <Dialogue ID="3">Korkak Kedi. Sana herkese karsi durabilmen için cesaret verecegim.</Dialogue>
+        <Dialogue ID="4">Son olarak, kayip yol. Seni eve gönderecegim.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+  
+  
+  <Sephirah SephirahType="Binah">
+    <AbnormalityCard ID="Bigbird_Eye">
+      <Abnormality>Büyük Kus</Abnormality>
+      <CardName>Gözetleyici Gözler</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Seçilen Kütüphanecinin Isigini tamamen yeniler.
+Her Sahne, rastgele bir müttefik Isik kazanmazken seçilen Kütüphaneci 1 ek Isik yeniler.</AbilityDesc>
+      <FlaborText>Gözler her zaman parlak bir sekilde parladi, gece gökyüzündeki yildizlar gibi yaniyordu. Ama o, ormani koruyabilsin diye Büyük Kus'a gözlerini verdi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Ormanda kurtardigim her yaratik için gözlerim sayisi artiyor.</Dialogue>
+        <Dialogue ID="2">Etrafi dikkatlice izleyebilecek gözlere ihtiyacim var, bu yeri güvende tutmak için.</Dialogue>
+        <Dialogue ID="3">En küçük yaratigi bile gözden kaçirmayacagim...</Dialogue>
+        <Dialogue ID="4">Endiselenme. Seni güvende tutacagim...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+      
+    <AbnormalityCard ID="Bigbird_Lamp">
+      <Abnormality>Büyük Kus</Abnormality>
+      <CardName>Sonsuz Lamba</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bu Kütüphaneci tarafindan hedeflenen bir düsman, Hiz ne olursa olsun geri saldirmaya zorlanir.</AbilityDesc>
+      <FlaborText>“Eger tüm yaratiklari önce ben öldürürsem, o zaman kimse canavar tarafindan öldürülmez!”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bu lambayi takip et. Hepsini kurtaracagim.</Dialogue>
+        <Dialogue ID="2">Tüylerimden vazgeçerek... sonsuza dek yanabilecek bir isik kazandim.</Dialogue>
+        <Dialogue ID="3">Buraya gel. Sana yardim edecegim.</Dialogue>
+        <Dialogue ID="4">Önümüzdeki yolu aydinlatalim, böylece kurtarmam gereken hayatlari iyi görebilirim.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+      
+    <AbnormalityCard ID="Bigbird_Save">
+      <Abnormality>Büyük Kus</Abnormality>
+      <CardName>Kurtulus</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Tüm Zarlar, daha yüksek Hiza sahip düsmanlara karsi +1 Güç kazanir.
+Eger Hedefin Cani (HP) %25 veya daha azsa, bir Çatisma kazandiginda tüm Zarlarini yok et.</AbilityDesc>
+      <FlaborText>Bu Kus için ölüm, kurtulusun kendisidir.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Eger onlari önce ben öldürürsem, o zaman kimse canavar tarafindan öldürülmez!</Dialogue>
+        <Dialogue ID="2">Bu ormanda büyük, korkunç bir canavar yasiyor! Dikkatli ol.</Dialogue>
+        <Dialogue ID="3">Tehlikedeki bir çocugun benim korumama ihtiyaci var.</Dialogue>
+        <Dialogue ID="4">Zayif ve güçsüzler için... Öncülük etmeliyim.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+      
+    <AbnormalityCard ID="SmallBird_Punishment">
+      <Abnormality>Cezalandirici Kus</Abnormality>
+      <CardName>Ceza</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Hasar aldiktan sonra, Kütüphanecinin bir sonraki Sahnede kullandigi ilk Sayfanin ilk Zari 2-4 Güç kazanir. ( [Kullanildiginda] Sayfalari Hariç)</AbilityDesc>
+      <FlaborText>“Bunun nedeni, insanlarin yanlis eylemleri için kimsenin onlari cezalandirmamasi olmali. Eger biri bu rolü üstlenirse, o zaman bu dünyada artik suç islenmez!”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Eger onlari cezalandirirsam, artik kötü insanlar olmaz, degil mi?</Dialogue>
+        <Dialogue ID="2">Affetmenin bir anlami yok. Yanlis bir eylem, yanlis bir eylemdir.</Dialogue>
+        <Dialogue ID="3">iste bu! Bunun nedeni, dünyadaki tüm kötü insanlari kimsenin cezalandirmamasi olmali.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+      
+    <AbnormalityCard ID="SmallBird_Beak">
+      <Abnormality>Cezalandirici Kus</Abnormality>
+      <CardName>Cezalandirici Gaga</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Kütüphanecinin Hasar almadan geçirdigi Sahne sayisi kadar ek Hasar verir. (Maks. 10)</AbilityDesc>
+      <FlaborText>insanlar uzun zamandir günah isliyorlar. “Neden yanlis oldugunu bilmelerine ragmen günah isliyorlar?”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Neden yanlis oldugunu biliyorlarsa günah isliyorlar?</Dialogue>
+        <Dialogue ID="2">Onlara iyi bir azar çekecegim, böylece bir daha yanlis eylemler yapmayi düsünmeyecekler.</Dialogue>
+        <Dialogue ID="3">su andan itibaren kötü seyler yapma!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+      
+    <AbnormalityCard ID="Smallbird_Fly">
+      <Abnormality>Cezalandirici Kus</Abnormality>
+      <CardName>Küçük Kanat Çirpislari</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Kaçinma Zarlari 1-2 Güç kazanir.
+Bir Kaçinma Zari kullanarak Çatisma kazandiginda, bir sonraki Saldiri Zari 1-2 Güç kazanir.</AbilityDesc>
+      <FlaborText>Kötü, suçlu ve her türlü saygisiz insani cezalandiran küçük, emin bir kus.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Ormandan ayrildim ve asla geri dönmedim.</Dialogue>
+        <Dialogue ID="2">Yükseklerde uçalim. Umarim dünya daha iyiye dogru degisir.</Dialogue>
+        <Dialogue ID="3">Kanat çirpisim dünyayi degistirmek için gereken sey olabilir!</Dialogue>
+        <Dialogue ID="4">Heyecanla, kanatlarimi aktif olarak çirptim.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+      
+    <AbnormalityCard ID="LongBird_Sin">
+      <Abnormality>Yargi Kusu</Abnormality>
+      <CardName>Günahin Agirligi</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bu Kütüphanecinin oynadigi bir Zar minimum sonucu aldiginda, 2-7 Hasar al ve bir sonraki Sahnede 1-2 Güç ve Dayaniklilik kazan.</AbilityDesc>
+      <FlaborText>Terk Edilmis'in terazisi en küçük günahin agirligini bile göz ardi edemezdi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Günahlarini tartma zamani.</Dialogue>
+        <Dialogue ID="2">Hiçbir günahin agirligini göz ardi etmeyecegim.</Dialogue>
+        <Dialogue ID="3">Günahlarinin agirligi, cezanin agirligini belirleyecek.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+      
+   <AbnormalityCard ID="LongBird_Scale">
+      <Abnormality>Yargi Kusu</Abnormality>
+      <CardName>Egik Terazi</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+En çok Cani (HP) olan düsmana saldirdiktan sonra, en az Cani olan müttefikin Canini 2-8 iyilestir. (Sahne basina 3 kez, Alan Saldirilari Hariç)</AbilityDesc>
+      <FlaborText>Geriye kalan tek sey egik bir terazidir. Kus yargilamaya devam etti.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bu Terazi her zaman net bir karar verir; Onunla saglam ve kesin bir yargi yapabilirim.</Dialogue>
+        <Dialogue ID="2">Benim öznel bakis açim adil bir yargiyi etkileyebilir.</Dialogue>
+        <Dialogue ID="3">Ya Terazi bir gün hiçbir yöne egilmezse...? Buna izin veremem.</Dialogue>
+        <Dialogue ID="4">Terazim, tüm kötü varliklar kaybolana kadar görevini birakmayacak.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+      
+    <AbnormalityCard ID="LongBird_Judgement">
+      <Abnormality>Yargi Kusu</Abnormality>
+      <CardName>Yargi</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Sahnenin basinda, Tüm karakterler %50 sansla 1 'Günah' kazanir.
+Eger bir karakterin 5+ 'Günah'i varsa, Sahnenin basinda Maksimum Caninin (HP Max.) %10'u kadar Hasar alir ve tüm 'Günah' kaldirilir.
+'Günah', baska bir karaktere saldirarak ve Hasar vererek transfer edilebilir. (Sayfa basina bir kez)</AbilityDesc>
+      <FlaborText>Sonra biri, “Peki ya Terazi bir gün hiçbir yöne egilmezse?” dedi. Endiselenen Kus, Terazinin her zaman bir tarafa egilmesini sagladi. Böylece tüm yargilar net bir karar verecekti.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bu teraziyi kaldirdigimda, suçluya ölümsüzlük diliyorum.</Dialogue>
+        <Dialogue ID="2">Herkese adil bir yargi verecegim, yanlis eylemlerini isaret ederek...</Dialogue>
+        <Dialogue ID="3">Ormani korumak için. Teraziyi kaldiracagim. Sonsuz Yargi alacaklar.</Dialogue>
+        <Dialogue ID="4">Bu ormanda yasayan tüm canavarlari yargilamak için...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+        <AbnormalityCard ID="ApocalypseBird_BigEye">
+      <Abnormality>Kiyamet Kusu</Abnormality>
+      <CardName>Büyük Gözler</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Sahnenin basinda, tüm düsmanlara 'Büyülenmis' uygula.
+'Büyülenmis' düsmanlar bu Kütüphaneciyi Hedef olarak önceliklendirir ve saldirilariyla +2-4 Hasar verir.
+'Büyülenmis' düsmanlara karsi Çatismalarda 1-2 Güç kazanir ve bir Çatisma kazandiginda 2-5 Can (HP) ve Denge Direnci iyilestirir.</AbilityDesc>
+      <FlaborText>Büyük Kus'un gözleri isigi hapsetti.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Parlak isik tuzaga düsürüldü.</Dialogue>
+        <Dialogue ID="2">O korkuyla yüzlesmek zorunda kalmadan önce özgür olalim...</Dialogue>
+        <Dialogue ID="3">Tek bir hareketle. Sana rahat ve kalici bir dinlenme verecegim...</Dialogue>
+        <Dialogue ID="4">Dikkatli olmaliyim, herhangi bir davetsiz misafiri kollamaliyim.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="ApocalypseBird_SmallPeak">
+      <Abnormality>Kiyamet Kusu</Abnormality>
+      <CardName>Küçük Gaga</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Ele 'Küçük Gaga' Sayfasi ekle: 'Maliyet 0 - [Kullanildiginda;] [Ele Geri Döner] Maksimum Canin (HP Max.) %5'i kadar Hasar al; 1 Isik yeniler.'</AbilityDesc>
+      <FlaborText>Ve Küçük Kus'un küçük gagasi, durmaksizin fisildadi...</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Fisildiyorum... durmaksizin...</Dialogue>
+        <Dialogue ID="2">Hepimiz günahlarimiz için cezalandiriliyoruz, ama daha fazlasinin günahin köklerinden fiskiracagi açik.</Dialogue>
+        <Dialogue ID="3">Bu yüzden, ceza günahi kökünden sökmeli......</Dialogue>
+        <Dialogue ID="4">Onlari küçük ama sert gagamla cezalandirmaliyim.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+        <AbnormalityCard ID="ApocalypseBird_LongArm">
+      <Abnormality>Kiyamet Kusu</Abnormality>
+      <CardName>Uzun Kollar</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Belirli durum etkilerinden (Yakma, Kanama, Peri, Günah) Hasar almaz.</AbilityDesc>
+      <FlaborText>Uzun Kus'un Kollari zamani gizledi.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Zamani sakladim.</Dialogue>
+        <Dialogue ID="2">Seni kiniyorum, ama yine de sonsuza dek daha fazla günah isleyeceksin...</Dialogue>
+        <Dialogue ID="3">Adalet Terazim'in egilmedigi bir gün asla olmayacak...</Dialogue>
+        <Dialogue ID="4">Benim adil Terazim kimin daha kötü oldugunu belirleyecek.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="ApocalypseBird_Apocalypse">
+      <Abnormality>Kiyamet Kusu</Abnormality>
+      <CardName>Canavar</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Seçilen Kütüphaneci bu Anormallik Sayfalarinin tümüne sahip oldugunda etkinlesir: 'Büyük Gözler', 'Küçük Gaga', 'Uzun Kollar'.
+Bu karakteri hedefleyen veya hedefleyen karakterlerin tüm Zarlari Güç artisi veya azalmasindan etkilenmez ve sonuçlarinin minimum ve maksimum degeri 3 azalir.
+Bir Sahnenin sonunda, tüm karakterler 15 Hasar alir ve bu Karakter tüm Isigi yeniler.</AbilityDesc>
+      <FlaborText>Büyük Kus'un gözlerinin yüzlerce kilometre uzagi görebildigi, Uzun Kus'un herhangi bir günahi yargilayabildigi ve Küçük Kus'un agzinin her seyi yutabildigi gün, karanlik ormana çökecek.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Kötülügün tüm degerli esyalarimi benden almasina izin veremem.</Dialogue>
+        <Dialogue ID="2">Keske yanimdaki her seyi yutabilseydim...</Dialogue>
+        <Dialogue ID="3">Daha fazla insani korumak için güçlerimizi birlestirdik.</Dialogue>
+        <Dialogue ID="4">Acele etmeli ve onu bulmaliyim. Canavarin bu yeri yok etmesine izin veremem...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="ApocalypseBird_Gate">
+      <Abnormality>Kiyamet Kusu</Abnormality>
+      <CardName>Ormanin Gardiyanlari</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Tüm Kütüphaneciler Kabul süresi boyunca her Sahnenin basinda 1 Hiz kazanir.
+Bes Kütüphanecinin de bir Anormallik Sayfasi varsa, ayrica 1-2 Güç ve Dayaniklilik kazanirlar.</AbilityDesc>
+      <FlaborText>iste o zaman Kuslar Orman'in gardiyanlari olmaya karar verdiler. Bu ormani herkesten daha çok sevdiler, bu yüzden ormanda yasayan her yaratigi korumak ve huzuru korumak istediler.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Herkesten çok sevdigimiz bu yeri korumak için.</Dialogue>
+        <Dialogue ID="2">Zavalli hayatlarin rahat içinde yasayabilecegi bir dünya umuyoruz.</Dialogue>
+        <Dialogue ID="3">Bu yeri koruyabilecek tek kisiler biziz.</Dialogue>
+        <Dialogue ID="4">Gardiyan olmali ve hayatlari kurtarmaliyiz.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+<AbnormalityCard ID="ApocalypseBird_Atk">
+      <Abnormality>Kiyamet Kusu</Abnormality>
+      <CardName>Huzur</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+'Davetsiz Misafir' mevcut degilken, seçilen Kütüphanecinin saldirdigi ilk düsman 'Davetsiz Misafir' olarak isaretlenir. (Alan Saldirilari Hariç)
+'Davetsiz Misafir'in tüm saldirilari 2-4 daha az Hasar ve Denge Hasari verir; ayrica, 'Davetsiz Misafir' saldirilardan 1-2 ek Hasar alir.</AbilityDesc>
+      <FlaborText>Kus ormanda dolasmaya basladi, canavari ariyordu. Ama hiçbir sey yoktu. Hiçbir yaratik yoktu, Günes ya da Ay yoktu. Geriye kalan tek sey Kus ve Karanlik Orman'di.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Korkuya dayanabilenler huzura kavusacak...</Dialogue>
+        <Dialogue ID="2">Hiçbir sey sana zarar vermeye cesaret edemeyecek.</Dialogue>
+        <Dialogue ID="3">Sona ulastiginda, korku diye bir sey yoktur...</Dialogue>
+        <Dialogue ID="4">Huzur ve sessizlik ormana geri döndü.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+
+  
+  <Sephirah SephirahType="Hokma">
+    <AbnormalityCard ID="Bloodytree_Wing">
+      <Abnormality>Cenneti Kazmak</Abnormality>
+      <CardName>Kanli Kanatlar</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Hasar Saptirirken, Blok Zarinin sonucunun yarisini fiziksel Hasar olarak rakibe ver.</AbilityDesc>
+      <FlaborText>Dikkatinizi kaybettigini anladiginda... Kanatlarini açar. Bir melek gibi, kanatlari göklere ulasir ve dünyaya yayilir, sonunda günesi engeller.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Herkesin bakisinin ve dikkatini tadini çikararak... Sonunda meyve verir ve kanatlarini açar.</Dialogue>
+        <Dialogue ID="2">Kanatlarini açan, sahip oldugu her seyi feda etti ve hala...</Dialogue>
+        <Dialogue ID="3">Eger tekrar gözlerimizi açarsak, emegimizin meyvesini o bakista görebilecek miyiz?</Dialogue>
+        <Dialogue ID="4">Buraya gelme... Sadece dikenli bir agaç var. Dinlenecegin bir yer yok...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Bloodytree_Gaze">
+      <Abnormality>Cenneti Kazmak</Abnormality>
+      <CardName>Baskalarinin Bakisi</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Tek tarafli bir saldirida +2-4 Hasar ver.
+Bir Çatismada, saldirilarla 3-6 daha az Hasar ver, ama Blok Zarlari 1-3 Güç kazanir.</AbilityDesc>
+      <FlaborText>iste bakis budur. Dikkat. Bizi birbirine baglayan görünmez bir iplik.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Sadece gözlerini kapat. Sorun degil, iyi yapiyorsun...</Dialogue>
+        <Dialogue ID="2">Eger kapatamazsan, ona ulasamazsin.</Dialogue>
+        <Dialogue ID="3">Ulasilamaz olana duyulan arzu sadece büyür. Ve onu kovalamak için... dikenli bir yolda yürümelisin.</Dialogue>
+        <Dialogue ID="4">Bir kez hatirlayip tekrar baktiginda... Karanlik ve derin yeraltina geri dönecek...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Bloodytree_Forcus">
+      <Abnormality>Cenneti Kazmak</Abnormality>
+      <CardName>Dikkat ve Konsantrasyon</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Hasar Saptirirken iki kat Denge Hasari ver ve al.</AbilityDesc>
+      <FlaborText>Bakisini saptirma, ona gözlerini dik. Onu bakisinin içinde tut.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bu nefes kesici manzaraya gözlerini kirpmayacaksin.</Dialogue>
+        <Dialogue ID="2">Ona bakmaya devam et... Sürekli... O yasiyor, sana geri bakiyor.</Dialogue>
+        <Dialogue ID="3">Onu bakisinin içinde tut...</Dialogue>
+        <Dialogue ID="4">Sen bana bakiyorsun... ve ben de sana bakiyorum...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+        <AbnormalityCard ID="Clock_Time">
+      <Abnormality>Sessizligin Bedeli</Abnormality>
+      <CardName>Zaman</CardName>
+      <AbilityDesc>[Tüm Müttefikler]
+Savas Asamasi baslamadan önce oyuncunun Savas Sayfasini seçmek için 30 saniyesi vardir.
+Kütüphanecinin tüm Zarlarinin Gücünü 1-2 artirir.</AbilityDesc>
+      <FlaborText>Zaman hayat gibi akar ve hayat zaman gibi akar.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Yeterli zamana sahip olmamak anlamsiz bir sikayettir.</Dialogue>
+        <Dialogue ID="2">Yarin gelebilir veya gelmeyebilir.</Dialogue>
+        <Dialogue ID="3">Kaybettiginden daha fazla zaman verilecek sana.</Dialogue>
+        <Dialogue ID="4">Zaman herkese esit verilir, ama kader onu adaletsiz yapar.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Clock_Thirteen">
+      <Abnormality>Sessizligin Bedeli</Abnormality>
+      <CardName>On Üçüncü Çan</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Kütüphanecinin her 13 Savas Sayfasi için 1-2 Güç kazanir. ( [Kullanildiginda] Sayfalari Hariç)
+Sayfadaki Zar ayrica su etkiyi kazanir: ‘[Vurdugunda] Hedefin Maksimum Caninin (HP Max.) (Zar Degeri)%’si kadar ek Hasar ver.’</AbilityDesc>
+      <FlaborText>Mutlak yalnizligi biliyorum. Sessizligimi paylastim ve simdi bedelini aliyorum. Zaman geldiginde ve asil sahibi geldiginde, bedel ödenecek.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">O felaket çanini bir kez daha duydum.</Dialogue>
+        <Dialogue ID="2">Çan çaldiginda, nihayet bir çiglik sessizligi bozdu...</Dialogue>
+        <Dialogue ID="3">Çan, asla gelmeyecekmis gibi görünen bir anda son kez çalar.</Dialogue>
+        <Dialogue ID="4">Sessizligimi verdim ve simdi bedelini aliyorum.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="Clock_Kill">
+      <Abnormality>Sessizligin Bedeli</Abnormality>
+      <CardName>Sessizlik</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Ele 'Sessizlik' Sayfasi ekle: 'Maliyet 0 - [Kullanildiginda] Maksimum Canin (HP Max.) %15'i kadar Hasar al; Diger tüm karakterler 5 Hiz kaybeder.' 
+Ele 'Yükselt' Sayfasi ekle: 'Maliyet 0 - [Kullanildiginda] Maksimum Canin (HP Max.) %10'u kadar Hasar al; 5 Hiz kazanir.'</AbilityDesc>
+      <FlaborText>Nadiren, zamanin durdugunu hissederim. Kisacik sessizlik anlari bazen basima gelir.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Sessizlik her zaman huzur getirmez.</Dialogue>
+        <Dialogue ID="2">Bir anlik sessizlik, sanki zaman durmus gibi.</Dialogue>
+        <Dialogue ID="3">Zaman durdugunda, sessizlik çöker. Bir sekilde, ikisi aynidir.</Dialogue>
+        <Dialogue ID="4">Her sey dursa bile, ruh ölmez.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="BlueStar_martyrdom">
+      <Abnormality>Mavi Yildiz</Abnormality>
+      <CardName>sehitlik</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Ele 'sehit' Sayfasi ekle: 'Maliyet 0 - [Kullanildiginda] Bu Sahne boyunca, saldirilarla 4-6 bonus Denge Hasari ver ama basarili bir saldiridan sonra 1-3 Hasar al.'</AbilityDesc>
+      <FlaborText>Yildizlar olarak tekrar bir araya gelelim.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bu evrenin sonunda sonsuz mutlulugu birlikte tadalim.</Dialogue>
+        <Dialogue ID="2">Hayat içgüdülerine direnemez; hepimiz bir gün o yere geri döneriz.</Dialogue>
+        <Dialogue ID="3">Ölmüyoruz. Sadece ait oldugumuz yere geri dönüyoruz.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+        <AbnormalityCard ID="BlueStar_Atonement">
+      <Abnormality>Mavi Yildiz</Abnormality>
+      <CardName>Kefaret</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bir Sahnenin basinda Dengesizlesmis herhangi bir karakter varsa, 3-7 Hasar alir ve tüm müttefikler Sahne boyunca 1 Güç kazanir. (Birden fazla Dengesizlesmis karakter daha fazla Güç vermez)</AbilityDesc>
+      <FlaborText>Mavi Yildizimiz bizi kabul eden tek siginaktir. Burada tüm günahlarimizdan arinacagiz.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bu kirli kabugu tamamen çikaralim ve parlak bir sekilde parlayalim.</Dialogue>
+        <Dialogue ID="2">Endisemizin içimizi sarmasina izin vermemeliyiz, tüm kötü eylemlerimizi silerek unutmaya çalismakla mesgulüz.</Dialogue>
+        <Dialogue ID="3">Sonunda, hepimiz o yere geri dönecek ve tüm günahlardan temizlenecegiz.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+        <AbnormalityCard ID="BlueStar_Melody">
+      <Abnormality>Mavi Yildiz</Abnormality>
+      <CardName>Özlem Dolu Bir Ses</CardName>
+      <AbilityDesc>[Tüm Müttefikler]
+Tüm Müttefikler bu Sahne boyunca +2-4 Denge Hasari verir. Bu Sayfanin etkisi 3 Sahne sonra etkinlesir.</AbilityDesc>
+      <FlaborText>Yeni bir baslangiçta bir yildizin yükselisi. Sonsuz trompet sesini duymuyor musun?</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Bu sesi duyabiliyor musun? O kadar hevesle aradigimiz o özlem dolu yankiyi?</Dialogue>
+        <Dialogue ID="2">Aah... Nihayet...! Nihayet bizi çagiriyor!</Dialogue>
+        <Dialogue ID="3">O çagri bizi kabul edecek tek yere yönlendiriyor......!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="WhiteNight_Bless">
+      <Abnormality>Beyaz Gece</Abnormality>
+      <CardName>Vaftiz</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Ele 'Vaftiz' Sayfasi ekle: 'Maliyet 2 - [Kullanildiginda;] [Ele Geri Döner] Hedef 6 Can (HP) iyilestirir ve bu Sahne boyunca 1 Dayaniklilik kazanir (Sahne basina bir kez)'</AbilityDesc>
+      <FlaborText>“Seni iyilestirecegim, sahip oldugun tüm yaralari ve hastaliklari tedavi edecegim.”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Hastaligi tedavi etmek için buradayim.</Dialogue>
+        <Dialogue ID="2">Bana güven. Sana yardim edebilecek tek kisi benim.</Dialogue>
+        <Dialogue ID="3">Neden o yarayi tedavi etmedin?</Dialogue>
+        <Dialogue ID="4">Seni iyilestirecegim, sahip oldugun tüm yaralari ve hastaliklari tedavi edecegim.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+        <AbnormalityCard ID="WhiteNight_Red">
+      <Abnormality>Beyaz Gece</Abnormality>
+      <CardName>Gelis</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Kabul süresi boyunca, bir Sahnenin basinda 1 ek Isik yeniler.
+Eger seçilen Kütüphaneci ayni zamanda 'Vaftiz' Anormallik Sayfasina sahipse, bu etki artar: 'Hedef 12 Can (HP) iyilestirir ve bu Sahne boyunca 2 Dayaniklilik kazanir.'</AbilityDesc>
+      <FlaborText>“Ben ölüm ve hayatim. Karanlik ve isik.”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Günaha batmis olan sen. Kalk ve benimle yüzles.</Dialogue>
+        <Dialogue ID="2">Sizi yargilamak için bu formda ortaya çikmadim.</Dialogue>
+        <Dialogue ID="3">Seni bu yerde hapseden kisitlamalari serbest birakacak ve seni herkesi agirlayan cennete yönlendirecegim.</Dialogue>
+        <Dialogue ID="4">Korkunç bir ölüm korkusundan kurtarirken seninle olacagim.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="WhiteNight_Confess">
+      <Abnormality>Beyaz Gece</Abnormality>
+      <CardName>itiraf</CardName>
+      <AbilityDesc>[Tüm Müttefikler]
+Denge Direncini tamamen iyilestirir ve tüm durum etkilerini kaldirir. (Dengesizlesmis Kütüphaneciler için de geçerlidir)
+Kabul süresi boyunca, saldirilardan 2 daha az Denge Hasari al.</AbilityDesc>
+      <FlaborText>Aciya katlanmaya istekli olmak, kefaretin yarisidir.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">...</Dialogue>
+        <Dialogue ID="2">... ...</Dialogue>
+        <Dialogue ID="3">... ... ...</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="WhiteNight_Guard">
+      <Abnormality>Beyaz Gece</Abnormality>
+      <CardName>Gözcü</CardName>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Hedef alinabilecek baska Kütüphaneciler varken, seçilen Kütüphaneci saldirilarin hedefi olamaz.
+Bu karakter Kabul sonunda hayattaysa, yenilen her Misafir için 1 ek Kitap kazanir.</AbilityDesc>
+      <FlaborText>“Sen onun oglusun; sen Kralsin.”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Kutsamalarla dolu olan sen, sevin. Çünkü ben seninleyim.</Dialogue>
+        <Dialogue ID="2">Seni herkesi agirlayan cennete yönlendirecegim.</Dialogue>
+        <Dialogue ID="3">Korkunç bir ölüm korkusundan kurtarirken seninle olacagim.</Dialogue>
+        <Dialogue ID="4">Sonsuza dek birlikte olmanin nimetinden zevk alacagiz ve kimse ayrilmayacak.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="WhiteNight_White">
+      <Abnormality>NocheBlanca</Abnormality>
+      <CardName>Poder Divino</CardName>
+      <AbilityDesc>[Solo un Aliado]
+Mientras este personaje este con vida, todos los aliados ganan 2 de Protección cada Escena.
+Si este personaje ha usado la Página E.G.O. de la NocheBlanca, los aliados también reciben 3 menos de Daño por ataque.</AbilityDesc>
+      <FlaborText>“No tengas miedo. Soy el salvador y estaré contigo.”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">No temas. Ninguna calamidad podrá perturbarte.</Dialogue>
+        <Dialogue ID="2">Conseguirás un cuerpo nuevo libre de la corrupción, así como puede alguien negar que esto es salvación.</Dialogue>
+        <Dialogue ID="3">Creé en mí y estarás por siempre fuera de la oscuridad.</Dialogue>
+        <Dialogue ID="4">Serás venerado, porque soy divino.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    
+    <AbnormalityCard ID="WhiteNight_Apostle">
+      <Abnormality>NocheBlanca</Abnormality>
+      <CardName>Apóstoles</CardName>
+      <AbilityDesc>[Solo un Aliado]
+Mientras este personaje este con vida, todos los aliados hacen +2-7 de Daño con sus ataques.
+Si el personaje ha usado 'Bautismo' 12 o más veces esta Recepción, los aliados también ganan +1 de Poder.</AbilityDesc>
+      <FlaborText>“¿No os he escogido yo a vosotros los doce? Ahora levántense, mis sirvientes. Levántense y Sírvanme.”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Busca la paz y la santidad. Sin estos, no podrás mirarme.</Dialogue>
+        <Dialogue ID="2">Aquellos que aguantan hasta el final serán capaces de seguir.</Dialogue>
+        <Dialogue ID="3">Acepta mi gracia y enterraré tus errores en el pasado.</Dialogue>
+        <Dialogue ID="4">Obedéceme y deléitate con la alegría y felicidad eterna.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+
+  
+  <Sephirah SephirahType="None">
+    <AbnormalityCard ID="Enemy_Fight">
+      <Abnormality></Abnormality>
+      <CardName>???</CardName>
+      <AbilityDesc>Al comienzo de una Escena, gana 1 de Fuerza.</AbilityDesc>
+      <FlaborText></FlaborText>
+      <Dialogues>
+        <Dialogue ID="1"></Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Enemy_Gloom">
+      <Abnormality></Abnormality>
+      <CardName>???</CardName>
+      <AbilityDesc>Al comienzo de una Escena, gana 1 de Endeble y 2 de Dureza.</AbilityDesc>
+      <FlaborText></FlaborText>
+      <Dialogues>
+        <Dialogue ID="1"></Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Enemy_Friend">
+      <Abnormality></Abnormality>
+      <CardName>? ? ?</CardName>
+      <AbilityDesc>Cuando otro aliado es atacado, gana 1 de Fuerza la siguiente Escena (Dos veces por Escena)</AbilityDesc>
+      <FlaborText></FlaborText>
+      <Dialogues>
+        <Dialogue ID="1"></Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Enemy_Bind">
+      <Abnormality></Abnormality>
+      <CardName>? ? ?</CardName>
+      <AbilityDesc>Al comienzo de una Escena, gana 1 de Dureza.</AbilityDesc>
+      <FlaborText></FlaborText>
+      <Dialogues>
+        <Dialogue ID="1"></Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+</AbnormalityCardsRoot>
