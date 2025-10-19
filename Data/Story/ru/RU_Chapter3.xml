@@ -1762,259 +1762,259 @@
         <PlaceName>Konum: Algún lugar en los Barrios Bajos</PlaceName>
         <Dialog ID="0" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi1</VoiceFile>
           <Content>Piçler! Sizin! Gibiler!</Content>
         </Dialog>
         <Dialog ID="1" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi2</VoiceFile>
           <Content>İyi bir! Dayak! Yemeye! Muhtaç!</Content>
         </Dialog>
         <Dialog ID="2" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi3</VoiceFile>
           <Content>Bunu! O! Küçük! Kafanıza! Sokun!</Content>
         </Dialog>
         <Dialog ID="3" Model="디노">
           <Teller>Dino</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_dino1</VoiceFile>
           <Content>Yeter, Gyeong-mi. Onları ölesiye dövmek bize bir fayda sağlamaz.</Content>
         </Dialog>
         <Dialog ID="4" Model="디노">
           <Teller>Dino</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_dino2</VoiceFile>
           <Content>22. Bölge bizim bölgemiz olabilir ve bu ezdiğin aptallar Zwei 6. Bölüm'den olabilir, ama bir Birlikten bahsediyoruz...</Content>
         </Dialog>
         <Dialog ID="5" Model="디노">
           <Teller>Dino</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_dino3</VoiceFile>
           <Content>Hepsini öldürürsen daha da büyük bir belaya gireriz.</Content>
         </Dialog>
         <Dialog ID="6" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi4</VoiceFile>
           <Content>Walter!</Content>
         </Dialog>
         <Dialog ID="7" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi5</VoiceFile>
           <Content>Sadece! O! Piç!</Content>
         </Dialog>
         <Dialog ID="8" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi6</VoiceFile>
           <Content>Sözünü! Tutsaydı! Biz! Bu karmaşaya! Girmeyecektik!.</Content>
         </Dialog>
         <Dialog ID="9" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi7</VoiceFile>
           <Content>L Corp. Yuvasının! Planına! İhtiyacımız! Vardı!</Content>
         </Dialog>
         <Dialog ID="10" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi8</VoiceFile>
           <Content>Zwei'nin!</Content>
         </Dialog>
         <Dialog ID="11" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi9</VoiceFile>
           <Content>Elinde! Vardı!</Content>
         </Dialog>
         <Dialog ID="12" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi10</VoiceFile>
           <Content>Bu! Piçlere!</Content>
         </Dialog>
         <Dialog ID="13" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi11</VoiceFile>
           <Content>Bir! Ders! Vermeliyiz!</Content>
         </Dialog>
         <Dialog ID="14" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi12</VoiceFile>
           <Content>Sözünü tutmanın ne kadar önemli olduğu hakkında.</Content>
         </Dialog>
         <Dialog ID="15" Model="디노">
           <Teller>Dino</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_dino4</VoiceFile>
           <Content>Gece yakında çökecek. Süpürücüler her an peşimize düşebilir.</Content>
         </Dialog>
         <Dialog ID="16" Model="디노">
           <Teller>Dino</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_dino5</VoiceFile>
           <Content>Ve Başparmak bize ulaşmıyor bile.</Content>
         </Dialog>
         <Dialog ID="17" Model="줄루">
           <Teller>Zulu</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_zulu1</VoiceFile>
           <Content>O piç Walter için Distorsiyon bilgisini alırken kan döktük, karşılığı bu mu oldu?</Content>
         </Dialog>
         <Dialog ID="18" Model="디노">
           <Teller>Dino</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_dino6</VoiceFile>
           <Content>O Dişli Çarklar Kilisesi fanatikleri Sendikamızın yarısını bitirdi.</Content>
         </Dialog>
         <Dialog ID="19" Model="줄루">
           <Teller>Zulu</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_zulu2</VoiceFile>
           <Content>Liderleri tam bir çılgınlıktı...</Content>
         </Dialog>
         <Dialog ID="20" Model="디노">
           <Teller>Dino</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_dino7</VoiceFile>
           <Content>Kilise'nin mallarını güvence altına almak için çok çalıştık, ne uğruna...</Content>
         </Dialog>
         <Dialog ID="21" Model="디노">
           <Teller>Dino</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_dino8</VoiceFile>
           <Content>Eğer Başparmak için L Corp. Yuvası'nın planlarını alamazsak...</Content>
         </Dialog>
         <Dialog ID="22" Model="줄루">
           <Teller>Zulu</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_zulu3</VoiceFile>
           <Content>Geriye kalan tek şey, işimizde başarısız olduğumuz için Başparmak tarafından tasfiye edilmek.</Content>
         </Dialog>
         <Dialog ID="23" Model="디노">
           <Teller>Dino</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_dino9</VoiceFile>
           <Content>En başta bir Birlikle anlaşma yapmamalıydık.</Content>
         </Dialog>
         <Dialog ID="24" Model="줄루">
           <Teller>Zulu</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_zulu4</VoiceFile>
           <Content>En azından Walter mantıklı biriydi. Belki başına bir şey geldi.</Content>
         </Dialog>
         <Dialog ID="25" Model="줄루">
           <Teller>Zulu</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_zulu5</VoiceFile>
           <Content>Yaşlı olabilir, ama hala Zwei 6. Bölüm'ün direktörü. Ayrıca, genellikle saha işini adamlarına bırakır. Durup dururken ölmesi mantıklı değil.</Content>
         </Dialog>
         <Dialog ID="26" Model="디노">
           <Teller>Dino</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_dino10</VoiceFile>
           <Content>Her şey olabilir.</Content>
         </Dialog>
         <Dialog ID="27" Model="줄루">
           <Teller>Zulu</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_zulu6</VoiceFile>
           <Content>Kahretsin, gerçekten hepsini öldürdün.</Content>
         </Dialog>
         <Dialog ID="28" Model="디노">
           <Teller>Dino</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_dino11</VoiceFile>
           <Content>Bu bizim için bir seçenek daha.</Content>
         </Dialog>
         <Dialog ID="29" Model="디노">
           <Teller>Dino</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_dino12</VoiceFile>
           <Content>Yine yaptın... Gözü kapalı bir öfkeye kapılıp kemiklerini tanınmayacak hale getirdin.</Content>
         </Dialog>
         <Dialog ID="30" Model="줄루">
           <Teller>Zulu</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_zulu7</VoiceFile>
           <Content>Gyeong-mi! Önemsiz 6. Bölüm tipleri olsalar bile, çok fazla öldürmek 2. veya 3. Bölüm'ün bizi avlamasına neden olur.</Content>
         </Dialog>
         <Dialog ID="31" Model="디노">
           <Teller>Dino</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_dino13</VoiceFile>
           <Content>Zwei üzerimize bir Fixer ordusu gönderebilir.</Content>
         </Dialog>
         <Dialog ID="32" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi13</VoiceFile>
           <Content>... Bu itler... bir sözün ağırlığını anlamak zorundalar.</Content>
         </Dialog>
         <Dialog ID="33" Model="디노">
           <Teller>Dino</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_dino14</VoiceFile>
           <Content>Umarım Zwei gelip bize "teşekkür ettiğinde" bir yedek planın vardır.</Content>
         </Dialog>
         <Dialog ID="34" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi14</VoiceFile>
           <Content>Şuna bir bak.</Content>
         </Dialog>
         <Dialog ID="35" Model="디노">
           <Teller>Dino</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_dino15</VoiceFile>
           <Content>Bir zarf mı?</Content>
         </Dialog>
         <Dialog ID="36" Model="줄루">
           <Teller>Zulu</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_zulu8</VoiceFile>
           <Content>O Kütüphane'ye dair söylentisi olan Davetiye.</Content>
         </Dialog>
         <Dialog ID="37" Model="디노">
           <Teller>Dino</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_dino16</VoiceFile>
           <Content>Bekle, "Günün Kitapları" arasında... Walter'ın Kitabı mı listelenmiş? Yani Kütüphane'de mi öldü? Demek ki bir planın varmış.</Content>
         </Dialog>
         <Dialog ID="38" Model="줄루">
           <Teller>Zulu</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_zulu9</VoiceFile>
           <Content>Ne... Gyeong-mi!</Content>
         </Dialog>
         <Dialog ID="39" Model="줄루">
           <Teller>Zulu</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_zulu10</VoiceFile>
           <Content>Yani Walter'ın Kütüphane'de öldüğünü zaten biliyor muydun ve yine de 6. Bölüm'ü paramparça mı ettin?</Content>
         </Dialog>
         <Dialog ID="40" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi15</VoiceFile>
           <Content>Bu!</Content>
         </Dialog>
         <Dialog ID="41" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi16</VoiceFile>
           <Content>Lanet! Bir!</Content>
         </Dialog>
         <Dialog ID="42" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi17</VoiceFile>
           <Content>Mesaj! Göndermekle! İlgili!</Content>
         </Dialog>
@@ -2074,13 +2074,13 @@
         <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="51" Model="디노">
           <Teller>Dino</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_dino17</VoiceFile>
           <Content>Zamanında geri dönebileceğimizi düşünüyor musun? Biraz acele değil mi?</Content>
         </Dialog>
         <Dialog ID="52" Model="줄루">
           <Teller>Zulu</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_zulu11</VoiceFile>
           <Content>Evet, muhtemelen tam zamanında döneceğiz.</Content>
         </Dialog>
@@ -2092,13 +2092,13 @@
         </Dialog>
         <Dialog ID="54" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi18</VoiceFile>
           <Content>Kapa çeneni!</Content>
         </Dialog>
         <Dialog ID="55" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi19</VoiceFile>
           <Content>Bizi içeri al. Acelemiz var.</Content>
         </Dialog>
@@ -2110,13 +2110,13 @@
         </Dialog>
         <Dialog ID="57" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi20</VoiceFile>
           <Content>Sana çeneni kapa dedim!</Content>
         </Dialog>
         <Dialog ID="58" Model="경미">
           <Teller>Gyeong-mi</Teller>
-          <Title>Perro Callejero</Title>
+          <Title>Sokak köpeği</Title>
           <VoiceFile>ch3_Dog_ep1_gyongmi21</VoiceFile>
           <Content>Ve bizi içeri al. Şimdi.</Content>
         </Dialog>
@@ -2203,55 +2203,55 @@
         <PlaceName>Konum: Plataforma WARP</PlaceName>
         <Dialog ID="0" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain1</VoiceFile>
           <Content>Abla, T Corp'un mesajını gördün, değil mi?</Content>
         </Dialog>
         <Dialog ID="1" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga1</VoiceFile>
           <Content>... Ne? Onu aldığımızda...</Content>
         </Dialog>
         <Dialog ID="2" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga2</VoiceFile>
           <Content>Ah, kahretsin, kusacağım...</Content>
         </Dialog>
         <Dialog ID="3" Model="미카">
           <Teller>Mika</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_mika1</VoiceFile>
           <Content>Dün gece Alt Bölgeler'deki aynı köşeden arkadaşlarıyla büyük bir içki partisi verdi.</Content>
         </Dialog>
         <Dialog ID="4" Model="미카">
           <Teller>Mika</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_mika2</VoiceFile>
           <Content>Duyduğuma göre, tüm pub'ı işgal etmişler ve bütün geceyi heba etmişler.</Content>
         </Dialog>
         <Dialog ID="5" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain2</VoiceFile>
           <Content>Uf... Bu sefer ne kadar içtin?</Content>
         </Dialog>
         <Dialog ID="6" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga3</VoiceFile>
           <Content>Hey Rain, başım hala zonkluyor, o yüzden vaazı sonraya bırak, olur mu? Belki bir saat kadar sonra.</Content>
         </Dialog>
         <Dialog ID="7" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain3</VoiceFile>
           <Content>Ve bu ne? Bu makbuz diyor ki...</Content>
         </Dialog>
         <Dialog ID="8" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain4</VoiceFile>
           <Content>Ofisimizin fonlarını kullanarak ödeme yapmışsın...</Content>
         </Dialog>
@@ -2281,115 +2281,115 @@
         </Dialog>
         <Dialog ID="13" Model="미카">
           <Teller>Mika</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_mika3</VoiceFile>
           <Content>Görünüşe göre sıra bizde.</Content>
         </Dialog>
         <Dialog ID="14" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga4</VoiceFile>
           <Content>WARP trenlerine her bindiğimde midem bulanıyor.</Content>
         </Dialog>
         <Dialog ID="15" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain5</VoiceFile>
           <Content>Sadece geçen seferki gibi kendini rezil etme.</Content>
         </Dialog>
         <Dialog ID="16" Model="미카">
           <Teller>Mika</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_mika4</VoiceFile>
           <Content>Bu arada, bu talep oldukça beklenmedik. Tüm yerler arasında R Corp'tan gelen biri.</Content>
         </Dialog>
         <Dialog ID="17" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain6</VoiceFile>
           <Content>R Corp'un işi başkalarına yaptırmak zorunda kalması çok tehlikeli bir şey değil mi?</Content>
         </Dialog>
         <Dialog ID="18" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain7</VoiceFile>
           <Content>Kendileri gitmeden önce, suları test etmek için bizim gibi isimsiz bir Ofis'i kullanıyor olabilirler.</Content>
         </Dialog>
         <Dialog ID="19" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga5</VoiceFile>
           <Content>Söyle bakalım, o talebin müşterisi kim?</Content>
         </Dialog>
         <Dialog ID="20" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain8</VoiceFile>
           <Content>Bizzat Tavşan Ekibi'nin kaptanı mı?</Content>
         </Dialog>
         <Dialog ID="21" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga6</VoiceFile>
           <Content>Hahaha...</Content>
         </Dialog>
         <Dialog ID="22" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga7</VoiceFile>
           <Content>Sizin gibi çocuklar benim sadece bir sarhoş olduğumu düşünebilir, ama her hareketim hesaplanmış, görüyor musunuz?</Content>
         </Dialog>
         <Dialog ID="23" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain9</VoiceFile>
           <Content>Yine başladı.</Content>
         </Dialog>
         <Dialog ID="24" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga8</VoiceFile>
           <Content>O Myo benim eski bir arkadaşım, dün onunla içki içtim!</Content>
         </Dialog>
         <Dialog ID="25" Model="미카">
           <Teller>Mika</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_mika6</VoiceFile>
           <Content>Demek istediğin...</Content>
         </Dialog>
         <Dialog ID="26" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga9</VoiceFile>
           <Content>Bana kolay bir iş ayarladığını söyledi. Yapmam gereken tek şeyin ödülün küçük bir kısmını ona vermek olduğunu söyledi.</Content>
         </Dialog>
         <Dialog ID="27" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain10</VoiceFile>
           <Content>İşte bu, neden içmeye gittiğin konusunda bu kadar gururlu olduğunu açıklıyor.</Content>
         </Dialog>
         <Dialog ID="28" Model="올गा">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga10</VoiceFile>
           <Content>Keyfim çok yerindeydi, o yüzden kral gibi yemesine izin verdim ve hepsini Ofis kartıyla ödedim~</Content>
         </Dialog>
         <Dialog ID="29" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain11</VoiceFile>
           <Content>Myo güvenilir biri mi?</Content>
         </Dialog>
         <Dialog ID="30" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga11</VoiceFile>
           <Content>O, sanki içi boş biriymiş gibi davranır, ama onu tanıdıkça oldukça nazik olduğunu görürsün.</Content>
         </Dialog>
         <Dialog ID="31" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain12</VoiceFile>
           <Content>Eğer yine anlamsız, tuhaf bir şey olursa, hayatımın geri kalanında sana lanet edeceğim, yemin ederim.</Content>
         </Dialog>
@@ -2401,49 +2401,49 @@
         </Dialog>
         <Dialog ID="33" Model="메어리">
           <Teller>Merry</Teller>
-          <Title>Pasajera</Title>
+          <Title>Yolcu</Title>
           <VoiceFile>ch3_Molar_ep1_merry1</VoiceFile>
           <Content>Bu kadar zamandan sonra tatile çıkmak harika.</Content>
         </Dialog>
         <Dialog ID="34" Model="토미">
           <Teller>Tommy</Teller>
-          <Title>Pasajero</Title>
+          <Title>Yolcu</Title>
           <VoiceFile>ch3_Molar_ep1_tommy1</VoiceFile>
           <Content>WARP'a ilk kez biniyoruz. Her şey yolunda gidecek mi?</Content>
         </Dialog>
         <Dialog ID="35" Model="메어리">
           <Teller>Merry</Teller>
-          <Title>Pasajera</Title>
+          <Title>Yolcu</Title>
           <VoiceFile>ch3_Molar_ep1_merry2</VoiceFile>
           <Content>Çok fazla endişeleniyorsun, canım. Her gün WARP'ı kullanan o kadar çok insan var ki.</Content>
         </Dialog>
         <Dialog ID="36" Model="토미">
           <Teller>Tommy</Teller>
-          <Title>Pasajero</Title>
+          <Title>Yolcu</Title>
           <VoiceFile>ch3_Molar_ep1_tommy2</VoiceFile>
           <Content>İlk çalışmaya başladıklarında epey kaza olduğunu duymuştum.</Content>
         </Dialog>
         <Dialog ID="37" Model="메어리">
           <Teller>Merry</Teller>
-          <Title>Pasajera</Title>
+          <Title>Yolcu</Title>
           <VoiceFile>ch3_Molar_ep1_merry3</VoiceFile>
           <Content>Çok endişeliysen yanımda kalıp gözlerini kapatabilirsin.</Content>
         </Dialog>
         <Dialog ID="38" Model="토미">
           <Teller>Tommy</Teller>
-          <Title>Pasajero</Title>
+          <Title>Yolcu</Title>
           <VoiceFile>ch3_Molar_ep1_tommy3</VoiceFile>
           <Content>Tamam. Hemen yanına yapışıp sıkı tutunacağım.</Content>
         </Dialog>
         <Dialog ID="39" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga12</VoiceFile>
           <Content>... Bu vagonda kusacak olursam her şeyi hallet, Rain.</Content>
         </Dialog>
         <Dialog ID="40" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain13</VoiceFile>
           <Content>Abla, lütfen!</Content>
         </Dialog>
@@ -2458,19 +2458,19 @@
         </Dialog>
         <Dialog ID="42" Model="미카">
           <Teller>Mika</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_mika7</VoiceFile>
           <Content>Şimdi kalkıyoruz.</Content>
         </Dialog>
         <Dialog ID="43" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga13</VoiceFile>
           <Content>Hey, hep merak etmişimdir, bu emniyet kemerlerinin ne anlamı var?</Content>
         </Dialog>
         <Dialog ID="44" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain14</VoiceFile>
           <Content>Nezaket, sanırım. Kim bilir, hiç yoktan iyidir.</Content>
         </Dialog>
@@ -2482,31 +2482,31 @@
         </Dialog>
         <Dialog ID="46" Model="메어리">
           <Teller>Merry</Teller>
-          <Title>Pasajera</Title>
+          <Title>Yolcu</Title>
           <VoiceFile>ch3_Molar_ep1_merry4</VoiceFile>
           <Content>Ah, bana bir bebek gibi sarılıyorsun.</Content>
         </Dialog>
         <Dialog ID="47" Model="토미">
           <Teller>Tommy</Teller>
-          <Title>Pasajero</Title>
+          <Title>Yolcu</Title>
           <VoiceFile>ch3_Molar_ep1_tommy4</VoiceFile>
           <Content>Yani kim bilir ki...</Content>
         </Dialog>
         <Dialog ID="48" Model="메어리">
           <Teller>Merry</Teller>
-          <Title>Pasajera</Title>
+          <Title>Yolcu</Title>
           <VoiceFile>ch3_Molar_ep1_merry5</VoiceFile>
           <Content>Tren kalktıktan sonra sadece on saniye içinde orada olacağız! Ama çok tatlısın, o yüzden izin vereceğim~</Content>
         </Dialog>
         <Dialog ID="49" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga14</VoiceFile>
           <Content>Neden bu kuşların arkasına oturmak zorunda kaldık?</Content>
         </Dialog>
         <Dialog ID="50" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain15</VoiceFile>
           <Content>Şşt, sessiz ol, bizi duyacaklar.</Content>
         </Dialog>
@@ -2518,49 +2518,49 @@
         </Dialog>
         <Dialog ID="52" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga15</VoiceFile>
           <Content>Biraz kestireceğim. Geldiğimizde beni uyandır.</Content>
         </Dialog>
         <Dialog ID="53" Model="미카">
           <Teller>Mika</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_mika8</VoiceFile>
           <Content>On dakikadan az sürecek.</Content>
         </Dialog>
         <Dialog ID="54" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga16</VoiceFile>
           <Content>Farketmez~</Content>
         </Dialog>
         <Dialog ID="55" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain16</VoiceFile>
           <Content>Abla! Abla! Uyan!</Content>
         </Dialog>
         <Dialog ID="56" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga17</VoiceFile>
           <Content>Kahretsin, bu sefer ne oldu?</Content>
         </Dialog>
         <Dialog ID="57" Model="미카">
           <Teller>Mika</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_mika9</VoiceFile>
           <Content>Bir şeyler ters gidiyor gibi. Kalkıştan bu yana bir saat geçti ama tren hala durağına varmadı.</Content>
         </Dialog>
         <Dialog ID="58" Model="토미">
           <Teller>Tommy</Teller>
-          <Title>Pasajero</Title>
+          <Title>Yolcu</Title>
           <VoiceFile>ch3_Molar_ep1_tommy5</VoiceFile>
           <Content>Ne oluyor, Merry...? Sadece on saniye süreceğini söylemiştin.</Content>
         </Dialog>
         <Dialog ID="59" Model="메어리">
           <Teller>Merry</Teller>
-          <Title>Pasajera</Title>
+          <Title>Yolcu</Title>
           <VoiceFile>ch3_Molar_ep1_merry6</VoiceFile>
           <Content>Bu tuhaf... bundan daha uzun sürmemeli...</Content>
         </Dialog>
@@ -2571,31 +2571,31 @@
         </Dialog>
         <Dialog ID="61" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga18</VoiceFile>
           <Content>Kahretsin, şanssız mıydık ne?</Content>
         </Dialog>
         <Dialog ID="62" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain17</VoiceFile>
           <Content>Ama WARP'ın son on yıldır hiç kazası olmadı ki.</Content>
         </Dialog>
         <Dialog ID="63" Model="미카">
           <Teller>Mika</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_mika10</VoiceFile>
           <Content>Burada mahsur kalabiliriz.</Content>
         </Dialog>
         <Dialog ID="64" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga19</VoiceFile>
           <Content>Bir şeyler ters giderse o kapıyı kıracağız.</Content>
         </Dialog>
         <Dialog ID="65" Model="미카">
           <Teller>Mika</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_mika11</VoiceFile>
           <Content>Delirdin mi sen! Uyarılar, tren warp yaparken kapıları açmaya çalışırsak uzaya çekileceğimizi söylüyor.</Content>
         </Dialog>
@@ -2604,39 +2604,39 @@
           <Title> </Title>
           <Content>- İçeride 17 Saat -</Content>
         </Dialog>
-        <Dialog ID="67" Model="Pasajero 1">
-          <Teller>Pasajero 1</Teller>
-          <Title>Pasajero</Title>
+        <Dialog ID="67" Model="Yolcu 1">
+          <Teller>Yolcu 1</Teller>
+          <Title>Yolcu</Title>
           <VoiceFile>ch3_Molar_ep1_people1</VoiceFile>
           <Content>Çıldıracağım...</Content>
         </Dialog>
-        <Dialog ID="68" Model="Pasajero 2">
-          <Teller>Pasajero 2</Teller>
-          <Title>Pasajero</Title>
+        <Dialog ID="68" Model="Yolcu 2">
+          <Teller>Yolcu 2</Teller>
+          <Title>Yolcu</Title>
           <VoiceFile>ch3_Molar_ep1_people2</VoiceFile>
           <Content>Neredeyiz biz?</Content>
         </Dialog>
         <Dialog ID="69" Model="토미">
           <Teller>Tommy</Teller>
-          <Title>Pasajero</Title>
+          <Title>Yolcu</Title>
           <VoiceFile>ch3_Molar_ep1_tommy6</VoiceFile>
           <Content>Bu kemeri çıkaramıyorum...</Content>
         </Dialog>
         <Dialog ID="70" Model="메어리">
           <Teller>Merry</Teller>
-          <Title>Pasajera</Title>
+          <Title>Yolcu</Title>
           <VoiceFile>ch3_Molar_ep1_merry7</VoiceFile>
           <Content>Tommy... Yakında her şey yoluna girecek... Üzgünüm, WARP trenine binmeyi sorduğum için benim hatam...</Content>
         </Dialog>
         <Dialog ID="71" Model="미카">
           <Teller>Mika</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_mika12</VoiceFile>
           <Content>Tren hala çalışıyor gibi görünüyor...</Content>
         </Dialog>
         <Dialog ID="72" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga20</VoiceFile>
           <Content>Hey! Hemen aletlerini çıkar. Bu lanet kemeri keseceğiz.</Content>
         </Dialog>
@@ -2647,73 +2647,73 @@
         </Dialog>
         <Dialog ID="74" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga21</VoiceFile>
           <Content>Lanet olsun, çıldıracağım! Üç yüz zavallı ruh burada mahsur kalmış ve hiçbir şey yapmıyorlar mı?</Content>
         </Dialog>
         <Dialog ID="75" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain18</VoiceFile>
           <Content>Atmosfer gerginleşiyor. Herkes normalden daha hassas.</Content>
         </Dialog>
         <Dialog ID="76" Model="미카">
           <Teller>Mika</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_mika13</VoiceFile>
           <Content>İşin komik yanı, son 31 saattir hiçbir şey yememiş olmamıza rağmen hiçbir susuzluk veya açlık hissetmiyorum.</Content>
         </Dialog>
         <Dialog ID="77" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga22</VoiceFile>
           <Content>Bu lanet kapıda tek bir çizik bile bırakamıyorum.</Content>
         </Dialog>
         <Dialog ID="78" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain19</VoiceFile>
           <Content>Sanırım gerçekten mahsur kaldık. Dışarı çıkmanın bir yolunu göremiyorum. Yapabileceğimiz tek şey beklemek.</Content>
         </Dialog>
         <Dialog ID="79" Model="미카">
           <Teller>Mika</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_mika14</VoiceFile>
           <Content>Diğerleri de çıldırıyor gibi görünüyor.</Content>
         </Dialog>
         <Dialog ID="80" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga23</VoiceFile>
           <Content>... Hey, bahse ne dersiniz?</Content>
         </Dialog>
         <Dialog ID="81" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain20</VoiceFile>
           <Content>Bahis derken neyi kastediyorsun?</Content>
         </Dialog>
         <Dialog ID="82" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga24</VoiceFile>
           <Content>Belki şunu kullanabiliriz diyorum.</Content>
         </Dialog>
         <Dialog ID="83" Model="미카">
           <Teller>Mika</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_mika15</VoiceFile>
           <Content>Bir Davetiye...?</Content>
         </Dialog>
         <Dialog ID="84" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga25</VoiceFile>
           <Content>Myo'dan aldığım şey bu. Şimdi kullanacağımı hiç düşünmemiştim.</Content>
         </Dialog>
         <Dialog ID="85" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain21</VoiceFile>
           <Content>Al sana kalemim. Ben de bu trenden çıkmak için her şeyi yaparım.</Content>
         </Dialog>
@@ -2839,43 +2839,43 @@
         <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="105" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga26</VoiceFile>
           <Content>Püf~ İşte buna ışınlanma derim!</Content>
         </Dialog>
         <Dialog ID="106" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga27</VoiceFile>
           <Content>Herhangi bir aptal W Corp Tekilliği'nden çok daha hızlı ve iyi.</Content>
         </Dialog>
         <Dialog ID="107" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain22</VoiceFile>
           <Content>Bu kadar pervasızca mı ilerleyeceğiz? Davetiye'yi R Corp'tan aldığını söyledin.</Content>
         </Dialog>
         <Dialog ID="108" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga28</VoiceFile>
           <Content>Mika, onu bir süre sustur. Ondan bir kelime daha duyarsam tam burada kusacağım.</Content>
         </Dialog>
         <Dialog ID="109" Model="미카">
           <Teller>Mika</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_mika16</VoiceFile>
           <Content>Rain doğru söylüyor. Belki biraz daha dikkatli ilerlemeliyiz.</Content>
         </Dialog>
         <Dialog ID="110" Model="올गा">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga29</VoiceFile>
           <Content>Elbette, elbette~ Kimse benim tarafımda değil.</Content>
         </Dialog>
         <Dialog ID="111" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga30</VoiceFile>
           <Content>O aptal trenden kaçabildiğimizin hepsi benim hızlı kararım sayesinde.</Content>
         </Dialog>
@@ -2887,13 +2887,13 @@
         </Dialog>
         <Dialog ID="113" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga31</VoiceFile>
           <Content>Seni gördüğüme sevindim, genç kız~</Content>
         </Dialog>
         <Dialog ID="114" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain23</VoiceFile>
           <Content>Çok özür dileriz. Şu anda biraz kafamız karışık. Ve o da akşamdan kalma...</Content>
         </Dialog>
@@ -2905,7 +2905,7 @@
         </Dialog>
         <Dialog ID="116" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga32</VoiceFile>
           <Content>Hey, orada neler olduğu hakkında bir fikrin var mıydı?</Content>
         </Dialog>
@@ -2917,19 +2917,19 @@
         </Dialog>
         <Dialog ID="118" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga33</VoiceFile>
           <Content>Ha? Myo'nun anlattığından çok daha kibar biri.</Content>
         </Dialog>
         <Dialog ID="119" Model="미카">
           <Teller>Mika</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_mika17</VoiceFile>
           <Content>Onu tanıyor musun?</Content>
         </Dialog>
         <Dialog ID="120" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga34</VoiceFile>
           <Content>Gördüğünüz gibi, L Corp. ve Kütüphane arasındaki ilişkiyi araştırmamız gerekiyordu; Myo'nun bizden istediği buydu.</Content>
         </Dialog>
@@ -2941,25 +2941,25 @@
         </Dialog>
         <Dialog ID="122" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga35</VoiceFile>
           <Content>Ve komik olan ne biliyor musunuz çocuklar~? Bir insanla değil, bir makineyle konuşuyoruz.</Content>
         </Dialog>
         <Dialog ID="123" Model="미카">
           <Teller>Mika</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_mika18</VoiceFile>
           <Content>Onu kızdırmayalım. Sadece Davetiye'de listelenen kitapları alıp gidelim, tamam mı?</Content>
         </Dialog>
         <Dialog ID="124" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga36</VoiceFile>
           <Content>Açık konuşalım, genç kız. Kütüphane'nin L Corp. ile ne alakası olduğunu biliyorsun, değil mi?</Content>
         </Dialog>
         <Dialog ID="125" Model="올가">
           <Teller>Olga</Teller>
-          <Title>Operadora de Molar</Title>
+          <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga37</VoiceFile>
           <Content>Myo, Kütüphane'de olman bile buranın L Corp. ile bir şekilde ilişkili olduğunun tartışılmaz bir kanıtı olduğunu söylüyor.</Content>
         </Dialog>
@@ -2971,7 +2971,7 @@
         </Dialog>
         <Dialog ID="127" Model="레인">
           <Teller>Rain</Teller>
-          <Title>Fixer de Molar</Title>
+          <Title>Azıdişi düzelticisi</Title>
           <VoiceFile>ch3_Molar_ep1_rain24</VoiceFile>
           <Content>Çok üzgünüz. Şimdi içeri giriyoruz.</Content>
         </Dialog>
