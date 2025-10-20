@@ -51,7 +51,7 @@ Bu Anormallik Kartini seçtikten sonra Kütüphanecinin kullandigi ilk iki Savas
       <Abnormality>Mutlu Oyuncak Ayi</Abnormality>
       <CardName>Özlem Dolu Anilar</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Bir Çatisma kazandiginda, %20 sansla Zardaki degere esit ek Denge Hasari ver.
+Bir Çatisma kazandiginda, %20 sansla Zardaki degere esit ek  Sersemleme Hasari ver.
 Ayni hedefe çok sik çatismak sansi artirir.</AbilityDesc>
       <FlaborText>Ayi birine sikica sariliyordu. Ayi sarilmayi sever. Ama bir sey garipti.</FlaborText>
       <Dialogues>
@@ -322,8 +322,8 @@ Saldiri Zarlari, daha düsük Hiza sahip düsmanlara karsi Güç kazanir (Her fa
           <Abnormality>sarki Söyleyen Makine</Abnormality>
           <CardName>Müzik</CardName>
           <AbilityDesc>[Tüm Karakterler]
-Tüm karakterler bu Kabulde saldirilariyla +4-8 Hasar verir. Ayrica vurulduklarinda +4-8 Denge Hasari alirlar.
-Bir müttefik bir düsmani yendiginde, 15 Can (HP) ve Denge Direnci yenilerler.</AbilityDesc>
+Tüm karakterler bu Kabulde saldirilariyla +4-8 Hasar verir. Ayrica vurulduklarinda +4-8  Sersemleme Hasari alirlar.
+Bir müttefik bir düsmani yendiginde, 15 Can (HP) ve  Sersemleme Direnci yenilerler.</AbilityDesc>
           <FlaborText>Ama hiçbir sey, bir insani yediginde yaptigi müzikle kiyaslanamaz.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Hiçbir sey bir insan kadar harika müzik yapamaz.</Dialogue>
@@ -339,7 +339,7 @@ Bir müttefik bir düsmani yendiginde, 15 Can (HP) ve Denge Direnci yenilerler.<
           <CardName>Ritim</CardName>
           <AbilityDesc>[Yalnizca Bir Müttefik]
 Savas süresince, her Sahnenin basinda 1 Ritim kazan. 'Ritim' olan bir karakter basarili bir saldiri gerçeklestirdiginde, rastgele baska bir karakter bir sonraki Sahnede %25 sansla 1 Ritim kazanir.
-(Ritim: 1 Güç kazanir, darbelerden ek Denge Hasari alir, 1 Sahne sürer)</AbilityDesc>
+(Ritim: 1 Güç kazanir, darbelerden ek  Sersemleme Hasari alir, 1 Sahne sürer)</AbilityDesc>
           <FlaborText>Bir Ritim yaratiyordu.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Herkes sarkimi tekrar duymak istiyor.</Dialogue>
@@ -370,7 +370,7 @@ Savunma Zarlari 1 çeker.</AbilityDesc>
       <Abnormality>Ölü Kelebeklerin Cenaze Töreni</Abnormality>
       <CardName>Sonsuz istirahat</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-su anda en az Cani (HP) olan düsmana +2-7 Hasar ve +2-5 Denge Hasari ver.</AbilityDesc>
+su anda en az Cani (HP) olan düsmana +2-7 Hasar ve +2-5  Sersemleme Hasari ver.</AbilityDesc>
       <FlaborText>insanlar öldüklerinde küçük kanatli güzel varliklara dönüsebileceklerine inanirlar. Bu aptalca bir hikaye, ayni zamanda saçma da..</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Sonsuz bir istirahat... Huzur içinde yatsinlar.</Dialogue>
@@ -416,7 +416,7 @@ Bir Sahnenin basinda Kütüphanecinin bir Durum Etkisi varsa, 1-2 Güç kazanir.
       <AbilityDesc>[Yalnizca Bir Müttefik]
 'Talep Edilen Hedef' mevcut degilken, seçilen Kütüphanecinin vurdugu ilk düsman o olarak isaretlenir. 
 Talep Edilen Hedefe +3-5 Hasar ver.
-Seçilen Kütüphaneci Talep Edilen Hedefi yendiginde, Denge Direncini tamamen iyilestirir ve iki kat Kitap kazanir.</AbilityDesc>
+Seçilen Kütüphaneci Talep Edilen Hedefi yendiginde,  Sersemleme Direncini tamamen iyilestirir ve iki kat Kitap kazanir.</AbilityDesc>
       <FlaborText>seytan'in dedigi gibi, mermiler istedigin her seyi sonsuza dek delip geçecek.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Kimileri ona onurlu bir avci derken, kimileri de kana bulanmis bir silahsör der.</Dialogue>
@@ -482,7 +482,7 @@ Zarlar mevcut yüze bagli olarak farkli miktarda Güç kazanir. (Min. -2, Maks. 
       <CardName>Sosyal Mesafe</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
 Blok Zarlari 1-2 Güç kazanir.
-Hasar Saptirirken +2-7 Denge Hasari ver.</AbilityDesc>
+Hasar Saptirirken +2-7  Sersemleme Hasari ver.</AbilityDesc>
       <FlaborText>Eger biri derinin arkasindaki yüze bakmaya çalisirsa, sonuç pek hos olmayacaktir. Derisi arasindaki bosluk, ona kalan tek kisisel alandir. Oraya girmemek, sehir'in sunabilecegi son cömertliktir.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Lütfen bunun arkasina bakmayin. Yapabileceginiz en az sey bu...</Dialogue>
@@ -544,7 +544,7 @@ Tüm karakterler iki kat Kanama uygular.</AbilityDesc>
       <CardName>Balta</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
 Kesici Zarlar 1-3 Güç kazanir.
-Bir Kesici Zar iskaladiginda 2-5 Denge Hasari al. (Alan Saldirilari Hariç)</AbilityDesc>
+Bir Kesici Zar iskaladiginda 2-5  Sersemleme Hasari al. (Alan Saldirilari Hariç)</AbilityDesc>
       <FlaborText>Bir noktada, &lt;Sansürlendi&gt; ayakkabilari giyiyor, kulaktan kulaga gülümsüyordu. Bu seydi, bu çok tuhafti. Bu bir gülümseme degildi. Bu...</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Baltayi daha da keskinlestir... Böylece tek bir vurusta onlari kesebilir.</Dialogue>
@@ -572,7 +572,7 @@ Vurdugunda, Eger zar sonucu maksimum degerse: bir sonraki Sahnede 1-2 Felç, Bag
       <Abnormality>Örümcek Kozasi</Abnormality>
       <CardName>Yemek</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Dengesizlesmis bir düsmani vurdugunda, tüm müttefikler 2-4 Can (HP) iyilestirir. (Alan Saldirilari Hariç)</AbilityDesc>
+ Sersemlemesizlesmis bir düsmani vurdugunda, tüm müttefikler 2-4 Can (HP) iyilestirir. (Alan Saldirilari Hariç)</AbilityDesc>
       <FlaborText>Peter birkaç saniye içinde tavana sürüklendi. Gözetim Birimi'nin tavanindan sarkan çalisan, örümcegin yavrulari için besleyici bir ögün olacak.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Sevinin. Küçüklerime eglence vereceksiniz.</Dialogue>
@@ -663,7 +663,7 @@ Bir Çatisma kazandiginda, bir sonraki Sahnede tüm düsmanlara 1 Baglama, Kiril
       <CardName>Eskimis semsiye</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
 2-3 Hiz kazanir.
-Vuruldugunda, %30 sansla Hasari sifirla ve Denge Hasari olarak Hasarin iki katini saldirana geri yansit.</AbilityDesc>
+Vuruldugunda, %30 sansla Hasari sifirla ve  Sersemleme Hasari olarak Hasarin iki katini saldirana geri yansit.</AbilityDesc>
       <FlaborText>Beyaz olacagina inanarak, Kara Kugu isirgan otlarini birbirine örerek lanetten kurtulmak istedi. Geriye kalan tek sey bir zamanlar deger verdigi, eskimis bir günes semsiyesiydi.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Kara Kugu, Beyaz Kugu rüyasindan uyandiginda ne olur?</Dialogue>
@@ -694,7 +694,7 @@ Vuruldugunda, %30 sansla Hasari sifirla ve Denge Hasari olarak Hasarin iki katin
       <Abnormality>Evren Parçasi</Abnormality>
       <CardName>Öteden Gelen Yankilar</CardName>
       <AbilityDesc>[Tüm Karakterler]
-Tüm düsmanlara 5-10 Denge Hasari ver. Tüm müttefikler 5-10 Denge Direnci iyilestirir.</AbilityDesc>
+Tüm düsmanlara 5-10  Sersemleme Hasari ver. Tüm müttefikler 5-10  Sersemleme Direnci iyilestirir.</AbilityDesc>
       <FlaborText>Önünde bir sarki görüyorsun. Yaklasiyor, saniye saniye daha renkli hale geliyor.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">sarki söyle. Performans. insan. sarki. Kulak. Dinle.</Dialogue>
@@ -709,7 +709,7 @@ Tüm düsmanlara 5-10 Denge Hasari ver. Tüm müttefikler 5-10 Denge Direnci iyi
       <Abnormality>Evren Parçasi</Abnormality>
       <CardName>Dokunaçlar</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Basarili delici saldirida, Hedefin maksimum Denge Direncini %5 azalt. (%50'ye kadar, Alan Saldirilari Hariç)</AbilityDesc>
+Basarili delici saldirida, Hedefin maksimum  Sersemleme Direncini %5 azalt. (%50'ye kadar, Alan Saldirilari Hariç)</AbilityDesc>
       <FlaborText>Dokunaçlari seni delip geçtigi an, içindeki yasama olan tüm ilgiyi senden çeker alir.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Negatif. Saldiri. Gel. Yardim. Ver.</Dialogue>
@@ -786,7 +786,7 @@ Her Sahnenin basinda, eldeki rastgele üç Sayfa 'Jeton' durumunu kazanir. ( [Ku
       <CardName>Dikenler</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
 Basarili delici saldirida, bir hedefe 1 Duygu uygula.
-3+ 'Duygu'ya sahip hedeflere karsi, 2-7 ek Hasar ve Denge Hasari ver, ardindan tüm 'Duygu'yu kaldir. (Alan Saldirilari Hariç)</AbilityDesc>
+3+ 'Duygu'ya sahip hedeflere karsi, 2-7 ek Hasar ve  Sersemleme Hasari ver, ardindan tüm 'Duygu'yu kaldir. (Alan Saldirilari Hariç)</AbilityDesc>
       <FlaborText>Baslangiçta, yapmam gereken tek sey dikenlerden biri tarafindan hafifçe ignelenmekti. simdi ayni yükselisi yasamak için tüm vücudumu ovusturmak zorundayim.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Elbette, senin için egilecegim~ Bana vurmaktan çekinme.</Dialogue>
@@ -801,7 +801,7 @@ Basarili delici saldirida, bir hedefe 1 Duygu uygula.
       <Abnormality>Porccubus</Abnormality>
       <CardName>Nese</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Zar Gücü +1. Maksimum Denge Direncini %50 azalt.</AbilityDesc>
+Zar Gücü +1. Maksimum  Sersemleme Direncini %50 azalt.</AbilityDesc>
       <FlaborText>Kafamin patlama zamani. iyi günler.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Dayanilmaz bir zevk arzuluyorsan, sonunda kirilacaksin.</Dialogue>
@@ -816,7 +816,7 @@ Zar Gücü +1. Maksimum Denge Direncini %50 azalt.</AbilityDesc>
       <Abnormality>Porccubus</Abnormality>
       <CardName>Gülme Tozu</CardName>
       <AbilityDesc>[Tüm Müttefikler]
-Vuruldugunda, karakter Dengesizlesmis degilse 2-4 Denge Direnci iyilestirir.</AbilityDesc>
+Vuruldugunda, karakter  Sersemlemesizlesmis degilse 2-4  Sersemleme Direnci iyilestirir.</AbilityDesc>
       <FlaborText>Dikenlerden düsen toz dünyaya yayildiginda, insanlar sarhosluga batabilirdi.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Kafan yakinda mutlulukla dolacak.</Dialogue>
@@ -831,7 +831,7 @@ Vuruldugunda, karakter Dengesizlesmis degilse 2-4 Denge Direnci iyilestirir.</Ab
       <Abnormality>Alriune</Abnormality>
       <CardName>Çiçek Yapraklari</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Kütüphaneci Maksimum Caninin (HP Max.) %10'undan fazla Hasar aldiginda, tüm düsmanlar 4-8 Denge Hasari alir ve Kütüphaneci 5-10 Can (HP) iyilestirir.</AbilityDesc>
+Kütüphaneci Maksimum Caninin (HP Max.) %10'undan fazla Hasar aldiginda, tüm düsmanlar 4-8  Sersemleme Hasari alir ve Kütüphaneci 5-10 Can (HP) iyilestirir.</AbilityDesc>
       <FlaborText>Gözyaslari yerine çiçek yapraklari dökerek, bana konustun. “Bir zamanlar topragin bir parçasiydik, bu yüzden senden burada ve simdi sonu konusmamani istiyorum.”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Gözlerim yok, ama her seyi görebiliyorum.</Dialogue>
@@ -845,7 +845,7 @@ Kütüphaneci Maksimum Caninin (HP Max.) %10'undan fazla Hasar aldiginda, tüm d
       <CardName>Güz Adimi</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
 Vuruldugunda, 1 Aroma uygula.
-(Aroma: Bir Sahnenin basinda, Aroma miktarina esit Denge Hasari al ve Aroma miktarini yariya indir.)</AbilityDesc>
+(Aroma: Bir Sahnenin basinda, Aroma miktarina esit  Sersemleme Hasari al ve Aroma miktarini yariya indir.)</AbilityDesc>
       <FlaborText>Toza dönme umudunu tasiyarak, tüm o yasama arzusunu mezara geri götürecek.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Kefaretim, sogukta agir bir nefesle sona erdi.</Dialogue>
@@ -859,7 +859,7 @@ Vuruldugunda, 1 Aroma uygula.
       <CardName>Bahar Yaratilisi</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
 Her Sahne, rastgele bir düsmana bir 'Yaprak' eklenir.
-Bir karakter tek bir Sahnede 4 darbe aldiktan sonra, Tüm karakterler 3-7 Denge Hasari alir ve Kütüphaneci bir sonraki Sahnede hedef alinamaz.</AbilityDesc>
+Bir karakter tek bir Sahnede 4 darbe aldiktan sonra, Tüm karakterler 3-7  Sersemleme Hasari alir ve Kütüphaneci bir sonraki Sahnede hedef alinamaz.</AbilityDesc>
       <FlaborText>Solmayan çiçekler siddetle açti.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Dilegimi gerçeklestirecek olan sen misin?</Dialogue>
@@ -873,7 +873,7 @@ Bir karakter tek bir Sahnede 4 darbe aldiktan sonra, Tüm karakterler 3-7 Denge 
       <Abnormality>Sessiz Orkestra</Abnormality>
       <CardName>Sonsuz Performans</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Ele 'Sonsuz Performans' Sayfasi ekle: 'Maliyet 3 - [Kullanildiginda] Sahneyi bitir. Bir sonraki Sahnenin basinda, kullanicinin Can (HP) ve Denge Direnci bu Sayfayi edindigi degerlere geri döner ve tüm Isigi yeniler.'
+Ele 'Sonsuz Performans' Sayfasi ekle: 'Maliyet 3 - [Kullanildiginda] Sahneyi bitir. Bir sonraki Sahnenin basinda, kullanicinin Can (HP) ve  Sersemleme Direnci bu Sayfayi edindigi degerlere geri döner ve tüm Isigi yeniler.'
 Bu Sayfa ayrica sonraki Eylemlerin basinda Desteye dahil edilir.</AbilityDesc>
       <FlaborText>Performans bitmiyor ve Da Capo. Ve, Da Capo al Fine</FlaborText>
       <Dialogues>
@@ -900,7 +900,7 @@ Tüm düsmanlar 2 Sahne boyunca kendi müttefikleri dahil rastgele bir hedef se�
       <Abnormality>Sessiz Orkestra</Abnormality>
       <CardName>Final</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Seçilen Kütüphaneci bir düsmani Dengesizlestirdiginde, tüm düsmanlar bir sonraki Sahnenin basinda 1-6 Isik kaybeder.</AbilityDesc>
+Seçilen Kütüphaneci bir düsmani  Sersemlemesizlestirdiginde, tüm düsmanlar bir sonraki Sahnenin basinda 1-6 Isik kaybeder.</AbilityDesc>
       <FlaborText>“Müzik tüm varligini delip geçecek.”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Müzik tüm varligini delip geçecek.</Dialogue>
@@ -918,7 +918,7 @@ Seçilen Kütüphaneci bir düsmani Dengesizlestirdiginde, tüm düsmanlar bir s
       <CardName>Kan</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
 Savunma Zarlari 1-2 Güç kazanir.
-Vuruldugunda +3-5 Denge Hasari al.</AbilityDesc>
+Vuruldugunda +3-5  Sersemleme Hasari al.</AbilityDesc>
       <FlaborText>Dayanilmaz bir depresyon, banyoya bakan herkesi bunaltir.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">O kisi acisini sakince içine alamadi.</Dialogue>
@@ -949,7 +949,7 @@ Vuruldugunda, %20 sansla saldirilarin Hasarini 0'a indirir.</AbilityDesc>
       <Abnormality>Kan Banyosu</Abnormality>
       <CardName>Solgun Eller</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Ayni hedefe karsi üç basarili saldiridan sonra, 3-10 ek Denge Hasari ver.
+Ayni hedefe karsi üç basarili saldiridan sonra, 3-10 ek  Sersemleme Hasari ver.
 (Farkli bir hedefe saldirdiginda sifirlanir, Alan Saldirilari Hariç)</AbilityDesc>
       <FlaborText>Birçok el banyoda yüzüyor.
 Onlar, bir zamanlar sevdigim insanlarin elleri.</FlaborText>
@@ -999,7 +999,7 @@ Maksimum Cani (HP Max.) %15 artir. (Mevcut Can buna göre artar)
       <CardName>Coskulu Atislar</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
 Bu Sayfa seçildikten sonraki üçüncü Sahnenin sonunda seçilen Kütüphaneci ölür.
-Ölene kadar her Sahne 4 Güç, Dayaniklilik, Hiz ve Koruma kazanir. Tüm Denge Hasari dirençleri "Etkisiz" olarak degisir.</AbilityDesc>
+Ölene kadar her Sahne 4 Güç, Dayaniklilik, Hiz ve Koruma kazanir. Tüm  Sersemleme Hasari dirençleri "Etkisiz" olarak degisir.</AbilityDesc>
       <FlaborText>Sahibi olmayan bir kalp; vücuttan çikarildiktan sonra bile hala atiyor.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Evet, kalbinin hizli atisini hisset.</Dialogue>
@@ -1060,7 +1060,7 @@ Bir Sahnenin basinda, elindeki tüm Sayfalari desteye karistir ve 4 sayfa çek.<
       <CardName>Buz Kiymigi</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
 Bir Çatisma kazandiginda, %50 sansla bir sonraki Sahnede 1-3 Baglama uygula.
-Baglama durumundaki bir düsmana karsi +2-5 Denge Hasari ver.</AbilityDesc>
+Baglama durumundaki bir düsmana karsi +2-5  Sersemleme Hasari ver.</AbilityDesc>
       <FlaborText>Donmus kis ormaninda tek basina yasayan bir kraliçe.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Bu kilicin kenari soguk ve keskin.</Dialogue>
@@ -1137,8 +1137,8 @@ iki kat fiziksel Hasar ver ve al.</AbilityDesc>
       <Abnormality>Sessiz Kiz</Abnormality>
       <CardName>Suçluluk</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Denge Hasarini 1-3 azalt.
-Vuruldugunda, saldirgan bu karakterin aldigi fiziksel Hasara esit Denge Hasari alir.</AbilityDesc>
+ Sersemleme Hasarini 1-3 azalt.
+Vuruldugunda, saldirgan bu karakterin aldigi fiziksel Hasara esit  Sersemleme Hasari alir.</AbilityDesc>
       <FlaborText>Ancak, "Suçluluk" veya "Korku" tasiyan biriyle karsilastiginda, kiz arkasinda sakladigi bir çivi ve çekici ortaya çikarir.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Hala o aci verici anilara sahipsin... Zavalli.</Dialogue>
@@ -1156,7 +1156,7 @@ Vuruldugunda, saldirgan bu karakterin aldigi fiziksel Hasara esit Denge Hasari a
       <CardName>Ask</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
 Bir Saldiri Zari kullanarak Çatisma kazandiktan sonra, rastgele bir müttefik 3-5 Can (HP) iyilestirir.
-Bir Savunma Zari kullanarak Çatisma kazandiktan sonra, rastgele bir müttefik 2-4 Denge Direnci iyilestirir.</AbilityDesc>
+Bir Savunma Zari kullanarak Çatisma kazandiktan sonra, rastgele bir müttefik 2-4  Sersemleme Direnci iyilestirir.</AbilityDesc>
       <FlaborText>Ask ve Adalet adina~ iste Büyülü Kiz geliyor!</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Endiselenmeyin. Ben buradayken güvende olacaksiniz!</Dialogue>
@@ -1186,7 +1186,7 @@ Bir Savunma Zari kullanarak Çatisma kazandiktan sonra, rastgele bir müttefik 2
       <Abnormality>Nefret Kraliçesi</Abnormality>
       <CardName>Nefret</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Bir Çatisma kaybettikten sonra, 2-4 Denge Hasari al ve bir sonraki Sahnede 1 Güç kazan. (Sahne basina en fazla 2)
+Bir Çatisma kaybettikten sonra, 2-4  Sersemleme Hasari al ve bir sonraki Sahnede 1 Güç kazan. (Sahne basina en fazla 2)
 Tek bir Sahnede üç Çatisma kaybettikten sonra, eldeki en pahali Sayfanin Maliyetini 1 azalt. (Sahne basina bir kez)</AbilityDesc>
       <FlaborText>Dünyadaki her seyi sevmeye yemin etti, ama geriye kalan tek sey çökmüs bir kalpti.</FlaborText>
       <Dialogues>
@@ -1202,7 +1202,7 @@ Tek bir Sahnede üç Çatisma kaybettikten sonra, eldeki en pahali Sayfanin Mali
       <Abnormality>Umutsuzluk sövalyesi</Abnormality>
       <CardName>Kutsama</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Karakter önceki Sahnede saldirilardan Hasar aldiysa, bu karakterin en çok Hasar veren türe karsi direncini Sahne boyunca "Dayanikli" olarak degistir. (Hasar ve Denge Hasari ayri ayri uygulanir)</AbilityDesc>
+Karakter önceki Sahnede saldirilardan Hasar aldiysa, bu karakterin en çok Hasar veren türe karsi direncini Sahne boyunca "Dayanikli" olarak degistir. (Hasar ve  Sersemleme Hasari ayri ayri uygulanir)</AbilityDesc>
       <FlaborText>Koruma istegi, bunca zamandan sonra bile degismemis gibi görünüyor; hatta gözetim odasinda bile. Hala koruma eylemine takintili.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Geriye kalan tek sey bos bir sövalye onurudur.</Dialogue>
@@ -1302,8 +1302,8 @@ Ayrica, Kütüphaneci her Sahne 2 Güç kazanir, 2 Isik yeniler ve 2 ek Sayfa ç
       <Abnormality>Öfkenin Hizmetkari</Abnormality>
       <CardName>Yoldaslik</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-'Yoldaslik' mevcut degilken, seçilen Kütüphanecinin vurdugu ilk düsman o olarak isaretlenir. Seçilen Kütüphaneci 'Yoldaslik' karakterini yendiginde, tüm Kütüphaneciler 3 Isik yeniler, 10 Can (HP) ve Denge Direnci iyilestirir.</AbilityDesc>
-      <FlaborText>Öfkenin Hizmetkari adalete ve dengeye herkesten daha çok deger veriyordu, ama kralliginin bir düsmani olan Kesis ile gizlice arkadas olarak bilgi paylasmaya basladi.</FlaborText>
+'Yoldaslik' mevcut degilken, seçilen Kütüphanecinin vurdugu ilk düsman o olarak isaretlenir. Seçilen Kütüphaneci 'Yoldaslik' karakterini yendiginde, tüm Kütüphaneciler 3 Isik yeniler, 10 Can (HP) ve  Sersemleme Direnci iyilestirir.</AbilityDesc>
+      <FlaborText>Öfkenin Hizmetkari adalete ve  Sersemlemeye herkesten daha çok deger veriyordu, ama kralliginin bir düsmani olan Kesis ile gizlice arkadas olarak bilgi paylasmaya basladi.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Beni çagir... Adimla çagir beni...</Dialogue>
         <Dialogue ID="2">Arkadas... Arkadasim... Birbirine ihtiyaç duyanlar...</Dialogue>
@@ -1317,10 +1317,10 @@ Ayrica, Kütüphaneci her Sahne 2 Güç kazanir, 2 Isik yeniler ve 2 ek Sayfa ç
       <CardName>Asit Çamuru</CardName>
       <AbilityDesc>[Tüm Düsmanlar]
 Tüm düsmanlara 5 'Asinma' uygula. Asinma durumundaki düsmanlar ayrica mevcut Asinma miktarlarina esit Baglama kazanir.
-(Asinma: Sahne sonunda, Asinma miktarina esit Hasar al ve 1 azalt; vuruldugunda, Asinma miktarina esit ek Hasar ve Denge Hasari al.)</AbilityDesc>
+(Asinma: Sahne sonunda, Asinma miktarina esit Hasar al ve 1 azalt; vuruldugunda, Asinma miktarina esit ek Hasar ve  Sersemleme Hasari al.)</AbilityDesc>
       <FlaborText>ikisi sonunda karsilastiginda, Kesis, Hizmetkarin dünyasini yok etmek için sayisiz tebaa getirdi.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Denge bozulur ve adalet kaybolur...</Dialogue>
+        <Dialogue ID="1"> Sersemleme bozulur ve adalet kaybolur...</Dialogue>
         <Dialogue ID="2">Kaybetme sebebim buydu; Sevgili bir yoldasa yenildim.</Dialogue>
         <Dialogue ID="3">Onlari kullan ve onlar da seni kullansin. Biz buyuz.</Dialogue>
         <Dialogue ID="4">Bu daha önce de oldu... hepsi onlarin iyiligi için...</Dialogue>
@@ -1481,7 +1481,7 @@ Bir Sahnenin basinda, Kütüphanecinin bu Eylemde iyilestirdigi Can (HP) miktari
       <CardName>Gülüs</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
 Kütüphaneci Cani (HP) %50 veya daha azken vuruldugunda, %50 sansla bir Çiglik patlatir. (Sahne basina en fazla 3 kez)
-Çiglik, tüm düsmanlara 2-5 Denge Hasari verir ve bir sonraki Sahnede 1 Kirilganlik uygular.</AbilityDesc>
+Çiglik, tüm düsmanlara 2-5  Sersemleme Hasari verir ve bir sonraki Sahnede 1 Kirilganlik uygular.</AbilityDesc>
       <FlaborText>Cesetler Dagi'ndan; ölüm bir seye hayat verdi. Ölüm birbiriyle kaynasti, hepsi gülümsüyor.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Krrrh... Ghh... Grgh...</Dialogue>
@@ -1511,7 +1511,7 @@ Seçilen Kütüphaneci, savasin geri kalani boyunca öldürülen Kütüphaneci s
       <CardName>Su Korkusu</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
 Vurdugunda, bir sonraki Sahnede 1 Kanama uygula ve 1 Kan kazan. (Alan Saldirilari Hariç)
-'Kan' miktarina bagli olarak çesitli etkiler verir, örnegin Can (HP) pahasina saldiri Hasarini artirmak, Sahne basinda Denge Hasari almak ve Güç vermek.</AbilityDesc>
+'Kan' miktarina bagli olarak çesitli etkiler verir, örnegin Can (HP) pahasina saldiri Hasarini artirmak, Sahne basinda  Sersemleme Hasari almak ve Güç vermek.</AbilityDesc>
       <FlaborText>Kayip görünüyordu. Bir sey ariyordu, ama ne bulmak istedigini bilmiyor gibiydi.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Kan... Canli kan istiyorum!</Dialogue>
@@ -1577,7 +1577,7 @@ Her Sahne, Kütüphanecinin oynadigi ilk Zar, verdigi Hasar miktari kadar Can (H
       <Abnormality>Orada Hiçbir sey Yok</Abnormality>
       <CardName>Kabuk</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Saldirilardan gelen tüm Denge Hasarini sifirlar.</AbilityDesc>
+Saldirilardan gelen tüm  Sersemleme Hasarini sifirlar.</AbilityDesc>
       <FlaborText>Görünüsü bir insana benzer, ama kesinlikle insan degildir.  Kabugunu kullanabilmek için periyodik olarak çalisanlari yutar. iskelet ve organlar süreç sirasinda yerinden oynar, bu da tuhaf bir sekil almasina neden olur.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Se... vi... yo... rum... Seni seviyorum...</Dialogue>
@@ -1609,7 +1609,7 @@ Kütüphaneci bir Sayfa kullandiginda, eldeki rastgele bir Sayfayi iskartaya çi
       <Abnormality>Bilgelik Arayan Korkuluk</Abnormality>
       <CardName>Hasat</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Daha fazla Denge Direncine sahip bir düsmana saldirdiktan sonra, 2-4 ek Denge Hasari ver ve 2-5 Denge Direnci iyilestir. (Alan Saldirilari Hariç)</AbilityDesc>
+Daha fazla  Sersemleme Direncine sahip bir düsmana saldirdiktan sonra, 2-4 ek  Sersemleme Hasari ver ve 2-5  Sersemleme Direnci iyilestir. (Alan Saldirilari Hariç)</AbilityDesc>
       <FlaborText>Belirli çalisanlara karsi agresif davranir, beyinlerini almaya çalisir. Bu çalisanlar, zeka testinde "Mükemmel" alanlardir.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Daha zeki hissediyorum... Artik her seyi bilebilirim...</Dialogue>
@@ -1622,7 +1622,7 @@ Daha fazla Denge Direncine sahip bir düsmana saldirdiktan sonra, 2-4 ek Denge H
       <Abnormality>Bilgelik Arayan Korkuluk</Abnormality>
       <CardName>Tirmik</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Bir düsmani Dengesizlestirdikten sonra, o düsmanin iki Sayfasini kopyala ve 2 Maliyet daha aziyla Kütüphanecinin eline ekle.
+Bir düsmani  Sersemlemesizlestirdikten sonra, o düsmanin iki Sayfasini kopyala ve 2 Maliyet daha aziyla Kütüphanecinin eline ekle.
 Kopyalanan Sayfalar kullanildiginda Tükenir.
 (Yalnizca Yakin Dövüs Sayfalarini kopyalayabilir, eger Yalnizca Yakin Dövüs Anahtar Sayfasi takiliysa ve tersi; 'Isil Isil' pasifi olan karakterleri etkilemez)</AbilityDesc>
       <FlaborText>Tirmik, tarim arazileri yerine insan beyinlerini sürdü. Aramizdaki kaç bilge insan bu tirmik yüzünden hayatini kaybetti?</FlaborText>
@@ -1944,7 +1944,7 @@ Eger bir karakterin 5+ 'Günah'i varsa, Sahnenin basinda Maksimum Caninin (HP Ma
       <AbilityDesc>[Yalnizca Bir Müttefik]
 Bir Sahnenin basinda, tüm düsmanlara 'Büyülenmis' uygula.
 'Büyülenmis' düsmanlar bu Kütüphaneciyi Hedef olarak önceliklendirir ve saldirilariyla +2-4 Hasar verir.
-'Büyülenmis' düsmanlara karsi Çatismalarda 1-2 Güç kazanir ve bir Çatisma kazandiginda 2-5 Can (HP) ve Denge Direnci iyilestirir.</AbilityDesc>
+'Büyülenmis' düsmanlara karsi Çatismalarda 1-2 Güç kazanir ve bir Çatisma kazandiginda 2-5 Can (HP) ve  Sersemleme Direnci iyilestirir.</AbilityDesc>
       <FlaborText>Büyük Kus'un gözleri isigi hapsetti.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Parlak isik tuzaga düsürüldü.</Dialogue>
@@ -2014,7 +2014,7 @@ Bes Kütüphanecinin de bir Anormallik Sayfasi varsa, ayrica 1-2 Güç ve Dayani
       <CardName>Huzur</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
 'Davetsiz Misafir' mevcut degilken, seçilen Kütüphanecinin saldirdigi ilk düsman 'Davetsiz Misafir' olarak isaretlenir. (Alan Saldirilari Hariç)
-'Davetsiz Misafir'in tüm saldirilari 2-4 daha az Hasar ve Denge Hasari verir; ayrica, 'Davetsiz Misafir' saldirilardan 1-2 ek Hasar alir.</AbilityDesc>
+'Davetsiz Misafir'in tüm saldirilari 2-4 daha az Hasar ve  Sersemleme Hasari verir; ayrica, 'Davetsiz Misafir' saldirilardan 1-2 ek Hasar alir.</AbilityDesc>
       <FlaborText>Kus ormanda dolasmaya basladi, canavari ariyordu. Ama hiçbir sey yoktu. Hiçbir yaratik yoktu, Günes ya da Ay yoktu. Geriye kalan tek sey Kus ve Karanlik Orman'di.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Korkuya dayanabilenler huzura kavusacak...</Dialogue>
@@ -2060,7 +2060,7 @@ Bir Çatismada, saldirilarla 3-6 daha az Hasar ver, ama Blok Zarlari 1-3 Güç k
       <Abnormality>Cenneti Kazmak</Abnormality>
       <CardName>Dikkat ve Konsantrasyon</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Hasar Saptirirken iki kat Denge Hasari ver ve al.</AbilityDesc>
+Hasar Saptirirken iki kat  Sersemleme Hasari ver ve al.</AbilityDesc>
       <FlaborText>Bakisini saptirma, ona gözlerini dik. Onu bakisinin içinde tut.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Bu nefes kesici manzaraya gözlerini kirpmayacaksin.</Dialogue>
@@ -2119,7 +2119,7 @@ Ele 'Yükselt' Sayfasi ekle: 'Maliyet 0 - [Kullanildiginda] Maksimum Canin (HP M
       <Abnormality>Mavi Yildiz</Abnormality>
       <CardName>sehitlik</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Ele 'sehit' Sayfasi ekle: 'Maliyet 0 - [Kullanildiginda] Bu Sahne boyunca, saldirilarla 4-6 bonus Denge Hasari ver ama basarili bir saldiridan sonra 1-3 Hasar al.'</AbilityDesc>
+Ele 'sehit' Sayfasi ekle: 'Maliyet 0 - [Kullanildiginda] Bu Sahne boyunca, saldirilarla 4-6 bonus  Sersemleme Hasari ver ama basarili bir saldiridan sonra 1-3 Hasar al.'</AbilityDesc>
       <FlaborText>Yildizlar olarak tekrar bir araya gelelim.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Bu evrenin sonunda sonsuz mutlulugu birlikte tadalim.</Dialogue>
@@ -2132,7 +2132,7 @@ Ele 'sehit' Sayfasi ekle: 'Maliyet 0 - [Kullanildiginda] Bu Sahne boyunca, saldi
       <Abnormality>Mavi Yildiz</Abnormality>
       <CardName>Kefaret</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Bir Sahnenin basinda Dengesizlesmis herhangi bir karakter varsa, 3-7 Hasar alir ve tüm müttefikler Sahne boyunca 1 Güç kazanir. (Birden fazla Dengesizlesmis karakter daha fazla Güç vermez)</AbilityDesc>
+Bir Sahnenin basinda  Sersemlemesizlesmis herhangi bir karakter varsa, 3-7 Hasar alir ve tüm müttefikler Sahne boyunca 1 Güç kazanir. (Birden fazla  Sersemlemesizlesmis karakter daha fazla Güç vermez)</AbilityDesc>
       <FlaborText>Mavi Yildizimiz bizi kabul eden tek siginaktir. Burada tüm günahlarimizdan arinacagiz.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Bu kirli kabugu tamamen çikaralim ve parlak bir sekilde parlayalim.</Dialogue>
@@ -2145,7 +2145,7 @@ Bir Sahnenin basinda Dengesizlesmis herhangi bir karakter varsa, 3-7 Hasar alir 
       <Abnormality>Mavi Yildiz</Abnormality>
       <CardName>Özlem Dolu Bir Ses</CardName>
       <AbilityDesc>[Tüm Müttefikler]
-Tüm Müttefikler bu Sahne boyunca +2-4 Denge Hasari verir. Bu Sayfanin etkisi 3 Sahne sonra etkinlesir.</AbilityDesc>
+Tüm Müttefikler bu Sahne boyunca +2-4  Sersemleme Hasari verir. Bu Sayfanin etkisi 3 Sahne sonra etkinlesir.</AbilityDesc>
       <FlaborText>Yeni bir baslangiçta bir yildizin yükselisi. Sonsuz trompet sesini duymuyor musun?</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Bu sesi duyabiliyor musun? O kadar hevesle aradigimiz o özlem dolu yankiyi?</Dialogue>
@@ -2187,8 +2187,8 @@ Eger seçilen Kütüphaneci ayni zamanda 'Vaftiz' Anormallik Sayfasina sahipse, 
       <Abnormality>Beyaz Gece</Abnormality>
       <CardName>itiraf</CardName>
       <AbilityDesc>[Tüm Müttefikler]
-Denge Direncini tamamen iyilestirir ve tüm durum etkilerini kaldirir. (Dengesizlesmis Kütüphaneciler için de geçerlidir)
-Kabul süresi boyunca, saldirilardan 2 daha az Denge Hasari al.</AbilityDesc>
+ Sersemleme Direncini tamamen iyilestirir ve tüm durum etkilerini kaldirir. ( Sersemlemesizlesmis Kütüphaneciler için de geçerlidir)
+Kabul süresi boyunca, saldirilardan 2 daha az  Sersemleme Hasari al.</AbilityDesc>
       <FlaborText>Aciya katlanmaya istekli olmak, kefaretin yarisidir.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">...</Dialogue>
