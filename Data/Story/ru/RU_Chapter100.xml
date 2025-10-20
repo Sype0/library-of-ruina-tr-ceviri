@@ -7658,7 +7658,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep3_roland2</VoiceFile>
-          <Content>Aa, bu sefer farklı bir içki getirmişsin, absint mi?</Content>
+          <Content>Aa, bu sefer farklı bir içki getirmişsin, Rakı mı?</Content>
         </Dialog>
         <Dialog ID="4" Model="네짜흐">
           <Teller>Netzach</Teller>

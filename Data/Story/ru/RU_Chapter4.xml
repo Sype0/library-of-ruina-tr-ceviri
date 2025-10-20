@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="4">
-    <Title>4. Bölüm– Şehir Vebası–‘Bir hastalığım olmadığını söylüyorlar.’</Title>
+    <Title>4. Bölüm– Sehir Vebasi–‘Bir hastaligim olmadigini söylüyorlar.’</Title>
   </Chapter>
   <Group>
     <GroupName>Başlangıç</GroupName>
@@ -13,7 +13,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_argalia1-01</VoiceFile>
-          <Content>Thelma canım, benim sayemde güney bölümünün başkanı olarak konumunu koruyabileceğini biliyorsun değil mi? Belki benim içinde bir şeyler yapmalısın. Öyle değil mi?</Content>
+          <Content>Thelma canım, benim sayemde güney bölümünün başkanı olarak konumunu koruyabileceğini biliyorsun değil mi? Belki benim için de bir şeyler yapmalısın. Öyle değil mi?</Content>
         </Dialog>
         <Dialog ID="1" Model="???">
           <Teller>???</Teller>
@@ -148,7 +148,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_prol_ep1_angela6</VoiceFile>
-          <Content>Büyük annein uzun zaman önce kaybolduğunu söylememiş miydin?</Content>
+          <Content>annanenin uzun zaman önce kaybolduğunu söylememiş miydin?</Content>
         </Dialog>
         <Dialog ID="23" Model="롤랑">
           <Teller>Roland</Teller>
@@ -166,7 +166,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland8</VoiceFile>
-          <Content>Ne?... Benim gibi birisinin evlenmiş olması ilginizi çekmiyor, değil mi? Siz daha çok biz insanlar arasında gerçekleşen evlilik adındaki bu verimsiz uygulama ile ilgileniyorsunuz, Yanlış mıyım?</Content>
+          <Content>Ne?... Benim gibi birisinin evlenmiş olması ilginizi çekmiyor, değil mi? Siz daha çok biz insanlar arasında gerçekleşen evlilik adındaki bu verimsiz uygulama ile ilgileniyorsunuz, yanlış mıyım?</Content>
         </Dialog>
         <Dialog ID="26" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -178,7 +178,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland9</VoiceFile>
-          <Content>... Bu sadece eski bir hikaye, üzücü ve sıkıcı anlar ile dolu olanından. Beğenebileceğinz bie şey olduğunu düşünmüyorum.</Content>
+          <Content>... Bu sadece eski bir hikaye, üzücü ve sıkıcı anlar ile dolu olanından. Beğenebileceğiniz bir şey olduğunu düşünmüyorum.</Content>
         </Dialog>
         <Dialog ID="28" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -208,7 +208,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_prol_ep1_angela12</VoiceFile>
-          <Content>Milyonlarca yıl aynı kitabı sürekli okuduğunuzduğunuzu hayal edin. Kesinlikle içinde bir öfke büyürdü.</Content>
+          <Content>Milyonlarca yıl aynı kitabı sürekli okuduğunuzu hayal edin. Kesinlikle içinde bir öfke büyürdü.</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
           <Teller>Roland</Teller>
@@ -226,7 +226,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland13</VoiceFile>
-          <Content>Düzeltici olarak çalışmaya uygun birisiydim. Hepsi gibi berbat bir hikayeden gelen çalışkan birisi olup ve arı gibi çalışınca, berbat bir mahallede bir ev satın alabildim. Ve bu bazıların "ruh ikizi" dediği kişiyle tanşmamı sağladı</Content>
+          <Content>Düzeltici olarak çalışmaya uygun birisiydim. Hepsi gibi berbat bir hikayeden gelen çalışkan birisi olup arı gibi çalışınca, berbat bir mahallede bir ev satın alabildim. Ve bu bazılarının "ruh ikizi" dediği kişiyle tanşmamı sağladı</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
           <Teller>Roland</Teller>
@@ -244,7 +244,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland16</VoiceFile>
-          <Content>Ohh, Farkında olamdan fazla mı uzattım...?</Content>
+          <Content>Ohh, farkında olmadan fazla mı uzattım...?</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -262,7 +262,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland18</VoiceFile>
-          <Content>Bu arada kendisi de oldukça yüksek seviyeli bir düzelticiydi, İnsanlar ona güvenmekte çok da zorluk çekmiyorlardı.</Content>
+          <Content>Bu arada kendisi de oldukça yüksek seviyeli bir düzelticiydi, insanlar ona güvenmekte çok da zorluk çekmiyorlardı.</Content>
         </Dialog>
         <Dialog ID="42" Model="롤랑">
           <Teller>Roland</Teller>
@@ -292,13 +292,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland23</VoiceFile>
-          <Content>Endişelenmemiz gereken tek şey öğle yemeğinde ne yiyeceğimiz, akşamları nereyi gezeceğimiz veya cocuklarımız olursa ne isim vereceğimiz idi.</Content>
+          <Content>Endişelenmemiz gereken tek şey öğle yemeğinde ne yiyeceğimiz, akşamları nereyi gideceğimiz veya cocuklarımız olursa ne isim vereceğimiz idi.</Content>
         </Dialog>
         <Dialog ID="47" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland24</VoiceFile>
-          <Content>Bir gün eski bir dostumdan bir çağrı aldım. Evden biraz uzaktaydı ama acil olmasaydı beni aramazdı </Content>
+          <Content>Bir gün eski bir dostumdan bir çağrı aldım. Evden biraz uzaktaydı ama acil olmasaydı beni aramazdı.</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
           <Teller>Roland</Teller>
@@ -310,25 +310,25 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland26</VoiceFile>
-          <Content> İş aslına bakarsan çok da zor gözükmüyordu, ücreti de oldukça iyiydi. Bu yüzden almaya karar verdim</Content>
+          <Content> İş aslına bakarsan çok da zor gözükmüyordu, ücreti de oldukça iyiydi. Bu yüzden almaya karar verdim.</Content>
         </Dialog>
         <Dialog ID="50" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland27</VoiceFile>
-          <Content>Eşimin en sevdiği yemek olan pajeon'u ile ünlü bir bölgeye görevlendirilmiştim. Beni gönderirken neredeyse ağzının suyunun aktığını görebiliyordum</Content>
+          <Content>Eşimin en sevdiği yemek olan pajeon'u ile ünlü bir bölgeye görevlendirilmiştim. Beni gönderirken neredeyse ağzının suyunun aktığını görebiliyordum.</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland28</VoiceFile>
-          <Content>Beklediğinden daha iyi bir süpriz olsun diye hatta "U sirketinden" özel yalıtımlı bir kutu almıştım. Pajeon sanki yeni hazırlanmış gibi sıcak kalacaktı</Content>
+          <Content>Beklediğinden daha iyi bir süpriz olsun diye hatta "U sirketinden" özel yalıtımlı bir kutu almıştım. Pajeon sanki yeni hazırlanmış gibi sıcak kalacaktı.</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland29</VoiceFile>
-          <Content>Ama ben görevde iken yaşadığım bölgede büyük bir kaza oldu, tüm sokak nerdeyse çökmüştü. Eşim ile karnındaki cocuğumuz enkazın altında kalmıştı</Content>
+          <Content>Ama ben görevde iken yaşadığım bölgede büyük bir kaza oldu, tüm sokak nerdeyse çökmüştü. Eşim ile karnındaki cocuğumuz enkazın altında kalmıştı.</Content>
         </Dialog>
         <Dialog ID="53" Model="롤랑">
           <Teller>Roland</Teller>
@@ -370,7 +370,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_prol_ep1_angela15</VoiceFile>
-          <Content>Peki sen bu acı ile ile nasıl başa çıkıyorsun?</Content>
+          <Content>Peki sen bu acı ile nasıl başa çıkıyorsun?</Content>
         </Dialog>
         <Dialog ID="60" Model="롤랑">
           <Teller>Roland</Teller>
@@ -388,7 +388,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland36</VoiceFile>
-          <Content>Hmm? Burada çalışıyor olmanın bana bu kadar yakışmış olması sanırım? İlk şeyi ise şimdilik kendime saklayacağım, Tüm sırlarımı aynı anda ortaya dökmek eğlenceli olmaz değil mi?</Content>
+          <Content>Hmm? Burada çalışıyor olmanın bana bu kadar yakışmış olması sanırım? İlk şeyi ise şimdilik kendime saklayacağım, tüm sırlarımı aynı anda ortaya dökmek eğlenceli olmaz değil mi?</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>Angela</Teller>
