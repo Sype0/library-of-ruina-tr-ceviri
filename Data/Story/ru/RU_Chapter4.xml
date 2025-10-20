@@ -1045,7 +1045,7 @@
   </Episode>
 </Group>
 <Group>
-  <GroupName>Full-Stop Bürosu</GroupName>
+  <GroupName>Tam-Tarikat Durdurma Ofisi Bürosu</GroupName>
   <Episode>
     <EpisodeName>Bölüm 1</EpisodeName>
     <Place>
@@ -1120,7 +1120,7 @@
         <Teller>İbadetçi 1</Teller>
         <Title />
         <VoiceFile>ch4_Fullstop_ep1_religiousperson8</VoiceFile>
-        <Content>Neden çalıştığımı, neden para kazandığımı veya neden yaşadığımızı görmüyorum... amacı-mı... gayemi kaybetmişim gibi hissediyorum.</Content>
+        <Content>Neden çalıştığımı, neden para kazandığımı veya neden yaşadığımızı görmüyorum... amacımı... gayemi kaybetmişim gibi hissediyorum.</Content>
       </Dialog>
       <Dialog ID="12" Model="신도1">
         <Teller>İbadetçi 1</Teller>
@@ -1490,61 +1490,61 @@
       </Dialog>
       <Dialog ID="73" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki1-01</VoiceFile>
         <Content>Demek bu Eileen, 'Dişli Kilisesi' tarikatının lideri...</Content>
       </Dialog>
       <Dialog ID="74" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan1-01</VoiceFile>
         <Content>Hayatımda her türlü dişliyi gördüm, ama “düşünce dişlileri” benim için yeni.</Content>
       </Dialog>
       <Dialog ID="75" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei1</VoiceFile>
         <Content>Bu, onların söylentilere konu olan ayini olmalı.</Content>
       </Dialog>
       <Dialog ID="76" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki2</VoiceFile>
         <Content>Görünüşe göre kafalarının arkasına dişliler takarak daha akıllı oluyorlar mı?</Content>
       </Dialog>
       <Dialog ID="77" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan2-01</VoiceFile>
         <Content>Bu tamamen saçmalık.</Content>
       </Dialog>
       <Dialog ID="78" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan3-01</VoiceFile>
         <Content>Pekala, görelim. Shi Birliği Direktörü Yujin bizden istedi ki...</Content>
       </Dialog>
       <Dialog ID="79" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki3-01</VoiceFile>
         <Content>Kilise'nin on ibadetçisini öldür, liderlerini etkisiz hale getir ve onu güvence altına al.</Content>
       </Dialog>
       <Dialog ID="80" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei2</VoiceFile>
         <Content>Shi Birliği 2. Bölüm Direktörü'nün benden kişisel olarak bir talepte bulunmasını beklemiyordum. Garip bir şeyler dönüyor olabilir.</Content>
       </Dialog>
       <Dialog ID="81" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan4</VoiceFile>
         <Content>Ne kadar oturup izleyeceğiz? Şimdi ateş etmeye başlayamaz mıyız?</Content>
       </Dialog>
       <Dialog ID="82" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei3</VoiceFile>
         <Content>İşaretimi bekle...</Content>
       </Dialog>
@@ -1628,7 +1628,7 @@
       </Dialog>
       <Dialog ID="96" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei4</VoiceFile>
         <Content>Şimdi.</Content>
       </Dialog>
@@ -1658,43 +1658,43 @@
       </Dialog>
       <Dialog ID="101" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan5</VoiceFile>
         <Content>Kah, kaygan liderlerini vurmak neden bu kadar zor?</Content>
       </Dialog>
       <Dialog ID="102" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei5-01</VoiceFile>
         <Content>Kendi refleksleriyle mermilerden kaçmıyor gibi.</Content>
       </Dialog>
       <Dialog ID="103" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei6</VoiceFile>
         <Content>Sanki başka bir şey onun için yörüngeyi tahmin ediyormuş gibi.</Content>
       </Dialog>
       <Dialog ID="104" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki4</VoiceFile>
         <Content>Kafasındaki o “düşünce dişlileri” çılgın gibi dönüyor.</Content>
       </Dialog>
       <Dialog ID="105" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan6</VoiceFile>
         <Content>Lanet olsun. Bu mermiler için absürt miktarda para ödedik...</Content>
       </Dialog>
       <Dialog ID="106" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei7</VoiceFile>
         <Content>Tamaki. O dişlilerin hareket düzenini okuyabileceğini düşünüyor musun?</Content>
       </Dialog>
       <Dialog ID="107" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki5</VoiceFile>
         <Content>Yapabilirim.</Content>
       </Dialog>
@@ -1706,13 +1706,13 @@
       </Dialog>
       <Dialog ID="109" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki6-02</VoiceFile>
         <Content>Omuzunu sıyırdı.</Content>
       </Dialog>
       <Dialog ID="110" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei8</VoiceFile>
         <Content>Onu ben bitireceğim.</Content>
       </Dialog>
@@ -1730,7 +1730,7 @@
       </Dialog>
       <Dialog ID="113" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei9</VoiceFile>
         <Content>Mavi Yankı!</Content>
       </Dialog>
@@ -1772,7 +1772,7 @@
       </Dialog>
       <Dialog ID="120" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki7-02</VoiceFile>
         <Content>Hayır, sen değil.</Content>
       </Dialog>
@@ -1790,7 +1790,7 @@
       </Dialog>
       <Dialog ID="123" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei10</VoiceFile>
         <Content>Koşun!</Content>
       </Dialog>
@@ -1799,37 +1799,37 @@
       <PlaceName>Mekan: Bir Yeraltı Geçidi</PlaceName>
       <Dialog ID="124" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan7-01</VoiceFile>
         <Content>Neler oluyor? Mavi Yankı neden burada?</Content>
       </Dialog>
       <Dialog ID="125" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei11</VoiceFile>
         <Content>Hiçbir fikrim yok. Kahretsin, bizi öldürmeye çalışıyor gibi görünüyor.</Content>
       </Dialog>
       <Dialog ID="126" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan8</VoiceFile>
         <Content>Bu işi bitiremezsek, harcadığımız tüm mermiler yüzünden iflas edeceğiz!</Content>
       </Dialog>
       <Dialog ID="127" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki8-01</VoiceFile>
         <Content>Mavi Yankı'nın mermilerimizi saptırdığını gördün.</Content>
       </Dialog>
       <Dialog ID="128" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei12-01</VoiceFile>
         <Content>Ona hiçbir şekilde rakip olamayız. Her şeyi unut, şimdilik kaçıp hayatta kalmalıyız.</Content>
       </Dialog>
       <Dialog ID="129" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki9</VoiceFile>
         <Content>Neredeyse çıkışa yaklaştık.</Content>
       </Dialog>
@@ -1847,13 +1847,13 @@
       </Dialog>
       <Dialog ID="132" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei13</VoiceFile>
         <Content>Ah lanet olsun, sola!</Content>
       </Dialog>
       <Dialog ID="133" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan9</VoiceFile>
         <Content>Hıh, hıh...</Content>
       </Dialog>
@@ -1871,43 +1871,43 @@
       </Dialog>
       <Dialog ID="136" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei14</VoiceFile>
         <Content>Kahretsin! Silahlarımızı atmalıyız...</Content>
       </Dialog>
       <Dialog ID="137" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan10-01</VoiceFile>
         <Content>Çıldırdın mı? Onlar son derece pahalı!</Content>
       </Dialog>
       <Dialog ID="138" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki10</VoiceFile>
         <Content>Asla atmayacağız.</Content>
       </Dialog>
       <Dialog ID="139" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei15-01</VoiceFile>
         <Content>Ama sonsuza kadar da saklanamayız.</Content>
       </Dialog>
       <Dialog ID="140" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki11-01</VoiceFile>
         <Content>Liwei, bu...</Content>
       </Dialog>
       <Dialog ID="141" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei16</VoiceFile>
         <Content>Bu ne, bir Davet mi?</Content>
       </Dialog>
       <Dialog ID="142" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan11-01</VoiceFile>
         <Content>'Kütüphane' için mi? Hana'nın burayı bir Şehir Vebası olarak belirlediğini duydum.</Content>
       </Dialog>
@@ -1925,13 +1925,13 @@
       </Dialog>
       <Dialog ID="145" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei17</VoiceFile>
         <Content>Mavi Yankı, işlerinizi böldüğümüz için özür dileriz.</Content>
       </Dialog>
       <Dialog ID="146" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei18</VoiceFile>
         <Content>Burada gördüğümüz ve duyduğumuz her şeyi unutacağımıza söz veriyoruz, bu yüzden gitmemize izin verir misiniz?</Content>
       </Dialog>
@@ -1949,7 +1949,7 @@
       </Dialog>
       <Dialog ID="149" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki12</VoiceFile>
         <Content>...</Content>
       </Dialog>
@@ -1961,7 +1961,7 @@
       </Dialog>
       <Dialog ID="151" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei19</VoiceFile>
         <Content>...</Content>
       </Dialog>
@@ -1973,7 +1973,7 @@
       </Dialog>
       <Dialog ID="153" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan12-01</VoiceFile>
         <Content>Kah, ne olursa olsun! Liwei! O Davetle bir şeyler yap!</Content>
       </Dialog>
@@ -1985,7 +1985,7 @@
       </Dialog>
       <Dialog ID="155" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei20</VoiceFile>
         <Content>Kalemi olan var mı? Kağıdı imzalamak için bir şeye ihtiyacım var—</Content>
       </Dialog>
@@ -2009,13 +2009,13 @@
       </Dialog>
       <Dialog ID="159" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki13</VoiceFile>
         <Content>Çılgın piç...</Content>
       </Dialog>
       <Dialog ID="160" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei21-01</VoiceFile>
         <Content>Çabuk, adlarınızı buraya imzalayın!</Content>
       </Dialog>
@@ -2158,7 +2158,7 @@
         <Teller>Angela</Teller>
         <Title>Kütüphane Direktörü</Title>
         <VoiceFile>ch4_Fullstop_ep1_angela7</VoiceFile>
-        <Content>Ateşli silahların bu kadar erişilmez olmasının nedenini ne düşünüyorsunuz?</Content>
+        <Content>Ateşli silahların bu kadar erişilmez olmasının nedeninin ne olduğunu düşünüyorsunuz?</Content>
       </Dialog>
       <Dialog ID="184" Model="롤랑">
         <Teller>Roland</Teller>
@@ -2213,79 +2213,79 @@
       <PlaceName>Mekan: Kütüphane Girişi</PlaceName>
       <Dialog ID="192" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan13-01</VoiceFile>
         <Content>Phew... Bizi buraya kadar takip etmedi.</Content>
       </Dialog>
       <Dialog ID="193" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei22</VoiceFile>
         <Content>Sanki her şeyi bilen biri bizimle oyun oynuyormuş gibi.</Content>
       </Dialog>
       <Dialog ID="194" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki14</VoiceFile>
         <Content>Mavi Yankı her şeyi biliyor gibiydi.</Content>
       </Dialog>
       <Dialog ID="195" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei23</VoiceFile>
         <Content>Bir şekilde hayatta kaldığımız için minnettar olmalıyız.</Content>
       </Dialog>
       <Dialog ID="196" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan14-01</VoiceFile>
         <Content>Uf...</Content>
       </Dialog>
       <Dialog ID="197" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki15-01</VoiceFile>
         <Content>Bu kadar gergin olma, Stephan.</Content>
       </Dialog>
       <Dialog ID="198" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan15-01</VoiceFile>
         <Content>Nasıl gergin olmayayım ki~ Hakkında hiçbir şey bilmediğimiz Kütüphane'ye düştük.</Content>
       </Dialog>
       <Dialog ID="199" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan16-01</VoiceFile>
         <Content>Neredeyse hiç mermimiz kalmadığını biliyorsun, değil mi?</Content>
       </Dialog>
       <Dialog ID="200" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan17-01</VoiceFile>
         <Content>Uf... Eğer burada öleceksek, Mavi Yankı'dan kaçmanın ne anlamı vardı.</Content>
       </Dialog>
       <Dialog ID="201" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki16-01</VoiceFile>
         <Content>O zaman açıkçası biraz daha geç ölmeye çalışmalıyız.</Content>
       </Dialog>
       <Dialog ID="202" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei24-01</VoiceFile>
         <Content>Tüm insanlar sonunda ölür. Kaçınılmazı geciktirmenin bir anlamı yok.</Content>
       </Dialog>
       <Dialog ID="203" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan18-01</VoiceFile>
         <Content>Görüyorsun, haklı.</Content>
       </Dialog>
       <Dialog ID="204" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki17-01</VoiceFile>
         <Content>Endişelenme. Hallederim.</Content>
       </Dialog>
@@ -2297,7 +2297,7 @@
       </Dialog>
       <Dialog ID="206" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan19-01</VoiceFile>
         <Content>Hoooş bulduk~~ Ben Stephan, yakında öleceğim ve raflarınızdan birine arşivleneceğim...</Content>
       </Dialog>
@@ -2309,25 +2309,25 @@
       </Dialog>
       <Dialog ID="208" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan20-01</VoiceFile>
         <Content>Evet~ Güzel sözler için teşekkürler...</Content>
       </Dialog>
       <Dialog ID="209" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki18-01</VoiceFile>
         <Content>Moralimizi bozuyorsun.</Content>
       </Dialog>
       <Dialog ID="210" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei25</VoiceFile>
         <Content>...Ona aldırmayın. Şu anda zor durumdayız.</Content>
       </Dialog>
       <Dialog ID="211" Model="리웨이">
         <Teller>Liwei</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_liwei26-01</VoiceFile>
         <Content>Buradaki işi bitirip geri döneceğiz.</Content>
       </Dialog>
@@ -2345,25 +2345,25 @@
       </Dialog>
       <Dialog ID="214" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan21-01</VoiceFile>
         <Content>Bu kız hakkında kötü bir hissim var, Mavi Yankı kadar gizemli görünüyor...</Content>
       </Dialog>
       <Dialog ID="215" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan22-01</VoiceFile>
         <Content>Belki de Mavi Yankı'nın ellerinde ölmek daha iyi bir fikirdi...</Content>
       </Dialog>
       <Dialog ID="216" Model="타마키">
         <Teller>Tamaki</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki19-01</VoiceFile>
         <Content>Cik, cik, cik... Nesin sen, bir papağan mı? Hadi içeri gir artık.</Content>
       </Dialog>
       <Dialog ID="217" Model="스테판">
         <Teller>Stephan</Teller>
-        <Title>Full-Stop Düzelticisi</Title>
+        <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_stephan23-01</VoiceFile>
         <Content>Tamam, tamam...</Content>
       </Dialog>

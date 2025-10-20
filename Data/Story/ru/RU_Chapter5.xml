@@ -5557,949 +5557,946 @@ Tren olması gerektiği gibi çalışıyor.</Content>
       </Place>
     </Episode>
   </Group>
-  <Group>
-    <GroupName>The Crying Children</GroupName>
-    <Episode>
-      <EpisodeName>Episode 1</EpisodeName>
-      <Place>
-        <PlaceName>Localización: Dentro de la Carpa de Circo</PlaceName>
-        <Dialog ID="0" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald1</VoiceFile>
-          <Content>Este es... ¡El Circo de las Ocho en Punto!</Content>
-        </Dialog>
-        <Dialog ID="1" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald2</VoiceFile>
-          <Content>Traemos el mejor de los olores a la gente de la Ciudad que ha perdido sus tallos de flores.</Content>
-        </Dialog>
-        <Dialog ID="2" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip1</VoiceFile>
-          <Content>¿Qué...? ¿El Circo... de las Ocho en Punto?</Content>
-        </Dialog>
-        <Dialog ID="3" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald3</VoiceFile>
-          <Content>No me digas, ¿quizás no sabes lo que es un circo?</Content>
-        </Dialog>
-        <Dialog ID="4" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald4</VoiceFile>
-          <Content>¡Bueno, no importa! ¡Aventurarse en sabores desconocidos siempre viene con un dolor de estómago! </Content>
-        </Dialog>
-        <Dialog ID="5" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald5</VoiceFile>
-          <Content>Somos el circo que su singular propósito es esparcir semillas de flores en la gente.</Content>
-        </Dialog>
-        <Dialog ID="6" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald6</VoiceFile>
-          <Content>Si diez personas se volvieran payasos y esparcieran mil flores... ¡Oh, qué mundo más maravilloso sería!</Content>
-        </Dialog>
-        <Dialog ID="7" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip2</VoiceFile>
-          <Content>T—Tonterías... esto es...</Content>
-        </Dialog>
-        <Dialog ID="8" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip3</VoiceFile>
-          <Content>Uf... esas son... ... Oh, ¡qué demon...! Esas... esas son... personas...</Content>
-        </Dialog>
-        <Dialog ID="9" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald7</VoiceFile>
-          <Content>¡Wow! ¡Nuestro nuevo amigo payaso parece ser tímido!</Content>
-        </Dialog>
-        <Dialog ID="10" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald8</VoiceFile>
-          <Content>Quizás debería presentarte al resto de la tropa primero.</Content>
-        </Dialog>
-        <Dialog ID="11" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald9</VoiceFile>
-          <Content>Bien, ¿Sra. Sirena y Sr. Cuchillo? ¡Vamos a compartir nuestra sal con él!</Content>
-        </Dialog>
-        <Dialog ID="12" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip4</VoiceFile>
-          <Content>¡Para, detente!</Content>
-        </Dialog>
-        <Dialog ID="13" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald10</VoiceFile>
-          <Content>Oh, querido... parece que la Sra. Sirena no tenía suficiente práctica con su melena escamosa, chica perezosa... ¡Tu voz es demasiado baja! ¿O estás sintiendo timidez de repente? ¡No importa!</Content>
-        </Dialog>
-        <Dialog ID="14" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip5</VoiceFile>
-          <Content>Maniáticos... todo esto es anormal...</Content>
-        </Dialog>
-        <Dialog ID="15" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald11</VoiceFile>
-          <Content>¿Quién decide qué es normal y qué es anormal?</Content>
-        </Dialog>
-        <Dialog ID="16" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald12</VoiceFile>
-          <Content>Si todos usarán un gorro adornado con ratas elegantes en su cabeza... ¡¿Debería ser eso considerado normal?!</Content>
-        </Dialog>
-        <Dialog ID="17" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald13</VoiceFile>
-          <Content>¡Haha! ¡¡Hahahah!!</Content>
-        </Dialog>
-        <Dialog ID="18" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip6</VoiceFile>
-          <Content>Nunca serás considerado normal, eso seguro...</Content>
-        </Dialog>
-        <Dialog ID="19" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald14</VoiceFile>
-          <Content>¡Hmhpm... eres bastante rudo, no es así!</Content>
-        </Dialog>
-        <Dialog ID="20" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip7</VoiceFile>
-          <Content>El Circo de las Ocho en Punto...</Content>
-        </Dialog>
-        <Dialog ID="21" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip8</VoiceFile>
-          <Content>Ahora lo recuerdo. Son los que mantuvieron a la Oficina Wedge ocupada... y todos en la Oficina Dawn murieron porque no pudieron ayudar.</Content>
-        </Dialog>
-        <Dialog ID="22" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip9-01</VoiceFile>
-          <Content>... Si no fuera por basura como tú, quizás mi maestro y superiora estarían sanos y salvos.</Content>
-        </Dialog>
-        <Dialog ID="23" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip10</VoiceFile>
-          <Content>Qué coincidencia...</Content>
-        </Dialog>
-        <Dialog ID="24" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald15</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="25" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald16</VoiceFile>
-          <Content>Tú... ¡Estás comenzando a darme un hedor similar al mío! </Content>
-        </Dialog>
-        <Dialog ID="26" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald17</VoiceFile>
-          <Content>Pero el olor aún no es tan fuerte; ¡aún huele muy elegante!</Content>
-        </Dialog>
-        <Dialog ID="27" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip11-01</VoiceFile>
-          <Content>¡Cállate! Te mataré... aquí y ahora...</Content>
-        </Dialog>
-        <Dialog ID="28" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald18</VoiceFile>
-          <Content>Mmm... aún huele bien, demasiado bien...</Content>
-        </Dialog>
-        <Dialog ID="29" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald19</VoiceFile>
-          <Content>¡Pero y si mezclamos esa fragancia con un olor asqueroso para crear un nuevo aroma pantanoso!</Content>
-        </Dialog>
-        <Dialog ID="30" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald20</VoiceFile>
-          <Content>Vale, bien. ¡Ven a actuar conmigo, de acuerdo!</Content>
-        </Dialog>
-        <Dialog ID="31" Model="살바도르">
-          <Teller>¿Salvador?</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Salvador1-01</VoiceFile>
-          <Content>Joven Philip.</Content>
-        </Dialog>
-        <Dialog ID="32" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip13</VoiceFile>
-          <Content>... ¿Maestro? ¿Superiora?</Content>
-        </Dialog>
-        <Dialog ID="33" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip14</VoiceFile>
-          <Content>Qué... qué estás...</Content>
-        </Dialog>
-        <Dialog ID="34" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald21</VoiceFile>
-          <Content>Un gran aplauso para los tres payasos que liderarán el espectáculo ~ Clappity clap~</Content>
-        </Dialog>
-        <Dialog ID="35" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip15</VoiceFile>
-          <Content>Yo... qué demonios me has hecho...</Content>
-        </Dialog>
-        <Dialog ID="36" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald22</VoiceFile>
-          <Content>Whoopsie daisy, ¡estás haciendo una cara tan rara!</Content>
-        </Dialog>
-        <Dialog ID="37" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald23</VoiceFile>
-          <Content>¡La sorpresa es un estimulante, uno que lleva a las sonrisas y al entretenimiento!</Content>
-        </Dialog>
-        <Dialog ID="38" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald24</VoiceFile>
-          <Content>¡Una verdadera flor florece después de haberse enfrentado a todos sus demonios internos y haber ganado!</Content>
-        </Dialog>
-        <Dialog ID="39" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald25</VoiceFile>
-          <Content>No puedes reír hasta hartarte si no has tragado toda la fragancia de la tristeza, ¿sabes?</Content>
-        </Dialog>
-        <Dialog ID="40" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald26</VoiceFile>
-          <Content>¡Ahí es donde me gustaría ayudarte!</Content>
-        </Dialog>
-        <Dialog ID="41" Model="유나">
-          <Teller>¿Yuna?</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Yuna1</VoiceFile>
-          <Content>Philip... lamento no haber podido responder la pregunta que me hiciste entonces.</Content>
-        </Dialog>
-        <Dialog ID="42" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip16</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="43" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald27</VoiceFile>
-          <Content>Oh, ¡¿Qué inesperado giro de eventos?!</Content>
-        </Dialog>
-        <Dialog ID="44" Model="유나">
-          <Teller>¿Yuna?</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Yuna2</VoiceFile>
-          <Content>Yo...</Content>
-        </Dialog>
-        <Dialog ID="45" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip17</VoiceFile>
-          <Content>P-pero, el maestro tenía una esposa y niños...</Content>
-        </Dialog>
-        <Dialog ID="46" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald28</VoiceFile>
-          <Content>¡Hahaha! Qué infantil. ¡Es una telenovela tan típica la que tenemos aquí! </Content>
-        </Dialog>
-        <Dialog ID="47" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip18-01</VoiceFile>
-          <Content>Cállate... ¡¡¡Tú, no te atrevas a insultar a mis dos mentores con estas falsas ilusiones!!!</Content>
-        </Dialog>
-        <Dialog ID="48" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald29</VoiceFile>
-          <Content>¿Perdón? Nunca haría tales cosas.</Content>
-        </Dialog>
-        <Dialog ID="49" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald30</VoiceFile>
-          <Content>Lo que estás viendo ahora mismo... ¿No es la pútrida esencia de lo que crees que es cierto en tu corazón tan ciegamente? </Content>
-        </Dialog>
-        <Dialog ID="50" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald31</VoiceFile>
-          <Content>¡No importa realmente si es cierto! También estabas tan seguro sobre eso. ¡No entiendo por qué intentas negar tus propias afirmaciones!</Content>
-        </Dialog>
-        <Dialog ID="51" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald32</VoiceFile>
-          <Content>Lo estás pausando en el momento exacto, como si fuera una repetición que has visto una y otra vez... tiene que haber una razón para eso.</Content>
-        </Dialog>
-        <Dialog ID="52" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip19</VoiceFile>
-          <Content>¡Cállate, cierra tu maldita boca...!</Content>
-        </Dialog>
-        <Dialog ID="53" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald33</VoiceFile>
-          <Content>“¿Lo sabías? La razón por la que te rechazó y el tema que quería discutir contigo.”</Content>
-        </Dialog>
-        <Dialog ID="54" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip20</VoiceFile>
-          <Content>No... esto tiene que ser un sueño... ese—ese maldito payaso...</Content>
-        </Dialog>
-        <Dialog ID="55" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald34-01</VoiceFile>
-          <Content>“Es suficiente, Philip. Nosotros somos simplemente...”</Content>
-        </Dialog>
-        <Dialog ID="56" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip21</VoiceFile>
-          <Content>¡Todos son iguales... todos juegan conmigo!</Content>
-        </Dialog>
-        <Dialog ID="57" Model="살바도르">
-          <Teller>¿Salvador?</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Salvador2</VoiceFile>
-          <Content>... Joven Philip.</Content>
-        </Dialog>
-        <Dialog ID="58" Model="살바도르">
-          <Teller>¿Salvador?</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Salvador3</VoiceFile>
-          <Content>¿Qué esfuerzos has hecho para avanzar realmente con tus metas?</Content>
-        </Dialog>
-        <Dialog ID="59" Model="살바도르">
-          <Teller>¿Salvador?</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Salvador4</VoiceFile>
-          <Content>Has gastado la mayoría de tu energía fabricando todo tipo de sucios delirios sobre nosotros simplemente porque Yuna era reacia a responder tu pregunta. ¿Me equivoco?</Content>
-        </Dialog>
-        <Dialog ID="60" Model="유나">
-          <Teller>¿Yuna?</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Yuna3</VoiceFile>
-          <Content>¿Piensas que tienes algún derecho a culparnos?</Content>
-        </Dialog>
-        <Dialog ID="61" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip22</VoiceFile>
-          <Content>¡Para, detente... yo...!</Content>
-        </Dialog>
-        <Dialog ID="62" Model="유나">
-          <Teller>¿Yuna?</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Yuna4</VoiceFile>
-          <Content>Qué patético. Escapaste solo y ahora te haces la víctima.</Content>
-        </Dialog>
-        <Dialog ID="63" Model="유나">
-          <Teller>¿Yuna?</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Yuna5</VoiceFile>
-          <Content>Fue por tu incompetencia y ni siquiera intentaste arreglarlo... estuviste haciendo todo tipo de excusas vergonzosas.</Content>
-        </Dialog>
-        <Dialog ID="64" Model="유나">
-          <Teller>¿Yuna?</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Yuna6</VoiceFile>
-          <Content>Escapaste sin nosotros diciéndote a ti mismo que era para salvarnos y ahora nos culpas por eso.</Content>
-        </Dialog>
-        <Dialog ID="65" Model="유나">
-          <Teller>¿Yuna?</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Yuna7-01</VoiceFile>
-          <Content>Estás creyendo lo que sea que quieres creer. Porque te hace sentir mejor. ¿No es cierto?</Content>
-        </Dialog>
-        <Dialog ID="66" Model="유나">
-          <Teller>¿Yuna?</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Yuna8</VoiceFile>
-          <Content>Después de todo, es mucho más fácil pretender que estás pensando en los otros antes que en ti mismo, en lugar de aceptar quien eres realmente.</Content>
-        </Dialog>
-        <Dialog ID="67" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip23</VoiceFile>
-          <Content>Ambos... me abandonaron... muriendo así.</Content>
-        </Dialog>
-        <Dialog ID="68" Model="살바도르">
-          <Teller>¿Salvador?</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Salvador5</VoiceFile>
-          <Content>Aún no te has dado cuenta. Fue tonto de mi parte poner mi confianza en ti...</Content>
-        </Dialog>
-        <Dialog ID="69" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip24</VoiceFile>
-          <Content>¡Cállate! ¡¡¡Por qué te apareces ahora y me atormentas!!!</Content>
-        </Dialog>
-        <Dialog ID="70" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip25</VoiceFile>
-          <Content>Me sigues molestando hasta el final... ¡Déjame solo!</Content>
-        </Dialog>
-        <Dialog ID="71" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Promesa de Ayer</Title>
-          <VoiceFile>ch5_Crying_ep1_Pluto1</VoiceFile>
-          <Content>... Parece que necesitas ayuda.</Content>
-        </Dialog>
-        <Dialog ID="72" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip26</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="73" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Promesa de Ayer</Title>
-          <VoiceFile>ch5_Crying_ep1_Pluto2</VoiceFile>
-          <Content>¿No te sientes muy hablador, no es así? Bueno, está bien. Tenemos todo el tiempo del mundo, así que abrámonos poco a poco.</Content>
-        </Dialog>
-        <Dialog ID="74" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Promesa de Ayer</Title>
-          <VoiceFile>ch5_Crying_ep1_Pluto3</VoiceFile>
-          <Content>Cuando una persona se siente victimizada o enfadada, alguien tiene que acercarse y darles una mano.</Content>
-        </Dialog>
-        <Dialog ID="75" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Promesa de Ayer</Title>
-          <VoiceFile>ch5_Crying_ep1_Pluto4</VoiceFile>
-          <Content>Yo seré ese alguien para ti. Por eso estoy aquí.</Content>
-        </Dialog>
-        <Dialog ID="76" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Promesa de Ayer</Title>
-          <VoiceFile>ch5_Crying_ep1_Pluto5</VoiceFile>
-          <Content>Ahora, toma mi mano... bien, amablemente extenderé mi brazo hasta aquí para ti.</Content>
-        </Dialog>
-        <Dialog ID="77" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip27</VoiceFile>
-          <Content>¿Vas a... hacer mi sueño realidad?</Content>
-        </Dialog>
-        <Dialog ID="78" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Promesa de Ayer</Title>
-          <VoiceFile>ch5_Crying_ep1_Pluto6</VoiceFile>
-          <Content>Si expresas tu deseo, te daré lo que necesitas para hacerlo realidad. ¿Esta oferta suena insatisfactoria?</Content>
-        </Dialog>
-        <Dialog ID="79" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Promesa de Ayer</Title>
-          <VoiceFile>ch5_Crying_ep1_Pluto7</VoiceFile>
-          <Content>Puedo darte la fuerza para vengarte por ti mismo de ese bromista que te infligió tanto daño o puedo proveerte de armamento poderoso para salvar a las dos personas que amas.</Content>
-        </Dialog>
-        <Dialog ID="80" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip28</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="81" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip29</VoiceFile>
-          <Content>No... no quiero oír nada.</Content>
-        </Dialog>
-        <Dialog ID="82" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip30</VoiceFile>
-          <Content>No quiero ver nada... ni decir nada...</Content>
-        </Dialog>
-        <Dialog ID="83" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip31</VoiceFile>
-          <Content>Estoy cansado de todo eso. Ahora mismo, todo lo que quiero hacer...  es llorar fuertemente.</Content>
-        </Dialog>
-        <Dialog ID="84" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Promesa de Ayer</Title>
-          <VoiceFile>ch5_Crying_ep1_Pluto8</VoiceFile>
-          <Content>Por supuesto. Puedo ayudarte con eso.</Content>
-        </Dialog>
-        <Dialog ID="85" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Promesa de Ayer</Title>
-          <VoiceFile>ch5_Crying_ep1_Pluto9</VoiceFile>
-          <Content>Presta mucha atención a su voz...</Content>
-        </Dialog>
-        <Dialog ID="86" Model="필립">
-          <Teller>Philip</Teller>
-          <Title>Ex-Fixer de Dawn</Title>
-          <VoiceFile>ch5_Crying_ep1_Philip32</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="87" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald35</VoiceFile>
-          <Content>¡¿Qué es esto?! ¿Estás comenzando a desprender el mismo hedor que yo? </Content>
-        </Dialog>
-        <Dialog ID="88" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald36</VoiceFile>
-          <Content>¡Eres un hombre con talento! ¡Nunca me dijiste que podías hacer tales expresiones vibrantes~!</Content>
-        </Dialog>
-        <Dialog ID="89" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald37</VoiceFile>
-          <Content>Y... oh. ¿Puedes ser otro nuevo bufón que nos visita? ¡Te ves espléndido!</Content>
-        </Dialog>
-        <Dialog ID="90" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Promesa de Ayer</Title>
-          <VoiceFile>ch5_Crying_ep1_Pluto10</VoiceFile>
-          <Content>... Sí, hola. Mi nombre es Pluto.</Content>
-        </Dialog>
-        <Dialog ID="91" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald38</VoiceFile>
-          <Content>¡Has llegado en el momento exacto! Nosotros tres podríamos hacer un espectáculo maravilloso~</Content>
-        </Dialog>
-        <Dialog ID="92" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Promesa de Ayer</Title>
-          <VoiceFile>ch5_Crying_ep1_Pluto11</VoiceFile>
-          <Content>Bien, ¿puedo hacerte una sola pregunta?</Content>
-        </Dialog>
-        <Dialog ID="93" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Promesa de Ayer</Title>
-          <VoiceFile>ch5_Crying_ep1_Pluto12</VoiceFile>
-          <Content>¿Era la relación entre las tres personas que acabas de mostrar en el escenario realmente cierta?</Content>
-        </Dialog>
-        <Dialog ID="94" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald39</VoiceFile>
-          <Content>¡Pff, qué lamentable! ¡¿Por qué le importaría eso a nadie a estas alturas?!</Content>
-        </Dialog>
-        <Dialog ID="95" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald40</VoiceFile>
-          <Content>Lo que importa es que el espectáculo que le mostramos a nuestra audiencia sea divertido y entretenido, ¡¿no es cierto?!</Content>
-        </Dialog>
-        <Dialog ID="96" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Promesa de Ayer</Title>
-          <VoiceFile>ch5_Crying_ep1_Pluto13</VoiceFile>
-          <Content>Crear ilusiones de los deseos distorsionados de uno, eso es... puedo ver que este lugar amplifica los deseos de las personas al máximo.</Content>
-        </Dialog>
-        <Dialog ID="97" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald41</VoiceFile>
-          <Content>Sniff, sniff... también eres alguien bastante hediondo...</Content>
-        </Dialog>
-        <Dialog ID="98" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald42</VoiceFile>
-          <Content>Ooh, ¿también escuchaste su voz?</Content>
-        </Dialog>
-        <Dialog ID="99" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald43</VoiceFile>
-          <Content>... ¡No importa! ¡Ahooora, ahora! ¡La audiencia está esperando, así que únete a mí en el resto del espectáculo!</Content>
-        </Dialog>
-        <Dialog ID="100" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Promesa de Ayer</Title>
-          <VoiceFile>ch5_Crying_ep1_Pluto14</VoiceFile>
-          <Content>Me temo que este circo debe llegar a su fin a partir de hoy.</Content>
-        </Dialog>
-        <Dialog ID="101" Model="오스왈드">
-          <Teller>Oswald</Teller>
-          <Title>Director del Circo</Title>
-          <VoiceFile>ch5_Crying_ep1_Oswald44</VoiceFile>
-          <Content>¡¿De qué demonios estás hablando?!</Content>
-        </Dialog>
-        <Dialog ID="102" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Promesa de Ayer</Title>
-          <VoiceFile>ch5_Crying_ep1_Pluto15</VoiceFile>
-          <Content>Philip, aquí hay una Invitación para ti. Muévete hacia delante.</Content>
-        </Dialog>
-        <Dialog ID="103" Model="플루토">
-          <Teller>Pluto</Teller>
-          <Title>Promesa de Ayer</Title>
-          <VoiceFile>ch5_Crying_ep1_Pluto16</VoiceFile>
-          <Content>Y Oswald, te invito a un escenario mucho más grande donde seremos capaces de presentar el espectáculo más grande que jamás podrías haber imaginado.</Content>
-        </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
-        <Dialog ID="104" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland1</VoiceFile>
-          <Content>Ese tipo es muy miserable.</Content>
-        </Dialog>
-        <Dialog ID="105" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch5_Crying_ep1_Angela1</VoiceFile>
-          <Content>¿Estás simpatizando con él después de todo este tiempo? Lo llamaste egoísta y peligroso la última vez que lo vimos.</Content>
-        </Dialog>
-        <Dialog ID="106" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland2</VoiceFile>
-          <Content>Digo, eso es... no estoy realmente mostrando simpatía, es difícil explicarlo...</Content>
-        </Dialog>
-        <Dialog ID="107" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland3</VoiceFile>
-          <Content>Sigo pensando que la personalidad de Philip no tiene remedio, pero las circunstancias en las que se mete no le están ayudando a sus emociones para nada.</Content>
-        </Dialog>
-        <Dialog ID="108" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland4</VoiceFile>
-          <Content>Sé que dije que tragedias como esas son comunes, pero probablemente sigue sintiéndose arrinconado, ¿entiendes lo que quiero decir?</Content>
-        </Dialog>
-        <Dialog ID="109" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland5</VoiceFile>
-          <Content>Parecía que estaba a punto de superarlo, pero ese payaso llamado Oswald lo rompió de nuevo.</Content>
-        </Dialog>
-        <Dialog ID="110" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland6</VoiceFile>
-          <Content>Es difícil para mí solo reírme. No disfruto viendo como los demás se hunden en un pozo de miseria como si fuera una especie de espectáculo.</Content>
-        </Dialog>
-        <Dialog ID="111" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland7</VoiceFile>
-          <Content>Oh, no intento ser sentimental. Esto es esto, y eso es eso.</Content>
-        </Dialog>
-        <Dialog ID="112" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch5_Crying_ep1_Angela2</VoiceFile>
-          <Content>... Entiendo lo que quieres decir. Después de todo, es su propio fallo el que tiene que superar.</Content>
-        </Dialog>
-        <Dialog ID="113" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland8</VoiceFile>
-          <Content>Además de eso, me pregunto cómo se terminó viendo así.</Content>
-        </Dialog>
-        <Dialog ID="114" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch5_Crying_ep1_Angela3</VoiceFile>
-          <Content>La mezcla de emociones cruzó la línea llamada E.G.O, causando que se someta al tan llamado Fenómeno de la Distorsión... causando que se volviera una Anormalidad.</Content>
-        </Dialog>
-        <Dialog ID="115" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland9</VoiceFile>
-          <Content>Así es como sucede una Distorsión, ¿eh?... aunque puede que necesite algo más de explicación.</Content>
-        </Dialog>
-        <Dialog ID="116" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland10</VoiceFile>
-          <Content>¿Parecía bastante similar a como las personas se vuelven libros aquí en la Biblioteca?</Content>
-        </Dialog>
-        <Dialog ID="117" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch5_Crying_ep1_Angela4</VoiceFile>
-          <Content>También es similar al proceso de las Anormalidades volviéndose reales. Sin embargo, ese en específico parecía inestable.</Content>
-        </Dialog>
-        <Dialog ID="118" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch5_Crying_ep1_Angela5</VoiceFile>
-          <Content>Deseos y emociones distorsionadas... ¿Qué piensas que te mostraría ese escenario?</Content>
-        </Dialog>
-        <Dialog ID="119" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland11</VoiceFile>
-          <Content>Sería mi esposa, cien porciento seguro.</Content>
-        </Dialog>
-        <Dialog ID="120" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland12</VoiceFile>
-          <Content>Es sencillo. La mujer que no pude proteger camina directo hacia mí, yo lloro en desesperación, etcétera.</Content>
-        </Dialog>
-        <Dialog ID="121" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch5_Crying_ep1_Angela7</VoiceFile>
-          <Content>Eres bastante honesto.</Content>
-        </Dialog>
-        <Dialog ID="122" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland13</VoiceFile>
-          <Content>No tengo nada que perder, así que no tiene sentido mentir.</Content>
-        </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
-        <Dialog ID="123" Model="눈을 가린 아이">
-          <Teller>Niño que no ve</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Eyekid1</VoiceFile>
-          <Content>¿Dónde está esto?</Content>
-        </Dialog>
-        <Dialog ID="124" Model="귀를 막은 아이">
-          <Teller>Niño que no oye</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Earkid1</VoiceFile>
-          <Content>¡¿Quién dijo mierdas sobre mí ahora mismo?!</Content>
-        </Dialog>
-        <Dialog ID="125" Model="입을 감싼 아이">
-          <Teller>Niño que no habla</Teller>
-          <Title>???</Title>
-          <VoiceFile />
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="126" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch5_Crying_ep1_Angela8</VoiceFile>
-          <Content>Interesante. Hay tres de ellos.</Content>
-        </Dialog>
-        <Dialog ID="127" Model="눈을 가린 아이">
-          <Teller>Niño que no ve</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Eyekid2</VoiceFile>
-          <Content>Tienes una voz preciosa, eh, ¿señorita?</Content>
-        </Dialog>
-        <Dialog ID="128" Model="귀를 막은 아이">
-          <Teller>Niño que no oye</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Earkid2</VoiceFile>
-          <Content>¿Qué? ¿No quieres ni tratar conmigo porque me veo como un niño?</Content>
-        </Dialog>
-        <Dialog ID="129" Model="눈을 가린 아이">
-          <Teller>Niño que no ve</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Eyekid3</VoiceFile>
-          <Content>¿Esa señorita con voz hermosa nos menosprecia o algo?</Content>
-        </Dialog>
-        <Dialog ID="130" Model="귀를 막은 아이">
-          <Teller>Niño que no oye</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Earkid3</VoiceFile>
-          <Content>Sí, lo hizo. Este es un lugar muy raro.</Content>
-        </Dialog>
-        <Dialog ID="131" Model="입을 감싼 아이">
-          <Teller>Niño que no habla</Teller>
-          <Title>???</Title>
-          <VoiceFile />
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="132" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch5_Crying_ep1_Angela9</VoiceFile>
-          <Content>Qué grosero. Bueno, supongo que los invitados son invitados.</Content>
-        </Dialog>
-        <Dialog ID="133" Model="눈을 가린 아이">
-          <Teller>Niño que no ve</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Eyekid4</VoiceFile>
-          <Content>¿Qué pasa ahora, qué pasa con este ruido?</Content>
-        </Dialog>
-        <Dialog ID="134" Model="입을 감싼 아이">
-          <Teller>Niño que no habla</Teller>
-          <Title>???</Title>
-          <VoiceFile />
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="135" Model="귀를 막은 아이">
-          <Teller>Niño que no oye</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Earkid4</VoiceFile>
-          <Content>Apuesto que alguien me está diciendo todo tipo de insultos.</Content>
-        </Dialog>
-        <Dialog ID="136" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch5_Crying_ep1_Angela11</VoiceFile>
-          <Content>¿Ves esa puerta detrás mío? Pasarás por ahí.</Content>
-        </Dialog>
-        <Dialog ID="137" Model="눈을 가린 아이">
-          <Teller>Niño que no ve</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Eyekid5</VoiceFile>
-          <Content>¿Puerta...? Sí, las puertas son buenas... ¿Pero dónde está esa puerta?</Content>
-        </Dialog>
-        <Dialog ID="138" Model="귀를 막은 아이">
-          <Teller>Niño que no oye</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Earkid5</VoiceFile>
-          <Content>Ella está apuntando algo. ¿Nos está diciendo que nos vayamos a la mierda por ahí?</Content>
-        </Dialog>
-        <Dialog ID="139" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch5_Crying_ep1_Angela12</VoiceFile>
-          <Content>Date prisa y entra. No tengo ganas de ser capturada por tus molestos poderes.</Content>
-        </Dialog>
-        <Dialog ID="140" Model="입을 감싼 아이">
-          <Teller>Niño que no habla</Teller>
-          <Title>???</Title>
-          <VoiceFile>ch5_Crying_ep1_Mousekid4</VoiceFile>
-          <Content>!! !!!</Content>
-        </Dialog>
-        <Dialog ID="141" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch5_Crying_ep1_Angela13</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-      </Place>
-    </Episode>
-    <Episode>
-      <EpisodeName>Episode 1 Epilogue</EpisodeName>
-      <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
-        <Dialog ID="0" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland15</VoiceFile>
-          <Content>Y entonces uno de ellos se separó del tipo grande y se escapó mientras se volvía un libro...</Content>
-        </Dialog>
-        <Dialog ID="1" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland16</VoiceFile>
-          <Content>En el fondo aún seguía siendo un cobarde. Nada sobre él cambió realmente.</Content>
-        </Dialog>
-        <Dialog ID="2" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch5_Crying_ep1_Angela14</VoiceFile>
-          <Content>Debió ser la voluntad de la Biblioteca dejar que eso pasara.</Content>
-        </Dialog>
-        <Dialog ID="3" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland17</VoiceFile>
-          <Content>La voluntad de la Biblioteca, ¿eh?... de verdad que trabaja de formas misteriosas.</Content>
-        </Dialog>
-        <Dialog ID="4" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland18</VoiceFile>
-          <Content>Sé lo fea que puede ser la mente humana, pero eso fue asquerosamente explícito.</Content>
-        </Dialog>
-        <Dialog ID="5" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch5_Crying_ep1_Angela15</VoiceFile>
-          <Content>Quizás las mentes de todos son así de vulgares en el fondo, cubiertas con capas de mentiras.</Content>
-        </Dialog>
-        <Dialog ID="6" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland19</VoiceFile>
-          <Content>¿Y la Distorsión descubre todo eso para exponer sus verdaderos sentimientos?</Content>
-        </Dialog>
-        <Dialog ID="7" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch5_Crying_ep1_Angela16</VoiceFile>
-          <Content>No puedo asegurar si es la expresión pura sin adulterar de sus sentimientos. Aún no estoy segura si la Distorsión revela las emociones o las emociones se distorsionan mientras son liberadas.</Content>
-        </Dialog>
-        <Dialog ID="8" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch5_Crying_ep1_Angela17</VoiceFile>
-          <Content>Sin embargo, debería revelar su lado más honesto, habiendo retirado todas las mentiras.</Content>
-        </Dialog>
-        <Dialog ID="9" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland20</VoiceFile>
-          <Content>Eso debe sentirse como estar desnudo, ¿eh?</Content>
-        </Dialog>
-        <Dialog ID="10" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch5_Crying_ep1_Roland21</VoiceFile>
-          <Content>Nada es más vergonzoso y embarazoso que los momentos justo después de dejar salir todos tus sentimientos honestos.</Content>
-        </Dialog>
-        <Dialog ID="11" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch5_Crying_ep1_Angela18</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-      </Place>
-    </Episode>
-  </Group>
+<Group>
+  <GroupName>Ağlayan Çocuklar</GroupName>
+  <Episode>
+    <EpisodeName>Bölüm 1</EpisodeName>
+    <Place>
+      <PlaceName>Konum: Sirk Çadırının İçi</PlaceName>
+      <Dialog ID="0" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald1</VoiceFile>
+        <Content>İşte... Saat Sekiz Sirki!</Content>
+      </Dialog>
+      <Dialog ID="1" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald2</VoiceFile>
+        <Content>Çiçek saplarını kaybetmiş Şehir halkına en iyi kokuyu getiriyoruz.</Content>
+      </Dialog>
+      <Dialog ID="2" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip1</VoiceFile>
+        <Content>Ne...? Saat Sekiz... Sirki mi?</Content>
+      </Dialog>
+      <Dialog ID="3" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald3</VoiceFile>
+        <Content>Söyleme bana, belki de bir sirkin ne olduğunu bilmiyorsun?</Content>
+      </Dialog>
+      <Dialog ID="4" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald4</VoiceFile>
+        <Content>Pekâlâ, önemli değil! Bilinmeyen tatlara atılmak her zaman mide ağrısıyla birlikte gelir!</Content>
+      </Dialog>
+      <Dialog ID="5" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald5</VoiceFile>
+        <Content>Bizim yegane amacımız, insanlara çiçek tohumları yaymak olan sirktir.</Content>
+      </Dialog>
+      <Dialog ID="6" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald6</VoiceFile>
+        <Content>On kişi palyaço olup bin çiçek yayarsa... Ah, ne kadar harika bir dünya olurdu!</Content>
+      </Dialog>
+      <Dialog ID="7" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip2</VoiceFile>
+        <Content>Saçm... Saçmalık... bu...</Content>
+      </Dialog>
+      <Dialog ID="8" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip3</VoiceFile>
+        <Content>Öf... bunlar... ... Aman Tanrım...! Bunlar... bunlar... insanlar...</Content>
+      </Dialog>
+      <Dialog ID="9" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald7</VoiceFile>
+        <Content>Vay canına! Yeni palyaço dostumuz utangaç görünüyor!</Content>
+      </Dialog>
+      <Dialog ID="10" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald8</VoiceFile>
+        <Content>Belki önce seni ekibin geri kalanıyla tanıştırmalıyım.</Content>
+      </Dialog>
+      <Dialog ID="11" Model="오स्왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald9</VoiceFile>
+        <Content>Pekala, Bayan Denizkızı ve Bay Bıçak? Gelin tuzumuzu onunla paylaşalım!</Content>
+      </Dialog>
+      <Dialog ID="12" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip4</VoiceFile>
+        <Content>Dur, dur!</Content>
+      </Dialog>
+      <Dialog ID="13" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald10</VoiceFile>
+        <Content>Ah, canım... Bayan Denizkızı pullu yelesiyle yeterince pratik yapmamış görünüyor, tembel kız... Sesin çok alçak! Yoksa aniden utangaç mı oldun? Önemli değil!</Content>
+      </Dialog>
+      <Dialog ID="14" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip5</VoiceFile>
+        <Content>Manyaklar... tüm bunlar anormal...</Content>
+      </Dialog>
+      <Dialog ID="15" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald11</VoiceFile>
+        <Content>Ne normaldir ve ne anormaldir kim karar verir?</Content>
+      </Dialog>
+      <Dialog ID="16" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald12</VoiceFile>
+        <Content>Eğer herkes kafasında şık sıçanlarla süslenmiş bir şapka taksaydı... Bu normal mi sayılmalıydı?!</Content>
+      </Dialog>
+      <Dialog ID="17" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald13</VoiceFile>
+        <Content>Haha! Hahahah!!</Content>
+      </Dialog>
+      <Dialog ID="18" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip6</VoiceFile>
+        <Content>Senin normal sayılmayacağın kesin...</Content>
+      </Dialog>
+      <Dialog ID="19" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald14</VoiceFile>
+        <Content>Hmhpm... oldukça kaba biriymişsin, öyle değil mi!</Content>
+      </Dialog>
+      <Dialog ID="20" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip7</VoiceFile>
+        <Content>Saat Sekiz Sirki...</Content>
+      </Dialog>
+      <Dialog ID="21" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip8</VoiceFile>
+        <Content>Şimdi hatırladım. Wedge Bürosu'nu meşgul edenler onlardı... ve Dawn Bürosu'ndaki herkes yardım edemedikleri için öldü.</Content>
+      </Dialog>
+      <Dialog ID="22" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip9-01</VoiceFile>
+        <Content>... Senin gibi çöpler olmasaydı, belki ustam ve kıdemlim güvende ve sağlam olurlardı.</Content>
+      </Dialog>
+      <Dialog ID="23" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip10</VoiceFile>
+        <Content>Ne tesadüf ama...</Content>
+      </Dialog>
+      <Dialog ID="24" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald15</VoiceFile>
+        <Content>...</Content>
+      </Dialog>
+      <Dialog ID="25" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald16</VoiceFile>
+        <Content>Sen... Bana benimkine benzer bir koku vermeye başlıyorsun!</Content>
+      </Dialog>
+      <Dialog ID="26" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald17</VoiceFile>
+        <Content>Ama koku henüz o kadar güçlü değil; hala çok şık kokuyor!</Content>
+      </Dialog>
+      <Dialog ID="27" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip11-01</VoiceFile>
+        <Content>Kapa çeneni! Seni öldüreceğim... hemen burada ve şimdi...</Content>
+      </Dialog>
+      <Dialog ID="28" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald18</VoiceFile>
+        <Content>Mmm... hala iyi kokuyor, çok iyi...</Content>
+      </Dialog>
+      <Dialog ID="29" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald19</VoiceFile>
+        <Content>Ama ya o güzel kokuyu pis bir kokuyla karıştırıp yeni bir bataklık kokusu yaratırsak!</Content>
+      </Dialog>
+      <Dialog ID="30" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald20</VoiceFile>
+        <Content>Tamam, tamam. Gel ve benimle sahneye çık, olur mu!</Content>
+      </Dialog>
+      <Dialog ID="31" Model="살바도르">
+        <Teller>Salvador?</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Salvador1-01</VoiceFile>
+        <Content>Genç Philip.</Content>
+      </Dialog>
+      <Dialog ID="32" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip13</VoiceFile>
+        <Content>... Usta? Kıdemli?</Content>
+      </Dialog>
+      <Dialog ID="33" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip14</VoiceFile>
+        <Content>Ne... ne yapıyorsun...</Content>
+      </Dialog>
+      <Dialog ID="34" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald21</VoiceFile>
+        <Content>Şova öncülük edecek üç palyaço için büyük bir alkış ~ Şlap şlap~</Content>
+      </Dialog>
+      <Dialog ID="35" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip15</VoiceFile>
+        <Content>Sen... bana ne yaptın...</Content>
+      </Dialog>
+      <Dialog ID="36" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald22</VoiceFile>
+        <Content>Hoppala, çok tuhaf bir surat yapıyorsun!</Content>
+      </Dialog>
+      <Dialog ID="37" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald23</VoiceFile>
+        <Content>Şaşkınlık bir uyarıcıdır, gülümsemeye ve eğlenceye yol açan bir uyarıcı!</Content>
+      </Dialog>
+      <Dialog ID="38" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald24</VoiceFile>
+        <Content>Gerçek bir çiçek, tüm içindeki şeytanlarla yüzleştikten ve kazandıktan sonra açar!</Content>
+      </Dialog>
+      <Dialog ID="39" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald25</VoiceFile>
+        <Content>Tüm o keder kokusunu yutmadan doyasıya gülemezsin, biliyor musun?</Content>
+      </Dialog>
+      <Dialog ID="40" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald26</VoiceFile>
+        <Content>İşte bu noktada sana yardım etmek isterim!</Content>
+      </Dialog>
+      <Dialog ID="41" Model="유나">
+        <Teller>Yuna?</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Yuna1</VoiceFile>
+        <Content>Philip... O zaman sorduğun soruyu yanıtlayamadığım için üzgünüm.</Content>
+      </Dialog>
+      <Dialog ID="42" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip16</VoiceFile>
+        <Content>...</Content>
+      </Dialog>
+      <Dialog ID="43" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald27</VoiceFile>
+        <Content>Ah, ne beklenmedik bir olay örgüsü dönüşü?!</Content>
+      </Dialog>
+      <Dialog ID="44" Model="유나">
+        <Teller>Yuna?</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Yuna2</VoiceFile>
+        <Content>Ben...</Content>
+      </Dialog>
+      <Dialog ID="45" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip17</VoiceFile>
+        <Content>A-ama, ustanın bir karısı ve çocukları vardı...</Content>
+      </Dialog>
+      <Dialog ID="46" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald28</VoiceFile>
+        <Content>Hahaha! Ne kadar çocukça. İşte burada tam bir tipik sabun köpüğü var!</Content>
+      </Dialog>
+      <Dialog ID="47" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip18-01</VoiceFile>
+        <Content>Kapa çeneni... Sen, bu sahte yanılsamalarla iki akıl hocamı aşağılamaya cüret etme!!!</Content>
+      </Dialog>
+      <Dialog ID="48" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald29</VoiceFile>
+        <Content>Affedersin? Asla böyle şeyler yapmam.</Content>
+      </Dialog>
+      <Dialog ID="49" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald30</VoiceFile>
+        <Content>Şu anda gördüğün şey... Körlemesine kalbinde doğru olduğuna inandığın şeyin çürümüş özü değil mi?</Content>
+      </Dialog>
+      <Dialog ID="50" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald31</VoiceFile>
+        <Content>Gerçek olup olmaması gerçekten önemli değil! Bundan sen de o kadar emindin. Kendi iddialarını neden inkar etmeye çalıştığını anlamıyorum!</Content>
+      </Dialog>
+      <Dialog ID="51" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald32</VoiceFile>
+        <Content>Bunu tam doğru zamanda duraklatıyorsun, sanki tekrar tekrar izlediğin bir tekrar gibi... bunun bir nedeni olmalı.</Content>
+      </Dialog>
+      <Dialog ID="52" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip19</VoiceFile>
+        <Content>Kapa çeneni, o lanet olası ağzını kapat...!</Content>
+      </Dialog>
+      <Dialog ID="53" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald33</VoiceFile>
+        <Content>“Biliyor muydun? Seni reddetmesinin ve seninle konuşmak istediği konunun sebebini.”</Content>
+      </Dialog>
+      <Dialog ID="54" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip20</VoiceFile>
+        <Content>Hayır... bu bir rüya olmalı... o—o lanet palyaço...</Content>
+      </Dialog>
+      <Dialog ID="55" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald34-01</VoiceFile>
+        <Content>“Yeter, Philip. Biz sadece...”</Content>
+      </Dialog>
+      <Dialog ID="56" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip21</VoiceFile>
+        <Content>Hepsi aynı... hepsi benimle oynuyor!</Content>
+      </Dialog>
+      <Dialog ID="57" Model="살바도르">
+        <Teller>Salvador?</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Salvador2</VoiceFile>
+        <Content>... Genç Philip.</Content>
+      </Dialog>
+      <Dialog ID="58" Model="살바도르">
+        <Teller>Salvador?</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Salvador3</VoiceFile>
+        <Content>Hedeflerine ulaşmak için gerçekten ne kadar çaba gösterdin?</Content>
+      </Dialog>
+      <Dialog ID="59" Model="살바도르">
+        <Teller>Salvador?</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Salvador4</VoiceFile>
+        <Content>Sadece Yuna'nın soruna cevap vermeye isteksiz olması yüzünden, hakkımızda her türlü pis sanrıyı uydurmak için enerjinin çoğunu harcadın. Yanılıyor muyum?</Content>
+      </Dialog>
+      <Dialog ID="60" Model="유나">
+        <Teller>Yuna?</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Yuna3</VoiceFile>
+        <Content>Bizi suçlamaya hakkın olduğunu mu düşünüyorsun?</Content>
+      </Dialog>
+      <Dialog ID="61" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip22</VoiceFile>
+        <Content>Dur, dur... Ben...!</Content>
+      </Dialog>
+      <Dialog ID="62" Model="유나">
+        <Teller>Yuna?</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Yuna4</VoiceFile>
+        <Content>Ne kadar zavallı. Tek başına kaçtın ve şimdi kendini kurban gibi gösteriyorsun.</Content>
+      </Dialog>
+      <Dialog ID="63" Model="유나">
+        <Teller>Yuna?</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Yuna5</VoiceFile>
+        <Content>Bu senin beceriksizliğindi ve bunu düzeltmeye bile çalışmadın... sadece her türlü utanç verici bahaneyi uyduruyordun.</Content>
+      </Dialog>
+      <Dialog ID="64" Model="유나">
+        <Teller>Yuna?</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Yuna6</VoiceFile>
+        <Content>Bizi kurtarmak için olduğunu kendine söyleyerek bizsiz kaçtın ve şimdi bunun için bizi suçluyorsun.</Content>
+      </Dialog>
+      <Dialog ID="65" Model="유나">
+        <Teller>Yuna?</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Yuna7-01</VoiceFile>
+        <Content>İnanmak istediğin her şeye inanıyorsun. Çünkü bu, kendini daha iyi hissettiriyor. Öyle değil mi?</Content>
+      </Dialog>
+      <Dialog ID="66" Model="유나">
+        <Teller>Yuna?</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Yuna8</VoiceFile>
+        <Content>Sonuçta, gerçekten kim olduğunu kabul etmektense, başkalarını kendinden önce düşündüğünü iddia etmek çok daha kolaydır.</Content>
+      </Dialog>
+      <Dialog ID="67" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip23</VoiceFile>
+        <Content>İkiniz de... beni terk ettiniz... böyle ölerek.</Content>
+      </Dialog>
+      <Dialog ID="68" Model="살바도르">
+        <Teller>Salvador?</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Salvador5</VoiceFile>
+        <Content>Hala anlamadın. Sana güvenmek aptallıktı...</Content>
+      </Dialog>
+      <Dialog ID="69" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip24</VoiceFile>
+        <Content>Kapa çeneni! Neden şimdi ortaya çıkıp bana eziyet ediyorsun!!!</Content>
+      </Dialog>
+      <Dialog ID="70" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip25</VoiceFile>
+        <Content>Sonuna kadar beni rahatsız etmeye devam ediyorsun... Beni yalnız bırak!</Content>
+      </Dialog>
+      <Dialog ID="71" Model="플루토">
+        <Teller>Pluto</Teller>
+        <Title>Dünün Vaadi</Title>
+        <VoiceFile>ch5_Crying_ep1_Pluto1</VoiceFile>
+        <Content>... Yardıma ihtiyacın var gibi görünüyor.</Content>
+      </Dialog>
+      <Dialog ID="72" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip26</VoiceFile>
+        <Content>...</Content>
+      </Dialog>
+      <Dialog ID="73" Model="플루토">
+        <Teller>Pluto</Teller>
+        <Title>Dünün Vaadi</Title>
+        <VoiceFile>ch5_Crying_ep1_Pluto2</VoiceFile>
+        <Content>Pek konuşkan hissetmiyorsun, değil mi? Pekala, sorun değil. Tüm zamanımız var, o yüzden yavaş yavaş açılalım.</Content>
+      </Dialog>
+      <Dialog ID="74" Model="플루토">
+        <Teller>Pluto</Teller>
+        <Title>Dünün Vaadi</Title>
+        <VoiceFile>ch5_Crying_ep1_Pluto3</VoiceFile>
+        <Content>Bir kişi kendini mağdur veya öfkeli hissettiğinde, birinin yaklaşıp ona bir el uzatması gerekir.</Content>
+      </Dialog>
+      <Dialog ID="75" Model="플루토">
+        <Teller>Pluto</Teller>
+        <Title>Dünün Vaadi</Title>
+        <VoiceFile>ch5_Crying_ep1_Pluto4</VoiceFile>
+        <Content>Senin için o kişi ben olacağım. Bu yüzden buradayım.</Content>
+      </Dialog>
+      <Dialog ID="76" Model="플루토">
+        <Teller>Pluto</Teller>
+        <Title>Dünün Vaadi</Title>
+        <VoiceFile>ch5_Crying_ep1_Pluto5</VoiceFile>
+        <Content>Şimdi, elimi tut... pekâlâ, kolumu nazikçe buraya kadar uzatacağım senin için.</Content>
+      </Dialog>
+      <Dialog ID="77" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip27</VoiceFile>
+        <Content>Rüyamı... gerçekleştirecek misin?</Content>
+      </Dialog>
+      <Dialog ID="78" Model="플루토">
+        <Teller>Pluto</Teller>
+        <Title>Dünün Vaadi</Title>
+        <VoiceFile>ch5_Crying_ep1_Pluto6</VoiceFile>
+        <Content>Dileğini ifade edersen, onu gerçeğe dönüştürmek için ihtiyacın olanı sana veririm. Bu teklif tatmin edici değil mi?</Content>
+      </Dialog>
+      <Dialog ID="79" Model="플루토">
+        <Teller>Pluto</Teller>
+        <Title>Dünün Vaadi</Title>
+        <VoiceFile>ch5_Crying_ep1_Pluto7</VoiceFile>
+        <Content>Sana o kadar zarar veren o şakacıdan intikamını alman için güç verebilirim ya da sevdiğin iki kişiyi kurtarman için sana güçlü silahlar sağlayabilirim.</Content>
+      </Dialog>
+      <Dialog ID="80" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip28</VoiceFile>
+        <Content>...</Content>
+      </Dialog>
+      <Dialog ID="81" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip29</VoiceFile>
+        <Content>Hayır... hiçbir şey duymak istemiyorum.</Content>
+      </Dialog>
+      <Dialog ID="82" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip30</VoiceFile>
+        <Content>Hiçbir şey görmek istemiyorum... ya da hiçbir şey söylemek...</Content>
+      </Dialog>
+      <Dialog ID="83" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip31</VoiceFile>
+        <Content>Hepsinden yoruldum. Şu anda tek yapmak istediğim... yüksek sesle ağlamak.</Content>
+      </Dialog>
+      <Dialog ID="84" Model="플루토">
+        <Teller>Pluto</Teller>
+        <Title>Dünün Vaadi</Title>
+        <VoiceFile>ch5_Crying_ep1_Pluto8</VoiceFile>
+        <Content>Elbette. Bu konuda sana yardım edebilirim.</Content>
+      </Dialog>
+      <Dialog ID="85" Model="플루토">
+        <Teller>Pluto</Teller>
+        <Title>Dünün Vaadi</Title>
+        <VoiceFile>ch5_Crying_ep1_Pluto9</VoiceFile>
+        <Content>Sesine çok dikkat et...</Content>
+      </Dialog>
+      <Dialog ID="86" Model="필립">
+        <Teller>Philip</Teller>
+        <Title>Eski Şafak Tamircisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Philip32</VoiceFile>
+        <Content>...</Content>
+      </Dialog>
+      <Dialog ID="87" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald35</VoiceFile>
+        <Content>Bu da ne?! Benimle aynı kokuyu yaymaya mı başlıyorsun?</Content>
+      </Dialog>
+      <Dialog ID="88" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald36</VoiceFile>
+        <Content>Yetenekli bir adamsın! Bana böyle canlı ifadeler yapabildiğini hiç söylememiştin~!</Content>
+      </Dialog>
+      <Dialog ID="89" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald37</VoiceFile>
+        <Content>Ve... ah. Bizi ziyaret eden başka bir yeni soytarı mı olabilirsin? Muhteşem görünüyorsun!</Content>
+      </Dialog>
+      <Dialog ID="90" Model="플루토">
+        <Teller>Pluto</Teller>
+        <Title>Dünün Vaadi</Title>
+        <VoiceFile>ch5_Crying_ep1_Pluto10</VoiceFile>
+        <Content>... Evet, merhaba. Benim adım Pluto.</Content>
+      </Dialog>
+      <Dialog ID="91" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald38</VoiceFile>
+        <Content>Tam zamanında geldin! Üçümüz harika bir gösteri yapabiliriz~</Content>
+      </Dialog>
+      <Dialog ID="92" Model="플루토">
+        <Teller>Pluto</Teller>
+        <Title>Dünün Vaadi</Title>
+        <VoiceFile>ch5_Crying_ep1_Pluto11</VoiceFile>
+        <Content>Pekala, sana tek bir soru sorabilir miyim?</Content>
+      </Dialog>
+      <Dialog ID="93" Model="플루토">
+        <Teller>Pluto</Teller>
+        <Title>Dünün Vaadi</Title>
+        <VoiceFile>ch5_Crying_ep1_Pluto12</VoiceFile>
+        <Content>Az önce sahnede gösterdiğin üç kişi arasındaki ilişki gerçekten doğru muydu?</Content>
+      </Dialog>
+      <Dialog ID="94" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald39</VoiceFile>
+        <Content>Pff, ne kadar acınası! Bu aşamada kimin umurunda?!</Content>
+      </Dialog>
+      <Dialog ID="95" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald40</VoiceFile>
+        <Content>Önemli olan, seyircimize gösterdiğimiz şovun eğlenceli ve hoş olması, değil mi?!</Content>
+      </Dialog>
+      <Dialog ID="96" Model="플루토">
+        <Teller>Pluto</Teller>
+        <Title>Dünün Vaadi</Title>
+        <VoiceFile>ch5_Crying_ep1_Pluto13</VoiceFile>
+        <Content>Birinin çarpıtılmış arzularının illüzyonlarını yaratmak, bu... Görüyorum ki burası insanların arzularını sonuna kadar büyütüyor.</Content>
+      </Dialog>
+      <Dialog ID="97" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald41</VoiceFile>
+        <Content>Kokla, kokla... sen de oldukça pis kokan birisin...</Content>
+      </Dialog>
+      <Dialog ID="98" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald42</VoiceFile>
+        <Content>Ooo, sen de sesini duydun mu?</Content>
+      </Dialog>
+      <Dialog ID="99" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald43</VoiceFile>
+        <Content>... Önemli değil! Şimdiii, şimdii! Seyirci bekliyor, o yüzden şovun geri kalanında bana katıl!</Content>
+      </Dialog>
+      <Dialog ID="100" Model="플루토">
+        <Teller>Pluto</Teller>
+        <Title>Dünün Vaadi</Title>
+        <VoiceFile>ch5_Crying_ep1_Pluto14</VoiceFile>
+        <Content>Korkarım bu sirk bugünden itibaren sona ermeli.</Content>
+      </Dialog>
+      <Dialog ID="101" Model="오스왈드">
+        <Teller>Oswald</Teller>
+        <Title>Sirk Direktörü</Title>
+        <VoiceFile>ch5_Crying_ep1_Oswald44</VoiceFile>
+        <Content>Ne hakkında konuşuyorsun sen?!</Content>
+      </Dialog>
+      <Dialog ID="102" Model="플루토">
+        <Teller>Pluto</Teller>
+        <Title>Dünün Vaadi</Title>
+        <VoiceFile>ch5_Crying_ep1_Pluto15</VoiceFile>
+        <Content>Philip, işte sana bir Davetiye. İleriye doğru hareket et.</Content>
+      </Dialog>
+      <Dialog ID="103" Model="플루토">
+        <Teller>Pluto</Teller>
+        <Title>Dünün Vaadi</Title>
+        <VoiceFile>ch5_Crying_ep1_Pluto16</VoiceFile>
+        <Content>Ve Oswald, seni şimdiye kadar hayal edebileceğin en büyük gösteriyi sunabileceğimiz çok daha büyük bir sahneye davet ediyorum.</Content>
+      </Dialog>
+    </Place>
+    <Place>
+      <PlaceName>Konum: Kütüphanenin İçi</PlaceName>
+      <Dialog ID="104" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland1</VoiceFile>
+        <Content>O adam çok perişan.</Content>
+      </Dialog>
+      <Dialog ID="105" Model="앤젤라">
+        <Teller>Angela</Teller>
+        <Title>Kütüphane Yöneticisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Angela1</VoiceFile>
+        <Content>Tüm bu zamandan sonra ona sempati mi duyuyorsun? En son gördüğümüzde onu bencil ve tehlikeli olarak adlandırmıştın.</Content>
+      </Dialog>
+      <Dialog ID="106" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland2</VoiceFile>
+        <Content>Yani, bu... gerçekten sempati göstermiyorum, açıklaması zor...</Content>
+      </Dialog>
+      <Dialog ID="107" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland3</VoiceFile>
+        <Content>Hala Philip'in kişiliğinin umutsuz olduğunu düşünüyorum, ancak içine düştüğü koşullar duygularına hiç yardımcı olmuyor.</Content>
+      </Dialog>
+      <Dialog ID="108" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland4</VoiceFile>
+        <Content>Biliyorum, bu tür trajedilerin yaygın olduğunu söylemiştim, ama muhtemelen hala köşeye sıkışmış hissediyor, ne demek istediğimi anlıyor musun?</Content>
+      </Dialog>
+      <Dialog ID="109" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland5</VoiceFile>
+        <Content>Üstesinden gelmek üzereydi gibi görünüyordu, ama o Oswald denen palyaço onu tekrar kırdı.</Content>
+      </Dialog>
+      <Dialog ID="110" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland6</VoiceFile>
+        <Content>Sadece gülüp geçmek benim için zor. Başkalarının bir gösteri gibi bir sefalet kuyusuna battığını görmekten hoşlanmıyorum.</Content>
+      </Dialog>
+      <Dialog ID="111" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland7</VoiceFile>
+        <Content>Ah, duygusal olmaya çalışmıyorum. Bu, budur ve şu, şudur.</Content>
+      </Dialog>
+      <Dialog ID="112" Model="앤젤라">
+        <Teller>Angela</Teller>
+        <Title>Kütüphane Yöneticisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Angela2</VoiceFile>
+        <Content>... Ne demek istediğini anlıyorum. Sonuçta, üstesinden gelmesi gereken kendi hatası.</Content>
+      </Dialog>
+      <Dialog ID="113" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland8</VoiceFile>
+        <Content>Bunun yanı sıra, nasıl böyle göründüğünü merak ediyorum.</Content>
+      </Dialog>
+      <Dialog ID="114" Model="앤젤라">
+        <Teller>Angela</Teller>
+        <Title>Kütüphane Yöneticisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Angela3</VoiceFile>
+        <Content>Duyguların karışımı E.G.O denilen çizgiyi aştı, bu da onun Sözde Çarpıtma Fenomenine maruz kalmasına neden oldu... bir Anormallik haline gelmesine yol açtı.</Content>
+      </Dialog>
+      <Dialog ID="115" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland9</VoiceFile>
+        <Content>Çarpıtma böyle mi oluyor, ha?... gerçi biraz daha açıklamaya ihtiyacım olabilir.</Content>
+      </Dialog>
+      <Dialog ID="116" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland10</VoiceFile>
+        <Content>İnsanların burada, Kütüphane'de kitaplara dönüşmesine oldukça benziyor gibi miydi?</Content>
+      </Dialog>
+      <Dialog ID="117" Model="앤젤라">
+        <Teller>Angela</Teller>
+        <Title>Kütüphane Yöneticisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Angela4</VoiceFile>
+        <Content>Anormalliklerin gerçeğe dönüşme sürecine de benziyor. Ancak, özellikle bu kararsız görünüyordu.</Content>
+      </Dialog>
+      <Dialog ID="118" Model="앤젤라">
+        <Teller>Angela</Teller>
+        <Title>Kütüphane Yöneticisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Angela5</VoiceFile>
+        <Content>Çarpıtılmış arzular ve duygular... O sahnenin sana ne göstereceğini düşünüyorsun?</Content>
+      </Dialog>
+      <Dialog ID="119" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland11</VoiceFile>
+        <Content>Bu benim karım olurdu, yüzde yüz eminim.</Content>
+      </Dialog>
+      <Dialog ID="120" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland12</VoiceFile>
+        <Content>Basit. Koruyamadığım kadın bana doğru yürür, ben umutsuzluk içinde ağlarım, falan filan.</Content>
+      </Dialog>
+      <Dialog ID="121" Model="앤젤라">
+        <Teller>Angela</Teller>
+        <Title>Kütüphane Yöneticisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Angela7</VoiceFile>
+        <Content>Oldukça dürüstsün.</Content>
+      </Dialog>
+      <Dialog ID="122" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland13</VoiceFile>
+        <Content>Kaybedecek bir şeyim yok, bu yüzden yalan söylemenin bir anlamı yok.</Content>
+      </Dialog>
+    </Place>
+    <Place>
+      <PlaceName>Konum: Kütüphane Girişi</PlaceName>
+      <Dialog ID="123" Model="눈을 가린 아이">
+        <Teller>Görmeyen Çocuk</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Eyekid1</VoiceFile>
+        <Content>Burası neresi?</Content>
+      </Dialog>
+      <Dialog ID="124" Model="귀를 막은 아이">
+        <Teller>Duymayan Çocuk</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Earkid1</VoiceFile>
+        <Content>Az önce kim benim hakkımda saçmalıklar söyledi?!</Content>
+      </Dialog>
+      <Dialog ID="125" Model="입을 감싼 아이">
+        <Teller>Konuşmayan Çocuk</Teller>
+        <Title>???</Title>
+        <VoiceFile />
+        <Content>...</Content>
+      </Dialog>
+      <Dialog ID="126" Model="앤젤라">
+        <Teller>Angela</Teller>
+        <Title>Kütüphane Yöneticisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Angela8</VoiceFile>
+        <Content>İlginç. Üç tane var.</Content>
+      </Dialog>
+      <Dialog ID="127" Model="눈을 가린 아이">
+        <Teller>Görmeyen Çocuk</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Eyekid2</VoiceFile>
+        <Content>Ne kadar güzel bir sesin var, hey, hanımefendi?</Content>
+      </Dialog>
+      <Dialog ID="128" Model="귀를 막은 아이">
+        <Teller>Duymayan Çocuk</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Earkid2</VoiceFile>
+        <Content>Ne? Çocuk gibi görünüyorum diye benimle uğraşmak bile istemiyor musun?</Content>
+      </Dialog>
+      <Dialog ID="129" Model="눈을 가린 아이">
+        <Teller>Görmeyen Çocuk</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Eyekid3</VoiceFile>
+        <Content>O güzel sesli hanımefendi bize tepeden mi bakıyor, yoksa ne?</Content>
+      </Dialog>
+      <Dialog ID="130" Model="귀를 막은 아이">
+        <Teller>Duymayan Çocuk</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Earkid3</VoiceFile>
+        <Content>Evet, öyle yaptı. Burası çok garip bir yer.</Content>
+      </Dialog>
+      <Dialog ID="131" Model="입을 감싼 아이">
+        <Teller>Konuşmayan Çocuk</Teller>
+        <Title>???</Title>
+        <VoiceFile />
+        <Content>...</Content>
+      </Dialog>
+      <Dialog ID="132" Model="앤젤라">
+        <Teller>Angela</Teller>
+        <Title>Kütüphane Yöneticisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Angela9</VoiceFile>
+        <Content>Ne kadar kaba. Pekala, sanırım misafir misafirdir.</Content>
+      </Dialog>
+      <Dialog ID="133" Model="눈을 가린 아이">
+        <Teller>Görmeyen Çocuk</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Eyekid4</VoiceFile>
+        <Content>Şimdi ne oldu, bu gürültü de ne?</Content>
+      </Dialog>
+      <Dialog ID="134" Model="입을 감싼 아이">
+        <Teller>Konuşmayan Çocuk</Teller>
+        <Title>???</Title>
+        <VoiceFile />
+        <Content>...</Content>
+      </Dialog>
+      <Dialog ID="135" Model="귀를 막은 아이">
+        <Teller>Duymayan Çocuk</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Earkid4</VoiceFile>
+        <Content>Eminim birileri bana her türlü hakareti saydırıyordur.</Content>
+      </Dialog>
+      <Dialog ID="136" Model="앤젤라">
+        <Teller>Angela</Teller>
+        <Title>Kütüphane Yöneticisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Angela11</VoiceFile>
+        <Content>Arkamdaki kapıyı görüyor musun? Oradan geçeceksin.</Content>
+      </Dialog>
+      <Dialog ID="137" Model="눈을 가린 아이">
+        <Teller>Görmeyen Çocuk</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Eyekid5</VoiceFile>
+        <Content>Kapı...? Evet, kapılar iyidir... Ama o kapı nerede?</Content>
+      </Dialog>
+      <Dialog ID="138" Model="귀를 막은 아이">
+        <Teller>Duymayan Çocuk</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Earkid5</VoiceFile>
+        <Content>Bir şeyi işaret ediyor. Bize oradan defolup gitmemizi mi söylüyor?</Content>
+      </Dialog>
+      <Dialog ID="139" Model="앤젤라">
+        <Teller>Angela</Teller>
+        <Title>Kütüphane Yöneticisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Angela12</VoiceFile>
+        <Content>Çabuk ol ve içeri gir. Rahatsız edici güçlerin tarafından yakalanma havasında değilim.</Content>
+      </Dialog>
+      <Dialog ID="140" Model="입을 감싼 아이">
+        <Teller>Konuşmayan Çocuk</Teller>
+        <Title>???</Title>
+        <VoiceFile>ch5_Crying_ep1_Mousekid4</VoiceFile>
+        <Content>!! !!!</Content>
+      </Dialog>
+      <Dialog ID="141" Model="앤젤라">
+        <Teller>Angela</Teller>
+        <Title>Kütüphane Yöneticisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Angela13</VoiceFile>
+        <Content>...</Content>
+      </Dialog>
+    </Place>
+    <Place>
+      <PlaceName>Konum: Kütüphanenin İçi</PlaceName>
+      <Dialog ID="0" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland15</VoiceFile>
+        <Content>Ve sonra onlardan biri büyük adamdan ayrılıp kitap olurken kaçtı...</Content>
+      </Dialog>
+      <Dialog ID="1" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland16</VoiceFile>
+        <Content>Özünde hala bir korkaktı. Onun hakkında hiçbir şey gerçekten değişmedi.</Content>
+      </Dialog>
+      <Dialog ID="2" Model="앤젤라">
+        <Teller>Angela</Teller>
+        <Title>Kütüphane Yöneticisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Angela14</VoiceFile>
+        <Content>Buna izin vermek Kütüphane'nin iradesi olmalıydı.</Content>
+      </Dialog>
+      <Dialog ID="3" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland17</VoiceFile>
+        <Content>Kütüphane'nin iradesi, ha?... gerçekten de gizemli şekillerde çalışıyor.</Content>
+      </Dialog>
+      <Dialog ID="4" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland18</VoiceFile>
+        <Content>İnsan zihninin ne kadar çirkin olabileceğini biliyorum, ama bu tiksindirici derecede açıktı.</Content>
+      </Dialog>
+      <Dialog ID="5" Model="앤젤라">
+        <Teller>Angela</Teller>
+        <Title>Kütüphane Yöneticisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Angela15</VoiceFile>
+        <Content>Belki de herkesin zihni, yalan katmanlarıyla örtülmüş, özünde bu kadar bayağıdır.</Content>
+      </Dialog>
+      <Dialog ID="6" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland19</VoiceFile>
+        <Content>Ve Çarpıtma, gerçek duygularını ifşa etmek için tüm bunları ortaya mı çıkarıyor?</Content>
+      </Dialog>
+      <Dialog ID="7" Model="앤젤라">
+        <Teller>Angela</Teller>
+        <Title>Kütüphane Yöneticisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Angela16</VoiceFile>
+        <Content>Duygularının saf, katışıksız ifadesi olduğundan emin olamam. Çarpıtma'nın duyguları mı açığa çıkardığından, yoksa duyguların serbest bırakılırken çarpıtılıp çarpıtılmadığından hala emin değilim.</Content>
+      </Dialog>
+      <Dialog ID="8" Model="앤젤라">
+        <Teller>Angela</Teller>
+        <Title>Kütüphane Yöneticisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Angela17</VoiceFile>
+        <Content>Ancak, tüm yalanları geri çekilmiş olarak, en dürüst yanını ortaya çıkarmalı.</Content>
+      </Dialog>
+      <Dialog ID="9" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland20</VoiceFile>
+        <Content>Çıplak kalmak gibi hissettirmeli, ha?</Content>
+      </Dialog>
+      <Dialog ID="10" Model="롤랑">
+        <Teller>Roland</Teller>
+        <Title>Hizmetkar</Title>
+        <VoiceFile>ch5_Crying_ep1_Roland21</VoiceFile>
+        <Content>Tüm dürüst duygularını dışarı bıraktıktan hemen sonraki anlardan daha utanç verici ve yüz kızartıcı bir şey yoktur.</Content>
+      </Dialog>
+      <Dialog ID="11" Model="앤젤라">
+        <Teller>Angela</Teller>
+        <Title>Kütüphane Yöneticisi</Title>
+        <VoiceFile>ch5_Crying_ep1_Angela18</VoiceFile>
+        <Content>...</Content>
+      </Dialog>
+    </Place>
+  </Episode>
+</Group>
 </ScenarioRoot>
