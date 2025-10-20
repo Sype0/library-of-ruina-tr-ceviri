@@ -5129,7 +5129,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep3_hod25</VoiceFile>
-          <Content>Garip şeyler üzerine kafa yoruyorsun, Roland. Seni bir hain olduğum için eleştireceğini düşünmüştüm.</Content>
+          <Content>Garip şeyler üzerine kafa yoruyorsun, Roland. Beni bir hain olduğum için eleştireceğini düşünmüştüm.</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
           <Teller>Roland</Teller>
@@ -5216,7 +5216,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Angela</Teller>
           <Title>Yapay Zeka Sekreteri</Title>
           <VoiceFile>ch8_Hod_ep3_angela1</VoiceFile>
-          <Content>Zaten iki gün savaşarak geçirdik.</Content>
+          <Content>Zaten iki günü savaşarak geçirdik.</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -5453,7 +5453,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hod_ep3_roland35</VoiceFile>
-          <Content>Rica ederim, bayan, bu benim işimin bir parçası.</Content>
+          <Content>Rica ederim hanfendi, bu benim işimin bir parçası.</Content>
         </Dialog>
       </Place>
     </Episode>
