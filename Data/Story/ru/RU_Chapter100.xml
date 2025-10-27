@@ -8276,7 +8276,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Netzach_ep4_roland9</VoiceFile>
-          <Content>Ben de aynı. Büyükannem beni büyüttü, oldukça zor bir çocukluk geçirdim.</Content>
+          <Content>Ben de aynı. ananem beni büyüttü, oldukça zor bir çocukluk geçirdim.</Content>
         </Dialog>
         <Dialog ID="19" Model="네짜흐">
           <Teller>Netzach</Teller>
@@ -11354,7 +11354,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Gebura_ep1_roland8</VoiceFile>
-          <Content>Gerçi 9. Kademe bir Düzeltici olduğum konusunda yalan söylemiyorum, büyükannem üzerine yemin ederim.</Content>
+          <Content>Gerçi 9. Kademe bir Düzeltici olduğum konusunda yalan söylemiyorum, ananem üzerine yemin ederim.</Content>
         </Dialog>
         <Dialog ID="19" Model="게부라">
           <Teller>Gebura</Teller>
@@ -17007,7 +17007,7 @@ Vesaire vesaire.</Content>
           <Teller />
           <Title />
           <VoiceFile>ch8_Binah_ep5_Roland_10</VoiceFile>
-          <Content>Bunun için büyükanneme teşekkür etmeliyim, gitmeden önce bana bir "Fixer" olarak nasıl hayatta kalacağımı öğretti.</Content>
+          <Content>Bunun için ananeme teşekkür etmeliyim, gitmeden önce bana bir "Fixer" olarak nasıl hayatta kalacağımı öğretti.</Content>
         </Dialog>
         <Dialog ID="36" Model="">
           <Teller />
@@ -17580,7 +17580,7 @@ Vesaire vesaire.</Content>
           <Teller />
           <Title />
           <VoiceFile>ch8_Binah_ep5_Roland_67</VoiceFile>
-          <Content>Büyükannemin tavsiyesi üzerine "maske" takmaya başladım.</Content>
+          <Content>ananemin tavsiyesi üzerine "maske" takmaya başladım.</Content>
         </Dialog>
         <Dialog ID="130" Model="">
           <Teller />
