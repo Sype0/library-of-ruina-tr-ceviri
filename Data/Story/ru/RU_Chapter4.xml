@@ -2554,7 +2554,7 @@
         <Teller>Philip</Teller>
         <Title>Şafak Düzelticisi</Title>
         <VoiceFile>ch4_Dawn_ep1_philip9</VoiceFile>
-        <Content>Merhaba, üstünüm.</Content>
+        <Content>Merhaba, üstüm.</Content>
       </Dialog>
       <Dialog ID="21" Model="유나">
         <Teller>Yuna</Teller>
@@ -2626,7 +2626,7 @@
         <Teller>Philip</Teller>
         <Title>Şafak Düzelticisi</Title>
         <VoiceFile>ch4_Dawn_ep1_philip11-01</VoiceFile>
-        <Content>Vay, etkileyicisiniz, üstünüm. Bir Şehir Efsanesi vakasını tek başınıza çözmek.</Content>
+        <Content>Vay, etkileyicisiniz, üstüm. Bir Şehir Efsanesi vakasını tek başınıza çözmek.</Content>
       </Dialog>
       <Dialog ID="33" Model="유나">
         <Teller>Yuna</Teller>
