@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CharactersNameRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name ID="9100101">Kan Banyosu</Name>
+  <Name ID="9100201">Arzunun Kalbi</Name>
+  <Name ID="9100202">Hasretin Cigerleri</Name>
+  <Name ID="9010101">Yanmis Kiz</Name>
+  <Name ID="9010102">Kibritin Son Alevi</Name>
+  <Name ID="9010103">Kibritin Son Alevi</Name>
+  <Name ID="9010201">Mutlu Oyuncak Ayi</Name>
+  <Name ID="9020101">Terk Edilmis Suikastçi</Name>
+  <Name ID="9020201">Küçük Yardimci</Name>
+  <Name ID="9030101">Bugünün Çekingen Bakisi</Name>
+  <Name ID="9030201">Sol Ayakkabi</Name>
+  <Name ID="9030202">Sag Ayakkabi</Name>
+  <Name ID="9040101">Evren Parçasi</Name>
+  <Name ID="9040201">Galaksi Çocugu</Name>
+
+  <Name ID="9010301">Peri Kraliçesi</Name>
+  <Name ID="9010302">Peri Yigini</Name>
+  <Name ID="9030301">Örümcek Kozasi</Name>
+  <Name ID="9030302">Küçük Örümcek</Name>
+  <Name ID="9040301">Porccubus</Name>
+
+  <Name ID="9020301">sarki Söyleme Makinesi</Name>
+  <Name ID="9020302">Bagimli Çalisan</Name>
+
+  <Name ID="9100301">Yalanci Pinokyo</Name>
+  <Name ID="9100302">Merakli Pinokyo</Name>
+  <Name ID="9100303">Taklitçi Pinokyo</Name>
+
+  <Name ID="9050101">Nefret Kraliçesi</Name>
+
+  <Name ID="9050201">Umutsuzluk sövalyesi</Name>
+  <Name ID="9050202">Unutulmus Bir sövalyenin Kilici</Name>
+
+  <Name ID="9010401">Kraliçe Ari</Name>
+  <Name ID="9010402">isçi Ari</Name>
+
+  <Name ID="9010511">Dördüncü Kibrit Alevi</Name>
+  <Name ID="9010512">Kibritin Son Alevi</Name>
+  <Name ID="9010521">Unutulmus Olan</Name>
+  <Name ID="9010531">Çirpinis</Name>
+  <Name ID="9010532">Peri Yigini</Name>
+  <Name ID="9010541">Esek Arisi</Name>
+  <Name ID="9010542">isçi Ari</Name>
+  <Name ID="9010551">Yesil Filiz</Name>
+  <Name ID="9010552">Asma Duvari</Name>
+
+  <Name ID="9060101">Kirmizi Baslikli Parali Asker</Name>
+  <Name ID="9060102">Kabuslarindaki Kurt</Name>
+
+  <Name ID="9070101">Bilgelik Arayan Korkuluk</Name>
+
+  <Name ID="9070201">iyi Kalpli Oduncu</Name>
+  <Name ID="9070202">Agaç</Name>
+
+  <Name ID="9020401">Ölü Kelebeklerin Cenazesi</Name>
+  <Name ID="9020402">Kelebekler Kaleydoskopu</Name>
+  <Name ID="9020403">Kelebekler Kaleydoskopu</Name>
+
+  <Name ID="9020511">Pismanlik</Name>
+  <Name ID="9020521">Ögütücü Mk. 5-2</Name>
+  <Name ID="9020522">Küçük Yardimci</Name>
+  <Name ID="9020531">Uyum</Name>
+  <Name ID="9020532">sarki Söyleme Makinesi</Name>
+  <Name ID="9020533">Bagimli Çalisan</Name>
+  <Name ID="9020541">Ciddi Agit</Name>
+  <Name ID="9020542">Kelebekler Kaleydoskopu</Name>
+  <Name ID="9020543">Kelebekler Kaleydoskopu</Name>
+  <Name ID="9020551">Sihirli Mermi</Name>
+
+  <Name ID="9060201">Bir Kurt</Name>
+  <Name ID="9060202">Kötü Olabilecek Büyük Kurt</Name>
+
+  <Name ID="9050301">Altin Amber</Name>
+  <Name ID="9050302">Sihirli Kiz</Name>
+  <Name ID="9050303">Açgözlülük Krali</Name>
+  <Name ID="9050304">Parlak Mutluluk</Name>
+
+  <Name ID="9030401">Laetitia</Name>
+  <Name ID="9030402">Sarilmis Arkadas</Name>
+  <Name ID="9030403">Küçük Arkadaslar</Name>
+
+  <Name ID="9030511">Bugünün ifadesi</Name>
+  <Name ID="9030521">Kana Susamis Arzu</Name>
+  <Name ID="9030531">Kirmizi Gözler</Name>
+  <Name ID="9030532">Küçük Örümcek</Name>
+  <Name ID="9030541">Laetitia</Name>
+  <Name ID="9030542">Sarilmis Arkadas</Name>
+  <Name ID="9030543">Küçük Arkadaslar</Name>
+  <Name ID="9030551">Kara Kugu</Name>
+  <Name ID="9030552">Birinci Kardes</Name>
+  <Name ID="9030553">ikinci Kardes</Name>
+  <Name ID="9030554">Üçüncü Kardes</Name>
+  <Name ID="9030555">Dördüncü Kardes</Name>
+  <Name ID="9030556">Besinci Kardes</Name>
+  <Name ID="9030557">Altinci Kardes</Name>
+
+  <Name ID="9040401">Alriune</Name>
+  <Name ID="9040402">Topraktan Çikan</Name>
+  <Name ID="9040403">Topraktan Çikan</Name>
+
+  <Name ID="9040511">Bir Yerden Parçalar</Name>
+  <Name ID="9040521">Galaksimiz</Name>
+  <Name ID="9040522">Galaksi Dostlari</Name>
+  <Name ID="9040531">Keyif</Name>
+  <Name ID="9040541">Zayif Koku</Name>
+  <Name ID="9040542">Topraktan Çikan</Name>
+  <Name ID="9040543">Topraktan Çikan</Name>
+  <Name ID="9040551">Da Capo</Name>
+  <Name ID="9040552">Sanatçi</Name>
+  <Name ID="9040561">Da Capo</Name>
+  <Name ID="9040562">Birinci Koltuk</Name>
+  <Name ID="9040563">ikinci Koltuk</Name>
+  <Name ID="9040564">Üçüncü Koltuk</Name>
+  <Name ID="9040565">Dördüncü Koltuk</Name>
+
+  <Name ID="9080101">Büyük Kus</Name>
+  <Name ID="9080102">Gözbebegi</Name>
+  <Name ID="9090101">Cenneti Kazmak</Name>
+  <Name ID="9090102">Cennetin Dikeni</Name>
+  <Name ID="9100401">Kar Kraliçesi</Name>
+  <Name ID="9100402">Buz Hapishanesi</Name>
+
+  <Name ID="9060301">Gülümseyen Cesetler Dagi</Name>
+  <Name ID="9060302">Gülümseyen Cesetler Dagi</Name>
+  <Name ID="9060303">Gülümseyen Cesetler Dagi</Name>
+  <Name ID="9060304">Erimeyen Cesetler</Name>
+  <Name ID="9060305">Erimeyen Cesetler</Name>
+
+  <Name ID="9070301">Ev</Name>
+  <Name ID="9070302">Eve Giden Yol</Name>
+  <Name ID="9070303">Korkak Kedi</Name>
+
+  <Name ID="9050401">Gazabin Hizmetkari</Name>
+  <Name ID="9050402">Mavi Orman'in Kesisi</Name>
+  <Name ID="9050403">Kesisin Asasi</Name>
+
+  <Name ID="9050511">Ask ve Nefret Adina</Name>
+  <Name ID="9050521">Gözyaslariyla Bileylenmis Kiliç</Name>
+  <Name ID="9050522">Unutulmus Bir sövalyenin Kilici</Name>
+  <Name ID="9050531">Altin Yaris</Name>
+  <Name ID="9050532">Altin Yaris</Name>
+  <Name ID="9050533">Parlak Mutluluk</Name>
+  <Name ID="9050541">Kör Öfke</Name>
+  <Name ID="9050542">Mavi Orman'in Kesisi</Name>
+  <Name ID="9050543">Kesisin Asasi</Name>
+
+  <Name ID="9050550">Hiçlik</Name>
+  <Name ID="9050551">Taslasmis Nefret</Name>
+  <Name ID="9050552">Sertlesmis Umutsuzluk</Name>
+  <Name ID="9050553">Fosillesmis Açgözlülük</Name>
+  <Name ID="9050554">Kayalasmis Gazap</Name>
+  <Name ID="9050556">Sahipsiz Kiliç</Name>
+
+  <Name ID="9050561">Askin Sihirli Kizi</Name>
+  <Name ID="9050562">Adaletin Sihirli Kizi</Name>
+  <Name ID="9050563">Mutlulugun Sihirli Kizi</Name>
+  <Name ID="9050564">Cesaretin Sihirli Kizi</Name>
+
+  <Name ID="9090201">Sessizligin Bedeli</Name>
+  <Name ID="9090202">Zamanin Kalintisi</Name>
+  <Name ID="9080201">Cezalandirici Kus</Name>
+  <Name ID="9080202">Karanlik Orman Muhafizi</Name>
+
+  <Name ID="9080301">Yargi Kusu</Name>
+  <Name ID="9080302">Kaçak Kus</Name>
+
+
+  <Name ID="9060401">Nosferatu</Name>
+  <Name ID="9060402">Kan Emici Yarasa</Name>
+
+  <Name ID="9060511">Kizil Yara izi</Name>
+  <Name ID="9060512">Her seyini Kaybeden Kurt</Name>
+  <Name ID="9060521">Kobalt Yara izi</Name>
+  <Name ID="9060531">Gülümseme</Name>
+  <Name ID="9060532">Gülümseme</Name>
+  <Name ID="9060533">Gülümseme</Name>
+  <Name ID="9060534">Erimeyen Cesetler</Name>
+  <Name ID="9060535">Erimeyen Cesetler</Name>
+  <Name ID="9060541">Dipsia</Name>
+  <Name ID="9060542">Kan Emici Yarasa</Name>
+  <Name ID="9060551">Taklit</Name>
+  <Name ID="9060552">Taklit</Name>
+  <Name ID="9060553">Taklit</Name>
+
+  <Name ID="9070401">Ozma</Name>
+  <Name ID="9070402">Jack</Name>
+  <Name ID="9070403">Canlanmis Jack</Name>
+  <Name ID="9070404">Hafizasiz Balkabagi</Name>
+
+  <Name ID="9070511">Hasat</Name>
+  <Name ID="9070512">Korkuluk</Name>
+  <Name ID="9070521">Odun Kesmek</Name>
+  <Name ID="9070522">Agaç</Name>
+  <Name ID="9070531">Arama içgüdüsü</Name>
+  <Name ID="9070532">Korkak Kedi</Name>
+  <Name ID="9070533">Ulasilamayan Ev</Name>
+  <Name ID="9070541">Solan Anilar</Name>
+  <Name ID="9070542">Jack</Name>
+  <Name ID="9070543">Canlanmis Jack</Name>
+  <Name ID="9070544">Hafizasiz Balkabagi</Name>
+  <Name ID="9070551">Sahte Taht</Name>
+  <Name ID="9070552">Zümrüt Kristal</Name>
+  <Name ID="9070553">Parlayan Heykel</Name>
+  <Name ID="9070554">Asik Surat</Name>
+
+  <Name ID="9080511">Lamba</Name>
+  <Name ID="9080512">Gözbebegi</Name>
+  <Name ID="9080521">Gaga Vurusu</Name>
+  <Name ID="9080522">Karanlik Orman Muhafizi</Name>
+  <Name ID="9080531">Adalet</Name>
+  <Name ID="9080532">Kaçak Kus</Name>
+  <Name ID="9080541">Alacakaranlik</Name>
+
+  <Name ID="9090301">Mavi Yildiz Tapinagi</Name>
+  <Name ID="9090302">Mavi Yildiz Tapani</Name>
+  <Name ID="9090303">Mavi Yildiz Tapani</Name>
+  <Name ID="9090304">Mavi Yildiz Tapani</Name>
+
+  <Name ID="9090511">Peygamber</Name>
+  <Name ID="9090521">Kayip Cennet</Name>
+  <Name ID="9090512">Muhafiz Havari</Name>
+  <Name ID="9090513">Tirpan Havarisi</Name>
+  <Name ID="9090514">Asa Havarisi</Name>
+  <Name ID="9090515">Mizrak Havarisi</Name>
+
+  <Name ID="9100501">Angela</Name>
+  <Name ID="9100511">Kesilmis Bebekler</Name>
+  <Name ID="9100521">Arzu</Name>
+  <Name ID="9100522">Hasretin Cigerleri</Name>
+  <Name ID="9100531">Kukla</Name>
+  <Name ID="9100532">Pinokyo</Name>
+  <Name ID="9100541">Buz Parçasi</Name>
+  <Name ID="9100542">Buz Hapishanesi</Name>
+  <Name ID="9100551">Vicdan Azabi</Name>
+  <Name ID="9100552">Çivi</Name>
+  <Name ID="9100553">Çekiç</Name>
+  <Name ID="9100554">Kalinti Arzu</Name>
+  <Name ID="9100555">Fisildayan içgüdüler</Name>
+</CharactersNameRoot>
