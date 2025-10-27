@@ -234,7 +234,7 @@ Bu Sahnenin basinda, tüm düsmanlar Kütüphanecinin kalan Can (HP) miktariyla 
       <Abnormality>Terk Edilmis Katil</Abnormality>
       <CardName>Zincirlenmis Öfke</CardName>
         <AbilityDesc>[Yalnizca Bir Müttefik]
-Küt Zarlar 1-3 Güç kazanir. Hiz 1'e sabitlenir.</AbilityDesc>
+Sert Zarlar 1-3 Güç kazanir. Hiz 1'e sabitlenir.</AbilityDesc>
         <FlaborText>Deli gömlegi giyer, ama her adam kadar özgürdür. Daha fazla siddet islemesini engelleyebilecek zincir miktari yoktur.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Vücudum bagli olsa bile... her adam kadar özgür olacagim.</Dialogue>
@@ -249,7 +249,7 @@ Küt Zarlar 1-3 Güç kazanir. Hiz 1'e sabitlenir.</AbilityDesc>
       <Abnormality>Terk Edilmis Katil</Abnormality>
       <CardName>Metal Tinisi</CardName>
         <AbilityDesc>[Yalnizca Bir Müttefik]
-Basariyla Küt bir saldiri gerçeklestirdiginde, bir sonraki Sahnede 1 Baglama ve Felç uygula. (Alan Saldirilari Hariç)</AbilityDesc>
+Basariyla Sert bir saldiri gerçeklestirdiginde, bir sonraki Sahnede 1 Baglama ve Felç uygula. (Alan Saldirilari Hariç)</AbilityDesc>
         <FlaborText>“Kafam... metale dönüyor... beynim, düzlesiyor...”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Kafam çinliyor. Metal bir ses duyuyorum, net ve yüksek...</Dialogue>
@@ -1109,7 +1109,7 @@ Bir sonraki Sahne, tüm düsmanlar 6 Baglama alir.</AbilityDesc>
       <CardName>Çekiç ve Çivi</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
 Delici bir saldiri gerçeklestirdiginde, Hedefe 1 'Çivi' uygula.
-'Çivi'leri olan bir karakter Küt bir saldiriyla vurulursa, üzerindeki Çivi sayisinin 5 kati kadar ek Hasar alirlar, ardindan tüm Çiviler kaldirilir.</AbilityDesc>
+'Çivi'leri olan bir karakter Sert bir saldiriyla vurulursa, üzerindeki Çivi sayisinin 5 kati kadar ek Hasar alirlar, ardindan tüm Çiviler kaldirilir.</AbilityDesc>
       <FlaborText>Çiviyi çekiciyle çaktiginda, zihindeki çatlak çok büyür ve tamamen kirilir.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Acaba zihninde bir çivi çakabilecegim bir çatlak var mi?</Dialogue>
