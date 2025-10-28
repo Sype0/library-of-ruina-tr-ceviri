@@ -1237,13 +1237,13 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth28</VoiceFile>
-          <Content>Sanki, çok uzaktaki bir geçmişten gelen birinin anıları artık benim bir parçasıymış gibi, ne demek istediğimi anlıyor musun?</Content>
+          <Content>Sanki, çok uzaktaki bir geçmişten gelen birinin anıları artık benim bir parçammış gibi, ne demek istediğimi anlıyor musun?</Content>
         </Dialog>
         <Dialog ID="37" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth29</VoiceFile>
-          <Content>Bir şekilde nostaljik ve biraz da üzücü ve işte öyle!</Content>
+          <Content>Bir şekilde nostaljik ve biraz da üzücü, işte öyle!</Content>
         </Dialog>
         <Dialog ID="38" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1273,7 +1273,7 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth33</VoiceFile>
-          <Content>Geçmişe bakarken yeterince zaman harcamadığımızı düşünüyorum. İlerlemeye çok meşgulüz.</Content>
+          <Content>Geçmişe bakarken yeterince zaman harcamadığımızı düşünüyorum. İlerlemeyle çok meşgulüz.</Content>
         </Dialog>
         <Dialog ID="43" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -1369,13 +1369,13 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth44-01</VoiceFile>
-          <Content>Şimdiye kadar yaşamış insanları değiştirmek için çok geç olabilir, ama Şehir'in yapılarının sakinleri büyürken üzerlerindeki etkisini düşün...</Content>
+          <Content>Şimdiye kadar yaşamış insanları değiştirmek için çok geç olabilir, ama Şehir'in yapılarının, sakinleri büyürken üzerlerindeki etkisini düşün...</Content>
         </Dialog>
         <Dialog ID="59" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep4_malkuth45-01</VoiceFile>
-          <Content>Eğer herkesin hatırlayabileceği renklere sahip bir bina yapabilseydim...</Content>
+          <Content>Eğer herkesin hatırlayabileceği renklere sahip bir bina yapabilseydim falan filan...</Content>
         </Dialog>
         <Dialog ID="60" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -3541,7 +3541,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Yesod_ep4_roland17</VoiceFile>
-          <Content>Her neyse, buna yapabileceğim bir şey yok. Bu, bu ve o, o.</Content>
+          <Content>Her neyse, buna yapabileceğim bir şey yok. Bu budur, şu da şudur.</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>Roland</Teller>
@@ -9347,7 +9347,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Tiphereth_ep1_roland3</VoiceFile>
-          <Content>Hey! Tiphereth! Orada mısın!!</Content>
+          <Content>Hey! Tiphereth! Orada mısın?!</Content>
         </Dialog>
         <Dialog ID="3" Model="티페리트">
           <Teller>Tiphereth</Teller>
@@ -9395,7 +9395,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Tiphereth</Teller>
           <Title>Baş Kütüphaneci - Doğa Bil.</Title>
           <VoiceFile>ch8_Tiphereth_ep1_tiphereth5</VoiceFile>
-          <Content>Bunun Kütüphane'nin güçlerinden mi yoksa Angela'nın düşüncesinden mi emin değilim, ama bu beden bir kütüphaneci işi için daha iyi, bu yüzden hoşuma gidiyor.</Content>
+          <Content>Bu Kütüphane'nin güçlerinden mi yoksa Angela'nın düşüncesinden mi emin değilim, ama bu beden bir kütüphaneci işi için daha iyi, bu yüzden hoşuma gidiyor.</Content>
         </Dialog>
         <Dialog ID="11" Model="티페리트">
           <Teller>Tiphereth</Teller>
@@ -13298,7 +13298,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Gebura_ep5_Roland_59</VoiceFile>
-          <Content>Bu bu, ve o da o.</Content>
+          <Content>Bu budur, şu da şudur</Content>
         </Dialog>
         <Dialog ID="21" Model="게부라">
           <Teller>Gebura</Teller>
@@ -15523,7 +15523,7 @@ Vesaire vesaire.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chessed_ep5_Roland_77-01</VoiceFile>
-          <Content>Bu, bu... ve şu, şu...</Content>
+          <Content>Bu budur... şu da şudur...</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>Roland</Teller>
@@ -16290,7 +16290,7 @@ Vesaire vesaire.</Content>
           <Teller>Binah</Teller>
           <Title>Jefa bibliotecaria - Filosofía</Title>
           <VoiceFile>ch8_Binah_ep3_Binah_9</VoiceFile>
-          <Content>"Bu, bu, ve şu, şu." En sevdiğin gerekçene başvurduğunu görüyorum.</Content>
+          <Content>"Bu budur, şu da şudur" En sevdiğin gerekçene başvurduğunu görüyorum.</Content>
         </Dialog>
         <Dialog ID="22" Model="비나">
           <Teller>Binah</Teller>
@@ -18123,13 +18123,13 @@ Vesaire vesaire.</Content>
           <Teller>Angelica</Teller>
           <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_43</VoiceFile>
-          <Content>Bu, bu; şu, şu. Biliyor musun?</Content>
+          <Content>Bu budur, şu da şudur. Biliyor musun?</Content>
         </Dialog>
         <Dialog ID="220" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_121</VoiceFile>
-          <Content>Bu, bu; şu, şu...</Content>
+          <Content>Bu budur, şu da şudur...</Content>
         </Dialog>
         <Dialog ID="221" Model="롤랑">
           <Teller>Roland</Teller>
@@ -18264,7 +18264,7 @@ Vesaire vesaire.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_139</VoiceFile>
-          <Content>"Bu, bu, ve şu, şu" diyerek birçok şeyden uzaklaştım.</Content>
+          <Content>"Bu budur, şu da şudur" diyerek birçok şeyden uzaklaştım.</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>Roland</Teller>

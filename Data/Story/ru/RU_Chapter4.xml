@@ -3463,7 +3463,7 @@
 					<Teller>Bono</Teller>
 					<Title>Gaze Düzeltici'si</Title>
 					<VoiceFile>ch4_Gaze_ep1_bono20</VoiceFile>
-					<Content>Tıpkı son zamanlarda Şehir'in gündeminde olan Distorsiyon gibi. Ne kadar sinir bozucu.</Content>
+					<Content>Tıpkı son zamanlarda Şehir'in gündeminde olan bozulma gibi. Ne kadar sinir bozucu.</Content>
 				</Dialog>
 				<Dialog ID="59" Model="앤젤라">
 					<Teller>Angela</Teller>
@@ -3517,7 +3517,7 @@
 					<Teller>Angela</Teller>
 					<Title>Kütüphane Direktörü</Title>
 					<VoiceFile>ch4_Gaze_ep1_angela10</VoiceFile>
-					<Content>Kitabınızı bu yerde bulun.</Content>
+					<Content>kitabınızı umarım burada bulabilirsiniz.</Content>
 				</Dialog>
 			</Place>
 		</Episode>
@@ -3583,7 +3583,7 @@
 					<Teller>Roland</Teller>
 					<Title>Hizmetkar</Title>
 					<VoiceFile>ch4_Gaze_ep1_roland12</VoiceFile>
-					<Content>Distorsiyon ve Anormallikleri örnek al; sadece sonuç görülebilir, süreç değil. Tekillikler için de aynı şey geçerli.</Content>
+					<Content>bozulma ve Anormallikleri örnek al; sadece sonuç görülebilir, süreç değil. Tekillikler için de aynı şey geçerli.</Content>
 				</Dialog>
 				<Dialog ID="10" Model="앤젤라">
 					<Teller>Angela</Teller>
@@ -4653,7 +4653,7 @@
 					<Teller>Tomerry</Teller>
 					<Title>Vatandaş</Title>
 					<VoiceFile>ch4_Tomerry_ep1_tomerry7_b</VoiceFile>
-					<Content>Üzgünüm, anne. Kütüphane nedir? "Fixer" derken neyi kastediyorsun?</Content>
+					<Content>Üzgünüm, anne. Kütüphane nedir? "düzeltici" derken neyi kastediyorsun?</Content>
 				</Dialog>
 				<Dialog ID="172" Model="엘레나">
 					<Teller>Elena</Teller>
@@ -4869,7 +4869,7 @@
 					<Teller>Angela</Teller>
 					<Title>Kütüphane Direktörü</Title>
 					<VoiceFile>ch4_Tomerry_ep1_angela11</VoiceFile>
-					<Content>Kitabınızı bu yerde bulun.</Content>
+					<Content>kitabınızı umarım burada bulabilirsiniz.</Content>
 				</Dialog>
 			</Place>
 		</Episode>
@@ -5090,7 +5090,7 @@
 					<Teller>Sayo</Teller>
 					<Title>Kurokumo Kaptanı</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_sayo7-01</VoiceFile>
-					<Content>Eğer bir şey alırsanız, iyiliğin karşılığını uygun şekilde vermelisiniz. Düşünün ki bu alanı biz değil, Thumbs koruyordu...</Content>
+					<Content>Eğer bir şey alırsanız, iyiliğin karşılığını uygun şekilde vermelisiniz. Düşünün ki bu alanı biz değil, Başparmak koruyordu...</Content>
 				</Dialog>
 				<Dialog ID="25" Model="사요">
 					<Teller>Sayo</Teller>
@@ -5132,7 +5132,7 @@
 					<Teller>Gin</Teller>
 					<Title>Kurokumo Uşağı</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_gin5</VoiceFile>
-					<Content>Şiddetli. Thumbs ve Index'in bir bölge savaşına girmesi uzun zamandır ilk kez oluyor.</Content>
+					<Content>Şiddetli. Başparmak ve işaretparmağın bir bölge savaşına girmesi uzun zamandır ilk kez oluyor.</Content>
 				</Dialog>
 				<Dialog ID="32" Model="긴">
 					<Teller>Gin</Teller>
@@ -5207,7 +5207,7 @@
 					<Teller>Yang</Teller>
 					<Title>Kurokumo Uşağı</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_yang9</VoiceFile>
-					<Content>Kaptan, o son zamanlarda 'L'heure du Loup' (Kurdu'nun Saati) olarak adlandırılan kişi olmalı.</Content>
+					<Content>Kaptan, o son zamanlarda 'Kurdu'nun Saati' olarak adlandırılan kişi olmalı.</Content>
 				</Dialog>
 				<Dialog ID="44" Model="사요">
 					<Teller>Sayo</Teller>
@@ -5217,13 +5217,13 @@
 				</Dialog>
 				<Dialog ID="45" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya3</VoiceFile>
 					<Content>Komik, değil mi? Gülebildiğin kadar gül.</Content>
 				</Dialog>
 				<Dialog ID="46" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya4-01</VoiceFile>
 					<Content>Bakalım, burada yüz civarında Kurokumo var.</Content>
 				</Dialog>
@@ -5235,7 +5235,7 @@
 				</Dialog>
 				<Dialog ID="48" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya5</VoiceFile>
 					<Content>Plan bu, evet.</Content>
 				</Dialog>
@@ -5252,25 +5252,25 @@
 				</Dialog>
 				<Dialog ID="51" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya6-01</VoiceFile>
 					<Content>Hah. Zayıflar..</Content>
 				</Dialog>
 				<Dialog ID="52" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya7-01</VoiceFile>
 					<Content>Şu an olduğum kişi olmadan önce bile sizin gibi böcekleri bitirebilirdim.</Content>
 				</Dialog>
 				<Dialog ID="53" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya8-01</VoiceFile>
-					<Content>Pekala, neden bir araya gelip diz çökmiyorsunuz?.</Content>
+					<Content>Pekala, neden bir araya gelip diz çökmiyorsunuz?</Content>
 				</Dialog>
 				<Dialog ID="54" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya9</VoiceFile>
 					<Content>Ölüler... ne yaparsın, engelleyemezsin.</Content>
 				</Dialog>
@@ -5282,25 +5282,25 @@
 				</Dialog>
 				<Dialog ID="56" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya10-01</VoiceFile>
 					<Content>Ah, bir sürü şey istiyorum, küçük kız.</Content>
 				</Dialog>
 				<Dialog ID="57" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya11</VoiceFile>
 					<Content>Elimde çok para olsun istiyorum.</Content>
 				</Dialog>
 				<Dialog ID="58" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya12</VoiceFile>
 					<Content>Bir gün Yuva'da yaşamak istiyorum.</Content>
 				</Dialog>
 				<Dialog ID="59" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya13</VoiceFile>
 					<Content>... Ama her şeyden önce, biraz müzik yapmak istiyorum.</Content>
 				</Dialog>
@@ -5312,7 +5312,7 @@
 				</Dialog>
 				<Dialog ID="61" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya14-01</VoiceFile>
 					<Content>Vay~ Şu kafatasına bak nasıl uçuyor. Parkın dışına çıktı, sayı.</Content>
 				</Dialog>
@@ -5324,19 +5324,19 @@
 				</Dialog>
 				<Dialog ID="63" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya15</VoiceFile>
 					<Content>Ah, şey, sizden ne istiyorum?</Content>
 				</Dialog>
 				<Dialog ID="64" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya16</VoiceFile>
 					<Content>Doğru, mesele buydu.</Content>
 				</Dialog>
 				<Dialog ID="65" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya17-01</VoiceFile>
 					<Content>Her şeyden önce, üzerinizdeki kıyafet parçası ne? Ver onu bana.</Content>
 				</Dialog>
@@ -5344,17 +5344,17 @@
 					<Teller>Sayo</Teller>
 					<Title>Kurokumo Kaptanı</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_sayo20</VoiceFile>
-					<Content>... Bu Yeni Kumaş Thumbs için.</Content>
+					<Content>... Bu Yeni Kumaş başparmak için.</Content>
 				</Dialog>
 				<Dialog ID="67" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya18</VoiceFile>
 					<Content>Patronum o şeyle ilgileniyor. Oldukça iyi bir giysi parçası olduğunu duydum.</Content>
 				</Dialog>
 				<Dialog ID="68" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya19-01</VoiceFile>
 					<Content>Sanırım performanstan önce giyinmemizi istiyor.</Content>
 				</Dialog>
@@ -5362,17 +5362,17 @@
 					<Teller>Gin</Teller>
 					<Title>Kurokumo Uşağı</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_gin10</VoiceFile>
-					<Content>Thumbs'ın düşmanı olmanın sonuçlarını biliyor olmalısın.</Content>
+					<Content>başparmak'ın düşmanı olmanın sonuçlarını biliyor olmalısın.</Content>
 				</Dialog>
 				<Dialog ID="70" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya20</VoiceFile>
-					<Content>Thumbs mı? Pfft, gelmelerini söyle onlara. Hepsini ezeceğim.</Content>
+					<Content>başparmak mı? Pfft, gelmelerini söyle onlara. Hepsini ezeceğim.</Content>
 				</Dialog>
 				<Dialog ID="71" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya21-01</VoiceFile>
 					<Content>Ah, ayrıca adamlarını da Kütüphane'ye götür, tamam mı?</Content>
 				</Dialog>
@@ -5384,7 +5384,7 @@
 				</Dialog>
 				<Dialog ID="73" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya22</VoiceFile>
 					<Content>Evet, o şey.</Content>
 				</Dialog>
@@ -5396,13 +5396,13 @@
 				</Dialog>
 				<Dialog ID="75" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya23-01</VoiceFile>
 					<Content>Sana öyle olmadığını söyledim.</Content>
 				</Dialog>
 				<Dialog ID="76" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya24</VoiceFile>
 					<Content>Biraz para kazanmak istiyorum, ama müzik önce gelir.</Content>
 				</Dialog>
@@ -5414,25 +5414,25 @@
 				</Dialog>
 				<Dialog ID="78" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya25</VoiceFile>
 					<Content>Kim bilir. Patronum...</Content>
 				</Dialog>
 				<Dialog ID="79" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya26</VoiceFile>
-					<Content>Hayır, topluluğumuzun Orkestratörü, biraz müzik yapabilmemiz için Thumbs veya Index gibi tüm bu gürültülü Sendikalardan kurtulmak istiyor.</Content>
+					<Content>Hayır, topluluğumuzun Orkestratörü, biraz müzik yapabilmemiz için başparmak veya işaretparmak gibi tüm bu gürültülü Sendikalardan kurtulmak istiyor.</Content>
 				</Dialog>
 				<Dialog ID="80" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya27</VoiceFile>
 					<Content>Elbette şık takımlarla.</Content>
 				</Dialog>
 				<Dialog ID="81" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya28</VoiceFile>
 					<Content>Ve bu arada Kütüphane'ye yardım etmek.</Content>
 				</Dialog>
@@ -5444,7 +5444,7 @@
 				</Dialog>
 				<Dialog ID="83" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya29</VoiceFile>
 					<Content>Şşşt, küçük kız. Ölmek istemiyorsan başını eğ.</Content>
 				</Dialog>
@@ -5456,25 +5456,25 @@
 				</Dialog>
 				<Dialog ID="85" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya30-01</VoiceFile>
 					<Content>Bu arada, Davetiye'yi alıp dediğim gibi Kütüphane'ye gidebilirsiniz.</Content>
 				</Dialog>
 				<Dialog ID="86" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya31-01</VoiceFile>
 					<Content>Şimdi gidin.</Content>
 				</Dialog>
 				<Dialog ID="87" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya32</VoiceFile>
 					<Content>Hadi, gidebilirsiniz.</Content>
 				</Dialog>
 				<Dialog ID="88" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya33-01</VoiceFile>
 					<Content>Eğer o Davetiye'yi hemen kullanmazsanız, etlerinizden kemiklerinizi nazikçe çıkarırım.</Content>
 				</Dialog>
@@ -5486,7 +5486,7 @@
 				</Dialog>
 				<Dialog ID="90" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya34</VoiceFile>
 					<Content>Ellerin titriyor, küçük kız. İyi misin? Bana kızgın mısın tesadüfen?</Content>
 				</Dialog>
@@ -5498,7 +5498,7 @@
 				</Dialog>
 				<Dialog ID="92" Model="타냐">
 					<Teller>Tanya</Teller>
-					<Title>L’Heure du Loup</Title>
+					<Title>Kurdu'nun Saati</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_tanya35</VoiceFile>
 					<Content>Ve bir şey daha: eğer elinizde kitaplar olmadan kaçarsanız, benim için ölüsünüz.</Content>
 				</Dialog>
@@ -5515,7 +5515,7 @@
 					<Teller>Roland</Teller>
 					<Title>Hizmetkar</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_roland1</VoiceFile>
-					<Content>Görünüşe göre Fingers, L Corp'un bir zamanlar hüküm sürdüğü Yuva'nın mülkiyeti için şiddetle savaşıyor.</Content>
+					<Content>Görünüşe göre parmaklar, L Corp'un bir zamanlar hüküm sürdüğü Yuva'nın mülkiyeti için şiddetle savaşıyor.</Content>
 				</Dialog>
 				<Dialog ID="95" Model="앤젤라">
 					<Teller>Angela</Teller>
@@ -5575,7 +5575,7 @@
 					<Teller>Roland</Teller>
 					<Title>Hizmetkar</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_roland8</VoiceFile>
-					<Content>Bir Fixer kiralamak, ya da Kenar Mahallelere kovulmak, ya da başka bir Kanat'a katılmaya çalışmak, ya da her neyse. Kanat'ı olmayan bir Yuva, sakinleri için artık güvenli değildir.</Content>
+					<Content>Bir düzeltici kiralamak ya da Kenar Mahallelere kovulmak, ya da başka bir Kanat'a katılmaya çalışmak ya da her neyse. Kanat'ı olmayan bir Yuva, sakinleri için artık güvenli değildir.</Content>
 				</Dialog>
 				<Dialog ID="105" Model="앤젤라">
 					<Teller>Angela</Teller>
@@ -5599,13 +5599,13 @@
 					<Teller>Angela</Teller>
 					<Title>Kütüphane Direktörü</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_angela6</VoiceFile>
-					<Content>... Bir Distorsiyon vakası gibi görünüyordu.</Content>
+					<Content>... Bir bozulma vakası gibi görünüyordu.</Content>
 				</Dialog>
 				<Dialog ID="109" Model="롤랑">
 					<Teller>Roland</Teller>
 					<Title>Hizmetkar</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_roland11</VoiceFile>
-					<Content>Distorsiyon mu? Tam olarak hayal ettiğim gibi değil.</Content>
+					<Content>bozulma mı? Tam olarak hayal ettiğim gibi değil.</Content>
 				</Dialog>
 				<Dialog ID="110" Model="앤젤라">
 					<Teller>Angela</Teller>
@@ -5650,7 +5650,7 @@
 					<Teller>Gin</Teller>
 					<Title>Kurokumo Uşağı</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_gin11-01</VoiceFile>
-					<Content>Sakin ol, kaptan. Buradan çıktıktan sonra her şeyi Thumbs'a rapor edeceğiz.</Content>
+					<Content>Sakin ol, kaptan. Buradan çıktıktan sonra her şeyi başparmak'a rapor edeceğiz.</Content>
 				</Dialog>
 				<Dialog ID="117" Model="사요">
 					<Teller>Sayo</Teller>
@@ -5662,7 +5662,7 @@
 					<Teller>Yang</Teller>
 					<Title>Kurokumo Uşağı</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_yang12-01</VoiceFile>
-					<Content>Thumbs'ın bir yan kuruluşu olan Kurokumo Klanı'nı bu kadar saygısızlıkla tehdit edebilmesi gülünç.</Content>
+					<Content>başparmak'ın bir yan kuruluşu olan Kurokumo Klanı'nı bu kadar saygısızlıkla tehdit edebilmesi gülünç.</Content>
 				</Dialog>
 				<Dialog ID="119" Model="사요">
 					<Teller>Sayo</Teller>
@@ -5770,7 +5770,7 @@
 					<Teller>Angela</Teller>
 					<Title>Kütüphane Direktörü</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_angela13</VoiceFile>
-					<Content>Kitabınızı bu yerde bulun.</Content>
+					<Content>Kitabınızı umarım bu yerde bulursunuz.</Content>
 				</Dialog>
 			</Place>
 		</Episode>
@@ -5794,7 +5794,7 @@
 					<Teller>Roland</Teller>
 					<Title>Hizmetkar</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_roland14</VoiceFile>
-					<Content>Köpek kafanın ne dediğini duydun mu? Artık Thumbs, Index ve ait olduğu üçüncü bir grup var.</Content>
+					<Content>Köpek kafanın ne dediğini duydun mu? Artık başparmak, işaretparmak ve ait olduğu üçüncü bir grup var.</Content>
 				</Dialog>
 				<Dialog ID="3" Model="롤랑">
 					<Teller>Roland</Teller>
@@ -5824,7 +5824,7 @@
 					<Teller>Roland</Teller>
 					<Title>Hizmetkar</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_roland18</VoiceFile>
-					<Content>Thumbs ve Index şimdilik doğrudan eyleme geçmeyeceklerdir, ama onların astlarını da görmezden gelemeyiz.</Content>
+					<Content>başparmak ve işaretparmak şimdilik doğrudan eyleme geçmeyeceklerdir, ama onların astlarını da görmezden gelemeyiz.</Content>
 				</Dialog>
 				<Dialog ID="8" Model="롤랑">
 					<Teller>Roland</Teller>
@@ -5836,7 +5836,7 @@
 					<Teller>Roland</Teller>
 					<Title>Hizmetkar</Title>
 					<VoiceFile>ch4_Kurokumo_ep1_roland20</VoiceFile>
-					<Content>Umarım diğer Fingers da Kütüphane'ye gelmez, yoksa işler elimizden kaçar...</Content>
+					<Content>Umarım diğer parmaklar da Kütüphane'ye gelmez, yoksa işler elimizden kaçar...</Content>
 				</Dialog>
 				<Dialog ID="10" Model="앤젤라">
 					<Teller>Angela</Teller>

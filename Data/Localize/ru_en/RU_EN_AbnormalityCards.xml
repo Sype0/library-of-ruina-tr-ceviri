@@ -572,7 +572,7 @@ Vurdugunda, Eger zar sonucu maksimum degerse: bir sonraki Sahnede 1-2 Felç, Bag
       <Abnormality>Örümcek Kozasi</Abnormality>
       <CardName>Yemek</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
- Sersemlemesizlesmis bir düsmani vurdugunda, tüm müttefikler 2-4 Can (HP) iyilestirir. (Alan Saldirilari Hariç)</AbilityDesc>
+  bir düsmani vurdugunda, tüm müttefikler 2-4 Can (HP) iyilestirir. (Alan Saldirilari Hariç)</AbilityDesc>
       <FlaborText>Peter birkaç saniye içinde tavana sürüklendi. Gözetim Birimi'nin tavanindan sarkan çalisan, örümcegin yavrulari için besleyici bir ögün olacak.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Sevinin. Küçüklerime eglence vereceksiniz.</Dialogue>
@@ -816,7 +816,7 @@ Zar Gücü +1. Maksimum  Sersemleme Direncini %50 azalt.</AbilityDesc>
       <Abnormality>Porccubus</Abnormality>
       <CardName>Gülme Tozu</CardName>
       <AbilityDesc>[Tüm Müttefikler]
-Vuruldugunda, karakter  Sersemlemesizlesmis degilse 2-4  Sersemleme Direnci iyilestirir.</AbilityDesc>
+Vuruldugunda, karakter  sersemlemiş degilse 2-4  Sersemleme Direnci iyilestirir.</AbilityDesc>
       <FlaborText>Dikenlerden düsen toz dünyaya yayildiginda, insanlar sarhosluga batabilirdi.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Kafan yakinda mutlulukla dolacak.</Dialogue>
@@ -2132,7 +2132,7 @@ Ele 'sehit' Sayfasi ekle: 'Maliyet 0 - [Kullanildiginda] Bu Sahne boyunca, saldi
       <Abnormality>Mavi Yildiz</Abnormality>
       <CardName>Kefaret</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Bir Sahnenin basinda  Sersemlemesizlesmis herhangi bir karakter varsa, 3-7 Hasar alir ve tüm müttefikler Sahne boyunca 1 Güç kazanir. (Birden fazla  Sersemlemesizlesmis karakter daha fazla Güç vermez)</AbilityDesc>
+Bir Sahnenin basinda  sersemlemiş herhangi bir karakter varsa, 3-7 Hasar alir ve tüm müttefikler Sahne boyunca 1 Güç kazanir. (Birden fazla  sersemlemiş karakter daha fazla Güç vermez)</AbilityDesc>
       <FlaborText>Mavi Yildizimiz bizi kabul eden tek siginaktir. Burada tüm günahlarimizdan arinacagiz.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Bu kirli kabugu tamamen çikaralim ve parlak bir sekilde parlayalim.</Dialogue>
@@ -2187,7 +2187,7 @@ Eger seçilen Kütüphaneci ayni zamanda 'Vaftiz' Anormallik Sayfasina sahipse, 
       <Abnormality>Beyaz Gece</Abnormality>
       <CardName>itiraf</CardName>
       <AbilityDesc>[Tüm Müttefikler]
- Sersemleme Direncini tamamen iyilestirir ve tüm durum etkilerini kaldirir. ( Sersemlemesizlesmis Kütüphaneciler için de geçerlidir)
+ Sersemleme Direncini tamamen iyilestirir ve tüm durum etkilerini kaldirir. ( sersemlemiş Kütüphaneciler için de geçerlidir)
 Kabul süresi boyunca, saldirilardan 2 daha az  Sersemleme Hasari al.</AbilityDesc>
       <FlaborText>Aciya katlanmaya istekli olmak, kefaretin yarisidir.</FlaborText>
       <Dialogues>
