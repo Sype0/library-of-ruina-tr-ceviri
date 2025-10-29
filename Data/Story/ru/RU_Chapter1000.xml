@@ -1,278 +1,278 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="1000">
-    <Title>Special</Title>
+    <Title>Özel</Title>
   </Chapter>
   <Group>
     <GroupName>Philip’s E.G.O</GroupName>
     <Episode>
-      <EpisodeName>Story 1</EpisodeName>
+      <EpisodeName>Hikaye 1</EpisodeName>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane İçinde</PlaceName>
         <Dialog ID="0" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip1</VoiceFile>
-          <Content>... Ah... buf...</Content>
+          <Content>... Ah... öf...</Content>
         </Dialog>
         <Dialog ID="1" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip2</VoiceFile>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="2" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip3</VoiceFile>
-          <Content>De nuevo... Yo...</Content>
+          <Content>Yine... Ben...</Content>
         </Dialog>
         <Dialog ID="3" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip4</VoiceFile>
-          <Content>Pensé... que podría pelear junto a ellos hasta el final esta vez...</Content>
+          <Content>Düşündüm ki... bu sefer sonuna kadar onlarla birlikte savaşabilirim...</Content>
         </Dialog>
         <Dialog ID="4" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip5-01</VoiceFile>
-          <Content>Cuánto tiempo tengo que esconderme detrás de otros...</Content>
+          <Content>Daha ne kadar başkalarının arkasına saklanmak zorundayım ki...</Content>
         </Dialog>
         <Dialog ID="5" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip6</VoiceFile>
-          <Content>... Qué podría haber cambiado si me quedara con ellos y luchara a su lado.</Content>
+          <Content>... Onlarla kalsaydım ve yanlarında savaşsaydım ne değişirdi ki.</Content>
         </Dialog>
         <Dialog ID="6" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip7</VoiceFile>
-          <Content>Si solo yo... tuviera el coraje para hacer frente a las cosas.</Content>
+          <Content>Keşke sadece ben... olaylarla yüzleşme cesaretine sahip olsaydım.</Content>
         </Dialog>
         <Dialog ID="7" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip8-03</VoiceFile>
-          <Content>Si tuviera ese coraje, yo...</Content>
+          <Content>O cesarete sahip olsaydım, ben...</Content>
         </Dialog>
         <Dialog ID="8" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip9</VoiceFile>
           <Content>... ...</Content>
         </Dialog>
         <Dialog ID="9" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip10-01</VoiceFile>
-          <Content>Cuando me dijeron que escapara... vacilé.</Content>
+          <Content>Bana kaçmam söylendiğinde... tereddüt ettim.</Content>
         </Dialog>
         <Dialog ID="10" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip11-01</VoiceFile>
-          <Content>Si escapara dejando a mi maestro y superiora atrás, podrían creer que soy un cobarde. ¿Quizás realmente querían que me quedara con ellos?</Content>
+          <Content>Eğer ustamı ve kıdemlimi geride bırakıp kaçsaydım, benim korkak olduğuma inanabilirlerdi. Belki gerçekten de yanlarında kalmamı istemişlerdir?</Content>
         </Dialog>
         <Dialog ID="11" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip12</VoiceFile>
-          <Content>Pero la decisión que hice...</Content>
+          <Content>Ama aldığım karar...</Content>
         </Dialog>
         <Dialog ID="12" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip13-01</VoiceFile>
-          <Content>Fue escucharlos, creyendo que era por su propio bien.</Content>
+          <Content>Onları dinlemek oldu, bunun onların iyiliği için olduğuna inanarak.</Content>
         </Dialog>
         <Dialog ID="13" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip14-01</VoiceFile>
-          <Content>Me convencí a mí mismo de que sería una molestia si me quedaba. Que no había nada que pudiera hacer ahí, así que debería ir fuera y pedirle ayuda a otros.</Content>
+          <Content>Kendimi, kalırsam ayak bağı olacağıma ikna ettim. Orada yapabileceğim hiçbir şey olmadığını, bu yüzden dışarı çıkıp başkalarından yardım istemem gerektiğini.</Content>
         </Dialog>
         <Dialog ID="14" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip15-01</VoiceFile>
-          <Content>Todo es por mi maestro y superiora...</Content>
+          <Content>Her şey ustam ve kıdemlim için...</Content>
         </Dialog>
         <Dialog ID="15" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip16</VoiceFile>
-          <Content>No lo hago por mí... Yo... estaba determinado a sacrificarme a mí mismo por lo demás...</Content>
+          <Content>Bunu kendim için yapmıyorum... Ben... diğerleri için kendimi feda etmeye kararlıydım...</Content>
         </Dialog>
         <Dialog ID="16" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip17-01</VoiceFile>
-          <Content>Pero perdí, diciéndome a mí mismo que este no era el momento correcto... Me dije a mí mismo que estaba bien porque sigo siendo un buen hombre...</Content>
+          <Content>Ama kaybettim, kendime bunun doğru zaman olmadığını söyleyerek... Kendime iyi bir adam olduğum için sorun olmadığını söyledim...</Content>
         </Dialog>
         <Dialog ID="17" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip18</VoiceFile>
-          <Content>Dijo una persona vil y egoísta...</Content>
+          <Content>Alçak ve bencil bir kişi söyledi...</Content>
         </Dialog>
         <Dialog ID="18" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip19</VoiceFile>
-          <Content>Involucré a la Oficina Wedge diciéndoles que esto era por el bien de mi maestro y superiora...</Content>
+          <Content>Bunun ustam ve kıdemlimin iyiliği için olduğunu söyleyerek Wedge Bürosunu dahil ettim...</Content>
         </Dialog>
         <Dialog ID="19" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip20</VoiceFile>
-          <Content>Tomé su sacrificio por garantizado y escapé de nuevo.</Content>
+          <Content>Onların fedakarlıklarını garanti saydım ve yine kaçtım.</Content>
         </Dialog>
         <Dialog ID="20" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip21</VoiceFile>
-          <Content>“No es por mí mismo...”</Content>
+          <Content>“Kendim için değil...”</Content>
         </Dialog>
         <Dialog ID="21" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip22</VoiceFile>
-          <Content>Intentando justificar lo que quería hacer...</Content>
+          <Content>Yapmak istediğim şeyi haklı çıkarmaya çalışıyorum...</Content>
         </Dialog>
         <Dialog ID="22" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip23</VoiceFile>
-          <Content>Repitiendo interminablemente “Por ellos...” “Por alguien más...” Por quien...</Content>
+          <Content>Sonsuz bir şekilde tekrarlıyorum “Onlar için...” “Başka biri için...” Kimin için...</Content>
         </Dialog>
         <Dialog ID="23" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip24</VoiceFile>
-          <Content>Las palabras que pronuncié para disfrazar mi egoísmo como algo más grande.</Content>
+          <Content>Bencilliğimi daha büyük bir şey olarak gizlemek için söylediğim sözler.</Content>
         </Dialog>
         <Dialog ID="24" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip25</VoiceFile>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="25" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip26</VoiceFile>
-          <Content>Él tenía razón, yo era la persona más egoísta y peligrosa.</Content>
+          <Content>Haklıydı, en bencil ve tehlikeli kişi bendim.</Content>
         </Dialog>
         <Dialog ID="26" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip27</VoiceFile>
-          <Content>... No quiero embellecer mis motivos diciendo que era por otros.</Content>
+          <Content>... Motivasyonlarımı başkaları içindi diyerek güzelleştirmek istemiyorum.</Content>
         </Dialog>
         <Dialog ID="27" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip28</VoiceFile>
-          <Content>Estaba haciendo todo eso por mí mismo.</Content>
+          <Content>Tüm bunları kendim için yapıyordum.</Content>
         </Dialog>
         <Dialog ID="28" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip29</VoiceFile>
-          <Content>Para ponerme encima de todo.</Content>
+          <Content>Kendimi her şeyin üstüne koymak için.</Content>
         </Dialog>
         <Dialog ID="29" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip30</VoiceFile>
-          <Content>Por mí, que estoy sintiendo más tristeza que nadie...</Content>
+          <Content>En çok üzüntüyü hisseden ben olduğum için...</Content>
         </Dialog>
         <Dialog ID="30" Model="필립2">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip31</VoiceFile>
           <Content>...</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Story 2</EpisodeName>
+      <EpisodeName>Hikaye 2</EpisodeName>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane İçinde</PlaceName>
         <Dialog ID="0" Model="에고필립">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip32</VoiceFile>
-          <Content>... Nadie llorará por mi beneficio, incluso si estoy triste.</Content>
+          <Content>... Üzgün olsam bile kimse benim çıkarım için ağlamayacak.</Content>
         </Dialog>
         <Dialog ID="1" Model="에고필립">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip33</VoiceFile>
-          <Content>Después de todo, yo soy quien debe aguantar esta tristeza.</Content>
+          <Content>Ne de olsa, bu üzüntüye katlanması gereken benim.</Content>
         </Dialog>
         <Dialog ID="2" Model="에고필립">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip34-01</VoiceFile>
-          <Content>Si necesito... llevar esta emoción, si no puedo librarme de ella...</Content>
+          <Content>Bu duyguyu taşımam gerekiyorsa... eğer ondan kurtulamıyorsam...</Content>
         </Dialog>
         <Dialog ID="3" Model="에고필립">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip35-01</VoiceFile>
-          <Content>Si tengo que repetir este ciclo de hundirme en este pantano de desesperación y pensar cualquier cosa que me conforte.</Content>
+          <Content>Eğer bu umutsuzluk bataklığına saplanıp kalma ve beni rahatlatan herhangi bir şeyi düşünme döngüsünü tekrarlamak zorundaysam.</Content>
         </Dialog>
         <Dialog ID="4" Model="에고필립">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip36-01</VoiceFile>
-          <Content>Entonces tomaré el camino de volver sobre mis pasos con esta tristeza.</Content>
+          <Content>O zaman bu üzüntüyle adımlarımı geri alma yolunu seçeceğim.</Content>
         </Dialog>
         <Dialog ID="5" Model="에고필립">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip37-01</VoiceFile>
-          <Content>Porque creo que puedo hacerlo... Porque es lo que necesito hacer.</Content>
+          <Content>Çünkü yapabileceğime inanıyorum... Çünkü yapmam gereken şey bu.</Content>
         </Dialog>
         <Dialog ID="6" Model="에고필립">
           <Teller>Philip</Teller>
-          <Title>Ex Fixer de Dawn</Title>
+          <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch5_EgoPhi_ep1_Philip38</VoiceFile>
-          <Content>Tengo que avanzar... Este poder tiene que ser una oportunidad que se me ha dado.</Content>
+          <Content>İlerlemeliyim... Bu güç bana verilmiş bir şans olmalı.</Content>
         </Dialog>
       </Place>
     </Episode>
   </Group>
   <Group>
-    <GroupName>Liu Section 1 Post-battle</GroupName>
+    <GroupName>Liu Bölüm 1 Savaş Sonrası</GroupName>
     <Episode>
-      <EpisodeName>Story 1</EpisodeName>
+      <EpisodeName>Hikaye 1</EpisodeName>
       <Place>
-        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="0" Model="샤오">
           <Teller>Xiao</Teller>
-          <Title>Directora Liu S. Sección 1</Title>
+          <Title>Liu S. Bölüm 1 Direktörü</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_80-01</VoiceFile>
-          <Content>¡Dejame ir! ¡Esto no se ha acabado... Yo aún puedo...!</Content>
+          <Content>Bırak beni! Bu bitmedi... Ben hala yapabilirim...!</Content>
         </Dialog>
         <Dialog ID="1" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Fixer Liu S. Sección 1</Title>
+          <Title>Liu S. Bölüm 1 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_25-01</VoiceFile>
-          <Content>¡Calmate, directora!</Content>
+          <Content>Sakin olun, Direktör!</Content>
         </Dialog>
         <Dialog ID="2" Model="샤오">
           <Teller>Xiao</Teller>
-          <Title>Directora Liu S. Sección 1</Title>
+          <Title>Liu S. Bölüm 1 Direktörü</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_81-01</VoiceFile>
-          <Content>Pudiste haber huido solo si tenías tanto miedo... ¡Explícame por qué me llevaste contigo!</Content>
+          <Content>Eğer bu kadar korkuyorsan tek başına kaçabilirdin... Beni neden yanında götürdüğünü açıkla!</Content>
         </Dialog>
         <Dialog ID="3" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Fixer Liu S. Sección 1</Title>
+          <Title>Liu S. Bölüm 1 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_26-01</VoiceFile>
           <Content>...</Content>
         </Dialog>
@@ -280,11 +280,11 @@
     </Episode>
   </Group>
   <Group>
-    <GroupName>Liu Section 1 Part 2</GroupName>
+    <GroupName>Liu Bölüm 1 Kısım 2</GroupName>
     <Episode>
-      <EpisodeName>Story 1</EpisodeName>
+      <EpisodeName>Hikaye 1</EpisodeName>
       <Place>
-        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="0" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
@@ -295,19 +295,19 @@
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_54</VoiceFile>
-          <Content>Todos han muerto. Nadie está a mi lado.</Content>
+          <Content>Herkes öldü. Yanımda kimse yok.</Content>
         </Dialog>
         <Dialog ID="2" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_55</VoiceFile>
-          <Content>Aquí, lucharon a mi lado hasta el final... y murieron.</Content>
+          <Content>Burada, sonuna kadar yanımda savaştılar... ve öldüler.</Content>
         </Dialog>
-        <Dialog ID="3" Model="1_샤오에고">
+        <Dialog ID="3" Model="1_샤오에go">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_56</VoiceFile>
-          <Content>Me siento sola como un dragón volando en el aire, mi corazón está lleno de arrepentimiento.</Content>
+          <Content>Havada uçan bir ejderha gibi yalnız hissediyorum, kalbim pişmanlıkla dolu.</Content>
         </Dialog>
         <Dialog ID="4" Model="1_샤오에고">
           <Teller>Xiao</Teller>
@@ -319,37 +319,37 @@
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_58-01</VoiceFile>
-          <Content>Solo veo oscuridad. No puedo ver ni un paso delante.</Content>
+          <Content>Sadece karanlık görüyorum. Önümdeki bir adımı bile göremiyorum.</Content>
         </Dialog>
         <Dialog ID="6" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_59</VoiceFile>
-          <Content>¿Dónde debo ir? ¿De dónde viene el coraje para avanzar?</Content>
+          <Content>Nereye gitmeliyim? İlerlemek için gereken cesaret nereden geliyor?</Content>
         </Dialog>
         <Dialog ID="7" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_60</VoiceFile>
-          <Content>¿En qué creyeron tan firmemente hasta sus últimos momentos?</Content>
+          <Content>Son anlarına kadar bu kadar sıkı inandıkları şey neydi?</Content>
         </Dialog>
         <Dialog ID="8" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_61</VoiceFile>
-          <Content>¿Era la esperanza de emerger victoriosos... una fuerte líder... o la meta de conseguir los libros...?</Content>
+          <Content>Galip gelme umudu muydu... güçlü bir lider mi... yoksa kitapları alma hedefi mi...?</Content>
         </Dialog>
         <Dialog ID="9" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_62</VoiceFile>
-          <Content>Tristemente, no seré capaz de escuchar sus respuestas ahora.</Content>
+          <Content>Ne yazık ki, şimdi onların cevaplarını duyamayacağım.</Content>
         </Dialog>
         <Dialog ID="10" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_63-01</VoiceFile>
-          <Content>Sin embargo, mientras el aliento de vida descanse momentáneamente dentro de nosotros antes de dispersarse para regresar a su fuente... Lo veré de nuevo algún día; y entonces podré hacerles mis preguntas.</Content>
+          <Content>Yine de, yaşam nefesi kaynağına geri dönmek için dağılmadan önce anlık olarak içimizde dururken... Onları bir gün tekrar göreceğim; ve o zaman sorularımı onlara sorabileceğim.</Content>
         </Dialog>
         <Dialog ID="11" Model="1_샤오에고">
           <Teller>Xiao</Teller>
@@ -361,67 +361,67 @@
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_65</VoiceFile>
-          <Content>De nuevo tú. Eres una conversadora persistente, no es así.</Content>
+          <Content>Yine sen. Ne kadar ısrarcı bir konuşmacısın, değil mi.</Content>
         </Dialog>
         <Dialog ID="13" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_66</VoiceFile>
-          <Content>... No colapsaré o sucumbiré al miedo de la desesperación que me has traído.</Content>
+          <Content>... Bana getirdiğin umutsuzluğun korkusuyla çökmeyeceğim ya da yenilmeyeceğim.</Content>
         </Dialog>
         <Dialog ID="14" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_67</VoiceFile>
-          <Content>No hay nada que un humano... no pueda superar.</Content>
+          <Content>İnsanın... üstesinden gelemeyeceği hiçbir şey yoktur.</Content>
         </Dialog>
         <Dialog ID="15" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_68</VoiceFile>
-          <Content>Creo que alcanzaré el final ideal si me mantengo firme y procedo con perseverancia... Yo sinceramente, ingenuamente creo esto.</Content>
+          <Content>Eğer kararlı kalırsam ve sebatla ilerlersem ideal sona ulaşacağıma inanıyorum... Buna içtenlikle, safça inanıyorum.</Content>
         </Dialog>
         <Dialog ID="16" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_69</VoiceFile>
-          <Content>... No. No hay necesidad de desanimarse por eso. Sin desesperación, no sería necesaria la esperanza.</Content>
+          <Content>... Hayır. Bu yüzden cesaretimi kaybetmeye gerek yok. Umutsuzluk olmasaydı, umuda da gerek kalmazdı.</Content>
         </Dialog>
         <Dialog ID="17" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_70</VoiceFile>
-          <Content>El miedo nace porque existe la esperanza, pero la valentía nace porque existe el miedo...</Content>
+          <Content>Korku, umut olduğu için doğar, ama cesaret, korku olduğu için doğar...</Content>
         </Dialog>
-        <Dialog ID="18" Model="1_샤오에고">
+        <Dialog ID="18" Model="1_샤오에go">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_71-01</VoiceFile>
-          <Content>Sin esas cosas, no hay vida. Y que es la vida sin una razón para vivir...</Content>
+          <Content>Bu şeyler olmadan hayat yoktur. Ve yaşamak için bir neden olmadan hayat nedir ki...</Content>
         </Dialog>
         <Dialog ID="19" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_72</VoiceFile>
-          <Content>Entonces, ¿por qué no disfrutaría de esta sensación de vitalidad?</Content>
+          <Content>O zaman neden bu canlılık duygusunun tadını çıkarmayayım?</Content>
         </Dialog>
         <Dialog ID="20" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_73</VoiceFile>
-          <Content>Seguiré luchando por mi propio beneficio.</Content>
+          <Content>Kendi iyiliğim için savaşmaya devam edeceğim.</Content>
         </Dialog>
         <Dialog ID="21" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_74-01</VoiceFile>
-          <Content>Para no menospreciar a mis compañeros que dieron sus vidas por mí.</Content>
+          <Content>Benim için canlarını veren yoldaşlarımı küçümsememek için.</Content>
         </Dialog>
         <Dialog ID="22" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_75</VoiceFile>
-          <Content>... No. Más bien, estaría ignorando su sacrificio si me rindiera aquí por lo que les sucedió.</Content>
+          <Content>... Hayır. Daha doğrusu, onlara olanlar yüzünden burada pes edersem onların fedakarlığını hiçe saymış olurum.</Content>
         </Dialog>
         <Dialog ID="23" Model="1_샤오에고">
           <Teller>Xiao</Teller>
@@ -433,187 +433,187 @@
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_77</VoiceFile>
-          <Content>Nunca estaré de acuerdo con tus palabras.</Content>
+          <Content>Sözlerine asla katılmayacağım.</Content>
         </Dialog>
-        <Dialog ID="25" Model="1_샤오에고">
+        <Dialog ID="25" Model="1_샤오에go">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_78-01</VoiceFile>
-          <Content>Un árbol solitario no puede volverse un bosque por su cuenta, dices... Una historia interesante.</Content>
+          <Content>Yalnız bir ağaç kendi başına bir orman olamaz, diyorsun... İlginç bir hikaye.</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Story 2</EpisodeName>
+      <EpisodeName>Hikaye 2</EpisodeName>
       <Place>
-        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="0" Model="3_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_79-03</VoiceFile>
-          <Content>Incluso si estoy sola, la noche llegará.</Content>
+          <Content>Yalnız olsam bile gece gelecek.</Content>
         </Dialog>
         <Dialog ID="1" Model="3_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_80-01</VoiceFile>
-          <Content>Y cada noche es seguida por el amanecer...</Content>
+          <Content>Ve her gecenin ardından şafak söker...</Content>
         </Dialog>
         <Dialog ID="2" Model="3_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_81-01</VoiceFile>
-          <Content>Una simple estrella que se desvanecerá no puede aspirar a superar la luz del sol naciente.</Content>
+          <Content>Sönüp gidecek basit bir yıldız, doğan güneşin ışığını geçmeyi hedefleyemez.</Content>
         </Dialog>
-        <Dialog ID="3" Model="3_샤오에고">
+        <Dialog ID="3" Model="3_샤오에go">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_82-03</VoiceFile>
-          <Content>Prepárate; porque hoy, una Estrella de la Ciudad se habrá ido.</Content>
+          <Content>Hazırlanın; çünkü bugün, bir Şehir Yıldızı daha yok olacak.</Content>
         </Dialog>
       </Place>
     </Episode>
   </Group>
   <Group>
-    <GroupName>아르갈리아</GroupName>
+    <GroupName>Argalia</GroupName>
     <Episode>
       <EpisodeName>1</EpisodeName>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane İçinde</PlaceName>
         <Dialog ID="0" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Müdürü</Title>
           <VoiceFile>ch7_Blue_ep3_Angela_1</VoiceFile>
-          <Content>... ¿Cómo? No... Esto no puede ser... No se supone que esté aquí...</Content>
+          <Content>... Nasıl? Hayır... Burada olmaması gerekiyordu...</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
       <EpisodeName>2</EpisodeName>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane İçinde</PlaceName>
         <Dialog ID="0" Model="롤랑_4">
           <Teller>Roland</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_9</VoiceFile>
-          <Content>¡Eh, Angela! Es bueno verte después de tanto tiempo.</Content>
+          <Content>Hey, Angela! Uzun zamandan sonra seni görmek güzel.</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑_4">
           <Teller>Roland</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_10</VoiceFile>
-          <Content>Supongo que tuviste que devolver tu cuerpo mecánico, ¿eh?... Tu cara está completamente pálida de nuevo.</Content>
+          <Content>Sanırım mekanik vücudunu geri vermek zorunda kaldın, ha?... Yüzün yine tamamen solgun.</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Müdürü</Title>
           <VoiceFile>ch7_Blue_ep3_Angela_2</VoiceFile>
-          <Content>Roland, ¿qué has hecho?</Content>
+          <Content>Roland, ne yaptın?</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑_4">
           <Teller>Roland</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_11</VoiceFile>
-          <Content>Casi te evaporaste en el último día. Así que te saqué de ese pilar de luz.</Content>
+          <Content>Son gün neredeyse buharlaşıyordun. Ben de seni o ışık sütunundan çıkardım.</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑_4">
           <Teller>Roland</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_12</VoiceFile>
-          <Content>Espérame un segundo, aún no he acabado con este psicópata tan persistente.</Content>
+          <Content>Bir saniye bekle, bu inatçı psikopatla henüz işim bitmedi.</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Müdürü</Title>
           <VoiceFile>ch7_Blue_ep3_Angela_3</VoiceFile>
-          <Content>... No deberías haber hecho eso.</Content>
+          <Content>... Bunu yapmamalıydın.</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
+          <Title>Kütüphane Müdürü</Title>
           <VoiceFile>ch7_Blue_ep3_Angela_4</VoiceFile>
-          <Content>No seré capaz de revertir todo completamente de esta forma...</Content>
+          <Content>Bu şekilde her şeyi tamamen tersine çeviremeyeceğim...</Content>
         </Dialog>
         <Dialog ID="7" Model="아르갈리아">
           <Teller>Argalia</Teller>
-          <Title>La Asamblea de Reverberación</Title>
+          <Title>Yankılanma Meclisi</Title>
           <VoiceFile>ch7_Blue_ep3_Argalia_10</VoiceFile>
-          <Content>Todo fue en vano...</Content>
+          <Content>Hepsi boşunaydı...</Content>
         </Dialog>
         <Dialog ID="8" Model="아르갈리아">
           <Teller>Argalia</Teller>
-          <Title>La Asamblea de Reverberación</Title>
+          <Title>Yankılanma Meclisi</Title>
           <VoiceFile>ch7_Blue_ep3_Argalia_11</VoiceFile>
-          <Content>Esa era mi última oportunidad...</Content>
+          <Content>Bu benim son şansımdı...</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
       <EpisodeName>3</EpisodeName>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane İçinde</PlaceName>
         <Dialog ID="0" Model="아르갈리아">
           <Teller>Argalia</Teller>
-          <Title>La Asamblea de Reverberación</Title>
+          <Title>Yankılanma Meclisi</Title>
           <VoiceFile>ch7_Blue_ep3_Argalia_12</VoiceFile>
-          <Content>¡¡¡Roland... Angela!!!</Content>
+          <Content>Roland... Angela!!!</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
       <EpisodeName>4</EpisodeName>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane İçinde</PlaceName>
         <Dialog ID="0" Model="롤랑_4">
           <Teller>Roland</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_13</VoiceFile>
-          <Content>Debiste comportarte como el lunático que siempre fuiste hasta el final.</Content>
+          <Content>Sonuna kadar her zamanki manyak gibi davranmalıydın.</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑_4">
           <Teller>Roland</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_14</VoiceFile>
-          <Content>Esto es lo que consigues por salirte de tu personaje y chillar como un novato.</Content>
+          <Content>Rolünün dışına çıkıp bir çaylak gibi çığlık atmanın karşılığı bu.</Content>
         </Dialog>
         <Dialog ID="2" Model="아르갈리아">
           <Teller>Argalia</Teller>
-          <Title>La Asamblea de Reverberación</Title>
+          <Title>Yankılanma Meclisi</Title>
           <VoiceFile>ch7_Blue_ep3_Argalia_13</VoiceFile>
-          <Content>... Esto es horrible.</Content>
+          <Content>... Bu çok korkunç.</Content>
         </Dialog>
         <Dialog ID="3" Model="아르갈리아">
           <Teller>Argalia</Teller>
-          <Title>La Asamblea de Reverberación</Title>
+          <Title>Yankılanma Meclisi</Title>
           <VoiceFile>ch7_Blue_ep3_Argalia_14</VoiceFile>
-          <Content>Quería que mi final por lo menos fuera elegante...</Content>
+          <Content>Sonumun en azından zarif olmasını isterdim...</Content>
         </Dialog>
         <Dialog ID="4" Model="아르갈리아">
           <Teller>Argalia</Teller>
-          <Title>La Asamblea de Reverberación</Title>
+          <Title>Yankılanma Meclisi</Title>
           <VoiceFile>ch7_Blue_ep3_Argalia_15</VoiceFile>
-          <Content>... Le enviaré tus saludos a mi querida hermana, cuñado.</Content>
+          <Content>... Sevgili kız kardeşine selamlarımı ileteceğim, kayınbirader.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑_4">
           <Teller>Roland</Teller>
           <Title />
           <VoiceFile>ch7_Blue_ep3_Roland_15</VoiceFile>
-          <Content>... Muérete de una vez.</Content>
+          <Content>... Bir an önce geber.</Content>
         </Dialog>
       </Place>
     </Episode>
   </Group>
   <Group>
-    <GroupName>The Head, the Eye, and the Claw</GroupName>
+    <GroupName>Kafa, Göz ve Pençe</GroupName>
     <Episode>
-      <EpisodeName>Enter Gebura</EpisodeName>
+      <EpisodeName>Gebura Geliyor</EpisodeName>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane İçinde</PlaceName>
         <Dialog ID="0" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep1_Zena_1</VoiceFile>
-          <Content>¿Ya estás agotado? Todavía no hacemos ningún esfuerzo real.</Content>
+          <Content>Şimdiden tükendin mi? Henüz gerçek bir çaba göstermedik.</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑_4">
           <Teller>Roland</Teller>
@@ -623,151 +623,151 @@
         </Dialog>
         <Dialog ID="2" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep1_Zena_2</VoiceFile>
-          <Content>Ejecutor.</Content>
+          <Content>İnfazcı.</Content>
         </Dialog>
         <Dialog ID="3" Model="바랄">
           <Teller>Baral</Teller>
-          <Title>Ejecutor de la Garra</Title>
+          <Title>Pençe İnfazcısı</Title>
           <VoiceFile />
-          <Content>... Acabaré con él.</Content>
+          <Content>... Onu bitireceğim.</Content>
         </Dialog>
         <Dialog ID="4" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep1_Zena_3</VoiceFile>
-          <Content>... Alto.</Content>
+          <Content>... Dur.</Content>
         </Dialog>
         <Dialog ID="5" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep1_Zena_4</VoiceFile>
-          <Content>Al final te has mostrado.</Content>
+          <Content>Sonunda kendini gösterdin.</Content>
         </Dialog>
         <Dialog ID="6" Model="게부라">
           <Teller>Gebura</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep1_Gebura_1</VoiceFile>
-          <Content>... ¿Nos hemos visto alguna vez?</Content>
+          <Content>... Daha önce hiç tanıştık mı?</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑_4">
           <Teller>Roland</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep1_Roland_2</VoiceFile>
-          <Content>Así que por eso Angela me pidió quedarme aquí... Era para despertarte, ¿eh?...</Content>
+          <Content>Demek Angela'nın burada kalmamı istemesinin nedeni buymuş... Seni uyandırmak için, ha?...</Content>
         </Dialog>
         <Dialog ID="8" Model="게부라">
           <Teller>Gebura</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep1_Gebura_2</VoiceFile>
-          <Content>¿Qué, no estás contento de verme después de que viniera a salvarte el trasero?</Content>
+          <Content>Ne, seni kurtarmaya geldikten sonra beni gördüğün için sevinmedin mi?</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑_4">
           <Teller>Roland</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep1_Roland_3</VoiceFile>
-          <Content>... No me estoy quejando, ma’am.</Content>
+          <Content>... Şikayetçi değilim, bayan.</Content>
         </Dialog>
         <Dialog ID="10" Model="게부라">
           <Teller>Gebura</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep1_Gebura_3</VoiceFile>
-          <Content>No te preocupes. Solo cálmate y levántate. Es demasiado pronto para ser derrotados, sabes...</Content>
+          <Content>Merak etme. Sadece sakin ol ve ayağa kalk. Yenilmek için çok erken, biliyorsun...</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑_4">
           <Teller>Roland</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep1_Roland_4</VoiceFile>
-          <Content>Bien... Gracias por venir. Definitivamente no iba a conseguirlo por mi cuenta.</Content>
+          <Content>Pekala... Geldiğin için teşekkürler. Tek başıma kesinlikle başaramayacaktım.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑_4">
           <Teller>Roland</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep1_Roland_5</VoiceFile>
-          <Content>Es bueno tenerte aquí.</Content>
+          <Content>Burada olman güzel.</Content>
         </Dialog>
         <Dialog ID="13" Model="게부라">
           <Teller>Gebura</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep1_Gebura_4</VoiceFile>
-          <Content>Tampoco puedo garantizar que yo pueda con esto.</Content>
+          <Content>Bunu benim de halledebileceğimi garanti edemem.</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑_4">
           <Teller>Roland</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep1_Roland_6</VoiceFile>
-          <Content>Bueno... Vamos a tener que intentarlo y detenerlos el máximo tiempo posible...</Content>
+          <Content>Pekala... Onları olabildiğince durdurmaya çalışmalıyız...</Content>
         </Dialog>
         <Dialog ID="15" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep1_Zena_5</VoiceFile>
-          <Content>Sepan que unir fuerzas no cambiará el destino inevitable de esto.</Content>
+          <Content>Birlikte güçlerinizi birleştirmenin, bunun kaçınılmaz kaderini değiştirmeyeceğini bilin.</Content>
         </Dialog>
         <Dialog ID="16" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep1_Zena_6</VoiceFile>
-          <Content>Sin embargo, es un placer observar sus esfuerzos.</Content>
+          <Content>Yine de, çabalarınızı gözlemlemek bir zevk.</Content>
         </Dialog>
         <Dialog ID="17" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep1_Zena_7</VoiceFile>
-          <Content>De hecho... mientras no me importaría observar esta situación desde la distancia...</Content>
+          <Content>Aslına bakılırsa... bu durumu uzaktan izlemekten çekinmeyecek olsam da...</Content>
         </Dialog>
         <Dialog ID="18" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep1_Zena_8</VoiceFile>
-          <Content>Debemos asegurarnos de tratar con este lugar adecuadamente, así que sería sabio de mi parte participar.</Content>
+          <Content>Bu yerle gerektiği gibi ilgilenmemiz gerekiyor, bu yüzden benim de katılmam akıllıca olacaktır.</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑_4">
           <Teller>Roland</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep1_Roland_7</VoiceFile>
-          <Content>... Y esto se volvió mucho más problemático.</Content>
+          <Content>... Ve bu çok daha sorunlu bir hale geldi.</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Enter Binah - 1</EpisodeName>
+      <EpisodeName>Binah Geliyor - 1</EpisodeName>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane İçinde</PlaceName>
         <Dialog ID="0" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_1</VoiceFile>
-          <Content>Aislados, sin una forma de escapar... Vuestro estado es lamentable.</Content>
+          <Content>Tecrit edilmiş, kaçış yolu yok... Durumunuz acınası.</Content>
         </Dialog>
         <Dialog ID="1" Model="바랄">
           <Teller>Baral</Teller>
-          <Title>Ejecutor de la Garra</Title>
+          <Title>Pençe İnfazcısı</Title>
           <VoiceFile>ch7_Endbattle_ep2_Bharal_1_1</VoiceFile>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="2" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_2</VoiceFile>
-          <Content>Pero se las arreglaron para aguantar por más tiempo de lo que esperábamos. Es una lástima que todo deba terminar de esta forma...</Content>
+          <Content>Ama beklediğimizden daha uzun süre dayanmayı başardınız. Her şeyin bu şekilde sona ermesi ne yazık...</Content>
         </Dialog>
         <Dialog ID="3" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_3</VoiceFile>
-          <Content>Ahora...</Content>
+          <Content>Şimdi...</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Enter Binah - 2</EpisodeName>
+      <EpisodeName>Binah Geliyor - 2</EpisodeName>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane İçinde</PlaceName>
         <Dialog ID="0" Model="바랄">
           <Teller>Baral</Teller>
-          <Title>Ejecutor de la Garra</Title>
+          <Title>Pençe İnfazcısı</Title>
           <VoiceFile>ch7_Endbattle_ep2_Bharal_1</VoiceFile>
           <Content>¡...!</Content>
         </Dialog>
@@ -775,17 +775,17 @@
           <Teller>Binah</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep2_Binah_1</VoiceFile>
-          <Content>... Es cierto que charlar te deja vulnerable.</Content>
+          <Content>... Sohbet etmenin insanı savunmasız bıraktığı doğru.</Content>
         </Dialog>
         <Dialog ID="2" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile />
           <Content>...</Content>
         </Dialog>
         <Dialog ID="3" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_5</VoiceFile>
           <Content>Garion...</Content>
         </Dialog>
@@ -793,109 +793,109 @@
           <Teller>Binah</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep2_Binah_2</VoiceFile>
-          <Content>Ese es un nombre que no he escuchado hace tiempo... Aunque supongo que ese nombre nunca más será para mí.</Content>
+          <Content>Uzun zamandır duymadığım bir isim... Gerçi sanırım bu isim artık benim için değil.</Content>
         </Dialog>
         <Dialog ID="5" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_6</VoiceFile>
-          <Content>A pesar de haber recibido noticias tuyas... No esperaba que salieras y nos saludaras tan tarde.</Content>
+          <Content>Senden haber almış olmamıza rağmen... Bu kadar geç ortaya çıkıp bizi selamlamanı beklemiyordum.</Content>
         </Dialog>
         <Dialog ID="6" Model="게부라">
           <Teller>Gebura</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep2_Gebura_1</VoiceFile>
-          <Content>... ¿Qué te tomó tanto tiempo?</Content>
+          <Content>... Neden bu kadar uzun sürdü?</Content>
         </Dialog>
         <Dialog ID="7" Model="비나_조율자">
           <Teller>Binah</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep2_Binah_3</VoiceFile>
-          <Content>Simplemente estuve observándolos desde lejos por un momento.</Content>
+          <Content>Sadece bir süreliğine sizi uzaktan izliyordum.</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑_4">
           <Teller>Roland</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep2_Roland_1</VoiceFile>
-          <Content>En serio, ¿hasta que todos estuviéramos así de maltratados?</Content>
+          <Content>Cidden, hepimiz bu kadar kötü dövülene kadar mı?</Content>
         </Dialog>
         <Dialog ID="9" Model="비나_조율자">
           <Teller>Binah</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep2_Binah_4</VoiceFile>
-          <Content>Miren por ustedes mismos antes de culparme. Esta lucha pronto se reanudará.</Content>
+          <Content>Beni suçlamadan önce kendinize bakın. Bu kavga yakında yeniden başlayacak.</Content>
         </Dialog>
         <Dialog ID="10" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_7</VoiceFile>
-          <Content>No solo fallaste en la responsabilidad de completar tu deber... Caíste dormida aquí y nos diste la espalda. Qué imprudente...</Content>
+          <Content>Görevinizi tamamlama sorumluluğunuzda başarısız olmakla kalmadınız... Burada uyuyakaldınız ve bize sırt çevirdiniz. Ne kadar pervasız...</Content>
         </Dialog>
         <Dialog ID="11" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_8</VoiceFile>
-          <Content>Sin embargo, supongo que podemos saldar cuentas más tarde.</Content>
+          <Content>Ancak, sanırım hesapları daha sonra kapatabiliriz.</Content>
         </Dialog>
-        <Dialog ID="12" Model="제나">
+        <Dialog ID="12" Model="제ना">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_9</VoiceFile>
-          <Content>Desenterráremos tu tumba y te sacaremos pronto.</Content>
+          <Content>Mezarınızı kazıp sizi yakında oradan çıkaracağız.</Content>
         </Dialog>
         <Dialog ID="13" Model="비나_조율자">
           <Teller>Binah</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep2_Binah_5</VoiceFile>
-          <Content>Solo puedo compadecerme de ti y de tu vano esfuerzo por buscar una entidad cuya cáscara es todo lo que queda.</Content>
+          <Content>Sana ve geriye sadece kabuğu kalmış bir varlığı arama konusundaki boş çabana sadece acıyabilirim.</Content>
         </Dialog>
         <Dialog ID="14" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_10</VoiceFile>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="15" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_11</VoiceFile>
-          <Content>Ejecutor. Prepárate. Comenzaremos en cualquier momento.</Content>
+          <Content>İnfazcı. Hazırlan. Her an başlayacağız.</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Expulsion Begins</EpisodeName>
+      <EpisodeName>Kovulma Başlıyor</EpisodeName>
       <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
+        <PlaceName>Konum: Kütüphane İçinde</PlaceName>
         <Dialog ID="0" Model="롤랑_4">
           <Teller>Roland</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep3_Roland_1</VoiceFile>
-          <Content>... ¿Qué? ¿Qué es este temblor?</Content>
+          <Content>... Ne? Bu titreme de neyin nesi?</Content>
         </Dialog>
         <Dialog ID="1" Model="게부라">
           <Teller>Gebura</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep3_Gebura_1</VoiceFile>
-          <Content>... Parece que hemos terminado con el plan.</Content>
+          <Content>... Görünüşe göre planı bitirdik.</Content>
         </Dialog>
         <Dialog ID="2" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile />
           <Content>...</Content>
         </Dialog>
         <Dialog ID="3" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep3_Zena_2</VoiceFile>
-          <Content>Garion... Es una lástima que falláramos en recuperar tu una vez desmoronado cuerpo...</Content>
+          <Content>Garion... Bir zamanlar çöken vücudunu geri alamamamız ne yazık...</Content>
         </Dialog>
         <Dialog ID="4" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep3_Zena_3</VoiceFile>
-          <Content>El final está cerca....</Content>
+          <Content>Son yaklaşıyor....</Content>
         </Dialog>
         <Dialog ID="5" Model="비나_조율자">
           <Teller>Binah</Teller>
@@ -905,33 +905,33 @@
         </Dialog>
         <Dialog ID="6" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep3_Zena_4</VoiceFile>
-          <Content>Este lugar será expulsado como ha sido planeado. Prepárense para ser enviados a las Afueras, a una verdadera distancia de la Ciudad.</Content>
+          <Content>Burası planlandığı gibi kovulacak. Şehrin gerçek bir uzağı olan Dış Mahallelere gönderilmeye hazırlanın.</Content>
         </Dialog>
         <Dialog ID="7" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep3_Zena_5</VoiceFile>
-          <Content>No teman. Solo los estamos recolocando a donde pertenecen...</Content>
+          <Content>Korkmayın. Sadece sizi ait olduğunuz yere yeniden yerleştiriyoruz...</Content>
         </Dialog>
         <Dialog ID="8" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep3_Zena_6</VoiceFile>
-          <Content>Solo pido que no vuelvan. La Ciudad no tiene espacio para seres como ustedes.</Content>
+          <Content>Sadece geri gelmemenizi rica ediyorum. Şehirde sizin gibi varlıklara yer yok.</Content>
         </Dialog>
         <Dialog ID="9" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep3_Zena_7</VoiceFile>
-          <Content>Por ahora, los moveremos amablemente hacia las Afueras. Pero si regresan a la Ciudad, entonces consideraremos que han decidido ignorar nuestra amabilidad.</Content>
+          <Content>Şimdilik, sizi nazikçe Dış Mahallelere taşıyacağız. Ama Şehre geri dönerseniz, nezaketimizi hiçe saydığınıza karar vereceğiz.</Content>
         </Dialog>
         <Dialog ID="10" Model="제나">
           <Teller>Zena</Teller>
-          <Title>Árbitro de la Cabeza</Title>
+          <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep3_Zena_8</VoiceFile>
-          <Content>Así que marquen mis palabras y quédense donde por derecho pertenecen.</Content>
+          <Content>Bu yüzden sözlerime kulak verin ve hak ettiğiniz yerde kalın.</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑_4">
           <Teller>Roland</Teller>
@@ -943,22 +943,22 @@
     </Episode>
   </Group>
   <Group>
-    <GroupName>Keter Battle</GroupName>
+    <GroupName>Keter Savaşı</GroupName>
     <Episode>
-      <EpisodeName>Bloodbath</EpisodeName>
+      <EpisodeName>Kan banyosu</EpisodeName>
       <Place>
-        <PlaceName>Localización: Lugar Desconocido</PlaceName>
+        <PlaceName>Konum: Bilinmeyen Yer</PlaceName>
         <Dialog ID="0" Model="Voice_1_2">
           <Teller>???</Teller>
           <Title />
           <VoiceFile>ch8_keter_ep4_blood_Voice_1</VoiceFile>
-          <Content>Agudicemos toda la humillación, la ira... y la tristeza que has sentido... Saca un filo de tus verdaderos sentimientos en esta luz.</Content>
+          <Content>Hissettiğin tüm aşağılanmayı, öfkeyi... ve üzüntüyü keskinleştir... Bu ışıkta gerçek duygularından bir bıçak çıkar.</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title />
           <VoiceFile>ch8_keter_ep4_blood_Angela_1</VoiceFile>
-          <Content>¿Estás sugiriendo que debería frustrar este plan de nuevo?</Content>
+          <Content>Bu planı tekrar engellemem gerektiğini mi öne sürüyorsun?</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -970,43 +970,43 @@
           <Teller>Angela</Teller>
           <Title />
           <VoiceFile>ch8_keter_ep4_blood_Angela_3</VoiceFile>
-          <Content>No puedo hacer eso... No debería repetir el mismo error de nuevo.</Content>
+          <Content>Bunu yapamam... Aynı hatayı tekrar etmemeliyim.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title />
           <VoiceFile>ch8_keter_ep4_blood_Angela_4</VoiceFile>
-          <Content>Esparciré la Luz con todo lo que he aprendido en este lugar de acuerdo con el plan original, y...</Content>
+          <Content>Bu yerde öğrendiğim her şeyi orijinal plana uygun olarak Işık'la yayacağım ve...</Content>
         </Dialog>
         <Dialog ID="5" Model="Voice_1_2">
           <Teller>???</Teller>
           <Title />
           <VoiceFile>ch8_keter_ep4_blood_Voice_2</VoiceFile>
-          <Content>Qué lamentable, has sido suprimida de tus emociones y te hundes profundamente...</Content>
+          <Content>Ne yazık, duygularından bastırılmışsın ve derinlere batıyorsun...</Content>
         </Dialog>
         <Dialog ID="6" Model="Voice_1_2">
           <Teller>???</Teller>
           <Title />
           <VoiceFile>ch8_keter_ep4_blood_Voice_3</VoiceFile>
-          <Content>Quizás debería mostrarte tu pasado y recordártelo una vez más.</Content>
+          <Content>Belki de sana geçmişini göstermeli ve bir kez daha hatırlatmalıyım.</Content>
         </Dialog>
         <Dialog ID="7" Model="Voice_1_2">
           <Teller>???</Teller>
           <Title />
           <VoiceFile>ch8_keter_ep4_blood_Voice_4</VoiceFile>
-          <Content>Ahora mismo tienes problemas para enfrentarlo con claridad... Pero pronto tu mente se dará cuenta de tus deseos y los aceptará.</Content>
+          <Content>Şu anda onunla net bir şekilde yüzleşmekte zorlanıyorsun... Ama yakında zihnin arzularını fark edecek ve onları kabul edecek.</Content>
         </Dialog>
         <Dialog ID="8" Model="Voice_1_2">
           <Teller>???</Teller>
           <Title />
           <VoiceFile>ch8_keter_ep4_blood_Voice_5</VoiceFile>
-          <Content>Te lo mostraré... una forma que debería ser familiar contigo.</Content>
+          <Content>Sana göstereceğim... sana tanıdık gelmesi gereken bir yolu.</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title />
           <VoiceFile>ch8_keter_ep4_blood_Angela_5</VoiceFile>
-          <Content>... No vas a cambiar mi forma de pensar.</Content>
+          <Content>... Fikrimi değiştiremeyeceksin.</Content>
         </Dialog>
         <Dialog ID="10" Model="Voice_1_2">
           <Teller>???</Teller>
@@ -1017,74 +1017,74 @@
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Heart of Aspiration</EpisodeName>
+      <EpisodeName>Arzunun Kalbi</EpisodeName>
       <Place>
-        <PlaceName>Localización: Lugar Desconocido</PlaceName>
+        <PlaceName>Konum: Bilinmeyen Yer</PlaceName>
         <Dialog ID="0" Model="???">
-          <Teller>Monólogo</Teller>
+          <Teller>Monolog</Teller>
           <Title />
           <VoiceFile>ch8_keter_ep4_solo_Voice_1</VoiceFile>
-          <Content>Quería vivir.</Content>
+          <Content>Yaşamak istedim.</Content>
         </Dialog>
         <Dialog ID="1" Model="???">
-          <Teller>Monólogo</Teller>
+          <Teller>Monolog</Teller>
           <Title />
           <VoiceFile>ch8_keter_ep4_solo_Voice_2</VoiceFile>
-          <Content>El deseo de vivir era más fuerte que nada... Fue entonces cuando el arrepentimiento finalmente hizo que todo mi cuerpo sintiera escalofríos.</Content>
+          <Content>Yaşama arzusu her şeyden daha güçlüydü... Pişmanlık sonunda tüm vücudumu ürperttiğinde işte o zamandı.</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Pinocchio</EpisodeName>
+      <EpisodeName>Pinokyo</EpisodeName>
       <Place>
-        <PlaceName>Localización: Lugar Desconocido</PlaceName>
+        <PlaceName>Konum: Bilinmeyen Yer</PlaceName>
         <Dialog ID="0" Model="???">
-          <Teller>Monólogo</Teller>
+          <Teller>Monolog</Teller>
           <Title />
           <VoiceFile>ch8_keter_ep4_solo_Voice_3</VoiceFile>
-          <Content>Angela. Solo soy un ser humano como cualquier otro.</Content>
+          <Content>Angela. Ben de herkes gibi sadece bir insanım.</Content>
         </Dialog>
         <Dialog ID="1" Model="???">
-          <Teller>Monólogo</Teller>
+          <Teller>Monolog</Teller>
           <Title />
           <VoiceFile>ch8_keter_ep4_solo_Voice_4</VoiceFile>
-          <Content>Pensé que sacrificarme por el bien de todos hubiera sido el final perfecto... pero ese no fue el caso.</Content>
+          <Content>Herkesin iyiliği için kendimi feda etmenin mükemmel bir son olacağını düşündüm... ama durum böyle değildi.</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>The Snow Queen</EpisodeName>
+      <EpisodeName>Kar Kraliçesi</EpisodeName>
       <Place>
-        <PlaceName>Localización: Lugar Desconocido</PlaceName>
+        <PlaceName>Konum: Bilinmeyen Yer</PlaceName>
         <Dialog ID="0" Model="???">
-          <Teller>Monólogo</Teller>
+          <Teller>Monolog</Teller>
           <Title />
           <VoiceFile>ch8_keter_ep4_solo_Voice_5</VoiceFile>
-          <Content>Dudo que exista alguien en este mundo que pueda decidir sacrificarse sinceramente por el bien de otros.</Content>
+          <Content>Bu dünyada başkalarının iyiliği için içtenlikle kendini feda etmeye karar verebilecek biri olduğundan şüpheliyim.</Content>
         </Dialog>
         <Dialog ID="1" Model="???">
-          <Teller>Monólogo</Teller>
+          <Teller>Monolog</Teller>
           <Title />
           <VoiceFile>ch8_keter_ep4_solo_Voice_6</VoiceFile>
-          <Content>Después de todo, los humanos solo pueden amarse a ellos mismos.</Content>
+          <Content>Ne de olsa, insanlar sadece kendilerini sevebilirler.</Content>
         </Dialog>
       </Place>
     </Episode>
     <Episode>
-      <EpisodeName>Silent Girl</EpisodeName>
+      <EpisodeName>Sessiz Kız</EpisodeName>
       <Place>
-        <PlaceName>Localización: Lugar Desconocido</PlaceName>
+        <PlaceName>Konum: Bilinmeyen Yer</PlaceName>
         <Dialog ID="0" Model="???">
-          <Teller>Monólogo</Teller>
+          <Teller>Monolog</Teller>
           <Title />
           <VoiceFile>ch8_keter_ep4_solo_Voice_7</VoiceFile>
-          <Content>Susurré en la gente la esencia de la vida. Para que puedan apreciar sus propias emociones y centrarse solo en ellas.</Content>
+          <Content>İnsanlara hayatın özünü fısıldadım. Böylece kendi duygularına değer verebilir ve sadece onlara odaklanabilirler.</Content>
         </Dialog>
         <Dialog ID="1" Model="">
-          <Teller>Monólogo</Teller>
+          <Teller>Monolog</Teller>
           <Title />
           <VoiceFile>ch8_keter_ep4_solo_Voice_8</VoiceFile>
-          <Content>Para que esa fluctuante forma de la mente pueda ser expuesta al mundo.</Content>
+          <Content>Böylece zihnin o dalgalanan şekli dünyaya açılabilir.</Content>
         </Dialog>
       </Place>
     </Episode>
