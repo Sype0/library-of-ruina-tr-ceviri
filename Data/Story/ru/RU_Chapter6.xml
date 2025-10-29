@@ -5549,1034 +5549,1034 @@
       </Place>
     </Episode>
   </Group>
-  <Group>
-    <GroupName>Liu Association Section 1</GroupName>
-    <Episode>
-      <EpisodeName>Episode 1</EpisodeName>
-      <Place>
-        <PlaceName>Localización: Nido de L Corp, Campo de Operaciones de la Sección 1 de Liu</PlaceName>
-        <Dialog ID="0" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_1</VoiceFile>
-          <Content>Hombre, estoy agotado...</Content>
-        </Dialog>
-        <Dialog ID="1" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_1-02</VoiceFile>
-          <Content>... Qué demonios planea la Reverberación Azul.</Content>
-        </Dialog>
-        <Dialog ID="2" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_2-03</VoiceFile>
-          <Content>¿De eso es lo que te preocupas? Cómo vamos a explicar esto a la Asociación en nuestro reporte...</Content>
-        </Dialog>
-        <Dialog ID="3" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_2-04</VoiceFile>
-          <Content>No tenemos mucha elección. Solo tenemos que describir lo que vimos. No hay nada que podamos hacer al respecto.</Content>
-        </Dialog>
-        <Dialog ID="4" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_3-02</VoiceFile>
-          <Content>Hablando de eso, no creo haber escuchado de la Sección 2 desde que fueron en una expedición a la Biblioteca. ¿Les sucedió algo?</Content>
-        </Dialog>
-        <Dialog ID="5" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_3</VoiceFile>
-          <Content>Probablemente están demasiado ocupados con el trabajo. La directora Xiao debe estar bastante preocupada.</Content>
-        </Dialog>
-        <Dialog ID="6" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_4-03</VoiceFile>
-          <Content>Bueno, tenemos nuestros propios problemas sobre los que preocuparnos. Tenemos que terminar con algunas cosas, así que vayamos dentro, ¿vale?</Content>
-        </Dialog>
-        <Dialog ID="7" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_4-03</VoiceFile>
-          <Content>Disculpa la interrupción tan tarde en la noche, directora. Tenemos un número de problemas que debemos solucionar al respecto de los casos que nos hemos ocupado recientemente...</Content>
-        </Dialog>
-        <Dialog ID="8" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_5-01</VoiceFile>
-          <Content>... ¿Directora?</Content>
-        </Dialog>
-        <Dialog ID="9" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_1</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="10" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_2</VoiceFile>
-          <Content>... Ah, lo siento. Estaba distraída con mis pensamientos por un momento. No te preocupes.</Content>
-        </Dialog>
-        <Dialog ID="11" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_3</VoiceFile>
-          <Content>Dijiste que tenías que hacer un reporte. ¿De qué se trata?</Content>
-        </Dialog>
-        <Dialog ID="12" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_5-06</VoiceFile>
-          <Content>Varios expertos van a extraer muestras de las Distorsiones que hemos capturado después de fallar en asegurar a los Niños Llorando y enviarlas a V Corp.</Content>
-        </Dialog>
-        <Dialog ID="13" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_6-01</VoiceFile>
-          <Content>Se estima que el proceso tome un día entero. ¿Seremos puestos en espera durante ese tiempo?</Content>
-        </Dialog>
-        <Dialog ID="14" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_6-05</VoiceFile>
-          <Content>¿Has recibido alguna noticia del presidente o de la junta ejecutiva?</Content>
-        </Dialog>
-        <Dialog ID="15" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_4</VoiceFile>
-          <Content>Sí. Nos dijeron que la Sección 1 debe mantenerse fuera de este asunto.</Content>
-        </Dialog>
-        <Dialog ID="16" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_5-01</VoiceFile>
-          <Content>La Asociación Hana se ocupará de los asuntos concernientes a la Biblioteca y la Distorsión después de monitorizar la situación un poco más.</Content>
-        </Dialog>
-        <Dialog ID="17" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_7-01</VoiceFile>
-          <Content>Ya veo, sintieron que necesitaban tomarse su tiempo para hacer un análisis exhaustivo de la Biblioteca ahora que es una Estrella de la Ciudad...</Content>
-        </Dialog>
-        <Dialog ID="18" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_7-04</VoiceFile>
-          <Content>¿Entonces vamos a salir de este Nido?</Content>
-        </Dialog>
-        <Dialog ID="19" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_6-01</VoiceFile>
-          <Content>Sí. Vamos a volver tan pronto como la extracción termine, así que empaquen sus pertenencias de antemano.</Content>
-        </Dialog>
-        <Dialog ID="20" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_7</VoiceFile>
-          <Content>Descansen hasta entonces y vuelvan a su condición óptima. Tienen que estar preparados para cualquier tarea.</Content>
-        </Dialog>
-        <Dialog ID="21" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_8-01</VoiceFile>
-          <Content>Entendido, ma’am.</Content>
-        </Dialog>
-        <Dialog ID="22" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_8-03</VoiceFile>
-          <Content>Nos iremos ahora, así que descansa bien, dir—</Content>
-        </Dialog>
-        <Dialog ID="23" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_8</VoiceFile>
-          <Content>Esperen.</Content>
-        </Dialog>
-        <Dialog ID="24" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_9</VoiceFile>
-          <Content>Escuchen cuidadosamente lo que voy a decir.</Content>
-        </Dialog>
-        <Dialog ID="25" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_10</VoiceFile>
-          <Content>El próximo objetivo de la Sección seguramente será las Afueras, donde la lucha entre el Anular y el Meñique sigue siendo feroz.</Content>
-        </Dialog>
-        <Dialog ID="26" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_11</VoiceFile>
-          <Content>Deberíamos tener especial cuidado con el Meñique, así que ténganlo en mente para cuando seamos enviados a esa área.</Content>
-        </Dialog>
-        <Dialog ID="27" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_9</VoiceFile>
-          <Content>Entendido.</Content>
-        </Dialog>
-        <Dialog ID="28" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_12</VoiceFile>
-          <Content>Miris, el exceso de confianza es tu mayor defecto. Ten en cuenta eso y no tendrás demasiadas dificultades en el futuro.</Content>
-        </Dialog>
-        <Dialog ID="29" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_13</VoiceFile>
-          <Content>Chun, quédate en el camino y continúa. Tienes las cualidades para que te asignen un color algún día.</Content>
-        </Dialog>
-        <Dialog ID="30" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_10</VoiceFile>
-          <Content>Por qué nos cuentas todo esto de repente, directora...</Content>
-        </Dialog>
-        <Dialog ID="31" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_14</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="32" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_9-01</VoiceFile>
-          <Content>... No me digas, ¿tenemos otras noticias de nuestros superiores?</Content>
-        </Dialog>
-        <Dialog ID="33" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_15</VoiceFile>
-          <Content>No. Les mencioné todas las noticias que he recibido.</Content>
-        </Dialog>
-        <Dialog ID="34" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_16</VoiceFile>
-          <Content>En cambio, recibí esta pieza de papel llamada la “Invitación” de la Biblioteca. Estaba en el medio de mi escritorio, así que no pude evitar verla.</Content>
-        </Dialog>
-        <Dialog ID="35" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_11-03</VoiceFile>
-          <Content>Eso significa, que hace poco, tú...</Content>
-        </Dialog>
-        <Dialog ID="36" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_17-01</VoiceFile>
-          <Content>Es correcto... a efecto inmediato, he renunciado a mi posición como directora de la Sección 1 de los Liu.</Content>
-        </Dialog>
-        <Dialog ID="37" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_10-01</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="38" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_18</VoiceFile>
-          <Content>Tomaré toda la responsabilidad y sanciones por la renuncia unilateral y el incumplimiento del contrato por mí misma. Así que no deben preocuparse por sus carreras.</Content>
-        </Dialog>
-        <Dialog ID="39" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_11</VoiceFile>
-          <Content>¿Qué... acabas de decir?</Content>
-        </Dialog>
-        <Dialog ID="40" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_19-01</VoiceFile>
-          <Content>Estoy diciendo que mis acciones no afectarán sus carreras.</Content>
-        </Dialog>
-        <Dialog ID="41" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_12-01</VoiceFile>
-          <Content>¡Sabes que no preguntaba eso!</Content>
-        </Dialog>
-        <Dialog ID="42" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_20</VoiceFile>
-          <Content>Dentro del sobre detrás de mí hay documentos que contienen toda la información que pude reunir sobre el proceso de transferir mi posición a alguien más.</Content>
-        </Dialog>
-        <Dialog ID="43" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_21</VoiceFile>
-          <Content>Puede que no sea suficiente... pero por favor, entiendan que no tenemos tiempo de volver a la Sede de la Asociación en este momento.</Content>
-        </Dialog>
-        <Dialog ID="44" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_22</VoiceFile>
-          <Content>Me disculpo por abandonar mi posición tan repentinamente.</Content>
-        </Dialog>
-        <Dialog ID="45" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_12-04</VoiceFile>
-          <Content>Vas a ir a la Biblioteca, no es así.</Content>
-        </Dialog>
-        <Dialog ID="46" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_23</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="47" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_13-01</VoiceFile>
-          <Content>Tú no eres así, directora Xiao. Sabes que no deberías hacer una decisión tan apresurada sobre esto...</Content>
-        </Dialog>
-        <Dialog ID="48" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_14-03</VoiceFile>
-          <Content>Sugiero que volvamos a la Asociación y consigamos más información. Tiene que haber algo que sea útil.</Content>
-        </Dialog>
-        <Dialog ID="49" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_24-01</VoiceFile>
-          <Content>Tienes razón. No soy así, realmente no lo soy...</Content>
-        </Dialog>
-        <Dialog ID="50" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_25-01</VoiceFile>
-          <Content>No es propio de mi estar llorando y aun así... lloré por primera vez en mi vida. No sabía que tendría ninguna relación con tales sentimientos.</Content>
-        </Dialog>
-        <Dialog ID="51" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_26-01</VoiceFile>
-          <Content>Me acordé de la petición sincera de Lowell. Me pidió que no desperdiciemos nuestras vidas, sin importar qué le suceda al otro.</Content>
-        </Dialog>
-        <Dialog ID="52" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_27-01</VoiceFile>
-          <Content>Pensé que decía algo obvio... pensé que podría mantener la calma.</Content>
-        </Dialog>
-        <Dialog ID="53" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_28-01</VoiceFile>
-          <Content>Pero cuando me enfrenté a la perdida en la realidad, no pude superarlo. Me avergüenzo de mí misma y de este comportamiento penoso.</Content>
-        </Dialog>
-        <Dialog ID="54" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_29</VoiceFile>
-          <Content>Rabia... angustia, desesperación, tristeza.</Content>
-        </Dialog>
-        <Dialog ID="55" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_30</VoiceFile>
-          <Content>Cómo debo llamar a esta emoción que siento... no estoy segura.</Content>
-        </Dialog>
-        <Dialog ID="56" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_31</VoiceFile>
-          <Content>Solo hay una cosa que sé.</Content>
-        </Dialog>
-        <Dialog ID="57" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_32-01</VoiceFile>
-          <Content>He visto incontables mentiras y falsedades mientras subía rangos.</Content>
-        </Dialog>
-        <Dialog ID="58" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_33</VoiceFile>
-          <Content>Creía que todo en la Ciudad era un engaño empaquetado como verdad. Después de todo, mi vida estaba llena de tales mentiras.</Content>
-        </Dialog>
-        <Dialog ID="59" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_34</VoiceFile>
-          <Content>Sin embargo, el sentimiento hacia Lowell en mi corazón, era verdadero.</Content>
-        </Dialog>
-        <Dialog ID="60" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_15</VoiceFile>
-          <Content>Sé lo que quieres decir, directora.</Content>
-        </Dialog>
-        <Dialog ID="61" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_16</VoiceFile>
-          <Content>Aun así, renunciar a tu posición de esta forma será desfavorable de muchas maneras.</Content>
-        </Dialog>
-        <Dialog ID="62" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_17-01</VoiceFile>
-          <Content>Si rompes la confianza con una Asociación, serás excluida de este negocio de una forma u otra, incluso si abres tu propia Oficina más tarde. Y eso no es todo. Después...</Content>
-        </Dialog>
-        <Dialog ID="63" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_35-02</VoiceFile>
-          <Content>¡Incluso entonces!</Content>
-        </Dialog>
-        <Dialog ID="64" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_36</VoiceFile>
-          <Content>¿Ha habido alguna vez donde estuve tan enferma de preocupación?</Content>
-        </Dialog>
-        <Dialog ID="65" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_37_b</VoiceFile>
-          <Content>¿Ha habido alguna vez donde me doliera el corazón por separarme?</Content>
-        </Dialog>
-        <Dialog ID="66" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_38</VoiceFile>
-          <Content>¿Ha habido alguna vez donde lamenté, añorando por alguien querido...?</Content>
-        </Dialog>
-        <Dialog ID="67" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_39-01</VoiceFile>
-          <Content>Lowell me ayudó a darme cuenta de que mi corazón sigue siendo sincero.</Content>
-        </Dialog>
-        <Dialog ID="68" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_40</VoiceFile>
-          <Content>Por ello, entregaré gustosamente mi cuerpo a las llamas de la pasión por él, para probar que hay un significado en mi vida.</Content>
-        </Dialog>
-        <Dialog ID="69" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_18-04</VoiceFile>
-          <Content>Cómo puedes decir eso tan orgullosamente, ma’am. El director Lowell lo hizo y ahora tú también...</Content>
-        </Dialog>
-        <Dialog ID="70" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_13-01</VoiceFile>
-          <Content>De acuerdo, Xiao... déjame preguntarlo directamente esta vez.</Content>
-        </Dialog>
-        <Dialog ID="71" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_14</VoiceFile>
-          <Content>Digamos que logras conseguir el libro de Lowell. ¿Entonces qué? ¿Haces esto con algún otro plan en mente?</Content>
-        </Dialog>
-        <Dialog ID="72" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_41</VoiceFile>
-          <Content>... No. No tengo ninguno. Simplemente estoy intentando cumplir la voluntad de mi corazón.</Content>
-        </Dialog>
-        <Dialog ID="73" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_15</VoiceFile>
-          <Content>Sabes muy bien cómo te verán los otros si una Fixer tan grande como tú actúa con base en sus emociones en situaciones como estas.</Content>
-        </Dialog>
-        <Dialog ID="74" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_16</VoiceFile>
-          <Content>No habrá un lugar al que puedas volver. ¿Es eso lo que quieres?</Content>
-        </Dialog>
-        <Dialog ID="75" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_42-01</VoiceFile>
-          <Content>Incluso si algún día las estrellas se elevan en mi cielo, qué tan bueno sería sin una compañía para observarlas juntos...</Content>
-        </Dialog>
-        <Dialog ID="76" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_43</VoiceFile>
-          <Content>Estoy decidida. No me convencerás de lo contrario.</Content>
-        </Dialog>
-        <Dialog ID="77" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_19</VoiceFile>
-          <Content>¿Sabes que te vamos a seguir?</Content>
-        </Dialog>
-        <Dialog ID="78" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_44-01</VoiceFile>
-          <Content>... Lo esperaba un poco.</Content>
-        </Dialog>
-        <Dialog ID="79" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_20-03</VoiceFile>
-          <Content>Y no intentas detenernos...</Content>
-        </Dialog>
-        <Dialog ID="80" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_45-01</VoiceFile>
-          <Content>Si me ayudan... tendré más oportunidades de conseguir su libro.</Content>
-        </Dialog>
-        <Dialog ID="81" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_21-02</VoiceFile>
-          <Content>Eres tan egoísta, ma’am.</Content>
-        </Dialog>
-        <Dialog ID="82" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_22-04</VoiceFile>
-          <Content>Qué más podemos hacer si comienzas a actuar de una forma que nunca has hecho antes.</Content>
-        </Dialog>
-        <Dialog ID="83" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_46-01</VoiceFile>
-          <Content>No los forzaré. Son libres de quedarse.</Content>
-        </Dialog>
-        <Dialog ID="84" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_47-01</VoiceFile>
-          <Content>Sin embargo, si aun así eligen seguirme... tendrán mi eterna gratitud.</Content>
-        </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
-        <Dialog ID="85" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Roland_1</VoiceFile>
-          <Content>... ¿Qué demonios acabo de ver?</Content>
-        </Dialog>
-        <Dialog ID="86" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_1</VoiceFile>
-          <Content>Quizás no estabas completamente en lo correcto sobre los Fixers, viendo que incluso la directora de la Sección 1 de una Asociación puede hacer un juicio basado en sus emociones.</Content>
-        </Dialog>
-        <Dialog ID="87" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Roland_2</VoiceFile>
-          <Content>También estoy sorprendido. Quién hubiera pensado que Xiao de todas las personas estaría cegada por el amor...</Content>
-        </Dialog>
-        <Dialog ID="88" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Roland_3</VoiceFile>
-          <Content>Parece que la luz que brilló durando las Noches Blancas y Días Oscuros tuvo más influencia que solo crear la Distorsión o el E.G.O, ¿eh?...</Content>
-        </Dialog>
-        <Dialog ID="89" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Roland_4</VoiceFile>
-          <Content>Bueno, la impresión que tengo de todos los invitados que he visto aquí es esa... las personas se han vuelto mucho más honestas de lo usual.</Content>
-        </Dialog>
-        <Dialog ID="90" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_2</VoiceFile>
-          <Content>Y lo que hemos visto lo refuerza.</Content>
-        </Dialog>
-        <Dialog ID="91" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_3</VoiceFile>
-          <Content>Puedo entenderlo hasta cierto punto. Si algo fuera a pasarte, yo también...</Content>
-        </Dialog>
-        <Dialog ID="92" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Roland_5</VoiceFile>
-          <Content>... Whoa, ¿qué? No me digas, me estás diciendo... que tú estás...</Content>
-        </Dialog>
-        <Dialog ID="93" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Roland_6</VoiceFile>
-          <Content>E-espera un segundo, mi mente aún no está lista para...</Content>
-        </Dialog>
-        <Dialog ID="94" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_4</VoiceFile>
-          <Content>Uf... Roland, por favor, guarda tu aliento y para con tus tonterías.</Content>
-        </Dialog>
-        <Dialog ID="95" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_5</VoiceFile>
-          <Content>Sé muy bien cuáles son mis sentimientos hacia ti y no es amor.</Content>
-        </Dialog>
-        <Dialog ID="96" Model="롤랑">
-          <Teller>Roland</Teller>
-          <Title>Sirviente</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Roland_7</VoiceFile>
-          <Content>Vale, vale, ya entiendo lo que quieres decir. Dices que será difícil encontrar a otra persona como yo con la que hablar, ¿verdad?</Content>
-        </Dialog>
-        <Dialog ID="97" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_6</VoiceFile>
-          <Content>Correcto. Sería extremadamente agotador encontrar y construir una relación con otro compañero a tu nivel desde cero.</Content>
-        </Dialog>
-      </Place>
-      <Place>
-        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
-        <Dialog ID="98" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_17</VoiceFile>
-          <Content>Así que al final hemos venido a la Biblioteca.</Content>
-        </Dialog>
-        <Dialog ID="99" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_23-04</VoiceFile>
-          <Content>Ya puedo imaginar a nuestro líder de rama maldiciéndonos por toda la eternidad.</Content>
-        </Dialog>
-        <Dialog ID="100" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_48-01</VoiceFile>
-          <Content>Realmente lo lamento por ustedes.</Content>
-        </Dialog>
-        <Dialog ID="101" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_18-01</VoiceFile>
-          <Content>Lo hecho, hecho está. La elección fue nuestra.</Content>
-        </Dialog>
-        <Dialog ID="102" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_19</VoiceFile>
-          <Content>Vamos a centrarnos en ocuparnos de esto ahora que hemos entrado a este lugar.</Content>
-        </Dialog>
-        <Dialog ID="103" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_24-01</VoiceFile>
-          <Content>Y nuestra desviación podría ser perdonada si conseguimos buenos resultados en la Biblioteca.</Content>
-        </Dialog>
-        <Dialog ID="104" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_49</VoiceFile>
-          <Content>Estoy bien con que este lugar sea mi tumba.</Content>
-        </Dialog>
-        <Dialog ID="105" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_50</VoiceFile>
-          <Content>Para ustedes, en cambio, deberían valorar su propia vida más que cualquiera cosa.</Content>
-        </Dialog>
-        <Dialog ID="106" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_51</VoiceFile>
-          <Content>Sí, sé que es algo humillante que yo diga esto cuando me han seguido hasta aquí.</Content>
-        </Dialog>
-        <Dialog ID="107" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_25-04</VoiceFile>
-          <Content>Eres horriblemente descarada, ma’am. Vamos solo a descartar la posibilidad de que alguno de nosotros muera aquí.</Content>
-        </Dialog>
-        <Dialog ID="108" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_20</VoiceFile>
-          <Content>Si nos expulsan de los Liu, más te vale darnos unos nuevos trabajos para ganarnos el pan.</Content>
-        </Dialog>
-        <Dialog ID="109" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_52</VoiceFile>
-          <Content>Tienen mi palabra.</Content>
-        </Dialog>
-        <Dialog ID="110" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_7</VoiceFile>
-          <Content>Bienvenidos, queridos invitados.</Content>
-        </Dialog>
-        <Dialog ID="111" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_8</VoiceFile>
-          <Content>Soy Angela, la directora y bibliotecaria de esta Biblioteca.</Content>
-        </Dialog>
-        <Dialog ID="112" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_53</VoiceFile>
-          <Content>No estoy de humor de devolverte el saludo con hospitalidad, pero los modales son modales...</Content>
-        </Dialog>
-        <Dialog ID="113" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_54</VoiceFile>
-          <Content>Mi nombre es Xiao y al lado mío están Chun y Miris. Saluden.</Content>
-        </Dialog>
-        <Dialog ID="114" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_26-02</VoiceFile>
-          <Content>... Hola.</Content>
-        </Dialog>
-        <Dialog ID="115" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_9</VoiceFile>
-          <Content>... Sí, gracias.</Content>
-        </Dialog>
-        <Dialog ID="116" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_10</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="117" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_21</VoiceFile>
-          <Content>Por qué dudas, señora. ¿Sientes culpa por lo que has hecho después de todo este tiempo?</Content>
-        </Dialog>
-        <Dialog ID="118" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_11</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="119" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_12</VoiceFile>
-          <Content>Estoy segura de que conoces el destino que sufrieron aquí tus colegas vistiendo el mismo uniforme que el tuyo, ¿no es así?</Content>
-        </Dialog>
-        <Dialog ID="120" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_55</VoiceFile>
-          <Content>... Lo conozco.</Content>
-        </Dialog>
-        <Dialog ID="121" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_13</VoiceFile>
-          <Content>Y aun así hiciste esta elección. Tampoco fuiste ordenada ni coaccionada por nadie.</Content>
-        </Dialog>
-        <Dialog ID="122" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_22-02</VoiceFile>
-          <Content>... Será mejor que vigiles tu lengua, señora directora bibliotecaria.</Content>
-        </Dialog>
-        <Dialog ID="123" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_27-02</VoiceFile>
-          <Content>Hablas como si estuviéramos destinados a morir aquí.</Content>
-        </Dialog>
-        <Dialog ID="124" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_56</VoiceFile>
-          <Content>Suficiente, ustedes dos. ¿Cuál es tu punto, directora bibliotecaria?</Content>
-        </Dialog>
-        <Dialog ID="125" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_14</VoiceFile>
-          <Content>Solo tengo curiosidad sobre la psicología de los humanos... de la cual conozco poco.</Content>
-        </Dialog>
-        <Dialog ID="126" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_15</VoiceFile>
-          <Content>Y de la razón de que intentes recuperarlo a pesar del peligro inminente.</Content>
-        </Dialog>
-        <Dialog ID="127" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_16</VoiceFile>
-          <Content>Yo también he, no... lo he visto más veces de las que puedo contar, una historia de alguien buscando por substitutos.</Content>
-        </Dialog>
-        <Dialog ID="128" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_17</VoiceFile>
-          <Content>Desde mi experiencia, no puedo entender cómo puedes valorar más tu meta que tu propia vida.</Content>
-        </Dialog>
-        <Dialog ID="129" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_57</VoiceFile>
-          <Content>¿Estás tratando de decir que sería capaz de encontrar a un reemplazo suyo ahí fuera si lo intentara?</Content>
-        </Dialog>
-        <Dialog ID="130" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_18</VoiceFile>
-          <Content>Es correcto. De esa forma, no tendrías que desechar tu preciosa vida.</Content>
-        </Dialog>
-        <Dialog ID="131" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_58</VoiceFile>
-          <Content>Una máquina nunca lo entendería. El sentimiento de la sangre ardiente pasando por mis venas por algo que aprecio.</Content>
-        </Dialog>
-        <Dialog ID="132" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_59</VoiceFile>
-          <Content>El deseo de tenerlo de vuelta por cualquier medio, en cualquier forma.</Content>
-        </Dialog>
-        <Dialog ID="133" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_60</VoiceFile>
-          <Content>“Precioso” no es una palabra que puedas decir tan ligeramente como tú hiciste...</Content>
-        </Dialog>
-        <Dialog ID="134" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_61</VoiceFile>
-          <Content>Sueños, esperanzas, ideales; todas las palabras que describen qué motiva a la humanidad a levantarse y vivir...</Content>
-        </Dialog>
-        <Dialog ID="135" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_62</VoiceFile>
-          <Content>Esas palabras abarcan un significado demasiado grande para ser descrito... pero que es simple al mismo tiempo.</Content>
-        </Dialog>
-        <Dialog ID="136" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_19</VoiceFile>
-          <Content>Aún encuentro que es una razón insuficiente para arriesgar tu propia vida.</Content>
-        </Dialog>
-        <Dialog ID="137" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_63</VoiceFile>
-          <Content>No te negaré eso. Supongo que los otros superan la perdida de lo que es precioso para ellos de formas diferentes.</Content>
-        </Dialog>
-        <Dialog ID="138" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_20-01</VoiceFile>
-          <Content>Entonces, ¿por qué has entrado a este lugar con tanto orgullo? ¿Es una confianza sin fundamentos de que eres más fuerte que nosotros?</Content>
-        </Dialog>
-        <Dialog ID="139" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_21</VoiceFile>
-          <Content>¿O solo estás cegada por la rabia?</Content>
-        </Dialog>
-        <Dialog ID="140" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_64</VoiceFile>
-          <Content>Eso... también me gustaría saberlo.</Content>
-        </Dialog>
-        <Dialog ID="141" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_65</VoiceFile>
-          <Content>Sin embargo, sé que esta emoción que estoy aguantando no es ira ni tristeza.</Content>
-        </Dialog>
-        <Dialog ID="142" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_22</VoiceFile>
-          <Content>Uf...</Content>
-        </Dialog>
-        <Dialog ID="143" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_23</VoiceFile>
-          <Content>Puedes decir lo que quieras, pero eso no hace tu vida menos inútil. ¿Caminar a las garras de la muerte por un significado de la existencia?</Content>
-        </Dialog>
-        <Dialog ID="144" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_24</VoiceFile>
-          <Content>Seguro, puedes actuar con toda la confianza que quieras ahora; porque piensas que eres firme y resistente.</Content>
-        </Dialog>
-        <Dialog ID="145" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_25</VoiceFile>
-          <Content>Pero cuando una situación inesperada se presente ante ti... ¿Esa firmeza tuya será capaz de aguantar?</Content>
-        </Dialog>
-        <Dialog ID="146" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_26</VoiceFile>
-          <Content>No lo creo. Serás la primera en romperse.</Content>
-        </Dialog>
-        <Dialog ID="147" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_27</VoiceFile>
-          <Content>Al final, es tener una débil esperanza que se vuelve inútil al estar de frente con la muerte.</Content>
-        </Dialog>
-        <Dialog ID="148" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_28</VoiceFile>
-          <Content>¿Qué puede cambiar tu insignificante resolución?</Content>
-        </Dialog>
-        <Dialog ID="149" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_66-01</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="150" Model="춘">
-          <Teller>Chun</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_28</VoiceFile>
-          <Content>... ¿Esto es algún tipo de advertencia para dar la vuelta?</Content>
-        </Dialog>
-        <Dialog ID="151" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_29</VoiceFile>
-          <Content>No tengo ni el poder ni el derecho de detenerte.</Content>
-        </Dialog>
-        <Dialog ID="152" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_23</VoiceFile>
-          <Content>Realmente me estás enfadando...</Content>
-        </Dialog>
-        <Dialog ID="153" Model="미리스">
-          <Teller>Miris</Teller>
-          <Title>Fixer de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_24-01</VoiceFile>
-          <Content>Definitivamente nos está despreciando. Solo entremos ahora, directora.</Content>
-        </Dialog>
-        <Dialog ID="154" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_67</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="155" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_68-01</VoiceFile>
-          <Content>Sí. Tengo la esperanza de que voy a encontrar el libro de Lowell aquí.</Content>
-        </Dialog>
-        <Dialog ID="156" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_69-01</VoiceFile>
-          <Content>Incluso si pienso que soy firme, no puedo detener a los otros de pensar que soy lamentable. Eres libre de pensar que soy un ser humano patético.</Content>
-        </Dialog>
-        <Dialog ID="157" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_70</VoiceFile>
-          <Content>No puede importarme menos lo que los demás piensen de mí.</Content>
-        </Dialog>
-        <Dialog ID="158" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_71-01</VoiceFile>
-          <Content>¿Qué cambiará una resolución, preguntas?</Content>
-        </Dialog>
-        <Dialog ID="159" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_72</VoiceFile>
-          <Content>Por supuesto que no cambiará mucho. La esperanza no iluminará mágicamente el camino adelante. No siempre será brillante.</Content>
-        </Dialog>
-        <Dialog ID="160" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_73-01</VoiceFile>
-          <Content>Será similar a la desesperación en alguna forma... yo podría estar perdida en la oscuridad, sin saber qué hacer ni dónde ir.</Content>
-        </Dialog>
-        <Dialog ID="161" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_74</VoiceFile>
-          <Content>No me da un nuevo camino... ni me ilumina el camino... los dos son realmente iguales.</Content>
-        </Dialog>
-        <Dialog ID="162" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_75-01</VoiceFile>
-          <Content>Sin embargo, aún se siguen considerando dos conceptos separados con dos palabras separadas; porque tienen una diferencia.</Content>
-        </Dialog>
-        <Dialog ID="163" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_76</VoiceFile>
-          <Content>Pensando en lo correcto... al tener en mente lo que debo hacer en este instante y llevándolo a la acción, entonces lo imposible puede ser logrado.</Content>
-        </Dialog>
-        <Dialog ID="164" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_77-01</VoiceFile>
-          <Content>La esperanza nos permite tocar lo intocable... alcanzar lo inalcanzable... y ver lo invisible.</Content>
-        </Dialog>
-        <Dialog ID="165" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_78-01</VoiceFile>
-          <Content>No dejaré que tus palabras me rompan; no retrocederé... Pòfǔchénzhōu. Los calderos se rompieron y las barcas se hundieron; no hay retirada.</Content>
-        </Dialog>
-        <Dialog ID="166" Model="샤오">
-          <Teller>Xiao</Teller>
-          <Title>Directora de Liu S. Sección 1</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_79-05</VoiceFile>
-          <Content>¡Así que déjanos entrar si no nos tienes miedo!</Content>
-        </Dialog>
-        <Dialog ID="167" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_30</VoiceFile>
-          <Content>...</Content>
-        </Dialog>
-        <Dialog ID="168" Model="앤젤라">
-          <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca</Title>
-          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_31</VoiceFile>
-          <Content>Que encuentren su libro en este lugar.</Content>
-        </Dialog>
-      </Place>
-    </Episode>
+<Group>
+    <GroupName>Liu Birliği 1. Kısım</GroupName>
+    <Episode>
+      <EpisodeName>Bölüm 1</EpisodeName>
+      <Place>
+        <PlaceName>Konum: L Şirketi Yuvası, Liu Birliği 1. Kısım Operasyon Alanı</PlaceName>
+        <Dialog ID="0" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_1</VoiceFile>
+          <Content>Ah be, yoruldum...</Content>
+        </Dialog>
+        <Dialog ID="1" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_1-02</VoiceFile>
+          <Content>... Bu Mavi Yankı da neyin peşinde.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_2-03</VoiceFile>
+          <Content>Senin derdin bu mu? Bunu Birliğe raporumuzda nasıl açıklayacağız...</Content>
+        </Dialog>
+        <Dialog ID="3" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_2-04</VoiceFile>
+          <Content>Pek seçeneğimiz yok. Sadece gördüklerimizi anlatmak zorundayız. Yapabileceğimiz bir şey kalmadı.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_3-02</VoiceFile>
+          <Content>Hazır bahsetmişken, 2. Kısım'dan Kütüphane'ye keşif için gittiklerinden beri haber alamadım. Onlara bir şey mi oldu?</Content>
+        </Dialog>
+        <Dialog ID="5" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_3</VoiceFile>
+          <Content>Muhtemelen işle çok meşguller. Yönetici Xiao epey endişelenmiş olmalı.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_4-03</VoiceFile>
+          <Content>Neyse, bizim de endişelenmemiz gereken kendi sorunlarımız var. Bazı işleri halletmemiz gerek, o yüzden içeri girelim, olur mu?</Content>
+        </Dialog>
+        <Dialog ID="7" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_4-03</VoiceFile>
+          <Content>Bu saatte rahatsız ettiğimiz için üzgünüz, Yönetici. Son zamanlarda baktığımız vakalarla ilgili çözmemiz gereken bir dizi sorun var...</Content>
+        </Dialog>
+        <Dialog ID="8" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_5-01</VoiceFile>
+          <Content>... Yönetici?</Content>
+        </Dialog>
+        <Dialog ID="9" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_1</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="10" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_2</VoiceFile>
+          <Content>... Ah, üzgünüm. Bir an için dalmışım. Merak etmeyin.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_3</VoiceFile>
+          <Content>Rapor vermeniz gerektiğini söylediniz. Neyle ilgili?</Content>
+        </Dialog>
+        <Dialog ID="12" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_5-06</VoiceFile>
+          <Content>Ağlayan Çocuklar'ı ele geçirmekte başarısız olduktan sonra yakaladığımız Distorsiyonlardan örnekler alacak uzmanlar, bu örnekleri V Şirketi'ne gönderecekler.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_6-01</VoiceFile>
+          <Content>Bu sürecin tam bir gün sürmesi bekleniyor. Bu süre zarfında beklemede mi olacağız?</Content>
+        </Dialog>
+        <Dialog ID="14" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_6-05</VoiceFile>
+          <Content>Başkan'dan veya yönetim kurulundan herhangi bir haber aldınız mı?</Content>
+        </Dialog>
+        <Dialog ID="15" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_4</VoiceFile>
+          <Content>Evet. Bize 1. Kısım'ın bu işten uzak durması gerektiğini söylediler.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_5-01</VoiceFile>
+          <Content>Hana Birliği, durumu biraz daha izledikten sonra Kütüphane ve Distorsiyon ile ilgili meselelerle ilgilenecek.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_7-01</VoiceFile>
+          <Content>Anlıyorum, artık bir Şehir Yıldızı haline geldiği için Kütüphane hakkında kapsamlı bir analiz yapmak için zaman ayırmaları gerektiğini hissettiler...</Content>
+        </Dialog>
+        <Dialog ID="18" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_7-04</VoiceFile>
+          <Content>Yani bu Yuva'dan ayrılıyor muyuz?</Content>
+        </Dialog>
+        <Dialog ID="19" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_6-01</VoiceFile>
+          <Content>Evet. Çıkarma işlemi biter bitmez geri döneceğiz, bu yüzden eşyalarınızı şimdiden toplayın.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_7</VoiceFile>
+          <Content>O zamana kadar dinlenin ve en iyi durumunuza geri dönün. Her göreve hazırlıklı olmalısınız.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_8-01</VoiceFile>
+          <Content>Anlaşıldı, efendim.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_8-03</VoiceFile>
+          <Content>Şimdi gidiyoruz, bu yüzden iyi dinlenin, Yöne—</Content>
+        </Dialog>
+        <Dialog ID="23" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_8</VoiceFile>
+          <Content>Bekleyin.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_9</VoiceFile>
+          <Content>Söyleyeceklerimi dikkatlice dinleyin.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_10</VoiceFile>
+          <Content>Kısım'ın bir sonraki hedefi, Yüzük ve Serçe parmak arasındaki mücadelenin şiddetli olduğu Dış Mahalleler olacaktır.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_11</VoiceFile>
+          <Content>Serçe parmak konusunda özellikle dikkatli olmalıyız, bu yüzden o bölgeye gönderildiğimizde bunu aklınızda tutun.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_9</VoiceFile>
+          <Content>Anlaşıldı.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_12</VoiceFile>
+          <Content>Miris, aşırı güven senin en büyük kusurun. Bunu aklında tut ve gelecekte çok zorluk çekmezsin.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_13</VoiceFile>
+          <Content>Chun, yolunda kal ve devam et. Bir gün bir Renk atanacak niteliklere sahipsin.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_10</VoiceFile>
+          <Content>Neden bize aniden tüm bunları anlatıyorsunuz, Yönetici...</Content>
+        </Dialog>
+        <Dialog ID="31" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_14</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="32" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_9-01</VoiceFile>
+          <Content>... Bana üstlerimizden başka haberler aldığımızı söylemeyin.</Content>
+        </Dialog>
+        <Dialog ID="33" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_15</VoiceFile>
+          <Content>Hayır. Aldığım tüm haberleri size söyledim.</Content>
+        </Dialog>
+        <Dialog ID="34" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_16</VoiceFile>
+          <Content>Bunun yerine, Kütüphane'den "Davetiye" denen bu kağıt parçasını aldım. Masamın ortasındaydı, bu yüzden görmezden gelemedim.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_11-03</VoiceFile>
+          <Content>Bu da demek oluyor ki, siz az önce...</Content>
+        </Dialog>
+        <Dialog ID="36" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_17-01</VoiceFile>
+          <Content>Doğru... derhal Liu 1. Kısım yöneticiliği görevimden istifa ettim.</Content>
+        </Dialog>
+        <Dialog ID="37" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_10-01</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="38" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_18</VoiceFile>
+          <Content>Tek taraflı istifa ve sözleşme ihlali nedeniyle tüm sorumluluğu ve cezaları tek başıma üstleneceğim. Bu yüzden kariyerleriniz hakkında endişelenmenize gerek yok.</Content>
+        </Dialog>
+        <Dialog ID="39" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_11</VoiceFile>
+          <Content>Ne... dediniz siz?</Content>
+        </Dialog>
+        <Dialog ID="40" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_19-01</VoiceFile>
+          <Content>Diyorum ki, eylemlerim kariyerlerinizi etkilemeyecek.</Content>
+        </Dialog>
+        <Dialog ID="41" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_12-01</VoiceFile>
+          <Content>Bunu sormadığımı biliyorsunuz!</Content>
+        </Dialog>
+        <Dialog ID="42" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_20</VoiceFile>
+          <Content>Arkamdaki zarfın içinde, pozisyonumu başkasına devretme süreci hakkında toplayabildiğim tüm bilgileri içeren belgeler var.</Content>
+        </Dialog>
+        <Dialog ID="43" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_21</VoiceFile>
+          <Content>Yeterli olmayabilir... ama lütfen şu anda Birlik Merkezi'ne geri dönmeye vaktimiz olmadığını anlayın.</Content>
+        </Dialog>
+        <Dialog ID="44" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_22</VoiceFile>
+          <Content>Pozisyonumu bu kadar ani terk ettiğim için özür dilerim.</Content>
+        </Dialog>
+        <Dialog ID="45" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_12-04</VoiceFile>
+          <Content>Kütüphane'ye gideceksiniz, değil mi?</Content>
+        </Dialog>
+        <Dialog ID="46" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_23</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="47" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_13-01</VoiceFile>
+          <Content>Siz böyle biri değilsiniz, Yönetici Xiao. Bu konuda bu kadar aceleci bir karar vermemeniz gerektiğini biliyorsunuz...</Content>
+        </Dialog>
+        <Dialog ID="48" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_14-03</VoiceFile>
+          <Content>Birliğe geri dönüp daha fazla bilgi almayı öneriyorum. İşe yarayacak bir şeyler olmalı.</Content>
+        </Dialog>
+        <Dialog ID="49" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_24-01</VoiceFile>
+          <Content>Haklısınız. Böyle biri değilim, gerçekten değilim...</Content>
+        </Dialog>
+        <Dialog ID="50" Model="샤ओ">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_25-01</VoiceFile>
+          <Content>Ağlamak bana yakışmaz... ve yine de... hayatımda ilk kez ağladım. Böyle duygularla bir ilgim olacağını hiç bilmiyordum.</Content>
+        </Dialog>
+        <Dialog ID="51" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_26-01</VoiceFile>
+          <Content>Lowell'ın içten isteği aklıma geldi. Bana, birbirimize ne olursa olsun hayatlarımızı boşa harcamamamızı rica etti.</Content>
+        </Dialog>
+        <Dialog ID="52" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_27-01</VoiceFile>
+          <Content>Açık bir şey söylediğini sanmıştım... Sakin kalabileceğimi düşünmüştüm.</Content>
+        </Dialog>
+        <Dialog ID="53" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_28-01</VoiceFile>
+          <Content>Ama gerçek hayatta kayıpla yüzleştiğimde, üstesinden gelemedim. Kendimden ve bu acınası davranıştan utanıyorum.</Content>
+        </Dialog>
+        <Dialog ID="54" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_29</VoiceFile>
+          <Content>Öfke... ıstırap, çaresizlik, üzüntü.</Content>
+        </Dialog>
+        <Dialog ID="55" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_30</VoiceFile>
+          <Content>Hissettiğim bu duyguya ne demeliyim... emin değilim.</Content>
+        </Dialog>
+        <Dialog ID="56" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_31</VoiceFile>
+          <Content>Bildiğim tek bir şey var.</Content>
+        </Dialog>
+        <Dialog ID="57" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_32-01</VoiceFile>
+          <Content>Rütbelerimde yükselirken sayısız yalan ve sahtekarlık gördüm.</Content>
+        </Dialog>
+        <Dialog ID="58" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_33</VoiceFile>
+          <Content>Şehir'deki her şeyin gerçek kılığında paketlenmiş bir aldatmaca olduğuna inanıyordum. Sonuçta, hayatım bu tür yalanlarla doluydu.</Content>
+        </Dialog>
+        <Dialog ID="59" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_34</VoiceFile>
+          <Content>Ancak, kalbimdeki Lowell'a karşı olan his, gerçekti.</Content>
+        </Dialog>
+        <Dialog ID="60" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_15</VoiceFile>
+          <Content>Ne demek istediğinizi anlıyorum, Yönetici.</Content>
+        </Dialog>
+        <Dialog ID="61" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_16</VoiceFile>
+          <Content>Yine de, pozisyonunuzdan bu şekilde istifa etmek pek çok açıdan aleyhinize olacaktır.</Content>
+        </Dialog>
+        <Dialog ID="62" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_17-01</VoiceFile>
+          <Content>Bir Birliğin güvenini sarsarsanız, daha sonra kendi Büronuzu açsanız bile bu işten bir şekilde dışlanırsınız. Hepsi bu da değil. Daha sonra...</Content>
+        </Dialog>
+        <Dialog ID="63" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_35-02</VoiceFile>
+          <Content>Yine de!</Content>
+        </Dialog>
+        <Dialog ID="64" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_36</VoiceFile>
+          <Content>Daha önce hiç bu kadar endişeden hasta olduğum oldu mu?</Content>
+        </Dialog>
+        <Dialog ID="65" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_37_b</VoiceFile>
+          <Content>Daha önce hiç ayrılıktan dolayı kalbim acıdı mı?</Content>
+        </Dialog>
+        <Dialog ID="66" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_38</VoiceFile>
+          <Content>Daha önce hiç sevdiğim biri için yas tutup, özlem duydum mu...?</Content>
+        </Dialog>
+        <Dialog ID="67" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_39-01</VoiceFile>
+          <Content>Lowell, kalbimin hala içten olduğunu anlamamı sağladı.</Content>
+        </Dialog>
+        <Dialog ID="68" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_40</VoiceFile>
+          <Content>Bu yüzden, hayatımın bir anlamı olduğunu kanıtlamak için, isteyerek bedenimi onun uğruna tutkunun alevlerine teslim edeceğim.</Content>
+        </Dialog>
+        <Dialog ID="69" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_18-04</VoiceFile>
+          <Content>Bunu nasıl bu kadar gururla söyleyebiliyorsunuz, efendim. Yönetici Lowell yaptı ve şimdi siz de...</Content>
+        </Dialog>
+        <Dialog ID="70" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_13-01</VoiceFile>
+          <Content>Pekala, Xiao... bu sefer doğrudan sorayım.</Content>
+        </Dialog>
+        <Dialog ID="71" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_14</VoiceFile>
+          <Content>Diyelim ki Lowell'ın kitabını almayı başardınız. Sonra ne olacak? Aklınızda başka bir plan var mı?</Content>
+        </Dialog>
+        <Dialog ID="72" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_41</VoiceFile>
+          <Content>... Hayır. Hiçbir planım yok. Sadece kalbimin isteğini yerine getirmeye çalışıyorum.</Content>
+        </Dialog>
+        <Dialog ID="73" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_15</VoiceFile>
+          <Content>Böylesine büyük bir Tamirci'nin bu gibi durumlarda duygularına göre hareket etmesi durumunda diğerlerinin size nasıl bakacağını çok iyi biliyorsunuz.</Content>
+        </Dialog>
+        <Dialog ID="74" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_16</VoiceFile>
+          <Content>Geri dönebileceğiniz bir yer olmayacak. İstediğiniz bu mu?</Content>
+        </Dialog>
+        <Dialog ID="75" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_42-01</VoiceFile>
+          <Content>Gökyüzümde yıldızlar yükselse bile, onları birlikte izleyecek kimse olmadan neye yarar ki...</Content>
+        </Dialog>
+        <Dialog ID="76" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_43</VoiceFile>
+          <Content>Kararlıyım. Beni aksine ikna edemezsiniz.</Content>
+        </Dialog>
+        <Dialog ID="77" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_19</VoiceFile>
+          <Content>Sizi takip edeceğimizi biliyor musunuz?</Content>
+        </Dialog>
+        <Dialog ID="78" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_44-01</VoiceFile>
+          <Content>... Biraz bekliyordum.</Content>
+        </Dialog>
+        <Dialog ID="79" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_20-03</VoiceFile>
+          <Content>Ve bizi durdurmaya çalışmıyorsunuz...</Content>
+        </Dialog>
+        <Dialog ID="80" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_45-01</VoiceFile>
+          <Content>Bana yardım ederseniz... onun kitabını alma şansım daha yüksek olur.</Content>
+        </Dialog>
+        <Dialog ID="81" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_21-02</VoiceFile>
+          <Content>Ne kadar da bencilsiniz, efendim.</Content>
+        </Dialog>
+        <Dialog ID="82" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_22-04</VoiceFile>
+          <Content>Daha önce hiç yapmadığınız bir şekilde hareket etmeye başlarsanız elimizden ne gelir ki.</Content>
+        </Dialog>
+        <Dialog ID="83" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_46-01</VoiceFile>
+          <Content>Sizi zorlamayacağım. Kalmakta özgürsünüz.</Content>
+        </Dialog>
+        <Dialog ID="84" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_47-01</VoiceFile>
+          <Content>Ancak, beni takip etmeyi seçerseniz... sonsuz minnettarlığımı kazanırsınız.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Konum: Kütüphane İçinde</PlaceName>
+        <Dialog ID="85" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Roland_1</VoiceFile>
+          <Content>... Az önce ne gördüm ben?</Content>
+        </Dialog>
+        <Dialog ID="86" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_1</VoiceFile>
+          <Content>Belki de Tamirciler hakkında tamamen haklı değildin, bir Birliğin 1. Kısım Yöneticisi bile duygularına dayalı bir karar verebiliyormuş.</Content>
+        </Dialog>
+        <Dialog ID="87" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Roland_2</VoiceFile>
+          <Content>Ben de şaşkınım. Tüm insanlar arasında Xiao'nun aşk yüzünden kör olacağını kim bilebilirdi...</Content>
+        </Dialog>
+        <Dialog ID="88" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Roland_3</VoiceFile>
+          <Content>Beyaz Geceler ve Kara Günler sırasında parlayan ışığın, sadece Distorsiyon veya E.G.O yaratmaktan daha fazla etkisi olmuş gibi, ha?...</Content>
+        </Dialog>
+        <Dialog ID="89" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Roland_4</VoiceFile>
+          <Content>Şey, burada gördüğüm tüm konuklardan edindiğim izlenim bu... insanlar normalden çok daha dürüst hale geldi.</Content>
+        </Dialog>
+        <Dialog ID="90" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_2</VoiceFile>
+          <Content>Ve gördüklerimiz de bunu destekliyor.</Content>
+        </Dialog>
+        <Dialog ID="91" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_3</VoiceFile>
+          <Content>Bir dereceye kadar anlayabiliyorum. Eğer sana bir şey olsaydı, ben de...</Content>
+        </Dialog>
+        <Dialog ID="92" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Roland_5</VoiceFile>
+          <Content>... Vay, ne? Bana... bana... benim...</Content>
+        </Dialog>
+        <Dialog ID="93" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Roland_6</VoiceFile>
+          <Content>B-bir saniye bekle, zihnim henüz...</Content>
+        </Dialog>
+        <Dialog ID="94" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_4</VoiceFile>
+          <Content>Uf... Roland, lütfen nefesini tut ve saçmalamayı kes.</Content>
+        </Dialog>
+        <Dialog ID="95" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_5</VoiceFile>
+          <Content>Sana karşı olan duygularımın ne olduğunu çok iyi biliyorum ve bu aşk değil.</Content>
+        </Dialog>
+        <Dialog ID="96" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Hizmetkar</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Roland_7</VoiceFile>
+          <Content>Tamam, tamam, ne demek istediğini anlıyorum. Benim gibi konuşacak başka birini bulmanın zor olacağını mı söylüyorsun, değil mi?</Content>
+        </Dialog>
+        <Dialog ID="97" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_6</VoiceFile>
+          <Content>Doğru. Senin seviyende başka bir yoldaş bulmak ve onunla ilişki kurmak aşırı derecede yorucu olurdu.</Content>
+        </Dialog>
+      </Place>
+  	<Place>
+        <PlaceName>Konum: Kütüphane Girişi</PlaceName>
+        <Dialog ID="98" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_17</VoiceFile>
+          <Content>Sonunda Kütüphane'ye geldik.</Content>
+        </Dialog>
+        <Dialog ID="99" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_23-04</VoiceFile>
+          <Content>Şube liderimizin bize sonsuza dek lanet okuyacağını şimdiden hayal edebiliyorum.</Content>
+        </Dialog>
+        <Dialog ID="100" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_48-01</VoiceFile>
+          <Content>Sizin için gerçekten üzgünüm.</Content>
+        </Dialog>
+        <Dialog ID="101" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_18-01</VoiceFile>
+          <Content>Olan oldu. Bu bizim seçimimizdi.</Content>
+        </Dialog>
+        <Dialog ID="102" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_19</VoiceFile>
+          <Content>Bu yere girdiğimize göre şimdi işi halletmeye odaklanalım.</Content>
+        </Dialog>
+        <Dialog ID="103" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_24-01</VoiceFile>
+          <Content>Ve Kütüphane'de iyi sonuçlar alırsak sapmamız affedilebilir.</Content>
+        </Dialog>
+        <Dialog ID="104" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_49</VoiceFile>
+          <Content>Burası benim mezarım olsa sorun değil.</Content>
+        </Dialog>
+        <Dialog ID="105" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_50</VoiceFile>
+          <Content>Ama siz, kendi hayatınıza her şeyden daha fazla değer vermelisiniz.</Content>
+        </Dialog>
+        <Dialog ID="106" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_51</VoiceFile>
+          <Content>Evet, buraya kadar beni takip ettikten sonra bunu söylememin biraz utanç verici olduğunu biliyorum.</Content>
+        </Dialog>
+        <Dialog ID="107" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_25-04</VoiceFile>
+          <Content>Korkunç derecede yüzsüzsünüz, efendim. Burada hiçbirimizin ölmeyeceği olasılığını bir kenara bırakalım.</Content>
+        </Dialog>
+        <Dialog ID="108" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_20</VoiceFile>
+          <Content>Eğer Liu'dan kovulursak, bize ekmek paramızı kazanmak için yeni işler bulsanız iyi edersiniz.</Content>
+        </Dialog>
+        <Dialog ID="109" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_52</VoiceFile>
+          <Content>Söz veriyorum.</Content>
+        </Dialog>
+        <Dialog ID="110" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_7</VoiceFile>
+          <Content>Hoş geldiniz, değerli konuklar.</Content>
+        </Dialog>
+        <Dialog ID="111" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_8</VoiceFile>
+          <Content>Ben Angela, bu Kütüphane'nin yöneticisi ve kütüphanecisiyim.</Content>
+        </Dialog>
+        <Dialog ID="112" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_53</VoiceFile>
+          <Content>Size misafirperverlikle karşılık verecek havamda değilim, ama görgü kuralları görgü kurallarıdır...</Content>
+        </Dialog>
+        <Dialog ID="113" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_54</VoiceFile>
+          <Content>Adım Xiao ve yanımda Chun ve Miris var. Selam verin.</Content>
+        </Dialog>
+        <Dialog ID="114" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_26-02</VoiceFile>
+          <Content>... Merhaba.</Content>
+        </Dialog>
+        <Dialog ID="115" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_9</VoiceFile>
+          <Content>... Evet, teşekkürler.</Content>
+        </Dialog>
+        <Dialog ID="116" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_10</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="117" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_21</VoiceFile>
+          <Content>Neden tereddüt ediyorsunuz, bayan. Tüm bu zamandan sonra yaptıklarınız için suçluluk mu hissediyorsunuz?</Content>
+        </Dialog>
+        <Dialog ID="118" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_11</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="119" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_12</VoiceFile>
+          <Content>Aynı üniformayı giyen meslektaşlarınızın burada yaşadığı kaderi biliyorsunuzdur, değil mi?</Content>
+        </Dialog>
+        <Dialog ID="120" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_55</VoiceFile>
+          <Content>... Biliyorum.</Content>
+        </Dialog>
+        <Dialog ID="121" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_13</VoiceFile>
+          <Content>Ve yine de bu seçimi yaptınız. Kimse tarafından ne emir aldınız ne de zorlandınız.</Content>
+        </Dialog>
+        <Dialog ID="122" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_22-02</VoiceFile>
+          <Content>... Dilinize dikkat etseniz iyi olur, Bayan Kütüphane Yöneticisi.</Content>
+        </Dialog>
+        <Dialog ID="123" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_27-02</VoiceFile>
+          <Content>Burada öleceğimizden eminmiş gibi konuşuyorsunuz.</Content>
+        </Dialog>
+        <Dialog ID="124" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_56</VoiceFile>
+          <Content>Yeter, ikiniz de. Ne demeye çalışıyorsunuz, Kütüphane Yöneticisi?</Content>
+        </Dialog>
+        <Dialog ID="125" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_14</VoiceFile>
+          <Content>Sadece insan psikolojisini merak ediyorum... ki bu konuda çok az bilgim var.</Content>
+        </Dialog>
+        <Dialog ID="126" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_15</VoiceFile>
+          <Content>Ve yaklaşan tehlikeye rağmen onu geri alma nedeninizi merak ediyorum.</Content>
+        </Dialog>
+        <Dialog ID="127" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_16</VoiceFile>
+          <Content>Ben de, hayır... ikame arayan birinin hikayesini sayısız kez gördüm.</Content>
+        </Dialog>
+        <Dialog ID="128" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_17</VoiceFile>
+          <Content>Deneyimlerime göre, amacınıza kendi hayatınızdan daha fazla nasıl değer verebileceğinizi anlayamıyorum.</Content>
+        </Dialog>
+        <Dialog ID="129" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_57</VoiceFile>
+          <Content>Dışarıda denesem, onun yerine geçecek birini bulabileceğimi mi söylemeye çalışıyorsun?</Content>
+        </Dialog>
+        <Dialog ID="130" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_18</VoiceFile>
+          <Content>Doğru. Bu şekilde, değerli hayatınızı bir kenara atmanıza gerek kalmaz.</Content>
+        </Dialog>
+        <Dialog ID="131" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_58</VoiceFile>
+          <Content>Bir makine bunu asla anlayamaz. Değer verdiğim bir şey için damarlarımdan geçen o yanan kan hissini.</Content>
+        </Dialog>
+        <Dialog ID="132" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_59</VoiceFile>
+          <Content>Ne pahasına olursa olsun, ne şekilde olursa olsun onu geri alma arzusunu.</Content>
+        </Dialog>
+        <Dialog ID="133" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_60</VoiceFile>
+          <Content>"Değerli" sizin bu kadar hafife alarak söyleyebileceğiniz bir kelime değil...</Content>
+        </Dialog>
+        <Dialog ID="134" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_61</VoiceFile>
+          <Content>Hayaller, umutlar, idealler; insanlığı ayağa kalkmaya ve yaşamaya motive eden tüm kelimeler...</Content>
+        </Dialog>
+        <Dialog ID="135" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_62</VoiceFile>
+          <Content>Bu kelimeler, anlatılamayacak kadar büyük ama aynı zamanda basit bir anlamı kapsar.</Content>
+        </Dialog>
+        <Dialog ID="136" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_19</VoiceFile>
+          <Content>Yine de kendi hayatınızı riske atmak için yetersiz bir neden olduğunu düşünüyorum.</Content>
+        </Dialog>
+        <Dialog ID="137" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_63</VoiceFile>
+          <Content>Buna itiraz etmeyeceğim. Sanırım diğerleri kendileri için değerli olanın kaybını farklı şekillerde aşıyorlar.</Content>
+        </Dialog>
+        <Dialog ID="138" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_20-01</VoiceFile>
+          <Content>O zaman, bu yere bu kadar gururla neden girdiniz? Bizden daha güçlü olduğunuza dair temelsiz bir güven mi?</Content>
+        </Dialog>
+        <Dialog ID="139" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_21</VoiceFile>
+          <Content>Yoksa sadece öfkeyle mi kör oldunuz?</Content>
+        </Dialog>
+        <Dialog ID="140" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_64</VoiceFile>
+          <Content>Bunu... ben de bilmek isterdim.</Content>
+        </Dialog>
+        <Dialog ID="141" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_65</VoiceFile>
+          <Content>Ancak, taşıdığım bu duygunun ne öfke ne de üzüntü olduğunu biliyorum.</Content>
+        </Dialog>
+        <Dialog ID="142" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_22</VoiceFile>
+          <Content>Uf...</Content>
+        </Dialog>
+        <Dialog ID="143" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_23</VoiceFile>
+          <Content>İstediğinizi söyleyebilirsiniz, ama bu, hayatınızı daha az faydasız yapmaz. Varoluşun anlamı için ölüme yürümek mi?</Content>
+        </Dialog>
+        <Dialog ID="144" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_24</VoiceFile>
+          <Content>Şimdi istediğiniz kadar güvenle hareket edebilirsiniz; çünkü kendinizi sağlam ve dirençli sanıyorsunuz.</Content>
+        </Dialog>
+        <Dialog ID="145" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_25</VoiceFile>
+          <Content>Ama beklenmedik bir durum önünüze çıktığında... O sağlamlığınız dayanabilecek mi?</Content>
+        </Dialog>
+        <Dialog ID="146" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_26</VoiceFile>
+          <Content>Sanmıyorum. Kırılan ilk kişi siz olacaksınız.</Content>
+        </Dialog>
+        <Dialog ID="147" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_27</VoiceFile>
+          <Content>Sonuçta, ölümle yüzleşildiğinde anlamsız hale gelen zayıf bir umuda sahip olmaktır bu.</Content>
+        </Dialog>
+        <Dialog ID="148" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_28</VoiceFile>
+          <Content>Sizin o önemsiz kararlılığınızı değiştirebilecek ne olabilir?</Content>
+        </Dialog>
+        <Dialog ID="149" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_66-01</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="150" Model="춘">
+          <Teller>Chun</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Chun_28</VoiceFile>
+          <Content>... Bu, geri dönmemiz için bir uyarı mı?</Content>
+        </Dialog>
+        <Dialog ID="151" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_29</VoiceFile>
+          <Content>Sizi durduracak ne gücüm ne de hakkım var.</Content>
+        </Dialog>
+        <Dialog ID="152" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_23</VoiceFile>
+          <Content>Gerçekten canımı sıkıyorsunuz...</Content>
+        </Dialog>
+        <Dialog ID="153" Model="미리스">
+          <Teller>Miris</Teller>
+          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Miris_24-01</VoiceFile>
+          <Content>Kesinlikle bizi küçümsüyor. Artık içeri girelim, Yönetici.</Content>
+        </Dialog>
+        <Dialog ID="154" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_67</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="155" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_68-01</VoiceFile>
+          <Content>Evet. Lowell'ın kitabını burada bulacağıma dair bir umudum var.</Content>
+        </Dialog>
+        <Dialog ID="156" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_69-01</VoiceFile>
+          <Content>Kendimi sağlam düşünsem bile, başkalarının beni acınası bulmasını engelleyemem. Benim zavallı bir insan olduğumu düşünmekte özgürsünüz.</Content>
+        </Dialog>
+        <Dialog ID="157" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_70</VoiceFile>
+          <Content>Başkalarının benim hakkımda ne düşündüğü umurumda bile değil.</Content>
+        </Dialog>
+        <Dialog ID="158" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_71-01</VoiceFile>
+          <Content>Bir kararlılık neyi değiştirir, diye soruyorsunuz?</Content>
+        </Dialog>
+        <Dialog ID="159" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_72</VoiceFile>
+          <Content>Elbette çok fazla şey değiştirmez. Umut yolu sihirli bir şekilde aydınlatmayacaktır. Her zaman parlak olmayacaktır.</Content>
+        </Dialog>
+        <Dialog ID="160" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_73-01</VoiceFile>
+          <Content>Bir bakıma çaresizliğe benzer olacak... ne yapacağımı ya da nereye gideceğimi bilemeden karanlıkta kaybolabilirim.</Content>
+        </Dialog>
+        <Dialog ID="161" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_74</VoiceFile>
+          <Content>Bana yeni bir yol vermiyor... ne de yolu aydınlatıyor... ikisi gerçekten de aynı.</Content>
+        </Dialog>
+        <Dialog ID="162" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_75-01</VoiceFile>
+          <Content>Ancak, hala iki ayrı kelimeyle iki ayrı kavram olarak kabul ediliyorlar; çünkü bir farkları var.</Content>
+        </Dialog>
+        <Dialog ID="163" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_76</VoiceFile>
+          <Content>Doğru olanı düşünerek... şu anda ne yapmam gerektiğini aklımda tutarak ve bunu eyleme geçirerek, o zaman imkansız başarılabilecektir.</Content>
+        </Dialog>
+        <Dialog ID="164" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_77-01</VoiceFile>
+          <Content>Umut bize dokunulmayanı dokunma... ulaşılamayana ulaşma... ve görünmeyeni görme imkanı verir.</Content>
+        </Dialog>
+        <Dialog ID="165" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_78-01</VoiceFile>
+          <Content>Sözlerinizin beni kırmasına izin vermeyeceğim; geri adım atmayacağım... Pòfǔchénzhōu. Kazanlar kırıldı ve tekneler batırıldı; geri çekilme yok.</Content>
+        </Dialog>
+        <Dialog ID="166" Model="샤오">
+          <Teller>Xiao</Teller>
+          <Title>Liu B. 1. Kısım Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_79-05</VoiceFile>
+          <Content>O yüzden bizden korkmuyorsanız içeri girmemize izin verin!</Content>
+        </Dialog>
+        <Dialog ID="167" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_30</VoiceFile>
+          <Content>...</Content>
+        </Dialog>
+        <Dialog ID="168" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Kütüphane Yöneticisi</Title>
+          <VoiceFile>ch6_Liu_Sec1_ep1_Angela_31</VoiceFile>
+          <Content>Umarım kitabınızı bu yerde bulursunuz.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
     <Episode>
       <EpisodeName>Episode 1 Epilogue</EpisodeName>
       <Place>
