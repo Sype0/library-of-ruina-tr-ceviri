@@ -5557,55 +5557,55 @@
         <PlaceName>Konum: L Şirketi Yuvası, Liu Birliği 1. Kısım Operasyon Alanı</PlaceName>
         <Dialog ID="0" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_1</VoiceFile>
           <Content>Ah be, yoruldum...</Content>
         </Dialog>
         <Dialog ID="1" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_1-02</VoiceFile>
           <Content>... Bu Mavi Yankı da neyin peşinde.</Content>
         </Dialog>
         <Dialog ID="2" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_2-03</VoiceFile>
           <Content>Senin derdin bu mu? Bunu Birliğe raporumuzda nasıl açıklayacağız...</Content>
         </Dialog>
         <Dialog ID="3" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_2-04</VoiceFile>
           <Content>Pek seçeneğimiz yok. Sadece gördüklerimizi anlatmak zorundayız. Yapabileceğimiz bir şey kalmadı.</Content>
         </Dialog>
         <Dialog ID="4" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_3-02</VoiceFile>
           <Content>Hazır bahsetmişken, 2. Kısım'dan Kütüphane'ye keşif için gittiklerinden beri haber alamadım. Onlara bir şey mi oldu?</Content>
         </Dialog>
         <Dialog ID="5" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_3</VoiceFile>
           <Content>Muhtemelen işle çok meşguller. Yönetici Xiao epey endişelenmiş olmalı.</Content>
         </Dialog>
         <Dialog ID="6" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_4-03</VoiceFile>
           <Content>Neyse, bizim de endişelenmemiz gereken kendi sorunlarımız var. Bazı işleri halletmemiz gerek, o yüzden içeri girelim, olur mu?</Content>
         </Dialog>
         <Dialog ID="7" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_4-03</VoiceFile>
           <Content>Bu saatte rahatsız ettiğimiz için üzgünüz, Yönetici. Son zamanlarda baktığımız vakalarla ilgili çözmemiz gereken bir dizi sorun var...</Content>
         </Dialog>
         <Dialog ID="8" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_5-01</VoiceFile>
           <Content>... Yönetici?</Content>
         </Dialog>
@@ -5629,19 +5629,19 @@
         </Dialog>
         <Dialog ID="12" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_5-06</VoiceFile>
           <Content>Ağlayan Çocuklar'ı ele geçirmekte başarısız olduktan sonra yakaladığımız Distorsiyonlardan örnekler alacak uzmanlar, bu örnekleri V Şirketi'ne gönderecekler.</Content>
         </Dialog>
         <Dialog ID="13" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_6-01</VoiceFile>
           <Content>Bu sürecin tam bir gün sürmesi bekleniyor. Bu süre zarfında beklemede mi olacağız?</Content>
         </Dialog>
         <Dialog ID="14" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_6-05</VoiceFile>
           <Content>Başkan'dan veya yönetim kurulundan herhangi bir haber aldınız mı?</Content>
         </Dialog>
@@ -5659,13 +5659,13 @@
         </Dialog>
         <Dialog ID="17" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_7-01</VoiceFile>
           <Content>Anlıyorum, artık bir Şehir Yıldızı haline geldiği için Kütüphane hakkında kapsamlı bir analiz yapmak için zaman ayırmaları gerektiğini hissettiler...</Content>
         </Dialog>
         <Dialog ID="18" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_7-04</VoiceFile>
           <Content>Yani bu Yuva'dan ayrılıyor muyuz?</Content>
         </Dialog>
@@ -5683,13 +5683,13 @@
         </Dialog>
         <Dialog ID="21" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_8-01</VoiceFile>
           <Content>Anlaşıldı, efendim.</Content>
         </Dialog>
         <Dialog ID="22" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_8-03</VoiceFile>
           <Content>Şimdi gidiyoruz, bu yüzden iyi dinlenin, Yöne—</Content>
         </Dialog>
@@ -5719,7 +5719,7 @@
         </Dialog>
         <Dialog ID="27" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_9</VoiceFile>
           <Content>Anlaşıldı.</Content>
         </Dialog>
@@ -5737,7 +5737,7 @@
         </Dialog>
         <Dialog ID="30" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_10</VoiceFile>
           <Content>Neden bize aniden tüm bunları anlatıyorsunuz, Yönetici...</Content>
         </Dialog>
@@ -5749,7 +5749,7 @@
         </Dialog>
         <Dialog ID="32" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_9-01</VoiceFile>
           <Content>... Bana üstlerimizden başka haberler aldığımızı söylemeyin.</Content>
         </Dialog>
@@ -5767,7 +5767,7 @@
         </Dialog>
         <Dialog ID="35" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_11-03</VoiceFile>
           <Content>Bu da demek oluyor ki, siz az önce...</Content>
         </Dialog>
@@ -5779,7 +5779,7 @@
         </Dialog>
         <Dialog ID="37" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_10-01</VoiceFile>
           <Content>...</Content>
         </Dialog>
@@ -5791,7 +5791,7 @@
         </Dialog>
         <Dialog ID="39" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_11</VoiceFile>
           <Content>Ne... dediniz siz?</Content>
         </Dialog>
@@ -5803,7 +5803,7 @@
         </Dialog>
         <Dialog ID="41" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_12-01</VoiceFile>
           <Content>Bunu sormadığımı biliyorsunuz!</Content>
         </Dialog>
@@ -5827,7 +5827,7 @@
         </Dialog>
         <Dialog ID="45" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_12-04</VoiceFile>
           <Content>Kütüphane'ye gideceksiniz, değil mi?</Content>
         </Dialog>
@@ -5839,13 +5839,13 @@
         </Dialog>
         <Dialog ID="47" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_13-01</VoiceFile>
           <Content>Siz böyle biri değilsiniz, Yönetici Xiao. Bu konuda bu kadar aceleci bir karar vermemeniz gerektiğini biliyorsunuz...</Content>
         </Dialog>
         <Dialog ID="48" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_14-03</VoiceFile>
           <Content>Birliğe geri dönüp daha fazla bilgi almayı öneriyorum. İşe yarayacak bir şeyler olmalı.</Content>
         </Dialog>
@@ -5917,19 +5917,19 @@
         </Dialog>
         <Dialog ID="60" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_15</VoiceFile>
           <Content>Ne demek istediğinizi anlıyorum, Yönetici.</Content>
         </Dialog>
         <Dialog ID="61" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_16</VoiceFile>
           <Content>Yine de, pozisyonunuzdan bu şekilde istifa etmek pek çok açıdan aleyhinize olacaktır.</Content>
         </Dialog>
         <Dialog ID="62" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_17-01</VoiceFile>
           <Content>Bir Birliğin güvenini sarsarsanız, daha sonra kendi Büronuzu açsanız bile bu işten bir şekilde dışlanırsınız. Hepsi bu da değil. Daha sonra...</Content>
         </Dialog>
@@ -5971,19 +5971,19 @@
         </Dialog>
         <Dialog ID="69" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_18-04</VoiceFile>
           <Content>Bunu nasıl bu kadar gururla söyleyebiliyorsunuz, efendim. Yönetici Lowell yaptı ve şimdi siz de...</Content>
         </Dialog>
         <Dialog ID="70" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_13-01</VoiceFile>
           <Content>Pekala, Xiao... bu sefer doğrudan sorayım.</Content>
         </Dialog>
         <Dialog ID="71" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_14</VoiceFile>
           <Content>Diyelim ki Lowell'ın kitabını almayı başardınız. Sonra ne olacak? Aklınızda başka bir plan var mı?</Content>
         </Dialog>
@@ -5995,13 +5995,13 @@
         </Dialog>
         <Dialog ID="73" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_15</VoiceFile>
-          <Content>Böylesine büyük bir Tamirci'nin bu gibi durumlarda duygularına göre hareket etmesi durumunda diğerlerinin size nasıl bakacağını çok iyi biliyorsunuz.</Content>
+          <Content>Böylesine büyük bir Düzeltici'nin bu gibi durumlarda duygularına göre hareket etmesi durumunda diğerlerinin size nasıl bakacağını çok iyi biliyorsunuz.</Content>
         </Dialog>
         <Dialog ID="74" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_16</VoiceFile>
           <Content>Geri dönebileceğiniz bir yer olmayacak. İstediğiniz bu mu?</Content>
         </Dialog>
@@ -6019,7 +6019,7 @@
         </Dialog>
         <Dialog ID="77" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_19</VoiceFile>
           <Content>Sizi takip edeceğimizi biliyor musunuz?</Content>
         </Dialog>
@@ -6031,7 +6031,7 @@
         </Dialog>
         <Dialog ID="79" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_20-03</VoiceFile>
           <Content>Ve bizi durdurmaya çalışmıyorsunuz...</Content>
         </Dialog>
@@ -6043,13 +6043,13 @@
         </Dialog>
         <Dialog ID="81" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_21-02</VoiceFile>
           <Content>Ne kadar da bencilsiniz, efendim.</Content>
         </Dialog>
         <Dialog ID="82" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_22-04</VoiceFile>
           <Content>Daha önce hiç yapmadığınız bir şekilde hareket etmeye başlarsanız elimizden ne gelir ki.</Content>
         </Dialog>
@@ -6078,7 +6078,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_1</VoiceFile>
-          <Content>Belki de Tamirciler hakkında tamamen haklı değildin, bir Birliğin 1. Kısım Yöneticisi bile duygularına dayalı bir karar verebiliyormuş.</Content>
+          <Content>Belki de Düzelticiler hakkında tamamen haklı değildin, bir Birliğin 1. Kısım Yöneticisi bile duygularına dayalı bir karar verebiliyormuş.</Content>
         </Dialog>
         <Dialog ID="87" Model="롤랑">
           <Teller>Roland</Teller>
@@ -6151,13 +6151,13 @@
         <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="98" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_17</VoiceFile>
           <Content>Sonunda Kütüphane'ye geldik.</Content>
         </Dialog>
         <Dialog ID="99" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_23-04</VoiceFile>
           <Content>Şube liderimizin bize sonsuza dek lanet okuyacağını şimdiden hayal edebiliyorum.</Content>
         </Dialog>
@@ -6169,19 +6169,19 @@
         </Dialog>
         <Dialog ID="101" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_18-01</VoiceFile>
           <Content>Olan oldu. Bu bizim seçimimizdi.</Content>
         </Dialog>
         <Dialog ID="102" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_19</VoiceFile>
           <Content>Bu yere girdiğimize göre şimdi işi halletmeye odaklanalım.</Content>
         </Dialog>
         <Dialog ID="103" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_24-01</VoiceFile>
           <Content>Ve Kütüphane'de iyi sonuçlar alırsak sapmamız affedilebilir.</Content>
         </Dialog>
@@ -6205,13 +6205,13 @@
         </Dialog>
         <Dialog ID="107" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_25-04</VoiceFile>
           <Content>Korkunç derecede yüzsüzsünüz, efendim. Burada hiçbirimizin ölmeyeceği olasılığını bir kenara bırakalım.</Content>
         </Dialog>
         <Dialog ID="108" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_20</VoiceFile>
           <Content>Eğer Liu'dan kovulursak, bize ekmek paramızı kazanmak için yeni işler bulsanız iyi edersiniz.</Content>
         </Dialog>
@@ -6247,7 +6247,7 @@
         </Dialog>
         <Dialog ID="114" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_26-02</VoiceFile>
           <Content>... Merhaba.</Content>
         </Dialog>
@@ -6265,7 +6265,7 @@
         </Dialog>
         <Dialog ID="117" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_21</VoiceFile>
           <Content>Neden tereddüt ediyorsunuz, bayan. Tüm bu zamandan sonra yaptıklarınız için suçluluk mu hissediyorsunuz?</Content>
         </Dialog>
@@ -6295,13 +6295,13 @@
         </Dialog>
         <Dialog ID="122" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_22-02</VoiceFile>
           <Content>... Dilinize dikkat etseniz iyi olur, Bayan Kütüphane Yöneticisi.</Content>
         </Dialog>
         <Dialog ID="123" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_27-02</VoiceFile>
           <Content>Burada öleceğimizden eminmiş gibi konuşuyorsunuz.</Content>
         </Dialog>
@@ -6463,7 +6463,7 @@
         </Dialog>
         <Dialog ID="150" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_28</VoiceFile>
           <Content>... Bu, geri dönmemiz için bir uyarı mı?</Content>
         </Dialog>
@@ -6475,13 +6475,13 @@
         </Dialog>
         <Dialog ID="152" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_23</VoiceFile>
           <Content>Gerçekten canımı sıkıyorsunuz...</Content>
         </Dialog>
         <Dialog ID="153" Model="미리스">
           <Teller>Miris</Teller>
-          <Title>Liu B. 1. Kısım Tamircisi</Title>
+          <Title>Liu B. 1. Kısım Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_24-01</VoiceFile>
           <Content>Kesinlikle bizi küçümsüyor. Artık içeri girelim, Yönetici.</Content>
         </Dialog>
