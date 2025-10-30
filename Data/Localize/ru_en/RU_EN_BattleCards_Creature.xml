@@ -4,39 +4,39 @@
     <BattleCardDesc ID="900101">
       <LocalizedName>Depresyon</LocalizedName>
       <Ability />
-      <Behaviour ID="0">[Vurulduğunda] 3 sersemleme Uygula</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] 3 sersemleme Uygula</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="900102">
       <LocalizedName>Solgun Eller</LocalizedName>
-      <Ability>Tüm saldırılar isabet ederse düşmanı Sersemletir</Ability>
+      <Ability>Tüm saldirilar isabet ederse düsmani Sersemletir</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="900103">
-      <LocalizedName>Batıyorum</LocalizedName>
+      <LocalizedName>Batiyorum</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="900201">
-      <LocalizedName>Atım</LocalizedName>
+      <LocalizedName>Atim</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="900202">
-      <LocalizedName>Arzu Atımları</LocalizedName>
-      <Ability>[Vurulduğunda] Dostlar 3 Güç ve hız Kazanır</Ability>
+      <LocalizedName>Arzu Atimlari</LocalizedName>
+      <Ability>[Vuruldugunda] Dostlar 3 Güç ve hiz Kazanir</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="900203">
-      <LocalizedName>Şevkli Atımlar</LocalizedName>
+      <LocalizedName>sevkli Atimlar</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="900204">
-      <LocalizedName>Çekingen Atımlar</LocalizedName>
+      <LocalizedName>Çekingen Atimlar</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="900301">
-      <LocalizedName>Yıkılmış Umut</LocalizedName>
+      <LocalizedName>Yikilmis Umut</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="900302">
       <LocalizedName>Korlar</LocalizedName>
-      <Ability>[Kullanıldığında] 5 Can Kaybeder</Ability>
+      <Ability>[Kullanildiginda] 5 Can Kaybeder</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="900303">
       <LocalizedName>Dördüncü Kibrit Alevi</LocalizedName>
@@ -47,16 +47,16 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="900402">
-      <LocalizedName>Utangaç Şefkat</LocalizedName>
+      <LocalizedName>Utangaç sefkat</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="900403">
-      <LocalizedName>Nostaljik Anılar</LocalizedName>
-      <Ability>Diğer Sayfalar kullanılarak her Çarpışmadan sonra Maliyeti 1 Azalır</Ability>
-      <Behaviour ID="0">[Vurulduğunda] Hedefi Sersemletir</Behaviour>
+      <LocalizedName>Nostaljik Anilar</LocalizedName>
+      <Ability>Diger Sayfalar kullanilarak her Çarpismadan sonra Maliyeti 1 Azalir</Ability>
+      <Behaviour ID="0">[Vuruldugunda] Hedefi Sersemletir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="900501">
-      <LocalizedName>Zincirlenmiş Öfke</LocalizedName>
+      <LocalizedName>Zincirlenmis Öfke</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="900502">
@@ -65,7 +65,7 @@
     </BattleCardDesc>
     <BattleCardDesc ID="900601">
       <LocalizedName>Yüklenme</LocalizedName>
-      <Ability>[Kullanıldığında] Sonraki Sahnede 4 Güç ve 1 Dayanıklılık Kazanır</Ability>
+      <Ability>[Kullanildiginda] Sonraki Sahnede 4 Güç ve 1 Dayaniklilik Kazanir</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="900602">
       <LocalizedName>Temizleme</LocalizedName>
@@ -76,70 +76,70 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="900701">
-      <LocalizedName>Bugünün İfadesi</LocalizedName>
+      <LocalizedName>Bugünün ifadesi</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="900702">
-      <LocalizedName>Utangaçlık</LocalizedName>
+      <LocalizedName>Utangaçlik</LocalizedName>
       <Ability />
-      <Behaviour ID="1">Hedef Sersemlemişse +5 Güç Kazanır</Behaviour>
-      <Behaviour ID="2">Hedef Sersemlemişse +5 Güç Kazanır</Behaviour>
+      <Behaviour ID="1">Hedef Sersemlemisse +5 Güç Kazanir</Behaviour>
+      <Behaviour ID="2">Hedef Sersemlemisse +5 Güç Kazanir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="900801">
-      <LocalizedName>Kana Susamışlık</LocalizedName>
+      <LocalizedName>Kana Susamislik</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="900802">
-      <LocalizedName>Takıntı</LocalizedName>
-      <Behaviour ID="0">Hedefte Kanama varsa +5 Güç Kazanır</Behaviour>
+      <LocalizedName>Takinti</LocalizedName>
+      <Behaviour ID="0">Hedefte Kanama varsa +5 Güç Kazanir</Behaviour>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="900803">
-      <LocalizedName>Taşan Arzu</LocalizedName>
-      <Behaviour ID="0">[Vurulduğunda] Hedefteki Kanama miktarına eşit Can Yeniler</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] Hedefteki Kanama miktarına eşit Can Yeniler</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] Hedefteki Kanama miktarına eşit Can Yeniler</Behaviour>
+      <LocalizedName>Tasan Arzu</LocalizedName>
+      <Behaviour ID="0">[Vuruldugunda] Hedefteki Kanama miktarina esit Can Yeniler</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Hedefteki Kanama miktarina esit Can Yeniler</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] Hedefteki Kanama miktarina esit Can Yeniler</Behaviour>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="900901">
       <LocalizedName>Nüfuz Etme</LocalizedName>
-      <Behaviour ID="0">[Vurulduğunda] Hedefin eline 'Aydınlanma' ekler</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Hedefin eline 'Aydinlanma' ekler</Behaviour>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="900902">
-      <LocalizedName>Öte Dünyanın Yankıları</LocalizedName>
-      <Ability>Hedefin elinde 'Aydınlanma' kartı varsa tüm Zarlarla 0 hasar verir</Ability>
+      <LocalizedName>Öte Dünyanin Yankilari</LocalizedName>
+      <Ability>Hedefin elinde 'Aydinlanma' karti varsa tüm Zarlarla 0 hasar verir</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="900903">
-      <LocalizedName>Aydınlanma</LocalizedName>
-      <Ability>Elde bulunduğu sürece Sersemleme Direncini %50 azaltır</Ability>
+      <LocalizedName>Aydinlanma</LocalizedName>
+      <Ability>Elde bulundugu sürece Sersemleme Direncini %50 azaltir</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="901001">
-      <LocalizedName>Bekleyiş</LocalizedName>
-      <Ability>[Kullanıldığında] 1 Işık Yeniler</Ability>
+      <LocalizedName>Bekleyis</LocalizedName>
+      <Ability>[Kullanildiginda] 1 Isik Yeniler</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="901002">
-      <LocalizedName>Yıldız Yağmuru</LocalizedName>
+      <LocalizedName>Yildiz Yagmuru</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="901003">
-      <LocalizedName>Zayıf Işık</LocalizedName>
+      <LocalizedName>Zayif Isik</LocalizedName>
       <Ability />
-      <Behaviour ID="1">[Vurulduğunda] 2 Kırılgan Uygular</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] 2 Kirilgan Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901101">
       <LocalizedName>Kraliçe'nin Emri</LocalizedName>
-      <Ability>[Kullanıldığında] Bir dosta 'Hazır Et' durumu verir</Ability>
+      <Ability>[Kullanildiginda] Bir dosta 'Hazir Et' durumu verir</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="901102">
       <LocalizedName>Aç Sürü</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="901103">
-      <LocalizedName>Yağma</LocalizedName>
+      <LocalizedName>Yagma</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="901104">
-      <LocalizedName>Kanat Çırpma</LocalizedName>
+      <LocalizedName>Kanat Çirpma</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="901105">
@@ -147,21 +147,21 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="901201">
-      <LocalizedName>Geniş Gülümseme</LocalizedName>
+      <LocalizedName>Genis Gülümseme</LocalizedName>
       <Ability />
-      <Behaviour ID="1">[Vurulduğunda] Hedefin eline bir 'Keyif' kopyası ekler</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Hedefin eline bir 'Keyif' kopyasi ekler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901202">
-      <LocalizedName>Kafanın Patlama Zamanı</LocalizedName>
+      <LocalizedName>Kafanin Patlama Zamani</LocalizedName>
       <Ability />
-      <Behaviour ID="0">[Vurulduğunda] Hedefin eline iki 'Keyif' kopyası ekler</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] Hedefin eline bir 'Keyif' kopyası ekler</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] Hedefin eline bir 'Keyif' kopyası ekler</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Hedefin eline iki 'Keyif' kopyasi ekler</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Hedefin eline bir 'Keyif' kopyasi ekler</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] Hedefin eline bir 'Keyif' kopyasi ekler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901203">
       <LocalizedName>Güven Oyunu</LocalizedName>
       <Ability />
-      <Behaviour ID="0">[Vurulduğunda] Hedefin eline iki 'Keyif' kopyası ekler</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Hedefin eline iki 'Keyif' kopyasi ekler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901204">
       <LocalizedName>Keyif</LocalizedName>
@@ -170,101 +170,101 @@
     <BattleCardDesc ID="901301">
       <LocalizedName>Yiyecek Yakalama</LocalizedName>
       <Ability />
-      <Behaviour ID="0">[Vurulduğunda] Hedefe 'Kozalak' durumu uygular</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Hedefe 'Kozalak' durumu uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901302">
-      <LocalizedName>Kırmızı Gözler</LocalizedName>
-      <Ability>[Kullanıldığında] Diğer dostlara 2 Koruma verir</Ability>
+      <LocalizedName>Kirmizi Gözler</LocalizedName>
+      <Ability>[Kullanildiginda] Diger dostlara 2 Koruma verir</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="901303">
-      <LocalizedName>İnce Ağ</LocalizedName>
+      <LocalizedName>ince Ag</LocalizedName>
       <Ability/>
     </BattleCardDesc>
     <BattleCardDesc ID="901304">
-      <LocalizedName>Keskin Dişler</LocalizedName>
+      <LocalizedName>Keskin Disler</LocalizedName>
       <Ability/>
     </BattleCardDesc>
 
     <BattleCardDesc ID="901401">
       <LocalizedName>Titrek Jest</LocalizedName>
-      <Behaviour ID="0">[Çarpışma Kaybettiğinde] Sonraki Sahnede kendine 1 Zayıf Uygular</Behaviour>
-      <Behaviour ID="1">[Çarpışma Kaybettiğinde] Sonraki Sahnede kendine 1 Silahsızlandır Uygular</Behaviour>
+      <Behaviour ID="0">[Çarpisma Kaybettiginde] Sonraki Sahnede kendine 1 Zayif Uygular</Behaviour>
+      <Behaviour ID="1">[Çarpisma Kaybettiginde] Sonraki Sahnede kendine 1 Silahsizlandir Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901402">
-      <LocalizedName>Sarsıntı</LocalizedName>
+      <LocalizedName>Sarsinti</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="901403">
-      <LocalizedName>Şu güzel sesi dinle!</LocalizedName>
-      <Ability>'BU Melodiyi ÖZLEMEK!' aktifken kullanılır; Kullanıcı hasar vermeyi başaramazsa kendini Sersemletir</Ability>
+      <LocalizedName>su güzel sesi dinle!</LocalizedName>
+      <Ability>'BU Melodiyi ÖZLEMEK!' aktifken kullanilir; Kullanici hasar vermeyi basaramazsa kendini Sersemletir</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="901404">
-      <LocalizedName>Müziğe Özlem Duy!!</LocalizedName>
-      <Ability>'BU Melodiyi ÖZLEMEK!' aktifken kullanılır</Ability>
-      <Behaviour ID="0">[Vurulduğunda] Hedef Makineye girer</Behaviour>
+      <LocalizedName>Müzige Özlem Duy!!</LocalizedName>
+      <Ability>'BU Melodiyi ÖZLEMEK!' aktifken kullanilir</Ability>
+      <Behaviour ID="0">[Vuruldugunda] Hedef Makineye girer</Behaviour>
     </BattleCardDesc>
 
     <BattleCardDesc ID="901501">
       <LocalizedName>Yalan Söylemek Kötü!</LocalizedName>
-      <Ability>[Savaş Başlangıcı] Tüm Zarları Yalan içeren bir Sayfanın Zarlarıyla değiştirir</Ability>
+      <Ability>[Savas Baslangici] Tüm Zarlari Yalan içeren bir Sayfanin Zarlariyla degistirir</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="901502">
-      <LocalizedName>Öğrenme</LocalizedName>
+      <LocalizedName>Ögrenme</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
 
  <BattleCardDesc ID="901601">
-      <LocalizedName>Gizemli Atımlar</LocalizedName>
-      <Ability>Hedefi İşaretler</Ability>
+      <LocalizedName>Gizemli Atimlar</LocalizedName>
+      <Ability>Hedefi isaretler</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="901602">
       <LocalizedName>Sevgiyle!</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="901603">
-      <LocalizedName>Adalet Adına!</LocalizedName>
+      <LocalizedName>Adalet Adina!</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">Saldırı Tek Yönlüyse +5 Güç Kazanır</Behaviour>
-      <Behaviour ID="1">Saldırı Tek Yönlüyse +5 Güç Kazanır</Behaviour>
+      <Behaviour ID="0">Saldiri Tek Yönlüyse +5 Güç Kazanir</Behaviour>
+      <Behaviour ID="1">Saldiri Tek Yönlüyse +5 Güç Kazanir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901604">
-      <LocalizedName>Aşk ve Adalet Adına~</LocalizedName>
+      <LocalizedName>Ask ve Adalet Adina~</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Çarpışma Kaybettiğinde] Son Zarın maksimum sonucunu 3 azaltır</Behaviour>
-      <Behaviour ID="1">[Çarpışma Kaybettiğinde] Son Zarın maksimum sonucunu 3 azaltır</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] 3 Bağlama Uygular, Sonraki Sahnede 2 Güç Kazanır</Behaviour>
+      <Behaviour ID="0">[Çarpisma Kaybettiginde] Son Zarin maksimum sonucunu 3 azaltir</Behaviour>
+      <Behaviour ID="1">[Çarpisma Kaybettiginde] Son Zarin maksimum sonucunu 3 azaltir</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] 3 Baglama Uygular, Sonraki Sahnede 2 Güç Kazanir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901605">
       <LocalizedName>Gizemli Köle</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="901606">
-      <LocalizedName>Nefret Işığı</LocalizedName>
+      <LocalizedName>Nefret Isigi</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="1">[Vurulduğunda] Zar sonucuna eşit Can Yeniler</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Zar sonucuna esit Can Yeniler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901607">
-      <LocalizedName>Aşk ve Nefret Adına</LocalizedName>
+      <LocalizedName>Ask ve Nefret Adina</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="901608">
       <LocalizedName>Gizemli Köle</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="901609">
-      <LocalizedName>Gizemli Atımlar</LocalizedName>
-      <Ability>Hedefi İşaretler</Ability>
+      <LocalizedName>Gizemli Atimlar</LocalizedName>
+      <Ability>Hedefi isaretler</Ability>
     </BattleCardDesc>
 
     <BattleCardDesc ID="901701">
-      <LocalizedName>Gözyaşlarıyla Bilenen Kılıç</LocalizedName>
+      <LocalizedName>Gözyaslariyla Bilenen Kiliç</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">Bu Zar, Maksimum Canın (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
+      <Behaviour ID="0">Bu Zar, Maksimum Canin (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901702">
-      <LocalizedName>Acıyla Bağlı Kılıç</LocalizedName>
+      <LocalizedName>Aciyla Bagli Kiliç</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="1">Bu Zar, Maksimum Canın (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
-      <Behaviour ID="2">Bu Zar, Maksimum Canın (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
+      <Behaviour ID="1">Bu Zar, Maksimum Canin (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
+      <Behaviour ID="2">Bu Zar, Maksimum Canin (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901703">
-      <LocalizedName>Solmuş İnanç</LocalizedName>
+      <LocalizedName>Solmus inanç</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="901704">
@@ -272,22 +272,22 @@
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="901705">
-      <LocalizedName>Kalbi Delen Kılıç</LocalizedName>
-      <Ability>Hedefe hasar vermeyi başaramazsa, Kılıç Umutsuzluk Şövalyesi'ni deler, ona hasar verir</Ability>
-      <Behaviour ID="0">Bu Zar, Maksimum Canın (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
+      <LocalizedName>Kalbi Delen Kiliç</LocalizedName>
+      <Ability>Hedefe hasar vermeyi basaramazsa, Kiliç Umutsuzluk sövalyesi'ni deler, ona hasar verir</Ability>
+      <Behaviour ID="0">Bu Zar, Maksimum Canin (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901706">
-      <LocalizedName>Kalbi Yırtan Kılıç</LocalizedName>
-      <Ability>Hedefe hasar vermeyi başaramazsa, Kılıç Umutsuzluk Şövalyesi'ni deler, ona hasar verir</Ability>
-      <Behaviour ID="0">Bu Zar, Maksimum Canın (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
-      <Behaviour ID="1">Bu Zar, Maksimum Canın (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
+      <LocalizedName>Kalbi Yirtan Kiliç</LocalizedName>
+      <Ability>Hedefe hasar vermeyi basaramazsa, Kiliç Umutsuzluk sövalyesi'ni deler, ona hasar verir</Ability>
+      <Behaviour ID="0">Bu Zar, Maksimum Canin (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
+      <Behaviour ID="1">Bu Zar, Maksimum Canin (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901707">
-      <LocalizedName>Kalbi Kıran Kılıç</LocalizedName>
-      <Ability>Hedefe hasar vermeyi başaramazsa, Kılıç Umutsuzluk Şövalyesi'ni deler, ona hasar verir</Ability>
-      <Behaviour ID="0">Bu Zar, Maksimum Canın (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
-      <Behaviour ID="1">Bu Zar, Maksimum Canın (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
-      <Behaviour ID="2">Bu Zar, Maksimum Canın (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
+      <LocalizedName>Kalbi Kiran Kiliç</LocalizedName>
+      <Ability>Hedefe hasar vermeyi basaramazsa, Kiliç Umutsuzluk sövalyesi'ni deler, ona hasar verir</Ability>
+      <Behaviour ID="0">Bu Zar, Maksimum Canin (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
+      <Behaviour ID="1">Bu Zar, Maksimum Canin (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
+      <Behaviour ID="2">Bu Zar, Maksimum Canin (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
     </BattleCardDesc>
 
 
@@ -296,124 +296,124 @@
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902002">
-      <LocalizedName>Saldırganlık Dürtüsü</LocalizedName>
-      <Ability>Karakter Sersemlemezse, sonraki Sahnede tüm dostlara 5 Güç ve hız verir</Ability>
-      <Behaviour ID="0">[Çarpışma Kazandığında] 1 Spor Uygular</Behaviour>
-      <Behaviour ID="1">[Çarpışma Kazandığında] 1 Spor Uygular</Behaviour>
-      <Behaviour ID="2">[Çarpışma Kazandığında] 1 Spor Uygular</Behaviour>
+      <LocalizedName>Saldirganlik Dürtüsü</LocalizedName>
+      <Ability>Karakter Sersemlemezse, sonraki Sahnede tüm dostlara 5 Güç ve hiz verir</Ability>
+      <Behaviour ID="0">[Çarpisma Kazandiginda] 1 Spor Uygular</Behaviour>
+      <Behaviour ID="1">[Çarpisma Kazandiginda] 1 Spor Uygular</Behaviour>
+      <Behaviour ID="2">[Çarpisma Kazandiginda] 1 Spor Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902003">
       <LocalizedName>Sadakat Dürtüsü</LocalizedName>
-      <Ability>Karakter Sersemlemezse, sonraki Sahnede tüm dostlara 5 Dayanıklılık verir</Ability>
-      <Behaviour ID="0">[Çarpışma Kazandığında] 1 Spor Uygular</Behaviour>
-      <Behaviour ID="1">[Çarpışma Kazandığında] 1 Spor Uygular</Behaviour>
-      <Behaviour ID="2">[Çarpışma Kazandığında] 1 Spor Uygular</Behaviour>
+      <Ability>Karakter Sersemlemezse, sonraki Sahnede tüm dostlara 5 Dayaniklilik verir</Ability>
+      <Behaviour ID="0">[Çarpisma Kazandiginda] 1 Spor Uygular</Behaviour>
+      <Behaviour ID="1">[Çarpisma Kazandiginda] 1 Spor Uygular</Behaviour>
+      <Behaviour ID="2">[Çarpisma Kazandiginda] 1 Spor Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902004">
       <LocalizedName>Besin Kazanma</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] Arı Kraliçesi 10 Can Yeniler</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Ari Kraliçesi 10 Can Yeniler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902005">
-      <LocalizedName>Koruma Birliği</LocalizedName>
+      <LocalizedName>Koruma Birligi</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] 1 Spor Uygular</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] 1 Spor Uygular</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] 1 Spor Uygular</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] 1 Spor Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902006">
-      <LocalizedName>Larva Taşıma</LocalizedName>
+      <LocalizedName>Larva Tasima</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="1">[Vurulduğunda] 3 Spor Uygular</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] 3 Spor Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902007">
-      <LocalizedName>Büyümeyi Teşvik Etme</LocalizedName>
+      <LocalizedName>Büyümeyi Tesvik Etme</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] Hedefteki Spor miktarına eşit Hasar verir</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] Hedefteki Spor miktarına eşit Hasar verir</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] Hedefteki Spor miktarına eşit Hasar verir</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Hedefteki Spor miktarina esit Hasar verir</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Hedefteki Spor miktarina esit Hasar verir</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] Hedefteki Spor miktarina esit Hasar verir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902008">
       <LocalizedName>Ölümü Kucaklama</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] Hedefi Sersemletir</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Hedefi Sersemletir</Behaviour>
     </BattleCardDesc>
 
     <BattleCardDesc ID="901801">
       <LocalizedName>Nefes Alma</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Çarpışma Kazandığında] Bu Sayfadaki tüm Zarlar +2 Güç Kazanır</Behaviour>
-      <Behaviour ID="1">[Çarpışma Kazandığında] 6 Can Yeniler</Behaviour>
-      <Behaviour ID="2">[Çarpışma Kazandığında] 6 Sersemleme Direnci Yeniler</Behaviour>
+      <Behaviour ID="0">[Çarpisma Kazandiginda] Bu Sayfadaki tüm Zarlar +2 Güç Kazanir</Behaviour>
+      <Behaviour ID="1">[Çarpisma Kazandiginda] 6 Can Yeniler</Behaviour>
+      <Behaviour ID="2">[Çarpisma Kazandiginda] 6 Sersemleme Direnci Yeniler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901802">
-      <LocalizedName>Avı Bulma</LocalizedName>
+      <LocalizedName>Avi Bulma</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="1">[Çarpışma Kazandığında] Sonraki Sahnede 5 Silahsızlandır Uygular</Behaviour>
+      <Behaviour ID="1">[Çarpisma Kazandiginda] Sonraki Sahnede 5 Silahsizlandir Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901803">
-      <LocalizedName>Kabuğa Nişan Alma</LocalizedName>
+      <LocalizedName>Kabuga Nisan Alma</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Çarpışma Kazandığında] 3 Kırılgan Uygular, 10 Sersemletme Hasarı Verir, Hedefin tüm Zarlarını yok eder</Behaviour>
+      <Behaviour ID="0">[Çarpisma Kazandiginda] 3 Kirilgan Uygular, 10 Sersemletme Hasari Verir, Hedefin tüm Zarlarini yok eder</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901804">
-      <LocalizedName>Tereddüt Etmeden Saldır</LocalizedName>
+      <LocalizedName>Tereddüt Etmeden Saldir</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] Vurulan her Hedef için 1 Güç Kazanır</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Vurulan her Hedef için 1 Güç Kazanir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901805">
-      <LocalizedName>Mermi Yağmuru</LocalizedName>
+      <LocalizedName>Mermi Yagmuru</LocalizedName>
       <Ability></Ability>
           </BattleCardDesc>
     <BattleCardDesc ID="901806">
       <LocalizedName>Zalim Pençeler</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="901807">
-      <LocalizedName>Vahşi Dişler</LocalizedName>
+      <LocalizedName>Vahsi Disler</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="1">[Vurulduğunda] 10 Can Yeniler</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] 10 Can Yeniler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901808">
-      <LocalizedName>Kanlı Av</LocalizedName>
+      <LocalizedName>Kanli Av</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="901809">
       <LocalizedName>Uluma</LocalizedName>
-      <Ability>Bu saldırı Paralı Asker'e vurursa, Öfke Göstergesini büyük ölçüde artırır</Ability>
-      <Behaviour ID="0">[Vurulduğunda] 5 Sersemletme Hasarı Verir</Behaviour>
+      <Ability>Bu saldiri Parali Asker'e vurursa, Öfke Göstergesini büyük ölçüde artirir</Ability>
+      <Behaviour ID="0">[Vuruldugunda] 5 Sersemletme Hasari Verir</Behaviour>
     </BattleCardDesc>
 
     <BattleCardDesc ID="901901">
       <LocalizedName>Bilgelik Toplama</LocalizedName>
-      <Ability>Bilgelik ile Çarpışmazsa tüm Zarlar +4 Güç Kazanır; Bilgelik ile Çarpıştıktan sonraki Sahnede Zayıflatılırsın</Ability>
-      <Behaviour ID="0">[Vurulduğunda] Hedefin elindeki bir Sayfayı Emer (Bilgeliği Önceliklendirir), 5-10 Can Yeniler</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] Hedefin elindeki bir Sayfayı Emer (Bilgeliği Önceliklendirir), 5-10 Can Yeniler</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] Hedefin elindeki bir Sayfayı Emer (Bilgeliği Önceliklendirir), 5-10 Can Yeniler</Behaviour>
-      <Behaviour ID="3">[Vurulduğunda] Hedefin elindeki bir Sayfayı Emer (Bilgeliği Önceliklendirir), 5-10 Can Yeniler</Behaviour>
+      <Ability>Bilgelik ile Çarpismazsa tüm Zarlar +4 Güç Kazanir; Bilgelik ile Çarpistiktan sonraki Sahnede Zayiflatilirsin</Ability>
+      <Behaviour ID="0">[Vuruldugunda] Hedefin elindeki bir Sayfayi Emer (Bilgeligi Önceliklendirir), 5-10 Can Yeniler</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Hedefin elindeki bir Sayfayi Emer (Bilgeligi Önceliklendirir), 5-10 Can Yeniler</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] Hedefin elindeki bir Sayfayi Emer (Bilgeligi Önceliklendirir), 5-10 Can Yeniler</Behaviour>
+      <Behaviour ID="3">[Vuruldugunda] Hedefin elindeki bir Sayfayi Emer (Bilgeligi Önceliklendirir), 5-10 Can Yeniler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901902">
       <LocalizedName>Bilgelik</LocalizedName>
-      <Ability>Bu Sayfa kullanıldığında Tükenir</Ability>
+      <Ability>Bu Sayfa kullanildiginda Tükenir</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="901903">
-      <LocalizedName>Toprağı Sürme</LocalizedName>
+      <LocalizedName>Topragi Sürme</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="2">[Vurulduğunda] Sonraki Sahnede 2 Silahsızlandır ve Bağlama Uygular</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] Sonraki Sahnede 2 Silahsizlandir ve Baglama Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901904">
-      <LocalizedName>Bilgelik Arayan Tırmık</LocalizedName>
+      <LocalizedName>Bilgelik Arayan Tirmik</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Bloklandığında/Kaçtığında] Rakibin eline bir 'Bilgelik' kopyası ekler</Behaviour>
-    <Behaviour ID="1">[Vurulduğunda] Sonraki Sahnede 2 Silahsızlandır ve Bağlama Uygular</Behaviour>
+      <Behaviour ID="0">[Bloklandiginda/Kaçtiginda] Rakibin eline bir 'Bilgelik' kopyasi ekler</Behaviour>
+    <Behaviour ID="1">[Vuruldugunda] Sonraki Sahnede 2 Silahsizlandir ve Baglama Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901905">
-      <LocalizedName>Bilgelik İçin Mücadele</LocalizedName>
+      <LocalizedName>Bilgelik için Mücadele</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="1">[Bloklandığında/Kaçtığında] Rakibin eline bir 'Bilgelik' kopyası ekler</Behaviour>
-      <Behaviour ID="2">[Bloklandığında/Kaçtığında] Rakibin eline bir 'Bilgelik' kopyası ekler</Behaviour>
+      <Behaviour ID="1">[Bloklandiginda/Kaçtiginda] Rakibin eline bir 'Bilgelik' kopyasi ekler</Behaviour>
+      <Behaviour ID="2">[Bloklandiginda/Kaçtiginda] Rakibin eline bir 'Bilgelik' kopyasi ekler</Behaviour>
     </BattleCardDesc>
 
     <BattleCardDesc ID="902101">
-      <LocalizedName>Boş Göğüs</LocalizedName>
-      <Ability>Bu Sayfayla Çarpışan karakter Sersemletilirse anında öldürür.</Ability>
+      <LocalizedName>Bos Gögüs</LocalizedName>
+      <Ability>Bu Sayfayla Çarpisan karakter Sersemletilirse aninda öldürür.</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902102">
       <LocalizedName>Balta Darbesi</LocalizedName>
@@ -422,27 +422,27 @@
     <BattleCardDesc ID="902103">
       <LocalizedName>Gürültülü Ses</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="1">[Çarpışma Kaybettiğinde] Sonraki Sahnede 1 'Sıcak Kalp' kaybeder</Behaviour>
+      <Behaviour ID="1">[Çarpisma Kaybettiginde] Sonraki Sahnede 1 'Sicak Kalp' kaybeder</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902104">
-      <LocalizedName>Sıcak Atım</LocalizedName>
+      <LocalizedName>Sicak Atim</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Çarpışma Kaybettiğinde] Sonraki Sahnede 1 'Sıcak Kalp' kaybeder</Behaviour>
+      <Behaviour ID="0">[Çarpisma Kaybettiginde] Sonraki Sahnede 1 'Sicak Kalp' kaybeder</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902105">
       <LocalizedName>Kalbimi Alma…</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="2">[Vurulduğunda] Sonraki Sahnede 1 'Sıcak Kalp' Kazanır</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] Sonraki Sahnede 1 'Sicak Kalp' Kazanir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902106">
       <LocalizedName>Tahta</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Çarpışma Kaybettiğinde] Son Zar 2 Güç kaybeder</Behaviour>
-      <Behaviour ID="1">[Çarpışma Kaybettiğinde] Son Zar 2 Güç kaybeder</Behaviour>
-      <Behaviour ID="2">[Çarpışma Kaybettiğinde] Son Zar 2 Güç kaybeder</Behaviour>
+      <Behaviour ID="0">[Çarpisma Kaybettiginde] Son Zar 2 Güç kaybeder</Behaviour>
+      <Behaviour ID="1">[Çarpisma Kaybettiginde] Son Zar 2 Güç kaybeder</Behaviour>
+      <Behaviour ID="2">[Çarpisma Kaybettiginde] Son Zar 2 Güç kaybeder</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902107">
-      <LocalizedName>Yardım Et!</LocalizedName>
+      <LocalizedName>Yardim Et!</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
   
@@ -453,35 +453,35 @@
     <BattleCardDesc ID="902202">
       <LocalizedName>Yol Gösteren El</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] Hedefin bir Hız Zarını sonraki Sahnenin sonuna kadar Mühürler
-[Çarpışma Kaybettiğinde] Kendi bir Hız Zarını Mühürler</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] Hedefin Hız Zarı Mühürlüyse +4 ek Hasar verir</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] Hedefin Hız Zarı Mühürlüyse +4 ek Hasar verir</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Hedefin bir Hiz Zarini sonraki Sahnenin sonuna kadar Mühürler
+[Çarpisma Kaybettiginde] Kendi bir Hiz Zarini Mühürler</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Hedefin Hiz Zari Mühürlüyse +4 ek Hasar verir</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] Hedefin Hiz Zari Mühürlüyse +4 ek Hasar verir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902203">
-      <LocalizedName>Rahatlık İçinde</LocalizedName>
+      <LocalizedName>Rahatlik içinde</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] Bir Hız Zarını sonraki Sahnenin sonuna kadar Mühürler
-[Çarpışma Kaybettiğinde] Kendi bir Hız Zarını Mühürler</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Bir Hiz Zarini sonraki Sahnenin sonuna kadar Mühürler
+[Çarpisma Kaybettiginde] Kendi bir Hiz Zarini Mühürler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902204">
-      <LocalizedName>Ağıt</LocalizedName>
-      <Behaviour ID="0">[Vurulduğunda] Hedef Sersemlemişse, Hedefin mevcut Canına eşit Hasar verir</Behaviour>
+      <LocalizedName>Agit</LocalizedName>
+      <Behaviour ID="0">[Vuruldugunda] Hedef Sersemlemisse, Hedefin mevcut Canina esit Hasar verir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902211">
       <LocalizedName>Sükunet</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902212">
-      <LocalizedName>Öfkenin Serbest Bırakılması</LocalizedName>
+      <LocalizedName>Öfkenin Serbest Birakilmasi</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902213">
-      <LocalizedName>Acının Serbest Bırakılması</LocalizedName>
+      <LocalizedName>Acinin Serbest Birakilmasi</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902214">
-      <LocalizedName>Takıntının Serbest Bırakılması</LocalizedName>
+      <LocalizedName>Takintinin Serbest Birakilmasi</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
 
@@ -490,346 +490,346 @@
     </BattleCardDesc>
     <BattleCardDesc ID="902302">
       <LocalizedName>Grrr…</LocalizedName>
-      <Behaviour ID="1">[Vurulduğunda] 6 Can Yeniler</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] 6 Can Yeniler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902303">
-      <LocalizedName>Seni Yutacağım!</LocalizedName>
-      <Behaviour ID="0">[Vurulduğunda] Hedefi Yutar</Behaviour>
+      <LocalizedName>Seni Yutacagim!</LocalizedName>
+      <Behaviour ID="0">[Vuruldugunda] Hedefi Yutar</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902304">
       <LocalizedName>Kurt! Kurt!</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="902311">
-      <LocalizedName>Kontrol Edilemez İçgüdü</LocalizedName>
+      <LocalizedName>Kontrol Edilemez içgüdü</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="902312">
-      <LocalizedName>Vahşi Dişler</LocalizedName>
+      <LocalizedName>Vahsi Disler</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="902313">
-      <LocalizedName>Kanlı Av</LocalizedName>
-      <Behaviour ID="2">[Vurulduğunda] 10 Can Yeniler</Behaviour>
+      <LocalizedName>Kanli Av</LocalizedName>
+      <Behaviour ID="2">[Vuruldugunda] 10 Can Yeniler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902314">
       <LocalizedName>Pusu</LocalizedName>
-      <Behaviour ID="0">[Vurulduğunda] 6 Can Yeniler</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] 6 Can Yeniler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902315">
-      <LocalizedName>İçgüdü</LocalizedName>
-      <Behaviour ID="0">[Vurulduğunda] 10 Sersemletme Hasarı Verir</Behaviour>
+      <LocalizedName>içgüdü</LocalizedName>
+      <Behaviour ID="0">[Vuruldugunda] 10 Sersemletme Hasari Verir</Behaviour>
     </BattleCardDesc>
 
     <BattleCardDesc ID="902501">
-      <LocalizedName>Mutluluk İçin</LocalizedName>
+      <LocalizedName>Mutluluk için</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="902502">
-      <LocalizedName>Parıldayan Saldırı</LocalizedName>
-      <Behaviour ID="0">[Çarpışma Kazandığında] Tüm Zarları Yok Eder; [Vurulduğunda] Sonraki Sahnede 2 Silahsızlandır ve Bağlama Uygular</Behaviour>
+      <LocalizedName>Parildayan Saldiri</LocalizedName>
+      <Behaviour ID="0">[Çarpisma Kazandiginda] Tüm Zarlari Yok Eder; [Vuruldugunda] Sonraki Sahnede 2 Silahsizlandir ve Baglama Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902503">
-      <LocalizedName>Zafer Coşkusu</LocalizedName>
-      <Behaviour ID="0">[Çarpışma Kazandığında] Rakibin sonraki Zarının Gücünü 2 azaltır</Behaviour>
-      <Behaviour ID="1">[Çarpışma Kazandığında] Rakibin sonraki Zarını yok eder</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] Sonraki Sahnede 2 Güç Kazanır</Behaviour>
+      <LocalizedName>Zafer Coskusu</LocalizedName>
+      <Behaviour ID="0">[Çarpisma Kazandiginda] Rakibin sonraki Zarinin Gücünü 2 azaltir</Behaviour>
+      <Behaviour ID="1">[Çarpisma Kazandiginda] Rakibin sonraki Zarini yok eder</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] Sonraki Sahnede 2 Güç Kazanir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902504">
-      <LocalizedName>Büyüleyici Parlaklık</LocalizedName>
-      <Behaviour ID="0">[Çarpışma Kazandığında] Sonraki Zar +2 Güç Kazanır</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] Sonraki Sahnede Hedefin bir Zarını kırar, 2 Zayıf Uygular</Behaviour>
+      <LocalizedName>Büyüleyici Parlaklik</LocalizedName>
+      <Behaviour ID="0">[Çarpisma Kazandiginda] Sonraki Zar +2 Güç Kazanir</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Sonraki Sahnede Hedefin bir Zarini kirar, 2 Zayif Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902505">
-      <LocalizedName>Altın Yolu</LocalizedName>
-      <Behaviour ID="0">[Vurulduğunda] Hedefi Sersemletir</Behaviour>
+      <LocalizedName>Altin Yolu</LocalizedName>
+      <Behaviour ID="0">[Vuruldugunda] Hedefi Sersemletir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902511">
-      <LocalizedName>Açlık</LocalizedName>
+      <LocalizedName>Açlik</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="902512">
       <LocalizedName>Obur</LocalizedName>
-      <Behaviour ID="0">[Çarpışma Kazandığında] Tüm Zarları Yok Eder; [Vurulduğunda] Bu Sahnede 5 Kırılgan Uygular</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] 7 Can Yeniler, 3 Kanama Uygular</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] 7 Can Yeniler, 3 Kanama Uygular</Behaviour>
+      <Behaviour ID="0">[Çarpisma Kazandiginda] Tüm Zarlari Yok Eder; [Vuruldugunda] Bu Sahnede 5 Kirilgan Uygular</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] 7 Can Yeniler, 3 Kanama Uygular</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] 7 Can Yeniler, 3 Kanama Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902513">
       <LocalizedName>Arzular Tüketiyor</LocalizedName>
-      <Behaviour ID="0">[Çarpışma Kaybettiğinde] Son Zar +2 Güç Kazanır</Behaviour>
-      <Behaviour ID="1">[Çarpışma Kaybettiğinde] Son Zar +2 Güç Kazanır</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] 12 Can Yeniler, 5 Kanama Uygular</Behaviour>
+      <Behaviour ID="0">[Çarpisma Kaybettiginde] Son Zar +2 Güç Kazanir</Behaviour>
+      <Behaviour ID="1">[Çarpisma Kaybettiginde] Son Zar +2 Güç Kazanir</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] 12 Can Yeniler, 5 Kanama Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902514">
       <LocalizedName>Sabitleme</LocalizedName>
-      <Behaviour ID="0">[Çarpışma Kaybettiğinde] Sonraki Zar +2 Güç Kazanır</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] 7 Kanama Uygular, Sonraki Sahnede 2 Güç Kazanır</Behaviour>
+      <Behaviour ID="0">[Çarpisma Kaybettiginde] Sonraki Zar +2 Güç Kazanir</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] 7 Kanama Uygular, Sonraki Sahnede 2 Güç Kazanir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902515">
-      <LocalizedName>Kralın Yolu</LocalizedName>
-      <Behaviour ID="2">[Vurulduğunda] Hedefi anında öldürür ve 25 Can Yeniler</Behaviour>
+      <LocalizedName>Kralin Yolu</LocalizedName>
+      <Behaviour ID="2">[Vuruldugunda] Hedefi aninda öldürür ve 25 Can Yeniler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902522">
-      <LocalizedName>Neşe Parçası</LocalizedName>
-      <Ability>'Parlak Mutluluk' yok edildiğinde kazanılır, Yalnızca bu Sahnede kullanılabilir.</Ability>
+      <LocalizedName>Nese Parçasi</LocalizedName>
+      <Ability>'Parlak Mutluluk' yok edildiginde kazanilir, Yalnizca bu Sahnede kullanilabilir.</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902523">
-      <LocalizedName>Neşe Parçası</LocalizedName>
-      <Ability>'Parlak Mutluluk' yok edildiğinde kazanılır, Yalnızca bu Sahnede kullanılabilir.</Ability>
+      <LocalizedName>Nese Parçasi</LocalizedName>
+      <Ability>'Parlak Mutluluk' yok edildiginde kazanilir, Yalnizca bu Sahnede kullanilabilir.</Ability>
     </BattleCardDesc>
 
     <BattleCardDesc ID="902411">
       <LocalizedName>Bir Hediye Al~</LocalizedName>
-      <Behaviour ID="0">[Vurulduğunda] Hedefin eline bir 'Hediye' kopyası ekler</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Hedefin eline bir 'Hediye' kopyasi ekler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902412">
-      <LocalizedName>Kendini İncitme!</LocalizedName>
-      <Ability>[Kullanıldığında] En az Canı olan dost 10 Can Yeniler</Ability>
+      <LocalizedName>Kendini incitme!</LocalizedName>
+      <Ability>[Kullanildiginda] En az Cani olan dost 10 Can Yeniler</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902413">
-      <LocalizedName>Eğlenelim!</LocalizedName>
-      <Ability>[Kullanıldığında] Rastgele 2 dosta 1 Güç ve 3 Koruma verir</Ability>
+      <LocalizedName>Eglenelim!</LocalizedName>
+      <Ability>[Kullanildiginda] Rastgele 2 dosta 1 Güç ve 3 Koruma verir</Ability>
     </BattleCardDesc>
   <BattleCardDesc ID="902414">
     <LocalizedName>Bu bir Hediye~</LocalizedName>
-    <Behaviour ID="0">[Vurulduğunda] Hedefin eline bir 'Hediye' kopyası ekler</Behaviour>
+    <Behaviour ID="0">[Vuruldugunda] Hedefin eline bir 'Hediye' kopyasi ekler</Behaviour>
   </BattleCardDesc>
     <BattleCardDesc ID="902421">
       <LocalizedName>He..di..ye</LocalizedName>
-      <Behaviour ID="0">[Vurulduğunda] Hedefin eline bir 'Hediye' kopyası ekler</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Hedefin eline bir 'Hediye' kopyasi ekler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902422">
-      <LocalizedName>A.l.ış..ı.r.s.ın..</LocalizedName>
-      <Behaviour ID="0">[Vurulduğunda] Hedefin eline bir 'Hediye' kopyası ekler</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] Hedefin eline bir 'Hediye' kopyası ekler</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] Hedefin eline bir 'Hediye' kopyası ekler</Behaviour>
+      <LocalizedName>A.l.is..i.r.s.in..</LocalizedName>
+      <Behaviour ID="0">[Vuruldugunda] Hedefin eline bir 'Hediye' kopyasi ekler</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Hedefin eline bir 'Hediye' kopyasi ekler</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] Hedefin eline bir 'Hediye' kopyasi ekler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902423">
       <LocalizedName>Pa..t..la..</LocalizedName>
-      <Ability>Kullanıcı bu Sayfayı kullandıktan sonra ölür</Ability>
-      <Behaviour ID="0">[Vurulduğunda] Hedefin eline üç 'Hediye' kopyası ekler</Behaviour>
+      <Ability>Kullanici bu Sayfayi kullandiktan sonra ölür</Ability>
+      <Behaviour ID="0">[Vuruldugunda] Hedefin eline üç 'Hediye' kopyasi ekler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902431">
       <LocalizedName>#$@!#*#$@</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="902432">
       <LocalizedName>!?$%@!?!!</LocalizedName>
-      <Behaviour ID="0">[Vurulduğunda] Bu Sahnede 3 Kırılgan Uygular</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Bu Sahnede 3 Kirilgan Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902433">
       <LocalizedName>Hediye Alma</LocalizedName>
-      <Behaviour ID="1">[Çarpışma Kazandığında] Sonraki Zar +2 Güç Kazanır</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] Hedefin elindeki bir 'Hediye' kopyasını tüketir</Behaviour>
+      <Behaviour ID="1">[Çarpisma Kazandiginda] Sonraki Zar +2 Güç Kazanir</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] Hedefin elindeki bir 'Hediye' kopyasini tüketir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902451">
       <LocalizedName>Hediye</LocalizedName>
-      <Ability>2 Sahne sonra patlar, 15 Hasar verir ve 1 'At-ım' uygular. Kütüphaneci 3 veya daha fazla 'At-ım'a sahipse ölür.</Ability>
+      <Ability>2 Sahne sonra patlar, 15 Hasar verir ve 1 'At-im' uygular. Kütüphaneci 3 veya daha fazla 'At-im'a sahipse ölür.</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902452">
       <LocalizedName>Hediye</LocalizedName>
-      <Ability>2 Sahne sonra patlar, 15 Hasar verir ve 1 'At-ım' uygular. Kütüphaneci 3 veya daha fazla 'At-ım'a sahipse ölür.</Ability>
+      <Ability>2 Sahne sonra patlar, 15 Hasar verir ve 1 'At-im' uygular. Kütüphaneci 3 veya daha fazla 'At-im'a sahipse ölür.</Ability>
     </BattleCardDesc>
 
     <BattleCardDesc ID="902601">
       <LocalizedName>Çiçek Açma</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] Sonraki Sahnede 1 Koku Uygular</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] Sonraki Sahnede 1 Koku Uygular</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] Sonraki Sahnede 1 Koku Uygular</Behaviour>
-      <Behaviour ID="3">[Vurulduğunda] Sonraki Sahnede 1 Koku Uygular</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Sonraki Sahnede 1 Koku Uygular</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Sonraki Sahnede 1 Koku Uygular</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] Sonraki Sahnede 1 Koku Uygular</Behaviour>
+      <Behaviour ID="3">[Vuruldugunda] Sonraki Sahnede 1 Koku Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902602">
-      <LocalizedName>Baharın Doğuşu</LocalizedName>
+      <LocalizedName>Baharin Dogusu</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] Sonraki Sahnede tüm dostlara 2 Güç verir</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Sonraki Sahnede tüm dostlara 2 Güç verir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902603">
-      <LocalizedName>Sonbahar Adımı</LocalizedName>
+      <LocalizedName>Sonbahar Adimi</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Çarpışma Kazandığında] Hedefe 6 Sersemletme Hasarı Verir; 6 Can Yeniler</Behaviour>
-      <Behaviour ID="1">[Çarpışma Kazandığında] Hedefe 6 Sersemletme Hasarı Verir; 6 Can Yeniler</Behaviour>
+      <Behaviour ID="0">[Çarpisma Kazandiginda] Hedefe 6 Sersemletme Hasari Verir; 6 Can Yeniler</Behaviour>
+      <Behaviour ID="1">[Çarpisma Kazandiginda] Hedefe 6 Sersemletme Hasari Verir; 6 Can Yeniler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902604">
-      <LocalizedName>Kış Başlangıcı</LocalizedName>
-      <Ability>[Kullanıldığında] Sonraki Sahnede 'Defne Çelengi' verir</Ability>
+      <LocalizedName>Kis Baslangici</LocalizedName>
+      <Ability>[Kullanildiginda] Sonraki Sahnede 'Defne Çelengi' verir</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902605">
-      <LocalizedName>Muhteşem Final</LocalizedName>
+      <LocalizedName>Muhtesem Final</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="902611">
-      <LocalizedName>Çiçek Höyüğü</LocalizedName>
+      <LocalizedName>Çiçek Höyügü</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] Sonraki Sahnede 1 Koku Uygular</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] Sonraki Sahnede 1 Koku Uygular</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Sonraki Sahnede 1 Koku Uygular</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] Sonraki Sahnede 1 Koku Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902612">
       <LocalizedName>Kalpte Bir Çatlak</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="1">[Vurulduğunda] Hedefin Sersemletme Hasarı Direnci Sonraki Sahne için "Ölümcül" olarak değişir</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Hedefin Sersemletme Hasari Direnci Sonraki Sahne için "Ölümcül" olarak degisir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902613">
-      <LocalizedName>Dolaşık Umutsuzluk</LocalizedName>
+      <LocalizedName>Dolasik Umutsuzluk</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] Hedefi sonraki Sahne için Hareketsizleştirir</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Hedefi sonraki Sahne için Hareketsizlestirir</Behaviour>
     </BattleCardDesc>
 
     <BattleCardDesc ID="902701">
-      <LocalizedName>Göz Kamaştırma</LocalizedName>
-      <Ability>[Kullanıldığında] Hedef sonraki Sahnede 'Büyülenmiş' olur</Ability>
+      <LocalizedName>Göz Kamastirma</LocalizedName>
+      <Ability>[Kullanildiginda] Hedef sonraki Sahnede 'Büyülenmis' olur</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902702">
-      <LocalizedName>Kurtuluş</LocalizedName>
-      <Ability>'Ninni' ile Çarpışırken Zar Güç kaybeder.</Ability>
-      <Behaviour ID="0">[Vurulduğunda] Hedef Büyülenmişse anında öldürür.</Behaviour>
+      <LocalizedName>Kurtulus</LocalizedName>
+      <Ability>'Ninni' ile Çarpisirken Zar Güç kaybeder.</Ability>
+      <Behaviour ID="0">[Vuruldugunda] Hedef Büyülenmisse aninda öldürür.</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902703">
       <LocalizedName>Devriye</LocalizedName>
-      <Ability>'Ninni' ile Çarpışırken Zar Güç kaybeder.</Ability>
+      <Ability>'Ninni' ile Çarpisirken Zar Güç kaybeder.</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902704">
-      <LocalizedName>Göze Bıçaklama</LocalizedName>
+      <LocalizedName>Göze Biçaklama</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] Sonraki Sahnede 4 Bağlama Uygular</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Sonraki Sahnede 4 Baglama Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902705">
-      <LocalizedName>Isırık</LocalizedName>
-      <Ability>Daha düşük Hıza sahip Hedeflere karşı +3 Güç Kazanır</Ability>
+      <LocalizedName>Isirik</LocalizedName>
+      <Ability>Daha düsük Hiza sahip Hedeflere karsi +3 Güç Kazanir</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902706">
-      <LocalizedName>Yoğun Bakış</LocalizedName>
+      <LocalizedName>Yogun Bakis</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="1">[Vurulduğunda] Hedefi sonraki Sahnede bu karaktere saldırmaya zorlar (Büyülenmiş Olmadıkça)</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Hedefi sonraki Sahnede bu karaktere saldirmaya zorlar (Büyülenmis Olmadikça)</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902707">
-      <LocalizedName>Kısa Yürüyüş</LocalizedName>
+      <LocalizedName>Kisa Yürüyüs</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Çarpışma Kaybettiğinde] Sonraki Sahnede 2 Bağlama Kazanır</Behaviour>
-      <Behaviour ID="1">[Çarpışma Kaybettiğinde] Sonraki Sahnede 2 Bağlama Kazanır</Behaviour>
+      <Behaviour ID="0">[Çarpisma Kaybettiginde] Sonraki Sahnede 2 Baglama Kazanir</Behaviour>
+      <Behaviour ID="1">[Çarpisma Kaybettiginde] Sonraki Sahnede 2 Baglama Kazanir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902708">
-      <LocalizedName>Göz Kamaşmış</LocalizedName>
-      <Ability>Büyük Kuş'u Hedefler</Ability>
+      <LocalizedName>Göz Kamasmis</LocalizedName>
+      <Ability>Büyük Kus'u Hedefler</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902709">
       <LocalizedName>Kafes</LocalizedName>
-      <Ability>Bu Sayfanın etkisi sadece Kütüphaneciler için geçerlidir/onları etkiler</Ability>
-      <Behaviour ID="0">[Vurulduğunda] Hedefin bir Zarını kırar ve Hedefi sonraki Sahnede Hareketsizleştirir</Behaviour>
+      <Ability>Bu Sayfanin etkisi sadece Kütüphaneciler için geçerlidir/onlari etkiler</Ability>
+      <Behaviour ID="0">[Vuruldugunda] Hedefin bir Zarini kirar ve Hedefi sonraki Sahnede Hareketsizlestirir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902710">
       <LocalizedName>Ninni</LocalizedName>
-      <Ability>[Kullanıldığında] Büyük Kuş'a karşı kullanılırsa, sonraki Sahnede Uyur, Sersemletilir</Ability>
+      <Ability>[Kullanildiginda] Büyük Kus'a karsi kullanilirsa, sonraki Sahnede Uyur, Sersemletilir</Ability>
     </BattleCardDesc>
 
 
     <BattleCardDesc ID="980101">
-      <LocalizedName>Derin Bakış</LocalizedName>
+      <LocalizedName>Derin Bakis</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="980102">
-      <LocalizedName>Yaslanmış Kanatlar</LocalizedName>
+      <LocalizedName>Yaslanmis Kanatlar</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="980103">
-      <LocalizedName>Kanlı Kanatlar</LocalizedName>
+      <LocalizedName>Kanli Kanatlar</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="980104">
       <LocalizedName>Kendi Cennetin</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] Bu Sahnede 3 Kırılgan Uygular</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] Verilen Hasara eşit Can Yeniler</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Bu Sahnede 3 Kirilgan Uygular</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Verilen Hasara esit Can Yeniler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="980111">
       <LocalizedName>Kemik Dikenleri</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="980112">
-      <LocalizedName>Kızıl Dikenler</LocalizedName>
+      <LocalizedName>Kizil Dikenler</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="980113">
-      <LocalizedName>Ulaşılamaz Dikenler</LocalizedName>
+      <LocalizedName>Ulasilamaz Dikenler</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
 
     <BattleCardDesc ID="902901">
-      <LocalizedName>Buz Kıymıkları</LocalizedName>
+      <LocalizedName>Buz Kiymiklari</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902902">
-      <LocalizedName>İlk Öpücük</LocalizedName>
+      <LocalizedName>ilk Öpücük</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] 3 Soğuk Uygular</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] 3 Soguk Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902903">
-      <LocalizedName>İkinci Öpücük</LocalizedName>
+      <LocalizedName>ikinci Öpücük</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] 1 Soğuk Uygular</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] 1 Soğuk Uygular</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] 1 Soguk Uygular</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] 1 Soguk Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902904">
-      <LocalizedName>Buzlu Bakış</LocalizedName>
+      <LocalizedName>Buzlu Bakis</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Çarpışma Kazandığında] Sonraki Sahnede 2 Güç Kazanır</Behaviour>
+      <Behaviour ID="0">[Çarpisma Kazandiginda] Sonraki Sahnede 2 Güç Kazanir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902905">
       <LocalizedName>Üçüncü Öpücük</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] 1 Soğuk Uygular</Behaviour>
-      <Behaviour ID="1">[Çarpışma Kazandığında] 2 Soğuk Uygular</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] Hedefteki Soğuk miktarına eşit ek Hasar verir</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] 1 Soguk Uygular</Behaviour>
+      <Behaviour ID="1">[Çarpisma Kazandiginda] 2 Soguk Uygular</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] Hedefteki Soguk miktarina esit ek Hasar verir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902906">
-      <LocalizedName>Kar Fırtınası</LocalizedName>
-      <Behaviour ID="0">[Vurulduğunda] 3 Soğuk Uygular</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] 3 Soğuk Uygular</Behaviour>
+      <LocalizedName>Kar Firtinasi</LocalizedName>
+      <Behaviour ID="0">[Vuruldugunda] 3 Soguk Uygular</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] 3 Soguk Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902911">
-      <LocalizedName>Kristalleşme</LocalizedName>
+      <LocalizedName>Kristallesme</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Çarpışma Kaybettiğinde] Kendine 4 Hasar Verir</Behaviour>
-      <Behaviour ID="1">[Çarpışma Kaybettiğinde] Kendine 4 Hasar Verir</Behaviour>
-      <Behaviour ID="2">[Çarpışma Kaybettiğinde] Kendine 4 Hasar Verir</Behaviour>
+      <Behaviour ID="0">[Çarpisma Kaybettiginde] Kendine 4 Hasar Verir</Behaviour>
+      <Behaviour ID="1">[Çarpisma Kaybettiginde] Kendine 4 Hasar Verir</Behaviour>
+      <Behaviour ID="2">[Çarpisma Kaybettiginde] Kendine 4 Hasar Verir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902912">
-      <LocalizedName>Acı Soğuk</LocalizedName>
-      <Ability>[Kullanıldığında] 2 Sahne boyunca, isabet aldığında saldıran kişiye 5 Hasar Verir</Ability>
+      <LocalizedName>Aci Soguk</LocalizedName>
+      <Ability>[Kullanildiginda] 2 Sahne boyunca, isabet aldiginda saldiran kisiye 5 Hasar Verir</Ability>
     </BattleCardDesc>
 
     <BattleCardDesc ID="960301">
       <LocalizedName>Yutma</LocalizedName>
       <Ability />
-      <Behaviour ID="0">[Vurulduğunda] 7 Can Yeniler</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] 7 Can Yeniler</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] 7 Can Yeniler</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] 7 Can Yeniler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="960302">
-      <LocalizedName>Korkunç Gıcırtı</LocalizedName>
-      <Behaviour ID="0">[Vurulduğunda] Hedefe 4 Sersemletme Hasarı Verir</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] Hedefe 8 Sersemletme Hasarı Verir</Behaviour>
+      <LocalizedName>Korkunç Gicirti</LocalizedName>
+      <Behaviour ID="0">[Vuruldugunda] Hedefe 4 Sersemletme Hasari Verir</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Hedefe 8 Sersemletme Hasari Verir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="960303">
       <LocalizedName>Kusmuk</LocalizedName>
-      <Behaviour ID="0">[Vurulduğunda] Bu Sahnede 5 Kırılgan, 3 Zayıf ve 3 Silahsızlandır Uygular</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Bu Sahnede 5 Kirilgan, 3 Zayif ve 3 Silahsizlandir Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="960304">
-      <LocalizedName>Atılma</LocalizedName>
+      <LocalizedName>Atilma</LocalizedName>
       <Ability />
-      <Behaviour ID="0">[Vurulduğunda] Hedefe 10 Sersemletme Hasarı Verir ve 'Azaltılmış Sersemletme Direnci' Uygular; 20 Can Yeniler</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Hedefe 10 Sersemletme Hasari Verir ve 'Azaltilmis Sersemletme Direnci' Uygular; 20 Can Yeniler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="960311">
-      <LocalizedName>Acı Feryadı</LocalizedName>
+      <LocalizedName>Aci Feryadi</LocalizedName>
       <Ability />
-      <Behaviour ID="0">[Vurulduğunda] Hedefe 2 Sersemletme Hasarı Verir</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] Hedefe 2 Sersemletme Hasarı Verir</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Hedefe 2 Sersemletme Hasari Verir</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Hedefe 2 Sersemletme Hasari Verir</Behaviour>
     </BattleCardDesc>
 
     <BattleCardDesc ID="970321">
       <LocalizedName>Hadi, Birlikte…</LocalizedName>
-      <Ability>[Kullanıldığında] Sonraki Sahnede iki Kütüphaneciye 'Sarı Tuğlalı Yol' uygular</Ability>
+      <Ability>[Kullanildiginda] Sonraki Sahnede iki Kütüphaneciye 'Sari Tuglali Yol' uygular</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="970322">
-      <LocalizedName>Arkadaşlar! Eve Gidelim~!</LocalizedName>
+      <LocalizedName>Arkadaslar! Eve Gidelim~!</LocalizedName>
       <Ability>Yönlendirilemez</Ability>
-      <Behaviour ID="0">[Vurulduğunda] Hedefi Sersemletir. Saldırı 'Ev'e vurursa Savaş kaybedilir</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Hedefi Sersemletir. Saldiri 'Ev'e vurursa Savas kaybedilir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="970323">
-      <LocalizedName>Sen… Kötü Cadı!</LocalizedName>
-      <Ability>Herhangi bir Kütüphaneci vurulursa, 'Ev' sonraki Sahnede oluşur. Aksi takdirde, Kullanıcı sonraki Sahnede Sersemletilir ve 'Ev' sonraki Sahnede oluşur.</Ability>
+      <LocalizedName>Sen… Kötü Cadi!</LocalizedName>
+      <Ability>Herhangi bir Kütüphaneci vurulursa, 'Ev' sonraki Sahnede olusur. Aksi takdirde, Kullanici sonraki Sahnede Sersemletilir ve 'Ev' sonraki Sahnede olusur.</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="970324">
       <LocalizedName>Birlikte Oynama!</LocalizedName>
@@ -850,93 +850,93 @@
     <BattleCardDesc ID="970334">
       <LocalizedName>Gözetleme</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] Bu Sahnede 2 Kırılgan Uygular</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] Bu Sahnede 3 Kırılgan Uygular</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] Bu Sahnede 4 Kırılgan Uygular</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Bu Sahnede 2 Kirilgan Uygular</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Bu Sahnede 3 Kirilgan Uygular</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] Bu Sahnede 4 Kirilgan Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="970335">
       <LocalizedName>Kedi Kadar Gergin</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Çarpışma Kaybettiğinde] Kendine 10 Sersemletme Hasarı Verir</Behaviour>
-      <Behaviour ID="1">[Çarpışma Kaybettiğinde] Kendine 10 Sersemletme Hasarı Verir</Behaviour>
-      <Behaviour ID="2">[Çarpışma Kaybettiğinde] Kendine 10 Sersemletme Hasarı Verir</Behaviour>
+      <Behaviour ID="0">[Çarpisma Kaybettiginde] Kendine 10 Sersemletme Hasari Verir</Behaviour>
+      <Behaviour ID="1">[Çarpisma Kaybettiginde] Kendine 10 Sersemletme Hasari Verir</Behaviour>
+      <Behaviour ID="2">[Çarpisma Kaybettiginde] Kendine 10 Sersemletme Hasari Verir</Behaviour>
     </BattleCardDesc>
     
      <BattleCardDesc ID="950411">
       <LocalizedName>Grrhrrr!</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] Hedefe 1 Erozyon Uygular</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] Hedefe 1 Erozyon Uygular</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Hedefe 1 Erozyon Uygular</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Hedefe 1 Erozyon Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="950412">
       <LocalizedName>AAACK!!</LocalizedName>
-      <Ability>[Kullanıldığında] Kendine 10 Hasar Verir; Sonraki Sahnede 2 Güç Kazanır</Ability>
-      <Behaviour ID="0">[Vurulduğunda] Hedefe 2 Erozyon Uygular</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] Hedefe 2 Erozyon Uygular</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] Hedefe 1 Erozyon Uygular</Behaviour>
+      <Ability>[Kullanildiginda] Kendine 10 Hasar Verir; Sonraki Sahnede 2 Güç Kazanir</Ability>
+      <Behaviour ID="0">[Vuruldugunda] Hedefe 2 Erozyon Uygular</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Hedefe 2 Erozyon Uygular</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] Hedefe 1 Erozyon Uygular</Behaviour>
     </BattleCardDesc>
    <BattleCardDesc ID="950413">
       <LocalizedName>Aaah!</LocalizedName>
       <Ability></Ability>
-     <Behaviour ID="0">[Vurulduğunda] Hedefe 1 Erozyon Uygular</Behaviour>
-     <Behaviour ID="1">[Vurulduğunda] Hedefe 1 Erozyon Uygular</Behaviour>
+     <Behaviour ID="0">[Vuruldugunda] Hedefe 1 Erozyon Uygular</Behaviour>
+     <Behaviour ID="1">[Vuruldugunda] Hedefe 1 Erozyon Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="950414">
-      <LocalizedName>KÖTÜLÜĞÜN TEZAHÜRLERİ!!</LocalizedName>
-      <Behaviour ID="0">[Vurulduğunda] Hedefe 2 Erozyon Uygular</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] Hedefe 2 Erozyon Uygular</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] Hedefe 6 Erozyon Uygular</Behaviour>
+      <LocalizedName>KÖTÜLÜgÜN TEZAHÜRLERi!!</LocalizedName>
+      <Behaviour ID="0">[Vuruldugunda] Hedefe 2 Erozyon Uygular</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Hedefe 2 Erozyon Uygular</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] Hedefe 6 Erozyon Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="950421">
       <LocalizedName>Sakin Ol</LocalizedName>
-      <Ability>[Kullanıldığında] Münzevi'nin Asası 8 Can ve Sersemletme Direnci Yeniler</Ability>
-      <Behaviour ID="1">[Vurulduğunda] 8 Sersemletme Hasarı Verir</Behaviour>
+      <Ability>[Kullanildiginda] Münzevi'nin Asasi 8 Can ve Sersemletme Direnci Yeniler</Ability>
+      <Behaviour ID="1">[Vuruldugunda] 8 Sersemletme Hasari Verir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="950422">
       <LocalizedName>Huhuhu…</LocalizedName>
-      <Ability>[Kullanıldığında] Rastgele iki Münzevi'nin Asasına sonraki Sahnede 2 Güç ve Dayanıklılık verir</Ability>
+      <Ability>[Kullanildiginda] Rastgele iki Münzevi'nin Asasina sonraki Sahnede 2 Güç ve Dayaniklilik verir</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="950423">
-      <LocalizedName>Yol Açın</LocalizedName>
+      <LocalizedName>Yol Açin</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="950424">
-      <LocalizedName>Sevgili Yoldaş…!</LocalizedName>
+      <LocalizedName>Sevgili Yoldas…!</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] Hedefi Sersemletir ve onlara 1 'Asa' Uygular</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Hedefi Sersemletir ve onlara 1 'Asa' Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="950425">
-      <LocalizedName>Sen Düşeceksin…!</LocalizedName>
-      <Ability>Hedefteki 'Asa'nın 3 katı kadar Güç Kazanır</Ability>
+      <LocalizedName>Sen Düseceksin…!</LocalizedName>
+      <Ability>Hedefteki 'Asa'nin 3 kati kadar Güç Kazanir</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="950426">
-      <LocalizedName>Ayağa Kalkın!</LocalizedName>
-      <Ability>[Kullanıldığında] Sonraki Sahnede üç Münzevi'nin Asası belirir</Ability>
+      <LocalizedName>Ayaga Kalkin!</LocalizedName>
+      <Ability>[Kullanildiginda] Sonraki Sahnede üç Münzevi'nin Asasi belirir</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="950431">
-      <LocalizedName>Gıcırdama</LocalizedName>
+      <LocalizedName>Gicirdama</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="950432">
-      <LocalizedName>Çatırdama</LocalizedName>
+      <LocalizedName>Çatirdama</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
 
   <BattleCardDesc ID="990201">
-    <LocalizedName>Kaçınılmaz Ölüm</LocalizedName>
-    <Behaviour ID="0">Bu Zar, Maksimum Canın (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
-    <Behaviour ID="1">Bu Zar, Maksimum Canın (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
-    <Behaviour ID="2">Bu Zar, Maksimum Canın (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
+    <LocalizedName>Kaçinilmaz Ölüm</LocalizedName>
+    <Behaviour ID="0">Bu Zar, Maksimum Canin (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
+    <Behaviour ID="1">Bu Zar, Maksimum Canin (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
+    <Behaviour ID="2">Bu Zar, Maksimum Canin (Zar x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
   </BattleCardDesc>
   <BattleCardDesc ID="990202">
-    <LocalizedName>Zamanın Tepkisi</LocalizedName>
+    <LocalizedName>Zamanin Tepkisi</LocalizedName>
   </BattleCardDesc>
   <BattleCardDesc ID="990203">
-    <LocalizedName>Saat Akışı</LocalizedName>
+    <LocalizedName>Saat Akisi</LocalizedName>
   </BattleCardDesc>
   <BattleCardDesc ID="990204">
     <LocalizedName>Sessizlik</LocalizedName>
-    <Ability>[Kullanıldığında] Tüm Kütüphaneciler sonraki Sahnede Maksimum Canlarının %25'ini kaybeder; zaman sınırını sonraki Sahnede kaldırır</Ability>
+    <Ability>[Kullanildiginda] Tüm Kütüphaneciler sonraki Sahnede Maksimum Canlarinin %25'ini kaybeder; zaman sinirini sonraki Sahnede kaldirir</Ability>
   </BattleCardDesc>
 
 
@@ -948,185 +948,185 @@
   </BattleCardDesc>
   <BattleCardDesc ID="980221">
     <LocalizedName>Tokat</LocalizedName>
-    <Behaviour ID="0">[Vurulduğunda] Hedefin Sayfasındaki tüm Zarları kırar ve Sersemletir</Behaviour>
+    <Behaviour ID="0">[Vuruldugunda] Hedefin Sayfasindaki tüm Zarlari kirar ve Sersemletir</Behaviour>
   </BattleCardDesc>
   <BattleCardDesc ID="980222">
-    <LocalizedName>Kamçılama</LocalizedName>
-    <Behaviour ID="0">[Vurulduğunda] Sonraki Sahnede 1 sersemleme ve Bağlama Uygular</Behaviour>
-    <Behaviour ID="1">[Vurulduğunda] Sonraki Sahnede 1 sersemleme ve Bağlama Uygular</Behaviour>
-    <Behaviour ID="2">[Vurulduğunda] Sonraki Sahnede 1 sersemleme ve Bağlama Uygular</Behaviour>
+    <LocalizedName>Kamçilama</LocalizedName>
+    <Behaviour ID="0">[Vuruldugunda] Sonraki Sahnede 1 sersemleme ve Baglama Uygular</Behaviour>
+    <Behaviour ID="1">[Vuruldugunda] Sonraki Sahnede 1 sersemleme ve Baglama Uygular</Behaviour>
+    <Behaviour ID="2">[Vuruldugunda] Sonraki Sahnede 1 sersemleme ve Baglama Uygular</Behaviour>
   </BattleCardDesc>
   <BattleCardDesc ID="980223">
     <LocalizedName>Guguk</LocalizedName>
   </BattleCardDesc>
   <BattleCardDesc ID="980224">
-    <LocalizedName>Orman Muhafızı'nın Kilidi</LocalizedName>
-    <Ability>'Ceza!' ile Çarpışırken bir Zincir kırılır</Ability>
+    <LocalizedName>Orman Muhafizi'nin Kilidi</LocalizedName>
+    <Ability>'Ceza!' ile Çarpisirken bir Zincir kirilir</Ability>
   </BattleCardDesc>
     
   <BattleCardDesc ID="980311">
-    <LocalizedName>Yargı</LocalizedName>
-    <Ability>[Kullanıldığında] Hedefte 5+ 'Günah İşareti' varsa anında öldürür</Ability>
-    <Behaviour ID="0">[Vurulduğunda] Diğer tüm karakterler Maksimum Canlarının %20'si kadar hasar alır</Behaviour>
+    <LocalizedName>Yargi</LocalizedName>
+    <Ability>[Kullanildiginda] Hedefte 5+ 'Günah isareti' varsa aninda öldürür</Ability>
+    <Behaviour ID="0">[Vuruldugunda] Diger tüm karakterler Maksimum Canlarinin %20'si kadar hasar alir</Behaviour>
   </BattleCardDesc>
   <BattleCardDesc ID="980312">
-    <LocalizedName>Durmaksızın Yargı</LocalizedName>
-    <Ability>[Kullanıldığında] 3+ 'Günah İşareti' olan hedefler anında öldürülür</Ability>
-    <Behaviour ID="0">Bu Zar, Maksimum Canın (Zar Değeri x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
+    <LocalizedName>Durmaksizin Yargi</LocalizedName>
+    <Ability>[Kullanildiginda] 3+ 'Günah isareti' olan hedefler aninda öldürülür</Ability>
+    <Behaviour ID="0">Bu Zar, Maksimum Canin (Zar Degeri x 2)% 'si kadar Hasar verir (Dirençleri Yoksayar)</Behaviour>
     </BattleCardDesc>   
    <BattleCardDesc ID="980313">
     <LocalizedName>Bakma</LocalizedName>
   </BattleCardDesc>
   <BattleCardDesc ID="980321">
-    <LocalizedName>Korkuyla Kanat Çırpma</LocalizedName>
+    <LocalizedName>Korkuyla Kanat Çirpma</LocalizedName>
   </BattleCardDesc>  
   <BattleCardDesc ID="980322">
-    <LocalizedName>Delici Çığlık</LocalizedName>
-    <Behaviour ID="0">[Vurulduğunda] 5 Sersemletme Hasarı Verir</Behaviour>
-    <Behaviour ID="1">[Vurulduğunda] 5 Sersemletme Hasarı Verir</Behaviour>
+    <LocalizedName>Delici Çiglik</LocalizedName>
+    <Behaviour ID="0">[Vuruldugunda] 5 Sersemletme Hasari Verir</Behaviour>
+    <Behaviour ID="1">[Vuruldugunda] 5 Sersemletme Hasari Verir</Behaviour>
   </BattleCardDesc> 
 
   
   <BattleCardDesc ID="960411">
     <LocalizedName>Asil Dinlenme</LocalizedName>
-    <Ability>[Kullanıldığında] Kan Yarasa'sı yoksa, sonraki Sahnede bir tane belirir</Ability>
-    <Behaviour ID="0">[Saldırılmadığında] 5 Can Yeniler</Behaviour>
-    <Behaviour ID="1">[Saldırılmadığında] 5 Can Yeniler</Behaviour>
+    <Ability>[Kullanildiginda] Kan Yarasa'si yoksa, sonraki Sahnede bir tane belirir</Ability>
+    <Behaviour ID="0">[Saldirilmadiginda] 5 Can Yeniler</Behaviour>
+    <Behaviour ID="1">[Saldirilmadiginda] 5 Can Yeniler</Behaviour>
   </BattleCardDesc>
   <BattleCardDesc ID="960412">
-    <LocalizedName>Zarif Akşam Yemeği</LocalizedName>
-    <Ability>[Kullanıldığında] Sonraki Sahnede 1 Kan Kazanır</Ability>
-    <Behaviour ID="0">[Vurulduğunda] Sonraki Sahnede 1 Kan Kazanır</Behaviour>
-    <Behaviour ID="1">[Vurulduğunda] Sonraki Sahnede 1 Kan Kazanır</Behaviour>
+    <LocalizedName>Zarif Aksam Yemegi</LocalizedName>
+    <Ability>[Kullanildiginda] Sonraki Sahnede 1 Kan Kazanir</Ability>
+    <Behaviour ID="0">[Vuruldugunda] Sonraki Sahnede 1 Kan Kazanir</Behaviour>
+    <Behaviour ID="1">[Vuruldugunda] Sonraki Sahnede 1 Kan Kazanir</Behaviour>
   </BattleCardDesc>   
    <BattleCardDesc ID="960413">
-    <LocalizedName>Kızıl Yemek</LocalizedName>
-  <Ability>[Kullanıldığında] Sonraki Sahnede diğer 2 dosta 3 Koruma ve hız verir</Ability>
-    <Behaviour ID="1">[Çarpışma Kazandığında] Rakibin sonraki Zarının Gücünü 1 azaltır</Behaviour>
-    <Behaviour ID="2">[Vurulduğunda] Sonraki Sahnede 1 Kan Kazanır</Behaviour>
+    <LocalizedName>Kizil Yemek</LocalizedName>
+  <Ability>[Kullanildiginda] Sonraki Sahnede diger 2 dosta 3 Koruma ve hiz verir</Ability>
+    <Behaviour ID="1">[Çarpisma Kazandiginda] Rakibin sonraki Zarinin Gücünü 1 azaltir</Behaviour>
+    <Behaviour ID="2">[Vuruldugunda] Sonraki Sahnede 1 Kan Kazanir</Behaviour>
   </BattleCardDesc>
    <BattleCardDesc ID="960414">
     <LocalizedName>Susuzluk</LocalizedName>
-  <Ability>[Kullanıldığında] Sonraki Sahnede 2 Kan Kazanır</Ability>
-  <Behaviour ID="0">[Vurulduğunda] Hedefin Sayfasındaki tüm Zarları yok eder</Behaviour>
-  <Behaviour ID="1">[Vurulduğunda] 10 Can Yeniler; Sonraki Sahnede 2 Kan Kazanır</Behaviour>
-    <Behaviour ID="2">[Vurulduğunda] 10 Can Yeniler; Sonraki Sahnede 2 Kan Kazanır</Behaviour>
+  <Ability>[Kullanildiginda] Sonraki Sahnede 2 Kan Kazanir</Ability>
+  <Behaviour ID="0">[Vuruldugunda] Hedefin Sayfasindaki tüm Zarlari yok eder</Behaviour>
+  <Behaviour ID="1">[Vuruldugunda] 10 Can Yeniler; Sonraki Sahnede 2 Kan Kazanir</Behaviour>
+    <Behaviour ID="2">[Vuruldugunda] 10 Can Yeniler; Sonraki Sahnede 2 Kan Kazanir</Behaviour>
   </BattleCardDesc>
    <BattleCardDesc ID="960415">
     <LocalizedName>Kan Ziyafeti</LocalizedName>
-    <Ability>[Kullanıldığında] Sonraki Sahnede 5 Kan kaybeder</Ability>
-  <Behaviour ID="0">[Vurulduğunda] Hedefe 'Su Korkusu' Uygular ve tüm dostların Canını (7 + vurulan Hedef sayısı) kadar Yeniler</Behaviour>
+    <Ability>[Kullanildiginda] Sonraki Sahnede 5 Kan kaybeder</Ability>
+  <Behaviour ID="0">[Vuruldugunda] Hedefe 'Su Korkusu' Uygular ve tüm dostlarin Canini (7 + vurulan Hedef sayisi) kadar Yeniler</Behaviour>
   </BattleCardDesc>
   <BattleCardDesc ID="960431">
-    <LocalizedName>Yaklaşan Varlık</LocalizedName>
-    <Behaviour ID="0">[Çarpışma Kazandığında] 1 Zayıf Uygular</Behaviour>
-    <Behaviour ID="1">[Çarpışma Kazandığında] 1 Zayıf Uygular</Behaviour>
+    <LocalizedName>Yaklasan Varlik</LocalizedName>
+    <Behaviour ID="0">[Çarpisma Kazandiginda] 1 Zayif Uygular</Behaviour>
+    <Behaviour ID="1">[Çarpisma Kazandiginda] 1 Zayif Uygular</Behaviour>
   </BattleCardDesc>  
   <BattleCardDesc ID="960432">
-    <LocalizedName>Acımasız Jest</LocalizedName>
-    <Ability>[Kullanıldığında] Sonraki Sahnede 1 Kan kaybeder</Ability>
-    <Behaviour ID="0">[Vurulduğunda] Sonraki Sahnede 1 Kan Kazanır</Behaviour>
-    <Behaviour ID="1">[Vurulduğunda] Sonraki Sahnede 1 Kan Kazanır</Behaviour>
+    <LocalizedName>Acimasiz Jest</LocalizedName>
+    <Ability>[Kullanildiginda] Sonraki Sahnede 1 Kan kaybeder</Ability>
+    <Behaviour ID="0">[Vuruldugunda] Sonraki Sahnede 1 Kan Kazanir</Behaviour>
+    <Behaviour ID="1">[Vuruldugunda] Sonraki Sahnede 1 Kan Kazanir</Behaviour>
   </BattleCardDesc>    
   <BattleCardDesc ID="960433">
-    <LocalizedName>Şiddetli Jest</LocalizedName>
-    <Ability>[Kullanıldığında] Sonraki Sahnede 2 Kan kaybeder</Ability>
-    <Behaviour ID="0">[Çarpışma Kazandığında] Rakibin sonraki Zarının Gücünü 1 azaltır</Behaviour>
-    <Behaviour ID="1">[Çarpışma Kazandığında] Rakibin sonraki Zarının Gücünü 1 azaltır</Behaviour>
-    <Behaviour ID="2">[Vurulduğunda] 5 Can Yeniler; Sonraki Sahnede 3 Kan Kazanır; 8 Kırılgan Uygular</Behaviour>
+    <LocalizedName>siddetli Jest</LocalizedName>
+    <Ability>[Kullanildiginda] Sonraki Sahnede 2 Kan kaybeder</Ability>
+    <Behaviour ID="0">[Çarpisma Kazandiginda] Rakibin sonraki Zarinin Gücünü 1 azaltir</Behaviour>
+    <Behaviour ID="1">[Çarpisma Kazandiginda] Rakibin sonraki Zarinin Gücünü 1 azaltir</Behaviour>
+    <Behaviour ID="2">[Vuruldugunda] 5 Can Yeniler; Sonraki Sahnede 3 Kan Kazanir; 8 Kirilgan Uygular</Behaviour>
   </BattleCardDesc>    
   <BattleCardDesc ID="960434">
-    <LocalizedName>Dayanılmaz Kuraklık</LocalizedName>
-    <Behaviour ID="0">[Vurulduğunda] Hedefin Sayfasındaki tüm Zarları yok eder</Behaviour>
-    <Behaviour ID="1">[Vurulduğunda] 8 Can Yeniler; Sonraki Sahnede 2 Kan Kazanır</Behaviour>
-    <Behaviour ID="2">[Vurulduğunda] 8 Can Yeniler; Sonraki Sahnede 2 Kan Kazanır</Behaviour>
+    <LocalizedName>Dayanilmaz Kuraklik</LocalizedName>
+    <Behaviour ID="0">[Vuruldugunda] Hedefin Sayfasindaki tüm Zarlari yok eder</Behaviour>
+    <Behaviour ID="1">[Vuruldugunda] 8 Can Yeniler; Sonraki Sahnede 2 Kan Kazanir</Behaviour>
+    <Behaviour ID="2">[Vuruldugunda] 8 Can Yeniler; Sonraki Sahnede 2 Kan Kazanir</Behaviour>
   </BattleCardDesc>  
   <BattleCardDesc ID="960435">
-    <LocalizedName>Kan Şehveti</LocalizedName>
-    <Ability>[Kullanıldığında] Tüm dostlar sonraki Sahnede 1 Güç Kazanır</Ability>
-    <Behaviour ID="0">[Vurulduğunda] 'Su Korkusu' Uygular; sonraki Sahnede 2 Zayıf ve Kırılgan Uygular</Behaviour>
+    <LocalizedName>Kan sehveti</LocalizedName>
+    <Ability>[Kullanildiginda] Tüm dostlar sonraki Sahnede 1 Güç Kazanir</Ability>
+    <Behaviour ID="0">[Vuruldugunda] 'Su Korkusu' Uygular; sonraki Sahnede 2 Zayif ve Kirilgan Uygular</Behaviour>
   </BattleCardDesc>  
  <BattleCardDesc ID="960421">
     <LocalizedName>Kan Emici</LocalizedName>
-    <Ability>Hız 5 veya daha fazlaysa, Bu Sayfadaki tüm Zarlar +2 Güç Kazanır</Ability>
-  <Behaviour ID="2">[Vurulduğunda] Sonraki Sahnede 1 Kan Kazanır; 2 Kanama Uygular</Behaviour>
+    <Ability>Hiz 5 veya daha fazlaysa, Bu Sayfadaki tüm Zarlar +2 Güç Kazanir</Ability>
+  <Behaviour ID="2">[Vuruldugunda] Sonraki Sahnede 1 Kan Kazanir; 2 Kanama Uygular</Behaviour>
   </BattleCardDesc>  
   <BattleCardDesc ID="960422">
-    <LocalizedName>Dişleri Geçirme</LocalizedName>
-    <Ability>Hız 5 veya daha fazlaysa, Bu Sayfadaki tüm Zarlar +2 Güç Kazanır</Ability>
-  <Behaviour ID="0">[Vurulduğunda] 2 Kanama Uygular</Behaviour>
-  <Behaviour ID="1">[Vurulduğunda] 2 Kanama Uygular</Behaviour>
+    <LocalizedName>Disleri Geçirme</LocalizedName>
+    <Ability>Hiz 5 veya daha fazlaysa, Bu Sayfadaki tüm Zarlar +2 Güç Kazanir</Ability>
+  <Behaviour ID="0">[Vuruldugunda] 2 Kanama Uygular</Behaviour>
+  <Behaviour ID="1">[Vuruldugunda] 2 Kanama Uygular</Behaviour>
   </BattleCardDesc>    
   <BattleCardDesc ID="960423">
-    <LocalizedName>İstekli Susuzluk</LocalizedName>
-    <Ability>Hız 5 veya daha fazlaysa, Bu Sayfadaki tüm Zarlar +2 Güç Kazanır</Ability>
-  <Behaviour ID="1">[Vurulduğunda] 5 Can Yeniler; Sonraki Sahnede 3 Kan Kazanır; 4 Kırılgan Uygular</Behaviour>
+    <LocalizedName>istekli Susuzluk</LocalizedName>
+    <Ability>Hiz 5 veya daha fazlaysa, Bu Sayfadaki tüm Zarlar +2 Güç Kazanir</Ability>
+  <Behaviour ID="1">[Vuruldugunda] 5 Can Yeniler; Sonraki Sahnede 3 Kan Kazanir; 4 Kirilgan Uygular</Behaviour>
   </BattleCardDesc>
 
     <BattleCardDesc ID="970411">
       <LocalizedName>Hayat Tozu</LocalizedName>
-      <Ability>[Kullanıldığında] Sonraki Sahnede tüm 'Jack'leri uyandırır</Ability>
+      <Ability>[Kullanildiginda] Sonraki Sahnede tüm 'Jack'leri uyandirir</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="970412">
-      <LocalizedName>Solmuş Anılar</LocalizedName>
-      <Ability>[Kullanıldığında] Hedefe 'Unutkanlık' Uygular</Ability>
+      <LocalizedName>Solmus Anilar</LocalizedName>
+      <Ability>[Kullanildiginda] Hedefe 'Unutkanlik' Uygular</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="970413">
-      <LocalizedName>Balkabağı</LocalizedName>
+      <LocalizedName>Balkabagi</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="1">[Vurulduğunda] Sonraki Sahnede 3 sersemleme ve Bağlama Uygular</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Sonraki Sahnede 3 sersemleme ve Baglama Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="970414">
       <LocalizedName>Engelleme</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="970415">
-      <LocalizedName>Mahrum Edilmişin Acısı</LocalizedName>
-      <Behaviour ID="0">[Vurulduğunda] Bu Sahnede 2 Zayıf Uygular</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] Bu Sahnede 1 Zayıf Uygular</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] Bu Sahnede 1 Zayıf Uygular</Behaviour>
+      <LocalizedName>Mahrum Edilmisin Acisi</LocalizedName>
+      <Behaviour ID="0">[Vuruldugunda] Bu Sahnede 2 Zayif Uygular</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Bu Sahnede 1 Zayif Uygular</Behaviour>
+      <Behaviour ID="2">[Vuruldugunda] Bu Sahnede 1 Zayif Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="970416">
-      <LocalizedName>Mahrum Edilmişin Kederi</LocalizedName>
+      <LocalizedName>Mahrum Edilmisin Kederi</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="970421">
       <LocalizedName>?!?!</LocalizedName>
-      <Ability>Hiçbir şey hatırlayamıyorum!</Ability>
+      <Ability>Hiçbir sey hatirlayamiyorum!</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="970422">
-      <LocalizedName>Unutkanlık</LocalizedName>
+      <LocalizedName>Unutkanlik</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
 
     <BattleCardDesc ID="990311">
-      <LocalizedName>Yıldızın Sesi</LocalizedName>
-      <Ability>[Kullanıldığında] Dostlar 10 Sersemletme Direnci Yeniler</Ability>
-      <Behaviour ID="0">[Vurulduğunda] Hedefin Sersemletme Direncini sonraki Sahnede "Ölümcül" olarak değiştirir</Behaviour>
+      <LocalizedName>Yildizin Sesi</LocalizedName>
+      <Ability>[Kullanildiginda] Dostlar 10 Sersemletme Direnci Yeniler</Ability>
+      <Behaviour ID="0">[Vuruldugunda] Hedefin Sersemletme Direncini sonraki Sahnede "Ölümcül" olarak degistirir</Behaviour>
     </BattleCardDesc>
 
     <BattleCardDesc ID="990321">
-      <LocalizedName>Yıldız İçin…</LocalizedName>
+      <LocalizedName>Yildiz için…</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="990322">
-      <LocalizedName>İnancımız Asla Yanılmaz</LocalizedName>
+      <LocalizedName>inancimiz Asla Yanilmaz</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="1">[Vurulduğunda] Sonraki Sahnede 3 sersemleme Uygular</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] Sonraki Sahnede 3 sersemleme Uygular</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="990323">
-      <LocalizedName>Hepimiz Günahkarız</LocalizedName>
+      <LocalizedName>Hepimiz Günahkariz</LocalizedName>
       <Ability></Ability>
-       <Behaviour ID="2">[Çarpışma Kazandığında] 5 Sersemletme Direnci Yeniler</Behaviour>
+       <Behaviour ID="2">[Çarpisma Kazandiginda] 5 Sersemletme Direnci Yeniler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="990324">
-      <LocalizedName>Yıldızın Sesini Dinle!</LocalizedName>
+      <LocalizedName>Yildizin Sesini Dinle!</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] 3 Sersemletme Hasarı Verir</Behaviour>
-      <Behaviour ID="1">[Vurulduğunda] 3 Sersemletme Hasarı Verir</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] 3 Sersemletme Hasari Verir</Behaviour>
+      <Behaviour ID="1">[Vuruldugunda] 3 Sersemletme Hasari Verir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="990325">
-      <LocalizedName>Yakında Yıldız Olacağız!!</LocalizedName>
+      <LocalizedName>Yakinda Yildiz Olacagiz!!</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] Bu karakter ölür. Hedefin Sersemletme Direncini sonraki Sahnede "Ölümcül" olarak değiştirir</Behaviour>
+      <Behaviour ID="0">[Vuruldugunda] Bu karakter ölür. Hedefin Sersemletme Direncini sonraki Sahnede "Ölümcül" olarak degistirir</Behaviour>
     </BattleCardDesc>
   </cardDescList>
 </BattleCardDescRoot>
