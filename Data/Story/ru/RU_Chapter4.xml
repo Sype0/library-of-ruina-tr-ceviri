@@ -5859,10 +5859,10 @@
 					<Content />
 				</Dialog>
 				<Dialog ID="1" Model="미야오">
-					<Teller>Meow</Teller>
+					<Teller>Miyav</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_meow1</VoiceFile>
-					<Content>Esne~ Bugünkü performans pek iyi gitmedi.</Content>
+					<Content>Ahh~ Bugünkü performans pek iyi gitmedi.</Content>
 				</Dialog>
 				<Dialog ID="2" Model="무무">
 					<Teller>MuMu</Teller>
@@ -5883,7 +5883,7 @@
 					<Content>Hadi ama, dostum... Elimden geleni yapıyorum.</Content>
 				</Dialog>
 				<Dialog ID="5" Model="미야오">
-					<Teller>Meow</Teller>
+					<Teller>Miyav</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_meow2</VoiceFile>
 					<Content>Hala Heehaw'ın söylediklerine mi sinirlisin?</Content>
@@ -5907,7 +5907,7 @@
 					<Content>Oink! Tüm endişelerini heyecan verici müzikle üzerinden at~</Content>
 				</Dialog>
 				<Dialog ID="9" Model="미야오">
-					<Teller>Meow</Teller>
+					<Teller>Miyav</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_meow3</VoiceFile>
 					<Content>Oink, eğer böyle küçük şeylerle dikkatin dağılmaya devam ederse ve üzerine düşeni yapmazsan, seni enstrümanım olarak kullanacağım.</Content>
@@ -5919,25 +5919,25 @@
 					<Content>Ben de katılıyorum~</Content>
 				</Dialog>
 				<Dialog ID="11" Model="미야오">
-					<Teller>Meow</Teller>
+					<Teller>Miyav</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_meow4</VoiceFile>
 					<Content>Küçük düşüncelerin performansımızı bozmasına izin veremeyiz.</Content>
 				</Dialog>
 				<Dialog ID="12" Model="미야오">
-					<Teller>Meow</Teller>
+					<Teller>Miyav</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_meow5</VoiceFile>
 					<Content>Siz hala yenisiniz, ama benim zamanımda performans sergilemek için ne tür zorluklardan geçtiğimizi hayal bile edemezsiniz~</Content>
 				</Dialog>
 				<Dialog ID="13" Model="미야오">
-					<Teller>Meow</Teller>
+					<Teller>Miyav</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_meow6 (2)</VoiceFile>
-					<Content>Doodle-doo, Wood, Heehaw ve ben bu grubu kurduk ve tüm zamanımızı müziğe adadık, böylece o kader dolu günde duyduğumuz o güzel, inanılmaz derecede güzel performansı yeniden yaratabilecektik!</Content>
+					<Content>Doodle-doo, Wood, Heehaw ve ben bu grubu kurduk ve tüm zamanımızı müziğe adadık, böylece o kader dolu günde duyduğumuz o güzel, inanılmaz derecede mükemmel performansı yeniden yaratabilecektik!</Content>
 				</Dialog>
 				<Dialog ID="14" Model="미야오">
-					<Teller>Meow</Teller>
+					<Teller>Miyav</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_meow7</VoiceFile>
 					<Content>Bu yüzden boş boş bakmayı bırak ve müziğe odaklan!</Content>
@@ -5967,19 +5967,19 @@
 					<Content>Evet~ Tüm Şehir'de yankılanan o büyüleyici melodiyi hatırla.</Content>
 				</Dialog>
 				<Dialog ID="19" Model="미야오">
-					<Teller>Meow</Teller>
+					<Teller>Miyav</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_meow8 (2)</VoiceFile>
 					<Content>Yüz bin insandan yapılmış o büyük ve görkemli piyano...</Content>
 				</Dialog>
 				<Dialog ID="20" Model="미야오">
-					<Teller>Meow</Teller>
+					<Teller>Miyav</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_meow9</VoiceFile>
 					<Content>Her bir tendon vuruşuyla yaratılan büyüleyici ses.</Content>
 				</Dialog>
 				<Dialog ID="21" Model="미야오">
-					<Teller>Meow</Teller>
+					<Teller>Miyav</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_meow10</VoiceFile>
 					<Content>Bana, doğru sanatçının ellerinde bir insanın yapabileceği o güzel sesi fark ettirdi~</Content>
@@ -5997,55 +5997,55 @@
 					<Content>O yoğun konserin sonunda, Düzeltici'ler piyano ile birleşti ve müziği özümsediler. Keşke orada olsaydım...</Content>
 				</Dialog>
 				<Dialog ID="24" Model="미야오">
-					<Teller>Meow</Teller>
+					<Teller>Miyav</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_meow11</VoiceFile>
 					<Content>Ehem, performansı olay yerinde gözlemleyen biri olarak konuşuyorum, sonu çoooook inanılmazdı, biliyor musun?</Content>
 				</Dialog>
 				<Dialog ID="25" Model="미яо">
-					<Teller>Meow</Teller>
+					<Teller>Miyav</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_meow12 (2)</VoiceFile>
 					<Content>Müzik notaları ve notalar kelimenin tam anlamıyla gözlerimin önünde dağıldı~</Content>
 				</Dialog>
 				<Dialog ID="26" Model="미야오">
-					<Teller>Meow</Teller>
+					<Teller>Miyav</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_meow13</VoiceFile>
 					<Content>Düzeltici'ler notaların yanında koşuyor ve Piyanist'e doğru hücum ediyorlardı...</Content>
 				</Dialog>
 				<Dialog ID="27" Model="미야오">
-					<Teller>Meow</Teller>
+					<Teller>Miyav</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_meow14 (2)</VoiceFile>
 					<Content>Tek tek notaların altına gömüldüler, vücutları patladı...</Content>
 				</Dialog>
 				<Dialog ID="28" Model="미야오">
-					<Teller>Meow</Teller>
+					<Teller>Miyav</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_meow15 (2)</VoiceFile>
 					<Content>Ama orada ölemediler; piyanonun bir parçası oldular, hoş kokulu notalar saçtılar.</Content>
 				</Dialog>
         <Dialog ID="29" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow16</VoiceFile>
           <Content>Ve ayakta kalan son Düzeltici, vücudundan yayılan güzel kırmızı notalar gibi hayal edilebilecek en muhteşem sesi çıkararak özenle parçalandı.</Content>
         </Dialog>
         <Dialog ID="30" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow17 (2)</VoiceFile>
           <Content>Evet... O performans... Beni delip geçen o ilahi müzik...</Content>
         </Dialog>
         <Dialog ID="31" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow18</VoiceFile>
           <Content>Ama sonra Kara Sessizlik araya girdi ve Piyanist'in elleriyle kafasını kesti. Havanın cılkını çıkardı.</Content>
         </Dialog>
         <Dialog ID="32" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow19</VoiceFile>
           <Content>Ben de o performansın bir parçası olmak isterdim~</Content>
@@ -6075,25 +6075,25 @@
           <Content>Ve Heehaw ve Doodle-doo... o şeyleri söylediler...</Content>
         </Dialog>
         <Dialog ID="37" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow20 (2)</VoiceFile>
           <Content>Hayır, Oink... Bu kadar sabırsız olmaya gerek yok.</Content>
         </Dialog>
         <Dialog ID="38" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow21 (2)</VoiceFile>
           <Content>Piyanist'in yaptığı gibi performans sergilemeden önce gidecek uzun bir yolumuz olduğu doğru...</Content>
         </Dialog>
         <Dialog ID="39" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow22</VoiceFile>
           <Content>Ama yaklaşıyoruz, görmüyor musun? Performansımıza her gün tüm kalbimizi ve ruhumuzu koyarsak, bir gün yapabileceğiz...</Content>
         </Dialog>
         <Dialog ID="40" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow23</VoiceFile>
           <Content>Doodle-doo, Heehaw ve Woof'un performansı harikaydı, değil mi?</Content>
@@ -6117,22 +6117,22 @@
           <Content>Şeydi... Biz de bir gün böyle performans sergileyebilecek miyiz?</Content>
         </Dialog>
         <Dialog ID="44" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow24 (2)</VoiceFile>
           <Content>Elbette~ Bu performansı bitirip Heehaw'ın bize verdiği Kütüphane işini hallettikten sonra tekrar konuşalım.</Content>
         </Dialog>
         <Dialog ID="45" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow25</VoiceFile>
           <Content>Şimdiye kadarkilerin en büyüğü olacak bir performans olacağını söyledi.</Content>
         </Dialog>
         <Dialog ID="46" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow26</VoiceFile>
-          <Content>Ve Kütüphane'de yepyeni enstrümanlar bulabileceğimizi, biliyor musun?</Content>
+          <Content>Ve Kütüphane'de yepyeni enstrümanlar bulabileceğimizi biliyor musun?</Content>
         </Dialog>
         <Dialog ID="47" Model="오잉크">
           <Teller>Oink</Teller>
@@ -6141,13 +6141,13 @@
           <Content>Evet... Heehaw'ın bahsettiği performansı görmek için heyecanlıyım...</Content>
         </Dialog>
         <Dialog ID="48" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow27</VoiceFile>
           <Content>Dur bakayım... Aha!</Content>
         </Dialog>
         <Dialog ID="49" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow28</VoiceFile>
           <Content>Bir dahaki sefere bir süpermarkette performans sergilemeye ne dersiniz~? Oink süpermarketleri sever, değil mi?</Content>
@@ -6162,10 +6162,10 @@
           <Teller>Oink</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_oink12</VoiceFile>
-          <Content>Teşekkürler, Meow... Teşekkürler, MuMu... Daha sıkı pratik yapacağım!</Content>
+          <Content>Teşekkürler, Miyav... Teşekkürler, MuMu... Daha sıkı pratik yapacağım!</Content>
         </Dialog>
         <Dialog ID="52" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow29 (2)</VoiceFile>
           <Content>Güzel! Hazır olun millet!</Content>
@@ -6195,7 +6195,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch4_Bremen_ep1_angela2</VoiceFile>
-          <Content>Hiç de değil. O tür müziği yeterince kereden fazla dinledim.</Content>
+          <Content>Hiç de değil. O tür müziği yeterince fazla dinledim.</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑">
           <Teller>Roland</Teller>
@@ -6243,7 +6243,7 @@
       <Place>
         <PlaceName>Mekan: Kütüphane Girişi</PlaceName>
         <Dialog ID="64" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow29-01</VoiceFile>
           <Content>Kedi der kii~!</Content>
@@ -6252,10 +6252,10 @@
           <Teller>Oink ve MuMu</Teller>
           <Title>Bremen Müzisyenleri</Title>
           <VoiceFile>ch4_Bremen_ep1_oinkmumu1</VoiceFile>
-          <Content>Meow~ Meow~</Content>
+          <Content>Miyav~ Miyav~</Content>
         </Dialog>
         <Dialog ID="66" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow30 (2)</VoiceFile>
           <Content>Domuz der kii~!</Content>
@@ -6267,7 +6267,7 @@
           <Content>Oinkie~ Oink~</Content>
         </Dialog>
         <Dialog ID="68" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow32</VoiceFile>
           <Content>Tavşan der kii~!</Content>
@@ -6291,7 +6291,7 @@
           <Content>Hoş geldiniz, sevgili konuklar. Ben direktör—</Content>
         </Dialog>
         <Dialog ID="72" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow33</VoiceFile>
           <Content>MuMu~! Cesaretin kırılmasın.</Content>
@@ -6309,7 +6309,7 @@
           <Content>O zaman bir tane yaratabiliriz...!</Content>
         </Dialog>
         <Dialog ID="75" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow33-01</VoiceFile>
           <Content>İyi fikir!</Content>
@@ -6327,7 +6327,7 @@
           <Content>Ne kadar saçmalık.</Content>
         </Dialog>
         <Dialog ID="78" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow35 (2)</VoiceFile>
           <Content>Neden öyle dikiliyorsun, mavi saçlı? Bizi içeri almayacak mısın?</Content>
@@ -6345,10 +6345,10 @@
           <Content>Ne?</Content>
         </Dialog>
         <Dialog ID="81" Model="미야오">
-          <Teller>Meow</Teller>
+          <Teller>Miyav</Teller>
           <Title>Bremen Müzisyeni</Title>
           <VoiceFile>ch4_Bremen_ep1_meow36</VoiceFile>
-          <Content>Hahahaha, sadece ona bak~ Onun da kırmızı kanı var mı?</Content>
+          <Content>Hahahaha, sadece ona bak~ Onun da kırmızı kanı var...</Content>
         </Dialog>
         <Dialog ID="82" Model="오잉크">
           <Teller>Oink</Teller>
@@ -6555,7 +6555,7 @@
           <Teller>Oscar</Teller>
           <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar3</VoiceFile>
-          <Content>Yardım edemediğimiz için üzgünüm. 12. Bölge sokaklarında bir Çarpıtma vakasıyla uğraşmakla meşguldük.</Content>
+          <Content>Yardım edemediğimiz için üzgünüm. 12. Bölge sokaklarında bir bozulma vakasıyla uğraşmakla meşguldük.</Content>
         </Dialog>
         <Dialog ID="21" Model="오스카">
           <Teller>Oscar</Teller>
@@ -6615,7 +6615,7 @@
           <Teller>Pamela</Teller>
           <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pamela9 (2)</VoiceFile>
-          <Content>Ofisinizin olup olmadığını kontrol etmelisin. Çeşitli koşullara sahip birçok sigorta türü var.</Content>
+          <Content>Sigortanız olup olmadığını kontrol etmelisin. Çeşitli koşullara sahip birçok sigorta türü var.</Content>
         </Dialog>
         <Dialog ID="31" Model="파멜İ">
           <Teller>Pameli</Teller>
@@ -6669,19 +6669,19 @@
           <Teller>Philip</Teller>
           <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip11-01</VoiceFile>
-          <Content>İltifat ediyorsunuz, efendim...</Content>
+          <Content>Teşekkürler, efendim...</Content>
         </Dialog>
         <Dialog ID="40" Model="오스카">
           <Teller>Oscar</Teller>
           <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar7</VoiceFile>
-          <Content>Philip. ‘Kütüphane'nin Çarpıtma Fenomeni ile bir şekilde bağlantılı görünüp görünmediği hakkında bir fikrin var mı?</Content>
+          <Content>Philip. ‘Kütüphane'nin bozulma Fenomeni ile bir şekilde bağlantılı görünüp görünmediği hakkında bir fikrin var mı?</Content>
         </Dialog>
         <Dialog ID="41" Model="필립">
           <Teller>Philip</Teller>
           <Title>Eski Şafak Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_philip12-01</VoiceFile>
-          <Content>Emin değilim. Çarpıtma'yı bizzat deneyimlemedim.</Content>
+          <Content>Emin değilim. bozulma'yı bizzat deneyimlemedim.</Content>
         </Dialog>
         <Dialog ID="42" Model="필립">
           <Teller>Philip</Teller>
@@ -6711,7 +6711,7 @@
           <Teller>Oscar</Teller>
           <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar10</VoiceFile>
-          <Content>Sadece Birlikler değil; Kanatlar ve Parmaklar bile Çarpıtma konusunda ne yapacaklarına dair hiçbir fikre sahip değiller.</Content>
+          <Content>Sadece Birlikler değil; Kanatlar ve Parmaklar bile bozulma konusunda ne yapacaklarına dair hiçbir fikre sahip değiller.</Content>
         </Dialog>
         <Dialog ID="47" Model="필립">
           <Teller>Philip</Teller>
@@ -6729,7 +6729,7 @@
           <Teller>Oscar</Teller>
           <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar13-01</VoiceFile>
-          <Content>Tüm bu Çarpıtma meselesini unutup meslektaşlarının kitaplarını geri almak için Kütüphane'ye geri dönmek istiyor olmalısın.</Content>
+          <Content>Tüm bu bozulma meselesini unutup meslektaşlarının kitaplarını geri almak için Kütüphane'ye geri dönmek istiyor olmalısın.</Content>
         </Dialog>
         <Dialog ID="50" Model="필립">
           <Teller>Philip</Teller>
@@ -6801,7 +6801,7 @@
           <Teller>Oscar</Teller>
           <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar20-01</VoiceFile>
-          <Content>Ve Kütüphane'ye gitmek, eski arkadaşımın ölümünün sorumluluğunu üstlenmek için yapabileceğim en az şey.</Content>
+          <Content>Ve Kütüphane'ye gitmek, eski arkadaşımın ölümünün sorumluluğunu üstlenmek için yapabileceğim tek şey.</Content>
         </Dialog>
         <Dialog ID="62" Model="오스카">
           <Teller>Oscar</Teller>

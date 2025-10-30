@@ -816,7 +816,7 @@ Zar Gücü +1. Maksimum  Sersemleme Direncini %50 azalt.</AbilityDesc>
       <Abnormality>Porccubus</Abnormality>
       <CardName>Gülme Tozu</CardName>
       <AbilityDesc>[Tüm Müttefikler]
-Vuruldugunda, karakter  sersemlemiş degilse 2-4  Sersemleme Direnci iyilestirir.</AbilityDesc>
+Vuruldugunda, karakter  sersemlemis degilse 2-4  Sersemleme Direnci iyilestirir.</AbilityDesc>
       <FlaborText>Dikenlerden düsen toz dünyaya yayildiginda, insanlar sarhosluga batabilirdi.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Kafan yakinda mutlulukla dolacak.</Dialogue>
@@ -2132,7 +2132,7 @@ Ele 'sehit' Sayfasi ekle: 'Maliyet 0 - [Kullanildiginda] Bu Sahne boyunca, saldi
       <Abnormality>Mavi Yildiz</Abnormality>
       <CardName>Kefaret</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
-Bir Sahnenin basinda  sersemlemiş herhangi bir karakter varsa, 3-7 Hasar alir ve tüm müttefikler Sahne boyunca 1 Güç kazanir. (Birden fazla  sersemlemiş karakter daha fazla Güç vermez)</AbilityDesc>
+Bir Sahnenin basinda  sersemlemis herhangi bir karakter varsa, 3-7 Hasar alir ve tüm müttefikler Sahne boyunca 1 Güç kazanir. (Birden fazla  sersemlemis karakter daha fazla Güç vermez)</AbilityDesc>
       <FlaborText>Mavi Yildizimiz bizi kabul eden tek siginaktir. Burada tüm günahlarimizdan arinacagiz.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Bu kirli kabugu tamamen çikaralim ve parlak bir sekilde parlayalim.</Dialogue>
@@ -2187,7 +2187,7 @@ Eger seçilen Kütüphaneci ayni zamanda 'Vaftiz' Anormallik Sayfasina sahipse, 
       <Abnormality>Beyaz Gece</Abnormality>
       <CardName>itiraf</CardName>
       <AbilityDesc>[Tüm Müttefikler]
- Sersemleme Direncini tamamen iyilestirir ve tüm durum etkilerini kaldirir. ( sersemlemiş Kütüphaneciler için de geçerlidir)
+ Sersemleme Direncini tamamen iyilestirir ve tüm durum etkilerini kaldirir. ( sersemlemis Kütüphaneciler için de geçerlidir)
 Kabul süresi boyunca, saldirilardan 2 daha az  Sersemleme Hasari al.</AbilityDesc>
       <FlaborText>Aciya katlanmaya istekli olmak, kefaretin yarisidir.</FlaborText>
       <Dialogues>
@@ -2215,30 +2215,30 @@ Bu karakter Kabul sonunda hayattaysa, yenilen her Misafir için 1 ek Kitap kazan
 <AbnormalityCard ID="WhiteNight_White">
       <Abnormality>BeyazGece</Abnormality>
       <CardName>İlahi Güç</CardName>
-      <AbilityDesc>[Yalnızca Bir Müttefik]
-Bu karakter hayatta olduğu sürece, tüm müttefikler her Sahne 2 Koruma kazanır.
-Bu karakter Beyaz Gece'nin E.G.O. Sayfasını kullandıysa, müttefikler ayrıca saldırılardan 3 daha az Hasar alır.</AbilityDesc>
-      <FlaborText>“Korkmayın. Ben kurtarıcıyım ve sizinle olacağım.”</FlaborText>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bu karakter hayatta oldugu sürece, tüm müttefikler her Sahne 2 Koruma kazanir.
+Bu karakter Beyaz Gece'nin E.G.O. Sayfasini kullandiysa, müttefikler ayrica saldirilardan 3 daha az Hasar alir.</AbilityDesc>
+      <FlaborText>“Korkmayin. Ben kurtariciyim ve sizinle olacagim.”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Korkma. Hiçbir felaket seni rahatsız edemez.</Dialogue>
-        <Dialogue ID="2">Kirlilikten arınmış yeni bir bedene kavuşacaksın; kimse bunun kurtuluş olduğunu inkâr edemez.</Dialogue>
-        <Dialogue ID="3">Bana inan ve sonsuza dek karanlığın dışında kal.</Dialogue>
-        <Dialogue ID="4">Sana saygı duyulacak, çünkü ben ilahiyim.</Dialogue>
+        <Dialogue ID="1">Korkma. Hiçbir felaket seni rahatsiz edemez.</Dialogue>
+        <Dialogue ID="2">Kirlilikten arinmis yeni bir bedene kavusacaksin; kimse bunun kurtulus oldugunu inkâr edemez.</Dialogue>
+        <Dialogue ID="3">Bana inan ve sonsuza dek karanligin disinda kal.</Dialogue>
+        <Dialogue ID="4">Sana saygi duyulacak, çünkü ben ilahiyim.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="WhiteNight_Apostle">
       <Abnormality>BeyazGece</Abnormality>
       <CardName>Havariler</CardName>
-      <AbilityDesc>[Yalnızca Bir Müttefik]
-Bu karakter hayatta olduğu sürece, tüm müttefikler saldırılarıyla +2-7 Hasar verir.
-Karakter bu Resepsiyon'da 'Vaftiz'i 12 veya daha fazla kez kullandıysa, müttefikler ayrıca +1 Güç kazanır.</AbilityDesc>
-      <FlaborText>“On ikinizi ben seçmedim mi? Şimdi kalkın, hizmetkârlarım. Kalkın ve bana hizmet edin.”</FlaborText>
+      <AbilityDesc>[Yalnizca Bir Müttefik]
+Bu karakter hayatta oldugu sürece, tüm müttefikler saldirilariyla +2-7 Hasar verir.
+Karakter bu Resepsiyon'da 'Vaftiz'i 12 veya daha fazla kez kullandiysa, müttefikler ayrica +1 Güç kazanir.</AbilityDesc>
+      <FlaborText>“On ikinizi ben seçmedim mi? simdi kalkin, hizmetkârlarim. Kalkin ve bana hizmet edin.”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Barış ve kutsallık arayın. Bunlar olmadan beni göremezsiniz.</Dialogue>
+        <Dialogue ID="1">Baris ve kutsallik arayin. Bunlar olmadan beni göremezsiniz.</Dialogue>
         <Dialogue ID="2">Sonuna kadar dayananlar takip edebileceklerdir.</Dialogue>
-        <Dialogue ID="3">Lütfumu kabul et ve hatalarını geçmişe gömeyim.</Dialogue>
-        <Dialogue ID="4">Bana itaat edin ve sonsuz neşe ve mutlulukla zevk alın.</Dialogue>
+        <Dialogue ID="3">Lütfumu kabul et ve hatalarini geçmise gömeyim.</Dialogue>
+        <Dialogue ID="4">Bana itaat edin ve sonsuz nese ve mutlulukla zevk alin.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
   </Sephirah>
@@ -2248,7 +2248,7 @@ Karakter bu Resepsiyon'da 'Vaftiz'i 12 veya daha fazla kez kullandıysa, müttef
     <AbnormalityCard ID="Enemy_Fight">
       <Abnormality></Abnormality>
       <CardName>???</CardName>
-      <AbilityDesc>Bir Sahnenin başlangıcında 1 Güç kazanır.</AbilityDesc>
+      <AbilityDesc>Bir Sahnenin baslangicinda 1 Güç kazanir.</AbilityDesc>
       <FlaborText></FlaborText>
       <Dialogues>
         <Dialogue ID="1"></Dialogue>
@@ -2258,7 +2258,7 @@ Karakter bu Resepsiyon'da 'Vaftiz'i 12 veya daha fazla kez kullandıysa, müttef
     <AbnormalityCard ID="Enemy_Gloom">
       <Abnormality></Abnormality>
       <CardName>???</CardName>
-      <AbilityDesc>Bir Sahnenin başlangıcında 1 Zayıf ve 2 Dayanıklılık kazanır.</AbilityDesc>
+      <AbilityDesc>Bir Sahnenin baslangicinda 1 Zayif ve 2 Dayaniklilik kazanir.</AbilityDesc>
       <FlaborText></FlaborText>
       <Dialogues>
         <Dialogue ID="1"></Dialogue>
@@ -2268,7 +2268,7 @@ Karakter bu Resepsiyon'da 'Vaftiz'i 12 veya daha fazla kez kullandıysa, müttef
     <AbnormalityCard ID="Enemy_Friend">
       <Abnormality></Abnormality>
       <CardName>? ? ?</CardName>
-      <AbilityDesc>Başka bir müttefik saldırıldığında, sonraki Sahne 1 Güç kazanır (Sahne başına iki kez)</AbilityDesc>
+      <AbilityDesc>Baska bir müttefik saldirildiginda, sonraki Sahne 1 Güç kazanir (Sahne basina iki kez)</AbilityDesc>
       <FlaborText></FlaborText>
       <Dialogues>
         <Dialogue ID="1"></Dialogue>
@@ -2278,7 +2278,7 @@ Karakter bu Resepsiyon'da 'Vaftiz'i 12 veya daha fazla kez kullandıysa, müttef
     <AbnormalityCard ID="Enemy_Bind">
       <Abnormality></Abnormality>
       <CardName>? ? ?</CardName>
-      <AbilityDesc>Bir Sahnenin başlangıcında 1 Dayanıklılık kazanır.</AbilityDesc>
+      <AbilityDesc>Bir Sahnenin baslangicinda 1 Dayaniklilik kazanir.</AbilityDesc>
       <FlaborText></FlaborText>
       <Dialogues>
         <Dialogue ID="1"></Dialogue>
