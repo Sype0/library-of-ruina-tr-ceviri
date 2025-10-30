@@ -6594,7 +6594,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_32</VoiceFile>
-          <Content>Emin değilim. Tam olarak bir **Çarpıtma** mı yoksa **E.G.O.** mu olduğunu söyleyemem.</Content>
+          <Content>Emin değilim. Tam olarak bir bozulma mı yoksa E.G.O. mu olduğunu söyleyemem.</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
@@ -6654,7 +6654,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_37</VoiceFile>
-          <Content>**Çarpıtma** olup olmadığını söyleyemem çünkü arada çok ince bir çizgi var. Gördüklerimiz bunu anlamak için yeterli değil.</Content>
+          <Content>bozulma olup olmadığını söyleyemem çünkü arada çok ince bir çizgi var. Gördüklerimiz bunu anlamak için yeterli değil.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>Roland</Teller>
@@ -6705,7 +6705,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_1</VoiceFile>
-          <Content>**Kızıl Sis**'in bir kitabını teorik olarak kullanarak Mavi Yankı'yı çekebileceğimizi söylediğimi hatırlıyor musun?</Content>
+          <Content>Kızıl Sis'in bir kitabını teorik olarak kullanarak Mavi Yankı'yı çekebileceğimizi söylediğimi hatırlıyor musun?</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
@@ -6729,7 +6729,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_3</VoiceFile>
-          <Content>**Kızıl Sis**'in geride bıraktığı bazı şeyler var ve onları **Kızıl Sis**'i geçmiş ihtişamıyla misafirimiz olarak davet etmek için kullanabilirim.</Content>
+          <Content>Kızıl Sis'in geride bıraktığı bazı şeyler var ve onları Kızıl Sis'i geçmiş ihtişamıyla misafirimiz olarak davet etmek için kullanabilirim.</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6759,7 +6759,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_5</VoiceFile>
-          <Content>Ama buraya insanları davet etmek için kitaplara ihtiyacımız var. **Kızıl Sis**'i çekmek için ne tür kitaplar hazırladın?</Content>
+          <Content>Ama buraya insanları davet etmek için kitaplara ihtiyacımız var. Kızıl Sis'i çekmek için ne tür kitaplar hazırladın?</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6777,7 +6777,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_8</VoiceFile>
-          <Content>Ve **Kızıl Sis**'i kabul etmek için belirli Baş Kütüphanecileri kısıtlamayı planlıyorum.</Content>
+          <Content>Ve Kızıl Sis'i kabul etmek için belirli Baş Kütüphanecileri kısıtlamayı planlıyorum.</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>Roland</Teller>
@@ -6789,7 +6789,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_9</VoiceFile>
-          <Content>Sebep o değil, hayır. **Kızıl Sis** çalıştığı kişilere kılıcını doğrultmaya dayanabilir mi?</Content>
+          <Content>Sebep o değil, hayır. Kızıl Sis çalıştığı kişilere kılıcını doğrultmaya dayanabilir mi?</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6807,7 +6807,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_9</VoiceFile>
-          <Content>Geçmişin **Kızıl Sis**'i... kim bilebilirdi ki yüz yüze gelecektik.</Content>
+          <Content>Geçmişin Kızıl Sis'i... kim bilebilirdi ki yüz yüze gelecektik.</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7116,7 +7116,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_40</VoiceFile>
-          <Content>Bu yerle ilgilenirken pek çok tür **Düzeltici** gördüm.</Content>
+          <Content>Bu yerle ilgilenirken pek çok tür Düzeltici gördüm.</Content>
         </Dialog>
         <Dialog ID="70" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7344,13 +7344,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_11</VoiceFile>
-          <Content>O büyük kırmızı kılıç ve **Kızıl Sis**'in giydiği giysi **E.G.O.**'ydu, değil mi?</Content>
+          <Content>O büyük kırmızı kılıç ve Kızıl Sis'in giydiği giysi E.G.O.'ydu, değil mi?</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_61</VoiceFile>
-          <Content>Bildiğim kadarıyla, o kızıl kılıç şans eseri çıkarılmış bir **E.G.O.** prototipiydi.</Content>
+          <Content>Bildiğim kadarıyla, o kızıl kılıç şans eseri çıkarılmış bir E.G.O. prototipiydi.</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7368,25 +7368,25 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_63</VoiceFile>
-          <Content>O, Kali'nin kendisinin gösterdiği **Kızıl Sis**'in **E.G.O.**'su.</Content>
+          <Content>O, Kali'nin kendisinin gösterdiği Kızıl Sis'in E.G.O.'su.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_13</VoiceFile>
-          <Content>Hımh... eğer tecelli eden bir **E.G.O.** bu kadar güçlüyse, şehrin tüm besin zincirini altüst edebilir.</Content>
+          <Content>Hımh... eğer tecelli eden bir E.G.O. bu kadar güçlüyse, şehrin tüm besin zincirini altüst edebilir.</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_64</VoiceFile>
-          <Content>Şimdiye kadar fark etmiş olmalısın, ama tüm **E.G.O.**'lar aynı güce sahip değil.</Content>
+          <Content>Şimdiye kadar fark etmiş olmalısın, ama tüm E.G.O.'lar aynı güce sahip değil.</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_65</VoiceFile>
-          <Content>Daha doğru ifade etmek gerekirse, pek az kişi **E.G.O.**'dan Kali kadar güç çekebilmiştir.</Content>
+          <Content>Daha doğru ifade etmek gerekirse, pek az kişi E.G.O.'dan Kali kadar güç çekebilmiştir.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7404,7 +7404,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_15</VoiceFile>
-          <Content>Peki, şimdi anladın mı? **Çarpıtma**, **E.G.O.** ve **Anormallikler** arasındaki tüm ilişkiyi?</Content>
+          <Content>Peki, şimdi anladın mı? bozulma, E.G.O. ve Anormallikler arasındaki tüm ilişkiyi?</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7422,7 +7422,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_69</VoiceFile>
-          <Content>Eğer bu olsaydı, Şehir'deki her insan kendi **E.G.O.**'sunu gösterebilir, zenginlikleri veya sosyal statüleri ne olursa olsun anlamsız bir ölümden kaçınmak için kendilerine güç verebilirdi.</Content>
+          <Content>Eğer bu olsaydı, Şehir'deki her insan kendi E.G.O.'sunu gösterebilir, zenginlikleri veya sosyal statüleri ne olursa olsun anlamsız bir ölümden kaçınmak için kendilerine güç verebilirdi.</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7434,13 +7434,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_71</VoiceFile>
-          <Content>Bazıları gösterdikleri **E.G.O.**'yu kaybedebilirdi, ancak hiç kimse kendi **E.G.O.**'suna yenilip bir **Anormallik** haline gelemezdi.</Content>
+          <Content>Bazıları gösterdikleri E.G.O.'yu kaybedebilirdi, ancak hiç kimse kendi E.G.O.'suna yenilip bir Anormallik haline gelemezdi.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_16</VoiceFile>
-          <Content>Öyleyse, **Çarpıtma**...</Content>
+          <Content>Öyleyse, bozulma...</Content>
         </Dialog>
         <Dialog ID="17" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7458,25 +7458,25 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_74</VoiceFile>
-          <Content>**Çarpıtmalar** aracılığıyla tecelli eden **Anormallikler** kontrolü kaybetmiş varlıklardır...</Content>
+          <Content>bozulmalar aracılığıyla tecelli eden Anormallikler kontrolü kaybetmiş varlıklardır...</Content>
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_75</VoiceFile>
-          <Content>Adeta kendi **E.G.O.**'ları tarafından tüketilmişlerdir.</Content>
+          <Content>Adeta kendi E.G.O.'ları tarafından tüketilmişlerdir.</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_76</VoiceFile>
-          <Content>Ne de olsa, **E.G.O.** ve **Anormallik** arasında çok ince bir çizgi var.</Content>
+          <Content>Ne de olsa, E.G.O. ve Anormallik arasında çok ince bir çizgi var.</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_17</VoiceFile>
-          <Content>... İster **E.G.O.** ister **Çarpıtma** olsun, bu **Olay**'ın ön şartı nedir?</Content>
+          <Content>... İster E.G.O. ister bozulma olsun, bu Olay'ın ön şartı nedir?</Content>
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7488,13 +7488,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_78</VoiceFile>
-          <Content>Ancak, eğer çaba hayal kırıklığıyla sonuçlanırsa veya benliğin sarsıldığı ve duygularının dayanılmaz bir noktaya kadar çarpıtıldığı büyük bir umutsuzlukla karşılaşılırsa, **Çarpıtma** bu ezici duygudan doğuyor gibi görünüyor.</Content>
+          <Content>Ancak, eğer çaba hayal kırıklığıyla sonuçlanırsa veya benliğin sarsıldığı ve duygularının dayanılmaz bir noktaya kadar çarpıtıldığı büyük bir umutsuzlukla karşılaşılırsa, bozulma bu ezici duygudan doğuyor gibi görünüyor.</Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_79</VoiceFile>
-          <Content>Arzun ne kadar güçlü ve safsa, **Çarpıtma** o kadar güçlü olur. Şimdiye kadarki tahminim bu.</Content>
+          <Content>Arzun ne kadar güçlü ve safsa, bozulma o kadar güçlü olur. Şimdiye kadarki tahminim bu.</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>Roland</Teller>
@@ -7506,7 +7506,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_19</VoiceFile>
-          <Content>Eğer söylediklerin doğruysa, Şehir **Anormallikler** ve **E.G.O.** kullanan insanlarla dolu olurdu.</Content>
+          <Content>Eğer söylediklerin doğruysa, Şehir Anormallikler ve E.G.O. kullanan insanlarla dolu olurdu.</Content>
         </Dialog>
         <Dialog ID="28" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7542,7 +7542,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_23</VoiceFile>
-          <Content>İster Kanatlar, ister Sendikalar, ister **Düzelticiler** olsun... tüm insanlar muhtemelen kendilerinin seçmediği bir kadere doğru ilerliyor.</Content>
+          <Content>İster Kanatlar, ister Sendikalar, ister Düzelticiler olsun... tüm insanlar muhtemelen kendilerinin seçmediği bir kadere doğru ilerliyor.</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7596,7 +7596,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_90</VoiceFile>
-          <Content>İlginç bir şekilde, kendime aldığım Işık eksik olduğu için, yarattığım bu Kütüphane'de—**Anormallikler** ile birlikte—mahsur kaldım.</Content>
+          <Content>İlginç bir şekilde, kendime aldığım Işık eksik olduğu için, yarattığım bu Kütüphane'de—Anormallikler ile birlikte—mahsur kaldım.</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7881,7 +7881,7 @@
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürüsü Kaptanı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_9</VoiceFile>
-          <Content>Kütüphane aynı zamanda W Şirketi'nin **Tekilliği**'ni de köşeye sıkıştırmış durumda. Şirketin temizlik görevlilerinin ve trenlerinden birindeki yolcuların kitapları görünüşe göre Kütüphane'nin elinde.</Content>
+          <Content>Kütüphane aynı zamanda W Şirketi'nin Tekilliği'ni de köşeye sıkıştırmış durumda. Şirketin temizlik görevlilerinin ve trenlerinden birindeki yolcuların kitapları görünüşe göre Kütüphane'nin elinde.</Content>
         </Dialog>
         <Dialog ID="26" Model="막심">
           <Teller>Maxim</Teller>
@@ -7947,13 +7947,13 @@
           <Teller>Myo</Teller>
           <Title>Tavşan Ekibi Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_14-01</VoiceFile>
-          <Content>Kütüphane o zamanlar sadece bir **Şehir Efsanesi**'ydi, bu yüzden o kadar da önemli olmadığını düşündüm.</Content>
+          <Content>Kütüphane o zamanlar sadece bir Şehir Efsanesi'ydi, bu yüzden o kadar da önemli olmadığını düşündüm.</Content>
         </Dialog>
         <Dialog ID="37" Model="묘">
           <Teller>Myo</Teller>
           <Title>Tavşan Ekibi Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_15-01</VoiceFile>
-          <Content>O bir **Şehir Efsanesi**'ne yenilecek biri değildi, bu yüzden sadece biraz para kazanması için ona bu işi verdim, başka bir şey değil.</Content>
+          <Content>O bir Şehir Efsanesi'ne yenilecek biri değildi, bu yüzden sadece biraz para kazanması için ona bu işi verdim, başka bir şey değil.</Content>
         </Dialog>
         <Dialog ID="38" Model="막심">
           <Teller>Maxim</Teller>
@@ -7995,7 +7995,7 @@
           <Teller>Myo</Teller>
           <Title>Tavşan Ekibi Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_18</VoiceFile>
-          <Content>Acaba neden temizlik görevlilerini bu kadar aceleyle gönderdiler~ İşlerin ters gitmesi ve **Tekilliği**'nin herkese ifşa olması çok kolaydı.</Content>
+          <Content>Acaba neden temizlik görevlilerini bu kadar aceleyle gönderdiler~ İşlerin ters gitmesi ve Tekilliği'nin herkese ifşa olması çok kolaydı.</Content>
         </Dialog>
         <Dialog ID="45" Model="루돌프">
           <Teller>Rudolph</Teller>
@@ -8019,13 +8019,13 @@
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürüsü Kaptanı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_14-01</VoiceFile>
-          <Content>Bizim işimiz L Şirketi, W Şirketi ve T Şirketi'nin **Tekillikleri**'ni ve Yuvalarını korumaktır.</Content>
+          <Content>Bizim işimiz L Şirketi, W Şirketi ve T Şirketi'nin Tekillikleri'ni ve Yuvalarını korumaktır.</Content>
         </Dialog>
         <Dialog ID="49" Model="니콜라이">
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürüsü Kaptanı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_15</VoiceFile>
-          <Content>Eğer kurban edilmek istemiyorsak, o **Tekillik** ile ilgili kitapları ne pahasına olursa olsun geri almalıyız.</Content>
+          <Content>Eğer kurban edilmek istemiyorsak, o Tekillik ile ilgili kitapları ne pahasına olursa olsun geri almalıyız.</Content>
         </Dialog>
         <Dialog ID="50" Model="尼古拉">
           <Teller>Nikolai</Teller>
@@ -8049,7 +8049,7 @@
           <Teller>Myo</Teller>
           <Title>Tavşan Ekibi Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_19-01</VoiceFile>
-          <Content>**Tekillikler**'e bağlıymış gibi davranan herkesi görmek aptalca.</Content>
+          <Content>Tekillikler'e bağlıymış gibi davranan herkesi görmek aptalca.</Content>
         </Dialog>
         <Dialog ID="54" Model="루돌프">
           <Teller>Rudolph</Teller>
@@ -8061,7 +8061,7 @@
           <Teller>Myo</Teller>
           <Title>Tavşan Ekibi Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_20-02</VoiceFile>
-          <Content>Hah, doğru. Ama hala komik değil mi? **Tekillikler** meselesini kastediyorum.</Content>
+          <Content>Hah, doğru. Ama hala komik değil mi? Tekillikler meselesini kastediyorum.</Content>
         </Dialog>
         <Dialog ID="56" Model="묘">
           <Teller>Myo</Teller>
@@ -8109,7 +8109,7 @@
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürüsü Kaptanı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_19-04</VoiceFile>
-          <Content>**Tekillikler** hakkında bir kelime daha edersen, seni hücreye kapatmak zorunda kalacağım.</Content>
+          <Content>Tekillikler hakkında bir kelime daha edersen, seni hücreye kapatmak zorunda kalacağım.</Content>
         </Dialog>
         <Dialog ID="64" Model="묘">
           <Teller>Myo</Teller>
@@ -8190,7 +8190,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_5</VoiceFile>
-          <Content>**Anormallikler** adını verdiğimiz varlıklar yüzünden işler sık sık kontrolden çıkıyordu.</Content>
+          <Content>Anormallikler adını verdiğimiz varlıklar yüzünden işler sık sık kontrolden çıkıyordu.</Content>
         </Dialog>
         <Dialog ID="77" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -8277,7 +8277,7 @@
           <Teller>Rudolph</Teller>
           <Title>Geyik Ekibi Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Rudolph_11-03</VoiceFile>
-          <Content>Bir **Şehrin Yıldızı**, tehlike açısından Harabeler'den pek de farklı değil.</Content>
+          <Content>Bir Şehrin Yıldızı, tehlike açısından Harabeler'den pek de farklı değil.</Content>
         </Dialog>
         <Dialog ID="91" Model="묘">
           <Teller>Myo</Teller>
@@ -8361,7 +8361,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_18-02</VoiceFile>
-          <Content>Bu kadar hayranı olduğun **Kızıl Sis**'i öldürmüş olabileceğim için mi gücendin?</Content>
+          <Content>Bu kadar hayranı olduğun Kızıl Sis'i öldürmüş olabileceğim için mi gücendin?</Content>
         </Dialog>
         <Dialog ID="105" Model="묘">
           <Teller>Myo</Teller>
@@ -9516,7 +9516,7 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Puple_Tear_ep1_Argalia_25-03</VoiceFile>
-          <Content>Angelica için bir ağıt... Evet. Angelica'nın bana gösterdiği bu güzel melodiyi Şehir'in her köşesine yaymak istiyorsam, Çarpıtma'nın gücüne ihtiyacım olacağını söylemiştin.</Content>
+          <Content>Angelica için bir ağıt... Evet. Angelica'nın bana gösterdiği bu güzel melodiyi Şehir'in her köşesine yaymak istiyorsam, bozulma'nın gücüne ihtiyacım olacağını söylemiştin.</Content>
         </Dialog>
         <Dialog ID="33" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -9951,7 +9951,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetli</Title>
           <VoiceFile>ch6_Puple_Tear_ep1_Roland_1-02</VoiceFile>
-          <Content>... İşte bu yüzden Çarpıtmaları topluyormuş.</Content>
+          <Content>... İşte bu yüzden bozulmaları topluyormuş.</Content>
         </Dialog>
         <Dialog ID="105" Model="롤랑">
           <Teller>Roland</Teller>
@@ -11052,7 +11052,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Liu_Sec1_ep2_Angela_9</VoiceFile>
-          <Content>Philip ve Xiao'yu gözlemledikten sonra E.G.O ve Çarpıtma arasındaki farkı düşünüyordum.</Content>
+          <Content>Philip ve Xiao'yu gözlemledikten sonra E.G.O ve bozulma arasındaki farkı düşünüyordum.</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -11070,13 +11070,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Liu_Sec1_ep2_Angela_11</VoiceFile>
-          <Content>Bence birini Çarpıtma noktasına gelmekten alıkoyan bir şey var.</Content>
+          <Content>Bence birini bozulma noktasına gelmekten alıkoyan bir şey var.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Liu_Sec1_ep2_Angela_12</VoiceFile>
-          <Content>İkisi de E.G.O veya Çarpıtma'yı gösterme eşiğine dokunacak kadar son derece dengesiz duygulara sahipti. Ve bu duygular benzer bir doğadaydı.</Content>
+          <Content>İkisi de E.G.O veya bozulma'yı gösterme eşiğine dokunacak kadar son derece dengesiz duygulara sahipti. Ve bu duygular benzer bir doğadaydı.</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -11190,7 +11190,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetli</Title>
           <VoiceFile>ch6_Liu_Sec1_ep2_Roland_22</VoiceFile>
-          <Content>Belki de E.G.O, bizi Çarpıtma çizgisini geçmekten alıkoyan şeydir.</Content>
+          <Content>Belki de E.G.O, bizi bozulma çizgisini geçmekten alıkoyan şeydir.</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>Roland</Teller>
@@ -12531,13 +12531,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Index_ep3_Roland_25</VoiceFile>
-          <Content>Ve tüm Çarpıtma süreci... sürecin bu kadar basit olması korkutucu.</Content>
+          <Content>Ve tüm bozulma süreci... sürecin bu kadar basit olması korkutucu.</Content>
         </Dialog>
         <Dialog ID="213" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch6_Index_ep3_Angela_35</VoiceFile>
-          <Content>O gösteri bunu daha net hale getirdi. Görünüşe göre, birinin güçlü bir şekilde inandığı inancı kırmak, bir Çarpıtma haline gelmek için bir katalizör görevi görebilir.</Content>
+          <Content>O gösteri bunu daha net hale getirdi. Görünüşe göre, birinin güçlü bir şekilde inandığı inancı kırmak, bir bozulma haline gelmek için bir katalizör görevi görebilir.</Content>
         </Dialog>
         <Dialog ID="214" Model="롤랑">
           <Teller>Roland</Teller>
@@ -12549,7 +12549,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Index_ep3_Roland_27</VoiceFile>
-          <Content>Gerçi birisi bana insanların neden her yerde çarpıtma yaşamadığını açıkça açıklamıştı.</Content>
+          <Content>Gerçi birisi bana insanların neden her yerde bozulma yaşamadığını açıkça açıklamıştı.</Content>
         </Dialog>
         <Dialog ID="216" Model="롤랑">
           <Teller>Roland</Teller>
