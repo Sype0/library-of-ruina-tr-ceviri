@@ -148,7 +148,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Prol_ep1_Roland9</VoiceFile>
-          <Content>Öncelikle, **Düzeltici** olmayı bırakmayı düşünüyorum. Yeterince yoruldum.</Content>
+          <Content>Öncelikle, Düzeltici olmayı bırakmayı düşünüyorum. Yeterince yoruldum.</Content>
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -256,7 +256,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Prol_ep1_Angela20</VoiceFile>
-          <Content>Bana tavsiye ettiğin gibi bir sonraki adımımı düşünürken aklıma gelen ilk şey **özgürlüktü**.</Content>
+          <Content>Bana tavsiye ettiğin gibi bir sonraki adımımı düşünürken aklıma gelen ilk şey özgürlüktü.</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -274,7 +274,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Prol_ep1_Angela22-01</VoiceFile>
-          <Content>Aptal olma. Kendimi savunabilirim. Tek yapman gereken benim **konuşma arkadaşım** olman.</Content>
+          <Content>Aptal olma. Kendimi savunabilirim. Tek yapman gereken benim konuşma arkadaşım olman.</Content>
         </Dialog>
         <Dialog ID="44" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -373,7 +373,7 @@
           <Teller>Lowell</Teller>
           <Title>Liu G. Bölüm 2 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep1_Lowell_1</VoiceFile>
-          <Content>Son **Çarpıtma** vakası, ‘Ağlayan Çocuklar’... ‘Piyanist’ ile kıyaslanamaz ama neden olduğu hasar oldukça şiddetli.</Content>
+          <Content>Son Çarpıtma vakası, ‘Ağlayan Çocuklar’... ‘Piyanist’ ile kıyaslanamaz ama neden olduğu hasar oldukça şiddetli.</Content>
         </Dialog>
         <Dialog ID="1" Model="메이">
           <Teller>Mei</Teller>
@@ -409,7 +409,7 @@
           <Teller>Xiao</Teller>
           <Title>Liu G. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep1_Xiao_2</VoiceFile>
-          <Content>Piyanist sadece 9. Bölge Kenar Mahallelerindeki yerleşim alanını yok ederken, Ağlayan Çocuklar Yuvayı hedef aldı, bu da bu vakayı özellikle **kritik** yapıyor.</Content>
+          <Content>Piyanist sadece 9. Bölge Kenar Mahallelerindeki yerleşim alanını yok ederken, Ağlayan Çocuklar Yuvayı hedef aldı, bu da bu vakayı özellikle kritik yapıyor.</Content>
         </Dialog>
         <Dialog ID="7" Model="로웰">
           <Teller>Lowell</Teller>
@@ -565,7 +565,7 @@
           <Teller>Cecil</Teller>
           <Title>Liu G. Bölüm 2 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep1_Cecil_4</VoiceFile>
-          <Content>Ancak, varlığın derisi, kıyafetleri ve her şeyi... gördüklerine göre tamamen **balmumundan** oluşuyordu.</Content>
+          <Content>Ancak, varlığın derisi, kıyafetleri ve her şeyi... gördüklerine göre tamamen balmumundan oluşuyordu.</Content>
         </Dialog>
         <Dialog ID="33" Model="로웰">
           <Teller>Lowell</Teller>
@@ -607,7 +607,7 @@
           <Teller>Xiao</Teller>
           <Title>Liu G. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep1_Xiao_8</VoiceFile>
-          <Content>Görüntü net olmasa bile... **akla yatkın**.</Content>
+          <Content>Görüntü net olmasa bile... akla yatkın.</Content>
         </Dialog>
         <Dialog ID="40" Model="샤오">
           <Teller>Xiao</Teller>
@@ -631,7 +631,7 @@
           <Teller>Xiao</Teller>
           <Title>Liu G. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep1_Xiao_11</VoiceFile>
-          <Content>Bizden Çarpıtma ile ilgili görünen herhangi bir şeyi **ele geçirmemiz** ya da durum el vermezse ondan **kurtulmamız** istendi.</Content>
+          <Content>Bizden Çarpıtma ile ilgili görünen herhangi bir şeyi ele geçirmemiz ya da durum el vermezse ondan kurtulmamız istendi.</Content>
         </Dialog>
         <Dialog ID="44" Model="샤오">
           <Teller>Xiao</Teller>
@@ -643,7 +643,7 @@
           <Teller>Lowell</Teller>
           <Title>Liu G. Bölüm 2 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep1_Lowell_13-01</VoiceFile>
-          <Content>Başkanımız ve şube liderleri, bir **Kanat** tarafından yapıldığı için bu talepten keyif almış olmalılar.</Content>
+          <Content>Başkanımız ve şube liderleri, bir Kanat tarafından yapıldığı için bu talepten keyif almış olmalılar.</Content>
         </Dialog>
         <Dialog ID="46" Model="세실">
           <Teller>Cecil</Teller>
@@ -712,7 +712,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep1_Angela_1</VoiceFile>
-          <Content>Kendi geçmişlerinden bahseden birçok **Anormallik** de var. Olması tamamen imkansız değil.</Content>
+          <Content>Kendi geçmişlerinden bahseden birçok Anormallik de var. Olması tamamen imkansız değil.</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑">
           <Teller>Roland</Teller>
@@ -742,7 +742,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep1_Angela_3</VoiceFile>
-          <Content>Ancak, ne kadar yetenekli olursan ol, doğru zihniyetle yoluna tutunmazsan yine de **başarısız olursun**.</Content>
+          <Content>Ancak, ne kadar yetenekli olursan ol, doğru zihniyetle yoluna tutunmazsan yine de başarısız olursun.</Content>
         </Dialog>
         <Dialog ID="62" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -808,7 +808,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Liu_Sec2_ep1_Roland_10-01</VoiceFile>
-          <Content>Kim bilir. Ama gelirlerse, onlarla uğraşmak başa **büyük bir bela** olur...</Content>
+          <Content>Kim bilir. Ama gelirlerse, onlarla uğraşmak başa büyük bir bela olur...</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -826,7 +826,7 @@
           <Teller>Mei</Teller>
           <Title>Liu G. Bölüm 2 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Mei_1</VoiceFile>
-          <Content>Son zamanlarda L Şirketi Yuvası etrafında yoğunlaşan **Çarpıtma** vakalarının katlanarak arttığına dair raporlar alıyoruz.</Content>
+          <Content>Son zamanlarda L Şirketi Yuvası etrafında yoğunlaşan Çarpıtma vakalarının katlanarak arttığına dair raporlar alıyoruz.</Content>
         </Dialog>
         <Dialog ID="1" Model="세실">
           <Teller>Cecil</Teller>
@@ -892,7 +892,7 @@
           <Teller>Lowell</Teller>
           <Title>Liu G. Bölüm 2 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Lowell_5</VoiceFile>
-          <Content>Kısacası, Liu Güney Şubesi Bölüm 1 **Ağlayan Çocuklar**'ı yakalamayı başaramadı.</Content>
+          <Content>Kısacası, Liu Güney Şubesi Bölüm 1 Ağlayan Çocuklar'ı yakalamayı başaramadı.</Content>
         </Dialog>
         <Dialog ID="12" Model="메이">
           <Teller>Mei</Teller>
@@ -904,13 +904,13 @@
           <Teller>Lowell</Teller>
           <Title>Liu G. Bölüm 2 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Lowell_6-01</VoiceFile>
-          <Content>Hayır... Sadece onu **kaybettiler**.</Content>
+          <Content>Hayır... Sadece onu kaybettiler.</Content>
         </Dialog>
         <Dialog ID="14" Model="세실">
           <Teller>Cecil</Teller>
           <Title>Liu G. Bölüm 2 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Cecil_4-02</VoiceFile>
-          <Content>Ama Bölüm 1, hele ki Yönetici Xiao'nun liderliğindeki Bölüm 1 yakalayamadıysa... bu sıradan bir **Şehir Kabusu** olamaz.</Content>
+          <Content>Ama Bölüm 1, hele ki Yönetici Xiao'nun liderliğindeki Bölüm 1 yakalayamadıysa... bu sıradan bir Şehir Kabusu olamaz.</Content>
         </Dialog>
         <Dialog ID="15" Model="세실">
           <Teller>Cecil</Teller>
@@ -979,7 +979,7 @@
           <Teller>Xiao</Teller>
           <Title>Liu G. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Xiao_4-04</VoiceFile>
-          <Content>... **Mavi Yankı**.</Content>
+          <Content>... Mavi Yankı.</Content>
         </Dialog>
         <Dialog ID="26" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -1033,7 +1033,7 @@
           <Teller>Xiao</Teller>
           <Title>Liu G. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Xiao_8-02</VoiceFile>
-          <Content>Sırf bir **Renk** olduğun için kurtulacağını sanma. Böyle şeylere burnunu sokmaya devam edersen, bir gün ortadan kaldırılman emredilecektir.</Content>
+          <Content>Sırf bir Renk olduğun için kurtulacağını sanma. Böyle şeylere burnunu sokmaya devam edersen, bir gün ortadan kaldırılman emredilecektir.</Content>
         </Dialog>
         <Dialog ID="35" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -1141,7 +1141,7 @@
           <Teller>Oswald</Teller>
           <Title>Saat Sekiz Sirki Direktörü</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Oswald_1</VoiceFile>
-          <Content>Şu anda çok **ekşi** kokuyor ama... Bizim elimizde, hemen korkunç bir koku yayabilir!</Content>
+          <Content>Şu anda çok ekşi kokuyor ama... Bizim elimizde, hemen korkunç bir koku yayabilir!</Content>
         </Dialog>
         <Dialog ID="53" Model="오스왈드">
           <Teller>Oswald</Teller>
@@ -1177,7 +1177,7 @@
           <Teller>Xiao</Teller>
           <Title>Liu G. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Xiao_12-02</VoiceFile>
-          <Content>Hayır, bu seni durdurmak için başka bir sebep. Bizim için Çarpıtma'yı ele geçirmek bir **seçenek**.</Content>
+          <Content>Hayır, bu seni durdurmak için başka bir sebep. Bizim için Çarpıtma'yı ele geçirmek bir seçenek.</Content>
         </Dialog>
         <Dialog ID="59" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -1300,7 +1300,7 @@
           <Teller>Mei</Teller>
           <Title>Liu G. Bölüm 2 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Mei_9</VoiceFile>
-          <Content>L Yuvası'na gönderdiğimiz personel, çok sayıda ortak Ofis dahil olmak üzere **çok fazla kayıp** bildirdi...</Content>
+          <Content>L Yuvası'na gönderdiğimiz personel, çok sayıda ortak Ofis dahil olmak üzere çok fazla kayıp bildirdi...</Content>
         </Dialog>
         <Dialog ID="79" Model="메이">
           <Teller>Mei</Teller>
@@ -1324,7 +1324,7 @@
           <Teller>Lowell</Teller>
           <Title>Liu G. Bölüm 2 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Lowell_15</VoiceFile>
-          <Content>Çarpıtma Fenomeni'ne maruz kalan her kişinin aşırı **duygusal stres** altında olduğunu bulduk.</Content>
+          <Content>Çarpıtma Fenomeni'ne maruz kalan her kişinin aşırı duygusal stres altında olduğunu bulduk.</Content>
         </Dialog>
         <Dialog ID="83" Model="세실">
           <Teller>Cecil</Teller>
@@ -1384,7 +1384,7 @@
           <Teller>Lowell</Teller>
           <Title>Liu G. Bölüm 2 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Lowell_19</VoiceFile>
-          <Content>Bu **Davet**'ten yüksek beklentilerim var. Biraz neşelenelim.</Content>
+          <Content>Bu Davet'ten yüksek beklentilerim var. Biraz neşelenelim.</Content>
         </Dialog>
         <Dialog ID="93" Model="메이, 세실">
           <Teller>Mei &amp; Cecil</Teller>
@@ -1501,13 +1501,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Angela_3</VoiceFile>
-          <Content>Şimdiye kadar gördüğüm kadarıyla, Mavi Yankı **Çarpıtmalar**'ı topluyor.</Content>
+          <Content>Şimdiye kadar gördüğüm kadarıyla, Mavi Yankı Çarpıtmalar'ı topluyor.</Content>
         </Dialog>
         <Dialog ID="112" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Angela_4</VoiceFile>
-          <Content>Hayır, onlara böyle denilip denilemeyeceğinden emin değilim. Mantıklı düşünme ve hareket etme yeteneğine sahip olan **"Çarpıtmalar"**...</Content>
+          <Content>Hayır, onlara böyle denilip denilemeyeceğinden emin değilim. Mantıklı düşünme ve hareket etme yeteneğine sahip olan "Çarpıtmalar"...</Content>
         </Dialog>
         <Dialog ID="113" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1585,25 +1585,25 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Angela_10-01</VoiceFile>
-          <Content>Kütüphane'ye gelmemeyi **seçebilirlerdi**.</Content>
+          <Content>Kütüphane'ye gelmemeyi seçebilirlerdi.</Content>
         </Dialog>
         <Dialog ID="126" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Angela_11-01</VoiceFile>
-          <Content>Ama yine de buraya **kendi istekleriyle** gelmeyi seçtiler.</Content>
+          <Content>Ama yine de buraya kendi istekleriyle gelmeyi seçtiler.</Content>
         </Dialog>
         <Dialog ID="127" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Roland_9-01</VoiceFile>
-          <Content>Şehir Kabusları ve ötesi artık bir **seçim** meselesi değil.</Content>
+          <Content>Şehir Kabusları ve ötesi artık bir seçim meselesi değil.</Content>
         </Dialog>
         <Dialog ID="128" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Roland_10-02</VoiceFile>
-          <Content>Şehir Kabusları ve Şehrin Yıldızları, görünmez bir **zorunluluk** söz konusu olduğu için böyle adlandırılır.</Content>
+          <Content>Şehir Kabusları ve Şehrin Yıldızları, görünmez bir zorunluluk söz konusu olduğu için böyle adlandırılır.</Content>
         </Dialog>
         <Dialog ID="129" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -1621,7 +1621,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Angela_14</VoiceFile>
-          <Content>**Seçim yapma özgürlükleri** var.</Content>
+          <Content>Seçim yapma özgürlükleri var.</Content>
         </Dialog>
         <Dialog ID="132" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1651,7 +1651,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Roland_15</VoiceFile>
-          <Content>Tüm konukların Kütüphane'de **kitap** olarak sona ermesi...</Content>
+          <Content>Tüm konukların Kütüphane'de kitap olarak sona ermesi...</Content>
         </Dialog>
         <Dialog ID="137" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1675,7 +1675,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Angela_16-01</VoiceFile>
-          <Content>Peki ya sonra? Özgürlüğümü kovalamamalı mıyım, çünkü onlara **saygı** göstermem gerekiyor?</Content>
+          <Content>Peki ya sonra? Özgürlüğümü kovalamamalı mıyım, çünkü onlara saygı göstermem gerekiyor?</Content>
         </Dialog>
         <Dialog ID="141" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -1693,7 +1693,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Roland_19</VoiceFile>
-          <Content>Ama eğer özgürlüğünü bu şekilde kazanmaya devam edersen, **karma** bir gün geri dönüp seni boğacaktır.</Content>
+          <Content>Ama eğer özgürlüğünü bu şekilde kazanmaya devam edersen, karma bir gün geri dönüp seni boğacaktır.</Content>
         </Dialog>
         <Dialog ID="144" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -1714,7 +1714,7 @@
           <Teller>Cecil</Teller>
           <Title>Liu G. Bölüm 2 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Cecil_14-01</VoiceFile>
-          <Content>Burası beklediğimden çok daha **eskimiş** görünüyor.</Content>
+          <Content>Burası beklediğimden çok daha eskimiş görünüyor.</Content>
         </Dialog>
         <Dialog ID="147" Model="로웰">
           <Teller>Lowell</Teller>
@@ -1732,7 +1732,7 @@
           <Teller>Lowell</Teller>
           <Title>Liu G. Bölüm 2 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Lowell_27-01</VoiceFile>
-          <Content>Şey, Xiao daha çok **şirin** şeyleri tercih eder—</Content>
+          <Content>Şey, Xiao daha çok şirin şeyleri tercih eder—</Content>
         </Dialog>
         <Dialog ID="150" Model="로웰">
           <Teller>Lowell</Teller>
@@ -1780,7 +1780,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Angela_21</VoiceFile>
-          <Content>Eğer **sınavı** geçebilirseniz, onları alabilirsiniz.</Content>
+          <Content>Eğer sınavı geçebilirseniz, onları alabilirsiniz.</Content>
         </Dialog>
         <Dialog ID="158" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -1840,7 +1840,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Angela_26-01</VoiceFile>
-          <Content>Demek bu seçimi yapmaya... **zorlandınız**.</Content>
+          <Content>Demek bu seçimi yapmaya... zorlandınız.</Content>
         </Dialog>
         <Dialog ID="168" Model="로웰">
           <Teller>Lowell</Teller>
@@ -1888,7 +1888,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Angela_31</VoiceFile>
-          <Content>Ve tüm bunların ötesinde, **tüm bunları anlayamayışımın nedeni**.</Content>
+          <Content>Ve tüm bunların ötesinde, tüm bunları anlayamayışımın nedeni.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1900,7 +1900,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Roland_22</VoiceFile>
-          <Content>Sadece yardım edemeyeceğim trajedileri hafifçe üzerimden atmayı öğrendim. Bu tür şeylere gülmek, bu Şehir'de **akıl sağlığını korumanın tek yolu**.</Content>
+          <Content>Sadece yardım edemeyeceğim trajedileri hafifçe üzerimden atmayı öğrendim. Bu tür şeylere gülmek, bu Şehir'de akıl sağlığını korumanın tek yolu.</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1930,7 +1930,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Liu_Sec2_ep2_Roland_26</VoiceFile>
-          <Content>Amacım, **özgürlüğünü** kazanmayı hak etmediğini söylemek falan değildi, Angela.</Content>
+          <Content>Amacım, özgürlüğünü kazanmayı hak etmediğini söylemek falan değildi, Angela.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1993,7 +1993,7 @@
           <Teller>Katriel</Teller>
           <Title>Başparmak Capo'su</Title>
           <VoiceFile>ch6_Thumb_ep1_Katriel_1-02</VoiceFile>
-          <Content>O, **Rumanos Karteli**. Bir süre önce **Kara Sessizlik** tarafından saldırıya uğradıktan sonra hala yapılarını yeniden düzenleme sürecindeler.</Content>
+          <Content>O, Rumanos Karteli. Bir süre önce Kara Sessizlik tarafından saldırıya uğradıktan sonra hala yapılarını yeniden düzenleme sürecindeler.</Content>
         </Dialog>
         <Dialog ID="5" Model="칼로">
           <Teller>Kalo</Teller>
@@ -2023,7 +2023,7 @@
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep1_Kalo_7</VoiceFile>
-          <Content>Ellerinizi **L Şirketi Yuvası**'ndan ve **Kütüphane**'den çekin. Başparmak bu meseleyi bundan sonra doğrudan kendisi halledecek.</Content>
+          <Content>Ellerinizi L Şirketi Yuvası'ndan ve Kütüphane'den çekin. Başparmak bu meseleyi bundan sonra doğrudan kendisi halledecek.</Content>
         </Dialog>
         <Dialog ID="10" Model="칼로">
           <Teller>Kalo</Teller>
@@ -2041,7 +2041,7 @@
           <Teller>Ramier Ailesi Underboss'u</Teller>
           <Title>Ramier Ailesi</Title>
           <VoiceFile>ch6_Thumb_ep1_Ramier_under_1</VoiceFile>
-          <Content>Ailemiz buna **muazzam** bir miktar para yatırdı!</Content>
+          <Content>Ailemiz buna muazzam bir miktar para yatırdı!</Content>
         </Dialog>
         <Dialog ID="13" Model="칼로">
           <Teller>Kalo</Teller>
@@ -2095,7 +2095,7 @@
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep1_Kalo_12</VoiceFile>
-          <Content>Ama **Capo di tutti capi** aksini emrediyor. İtaat etmekten başka seçeneğimiz yok.</Content>
+          <Content>Ama Capo di tutti capi aksini emrediyor. İtaat etmekten başka seçeneğimiz yok.</Content>
         </Dialog>
         <Dialog ID="22" Model="칼로">
           <Teller>Kalo</Teller>
@@ -2107,7 +2107,7 @@
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep1_Kalo_14</VoiceFile>
-          <Content>**İndeks**'in dışında bir grup daha bu çatışmaya dahil oldu. Bizim kumaşımızı çalanlar...</Content>
+          <Content>İndeks'in dışında bir grup daha bu çatışmaya dahil oldu. Bizim kumaşımızı çalanlar...</Content>
         </Dialog>
         <Dialog ID="24" Model="흑운회 조장">
           <Teller>Kurokumo Klanı Reisi</Teller>
@@ -2131,13 +2131,13 @@
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep1_Kalo_16</VoiceFile>
-          <Content>Anlayın ki, bu tür zamanlarda bu önemsiz sorunların bizi **alıkoymasına** izin veremeyiz.</Content>
+          <Content>Anlayın ki, bu tür zamanlarda bu önemsiz sorunların bizi alıkoymasına izin veremeyiz.</Content>
         </Dialog>
         <Dialog ID="28" Model="칼로">
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep1_Kalo_17</VoiceFile>
-          <Content>**Capo di tutti capi**'nin emirlerine her şeyden önce uymalıyız.</Content>
+          <Content>Capo di tutti capi'nin emirlerine her şeyden önce uymalıyız.</Content>
         </Dialog>
         <Dialog ID="29" Model="밤의 송곳 두목">
           <Teller>Gece Bızları Lideri</Teller>
@@ -2155,13 +2155,13 @@
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep1_Kalo_18</VoiceFile>
-          <Content>**Capo di tutti capi**'nin niyetlerini sorgulaman ne cüret. Bu tür kirli düşüncelerin kökünden sökülmesi gerekiyor.</Content>
+          <Content>Capo di tutti capi'nin niyetlerini sorgulaman ne cüret. Bu tür kirli düşüncelerin kökünden sökülmesi gerekiyor.</Content>
         </Dialog>
         <Dialog ID="32" Model="칼로">
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep1_Kalo_19</VoiceFile>
-          <Content>Bu geceye kadar her **Gece Bızı** üyesini temizleyin.</Content>
+          <Content>Bu geceye kadar her Gece Bızı üyesini temizleyin.</Content>
         </Dialog>
         <Dialog ID="33" Model="카트리엘">
           <Teller>Katriel</Teller>
@@ -2179,19 +2179,19 @@
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep1_Kalo_20</VoiceFile>
-          <Content>**Capo di tutti capi** bana bizzat söyledi. **İndeks**...</Content>
+          <Content>Capo di tutti capi bana bizzat söyledi. İndeks...</Content>
         </Dialog>
         <Dialog ID="36" Model="칼로">
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep1_Kalo_21</VoiceFile>
-          <Content>Evet, şefimiz **İndeks**'in L Şirketi Yuvası'nın tek bir alanını bile ele geçirmesine izin vermememiz konusunda ısrar etti.</Content>
+          <Content>Evet, şefimiz İndeks'in L Şirketi Yuvası'nın tek bir alanını bile ele geçirmesine izin vermememiz konusunda ısrar etti.</Content>
         </Dialog>
         <Dialog ID="37" Model="칼로">
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep1_Kalo_22</VoiceFile>
-          <Content>Ama siz dostlarım, **İndeks**'in **Vekilleri** ile başa çıkma becerisine sahip değilsiniz. Emir bu yüzden verildi.</Content>
+          <Content>Ama siz dostlarım, İndeks'in Vekilleri ile başa çıkma becerisine sahip değilsiniz. Emir bu yüzden verildi.</Content>
         </Dialog>
         <Dialog ID="38" Model="흑운회 조장">
           <Teller>Kurokumo Klanı Reisi</Teller>
@@ -2203,13 +2203,13 @@
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep1_Kalo_23</VoiceFile>
-          <Content>Bu, diğer **Başparmak Sottocapo**'ları ve aileleri için de geçerli.</Content>
+          <Content>Bu, diğer Başparmak Sottocapo'ları ve aileleri için de geçerli.</Content>
         </Dialog>
         <Dialog ID="40" Model="칼로">
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep1_Kalo_24</VoiceFile>
-          <Content>Hırsımız, sadece birkaç blok alanı ele geçirmek gibi **kısa görüşlü** bir şey değil. Anlıyor musunuz?</Content>
+          <Content>Hırsımız, sadece birkaç blok alanı ele geçirmek gibi kısa görüşlü bir şey değil. Anlıyor musunuz?</Content>
         </Dialog>
         <Dialog ID="41" Model="전원">
           <Teller>Katılanlar</Teller>
@@ -2224,19 +2224,19 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Thumb_ep1_Angela_1</VoiceFile>
-          <Content>Başparmak'ın oldukça **sert bir yapısı** var gibi görünüyor?</Content>
+          <Content>Başparmak'ın oldukça sert bir yapısı var gibi görünüyor?</Content>
         </Dialog>
         <Dialog ID="43" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Thumb_ep1_Roland_1</VoiceFile>
-          <Content>**İndeks** sana iyi bir fikir vermiştir, ama... evet. **Parmaklar**'ın sadece paranoya olarak tanımlayabileceğim kendi kuralları ve hiyerarşileri var.</Content>
+          <Content>İndeks sana iyi bir fikir vermiştir, ama... evet. Parmaklar'ın sadece paranoya olarak tanımlayabileceğim kendi kuralları ve hiyerarşileri var.</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Thumb_ep1_Roland_2</VoiceFile>
-          <Content>Kurallar farklı olabilir, ama biri onları çiğnerse, o zavallı adam bitmiştir. Gerçi her **Parmak**'ın kural ihlalcilerini temizleme şekli kendine özgüdür.</Content>
+          <Content>Kurallar farklı olabilir, ama biri onları çiğnerse, o zavallı adam bitmiştir. Gerçi her Parmak'ın kural ihlalcilerini temizleme şekli kendine özgüdür.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -2260,7 +2260,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Thumb_ep1_Roland_4</VoiceFile>
-          <Content>Ve o sert kabuğa sıkışan ve Kenar Mahalleler'in zirvesinde kalan beş sendika, **'Beş Parmak'** unvanını kazandı.</Content>
+          <Content>Ve o sert kabuğa sıkışan ve Kenar Mahalleler'in zirvesinde kalan beş sendika, 'Beş Parmak' unvanını kazandı.</Content>
         </Dialog>
         <Dialog ID="49" Model="롤랑">
           <Teller>Roland</Teller>
@@ -2278,19 +2278,19 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Thumb_ep1_Angela_4</VoiceFile>
-          <Content>Başparmak ağırlıklı olarak **ateşli silahlar** kullanıyor gibi görünüyor.</Content>
+          <Content>Başparmak ağırlıklı olarak ateşli silahlar kullanıyor gibi görünüyor.</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Thumb_ep1_Angela_5</VoiceFile>
-          <Content>Ayrıca, bir süre önce ağırladığımız **Tam Durak Ofisi**'nin tam tersi bir şekilde kurşun kullanıyorlar.</Content>
+          <Content>Ayrıca, bir süre önce ağırladığımız Tam Durak Ofisi'nin tam tersi bir şekilde kurşun kullanıyorlar.</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Thumb_ep1_Angela_6</VoiceFile>
-          <Content>Bu insanlar ateşli silahlarını **yakın dövüş** silahı gibi sallıyorlar.</Content>
+          <Content>Bu insanlar ateşli silahlarını yakın dövüş silahı gibi sallıyorlar.</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>Roland</Teller>
@@ -2314,7 +2314,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Thumb_ep1_Roland_8</VoiceFile>
-          <Content>Evet. İyi bir vuruş insan kemiklerini kolayca kırabilir. Silahlar oldukça **usta işi** teknoloji ve malzemelerle yapılmıştır.</Content>
+          <Content>Evet. İyi bir vuruş insan kemiklerini kolayca kırabilir. Silahlar oldukça usta işi teknoloji ve malzemelerle yapılmıştır.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -2326,7 +2326,7 @@
           <Teller>Boris</Teller>
           <Title>Başparmak Capo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Boris_1</VoiceFile>
-          <Content>Puff~ Az önce bir çağrı aldım, dışarıda **İndeks** ile büyük bir savaş yaşanıyor gibi görünüyor.</Content>
+          <Content>Puff~ Az önce bir çağrı aldım, dışarıda İndeks ile büyük bir savaş yaşanıyor gibi görünüyor.</Content>
         </Dialog>
         <Dialog ID="1" Model="보리스">
           <Teller>Boris</Teller>
@@ -2350,25 +2350,25 @@
           <Teller>Boris</Teller>
           <Title>Başparmak Capo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Boris_4</VoiceFile>
-          <Content>**İndeks** ve R Şirketi zaten bizi yeterince meşgul ediyor...</Content>
+          <Content>İndeks ve R Şirketi zaten bizi yeterince meşgul ediyor...</Content>
         </Dialog>
         <Dialog ID="5" Model="보리스">
           <Teller>Boris</Teller>
           <Title>Başparmak Capo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Boris_5</VoiceFile>
-          <Content>Üstelik, bu aralar etrafta korkunç sayıda **Çarpıtma** yaşanıyor. Tüm bu düşmanlar en iyi adamlarımın yarısını aldı götürdü.</Content>
+          <Content>Üstelik, bu aralar etrafta korkunç sayıda Çarpıtma yaşanıyor. Tüm bu düşmanlar en iyi adamlarımın yarısını aldı götürdü.</Content>
         </Dialog>
         <Dialog ID="6" Model="카트리엘">
           <Teller>Katriel</Teller>
           <Title>Başparmak Capo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Katriel_1-01</VoiceFile>
-          <Content>Hepsi **Çarpıtma** ile ilgili ipuçları arıyor gibi görünüyor. Yuva'nın merkezindeki **Kütüphane**'nin bu fenomenle güçlü bir şekilde bağlantılı olduğunu düşünmüş olmalılar.</Content>
+          <Content>Hepsi Çarpıtma ile ilgili ipuçları arıyor gibi görünüyor. Yuva'nın merkezindeki Kütüphane'nin bu fenomenle güçlü bir şekilde bağlantılı olduğunu düşünmüş olmalılar.</Content>
         </Dialog>
         <Dialog ID="7" Model="카트리엘">
           <Teller>Katriel</Teller>
           <Title>Başparmak Capo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Katriel_2</VoiceFile>
-          <Content>Ve **Çarpıtma**'nın burada diğer yerlerden çok daha sık yaşandığı doğru.</Content>
+          <Content>Ve Çarpıtma'nın burada diğer yerlerden çok daha sık yaşandığı doğru.</Content>
         </Dialog>
         <Dialog ID="8" Model="전원">
           <Teller>Grup</Teller>
@@ -2380,19 +2380,19 @@
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Kalo_1</VoiceFile>
-          <Content>Şimdi oturun. Dediğiniz gibi, **İndeks**, **Liu** ve **R Şirketi** bu Yuva'yı yağmalıyor.</Content>
+          <Content>Şimdi oturun. Dediğiniz gibi, İndeks, Liu ve R Şirketi bu Yuva'yı yağmalıyor.</Content>
         </Dialog>
         <Dialog ID="10" Model="카트리엘">
           <Teller>Katriel</Teller>
           <Title>Başparmak Capo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Katriel_3-01</VoiceFile>
-          <Content>Ve sadece onlar değil, **Mavi Yankı** ve **Mor Gözyaşı**'nın da mevcut olduğuna dair raporlar aldık.</Content>
+          <Content>Ve sadece onlar değil, Mavi Yankı ve Mor Gözyaşı'nın da mevcut olduğuna dair raporlar aldık.</Content>
         </Dialog>
         <Dialog ID="11" Model="칼로">
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Kalo_2</VoiceFile>
-          <Content>**Mavi Yankı** diyorsun...</Content>
+          <Content>Mavi Yankı diyorsun...</Content>
         </Dialog>
         <Dialog ID="12" Model="보리스">
           <Teller>Boris</Teller>
@@ -2404,25 +2404,25 @@
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Kalo_3</VoiceFile>
-          <Content>Anlıyorum... **Mavi Yankı**'yı ve grubunu buraya çekenin ne olduğunu düşünüyorsunuz?</Content>
+          <Content>Anlıyorum... Mavi Yankı'yı ve grubunu buraya çekenin ne olduğunu düşünüyorsunuz?</Content>
         </Dialog>
         <Dialog ID="14" Model="카트리엘">
           <Teller>Katriel</Teller>
           <Title>Başparmak Capo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Katriel_4</VoiceFile>
-          <Content>**Kütüphane** olmalı. Birçok tanınmış kişi ve grup da onun kurbanı oldu.</Content>
+          <Content>Kütüphane olmalı. Birçok tanınmış kişi ve grup da onun kurbanı oldu.</Content>
         </Dialog>
         <Dialog ID="15" Model="보리스">
           <Teller>Boris</Teller>
           <Title>Başparmak Capo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Boris_7-01</VoiceFile>
-          <Content>**Kütüphane**'yi ele geçiren, bu yorucu savaşın galibi olacak.</Content>
+          <Content>Kütüphane'yi ele geçiren, bu yorucu savaşın galibi olacak.</Content>
         </Dialog>
         <Dialog ID="16" Model="카트리엘">
           <Teller>Katriel</Teller>
           <Title>Başparmak Capo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Katriel_5-02</VoiceFile>
-          <Content>Ama ne zaman oraya gitmeye çalışsak, **Kütüphane**'ye olan davet ortadan kayboluyor.</Content>
+          <Content>Ama ne zaman oraya gitmeye çalışsak, Kütüphane'ye olan davet ortadan kayboluyor.</Content>
         </Dialog>
         <Dialog ID="17" Model="카트리엘">
           <Teller>Katriel</Teller>
@@ -2458,7 +2458,7 @@
           <Teller>Katriel</Teller>
           <Title>Başparmak Capo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Katriel_8</VoiceFile>
-          <Content>Eğer **Liu Birliği** ile başa çıkmanın bir yolunu bulabilirsek, bu Yuva'nın en az yarısını kazanmayı garantileyeceğiz.</Content>
+          <Content>Eğer Liu Birliği ile başa çıkmanın bir yolunu bulabilirsek, bu Yuva'nın en az yarısını kazanmayı garantileyeceğiz.</Content>
         </Dialog>
         <Dialog ID="23" Model="데니스">
           <Teller>Denis</Teller>
@@ -2470,13 +2470,13 @@
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Thumb_ep2_Yan_1-01</VoiceFile>
-          <Content>Bir **Sottocapo**'nun tüm **Capo**'larını **Kütüphane**'ye seferber etmesi bana iyi bir fikir gibi gelmiyor.</Content>
+          <Content>Bir Sottocapo'nun tüm Capo'larını Kütüphane'ye seferber etmesi bana iyi bir fikir gibi gelmiyor.</Content>
         </Dialog>
         <Dialog ID="25" Model="보리스">
           <Teller>Boris</Teller>
           <Title>Başparmak Capo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Boris_8</VoiceFile>
-          <Content>Bir **İndeks Habercisi** burada ne arıyor.</Content>
+          <Content>Bir İndeks Habercisi burada ne arıyor.</Content>
         </Dialog>
         <Dialog ID="26" Model="데니스">
           <Teller>Denis</Teller>
@@ -2506,37 +2506,37 @@
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Thumb_ep2_Yan_4_b-01</VoiceFile>
-          <Content>**Sottocapo Kalo**? Seninle bir an konuşabilir miyim?</Content>
+          <Content>Sottocapo Kalo? Seninle bir an konuşabilir miyim?</Content>
         </Dialog>
         <Dialog ID="31" Model="칼로">
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Kalo_7</VoiceFile>
-          <Content>**İndeks**'in temel görgü kurallarına bağlı kalmasını takdir ediyorum. Devam edebilirsin.</Content>
+          <Content>İndeks'in temel görgü kurallarına bağlı kalmasını takdir ediyorum. Devam edebilirsin.</Content>
         </Dialog>
         <Dialog ID="32" Model="얀">
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Thumb_ep2_Yan_5-01</VoiceFile>
-          <Content>Bu sadece benim fikrim, ama... gitmemeniz gerektiğini düşünüyorum. Orada **kitap** olma ihtimaliniz çok yüksek.</Content>
+          <Content>Bu sadece benim fikrim, ama... gitmemeniz gerektiğini düşünüyorum. Orada kitap olma ihtimaliniz çok yüksek.</Content>
         </Dialog>
         <Dialog ID="33" Model="얀">
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Thumb_ep2_Yan_6</VoiceFile>
-          <Content>Eğer bu bölgeyi yöneten **Sottocapo** ortadan kaybolursa, **İndeks**'in bu yeri ele geçirmesi an meselesi olacaktır.</Content>
+          <Content>Eğer bu bölgeyi yöneten Sottocapo ortadan kaybolursa, İndeks'in bu yeri ele geçirmesi an meselesi olacaktır.</Content>
         </Dialog>
         <Dialog ID="34" Model="얀">
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Thumb_ep2_Yan_7-01</VoiceFile>
-          <Content>Ve bir düşünün; eğer **İndeks** Kütüphane'de sizin kitabınızı ele geçirirse, bu sadece **Başparmak**'ın **İndeks**'i kırmasını daha da zorlaştıracak, bu da tüm Sendika'yı büyük bir dezavantaja sokacaktır. Sizce de öyle değil mi?</Content>
+          <Content>Ve bir düşünün; eğer İndeks Kütüphane'de sizin kitabınızı ele geçirirse, bu sadece Başparmak'ın İndeks'i kırmasını daha da zorlaştıracak, bu da tüm Sendika'yı büyük bir dezavantaja sokacaktır. Sizce de öyle değil mi?</Content>
         </Dialog>
         <Dialog ID="35" Model="칼로">
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Kalo_8-01</VoiceFile>
-          <Content>Bu çok nadir bir olay. Bir **Haberci**, **İlke**'ler yerine kendi fikrini mi belirtiyor?</Content>
+          <Content>Bu çok nadir bir olay. Bir Haberci, İlke'ler yerine kendi fikrini mi belirtiyor?</Content>
         </Dialog>
         <Dialog ID="36" Model="얀">
           <Teller>Yan</Teller>
@@ -2548,13 +2548,13 @@
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Kalo_9-01</VoiceFile>
-          <Content>... Benim sadece **İndeks**'in **İlke**'lerini dinlemeye tahammülüm var, basit bir **Haberci**'nin saçmalıklarına değil.</Content>
+          <Content>... Benim sadece İndeks'in İlke'lerini dinlemeye tahammülüm var, basit bir Haberci'nin saçmalıklarına değil.</Content>
         </Dialog>
         <Dialog ID="38" Model="칼로">
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Kalo_10-01</VoiceFile>
-          <Content>Şunu L Şirketi topraklarında kalan **İndeks** fanatiklerine söyle: Bu işi bitirdiğimizde, **Başparmak**'a hakaret etme cezası olarak dişlerini ve dillerini sökeceğiz ve köpeklerimize yedireceğiz.</Content>
+          <Content>Şunu L Şirketi topraklarında kalan İndeks fanatiklerine söyle: Bu işi bitirdiğimizde, Başparmak'a hakaret etme cezası olarak dişlerini ve dillerini sökeceğiz ve köpeklerimize yedireceğiz.</Content>
         </Dialog>
         <Dialog ID="39" Model="칼로">
           <Teller>Kalo</Teller>
@@ -2593,13 +2593,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Thumb_ep2_Angela_2</VoiceFile>
-          <Content>Kesinlikle öyle görünüyor. Başka bir **Parmak**'ın üyesi bile kurallarından muaf değil gibi.</Content>
+          <Content>Kesinlikle öyle görünüyor. Başka bir Parmak'ın üyesi bile kurallarından muaf değil gibi.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Thumb_ep2_Angela_3</VoiceFile>
-          <Content>Ve en son duyduklarımı hatırlarsak... **rütbe** de önemli gibi görünüyor.</Content>
+          <Content>Ve en son duyduklarımı hatırlarsak... rütbe de önemli gibi görünüyor.</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
           <Teller>Roland</Teller>
@@ -2623,19 +2623,19 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Thumb_ep2_Roland_5</VoiceFile>
-          <Content>Genel olarak konuşursak, 1. Derece bir **Düzeltici**, hiyerarşilerinde bir Capo ile aynı konumdadır.</Content>
+          <Content>Genel olarak konuşursak, 1. Derece bir Düzeltici, hiyerarşilerinde bir Capo ile aynı konumdadır.</Content>
         </Dialog>
         <Dialog ID="50" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Thumb_ep2_Roland_6</VoiceFile>
-          <Content>Senden daha yüksek sınıfa sahip biriyle göz teması bile kuramazsın... O **Parmak**'lardan hiçbirinin aklı başında olmadığını söylemeliyim.</Content>
+          <Content>Senden daha yüksek sınıfa sahip biriyle göz teması bile kuramazsın... O Parmak'lardan hiçbirinin aklı başında olmadığını söylemeliyim.</Content>
         </Dialog>
         <Dialog ID="51" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Thumb_ep2_Angela_4</VoiceFile>
-          <Content>Bilmiyorum. Ben bunun ne kadar **doğrudan** olduğunu seviyorum aslında.</Content>
+          <Content>Bilmiyorum. Ben bunun ne kadar doğrudan olduğunu seviyorum aslında.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -2656,7 +2656,7 @@
           <Teller>Boris</Teller>
           <Title>Başparmak Capo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Boris_10-02</VoiceFile>
-          <Content>Yine de kolay değildi. **İndeks** can sıkıcı bir grup, tek bir **Haberci** bile baş belası olabiliyor.</Content>
+          <Content>Yine de kolay değildi. İndeks can sıkıcı bir grup, tek bir Haberci bile baş belası olabiliyor.</Content>
         </Dialog>
         <Dialog ID="55" Model="데니스">
           <Teller>Denis</Teller>
@@ -2668,7 +2668,7 @@
           <Teller>Katriel</Teller>
           <Title>Başparmak Capo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Katriel_10</VoiceFile>
-          <Content>İyi olacak mısınız, efendim? O **Haberci**'nin söylediklerinde bir doğruluk payı vardı, üste kalmanız daha güvenli... ve **Başparmak** için daha faydalı olabilirdi.</Content>
+          <Content>İyi olacak mısınız, efendim? O Haberci'nin söylediklerinde bir doğruluk payı vardı, üste kalmanız daha güvenli... ve Başparmak için daha faydalı olabilirdi.</Content>
         </Dialog>
         <Dialog ID="57" Model="칼로">
           <Teller>Kalo</Teller>
@@ -2686,13 +2686,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Thumb_ep2_Angela_6</VoiceFile>
-          <Content>Ben Angela, bu **Kütüphane**'nin yöneticisi ve kütüphanecisiyim.</Content>
+          <Content>Ben Angela, bu Kütüphane'nin yöneticisi ve kütüphanecisiyim.</Content>
         </Dialog>
         <Dialog ID="60" Model="카트리엘">
           <Teller>Katriel</Teller>
           <Title>Başparmak Capo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Katriel_11-01</VoiceFile>
-          <Content>Bu ilginç. Buranın yöneticisinin bir **makine** olduğunu duymuştum... ama sanırım bu tamamen doğru değil.</Content>
+          <Content>Bu ilginç. Buranın yöneticisinin bir makine olduğunu duymuştum... ama sanırım bu tamamen doğru değil.</Content>
         </Dialog>
         <Dialog ID="61" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -2704,7 +2704,7 @@
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep2_Kalo_14</VoiceFile>
-          <Content>Kurallar bir **Şehrin Yıldızı**'nı benden daha yüksek bir mertebeye koyar...</Content>
+          <Content>Kurallar bir Şehrin Yıldızı'nı benden daha yüksek bir mertebeye koyar...</Content>
         </Dialog>
         <Dialog ID="63" Model="칼로">
           <Teller>Kalo</Teller>
@@ -2764,7 +2764,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Thumb_ep2_Angela_10</VoiceFile>
-          <Content>**Başparmak** ölümde bile katı emirlerine bağlıydı.</Content>
+          <Content>Başparmak ölümde bile katı emirlerine bağlıydı.</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>Roland</Teller>
@@ -2788,7 +2788,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Thumb_ep2_Roland_9</VoiceFile>
-          <Content>Bahse girerim bu kuralların ne zaman konulduğunu bile bilmiyorlardır. Bu açıdan **İlke**'lerin peşinden koşan o fanatiklerden pek de farklı değiller.</Content>
+          <Content>Bahse girerim bu kuralların ne zaman konulduğunu bile bilmiyorlardır. Bu açıdan İlke'lerin peşinden koşan o fanatiklerden pek de farklı değiller.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
@@ -2806,7 +2806,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Thumb_ep2_Angela_13</VoiceFile>
-          <Content>Şikayetleri olsa bile nedenini bilmeden körü körüne itaat etmeleri kesinlikle **acınası** görünüyor.</Content>
+          <Content>Şikayetleri olsa bile nedenini bilmeden körü körüne itaat etmeleri kesinlikle acınası görünüyor.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -2848,7 +2848,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Thumb_ep2_Angela_19</VoiceFile>
-          <Content>**Parmaklar**'ın kurallarını anlıyor değilim.</Content>
+          <Content>Parmaklar'ın kurallarını anlıyor değilim.</Content>
         </Dialog>
         <Dialog ID="15" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -2860,19 +2860,19 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Thumb_ep2_Angela_21</VoiceFile>
-          <Content>Bu arada... **İndeks Habercisi**'nin uyarısı bir işe yaramadı; üst düzey yöneticilerinden biri saf dışı kalınca **Başparmak** tehlikede olabilir.</Content>
+          <Content>Bu arada... İndeks Habercisi'nin uyarısı bir işe yaramadı; üst düzey yöneticilerinden biri saf dışı kalınca Başparmak tehlikede olabilir.</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Thumb_ep2_Roland_12</VoiceFile>
-          <Content>Doğru. **Başparmak** bir **Sottocapo**'sunun **kitap** haline geldiğini öğrenince morali bozulmuş olmalı.</Content>
+          <Content>Doğru. Başparmak bir Sottocapo'sunun kitap haline geldiğini öğrenince morali bozulmuş olmalı.</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Thumb_ep2_Angela_22</VoiceFile>
-          <Content>Bu, **İndeks**'i L Şirketi Yuvası'nda kalan tek **Parmak** yapıyor mu?</Content>
+          <Content>Bu, İndeks'i L Şirketi Yuvası'nda kalan tek Parmak yapıyor mu?</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
           <Teller>Roland</Teller>
@@ -2917,49 +2917,49 @@
           <Teller>Nemo</Teller>
           <Title>Cane Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_2-01</VoiceFile>
-          <Content>W Şirketi'nin **Tekilliğini** bu kadar dikkatsizce sızdırması ne kadar beceriksizce. Bu iyi değil! Hiç iyi değil!</Content>
+          <Content>W Şirketi'nin Tekilliğini bu kadar dikkatsizce sızdırması ne kadar beceriksizce. Bu iyi değil! Hiç iyi değil!</Content>
         </Dialog>
         <Dialog ID="4" Model="바다">
           <Teller>Bada</Teller>
           <Title>Cane Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_2-02</VoiceFile>
-          <Content>İtiraf etmeliyim ki, her şey **Mavi Yankı**'nın söylediği gibi gitti.</Content>
+          <Content>İtiraf etmeliyim ki, her şey Mavi Yankı'nın söylediği gibi gitti.</Content>
         </Dialog>
         <Dialog ID="5" Model="네모">
           <Teller>Nemo</Teller>
           <Title>Cane Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_3-01</VoiceFile>
-          <Content>Evet! Gerçekten de! Bu, W Şirketi'nin **Tekilliğinin** ayrıntılarını öğrenmek için mükemmel bir fırsat!</Content>
+          <Content>Evet! Gerçekten de! Bu, W Şirketi'nin Tekilliğinin ayrıntılarını öğrenmek için mükemmel bir fırsat!</Content>
         </Dialog>
         <Dialog ID="6" Model="네모">
           <Teller>Nemo</Teller>
           <Title>Cane Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_4-01</VoiceFile>
-          <Content>Tek yapmamız gereken bu **Davet** ile **Kütüphane**'yi ziyaret etmek ve W Şirketi'nin temizlik ajanlarının **kitaplarını** kazanmak!</Content>
+          <Content>Tek yapmamız gereken bu Davet ile Kütüphane'yi ziyaret etmek ve W Şirketi'nin temizlik ajanlarının kitaplarını kazanmak!</Content>
         </Dialog>
         <Dialog ID="7" Model="마르티나">
           <Teller>Martina</Teller>
           <Title>Cane Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Martina_2-01</VoiceFile>
-          <Content>... Baş... **Kütüphane** artık bir **Şehrin Yıldızı**...</Content>
+          <Content>... Baş... Kütüphane artık bir Şehrin Yıldızı...</Content>
         </Dialog>
         <Dialog ID="8" Model="네모">
           <Teller>Nemo</Teller>
           <Title>Cane Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_5</VoiceFile>
-          <Content>Şimdiye kadar on bir **Şehrin Yıldızı** ile ilgili talebi tamamladık! Ofisimizin bu kadar yükselmesinin nedeni de bu yetenek!</Content>
+          <Content>Şimdiye kadar on bir Şehrin Yıldızı ile ilgili talebi tamamladık! Ofisimizin bu kadar yükselmesinin nedeni de bu yetenek!</Content>
         </Dialog>
         <Dialog ID="9" Model="바다">
           <Teller>Bada</Teller>
           <Title>Cane Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_3</VoiceFile>
-          <Content>W Şirketi **Tekilliği**'nin gizli bilgilerini edindiğimizde, onlarla ne yapacaksınız? Sadece W Şirketi'ne geri vereceğinizden şüpheliyim.</Content>
+          <Content>W Şirketi Tekilliği'nin gizli bilgilerini edindiğimizde, onlarla ne yapacaksınız? Sadece W Şirketi'ne geri vereceğinizden şüpheliyim.</Content>
         </Dialog>
         <Dialog ID="10" Model="네모">
           <Teller>Nemo</Teller>
           <Title>Cane Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_6</VoiceFile>
-          <Content>Elbette, bu teknolojiye ihtiyacı olan müşterilere satmalıyız! Bir **patent savaşı** patlamak üzere.</Content>
+          <Content>Elbette, bu teknolojiye ihtiyacı olan müşterilere satmalıyız! Bir patent savaşı patlamak üzere.</Content>
         </Dialog>
         <Dialog ID="11" Model="바다">
           <Teller>Bada</Teller>
@@ -3025,13 +3025,13 @@
           <Teller>Nemo</Teller>
           <Title>Cane Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_14-01</VoiceFile>
-          <Content>**Kütüphane**'ye kendimiz mi gitmek zorundayız? Ben dahil mi?</Content>
+          <Content>Kütüphane'ye kendimiz mi gitmek zorundayız? Ben dahil mi?</Content>
         </Dialog>
         <Dialog ID="22" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Cane_ep1_Agalia_2</VoiceFile>
-          <Content>Altı yüzlü kafatası. Az önce on bir **Şehrin Yıldızı** sınıfı talebini hallettiğinle övünüyordun, değil mi? Ne oldu şimdi...</Content>
+          <Content>Altı yüzlü kafatası. Az önce on bir Şehrin Yıldızı sınıfı talebini hallettiğinle övünüyordun, değil mi? Ne oldu şimdi...</Content>
         </Dialog>
         <Dialog ID="23" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -3067,7 +3067,7 @@
           <Teller>Nemo</Teller>
           <Title>Cane Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_17-06</VoiceFile>
-          <Content>Pekala... **EVET**! Lanet olsun, korkuyorum, sorduğun için teşekkürler!</Content>
+          <Content>Pekala... EVET! Lanet olsun, korkuyorum, sorduğun için teşekkürler!</Content>
         </Dialog>
         <Dialog ID="29" Model="마르티나">
           <Teller>Martina</Teller>
@@ -3103,13 +3103,13 @@
           <Teller>Nemo</Teller>
           <Title>Cane Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_20</VoiceFile>
-          <Content>Ya **Kütüphane**'ye girersem? Ve orada **kitap** olursam?</Content>
+          <Content>Ya Kütüphane'ye girersem? Ve orada kitap olursam?</Content>
         </Dialog>
         <Dialog ID="35" Model="네모">
           <Teller>Nemo</Teller>
           <Title>Cane Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_21</VoiceFile>
-          <Content>O zaman **Kütüphane**'de hem W Şirketi hem de T Şirketi'nin **Tekilliklerini** detaylandıran bir **kitap** olur, değil mi? L Şirketi'nin **kitabının** olduğu aynı **Kütüphane**'de!</Content>
+          <Content>O zaman Kütüphane'de hem W Şirketi hem de T Şirketi'nin Tekilliklerini detaylandıran bir kitap olur, değil mi? L Şirketi'nin kitabının olduğu aynı Kütüphane'de!</Content>
         </Dialog>
         <Dialog ID="36" Model="바다">
           <Teller>Bada</Teller>
@@ -3127,13 +3127,13 @@
           <Teller>Nemo</Teller>
           <Title>Cane Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_22-01</VoiceFile>
-          <Content>Tahmin et kim üç **Tekilliğe** aynı anda sahip olur!</Content>
+          <Content>Tahmin et kim üç Tekilliğe aynı anda sahip olur!</Content>
         </Dialog>
         <Dialog ID="39" Model="네모">
           <Teller>Nemo</Teller>
           <Title>Cane Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_23-01</VoiceFile>
-          <Content>**Patent savaşı**nın eşiğinde olduğumuz bu zamanlarda mı?</Content>
+          <Content>Patent savaşının eşiğinde olduğumuz bu zamanlarda mı?</Content>
         </Dialog>
         <Dialog ID="40" Model="네모">
           <Teller>Nemo</Teller>
@@ -3145,7 +3145,7 @@
           <Teller>Nemo</Teller>
           <Title>Cane Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_25-03</VoiceFile>
-          <Content>Söyle bana. Bunun arkasındaki **dahi** kim. Bu küçük oyunlarınla kimin cebini doldurmaya çalışıyorsun.</Content>
+          <Content>Söyle bana. Bunun arkasındaki dahi kim. Bu küçük oyunlarınla kimin cebini doldurmaya çalışıyorsun.</Content>
         </Dialog>
         <Dialog ID="42" Model="플루토">
           <Teller>Pluto</Teller>
@@ -3181,7 +3181,7 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Cane_ep1_Agalia_8</VoiceFile>
-          <Content>**Tekillikler** mi? Bir **patent savaşı** mı?</Content>
+          <Content>Tekillikler mi? Bir patent savaşı mı?</Content>
         </Dialog>
         <Dialog ID="48" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -3223,7 +3223,7 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Cane_ep1_Agalia_14</VoiceFile>
-          <Content>Patent savaşı mı? Dahi mi? Para mı? İstediğini düşün. Ama söz **sözdür**.</Content>
+          <Content>Patent savaşı mı? Dahi mi? Para mı? İstediğini düşün. Ama söz sözdür.</Content>
         </Dialog>
         <Dialog ID="55" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -3241,13 +3241,13 @@
           <Teller>Pluto</Teller>
           <Title>Dünün Vaadi</Title>
           <VoiceFile>ch6_Cane_ep1_Pluto_5-02</VoiceFile>
-          <Content>Özetlemek gerekirse, biz Cane Ofisi'ne W Şirketi'nin **Tekilliği** hakkında bilgi sağlayacağız.</Content>
+          <Content>Özetlemek gerekirse, biz Cane Ofisi'ne W Şirketi'nin Tekilliği hakkında bilgi sağlayacağız.</Content>
         </Dialog>
         <Dialog ID="58" Model="플루토">
           <Teller>Pluto</Teller>
           <Title>Dünün Vaadi</Title>
           <VoiceFile>ch6_Cane_ep1_Pluto_6-02</VoiceFile>
-          <Content>Ve karşılığında, Cane Ofisi biz ne zaman istersek **Kütüphane**'den **kitapları** alacak.</Content>
+          <Content>Ve karşılığında, Cane Ofisi biz ne zaman istersek Kütüphane'den kitapları alacak.</Content>
         </Dialog>
         <Dialog ID="59" Model="플루토">
           <Teller>Pluto</Teller>
@@ -3259,13 +3259,13 @@
           <Teller>Bada</Teller>
           <Title>Cane Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_8-02</VoiceFile>
-          <Content>W Şirketi **Tekilliği** hakkındaki bilginin **Kütüphane kitapları** şeklinde teslim edileceği bize söylenmedi. Kaldı ki onları bizim almamız gerektiği de söylenmedi.</Content>
+          <Content>W Şirketi Tekilliği hakkındaki bilginin Kütüphane kitapları şeklinde teslim edileceği bize söylenmedi. Kaldı ki onları bizim almamız gerektiği de söylenmedi.</Content>
         </Dialog>
         <Dialog ID="61" Model="플루토">
           <Teller>Pluto</Teller>
           <Title>Dünün Vaadi</Title>
           <VoiceFile>ch6_Cane_ep1_Pluto_8-01</VoiceFile>
-          <Content>Şartların oldukça **belirsiz** olduğu doğru.</Content>
+          <Content>Şartların oldukça belirsiz olduğu doğru.</Content>
         </Dialog>
         <Dialog ID="62" Model="플루토">
           <Teller>Pluto</Teller>
@@ -3283,13 +3283,13 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Cane_ep1_Agalia_16</VoiceFile>
-          <Content>Küp çocuk kalemi sanki hayatı buna bağlıymış gibi aldı ve hemen imzaladı, bir **patent savaşı** falan hakkında büyük bir yaygara kopardı, değil mi? **Tekillikler** hakkında acilen bilgiye ihtiyacı olduğuna eminim.</Content>
+          <Content>Küp çocuk kalemi sanki hayatı buna bağlıymış gibi aldı ve hemen imzaladı, bir patent savaşı falan hakkında büyük bir yaygara kopardı, değil mi? Tekillikler hakkında acilen bilgiye ihtiyacı olduğuna eminim.</Content>
         </Dialog>
         <Dialog ID="65" Model="바다">
           <Teller>Bada</Teller>
           <Title>Cane Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_9-03</VoiceFile>
-          <Content>Sözleşme, **Kütüphane**'ye kendimizin gitmesi gerektiğini asla belirtmedi. Sadece “Cane Ofisi”nin gitmesi gerektiğini söylüyordu.</Content>
+          <Content>Sözleşme, Kütüphane'ye kendimizin gitmesi gerektiğini asla belirtmedi. Sadece “Cane Ofisi”nin gitmesi gerektiğini söylüyordu.</Content>
         </Dialog>
         <Dialog ID="66" Model="플루토">
           <Teller>Pluto</Teller>
@@ -3313,7 +3313,7 @@
           <Teller>Martina</Teller>
           <Title>Cane Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Martina_8-01</VoiceFile>
-          <Content>... “Bu sözleşmeyi imzalayan herkes **Kütüphane**'deki **kitapları** bizzat geri almalıdır”...</Content>
+          <Content>... “Bu sözleşmeyi imzalayan herkes Kütüphane'deki kitapları bizzat geri almalıdır”...</Content>
         </Dialog>
         <Dialog ID="70" Model="바다">
           <Teller>Bada</Teller>
@@ -3355,7 +3355,7 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Cane_ep1_Agalia_19</VoiceFile>
-          <Content>Ah, doğru. **Dünün Vaadi**! Dürüst olmak gerekirse, benim tarzım bir isim değil.</Content>
+          <Content>Ah, doğru. Dünün Vaadi! Dürüst olmak gerekirse, benim tarzım bir isim değil.</Content>
         </Dialog>
         <Dialog ID="77" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -3421,7 +3421,7 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Cane_ep1_Agalia_23</VoiceFile>
-          <Content>Ayrıca, T Şirketi size aynı emri doğrudan verdi, bu yüzden zaten oraya gitmek zorundasınız, değil mi? Bize karşı öfkeyle kaynamak sizi **Kütüphane**'ye gitmekten kurtarmaz.</Content>
+          <Content>Ayrıca, T Şirketi size aynı emri doğrudan verdi, bu yüzden zaten oraya gitmek zorundasınız, değil mi? Bize karşı öfkeyle kaynamak sizi Kütüphane'ye gitmekten kurtarmaz.</Content>
         </Dialog>
         <Dialog ID="88" Model="네모">
           <Teller>Nemo</Teller>
@@ -3511,7 +3511,7 @@
           <Teller>Nemo</Teller>
           <Title>Cane Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_34-01</VoiceFile>
-          <Content>**Kütüphane**'ye gideceğiz, **kitapları** alacağız ve geri geleceğiz! Hepsi bu!</Content>
+          <Content>Kütüphane'ye gideceğiz, kitapları alacağız ve geri geleceğiz! Hepsi bu!</Content>
         </Dialog>
         <Dialog ID="103" Model="네모">
           <Teller>Nemo</Teller>
@@ -3526,19 +3526,19 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Angela_1</VoiceFile>
-          <Content>O iskeleti hatırlıyorum, en son gördüğümüzde **Mavi Yankı** ile birlikteydi.</Content>
+          <Content>O iskeleti hatırlıyorum, en son gördüğümüzde Mavi Yankı ile birlikteydi.</Content>
         </Dialog>
         <Dialog ID="105" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Cane_ep1_Roland_1</VoiceFile>
-          <Content>Hım, “**Dünün Vaadi**” hakkında bir şeyler söyledi.</Content>
+          <Content>Hım, “Dünün Vaadi” hakkında bir şeyler söyledi.</Content>
         </Dialog>
         <Dialog ID="106" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Angela_2</VoiceFile>
-          <Content>Onun hakkında konuklardan birinin **kitabında** okudum. Yüzeyde sıradan bir sözleşme gibi görünüyor, ancak küçük yazılarda **olumsuz şartlar** gizli.</Content>
+          <Content>Onun hakkında konuklardan birinin kitabında okudum. Yüzeyde sıradan bir sözleşme gibi görünüyor, ancak küçük yazılarda olumsuz şartlar gizli.</Content>
         </Dialog>
         <Dialog ID="107" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -3568,7 +3568,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Cane_ep1_Roland_3</VoiceFile>
-          <Content>Bunun bir **gerçek** olduğunu düşünüyor musun?</Content>
+          <Content>Bunun bir gerçek olduğunu düşünüyor musun?</Content>
         </Dialog>
         <Dialog ID="112" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -3640,7 +3640,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Angela_13</VoiceFile>
-          <Content>**Merak edilecek** bir şeye sahip olmanın, kişilerarası ilişkileri sürdürmek için faydalı olduğu sonucuna vardım.</Content>
+          <Content>Merak edilecek bir şeye sahip olmanın, kişilerarası ilişkileri sürdürmek için faydalı olduğu sonucuna vardım.</Content>
         </Dialog>
         <Dialog ID="124" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -3655,7 +3655,7 @@
           <Teller>Nemo</Teller>
           <Title>Cane Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_36-02</VoiceFile>
-          <Content>Canavarlar bizi tavadan alıp ateşe, yani **Kütüphane** denen canavar yuvasına attı.</Content>
+          <Content>Canavarlar bizi tavadan alıp ateşe, yani Kütüphane denen canavar yuvasına attı.</Content>
         </Dialog>
         <Dialog ID="126" Model="네모">
           <Teller>Nemo</Teller>
@@ -3667,7 +3667,7 @@
           <Teller>Bada</Teller>
           <Title>Cane Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_15-01</VoiceFile>
-          <Content>Eğer biraz yardımcı olacaksa, **Kütüphane**'nin oldukça nazik olduğunu duydum.</Content>
+          <Content>Eğer biraz yardımcı olacaksa, Kütüphane'nin oldukça nazik olduğunu duydum.</Content>
         </Dialog>
         <Dialog ID="128" Model="네모">
           <Teller>Nemo</Teller>
@@ -3709,7 +3709,7 @@
           <Teller>Nemo</Teller>
           <Title>Cane Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_41-02</VoiceFile>
-          <Content>Kesinlikle! Para kokuyor, **kazanç** kokuyor!</Content>
+          <Content>Kesinlikle! Para kokuyor, kazanç kokuyor!</Content>
         </Dialog>
         <Dialog ID="135" Model="바다">
           <Teller>Bada</Teller>
@@ -3727,19 +3727,19 @@
           <Teller>Bada</Teller>
           <Title>Cane Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_18-01</VoiceFile>
-          <Content>**Kitapları** falan satmayı mı planlıyorsunuz?</Content>
+          <Content>Kitapları falan satmayı mı planlıyorsunuz?</Content>
         </Dialog>
         <Dialog ID="138" Model="네모">
           <Teller>Nemo</Teller>
           <Title>Cane Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_43-02</VoiceFile>
-          <Content>Kesinlikle! **Sözleşme Ofisi** olarak itibarımız yerle bir olsa bile, en azından bu **kitapları** alıp satarsak aç kalmayız!</Content>
+          <Content>Kesinlikle! Sözleşme Ofisi olarak itibarımız yerle bir olsa bile, en azından bu kitapları alıp satarsak aç kalmayız!</Content>
         </Dialog>
         <Dialog ID="139" Model="마르티나">
           <Teller>Martina</Teller>
           <Title>Cane Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Martina_14-01</VoiceFile>
-          <Content>Şu anda paraya **boğulmuyor musunuz**, başkan...?</Content>
+          <Content>Şu anda paraya boğulmuyor musunuz, başkan...?</Content>
         </Dialog>
         <Dialog ID="140" Model="바다">
           <Teller>Bada</Teller>
@@ -3751,7 +3751,7 @@
           <Teller>Nemo</Teller>
           <Title>Cane Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_44-01</VoiceFile>
-          <Content>Yine de **Ofis** personelimi asla dolandırmadım, emin olabilirsiniz!</Content>
+          <Content>Yine de Ofis personelimi asla dolandırmadım, emin olabilirsiniz!</Content>
         </Dialog>
         <Dialog ID="142" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -3781,7 +3781,7 @@
           <Teller>Nemo</Teller>
           <Title>Cane Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_47-02</VoiceFile>
-          <Content>Buradaki Bayan Angela, gelecekte bizim değerli **mal ve zenginlik sağlayıcımız** olabilir!</Content>
+          <Content>Buradaki Bayan Angela, gelecekte bizim değerli mal ve zenginlik sağlayıcımız olabilir!</Content>
         </Dialog>
         <Dialog ID="147" Model="마르티나">
           <Teller>Martina</Teller>
@@ -3799,7 +3799,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Angela_16</VoiceFile>
-          <Content>**Kitaplarını** bu yerde bulmaları dileğiyle.</Content>
+          <Content>Kitaplarını bu yerde bulmaları dileğiyle.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -3812,19 +3812,19 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Angela_17</VoiceFile>
-          <Content>**"Patent savaşlarında"** sert mücadele ediliyor sanırım.</Content>
+          <Content>"Patent savaşlarında" sert mücadele ediliyor sanırım.</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Cane_ep1_Roland_8</VoiceFile>
-          <Content>Evet. Sonuçta, bu Şehir'de para kazanmanın en güvenilir yolu **teknoloji**.</Content>
+          <Content>Evet. Sonuçta, bu Şehir'de para kazanmanın en güvenilir yolu teknoloji.</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Cane_ep1_Roland_9</VoiceFile>
-          <Content>**Patent savaşları** bu teknolojiler üzerine yapılıyor, ancak gerçekte hiçbir taraf tam olarak kâr etmiyor. En iyi ihtimalle ne kadar kazanırsan o kadar kaybediyorsun.</Content>
+          <Content>Patent savaşları bu teknolojiler üzerine yapılıyor, ancak gerçekte hiçbir taraf tam olarak kâr etmiyor. En iyi ihtimalle ne kadar kazanırsan o kadar kaybediyorsun.</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>Roland</Teller>
@@ -3848,7 +3848,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Angela_19</VoiceFile>
-          <Content>... R Şirketi herhangi bir **patent savaşına** katıldı mı?</Content>
+          <Content>... R Şirketi herhangi bir patent savaşına katıldı mı?</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
@@ -3860,25 +3860,25 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Angela_20</VoiceFile>
-          <Content>Başka bir **Kanat**'ın **Tekilliği**'ne ne dersin? R Şirketi herhangi birini ele geçirmeye çalıştı mı?</Content>
+          <Content>Başka bir Kanat'ın Tekilliği'ne ne dersin? R Şirketi herhangi birini ele geçirmeye çalıştı mı?</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Cane_ep1_Roland_13</VoiceFile>
-          <Content>Bahse girerim tüm **Kanatlar** bunun hakkında aynı şeyi düşünüyordur. Kendi **Tekilliklerini** tek başına kullanan çok az **Kanat** var.</Content>
+          <Content>Bahse girerim tüm Kanatlar bunun hakkında aynı şeyi düşünüyordur. Kendi Tekilliklerini tek başına kullanan çok az Kanat var.</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Cane_ep1_Roland_14</VoiceFile>
-          <Content>R Şirketi'nin kendilerine ait olmayan bir veya iki **Tekillik** kullanıyor olması gerekir. Ne demek istediğimi anlıyor musun? Onları kullandıkça sahibine telif ücreti ödemek zorundalar.</Content>
+          <Content>R Şirketi'nin kendilerine ait olmayan bir veya iki Tekillik kullanıyor olması gerekir. Ne demek istediğimi anlıyor musun? Onları kullandıkça sahibine telif ücreti ödemek zorundalar.</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Angela_21</VoiceFile>
-          <Content>Eğer diğer **Kanatların** **Tekillikleri**'nin sırlarını çözerlerse, bu masraftan kurtulabilirler, değil mi?</Content>
+          <Content>Eğer diğer Kanatların Tekillikleri'nin sırlarını çözerlerse, bu masraftan kurtulabilirler, değil mi?</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>Roland</Teller>
@@ -3923,19 +3923,19 @@
           <Teller>Kenar Mahalle Sakini 1</Teller>
           <Title>Kenar Mahalle Sakini</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_peaple_1</VoiceFile>
-          <Content>Öks... **Kenar Mahalleler**'de döküntü bir yerde ne bulmayı umuyordun ki...</Content>
+          <Content>Öks... Kenar Mahalleler'de döküntü bir yerde ne bulmayı umuyordun ki...</Content>
         </Dialog>
         <Dialog ID="5" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Argalia_4-02</VoiceFile>
-          <Content>**Kırmızı Sis**, burayı operasyon üssü yaptıktan sonra gücünü göstermeye başlamadı mı?</Content>
+          <Content>Kırmızı Sis, burayı operasyon üssü yaptıktan sonra gücünü göstermeye başlamadı mı?</Content>
         </Dialog>
         <Dialog ID="6" Model="외곽 거주민2">
           <Teller>Kenar Mahalle Sakini 2</Teller>
           <Title>Kenar Mahalle Sakini</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_peaple_2</VoiceFile>
-          <Content>**Kırmızı Sis** hakkında hiçbir şey bilmiyoruz... biz sadece bu terk edilmiş laboratuvarı sığınak olarak kullanıyoruz...</Content>
+          <Content>Kırmızı Sis hakkında hiçbir şey bilmiyoruz... biz sadece bu terk edilmiş laboratuvarı sığınak olarak kullanıyoruz...</Content>
         </Dialog>
         <Dialog ID="7" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -3977,7 +3977,7 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Argalia_9-02</VoiceFile>
-          <Content>Sonunda, L Şirketi, **Kütüphane** ve... kullandıkları bu laboratuvar kalan tek üç adaydı.</Content>
+          <Content>Sonunda, L Şirketi, Kütüphane ve... kullandıkları bu laboratuvar kalan tek üç adaydı.</Content>
         </Dialog>
         <Dialog ID="14" Model="외곽 거주민5">
           <Teller>Kenar Mahalle Sakini 5</Teller>
@@ -3989,7 +3989,7 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Argalia_10</VoiceFile>
-          <Content>Sokakların ortasında ortaya çıkan **Piyanist**, kız kardeşimi aldı...</Content>
+          <Content>Sokakların ortasında ortaya çıkan Piyanist, kız kardeşimi aldı...</Content>
         </Dialog>
         <Dialog ID="16" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -4013,7 +4013,7 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Argalia_14</VoiceFile>
-          <Content>Tamamen **tarif edilemez** bir şeye dönüşmüştü.</Content>
+          <Content>Tamamen tarif edilemez bir şeye dönüşmüştü.</Content>
         </Dialog>
         <Dialog ID="20" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -4025,7 +4025,7 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Argalia_16</VoiceFile>
-          <Content>Kelimelerle ifade edilemeyecek kadar **güzel**di...</Content>
+          <Content>Kelimelerle ifade edilemeyecek kadar güzeldi...</Content>
         </Dialog>
         <Dialog ID="22" Model="외곽 거주민6">
           <Teller>Kenar Mahalle Sakini 6</Teller>
@@ -4055,7 +4055,7 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Argalia_20</VoiceFile>
-          <Content>Saf ve sevimli **erkek Fatma**'mı kaybetmenin acısı ve umutsuzluğuyla titredim...</Content>
+          <Content>Saf ve sevimli erkek Fatma'mı kaybetmenin acısı ve umutsuzluğuyla titredim...</Content>
         </Dialog>
         <Dialog ID="27" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -4079,7 +4079,7 @@
           <Teller>Kenar Mahalle Sakini 7</Teller>
           <Title>Kenar Mahalle Sakini</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_peaple_7</VoiceFile>
-          <Content>Aah... buradalar... **Kanatlar** merhamet edin...</Content>
+          <Content>Aah... buradalar... Kanatlar merhamet edin...</Content>
         </Dialog>
         <Dialog ID="31" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -4109,7 +4109,7 @@
           <Teller>Kenar Mahalle Sakini 8</Teller>
           <Title>Kenar Mahalle Sakini</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_peaple_8</VoiceFile>
-          <Content>Ahhhhh!!! Onlar... **Mekanik Dişler**!!! Kaçın!!! Tek bir saç telinizi bile yolmalarına izin vermeyin!!!</Content>
+          <Content>Ahhhhh!!! Onlar... Mekanik Dişler!!! Kaçın!!! Tek bir saç telinizi bile yolmalarına izin vermeyin!!!</Content>
         </Dialog>
         <Dialog ID="36" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -4157,13 +4157,13 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Argalia_32</VoiceFile>
-          <Content>Ah, evet, o, **Kırmızı Sis**'in ağzında kanla dans ederken sergilediği güzelliğe şaşırtıcı derecede benziyordu.</Content>
+          <Content>Ah, evet, o, Kırmızı Sis'in ağzında kanla dans ederken sergilediği güzelliğe şaşırtıcı derecede benziyordu.</Content>
         </Dialog>
         <Dialog ID="44" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Argalia_33</VoiceFile>
-          <Content>**Piyanist** ve **Kırmızı Sis** çok farklı zarafet renkleri sergilediler, ama içten o kadar benziyorlardı ki...</Content>
+          <Content>Piyanist ve Kırmızı Sis çok farklı zarafet renkleri sergilediler, ama içten o kadar benziyorlardı ki...</Content>
         </Dialog>
         <Dialog ID="45" Model="외곽 거주민10">
           <Teller>Kenar Mahalle Sakini 10</Teller>
@@ -4175,7 +4175,7 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Argalia_34-01</VoiceFile>
-          <Content>Ne yazık ki, hiçbir şey elde edemedim. Bu **Davet** elimdeki tek ipucu...</Content>
+          <Content>Ne yazık ki, hiçbir şey elde edemedim. Bu Davet elimdeki tek ipucu...</Content>
         </Dialog>
         <Dialog ID="47" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -4214,7 +4214,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Roland_1-01</VoiceFile>
-          <Content>İki arkadaşı da **Çarpıtma** olmalı, buna yüzde yüz eminim...</Content>
+          <Content>İki arkadaşı da Çarpıtma olmalı, buna yüzde yüz eminim...</Content>
         </Dialog>
         <Dialog ID="53" Model="롤랑">
           <Teller>Roland</Teller>
@@ -4226,7 +4226,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Angela_1</VoiceFile>
-          <Content>... Sadece ben miyim, yoksa **Mavi Yankı**'nın yüzünde bir hüzün mü var?</Content>
+          <Content>... Sadece ben miyim, yoksa Mavi Yankı'nın yüzünde bir hüzün mü var?</Content>
         </Dialog>
         <Dialog ID="55" Model="롤랑">
           <Teller>Roland</Teller>
@@ -4238,7 +4238,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Roland_4</VoiceFile>
-          <Content>**Piyanist**, sayısız insanın değerli varlıklarından şu ya da bu şekilde ayrılmasına neden oldu, ama o özellikle en kötü şekilde onu kaybetti...</Content>
+          <Content>Piyanist, sayısız insanın değerli varlıklarından şu ya da bu şekilde ayrılmasına neden oldu, ama o özellikle en kötü şekilde onu kaybetti...</Content>
         </Dialog>
         <Dialog ID="57" Model="롤랑">
           <Teller>Roland</Teller>
@@ -4250,7 +4250,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Angela_2</VoiceFile>
-          <Content>Kız kardeşinin adının **Angelica** olduğunu söyledi. Benim ismime benziyor.</Content>
+          <Content>Kız kardeşinin adının Angelica olduğunu söyledi. Benim ismime benziyor.</Content>
         </Dialog>
         <Dialog ID="59" Model="롤랑">
           <Teller>Roland</Teller>
@@ -4262,19 +4262,19 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Angela_3-01</VoiceFile>
-          <Content>Bu arada, o “**Mekanik Dişler**” denilen varlıklar neydi? **Kenar Mahalleler**'in yaratıkları mı?</Content>
+          <Content>Bu arada, o “Mekanik Dişler” denilen varlıklar neydi? Kenar Mahalleler'in yaratıkları mı?</Content>
         </Dialog>
         <Dialog ID="61" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Roland_7</VoiceFile>
-          <Content>**Kenar Mahalleler**, Kafa tarafından Şehir'e girmesi reddedilen **terk edilmiş ve reddedilmiş** şeylerle dolu.</Content>
+          <Content>Kenar Mahalleler, Kafa tarafından Şehir'e girmesi reddedilen terk edilmiş ve reddedilmiş şeylerle dolu.</Content>
         </Dialog>
         <Dialog ID="62" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Roland_8</VoiceFile>
-          <Content>Temel olarak Şehir'in "**kirlilikleri**" için bir çöplük. Çoğu insan hayatında **Kenar Mahalleler**'i görme fırsatı bulamaz, bu yüzden o şeylerin varlığından bile haberleri yoktur.</Content>
+          <Content>Temel olarak Şehir'in "kirlilikleri" için bir çöplük. Çoğu insan hayatında Kenar Mahalleler'i görme fırsatı bulamaz, bu yüzden o şeylerin varlığından bile haberleri yoktur.</Content>
         </Dialog>
         <Dialog ID="63" Model="롤랑">
           <Teller>Roland</Teller>
@@ -4292,7 +4292,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Roland_11-01</VoiceFile>
-          <Content>Onlar insan değil, varlıkları Şehir'de, özellikle de insanlık çağında **kabul edilemez** olan **kirlilikler**.</Content>
+          <Content>Onlar insan değil, varlıkları Şehir'de, özellikle de insanlık çağında kabul edilemez olan kirlilikler.</Content>
         </Dialog>
         <Dialog ID="66" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -4313,7 +4313,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Angela_5-01</VoiceFile>
-          <Content>Hoş geldiniz, sevgili konuk. Ben Angela, bu **Kütüphane**'nin yöneticisi ve kütüphanecisiyim.</Content>
+          <Content>Hoş geldiniz, sevgili konuk. Ben Angela, bu Kütüphane'nin yöneticisi ve kütüphanecisiyim.</Content>
         </Dialog>
         <Dialog ID="69" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -4349,7 +4349,7 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Argalia_42-01</VoiceFile>
-          <Content>Tam da şüphelendiğim gibi. **Kütüphane**'nin **olgunlaşması** gerekiyor...</Content>
+          <Content>Tam da şüphelendiğim gibi. Kütüphane'nin olgunlaşması gerekiyor...</Content>
         </Dialog>
         <Dialog ID="75" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -4374,7 +4374,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Angela_8</VoiceFile>
-          <Content>Ondan bir **kitap** da alamadık....</Content>
+          <Content>Ondan bir kitap da alamadık....</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
@@ -4386,7 +4386,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Angela_9</VoiceFile>
-          <Content>O kişinin **kitabına** her şeyden çok mu ihtiyacın var?</Content>
+          <Content>O kişinin kitabına her şeyden çok mu ihtiyacın var?</Content>
         </Dialog>
         <Dialog ID="4" Model="롤랑">
           <Teller>Roland</Teller>
@@ -4398,19 +4398,19 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Angela_10</VoiceFile>
-          <Content>**Mavi Yankı**, **Kırmızı Sis**'in peşinde gibi görünüyordu...</Content>
+          <Content>Mavi Yankı, Kırmızı Sis'in peşinde gibi görünüyordu...</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Angela_11</VoiceFile>
-          <Content>Belki **Kırmızı Sis**'in bir **kitabı** onu buraya tekrar çekebilir.</Content>
+          <Content>Belki Kırmızı Sis'in bir kitabı onu buraya tekrar çekebilir.</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Roland_15</VoiceFile>
-          <Content>Bu jesti takdir ediyorum, ama bunu tam olarak nasıl yapacaksın? Orijinal **Kırmızı Sis**'in artık var olmadığını biliyorsun.</Content>
+          <Content>Bu jesti takdir ediyorum, ama bunu tam olarak nasıl yapacaksın? Orijinal Kırmızı Sis'in artık var olmadığını biliyorsun.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -4422,7 +4422,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Angela_13</VoiceFile>
-          <Content>... Söyle bana, **Mavi Yankı** kız kardeşini bir **Çarpıtma** yüzünden kaybettiğini söyledi, değil mi?</Content>
+          <Content>... Söyle bana, Mavi Yankı kız kardeşini bir Çarpıtma yüzünden kaybettiğini söyledi, değil mi?</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -4440,13 +4440,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Angela_15</VoiceFile>
-          <Content>O zaman **Mavi Yankı**'nın amacı **intikam** almak olabilir.</Content>
+          <Content>O zaman Mavi Yankı'nın amacı intikam almak olabilir.</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Angela_16</VoiceFile>
-          <Content>Hayır, daha doğrusu... bir **Çarpıtma** yüzünden değerli bir şey kaybeden herkes, benim sorumlu olduğumu öğrendiğinde bana **kin beslerdi**.</Content>
+          <Content>Hayır, daha doğrusu... bir Çarpıtma yüzünden değerli bir şey kaybeden herkes, benim sorumlu olduğumu öğrendiğinde bana kin beslerdi.</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>Roland</Teller>
@@ -4464,7 +4464,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Angela_18</VoiceFile>
-          <Content>Ayrıca, sonuç olarak, **Şehir**'in acı çekmesine neden olan, beni çağlar boyunca tuzağa düşüren kişinin hatasıydı.</Content>
+          <Content>Ayrıca, sonuç olarak, Şehir'in acı çekmesine neden olan, beni çağlar boyunca tuzağa düşüren kişinin hatasıydı.</Content>
         </Dialog>
         <Dialog ID="17" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -4476,13 +4476,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Angela_20</VoiceFile>
-          <Content>**Mavi Yankı**'nın **intikam** isteyip istememesi umurumda değil.</Content>
+          <Content>Mavi Yankı'nın intikam isteyip istememesi umurumda değil.</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Angela_21</VoiceFile>
-          <Content>Bu sadece benim arzularım ile **Şehir** sakinlerinin arzuları arasındaki sayısız çatışmadan biri.</Content>
+          <Content>Bu sadece benim arzularım ile Şehir sakinlerinin arzuları arasındaki sayısız çatışmadan biri.</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>Roland</Teller>
@@ -4521,31 +4521,31 @@
           <Teller>Başparmak Askeri</Teller>
           <Title>Başparmak</Title>
           <VoiceFile>ch6_Index_ep2_Thumb_1_B</VoiceFile>
-          <Content>**Parmak Vuruşu** yakındayken bunu nasıl yapabilirsiniz...</Content>
+          <Content>Parmak Vuruşu yakındayken bunu nasıl yapabilirsiniz...</Content>
         </Dialog>
         <Dialog ID="4" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Gloria_2-01</VoiceFile>
-          <Content>Yeni bir şeymiş gibi davranmayın, **Başparmak** ile ilk kez kavga etmiyoruz ki~ Patronunuz tüm bunlar hakkında büyük bir yaygara koparmayacak, biliyor musunuz~?</Content>
+          <Content>Yeni bir şeymiş gibi davranmayın, Başparmak ile ilk kez kavga etmiyoruz ki~ Patronunuz tüm bunlar hakkında büyük bir yaygara koparmayacak, biliyor musunuz~?</Content>
         </Dialog>
         <Dialog ID="5" Model="에스더">
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_2</VoiceFile>
-          <Content>“Yuvada kalan tüm **Başparmak** personelinin tüm uzuvlarını kesin. Ve vücutlarını şişlere yerleştirin...”</Content>
+          <Content>“Yuvada kalan tüm Başparmak personelinin tüm uzuvlarını kesin. Ve vücutlarını şişlere yerleştirin...”</Content>
         </Dialog>
         <Dialog ID="6" Model="에스더">
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_3-01</VoiceFile>
-          <Content>Biz sadece **İlkeleri** yerine getiriyoruz. Bu süreçte kişisel duygular söz konusu değil.</Content>
+          <Content>Biz sadece İlkeleri yerine getiriyoruz. Bu süreçte kişisel duygular söz konusu değil.</Content>
         </Dialog>
         <Dialog ID="7" Model="엄지 카포">
           <Teller>Başparmak Capo'su</Teller>
           <Title>Başparmak</Title>
           <VoiceFile>ch6_Index_ep2_Thumb_2-01</VoiceFile>
-          <Content>Fanatikler, **İlkeler** dışında her şeye kör ve sağırlar... İki kere düşünmeden itaat ediyorlar!... Nereden geldiği belli olmayan emirlere uyarak hayatlarını nasıl riske atabiliyorlar aklım almıyor...!!!</Content>
+          <Content>Fanatikler, İlkeler dışında her şeye kör ve sağırlar... İki kere düşünmeden itaat ediyorlar!... Nereden geldiği belli olmayan emirlere uyarak hayatlarını nasıl riske atabiliyorlar aklım almıyor...!!!</Content>
         </Dialog>
         <Dialog ID="8" Model="에스더">
           <Teller>Esther</Teller>
@@ -4557,13 +4557,13 @@
           <Teller>Gloria</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Gloria_3</VoiceFile>
-          <Content>Ve bu **İlke**'nin sonu böyle~</Content>
+          <Content>Ve bu İlke'nin sonu böyle~</Content>
         </Dialog>
         <Dialog ID="10" Model="얀">
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Index_ep2_Yan_1</VoiceFile>
-          <Content>... Şimdi yerine getirmemiz gereken tek bir **İlke** kaldı.</Content>
+          <Content>... Şimdi yerine getirmemiz gereken tek bir İlke kaldı.</Content>
         </Dialog>
         <Dialog ID="11" Model="휴버트">
           <Teller>Hubert</Teller>
@@ -4575,25 +4575,25 @@
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_5-01</VoiceFile>
-          <Content>Bu, **İndeks**'i L Şirketi Yuvası'nda kalan son **Parmak** yapıyor.</Content>
+          <Content>Bu, İndeks'i L Şirketi Yuvası'nda kalan son Parmak yapıyor.</Content>
         </Dialog>
         <Dialog ID="13" Model="휴버트">
           <Teller>Hubert</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Hubert_3-01</VoiceFile>
-          <Content>Geriye kalan tek engeller R Şirketi'nin canavarları ve **Mavi Yankı**.</Content>
+          <Content>Geriye kalan tek engeller R Şirketi'nin canavarları ve Mavi Yankı.</Content>
         </Dialog>
         <Dialog ID="14" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Gloria_4</VoiceFile>
-          <Content>**İlkeler**'e şükürler olsun~ Bizi her zaman ne kadar mutlu yerlere götürdüklerine bayılıyorum~</Content>
+          <Content>İlkeler'e şükürler olsun~ Bizi her zaman ne kadar mutlu yerlere götürdüklerine bayılıyorum~</Content>
         </Dialog>
         <Dialog ID="15" Model="얀">
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Index_ep2_Yan_2-01</VoiceFile>
-          <Content>**İlkeler** takip edilmek içindir.</Content>
+          <Content>İlkeler takip edilmek içindir.</Content>
         </Dialog>
         <Dialog ID="16" Model="얀">
           <Teller>Yan</Teller>
@@ -4605,7 +4605,7 @@
           <Teller>Gloria</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Gloria_5</VoiceFile>
-          <Content>Çok büyük bir ağzın var, **Bay Haberci**~?</Content>
+          <Content>Çok büyük bir ağzın var, Bay Haberci~?</Content>
         </Dialog>
         <Dialog ID="18" Model="글로리아">
           <Teller>Gloria</Teller>
@@ -4617,13 +4617,13 @@
           <Teller>Gloria</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Gloria_7</VoiceFile>
-          <Content>**İlkeler** olmasaydı, ne tedavi görürdün ne de hayatta kalırdın~</Content>
+          <Content>İlkeler olmasaydı, ne tedavi görürdün ne de hayatta kalırdın~</Content>
         </Dialog>
         <Dialog ID="20" Model="얀">
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Index_ep2_Yan_4-03</VoiceFile>
-          <Content>Yine de **İlkeler**'e teşekkür etmiyorum.</Content>
+          <Content>Yine de İlkeler'e teşekkür etmiyorum.</Content>
         </Dialog>
         <Dialog ID="21" Model="얀">
           <Teller>Yan</Teller>
@@ -4635,25 +4635,25 @@
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_6</VoiceFile>
-          <Content>**Haberci** haklı. **İlkeler** yerine getirilmelidir—bu kadar basit.</Content>
+          <Content>Haberci haklı. İlkeler yerine getirilmelidir—bu kadar basit.</Content>
         </Dialog>
         <Dialog ID="23" Model="에스더">
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_7</VoiceFile>
-          <Content>**Haberci Yan** bunu geçmiş eylemleriyle iyi bir şekilde kanıtladı.</Content>
+          <Content>Haberci Yan bunu geçmiş eylemleriyle iyi bir şekilde kanıtladı.</Content>
         </Dialog>
         <Dialog ID="24" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Index_ep2_Argalia_1-01</VoiceFile>
-          <Content>Aman Tanrım, canlarım... kan kokusu havada. Konuşmak bana düşmez ama **İndeks** gerçekten değişmemiş.</Content>
+          <Content>Aman Tanrım, canlarım... kan kokusu havada. Konuşmak bana düşmez ama İndeks gerçekten değişmemiş.</Content>
         </Dialog>
         <Dialog ID="25" Model="휴버트">
           <Teller>Hubert</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Hubert_4-04</VoiceFile>
-          <Content>**Mavi Yankı**...</Content>
+          <Content>Mavi Yankı...</Content>
         </Dialog>
         <Dialog ID="26" Model="에스더">
           <Teller>Esther</Teller>
@@ -4671,7 +4671,7 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Index_ep2_Argalia_3</VoiceFile>
-          <Content>Buraya sizden bir iyilik istemeye geldim, **Vekil Esther**.</Content>
+          <Content>Buraya sizden bir iyilik istemeye geldim, Vekil Esther.</Content>
         </Dialog>
         <Dialog ID="29" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -4683,7 +4683,7 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Index_ep2_Argalia_5-01</VoiceFile>
-          <Content>Zaten **İlke**'nizi yerine getirdiniz gibi görünüyor. Bu, onları sonsuza kadar asılı tutmanızı söylemiyordu, değil mi?</Content>
+          <Content>Zaten İlke'nizi yerine getirdiniz gibi görünüyor. Bu, onları sonsuza kadar asılı tutmanızı söylemiyordu, değil mi?</Content>
         </Dialog>
         <Dialog ID="31" Model="휴버트">
           <Teller>Hubert</Teller>
@@ -4695,7 +4695,7 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Index_ep2_Argalia_6</VoiceFile>
-          <Content>Mesajları yorumlamak size kalmış, bu yüzden size bizzat soruyorum, **Vekil** arkadaşlar.</Content>
+          <Content>Mesajları yorumlamak size kalmış, bu yüzden size bizzat soruyorum, Vekil arkadaşlar.</Content>
         </Dialog>
         <Dialog ID="33" Model="글로리아">
           <Teller>Gloria</Teller>
@@ -4713,13 +4713,13 @@
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_9</VoiceFile>
-          <Content>... **Mavi Yankı**'nın onlarla ne isterse yapmasına izin verin.</Content>
+          <Content>... Mavi Yankı'nın onlarla ne isterse yapmasına izin verin.</Content>
         </Dialog>
         <Dialog ID="36" Model="에스더">
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_10</VoiceFile>
-          <Content>**İlkeler**'in birbiri ardına yerine getirildiğini görmeliyiz. Gereksiz çatışmalara neden olmaya gerek yok.</Content>
+          <Content>İlkeler'in birbiri ardına yerine getirildiğini görmeliyiz. Gereksiz çatışmalara neden olmaya gerek yok.</Content>
         </Dialog>
         <Dialog ID="37" Model="얀">
           <Teller>Yan</Teller>
@@ -4737,13 +4737,13 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Index_ep2_Argalia_8-01</VoiceFile>
-          <Content>**Vekiller** ile konuşmak her zaman bir zevktir. Benimkine benzer bir kokuları var...</Content>
+          <Content>Vekiller ile konuşmak her zaman bir zevktir. Benimkine benzer bir kokuları var...</Content>
         </Dialog>
         <Dialog ID="40" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Index_ep2_Argalia_9-01</VoiceFile>
-          <Content>Hım, biliyor musunuz, sizlerden birini **meclisime** almayı çok isterim.</Content>
+          <Content>Hım, biliyor musunuz, sizlerden birini meclisime almayı çok isterim.</Content>
         </Dialog>
         <Dialog ID="41" Model="휴버트">
           <Teller>Hubert</Teller>
@@ -4845,7 +4845,7 @@
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_11</VoiceFile>
-          <Content>... **Mavi Yankı**, bu Yuva'da kalmaya karar verdiyseniz, bilin ki bir gün sizin ve yandaşlarınızın kanı bu topraklara dökülecek.</Content>
+          <Content>... Mavi Yankı, bu Yuva'da kalmaya karar verdiyseniz, bilin ki bir gün sizin ve yandaşlarınızın kanı bu topraklara dökülecek.</Content>
         </Dialog>
         <Dialog ID="58" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -4863,19 +4863,19 @@
           <Teller>Gloria</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Gloria_10-01</VoiceFile>
-          <Content>**Mavi Yankı** hala çok iğrenç~</Content>
+          <Content>Mavi Yankı hala çok iğrenç~</Content>
         </Dialog>
         <Dialog ID="61" Model="에스더">
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_12-01</VoiceFile>
-          <Content>**İlke** bize emretmedikçe ona çok dikkat etmeye gerek yok.</Content>
+          <Content>İlke bize emretmedikçe ona çok dikkat etmeye gerek yok.</Content>
         </Dialog>
         <Dialog ID="62" Model="에스더">
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_13-01</VoiceFile>
-          <Content>... **Haberci Yan**. Bir sonraki **İlke** hazır mı?</Content>
+          <Content>... Haberci Yan. Bir sonraki İlke hazır mı?</Content>
         </Dialog>
         <Dialog ID="63" Model="얀">
           <Teller>Yan</Teller>
@@ -4887,13 +4887,13 @@
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_14_b</VoiceFile>
-          <Content>Tahmin edeyim, “Esther, Gloria, Hubert ve emrinizdeki **Proselyte**'lar **Kütüphane**'ye gitmeli” mi diyor? ... Doğru mu tahmin ettim?</Content>
+          <Content>Tahmin edeyim, “Esther, Gloria, Hubert ve emrinizdeki Proselyte'lar Kütüphane'ye gitmeli” mi diyor? ... Doğru mu tahmin ettim?</Content>
         </Dialog>
         <Dialog ID="65" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Gloria_11-01</VoiceFile>
-          <Content>Hım? **Kütüphane** mi~? Demek sonunda oraya gidiyoruz~</Content>
+          <Content>Hım? Kütüphane mi~? Demek sonunda oraya gidiyoruz~</Content>
         </Dialog>
         <Dialog ID="66" Model="얀">
           <Teller>Yan</Teller>
@@ -4905,19 +4905,19 @@
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_15</VoiceFile>
-          <Content>Şaşırmış görünüyorsun, **Haberci Yan**.</Content>
+          <Content>Şaşırmış görünüyorsun, Haberci Yan.</Content>
         </Dialog>
         <Dialog ID="68" Model="에스더">
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_16-01</VoiceFile>
-          <Content>Bize verdiğin **İlkeler**'in **gayri meşru** olduğunu zaten biliyorduk.</Content>
+          <Content>Bize verdiğin İlkeler'in gayri meşru olduğunu zaten biliyorduk.</Content>
         </Dialog>
         <Dialog ID="69" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Gloria_12-01</VoiceFile>
-          <Content>Ne~? **Kandırılan tek kişi** ben miydim?!</Content>
+          <Content>Ne~? Kandırılan tek kişi ben miydim?!</Content>
         </Dialog>
         <Dialog ID="70" Model="얀">
           <Teller>Yan</Teller>
@@ -4935,25 +4935,25 @@
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Index_ep2_Yan_10</VoiceFile>
-          <Content>**İlkeler**'in sahte olduğunu biliyorsanız, neden **Başparmak**'a savaş açtınız... Ve neden **Kütüphane**'ye giderek kendi mezarınızı kazıyorsunuz?</Content>
+          <Content>İlkeler'in sahte olduğunu biliyorsanız, neden Başparmak'a savaş açtınız... Ve neden Kütüphane'ye giderek kendi mezarınızı kazıyorsunuz?</Content>
         </Dialog>
         <Dialog ID="73" Model="에스더">
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_18-01</VoiceFile>
-          <Content>Biz sadece **İlke**'yi takip ettik.</Content>
+          <Content>Biz sadece İlke'yi takip ettik.</Content>
         </Dialog>
         <Dialog ID="74" Model="에스더">
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_19</VoiceFile>
-          <Content>Bana şunu emretti: “**Haberci Yan** tarafından verilen her **İlke**'yi yerine getirin.”</Content>
+          <Content>Bana şunu emretti: “Haberci Yan tarafından verilen her İlke'yi yerine getirin.”</Content>
         </Dialog>
         <Dialog ID="75" Model="얀">
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Index_ep2_Yan_11</VoiceFile>
-          <Content>... Demek **İlkeler** bunu biliyordu.</Content>
+          <Content>... Demek İlkeler bunu biliyordu.</Content>
         </Dialog>
         <Dialog ID="76" Model="얀">
           <Teller>Yan</Teller>
@@ -4965,19 +4965,19 @@
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_20</VoiceFile>
-          <Content>**İlkeler**'den kaçamayız. Her düşüncemiz ve eylemimiz **İlkeler**'in sınırları içinde.</Content>
+          <Content>İlkeler'den kaçamayız. Her düşüncemiz ve eylemimiz İlkeler'in sınırları içinde.</Content>
         </Dialog>
         <Dialog ID="78" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Gloria_13-01</VoiceFile>
-          <Content>Anlamıyorum! Ama **Yan** hayatı boyunca iyi bir çocuktu ve birçok **İlke**'yi yerine getirdi, değil mi?</Content>
+          <Content>Anlamıyorum! Ama Yan hayatı boyunca iyi bir çocuktu ve birçok İlke'yi yerine getirdi, değil mi?</Content>
         </Dialog>
         <Dialog ID="79" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Gloria_14</VoiceFile>
-          <Content>**Yan**~ Neden bize ihanet ettin! Para için miydi?!</Content>
+          <Content>Yan~ Neden bize ihanet ettin! Para için miydi?!</Content>
         </Dialog>
         <Dialog ID="80" Model="얀">
           <Teller>Yan</Teller>
@@ -4989,7 +4989,7 @@
           <Teller>Hubert</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Hubert_8</VoiceFile>
-          <Content>Gloria, bizim sözlüğümüzde ihanet diye bir şey yok. Önemli olan tek şey, bir **İlke**'nin yerine getirilip getirilmediğidir.</Content>
+          <Content>Gloria, bizim sözlüğümüzde ihanet diye bir şey yok. Önemli olan tek şey, bir İlke'nin yerine getirilip getirilmediğidir.</Content>
         </Dialog>
         <Dialog ID="82" Model="얀">
           <Teller>Yan</Teller>
@@ -5001,13 +5001,13 @@
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Index_ep2_Yan_15</VoiceFile>
-          <Content>Usandım artık! O aptal **İlkeler** her yerde...</Content>
+          <Content>Usandım artık! O aptal İlkeler her yerde...</Content>
         </Dialog>
         <Dialog ID="84" Model="얀">
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Index_ep2_Yan_16-02</VoiceFile>
-          <Content>**İlkeler** yüzünden o kadar çok şey kaybettim, o kadar çok şeyi terk ettim ve ihmal ettim.</Content>
+          <Content>İlkeler yüzünden o kadar çok şey kaybettim, o kadar çok şeyi terk ettim ve ihmal ettim.</Content>
         </Dialog>
         <Dialog ID="85" Model="얀">
           <Teller>Yan</Teller>
@@ -5019,13 +5019,13 @@
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Index_ep2_Yan_18</VoiceFile>
-          <Content>Suçlulukla doluydu, ama yine de kendimi buna zorlamak zorundaydım. Çünkü **İlkeler** yerine getirilmelidir!</Content>
+          <Content>Suçlulukla doluydu, ama yine de kendimi buna zorlamak zorundaydım. Çünkü İlkeler yerine getirilmelidir!</Content>
         </Dialog>
         <Dialog ID="87" Model="얀">
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Index_ep2_Yan_19</VoiceFile>
-          <Content>**İlkeler**'in... bizi doğru yola yönlendirdiğini söylüyorlar.</Content>
+          <Content>İlkeler'in... bizi doğru yola yönlendirdiğini söylüyorlar.</Content>
         </Dialog>
         <Dialog ID="88" Model="얀">
           <Teller>Yan</Teller>
@@ -5037,25 +5037,25 @@
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Index_ep2_Yan_21</VoiceFile>
-          <Content>**İlkeler**'den nefret ettim, onlardan korktum, onlardan iğrendim; bir daha onlara bakmak bile istemedim; ve sonra... bir **İlke** bana **Haberci** rolünü verdi.</Content>
+          <Content>İlkeler'den nefret ettim, onlardan korktum, onlardan iğrendim; bir daha onlara bakmak bile istemedim; ve sonra... bir İlke bana Haberci rolünü verdi.</Content>
         </Dialog>
         <Dialog ID="90" Model="얀">
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Index_ep2_Yan_22</VoiceFile>
-          <Content>**İlkeler**'i... kendi ellerimle mi iletecektim?</Content>
+          <Content>İlkeler'i... kendi ellerimle mi iletecektim?</Content>
         </Dialog>
         <Dialog ID="91" Model="얀">
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Index_ep2_Yan_23-01</VoiceFile>
-          <Content>Sonra sahte **İlkeler** yapmaya başladım. O eylemle ilk kez kendi irademi gösterdiğimi düşündüm...</Content>
+          <Content>Sonra sahte İlkeler yapmaya başladım. O eylemle ilk kez kendi irademi gösterdiğimi düşündüm...</Content>
         </Dialog>
         <Dialog ID="92" Model="얀">
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Index_ep2_Yan_24-01</VoiceFile>
-          <Content>Sonra **İlkeler**, sanki en başından beri her şeyi biliyormuş gibi bunu yaptı...</Content>
+          <Content>Sonra İlkeler, sanki en başından beri her şeyi biliyormuş gibi bunu yaptı...</Content>
         </Dialog>
         <Dialog ID="93" Model="얀">
           <Teller>Yan</Teller>
@@ -5073,19 +5073,19 @@
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_22</VoiceFile>
-          <Content>**İlkeler**'e uymak bizim görevimiz. Ve **İlke** bize **Kütüphane**'ye gitmemizi söylüyor.</Content>
+          <Content>İlkeler'e uymak bizim görevimiz. Ve İlke bize Kütüphane'ye gitmemizi söylüyor.</Content>
         </Dialog>
         <Dialog ID="96" Model="에스더">
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_23-01</VoiceFile>
-          <Content>Kendine şunu sor: Bu Şehir'de gerçekten **özgür irade** var mı?</Content>
+          <Content>Kendine şunu sor: Bu Şehir'de gerçekten özgür irade var mı?</Content>
         </Dialog>
         <Dialog ID="97" Model="에스더">
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_24-01</VoiceFile>
-          <Content>**Vekiller**. Hemen şimdi **Kütüphane**'ye gideceğiz.</Content>
+          <Content>Vekiller. Hemen şimdi Kütüphane'ye gideceğiz.</Content>
         </Dialog>
         <Dialog ID="98" Model="얀">
           <Teller>Yan</Teller>
@@ -5109,43 +5109,43 @@
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Index_ep2_Yan_28-02</VoiceFile>
-          <Content>Ama nasıl. **Kütüphane**'ye gitme emri benim uydurduğum bir yalandı...</Content>
+          <Content>Ama nasıl. Kütüphane'ye gitme emri benim uydurduğum bir yalandı...</Content>
         </Dialog>
         <Dialog ID="102" Model="에스더">
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_26-01</VoiceFile>
-          <Content>**Haberci Yan**. **İlke** seni belli bir yere **davet etti**.</Content>
+          <Content>Haberci Yan. İlke seni belli bir yere davet etti.</Content>
         </Dialog>
         <Dialog ID="103" Model="얀">
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Index_ep2_Yan_29-01</VoiceFile>
-          <Content>**İlke**... beni mi **davet etti**?</Content>
+          <Content>İlke... beni mi davet etti?</Content>
         </Dialog>
         <Dialog ID="104" Model="얀">
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Index_ep2_Yan_30-02</VoiceFile>
-          <Content>**Kütüphane**'ye gerçekten gidecek misiniz?</Content>
+          <Content>Kütüphane'ye gerçekten gidecek misiniz?</Content>
         </Dialog>
         <Dialog ID="105" Model="에스더">
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_27</VoiceFile>
-          <Content>Tıpkı **İlke**'nin emrettiği gibi.</Content>
+          <Content>Tıpkı İlke'nin emrettiği gibi.</Content>
         </Dialog>
         <Dialog ID="106" Model="얀">
           <Teller>Yan</Teller>
           <Title>İndeks Habercisi</Title>
           <VoiceFile>ch6_Index_ep2_Yan_31-01</VoiceFile>
-          <Content>Sanırım hemen ölmenizi söyleyen bir **İlke** getirseydim bile aynı şeyi söylerdiniz.</Content>
+          <Content>Sanırım hemen ölmenizi söyleyen bir İlke getirseydim bile aynı şeyi söylerdiniz.</Content>
         </Dialog>
         <Dialog ID="107" Model="에스더">
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_28-01</VoiceFile>
-          <Content>Her zaman **İlke**'ye göre hareket ederiz.</Content>
+          <Content>Her zaman İlke'ye göre hareket ederiz.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -5154,7 +5154,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Index_ep2_Angela_1</VoiceFile>
-          <Content>**Mavi Yankı**'nın neyin peşinde olduğunu merak etmiyor musun?</Content>
+          <Content>Mavi Yankı'nın neyin peşinde olduğunu merak etmiyor musun?</Content>
         </Dialog>
         <Dialog ID="109" Model="롤랑">
           <Teller>Roland</Teller>
@@ -5196,55 +5196,55 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Index_ep2_Roland_5</VoiceFile>
-          <Content>Ah, hiçbir şey. Sadece geçen gün 23. Bölge'den ağırladığımız konuklar hakkındaki **kitaplarda** okuduğum hikayeler aklıma geldi, hepsi bu.</Content>
+          <Content>Ah, hiçbir şey. Sadece geçen gün 23. Bölge'den ağırladığımız konuklar hakkındaki kitaplarda okuduğum hikayeler aklıma geldi, hepsi bu.</Content>
         </Dialog>
         <Dialog ID="116" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Index_ep2_Roland_6</VoiceFile>
-          <Content>Ayrıca, önce **İndeks Vekilleri** ile uğraşmalıyız.</Content>
+          <Content>Ayrıca, önce İndeks Vekilleri ile uğraşmalıyız.</Content>
         </Dialog>
         <Dialog ID="117" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Index_ep2_Angela_4</VoiceFile>
-          <Content>**İndeks**... **İlkeler**'e kesinlikle bağlı kalan bir **Parmak**.</Content>
+          <Content>İndeks... İlkeler'e kesinlikle bağlı kalan bir Parmak.</Content>
         </Dialog>
         <Dialog ID="118" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Index_ep2_Angela_5</VoiceFile>
-          <Content>Sahte **İlkeler** üretmesi ilginç, ama **İlkeler** de bunu önceden tahmin etmiş gibi görünüyor.</Content>
+          <Content>Sahte İlkeler üretmesi ilginç, ama İlkeler de bunu önceden tahmin etmiş gibi görünüyor.</Content>
         </Dialog>
         <Dialog ID="119" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Index_ep2_Roland_7</VoiceFile>
-          <Content>Evet. Onları kim yapıyorsa bir **dahi** olmalı.</Content>
+          <Content>Evet. Onları kim yapıyorsa bir dahi olmalı.</Content>
         </Dialog>
         <Dialog ID="120" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Index_ep2_Roland_8</VoiceFile>
-          <Content>Çok tuhaf talimatları var, ama o **İlkeler** sonunda **İndeks**'e en garip şekillerde fayda sağlıyor, sanki yaratıcısı **her şeyi biliyormuş** gibi.</Content>
+          <Content>Çok tuhaf talimatları var, ama o İlkeler sonunda İndeks'e en garip şekillerde fayda sağlıyor, sanki yaratıcısı her şeyi biliyormuş gibi.</Content>
         </Dialog>
         <Dialog ID="121" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Index_ep2_Angela_6</VoiceFile>
-          <Content>Onları yapan kişinin **etkileyici** bir birey olduğunu tahmin ediyorum.</Content>
+          <Content>Onları yapan kişinin etkileyici bir birey olduğunu tahmin ediyorum.</Content>
         </Dialog>
         <Dialog ID="122" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Index_ep2_Roland_9</VoiceFile>
-          <Content>Muhtemelen öyledir. **Parmak** kadar devasa bir Sendika'ya rehberlik etmek için diğerlerinden çok daha iyi olmalısın.</Content>
+          <Content>Muhtemelen öyledir. Parmak kadar devasa bir Sendika'ya rehberlik etmek için diğerlerinden çok daha iyi olmalısın.</Content>
         </Dialog>
         <Dialog ID="123" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Index_ep2_Roland_10</VoiceFile>
-          <Content>Yine de bu, **İlke** fanatiklerini daha az deli yapmaz.</Content>
+          <Content>Yine de bu, İlke fanatiklerini daha az deli yapmaz.</Content>
         </Dialog>
         <Dialog ID="124" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -5307,19 +5307,19 @@
           <Teller>Hubert</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Hubert_11-01</VoiceFile>
-          <Content>**Kütüphane** yöneticisinin, yani **'Solgun Kütüphaneci'**'nin, bildiğim kadarıyla bir **makine** olması gerekiyordu.</Content>
+          <Content>Kütüphane yöneticisinin, yani 'Solgun Kütüphaneci''nin, bildiğim kadarıyla bir makine olması gerekiyordu.</Content>
         </Dialog>
         <Dialog ID="134" Model="휴버트">
           <Teller>Hubert</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Hubert_12-02</VoiceFile>
-          <Content>Belki de bu yeni bilgiyle **bilgi tabanımı** güncellemeliyim...</Content>
+          <Content>Belki de bu yeni bilgiyle bilgi tabanımı güncellemeliyim...</Content>
         </Dialog>
         <Dialog ID="135" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Gloria_17</VoiceFile>
-          <Content>O bir **liger**~ **Şehir**'de bu kadar tuhaf bir canavar gördüğüme şaşırdım~</Content>
+          <Content>O bir liger~ Şehir'de bu kadar tuhaf bir canavar gördüğüme şaşırdım~</Content>
         </Dialog>
         <Dialog ID="136" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -5355,7 +5355,7 @@
           <Teller>Esther</Teller>
           <Title>İndeks Vekili</Title>
           <VoiceFile>ch6_Index_ep2_Esther_29-02</VoiceFile>
-          <Content>**Vekiller**. Asıl görevimiz, **İlke**'nin emrettiği gibi **Kütüphane**'ye girmek. Kavgayı bırakın ve içeri girin.</Content>
+          <Content>Vekiller. Asıl görevimiz, İlke'nin emrettiği gibi Kütüphane'ye girmek. Kavgayı bırakın ve içeri girin.</Content>
         </Dialog>
         <Dialog ID="142" Model="글로리아">
           <Teller>Gloria</Teller>
@@ -5367,7 +5367,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Index_ep2_Angela_14</VoiceFile>
-          <Content>**Kitaplarını** bu yerde bulmaları dileğiyle.</Content>
+          <Content>Kitaplarını bu yerde bulmaları dileğiyle.</Content>
         </Dialog>
       </Place>
     </Episode>
