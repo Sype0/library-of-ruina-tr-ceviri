@@ -4547,13 +4547,13 @@
 				</Dialog>
 				<Dialog ID="154" Model="토머리">
 					<Teller>Vatandaş</Teller>
-					<Title>Love Town</Title>
+					<Title>Aşk Kasabası</Title>
 					<VoiceFile>ch4_Tomerry_ep1_inhabitant234</VoiceFile>
-					<Content>Tommy ve Merry, Love Town'un kahramanları!</Content>
+					<Content>Tommy ve Merry, Aşk Kasabası'nın kahramanları!</Content>
 				</Dialog>
 				<Dialog ID="155" Model="토머리">
 					<Teller>Vatandaş</Teller>
-					<Title>Love Town</Title>
+					<Title>Aşk Kasabası</Title>
 					<VoiceFile>ch4_Tomerry_ep1_inhabitants1</VoiceFile>
 					<Content>Tommy!! Merry!! Çok harikasınız!!!</Content>
 				</Dialog>
@@ -4564,10 +4564,10 @@
 				</Dialog>
 			</Place>
 			<Place>
-				<PlaceName>Konum: Love Town</PlaceName>
+				<PlaceName>Konum: Aşk Kasabası</PlaceName>
 				<Dialog ID="157" Model="엘레나">
 					<Teller>Elena</Teller>
-					<Title>Love Town Annesi</Title>
+					<Title>Aşk Kasabası Annesi</Title>
 					<VoiceFile>ch4_Tomerry_ep1_elena48-01</VoiceFile>
 					<Content>Geri döndün, Tomerry.</Content>
 				</Dialog>
@@ -4579,7 +4579,7 @@
 				</Dialog>
 				<Dialog ID="159" Model="엘레나">
 					<Teller>Elena</Teller>
-					<Title>Love Town Annesi</Title>
+					<Title>Aşk Kasabası Annesi</Title>
 					<VoiceFile>ch4_Tomerry_ep1_elena49-01</VoiceFile>
 					<Content>Nasılsın?</Content>
 				</Dialog>
@@ -4591,7 +4591,7 @@
 				</Dialog>
 				<Dialog ID="161" Model="엘레나">
 					<Teller>Elena</Teller>
-					<Title>Love Town Annesi</Title>
+					<Title>Aşk Kasabası Annesi</Title>
 					<VoiceFile>ch4_Tomerry_ep1_elena50</VoiceFile>
 					<Content>Harika. Zaten acıdan zevk alıyorlar, bu yüzden hoşlarına gitmeli.</Content>
 				</Dialog>
@@ -4603,7 +4603,7 @@
 				</Dialog>
 				<Dialog ID="163" Model="엘레나">
 					<Teller>Elena</Teller>
-					<Title>Love Town Annesi</Title>
+					<Title>Aşk Kasabası Annesi</Title>
 					<VoiceFile>ch4_Tomerry_ep1_elena51</VoiceFile>
 					<Content>... Bir anlığına ön vagona gitti.</Content>
 				</Dialog>
@@ -4615,13 +4615,13 @@
 				</Dialog>
 				<Dialog ID="165" Model="엘레나">
 					<Teller>Elena</Teller>
-					<Title>Love Town Annesi</Title>
+					<Title>Aşk Kasabası Annesi</Title>
 					<VoiceFile>ch4_Tomerry_ep1_elena52-01</VoiceFile>
 					<Content>Sonunda ilginç bir oyuncak buldum.</Content>
 				</Dialog>
 				<Dialog ID="166" Model="엘레나">
 					<Teller>Elena</Teller>
-					<Title>Love Town Annesi</Title>
+					<Title>Aşk Kasabası Annesi</Title>
 					<VoiceFile>ch4_Tomerry_ep1_elena53-01</VoiceFile>
 					<Content>Bu, Eileen'a göre yeterince gördükleri anlamına geliyor.</Content>
 				</Dialog>
@@ -4633,13 +4633,13 @@
 				</Dialog>
 				<Dialog ID="168" Model="엘레나">
 					<Teller>Elena</Teller>
-					<Title>Love Town Annesi</Title>
+					<Title>Aşk Kasabası Annesi</Title>
 					<VoiceFile>ch4_Tomerry_ep1_elena54-01</VoiceFile>
 					<Content>Kütüphane Davetiyesi. O meşhur Şehir Efsanesini hatırlıyor musun?</Content>
 				</Dialog>
 				<Dialog ID="169" Model="엘레나">
 					<Teller>Elena</Teller>
-					<Title>Love Town Annesi</Title>
+					<Title>Aşk Kasabası Annesi</Title>
 					<VoiceFile>ch4_Tomerry_ep1_elena55</VoiceFile>
 					<Content>Arkanda oturan Düzeltici'ler, tıpkı buna benzeyen bir Davetiye aldıktan kısa süre sonra kayboldu.</Content>
 				</Dialog>
@@ -4657,7 +4657,7 @@
 				</Dialog>
 				<Dialog ID="172" Model="엘레나">
 					<Teller>Elena</Teller>
-					<Title>Love Town Annesi</Title>
+					<Title>Aşk Kasabası Annesi</Title>
 					<VoiceFile>ch4_Tomerry_ep1_elena56</VoiceFile>
 					<Content>Ah, doğru, Üzgünüm! Haha.</Content>
 				</Dialog>
@@ -4669,7 +4669,7 @@
 				</Dialog>
 				<Dialog ID="174" Model="엘레나">
 					<Teller>Elena</Teller>
-					<Title>Love Town Annesi</Title>
+					<Title>Aşk Kasabası Annesi</Title>
 					<VoiceFile>ch4_Tomerry_ep1_elena57</VoiceFile>
 					<Content>Hayır, hayır. Eğer burada olsaydı gülmekten ağlardı...</Content>
 				</Dialog>
@@ -4681,25 +4681,25 @@
 				</Dialog>
 				<Dialog ID="176" Model="엘레나">
 					<Teller>Elena</Teller>
-					<Title>Love Town Annesi</Title>
+					<Title>Aşk Kasabası Annesi</Title>
 					<VoiceFile>ch4_Tomerry_ep1_elena58</VoiceFile>
 					<Content>Sana kızmıyorum, görüyor musun? Seni cezalandırmıyorum da.</Content>
 				</Dialog>
 				<Dialog ID="177" Model="엘레나">
 					<Teller>Elena</Teller>
-					<Title>Love Town Annesi</Title>
+					<Title>Aşk Kasabası Annesi</Title>
 					<VoiceFile>ch4_Tomerry_ep1_elena59</VoiceFile>
 					<Content>Al, bunu al.</Content>
 				</Dialog>
 				<Dialog ID="178" Model="엘레나">
 					<Teller>Elena</Teller>
-					<Title>Love Town Annesi</Title>
+					<Title>Aşk Kasabası Annesi</Title>
 					<VoiceFile>ch4_Tomerry_ep1_elena60</VoiceFile>
 					<Content>Ve Davetiye'yi diğerleriyle birlikte imzala.</Content>
 				</Dialog>
 				<Dialog ID="179" Model="엘레나">
 					<Teller>Elena</Teller>
-					<Title>Love Town Annesi</Title>
+					<Title>Aşk Kasabası Annesi</Title>
 					<VoiceFile>ch4_Tomerry_ep1_elena61-01</VoiceFile>
 					<Content>Eğer o kağıtta listelenen kitapları bulup getirebilirsen, sana bir ödül vereceğim.</Content>
 				</Dialog>
@@ -4711,7 +4711,7 @@
 				</Dialog>
 				<Dialog ID="181" Model="엘레나">
 					<Teller>Elena</Teller>
-					<Title>Love Town Annesi</Title>
+					<Title>Aşk Kasabası Annesi</Title>
 					<VoiceFile>ch4_Tomerry_ep1_elena62</VoiceFile>
 					<Content>... Geri dönecekmişsin gibi değil.</Content>
 				</Dialog>
@@ -4827,7 +4827,7 @@
 					<Teller>Tomerry</Teller>
 					<Title>Lovetown</Title>
 					<VoiceFile>ch4_Tomerry_ep1_tomerry15_b</VoiceFile>
-					<Content>Ben Tomerry! Love Town'dan.</Content>
+					<Content>Ben Tomerry! Aşk Kasabası'dan.</Content>
 				</Dialog>
 				<Dialog ID="200" Model="토머리">
 					<Teller>Tomerry</Teller>
