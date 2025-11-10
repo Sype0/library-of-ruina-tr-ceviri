@@ -3005,38 +3005,38 @@ Tren olması gerektiği gibi çalışıyor.</Content>
     </Episode>
   </Group>
   <Group>
-    <GroupName>Temizlikçiler</GroupName>
+    <GroupName>Süpürücüler</GroupName>
     <Episode>
       <EpisodeName>Bölüm 1</EpisodeName>
       <Place>
-        <PlaceName>Konum: Bir Temizlikçi İni</PlaceName>
+        <PlaceName>Konum: Bir Süpürücü İni</PlaceName>
         <Dialog ID="0" Model="안톤">
           <Teller>Anton</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Anton1</VoiceFile>
           <Content>578...2179...8213....</Content>
         </Dialog>
         <Dialog ID="1" Model="발레리">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie1</VoiceFile>
           <Content>12915762348</Content>
         </Dialog>
         <Dialog ID="2" Model="라일라">
           <Teller>Lyla</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla1</VoiceFile>
           <Content>5832091953</Content>
         </Dialog>
         <Dialog ID="3" Model="발레리">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie2</VoiceFile>
           <Content>683024193</Content>
         </Dialog>
         <Dialog ID="4" Model="안톤">
           <Teller>Anton</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Anton2</VoiceFile>
           <Content>05043...</Content>
         </Dialog>
@@ -3047,7 +3047,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland1</VoiceFile>
-          <Content>... Biliyordum. Temizlikçilerin dilini bir tercüman olmadan anlamak imkansız.</Content>
+          <Content>... Biliyordum. Süpürücülerin dilini bir tercüman olmadan anlamak imkansız.</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -3069,184 +3069,184 @@ Tren olması gerektiği gibi çalışıyor.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Konum: Bir Temizlikçi İni</PlaceName>
+        <PlaceName>Konum: Bir Süpürücü İni</PlaceName>
         <Dialog ID="9" Model="라일라">
           <Teller>Lyla</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla2</VoiceFile>
           <Content>Gecenin artık sadece bize ait olmadığı açıkça anlaşılıyor.</Content>
         </Dialog>
         <Dialog ID="10" Model="발레리">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie3</VoiceFile>
           <Content>Biliyorum. Ailelerimizle düzgün bir şekilde yemek yiyebileceğimiz daha az yerimiz olduğunu biliyorum.</Content>
         </Dialog>
         <Dialog ID="11" Model="라일라">
           <Teller>Lyla</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla3</VoiceFile>
           <Content>L corp. Yuvası'nda yemek yiyen ailelerin, bölgeyi kaplayan sis yüzünden önlerini görmekte zorlandıklarını duydum.</Content>
         </Dialog>
         <Dialog ID="12" Model="라일라">
           <Teller>Lyla</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla4</VoiceFile>
           <Content>Bazı ailelerin siste kaybolduğunu ve ayrılamadığını duydum.</Content>
         </Dialog>
         <Dialog ID="13" Model="안톤">
           <Teller>Anton</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Anton3</VoiceFile>
           <Content>Neden... Anne'ye... söylemiyoruz...</Content>
         </Dialog>
         <Dialog ID="14" Model="발레리">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie4</VoiceFile>
           <Content>Eğer Anne bilseydi, o zaman Endeks'e karşı tam bir savaş başlatırdı. Ailelerimizi savaşta kaybetme riskini göze alamayacak kadar güvende değiliz.</Content>
         </Dialog>
         <Dialog ID="15" Model="라일라">
           <Teller>Lyla</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla5</VoiceFile>
           <Content>Eğer Endeks'in bize gerçekten ihanet ettiği doğruysa ve Anne ihanetlerinin farkına varmakta çok yavaş kalırsa... Ailelerimizin çoğu açlıktan ölecek. Yavaş yavaş ölecekler.</Content>
         </Dialog>
         <Dialog ID="16" Model="안톤">
           <Teller>Anton</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Anton4</VoiceFile>
           <Content>Daha az yiyecek... Anne'nin... yeni aile üyelerini... yetiştirmesini... zorlaştıracak...</Content>
         </Dialog>
         <Dialog ID="17" Model="발레리">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie5</VoiceFile>
           <Content>Hepimizin kendi evleri, kendi aileleri ve kendi çocukları var.</Content>
         </Dialog>
         <Dialog ID="18" Model="발레리">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie6</VoiceFile>
           <Content>İhmalkar olduğumuzu söylemiyorum. Sadece dikkatli olmamız gerektiğini söylüyorum.</Content>
         </Dialog>
         <Dialog ID="19" Model="라일라">
           <Teller>Lyla</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla6</VoiceFile>
           <Content>Biliyorsun, o kirli, aşağılık Karnaval denen tanıdıkların kardeşlerimizin inlerine baskın yapıp ailelerimizi yemelerinin üzerinden sadece bir hafta geçti.</Content>
         </Dialog>
         <Dialog ID="20" Model="라일라">
           <Teller>Lyla</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla7</VoiceFile>
           <Content>Beş gün önce, L’heure du Loup küçük kardeşimin inine girdi ve iki aileyi vahşice katletti.</Content>
         </Dialog>
         <Dialog ID="21" Model="라일라">
           <Teller>Lyla</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla8</VoiceFile>
           <Content>Üç gün önce, Endeks'ten bir Vekil komşularımızı parçaladı.</Content>
         </Dialog>
         <Dialog ID="22" Model="라일라">
           <Teller>Lyla</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla9</VoiceFile>
           <Content>İki gün önce, Kuklacı çocuklarımı aldı. Ve dün—</Content>
         </Dialog>
         <Dialog ID="23" Model="발레리">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie7</VoiceFile>
           <Content>Biliyorum! Biliyorum ki tüm bu olaylar gece yaşandı!</Content>
         </Dialog>
         <Dialog ID="24" Model="발레리">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie8</VoiceFile>
           <Content>Biliyorum ki varlığımız eskisi kadar güçlü değil! Biliyorum ki bu Yuva'nın gece saatlerindeki hakimiyetimizi kaybettik.</Content>
         </Dialog>
         <Dialog ID="25" Model="발레리">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie9</VoiceFile>
           <Content>Anne de bunu biliyor olmalı. İnimizi kullanmak için daha fazla alana ihtiyacımız olduğunu biliyoruz.</Content>
         </Dialog>
         <Dialog ID="26" Model="안톤">
           <Teller>Anton</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Anton5</VoiceFile>
           <Content>O zaman... neden...</Content>
         </Dialog>
         <Dialog ID="27" Model="발레리">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie10</VoiceFile>
           <Content>Daha büyük çatışmalara girersek daha fazla in kaybedeceğiz. Endeks'e karşı büyük çaplı bir savaşa girersek, elimizdeki zaman daha da azalacak. Bunu kendi başımıza aşmalıyız.</Content>
         </Dialog>
         <Dialog ID="28" Model="라일라">
           <Teller>Lyla</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla10</VoiceFile>
           <Content>Ne yapmalıyız.</Content>
         </Dialog>
         <Dialog ID="29" Model="발레리">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie11</VoiceFile>
           <Content>Kütüphane. Kütüphane'ye gitmeliyiz.</Content>
         </Dialog>
         <Dialog ID="30" Model="발레리">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie12</VoiceFile>
           <Content>Biliyorum ki Kütüphane'de Başparmak ve Endeks için çalışanların kitapları var.</Content>
         </Dialog>
         <Dialog ID="31" Model="라일라">
           <Teller>Lyla</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla11</VoiceFile>
           <Content>Onların Daveti'ni aldın mı?</Content>
         </Dialog>
         <Dialog ID="32" Model="발레리">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie13</VoiceFile>
           <Content>Evet. Bununla, Endeks'in gerçekten Anne'ye ve ailelerimize sırt çevirip çevirmediğini doğrulayabileceğiz.</Content>
         </Dialog>
         <Dialog ID="33" Model="발레ри">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie14</VoiceFile>
           <Content>Ayrıca, bu, L Yuvası'nda yemek yiyen ailelerimizin yaşadığı zorlukları da hafifletecek.</Content>
         </Dialog>
         <Dialog ID="34" Model="안톤">
           <Teller>Anton</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Anton6</VoiceFile>
           <Content>Eğer biz... bunun için... çok geç... kalmadıysak...</Content>
         </Dialog>
         <Dialog ID="35" Model="라일라">
           <Teller>Lyla</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla12</VoiceFile>
           <Content>Ne demek istediğini biliyorum, Amca.</Content>
         </Dialog>
         <Dialog ID="36" Model="발레리">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie15</VoiceFile>
           <Content>Komşularımızı çağıralım. Kütüphane'ye birlikte gideceğiz.</Content>
         </Dialog>
         <Dialog ID="37" Model="발레ри">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie16</VoiceFile>
           <Content>Gitmeden önce çocuklarımıza kapıları kilitlemelerini ve yabancıları içeri almamalarını söyleyelim.</Content>
         </Dialog>
         <Dialog ID="38" Model="발레ри">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie17</VoiceFile>
           <Content>Bırakalım ebeveynlerimiz Anne'yi, komşularımızı, ailemizi ve çocuklarımızı kendi elleriyle korusunlar.</Content>
         </Dialog>
@@ -3257,7 +3257,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland3</VoiceFile>
-          <Content>Vay... Gerçekten Temizlikçileri misafir olarak mı alacağız?</Content>
+          <Content>Vay... Gerçekten Süpürücüleri misafir olarak mı alacağız?</Content>
         </Dialog>
         <Dialog ID="40" Model="롤랑">
           <Teller>Roland</Teller>
@@ -3293,7 +3293,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch5_Sweepers_ep1_Angela4</VoiceFile>
-          <Content>Tüm Temizlikçiler aynı aile üyelerinden mi oluşuyor?</Content>
+          <Content>Tüm Süpürücüler aynı aile üyelerinden mi oluşuyor?</Content>
         </Dialog>
         <Dialog ID="46" Model="롤랑">
           <Teller>Roland</Teller>
@@ -3311,26 +3311,26 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland9</VoiceFile>
-          <Content>Temizlikçilerle çok fazla ilgilenmeni önermem. Varoşlar ve Dış Mahalleler'in her yerindeler. Ve aradığın özgürlükle pek ilgileri olduğunu sanmıyorum.</Content>
+          <Content>Süpürücülerle çok fazla ilgilenmeni önermem. Varoşlar ve Dış Mahalleler'in her yerindeler. Ve aradığın özgürlükle pek ilgileri olduğunu sanmıyorum.</Content>
         </Dialog>
 </Place>
       <Place>
         <PlaceName>Konum: Kütüphane İçi</PlaceName>
         <Dialog ID="49" Model="발레리">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie18</VoiceFile>
           <Content>Değerli komşular, burası Kütüphane.</Content>
         </Dialog>
         <Dialog ID="50" Model="발레리">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie19</VoiceFile>
           <Content>Burası Varoşlar'daki çöplerin son zamanlarda hakkında konuştuğu yer.</Content>
         </Dialog>
         <Dialog ID="51" Model="안톤">
           <Teller>Anton</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Anton7</VoiceFile>
           <Content>Kendi başımıza... Kütüphane'ye geleceğimizi... beklemiyordum...</Content>
         </Dialog>
@@ -3342,7 +3342,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
         </Dialog>
         <Dialog ID="53" Model="발레리">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie20</VoiceFile>
           <Content>Selamlar. ... Bizim aileden misin?</Content>
         </Dialog>
@@ -3354,13 +3354,13 @@ Tren olması gerektiği gibi çalışıyor.</Content>
         </Dialog>
         <Dialog ID="55" Model="안톤">
           <Teller>Anton</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Anton8</VoiceFile>
           <Content>Yine de... ailemizin... diliyle... konuşuyorsun...</Content>
         </Dialog>
         <Dialog ID="56" Model="라일라">
           <Teller>Lyla</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla13</VoiceFile>
           <Content>Ailemizin diğer üyeleriyle konuşabiliriz.</Content>
         </Dialog>
@@ -3372,13 +3372,13 @@ Tren olması gerektiği gibi çalışıyor.</Content>
         </Dialog>
         <Dialog ID="58" Model="라일라">
           <Teller>Lyla</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla14</VoiceFile>
           <Content>Etkilendim. Bu şaşırtıcı. Bakın, komşular. Kütüphane hiçbir yere benzemiyor.</Content>
         </Dialog>
         <Dialog ID="59" Model="발레ரி">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie21</VoiceFile>
           <Content>Biliyorum. Ailemizden olmayan biriyle ilk kez gerçek bir sohbet ediyoruz.</Content>
         </Dialog>
@@ -3390,19 +3390,19 @@ Tren olması gerektiği gibi çalışıyor.</Content>
         </Dialog>
         <Dialog ID="61" Model="안톤">
           <Teller>Anton</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Anton9</VoiceFile>
           <Content>Aile... önemli... korkunç... bir şey değil.</Content>
         </Dialog>
         <Dialog ID="62" Model="라일라">
           <Teller>Lyla</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla15</VoiceFile>
           <Content>Özür dileriz. Biz sadece istediğimiz kitapları almak için buradayız.</Content>
         </Dialog>
         <Dialog ID="63" Model="라일라">
           <Teller>Lyla</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Lyla16</VoiceFile>
           <Content>Ve bu Yuva'yı kaplayan sis hakkında... Bu konuda bir şey biliyor musun?</Content>
         </Dialog>
@@ -3414,7 +3414,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
         </Dialog>
         <Dialog ID="65" Model="발레리">
           <Teller>Valerie</Teller>
-          <Title>Temizlikçi</Title>
+          <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie22</VoiceFile>
           <Content>Doğru. Tek istediğimiz, istediğimiz kitapları almak. Memnun kalacağız.</Content>
         </Dialog>
@@ -3434,7 +3434,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland10</VoiceFile>
-          <Content>Vay, bu yorucuydu. O Temizlikçiler gerçekten inatçı.</Content>
+          <Content>Vay, bu yorucuydu. O Süpürücüler gerçekten inatçı.</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -3446,7 +3446,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland11</VoiceFile>
-          <Content>Tek söyleyebileceğim, Temizlikçilerin zemin kaybettiği, bu yüzden bu konuda bir şeyler yapmak için bir anlaşma yapmaya çalıştılar.</Content>
+          <Content>Tek söyleyebileceğim, Süpürücülerin zemin kaybettiği, bu yüzden bu konuda bir şeyler yapmak için bir anlaşma yapmaya çalıştılar.</Content>
         </Dialog>
         <Dialog ID="3" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -3464,7 +3464,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch5_Sweepers_ep1_Roland13</VoiceFile>
-          <Content>Bu arada, Temizlikçiler hakkında çok endişeli görünüyorsun. Ne var bunda?</Content>
+          <Content>Bu arada, Süpürücüler hakkında çok endişeli görünüyorsun. Ne var bunda?</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -3935,7 +3935,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Gloria</Teller>
           <Title>Endeks Vekili</Title>
           <VoiceFile>ch5_Index_ep1_Gloria12</VoiceFile>
-          <Content>Yasalar hakkında hiç şüphem yok~ Bu gidişle Başparmak ve Temizlikçilerden çok kan göreceğiz sanırım?</Content>
+          <Content>Yasalar hakkında hiç şüphem yok~ Bu gidişle Başparmak ve Süpürücülerden çok kan göreceğiz sanırım?</Content>
         </Dialog>
         <Dialog ID="71" Model="글로рия">
           <Teller>Gloria</Teller>
