@@ -547,7 +547,7 @@
           <Teller>Yujin</Teller>
           <Title>Shi B. Bölüm 2 Yöneticisi</Title>
           <VoiceFile>ch5_Shi_ep1_Yujin1</VoiceFile>
-          <Content>Duygularını bastır. Ve kendine hatırla; bu dünyayı para, şöhret ve güç yönetir.</Content>
+          <Content>Duygularını bastır. Ve kendini hatırla; bu dünyayı para, şöhret ve güç yönetir.</Content>
         </Dialog>
         <Dialog ID="2" Model="발렌틴">
           <Teller>Valentin</Teller>
@@ -571,7 +571,7 @@
           <Teller>Tenma</Teller>
           <Title>Shi B. Bölüm 2 Düzelticisi</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma2</VoiceFile>
-          <Content>... Bunun bir çıkış yolu göremiyorum... Gülümseyen Yüzler'in bile işin içinde olduğunu duydum...</Content>
+          <Content>... Bundan bir çıkış yolu göremiyorum... Gülümseyen Yüzler'in bile işin içinde olduğunu duydum...</Content>
         </Dialog>
         <Dialog ID="6" Model="발렌틴">
           <Teller>Valentin</Teller>
@@ -661,7 +661,7 @@
           <Teller>Valentin</Teller>
           <Title>Shi B. Bölüm 2 Düzelticisi</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin8</VoiceFile>
-          <Content>Ve hayatta kalanların hiçbiri, biz dahil, başka bir göreve devam edecek iyi durumda değil.</Content>
+          <Content>Ve hayatta kalanların hiçbiri, biz dahil, başka bir göreve devam edecek durumda değil.</Content>
         </Dialog>
         <Dialog ID="21" Model="발렌틴">
           <Teller>Valentin</Teller>
@@ -703,7 +703,7 @@
           <Teller>Valentin</Teller>
           <Title>Shi B. Bölüm 2 Düzelticisi</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin12</VoiceFile>
-          <Content>Aslında, Bölüm 2'deki herkesin iyileşmesi birkaç günden çok daha uzun sürecek hasarlar aldı. K corp. Tekilliği falan gibi bir şeyimiz olmadıkça...</Content>
+          <Content>Aslında, Bölüm 2'deki herkesin iyileşmesi birkaç günden çok daha uzun sürecek. K corp. Tekilliği falan gibi bir şeyimiz olmadıkça...</Content>
         </Dialog>
         <Dialog ID="28" Model="유진">
           <Teller>Yujin</Teller>
@@ -775,7 +775,7 @@
           <Teller>Tenma</Teller>
           <Title>Shi B. Bölüm 2 Düzelticisi</Title>
           <VoiceFile>ch5_Shi_ep1_Tenma14</VoiceFile>
-          <Content>O halde, Tam Durak Bürosu'nu Dişli Kilisesi'ni ortadan kaldırmaya göndermenizin nedeni de...</Content>
+          <Content>O halde, Tam-Tarikat Durdurma Bürosu'nu Dişli Kilisesi'ni ortadan kaldırmaya göndermenizin nedeni de...</Content>
         </Dialog>
         <Dialog ID="40" Model="발렌틴">
           <Teller>Valentin</Teller>
