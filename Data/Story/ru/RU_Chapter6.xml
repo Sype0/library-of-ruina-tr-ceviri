@@ -5391,7 +5391,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Index_ep2_Angela_16</VoiceFile>
-          <Content>Bireylerin **özgür iradesine** hiç saygı duymuyorlar gibi.</Content>
+          <Content>Bireylerin özgür iradesine hiç saygı duymuyorlar gibi.</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>Roland</Teller>
@@ -5445,13 +5445,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Index_ep2_Angela_23</VoiceFile>
-          <Content>Hüküm onlara, tam da bir Sottocapo ve Capo'larının ortadan kaybolduğu sırada L Şirketi Yuvası'ndaki **Başparmak** üyelerini ortadan kaldırmalarını emretti.</Content>
+          <Content>Hüküm onlara, tam da bir Sottocapo ve Capo'larının ortadan kaybolduğu sırada L Şirketi Yuvası'ndaki Başparmak üyelerini ortadan kaldırmalarını emretti.</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Index_ep2_Angela_24</VoiceFile>
-          <Content>Yan'ın ilettiği Hükümler sahteydi, ama o adamda sanki olması mukaddermiş gibi Kütüphane'ye bir **Davetiye** vardı.</Content>
+          <Content>Yan'ın ilettiği Hükümler sahteydi, ama o adamda sanki olması mukaddermiş gibi Kütüphane'ye bir Davetiye vardı.</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>Roland</Teller>
@@ -5469,7 +5469,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Index_ep2_Angela_26</VoiceFile>
-          <Content>Ama bu, sadece kırıntılardan yola çıkarak vardığım aceleci bir sonuçtu. Belki de Hükümler gerçekten de iddia ettikleri kadar **her şeyi bilen** şeylerdir?</Content>
+          <Content>Ama bu, sadece kırıntılardan yola çıkarak vardığım aceleci bir sonuçtu. Belki de Hükümler gerçekten de iddia ettikleri kadar her şeyi bilen şeylerdir?</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>Roland</Teller>
@@ -5493,13 +5493,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Index_ep2_Roland_19-01</VoiceFile>
-          <Content>Bildiğim tek şey, hissettiğim duyguların tamamen **bana ait** olduğu.</Content>
+          <Content>Bildiğim tek şey, hissettiğim duyguların tamamen bana ait olduğu.</Content>
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Index_ep2_Angela_27</VoiceFile>
-          <Content>... **Hissettiğin** duygular.</Content>
+          <Content>... Hissettiğin duygular.</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -5511,13 +5511,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Index_ep2_Roland_20</VoiceFile>
-          <Content>Yine de merak ediyorum. O **Ulak** nereye gidiyordu?</Content>
+          <Content>Yine de merak ediyorum. O Ulak nereye gidiyordu?</Content>
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Index_ep2_Angela_29</VoiceFile>
-          <Content>Görünüşe göre bir **Hüküm** tarafından davet edilmiş... nereye davet edildiği ise bizim için bir sır olmaya devam ediyor.</Content>
+          <Content>Görünüşe göre bir Hüküm tarafından davet edilmiş... nereye davet edildiği ise bizim için bir sır olmaya devam ediyor.</Content>
         </Dialog>
         <Dialog ID="24" Model="롤랑">
           <Teller>Roland</Teller>
@@ -5568,7 +5568,7 @@
           <Teller>Chun</Teller>
           <Title>Liu B. Bölüm 1 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_1-02</VoiceFile>
-          <Content>... Şu **Mavi Yankı** neyin peşinde acaba.</Content>
+          <Content>... Şu Mavi Yankı neyin peşinde acaba.</Content>
         </Dialog>
         <Dialog ID="2" Model="미리스">
           <Teller>Miris</Teller>
@@ -5634,7 +5634,7 @@
           <Teller>Chun</Teller>
           <Title>Liu B. Bölüm 1 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_5-06</VoiceFile>
-          <Content>Yakalamakta başarısız olduğumuz **Ağlayan Çocuklar**'dan yakaladığımız **Çarpıklıklar**'dan örnekler alacak uzmanlar, bunları V Şirketi'ne gönderecek.</Content>
+          <Content>Yakalamakta başarısız olduğumuz Ağlayan Çocuklar'dan yakaladığımız Çarpıklıklar'dan örnekler alacak uzmanlar, bunları V Şirketi'ne gönderecek.</Content>
         </Dialog>
         <Dialog ID="13" Model="미리스">
           <Teller>Miris</Teller>
@@ -5658,13 +5658,13 @@
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_5-01</VoiceFile>
-          <Content>Hana Birliği durumu biraz daha izledikten sonra Kütüphane ve **Çarpıklık** ile ilgili konularla ilgilenecek.</Content>
+          <Content>Hana Birliği durumu biraz daha izledikten sonra Kütüphane ve Çarpıklık ile ilgili konularla ilgilenecek.</Content>
         </Dialog>
         <Dialog ID="17" Model="미리스">
           <Teller>Miris</Teller>
           <Title>Liu B. Bölüm 1 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_7-01</VoiceFile>
-          <Content>Anlıyorum, artık bir **Şehrin Yıldızı** olduğu için Kütüphane'yi kapsamlı bir şekilde analiz etmek için zaman ayırmaları gerektiğini hissettiler...</Content>
+          <Content>Anlıyorum, artık bir Şehrin Yıldızı olduğu için Kütüphane'yi kapsamlı bir şekilde analiz etmek için zaman ayırmaları gerektiğini hissettiler...</Content>
         </Dialog>
         <Dialog ID="18" Model="춘">
           <Teller>Chun</Teller>
@@ -5712,13 +5712,13 @@
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_10</VoiceFile>
-          <Content>Bölüm'ün bir sonraki hedefi büyük ihtimalle, **Yüzük** ve **Serçe** arasındaki mücadelenin hala şiddetli olduğu **Dış Bölgeler** olacak.</Content>
+          <Content>Bölüm'ün bir sonraki hedefi büyük ihtimalle, Yüzük ve Serçe arasındaki mücadelenin hala şiddetli olduğu Dış Bölgeler olacak.</Content>
         </Dialog>
         <Dialog ID="26" Model="샤오">
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_11</VoiceFile>
-          <Content>**Serçe**'ye karşı özellikle dikkatli olmalıyız, bu yüzden o bölgeye gönderildiğimizde bunu aklınızda bulundurun.</Content>
+          <Content>Serçe'ye karşı özellikle dikkatli olmalıyız, bu yüzden o bölgeye gönderildiğimizde bunu aklınızda bulundurun.</Content>
         </Dialog>
         <Dialog ID="27" Model="춘">
           <Teller>Chun</Teller>
@@ -5730,13 +5730,13 @@
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_12</VoiceFile>
-          <Content>Miris, **aşırı özgüven** senin en büyük kusurun. Bunu aklında tutarsan, gelecekte çok zorluk çekmezsin.</Content>
+          <Content>Miris, aşırı özgüven senin en büyük kusurun. Bunu aklında tutarsan, gelecekte çok zorluk çekmezsin.</Content>
         </Dialog>
         <Dialog ID="29" Model="샤오">
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_13</VoiceFile>
-          <Content>Chun, yolda kal ve devam et. Bir gün **Renk** atanması için gereken özelliklere sahipsin.</Content>
+          <Content>Chun, yolda kal ve devam et. Bir gün Renk atanması için gereken özelliklere sahipsin.</Content>
         </Dialog>
         <Dialog ID="30" Model="춘">
           <Teller>Chun</Teller>
@@ -5766,7 +5766,7 @@
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_16</VoiceFile>
-          <Content>Bunun yerine, Kütüphane'den **"Davetiye"** adında bir kağıt parçası aldım. Masamın ortasındaydı, o yüzden görmezden gelemedim.</Content>
+          <Content>Bunun yerine, Kütüphane'den "Davetiye" adında bir kağıt parçası aldım. Masamın ortasındaydı, o yüzden görmezden gelemedim.</Content>
         </Dialog>
         <Dialog ID="35" Model="춘">
           <Teller>Chun</Teller>
@@ -5790,7 +5790,7 @@
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_18</VoiceFile>
-          <Content>**Tek taraflı istifa** ve **sözleşme ihlali**'nin tüm sorumluluğunu ve cezalarını bizzat üstleneceğim. O yüzden kariyeriniz için endişelenmenize gerek yok.</Content>
+          <Content>Tek taraflı istifa ve sözleşme ihlali'nin tüm sorumluluğunu ve cezalarını bizzat üstleneceğim. O yüzden kariyeriniz için endişelenmenize gerek yok.</Content>
         </Dialog>
         <Dialog ID="39" Model="미리스">
           <Teller>Miris</Teller>
@@ -5916,7 +5916,7 @@
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_34</VoiceFile>
-          <Content>Ancak, kalbimdeki Lowell'a karşı olan his **gerçekti**.</Content>
+          <Content>Ancak, kalbimdeki Lowell'a karşı olan his gerçekti.</Content>
         </Dialog>
         <Dialog ID="60" Model="춘">
           <Teller>Chun</Teller>
@@ -5934,7 +5934,7 @@
           <Teller>Chun</Teller>
           <Title>Liu B. Bölüm 1 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_17-01</VoiceFile>
-          <Content>Bir Birlik ile güveni kırarsanız, daha sonra kendi **Büro**'nuzu açsanız bile, er ya da geç bu işten dışlanırsınız. Hepsi bu da değil. Sonra...</Content>
+          <Content>Bir Birlik ile güveni kırarsanız, daha sonra kendi Büro'nuzu açsanız bile, er ya da geç bu işten dışlanırsınız. Hepsi bu da değil. Sonra...</Content>
         </Dialog>
         <Dialog ID="63" Model="샤오">
           <Teller>Xiao</Teller>
@@ -5964,13 +5964,13 @@
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_39-01</VoiceFile>
-          <Content>Lowell, kalbimin hala **samimi** olduğunu fark etmeme yardımcı oldu.</Content>
+          <Content>Lowell, kalbimin hala samimi olduğunu fark etmeme yardımcı oldu.</Content>
         </Dialog>
         <Dialog ID="68" Model="샤오">
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_40</VoiceFile>
-          <Content>Bu yüzden, hayatımın bir anlamı olduğunu kanıtlamak için, isteyerek bedenimi onun için **tutkunun** alevlerine teslim edeceğim.</Content>
+          <Content>Bu yüzden, hayatımın bir anlamı olduğunu kanıtlamak için, isteyerek bedenimi onun için tutkunun alevlerine teslim edeceğim.</Content>
         </Dialog>
         <Dialog ID="69" Model="춘">
           <Teller>Chun</Teller>
@@ -5994,13 +5994,13 @@
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_41</VoiceFile>
-          <Content>... Hayır. Hiçbir planım yok. Sadece **kalbimin arzusunu** yerine getirmeye çalışıyorum.</Content>
+          <Content>... Hayır. Hiçbir planım yok. Sadece kalbimin arzusunu yerine getirmeye çalışıyorum.</Content>
         </Dialog>
         <Dialog ID="73" Model="미리스">
           <Teller>Miris</Teller>
           <Title>Liu B. Bölüm 1 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_15</VoiceFile>
-          <Content>Senin gibi büyük bir **Düzeltici**'nin böyle durumlarda duygularıyla hareket etmesine diğerlerinin nasıl bakacağını çok iyi biliyorsun.</Content>
+          <Content>Senin gibi büyük bir Düzeltici'nin böyle durumlarda duygularıyla hareket etmesine diğerlerinin nasıl bakacağını çok iyi biliyorsun.</Content>
         </Dialog>
         <Dialog ID="74" Model="미리스">
           <Teller>Miris</Teller>
@@ -6048,7 +6048,7 @@
           <Teller>Chun</Teller>
           <Title>Liu B. Bölüm 1 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_21-02</VoiceFile>
-          <Content>Ne kadar **bencil**siniz, efendim.</Content>
+          <Content>Ne kadar bencilsiniz, efendim.</Content>
         </Dialog>
         <Dialog ID="82" Model="춘">
           <Teller>Chun</Teller>
@@ -6060,13 +6060,13 @@
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_46-01</VoiceFile>
-          <Content>Sizi zorlamayacağım. Kalmakta **özgürsünüz**.</Content>
+          <Content>Sizi zorlamayacağım. Kalmakta özgürsünüz.</Content>
         </Dialog>
         <Dialog ID="84" Model="샤오">
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_47-01</VoiceFile>
-          <Content>Ancak, yine de beni takip etmeyi seçerseniz... **ebedi minnettarlığımı** kazanacaksınız.</Content>
+          <Content>Ancak, yine de beni takip etmeyi seçerseniz... ebedi minnettarlığımı kazanacaksınız.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -6081,7 +6081,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_1</VoiceFile>
-          <Content>Görünüşe göre **Düzelticiler** hakkında tamamen haklı değildin, bir Birliğin Bölüm 1 yöneticisinin bile duygularına dayanarak karar verebildiğini düşünürsek.</Content>
+          <Content>Görünüşe göre Düzelticiler hakkında tamamen haklı değildin, bir Birliğin Bölüm 1 yöneticisinin bile duygularına dayanarak karar verebildiğini düşünürsek.</Content>
         </Dialog>
         <Dialog ID="87" Model="롤랑">
           <Teller>Roland</Teller>
@@ -6093,13 +6093,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Roland_3</VoiceFile>
-          <Content>**Beyaz Geceler** ve **Kara Günler** boyunca parlayan ışığın, sadece **Çarpıklık** veya **Ö.E.G** yaratmaktan daha fazla etkisi olmuş, ha?...</Content>
+          <Content>Beyaz Geceler ve Kara Günler boyunca parlayan ışığın, sadece Çarpıklık veya Ö.E.G yaratmaktan daha fazla etkisi olmuş, ha?...</Content>
         </Dialog>
         <Dialog ID="89" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Roland_4</VoiceFile>
-          <Content>Şey, burada gördüğüm tüm misafirlerden edindiğim izlenim şu ki... insanlar normalden çok daha **dürüst** hale gelmişler.</Content>
+          <Content>Şey, burada gördüğüm tüm misafirlerden edindiğim izlenim şu ki... insanlar normalden çok daha dürüst hale gelmişler.</Content>
         </Dialog>
         <Dialog ID="90" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6135,7 +6135,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_5</VoiceFile>
-          <Content>Sana karşı olan duygularımın ne olduğunu çok iyi biliyorum ve bu **aşk** değil.</Content>
+          <Content>Sana karşı olan duygularımın ne olduğunu çok iyi biliyorum ve bu aşk değil.</Content>
         </Dialog>
         <Dialog ID="96" Model="롤랑">
           <Teller>Roland</Teller>
@@ -6147,7 +6147,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_6</VoiceFile>
-          <Content>Doğru. Senin seviyende başka bir yoldaş bulmak ve onunla bir ilişki kurmak **sıfırdan** başlamak çok yorucu olurdu.</Content>
+          <Content>Doğru. Senin seviyende başka bir yoldaş bulmak ve onunla bir ilişki kurmak sıfırdan başlamak çok yorucu olurdu.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -6162,13 +6162,13 @@
           <Teller>Chun</Teller>
           <Title>Liu B. Bölüm 1 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_23-04</VoiceFile>
-          <Content>**Şube Liderimizin** bize sonsuza dek lanet okuduğunu şimdiden hayal edebiliyorum.</Content>
+          <Content>Şube Liderimizin bize sonsuza dek lanet okuduğunu şimdiden hayal edebiliyorum.</Content>
         </Dialog>
         <Dialog ID="100" Model="샤오">
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_48-01</VoiceFile>
-          <Content>Sizin için gerçekten **üzgünüm**.</Content>
+          <Content>Sizin için gerçekten üzgünüm.</Content>
         </Dialog>
         <Dialog ID="101" Model="미리스">
           <Teller>Miris</Teller>
@@ -6186,7 +6186,7 @@
           <Teller>Chun</Teller>
           <Title>Liu B. Bölüm 1 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_24-01</VoiceFile>
-          <Content>Ve Kütüphane'de iyi sonuçlar alırsak sapmamız **affedilebilir**.</Content>
+          <Content>Ve Kütüphane'de iyi sonuçlar alırsak sapmamız affedilebilir.</Content>
         </Dialog>
         <Dialog ID="104" Model="샤오">
           <Teller>Xiao</Teller>
@@ -6198,19 +6198,19 @@
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_50</VoiceFile>
-          <Content>Ama siz, hayatınıza her şeyden daha çok **değer** vermelisiniz.</Content>
+          <Content>Ama siz, hayatınıza her şeyden daha çok değer vermelisiniz.</Content>
         </Dialog>
         <Dialog ID="106" Model="샤오">
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_51</VoiceFile>
-          <Content>Evet, buraya kadar beni takip ettiğinizde bunu söylememin biraz **utanç verici** olduğunu biliyorum.</Content>
+          <Content>Evet, buraya kadar beni takip ettiğinizde bunu söylememin biraz utanç verici olduğunu biliyorum.</Content>
         </Dialog>
         <Dialog ID="107" Model="춘">
           <Teller>Chun</Teller>
           <Title>Liu B. Bölüm 1 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_25-04</VoiceFile>
-          <Content>Korkunç derecede yüzsüzsünüz, efendim. Burada birimizin ölme ihtimalini **rafa kaldıralım**.</Content>
+          <Content>Korkunç derecede yüzsüzsünüz, efendim. Burada birimizin ölme ihtimalini rafa kaldıralım.</Content>
         </Dialog>
         <Dialog ID="108" Model="미리스">
           <Teller>Miris</Teller>
@@ -6228,19 +6228,19 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_7</VoiceFile>
-          <Content>**Hoş geldiniz**, sevgili misafirler.</Content>
+          <Content>Hoş geldiniz, sevgili misafirler.</Content>
         </Dialog>
         <Dialog ID="111" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_8</VoiceFile>
-          <Content>Ben Angela, bu **Kütüphane**'nin yöneticisi ve **Kütüphanecisi**'yim.</Content>
+          <Content>Ben Angela, bu Kütüphane'nin yöneticisi ve Kütüphanecisi'yim.</Content>
         </Dialog>
         <Dialog ID="112" Model="샤오">
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_53</VoiceFile>
-          <Content>Size misafirperverlikle karşılık verecek **havada** değilim, ama görgü kuralları görgü kurallarıdır...</Content>
+          <Content>Size misafirperverlikle karşılık verecek havada değilim, ama görgü kuralları görgü kurallarıdır...</Content>
         </Dialog>
         <Dialog ID="113" Model="샤오">
           <Teller>Xiao</Teller>
@@ -6270,7 +6270,7 @@
           <Teller>Miris</Teller>
           <Title>Liu B. Bölüm 1 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_21</VoiceFile>
-          <Content>Neden tereddüt ediyorsun, hanımefendi. Bütün bu zamandan sonra yaptıkların için **pişmanlık** mı duyuyorsun?</Content>
+          <Content>Neden tereddüt ediyorsun, hanımefendi. Bütün bu zamandan sonra yaptıkların için pişmanlık mı duyuyorsun?</Content>
         </Dialog>
         <Dialog ID="118" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6282,7 +6282,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_12</VoiceFile>
-          <Content>Aynı üniformayı giyen meslektaşlarının burada ne **kaderle** karşılaştığını bildiğine eminim, değil mi?</Content>
+          <Content>Aynı üniformayı giyen meslektaşlarının burada ne kaderle karşılaştığını bildiğine eminim, değil mi?</Content>
         </Dialog>
         <Dialog ID="120" Model="샤오">
           <Teller>Xiao</Teller>
@@ -6300,7 +6300,7 @@
           <Teller>Miris</Teller>
           <Title>Liu B. Bölüm 1 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_22-02</VoiceFile>
-          <Content>... Dilini tutsan iyi edersin, **hanımefendi kütüphane yöneticisi**.</Content>
+          <Content>... Dilini tutsan iyi edersin, hanımefendi kütüphane yöneticisi.</Content>
         </Dialog>
         <Dialog ID="123" Model="춘">
           <Teller>Chun</Teller>
@@ -6312,13 +6312,13 @@
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_56</VoiceFile>
-          <Content>Yeter, ikiniz. Lafı nereye getirmeye çalışıyorsun, **kütüphane yöneticisi**?</Content>
+          <Content>Yeter, ikiniz. Lafı nereye getirmeye çalışıyorsun, kütüphane yöneticisi?</Content>
         </Dialog>
         <Dialog ID="125" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_14</VoiceFile>
-          <Content>Sadece **insanların psikolojisini** merak ediyorum... ki bu konuda çok az şey biliyorum.</Content>
+          <Content>Sadece insanların psikolojisini merak ediyorum... ki bu konuda çok az şey biliyorum.</Content>
         </Dialog>
         <Dialog ID="126" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6330,13 +6330,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_16</VoiceFile>
-          <Content>Ben de... hayır, **vekalet** arayan birinin hikayesini sayısız kez gördüm.</Content>
+          <Content>Ben de... hayır, vekalet arayan birinin hikayesini sayısız kez gördüm.</Content>
         </Dialog>
         <Dialog ID="128" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_17</VoiceFile>
-          <Content>Deneyimlerime göre, amacına kendi hayatından daha çok **değer** vermeni anlayamıyorum.</Content>
+          <Content>Deneyimlerime göre, amacına kendi hayatından daha çok değer vermeni anlayamıyorum.</Content>
         </Dialog>
         <Dialog ID="129" Model="샤오">
           <Teller>Xiao</Teller>
@@ -6348,13 +6348,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_18</VoiceFile>
-          <Content>Doğru. Böylece **değerli** hayatını çöpe atmak zorunda kalmazsın.</Content>
+          <Content>Doğru. Böylece değerli hayatını çöpe atmak zorunda kalmazsın.</Content>
         </Dialog>
         <Dialog ID="131" Model="샤오">
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_58</VoiceFile>
-          <Content>Bir makine bunu asla anlamaz. **Önemsediğim** bir şey için damarlarımdan geçen yanan kan hissini.</Content>
+          <Content>Bir makine bunu asla anlamaz. Önemsediğim bir şey için damarlarımdan geçen yanan kan hissini.</Content>
         </Dialog>
         <Dialog ID="132" Model="샤오">
           <Teller>Xiao</Teller>
@@ -6366,13 +6366,13 @@
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_60</VoiceFile>
-          <Content>"**Değerli**" senin bu kadar laf olsun diye söyleyebileceğin bir kelime değil...</Content>
+          <Content>"Değerli" senin bu kadar laf olsun diye söyleyebileceğin bir kelime değil...</Content>
         </Dialog>
         <Dialog ID="134" Model="샤오">
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_61</VoiceFile>
-          <Content>**Hayaller**, **umutlar**, **idealler**; insanlığı ayağa kalkmaya ve yaşamaya motive eden her şeyi tanımlayan tüm kelimeler...</Content>
+          <Content>Hayaller, umutlar, idealler; insanlığı ayağa kalkmaya ve yaşamaya motive eden her şeyi tanımlayan tüm kelimeler...</Content>
         </Dialog>
         <Dialog ID="135" Model="샤오">
           <Teller>Xiao</Teller>
@@ -6390,19 +6390,19 @@
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_63</VoiceFile>
-          <Content>Buna itiraz etmeyeceğim. Sanırım diğerleri kendileri için **değerli** olanın kaybının üstesinden farklı şekillerde geliyor.</Content>
+          <Content>Buna itiraz etmeyeceğim. Sanırım diğerleri kendileri için değerli olanın kaybının üstesinden farklı şekillerde geliyor.</Content>
         </Dialog>
         <Dialog ID="138" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_20-01</VoiceFile>
-          <Content>Peki, buraya neden bu kadar **gururla** girdin? Bizden daha güçlü olduğuna dair **asılsız** bir güven mi bu?</Content>
+          <Content>Peki, buraya neden bu kadar gururla girdin? Bizden daha güçlü olduğuna dair asılsız bir güven mi bu?</Content>
         </Dialog>
         <Dialog ID="139" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_21</VoiceFile>
-          <Content>Yoksa sadece **öfke**den gözün mü kör oldu?</Content>
+          <Content>Yoksa sadece öfkeden gözün mü kör oldu?</Content>
         </Dialog>
         <Dialog ID="140" Model="샤오">
           <Teller>Xiao</Teller>
@@ -6414,7 +6414,7 @@
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_65</VoiceFile>
-          <Content>Ancak, taşıdığım bu duygunun **öfke** ya da **keder** olmadığını biliyorum.</Content>
+          <Content>Ancak, taşıdığım bu duygunun öfke ya da keder olmadığını biliyorum.</Content>
         </Dialog>
         <Dialog ID="142" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6426,19 +6426,19 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_23</VoiceFile>
-          <Content>İstediğini söyleyebilirsin, ama bu, hayatını daha az **anlamsız** yapmaz. Varoluşun bir anlamı için **ölümün pençelerine** yürümek mi?</Content>
+          <Content>İstediğini söyleyebilirsin, ama bu, hayatını daha az anlamsız yapmaz. Varoluşun bir anlamı için ölümün pençelerine yürümek mi?</Content>
         </Dialog>
         <Dialog ID="144" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_24</VoiceFile>
-          <Content>Elbette, şimdi istediğin kadar **güvenle** hareket edebilirsin; çünkü **kararlı** ve **dayanıklı** olduğunu düşünüyorsun.</Content>
+          <Content>Elbette, şimdi istediğin kadar güvenle hareket edebilirsin; çünkü kararlı ve dayanıklı olduğunu düşünüyorsun.</Content>
         </Dialog>
         <Dialog ID="145" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_25</VoiceFile>
-          <Content>Ama beklenmedik bir durum karşına çıktığında... O **kararlılığın** dayanabilecek mi?</Content>
+          <Content>Ama beklenmedik bir durum karşına çıktığında... O kararlılığın dayanabilecek mi?</Content>
         </Dialog>
         <Dialog ID="146" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6450,13 +6450,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_27</VoiceFile>
-          <Content>Sonuçta, bu, ölümle yüzleşildiğinde **yararsız** hale gelen zayıf bir **umuttan** ibaret.</Content>
+          <Content>Sonuçta, bu, ölümle yüzleşildiğinde yararsız hale gelen zayıf bir umuttan ibaret.</Content>
         </Dialog>
         <Dialog ID="148" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_28</VoiceFile>
-          <Content>**Önemsiz** azmini ne değiştirebilir?</Content>
+          <Content>Önemsiz azmini ne değiştirebilir?</Content>
         </Dialog>
         <Dialog ID="149" Model="샤오">
           <Teller>Xiao</Teller>
@@ -6468,19 +6468,19 @@
           <Teller>Chun</Teller>
           <Title>Liu B. Bölüm 1 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_28</VoiceFile>
-          <Content>... Bu, geri dönmemiz için bir tür **uyarı** mı?</Content>
+          <Content>... Bu, geri dönmemiz için bir tür uyarı mı?</Content>
         </Dialog>
         <Dialog ID="151" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_29</VoiceFile>
-          <Content>Sizi durduracak ne **gücüm** ne de **hakkım** var.</Content>
+          <Content>Sizi durduracak ne gücüm ne de hakkım var.</Content>
         </Dialog>
         <Dialog ID="152" Model="미리스">
           <Teller>Miris</Teller>
           <Title>Liu B. Bölüm 1 Düzelticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Miris_23</VoiceFile>
-          <Content>Gerçekten **sinirimi** bozuyorsun...</Content>
+          <Content>Gerçekten sinirimi bozuyorsun...</Content>
         </Dialog>
         <Dialog ID="153" Model="미리스">
           <Teller>Miris</Teller>
@@ -6498,13 +6498,13 @@
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_68-01</VoiceFile>
-          <Content>Evet. Lowell'ın kitabını burada bulacağıma **umut** ediyorum.</Content>
+          <Content>Evet. Lowell'ın kitabını burada bulacağıma umut ediyorum.</Content>
         </Dialog>
         <Dialog ID="156" Model="샤오">
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_69-01</VoiceFile>
-          <Content>Kendimi **kararlı** hissetsem bile, diğerlerinin acınası olduğumu düşünmelerini engelleyemem. **Acınası** bir insan olduğumu düşünmekte özgürsün.</Content>
+          <Content>Kendimi kararlı hissetsem bile, diğerlerinin acınası olduğumu düşünmelerini engelleyemem. Acınası bir insan olduğumu düşünmekte özgürsün.</Content>
         </Dialog>
         <Dialog ID="157" Model="샤오">
           <Teller>Xiao</Teller>
@@ -6516,19 +6516,19 @@
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_71-01</VoiceFile>
-          <Content>Bir **azim** neyi değiştirecek, diye soruyorsun?</Content>
+          <Content>Bir azim neyi değiştirecek, diye soruyorsun?</Content>
         </Dialog>
         <Dialog ID="159" Model="샤오">
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_72</VoiceFile>
-          <Content>Elbette çok şeyi değiştirmez. **Umut** yolu sihirli bir şekilde aydınlatmaz. Her zaman **parlak** olmaz.</Content>
+          <Content>Elbette çok şeyi değiştirmez. Umut yolu sihirli bir şekilde aydınlatmaz. Her zaman parlak olmaz.</Content>
         </Dialog>
         <Dialog ID="160" Model="샤오">
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_73-01</VoiceFile>
-          <Content>Bazı yönlerden **çaresizliğe** benzeyecektir... ne yapacağımı, nereye gideceğimi bilmeden karanlıkta kaybolabilirim.</Content>
+          <Content>Bazı yönlerden çaresizliğe benzeyecektir... ne yapacağımı, nereye gideceğimi bilmeden karanlıkta kaybolabilirim.</Content>
         </Dialog>
         <Dialog ID="161" Model="샤오">
           <Teller>Xiao</Teller>
@@ -6546,25 +6546,25 @@
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_76</VoiceFile>
-          <Content>**Doğruyu** düşünerek... şu anda yapmam gerekeni aklımda tutarak ve bunu eyleme geçirerek, o zaman imkansız başarılabilecektir.</Content>
+          <Content>Doğruyu düşünerek... şu anda yapmam gerekeni aklımda tutarak ve bunu eyleme geçirerek, o zaman imkansız başarılabilecektir.</Content>
         </Dialog>
         <Dialog ID="164" Model="샤오">
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_77-01</VoiceFile>
-          <Content>**Umut**, dokunulmaza dokunmamızı... ulaşılamayana ulaşmamızı... ve görünmeyeni görmemizi sağlar.</Content>
+          <Content>Umut, dokunulmaza dokunmamızı... ulaşılamayana ulaşmamızı... ve görünmeyeni görmemizi sağlar.</Content>
         </Dialog>
         <Dialog ID="165" Model="샤오">
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_78-01</VoiceFile>
-          <Content>Sözlerinin beni yıkmasına izin vermeyeceğim; **geri adım atmayacağım**... **Pòfǔchénzhōu** (Tencereyi kırıp gemiyi batırdı). Geri çekilmek yok.</Content>
+          <Content>Sözlerinin beni yıkmasına izin vermeyeceğim; geri adım atmayacağım... Pòfǔchénzhōu (Tencereyi kırıp gemiyi batırdı). Geri çekilmek yok.</Content>
         </Dialog>
         <Dialog ID="166" Model="샤오">
           <Teller>Xiao</Teller>
           <Title>Liu B. Bölüm 1 Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Xiao_79-05</VoiceFile>
-          <Content>Öyleyse bizden **korkmuyorsan** içeri al bizi!</Content>
+          <Content>Öyleyse bizden korkmuyorsan içeri al bizi!</Content>
         </Dialog>
         <Dialog ID="167" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6594,7 +6594,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_32</VoiceFile>
-          <Content>Emin değilim. Tam olarak bir **Çarpıklık** mı yoksa **Ö.E.G.** mi olduğunu söyleyemem.</Content>
+          <Content>Emin değilim. Tam olarak bir Çarpıklık mı yoksa Ö.E.G. mi olduğunu söyleyemem.</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
@@ -6606,25 +6606,25 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_33</VoiceFile>
-          <Content>O karmaşa... **sebebi** neydi acaba.</Content>
+          <Content>O karmaşa... sebebi neydi acaba.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_34</VoiceFile>
-          <Content>Onu bunu yapmaya **motive** eden neydi?</Content>
+          <Content>Onu bunu yapmaya motive eden neydi?</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Roland_10</VoiceFile>
-          <Content>Patronu için bu kadar endişelenmesini beklemiyordum... insanların kendi başlarına kaçtığını gördüm, ama hem kendisi hem de başkası yaşayabilsin diye birini **sürüklemek** mi? Bu yeni.</Content>
+          <Content>Patronu için bu kadar endişelenmesini beklemiyordum... insanların kendi başlarına kaçtığını gördüm, ama hem kendisi hem de başkası yaşayabilsin diye birini sürüklemek mi? Bu yeni.</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Roland_11</VoiceFile>
-          <Content>Gerçi sürüklenen kadın savaşmaya ve kazanmaya **kararlıydı**.</Content>
+          <Content>Gerçi sürüklenen kadın savaşmaya ve kazanmaya kararlıydı.</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
@@ -6636,31 +6636,31 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_35</VoiceFile>
-          <Content>Bilmiyorum. Bundan sonra ne olacağı her zamanki gibi bir **gizem**.</Content>
+          <Content>Bilmiyorum. Bundan sonra ne olacağı her zamanki gibi bir gizem.</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Roland_13</VoiceFile>
-          <Content>Gördüğüm tek şey, ondan çıkan **boynuzlar** ve **yılan pullarıydı**... sanırım.</Content>
+          <Content>Gördüğüm tek şey, ondan çıkan boynuzlar ve yılan pullarıydı... sanırım.</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_36</VoiceFile>
-          <Content>Sanırım bir tür **geçiş aşamasıydı**. Yavaş yavaş ilerlemenin bir işareti gibiydi.</Content>
+          <Content>Sanırım bir tür geçiş aşamasıydı. Yavaş yavaş ilerlemenin bir işareti gibiydi.</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_37</VoiceFile>
-          <Content>Bir **Çarpıklık** olup olmadığını söyleyemem çünkü arada çok ince bir çizgi var. Gördüğümüz kadarıyla anlamak için yeterli değil.</Content>
+          <Content>Bir Çarpıklık olup olmadığını söyleyemem çünkü arada çok ince bir çizgi var. Gördüğümüz kadarıyla anlamak için yeterli değil.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Roland_14</VoiceFile>
-          <Content>Öyle mi oluyor, ha?... bu **duygu çizgileri** meselesi hala benim için epey zor.</Content>
+          <Content>Öyle mi oluyor, ha?... bu duygu çizgileri meselesi hala benim için epey zor.</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6678,7 +6678,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_39</VoiceFile>
-          <Content>Sadece net bir cevabın olmamasından **hayal kırıklığına** uğradım.</Content>
+          <Content>Sadece net bir cevabın olmamasından hayal kırıklığına uğradım.</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6705,7 +6705,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_1</VoiceFile>
-          <Content>**Kırmızı Sis**'in bir kitabını teorik olarak kullanarak **Mavi Yankı**'yı çekebileceğimizi söylediğimi hatırlıyor musun?</Content>
+          <Content>Kırmızı Sis'in bir kitabını teorik olarak kullanarak Mavi Yankı'yı çekebileceğimizi söylediğimi hatırlıyor musun?</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
@@ -6717,19 +6717,19 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_3</VoiceFile>
-          <Content>Bekle... **Gebura**'yı kitaba dönüştürmeyeceksin, değil mi?</Content>
+          <Content>Bekle... Gebura'yı kitaba dönüştürmeyeceksin, değil mi?</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_2</VoiceFile>
-          <Content>O kadar **acımasızca** bir şey yapmam.</Content>
+          <Content>O kadar acımasızca bir şey yapmam.</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_3</VoiceFile>
-          <Content>**Kırmızı Sis**'in geride bıraktığı bazı şeyler var ve onları kullanarak **Kırmızı Sis**'i, geçmişteki **görkemiyle** misafirimiz olarak davet edebilirim.</Content>
+          <Content>Kırmızı Sis'in geride bıraktığı bazı şeyler var ve onları kullanarak Kırmızı Sis'i, geçmişteki görkemiyle misafirimiz olarak davet edebilirim.</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6741,13 +6741,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_5</VoiceFile>
-          <Content>Ancak, yalnızca **Kütüphane** sınırları içinde var olabilir.</Content>
+          <Content>Ancak, yalnızca Kütüphane sınırları içinde var olabilir.</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_4</VoiceFile>
-          <Content>Yani temelde onun bir **simülasyonunu** mu yapacağız?</Content>
+          <Content>Yani temelde onun bir simülasyonunu mu yapacağız?</Content>
         </Dialog>
         <Dialog ID="9" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6759,13 +6759,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_5</VoiceFile>
-          <Content>Ama insanları buraya davet etmek için **kitaplara** ihtiyacımız var. **Kırmızı Sis**'i çekmek için ne tür kitaplar hazırladın?</Content>
+          <Content>Ama insanları buraya davet etmek için kitaplara ihtiyacımız var. Kırmızı Sis'i çekmek için ne tür kitaplar hazırladın?</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_7</VoiceFile>
-          <Content>... **Lobotomy Şirketi** hakkındaki kitaplar.</Content>
+          <Content>... Lobotomy Şirketi hakkındaki kitaplar.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑">
           <Teller>Roland</Teller>
@@ -6777,7 +6777,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_8</VoiceFile>
-          <Content>Ve **Kırmızı Sis**'i, belirli **Baş Kütüphaneciler**'in ağırlamasını sınırlamayı planlıyorum.</Content>
+          <Content>Ve Kırmızı Sis'i, belirli Baş Kütüphaneciler'in ağırlamasını sınırlamayı planlıyorum.</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>Roland</Teller>
@@ -6789,13 +6789,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_9</VoiceFile>
-          <Content>Sebep bu değil, hayır. **Kırmızı Sis** birlikte çalıştığı kişilere karşı **kılıcını** doğrultmaya dayanabilir mi?</Content>
+          <Content>Sebep bu değil, hayır. Kırmızı Sis birlikte çalıştığı kişilere karşı kılıcını doğrultmaya dayanabilir mi?</Content>
         </Dialog>
         <Dialog ID="16" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_10</VoiceFile>
-          <Content>Açıkça görülüyor ki, her iki tarafta da **olumsuz** etkileri olacaktır.</Content>
+          <Content>Açıkça görülüyor ki, her iki tarafta da olumsuz etkileri olacaktır.</Content>
         </Dialog>
         <Dialog ID="17" Model="롤랑">
           <Teller>Roland</Teller>
@@ -6807,19 +6807,19 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_9</VoiceFile>
-          <Content>Geçmişteki **Kırmızı Sis**... kim bilebilirdi ki onunla şahsen karşılaşacağız.</Content>
+          <Content>Geçmişteki Kırmızı Sis... kim bilebilirdi ki onunla şahsen karşılaşacağız.</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_11</VoiceFile>
-          <Content>Gerçekten **merak uyandırıcı**. Nasıl bir duygu bu?</Content>
+          <Content>Gerçekten merak uyandırıcı. Nasıl bir duygu bu?</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_10</VoiceFile>
-          <Content>Heyecan verici, ama aynı zamanda beni **endişelendiriyor** da...</Content>
+          <Content>Heyecan verici, ama aynı zamanda beni endişelendiriyor da...</Content>
         </Dialog>
       </Place>
       <Place>
@@ -6834,13 +6834,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_12</VoiceFile>
-          <Content>Seni bu formda ilk kez görüyorum, **Gebura**.</Content>
+          <Content>Seni bu formda ilk kez görüyorum, Gebura.</Content>
         </Dialog>
         <Dialog ID="23" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_2-01</VoiceFile>
-          <Content>**Gebura** mı? Saçmalıyorsun. Sen kimsin?</Content>
+          <Content>Gebura mı? Saçmalıyorsun. Sen kimsin?</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6852,7 +6852,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_14</VoiceFile>
-          <Content>O zaman sana **Kali** mi demeliyim?</Content>
+          <Content>O zaman sana Kali mi demeliyim?</Content>
         </Dialog>
         <Dialog ID="26" Model="칼리">
           <Teller>Kali</Teller>
@@ -6864,13 +6864,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_15</VoiceFile>
-          <Content>Ben Angela, bu **Kütüphane**'nin yöneticisi ve **Kütüphanecisi**'yim. Seni buraya **davet eden** benim.</Content>
+          <Content>Ben Angela, bu Kütüphane'nin yöneticisi ve Kütüphanecisi'yim. Seni buraya davet eden benim.</Content>
         </Dialog>
         <Dialog ID="28" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_4</VoiceFile>
-          <Content>Ne? **Kütüphane** mi? **Misafir** mi?</Content>
+          <Content>Ne? Kütüphane mi? Misafir mi?</Content>
         </Dialog>
         <Dialog ID="29" Model="칼리">
           <Teller>Kali</Teller>
@@ -6882,7 +6882,7 @@
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_6</VoiceFile>
-          <Content>Hayır, bekle, bu hala mantıklı değil... **Dış Bölgeler**'deki laboratuvarın içinde olduğuma yemin edebilirdim...</Content>
+          <Content>Hayır, bekle, bu hala mantıklı değil... Dış Bölgeler'deki laboratuvarın içinde olduğuma yemin edebilirdim...</Content>
         </Dialog>
         <Dialog ID="31" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6894,19 +6894,19 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_17</VoiceFile>
-          <Content>**Carmen** adında birini tanıyor musun?</Content>
+          <Content>Carmen adında birini tanıyor musun?</Content>
         </Dialog>
         <Dialog ID="33" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_7-02</VoiceFile>
-          <Content>... Biliyordum, bizi ezmek için saçmalayan bir **Kanat** olmalı bu.</Content>
+          <Content>... Biliyordum, bizi ezmek için saçmalayan bir Kanat olmalı bu.</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_18</VoiceFile>
-          <Content>Bu kadar **teyakkuzda** olmana gerek yok.</Content>
+          <Content>Bu kadar teyakkuzda olmana gerek yok.</Content>
         </Dialog>
         <Dialog ID="35" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6924,31 +6924,31 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_20</VoiceFile>
-          <Content>... **Cogito**. Umutsuzca aradığınız maddeyi nasıl elde edeceğinize dair bilgiyi içeren bir kitap bu kapının ardında bekliyor.</Content>
+          <Content>... Cogito. Umutsuzca aradığınız maddeyi nasıl elde edeceğinize dair bilgiyi içeren bir kitap bu kapının ardında bekliyor.</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_21</VoiceFile>
-          <Content>Sadece sana bir **teklifte** bulunmak istiyorum.</Content>
+          <Content>Sadece sana bir teklifte bulunmak istiyorum.</Content>
         </Dialog>
         <Dialog ID="39" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_9-01</VoiceFile>
-          <Content>... Ne istiyorsun? Seni uyarıyorum, bana saçma sapan bir şey söylemeye kalkarsan, burası **moloz yığınına** döner.</Content>
+          <Content>... Ne istiyorsun? Seni uyarıyorum, bana saçma sapan bir şey söylemeye kalkarsan, burası moloz yığınına döner.</Content>
         </Dialog>
         <Dialog ID="40" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_22</VoiceFile>
-          <Content>Basit. Öncelikle, grubunun **mevcut durumunu** bilmek istiyorum.</Content>
+          <Content>Basit. Öncelikle, grubunun mevcut durumunu bilmek istiyorum.</Content>
         </Dialog>
         <Dialog ID="41" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_10</VoiceFile>
-          <Content>... Sorularını yanıtlarsam... Bana **Cogito**'yu nasıl alacağımı söyleyeceksin, değil mi?</Content>
+          <Content>... Sorularını yanıtlarsam... Bana Cogito'yu nasıl alacağımı söyleyeceksin, değil mi?</Content>
         </Dialog>
         <Dialog ID="42" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6960,13 +6960,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_24</VoiceFile>
-          <Content>Ben sadece bu tür kitapları **kaydediyor** ve **topluyorum**.</Content>
+          <Content>Ben sadece bu tür kitapları kaydediyor ve topluyorum.</Content>
         </Dialog>
         <Dialog ID="44" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_11</VoiceFile>
-          <Content>... Pekala. Bu seferlik sana **güveneceğim**.</Content>
+          <Content>... Pekala. Bu seferlik sana güveneceğim.</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6978,13 +6978,13 @@
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_12-01</VoiceFile>
-          <Content>... Eğer mavi saçlı **zeki** olandan bahsediyorsan, evet.</Content>
+          <Content>... Eğer mavi saçlı zeki olandan bahsediyorsan, evet.</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_26</VoiceFile>
-          <Content>**Lisa** hakkında ne diyorsun?</Content>
+          <Content>Lisa hakkında ne diyorsun?</Content>
         </Dialog>
         <Dialog ID="48" Model="칼리">
           <Teller>Kali</Teller>
@@ -6996,7 +6996,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_27</VoiceFile>
-          <Content>**Enoch**'un bedeni, bir deneyin ters gitmesinden sonra saklanıyor, doğru muyum?</Content>
+          <Content>Enoch'un bedeni, bir deneyin ters gitmesinden sonra saklanıyor, doğru muyum?</Content>
         </Dialog>
         <Dialog ID="50" Model="칼리">
           <Teller>Kali</Teller>
@@ -7008,7 +7008,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_28</VoiceFile>
-          <Content>O zaman sanırım **Elijah** hala orada çalışıyor?</Content>
+          <Content>O zaman sanırım Elijah hala orada çalışıyor?</Content>
         </Dialog>
         <Dialog ID="52" Model="칼리">
           <Teller>Kali</Teller>
@@ -7020,61 +7020,61 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_29</VoiceFile>
-          <Content>Kırmızı Sis'in kendi **efsanesini** yazdığı zaman olmalı.</Content>
+          <Content>Kırmızı Sis'in kendi efsanesini yazdığı zaman olmalı.</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_30</VoiceFile>
-          <Content>Dışarıdaki tehditlere karşı **kalbi kırık** bir **Carmen**'i ve laboratuvarındaki diğer herkesi korumak için savaştığı zaman.</Content>
+          <Content>Dışarıdaki tehditlere karşı kalbi kırık bir Carmen'i ve laboratuvarındaki diğer herkesi korumak için savaştığı zaman.</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_31</VoiceFile>
-          <Content>Ne kadar **acınası**. Durumunuzun ne kadar **talihsiz** olduğunu açıklayacak başka bir kelime var mı?</Content>
+          <Content>Ne kadar acınası. Durumunuzun ne kadar talihsiz olduğunu açıklayacak başka bir kelime var mı?</Content>
         </Dialog>
         <Dialog ID="56" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_32</VoiceFile>
-          <Content>**Carmen**'in ekibindeki tüm araştırmacılar, onu sözleriyle daha fazla incitmemeye dikkat ederek **parmak uçlarında** yürüyor olmalıydı.</Content>
+          <Content>Carmen'in ekibindeki tüm araştırmacılar, onu sözleriyle daha fazla incitmemeye dikkat ederek parmak uçlarında yürüyor olmalıydı.</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_33</VoiceFile>
-          <Content>Önünde onu **teselli** ediyorlardı, ama muhtemelen arkasından **kızıyorlardı**.</Content>
+          <Content>Önünde onu teselli ediyorlardı, ama muhtemelen arkasından kızıyorlardı.</Content>
         </Dialog>
         <Dialog ID="58" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_34</VoiceFile>
-          <Content>İkna edici konuşmalarıyla tüm projeyi başlattı, ancak araştırma ilerleme kaydetmiyordu ve gördükleri tek şey **kayıplar** ve **fedakarlıklar**'dı.</Content>
+          <Content>İkna edici konuşmalarıyla tüm projeyi başlattı, ancak araştırma ilerleme kaydetmiyordu ve gördükleri tek şey kayıplar ve fedakarlıklar'dı.</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_35</VoiceFile>
-          <Content>**İyilik** vaaz ederken **günah** işleme **iki yüzlülüğü** sana da **aşağılık** gelmiyor mu?</Content>
+          <Content>İyilik vaaz ederken günah işleme iki yüzlülüğü sana da aşağılık gelmiyor mu?</Content>
         </Dialog>
         <Dialog ID="60" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_16-01</VoiceFile>
-          <Content>... Bak, **sabrımın** bir sınırı var.</Content>
+          <Content>... Bak, sabrımın bir sınırı var.</Content>
         </Dialog>
         <Dialog ID="61" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_17</VoiceFile>
-          <Content>Bana **Cogito**'yu nasıl alacağımı söylemezsen, az önce söylediklerini **göz ardı etmeyeceğim**.</Content>
+          <Content>Bana Cogito'yu nasıl alacağımı söylemezsen, az önce söylediklerini göz ardı etmeyeceğim.</Content>
         </Dialog>
         <Dialog ID="62" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_18-02</VoiceFile>
-          <Content>Onların çabalarıyla... ya da **samimiyetleriyle** alay etmeye hakkın yok.</Content>
+          <Content>Onların çabalarıyla... ya da samimiyetleriyle alay etmeye hakkın yok.</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7086,19 +7086,19 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_37</VoiceFile>
-          <Content>Fark etmez. Sanırım bu benim için fazla **agresif** oldu. Sana bu tür şeyler söyleyerek hiçbir şey kazanamayacağım.</Content>
+          <Content>Fark etmez. Sanırım bu benim için fazla agresif oldu. Sana bu tür şeyler söyleyerek hiçbir şey kazanamayacağım.</Content>
         </Dialog>
         <Dialog ID="65" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_19</VoiceFile>
-          <Content>En azından **özür dileme** nezaketini gösteriyorsun.</Content>
+          <Content>En azından özür dileme nezaketini gösteriyorsun.</Content>
         </Dialog>
         <Dialog ID="66" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_38</VoiceFile>
-          <Content>**Hatalarımı** ne zaman kabul edeceğimi biliyorum, hepsi bu.</Content>
+          <Content>Hatalarımı ne zaman kabul edeceğimi biliyorum, hepsi bu.</Content>
         </Dialog>
         <Dialog ID="67" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7116,19 +7116,19 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_40</VoiceFile>
-          <Content>Bu yerle ilgilenirken birçok **Düzeltici** türü gördüm.</Content>
+          <Content>Bu yerle ilgilenirken birçok Düzeltici türü gördüm.</Content>
         </Dialog>
         <Dialog ID="70" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_41</VoiceFile>
-          <Content>Çoğu **para** ya da **şöhret** tarafından motive edilmişti.</Content>
+          <Content>Çoğu para ya da şöhret tarafından motive edilmişti.</Content>
         </Dialog>
         <Dialog ID="71" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_42</VoiceFile>
-          <Content>Ama sen farklısın. Bir ödeme sözü olmasa bile, **Carmen**'i... ve laboratuvarındaki diğer herkesi korumaya **hazırdın**.</Content>
+          <Content>Ama sen farklısın. Bir ödeme sözü olmasa bile, Carmen'i... ve laboratuvarındaki diğer herkesi korumaya hazırdın.</Content>
         </Dialog>
         <Dialog ID="72" Model="칼리">
           <Teller>Kali</Teller>
@@ -7140,31 +7140,31 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_43</VoiceFile>
-          <Content>O zaman bunu nasıl yaptın? Hiçbir şey kazanmayacakken başkalarına **karşılıksız** yardım etmeye seni ne yönlendirdi?</Content>
+          <Content>O zaman bunu nasıl yaptın? Hiçbir şey kazanmayacakken başkalarına karşılıksız yardım etmeye seni ne yönlendirdi?</Content>
         </Dialog>
         <Dialog ID="74" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_22</VoiceFile>
-          <Content>Bu bir tür **alaya** alma mı, yoksa gerçekten **merak** mı ediyorsun?</Content>
+          <Content>Bu bir tür alaya alma mı, yoksa gerçekten merak mı ediyorsun?</Content>
         </Dialog>
         <Dialog ID="75" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_44</VoiceFile>
-          <Content>İlk başta davranışının **acınası** olduğunu düşündüm. Herkesin arzuladığı güce sahiptin, o yüzden neden kimsenin gitmeyeceği bir yola girmeye zahmet ettiğini merak ettim.</Content>
+          <Content>İlk başta davranışının acınası olduğunu düşündüm. Herkesin arzuladığı güce sahiptin, o yüzden neden kimsenin gitmeyeceği bir yola girmeye zahmet ettiğini merak ettim.</Content>
         </Dialog>
         <Dialog ID="76" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_45</VoiceFile>
-          <Content>Buna basit bir şekilde bakıyordum. Sonunda **hiçbir şey** kazanmayacaktın.</Content>
+          <Content>Buna basit bir şekilde bakıyordum. Sonunda hiçbir şey kazanmayacaktın.</Content>
         </Dialog>
         <Dialog ID="77" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_46-01</VoiceFile>
-          <Content>Ama sonra, bilgi eksikliğimin senin hakkında **iyi bir değerlendirme** yapmamı engellediğini düşünmeye başladım.</Content>
+          <Content>Ama sonra, bilgi eksikliğimin senin hakkında iyi bir değerlendirme yapmamı engellediğini düşünmeye başladım.</Content>
         </Dialog>
         <Dialog ID="78" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7176,67 +7176,67 @@
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_23-01</VoiceFile>
-          <Content>Bu işin **zor** kısmını üstlendiğimi mi düşünüyorsun, ha?</Content>
+          <Content>Bu işin zor kısmını üstlendiğimi mi düşünüyorsun, ha?</Content>
         </Dialog>
         <Dialog ID="80" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_48</VoiceFile>
-          <Content>Evet. En azından diğer araştırmacılar **para** ve **onur** kazanabilirdi; sen ne kazanacaktın?</Content>
+          <Content>Evet. En azından diğer araştırmacılar para ve onur kazanabilirdi; sen ne kazanacaktın?</Content>
         </Dialog>
         <Dialog ID="81" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_49</VoiceFile>
-          <Content>Çabalarının **karşılığı** olmasa bile, ya da seni **acı bir son** beklese bile, yaptığın şeyi yapmaya devam edebilir misin? Hatta...</Content>
+          <Content>Çabalarının karşılığı olmasa bile, ya da seni acı bir son beklese bile, yaptığın şeyi yapmaya devam edebilir misin? Hatta...</Content>
         </Dialog>
         <Dialog ID="82" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_50</VoiceFile>
-          <Content>... Bunu boşver. Her neyse, işin gerçekten bu kadar **değerli** mi?</Content>
+          <Content>... Bunu boşver. Her neyse, işin gerçekten bu kadar değerli mi?</Content>
         </Dialog>
         <Dialog ID="83" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_24-02</VoiceFile>
-          <Content>Bahsettiğin somut ödülleri, yani **para** gibi... neyse, gerçekten onlardan hiçbirini beklemiyordum.</Content>
+          <Content>Bahsettiğin somut ödülleri, yani para gibi... neyse, gerçekten onlardan hiçbirini beklemiyordum.</Content>
         </Dialog>
         <Dialog ID="84" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_25-01</VoiceFile>
-          <Content>Yolun sonunda aradığım tek bir şey vardı: **Carmen**'in **amacının** gerçekleşmesi. Ekipteki herkesin de aynı şeyi düşündüğünden oldukça eminim.</Content>
+          <Content>Yolun sonunda aradığım tek bir şey vardı: Carmen'in amacının gerçekleşmesi. Ekipteki herkesin de aynı şeyi düşündüğünden oldukça eminim.</Content>
         </Dialog>
         <Dialog ID="85" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_26</VoiceFile>
-          <Content>O süreçte başıma korkunç bir şey gelse, hatta ölsem bile onları **suçlamazdım**.</Content>
+          <Content>O süreçte başıma korkunç bir şey gelse, hatta ölsem bile onları suçlamazdım.</Content>
         </Dialog>
         <Dialog ID="86" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_27</VoiceFile>
-          <Content>Ancak, **yetersiz** olduğum için kendimi suçlardım.</Content>
+          <Content>Ancak, yetersiz olduğum için kendimi suçlardım.</Content>
         </Dialog>
         <Dialog ID="87" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_28</VoiceFile>
-          <Content>Bunu yapmamın ve her geçen gün daha da **güçlenmemin** nedeni ise...</Content>
+          <Content>Bunu yapmamın ve her geçen gün daha da güçlenmemin nedeni ise...</Content>
         </Dialog>
         <Dialog ID="88" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_29-01</VoiceFile>
-          <Content>... Sanırım sana anlatsam bile asla anlamazsın. Çünkü onu hiç **görmedin**.</Content>
+          <Content>... Sanırım sana anlatsam bile asla anlamazsın. Çünkü onu hiç görmedin.</Content>
         </Dialog>
         <Dialog ID="89" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_30-01</VoiceFile>
-          <Content>Gözlerindeki ve sesindeki **gücü**.</Content>
+          <Content>Gözlerindeki ve sesindeki gücü.</Content>
         </Dialog>
         <Dialog ID="90" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7254,25 +7254,25 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_53</VoiceFile>
-          <Content>Sana buranın **kurallarını** açıklayacağım.</Content>
+          <Content>Sana buranın kurallarını açıklayacağım.</Content>
         </Dialog>
         <Dialog ID="93" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_54-01</VoiceFile>
-          <Content>**Cogito**'yu çıkarma yöntemini içeren kitap o kapının arkasında bulunuyor.</Content>
+          <Content>Cogito'yu çıkarma yöntemini içeren kitap o kapının arkasında bulunuyor.</Content>
         </Dialog>
         <Dialog ID="94" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_55-01</VoiceFile>
-          <Content>O kitabı kazanmak için **hayatını riske atarak** savaşmalısın.</Content>
+          <Content>O kitabı kazanmak için hayatını riske atarak savaşmalısın.</Content>
         </Dialog>
         <Dialog ID="95" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_56</VoiceFile>
-          <Content>Ölürsen, bir **kitaba** dönüşeceksin. Ve hayatta kalırsan, kitap elinde **arkadaşlarına** geri dönebilirsin.</Content>
+          <Content>Ölürsen, bir kitaba dönüşeceksin. Ve hayatta kalırsan, kitap elinde arkadaşlarına geri dönebilirsin.</Content>
         </Dialog>
         <Dialog ID="96" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7290,7 +7290,7 @@
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_32</VoiceFile>
-          <Content>Bu tür **önlemleri** tamamen destekliyorum. Hiçbir sorunum yok.</Content>
+          <Content>Bu tür önlemleri tamamen destekliyorum. Hiçbir sorunum yok.</Content>
         </Dialog>
         <Dialog ID="99" Model="칼리">
           <Teller>Kali</Teller>
@@ -7302,7 +7302,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_58-01</VoiceFile>
-          <Content>Tahmin ettiğimden daha kolay **güveniyorsun** bana.</Content>
+          <Content>Tahmin ettiğimden daha kolay güveniyorsun bana.</Content>
         </Dialog>
         <Dialog ID="101" Model="칼리">
           <Teller>Kali</Teller>
@@ -7314,25 +7314,25 @@
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_35-01</VoiceFile>
-          <Content>Onlara olabildiğince çabuk **yardım etmem** gerekiyor.</Content>
+          <Content>Onlara olabildiğince çabuk yardım etmem gerekiyor.</Content>
         </Dialog>
         <Dialog ID="103" Model="칼리">
           <Teller>Kali</Teller>
           <Title>Kırmızı Sis</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Kali_36</VoiceFile>
-          <Content>Ancak bir **yalan** olduğu ortaya çıkarsa, o zaman bu yerle birlikte sen de **düşeceksin**.</Content>
+          <Content>Ancak bir yalan olduğu ortaya çıkarsa, o zaman bu yerle birlikte sen de düşeceksin.</Content>
         </Dialog>
         <Dialog ID="104" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_59-01</VoiceFile>
-          <Content>Güzel, **tavrını** beğendim. Biraz daha **şiddetli** olmanı bekliyordum.</Content>
+          <Content>Güzel, tavrını beğendim. Biraz daha şiddetli olmanı bekliyordum.</Content>
         </Dialog>
         <Dialog ID="105" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_60</VoiceFile>
-          <Content>Öyleyse, Kali... umarım **kitabını** bu yerde bulursun.</Content>
+          <Content>Öyleyse, Kali... umarım kitabını bu yerde bulursun.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -7344,19 +7344,19 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_11</VoiceFile>
-          <Content>**Kırmızı Sis**'in kullandığı o büyük kırmızı kılıç ve kıyafetler **Ö.E.G.** idi, değil mi?</Content>
+          <Content>Kırmızı Sis'in kullandığı o büyük kırmızı kılıç ve kıyafetler Ö.E.G. idi, değil mi?</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_61</VoiceFile>
-          <Content>Bildiğim kadarıyla, o **kızıl kılıç**, şans eseri elde edilmiş bir **Ö.E.G.** prototipiydi.</Content>
+          <Content>Bildiğim kadarıyla, o kızıl kılıç, şans eseri elde edilmiş bir Ö.E.G. prototipiydi.</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_62</VoiceFile>
-          <Content>Korkunç birinin ölümü sayesinde yaratılabildi. Sadece **Kali** onu düzgün bir şekilde kullanabilir.</Content>
+          <Content>Korkunç birinin ölümü sayesinde yaratılabildi. Sadece Kali onu düzgün bir şekilde kullanabilir.</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>Roland</Teller>
@@ -7368,31 +7368,31 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_63</VoiceFile>
-          <Content>O, **Kali**'nin bizzat ortaya çıkardığı **Kırmızı Sis**'in **Ö.E.G.**'sidir.</Content>
+          <Content>O, Kali'nin bizzat ortaya çıkardığı Kırmızı Sis'in Ö.E.G.'sidir.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_13</VoiceFile>
-          <Content>Hah... Eğer ortaya çıkarılmış bir **Ö.E.G.** bu kadar güçlüyse, Şehir'in tüm **besin zincirini** tersine çevirebilir.</Content>
+          <Content>Hah... Eğer ortaya çıkarılmış bir Ö.E.G. bu kadar güçlüyse, Şehir'in tüm besin zincirini tersine çevirebilir.</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_64</VoiceFile>
-          <Content>Şu ana kadar fark etmiş olmalısın, ama tüm **Ö.E.G.**'ler aynı güce sahip değildir.</Content>
+          <Content>Şu ana kadar fark etmiş olmalısın, ama tüm Ö.E.G.'ler aynı güce sahip değildir.</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_65</VoiceFile>
-          <Content>**Kali**'nin yaptığı kadar gücü **Ö.E.G.**'den çok az insanın çıkarabildiğini söylemek daha doğru olur.</Content>
+          <Content>Kali'nin yaptığı kadar gücü Ö.E.G.'den çok az insanın çıkarabildiğini söylemek daha doğru olur.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_66</VoiceFile>
-          <Content>**Saflık** açısından, kullandığı kılıç, bir **prototip** olduğu düşünüldüğünde, dikkat çekici derecede **düşük kaliteliydi**.</Content>
+          <Content>Saflık açısından, kullandığı kılıç, bir prototip olduğu düşünüldüğünde, dikkat çekici derecede düşük kaliteliydi.</Content>
         </Dialog>
         <Dialog ID="9" Model="롤랑">
           <Teller>Roland</Teller>
@@ -7404,7 +7404,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_15</VoiceFile>
-          <Content>Peki, şimdi anladın mı? **Çarpıklık**, **Ö.E.G.** ve **Anormallikler** arasındaki tüm ilişkiyi?</Content>
+          <Content>Peki, şimdi anladın mı? Çarpıklık, Ö.E.G. ve Anormallikler arasındaki tüm ilişkiyi?</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7416,67 +7416,67 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_68</VoiceFile>
-          <Content>**'Beyaz Geceler ve Kara Günler'** olarak bilinen olaydan gelen **Işık**, başlangıçta Şehir'in üzerinde **üç** gün değil, **yedi** gün boyunca aralıksız parlamalıydı.</Content>
+          <Content>'Beyaz Geceler ve Kara Günler' olarak bilinen olaydan gelen Işık, başlangıçta Şehir'in üzerinde üç gün değil, yedi gün boyunca aralıksız parlamalıydı.</Content>
         </Dialog>
         <Dialog ID="13" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_69</VoiceFile>
-          <Content>Eğer öyle olsaydı, Şehir'deki herkes kendi **Ö.E.G.**'sini ortaya çıkarabilir ve bu onlara zenginlikleri veya sosyal statüleri ne olursa olsun, **gereksiz** bir ölümü önleme gücü verirdi.</Content>
+          <Content>Eğer öyle olsaydı, Şehir'deki herkes kendi Ö.E.G.'sini ortaya çıkarabilir ve bu onlara zenginlikleri veya sosyal statüleri ne olursa olsun, gereksiz bir ölümü önleme gücü verirdi.</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_70</VoiceFile>
-          <Content>**Dünyaya karşı durma** gücünü kazanmış olurlardı.</Content>
+          <Content>Dünyaya karşı durma gücünü kazanmış olurlardı.</Content>
         </Dialog>
         <Dialog ID="15" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_71</VoiceFile>
-          <Content>Bazıları ortaya çıkardıkları **Ö.E.G.**'yi kaybetmiş olabilir, ama hiç kimse kendi **Ö.E.G.**'sine **hakim** olamaz ve bir **Anormallik** haline gelemezdi.</Content>
+          <Content>Bazıları ortaya çıkardıkları Ö.E.G.'yi kaybetmiş olabilir, ama hiç kimse kendi Ö.E.G.'sine hakim olamaz ve bir Anormallik haline gelemezdi.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_16</VoiceFile>
-          <Content>O zaman **Çarpıklık**...</Content>
+          <Content>O zaman Çarpıklık...</Content>
         </Dialog>
         <Dialog ID="17" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_72</VoiceFile>
-          <Content>**Plan** benim yüzümden mahvoldu, bu da **Işık**'ın sadece **üç** gün parlaması anlamına geliyordu.</Content>
+          <Content>Plan benim yüzümden mahvoldu, bu da Işık'ın sadece üç gün parlaması anlamına geliyordu.</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_73</VoiceFile>
-          <Content>Sonuç olarak **istikrarsız** bir güç yayıldı ve diğer olasılıkları besledi.</Content>
+          <Content>Sonuç olarak istikrarsız bir güç yayıldı ve diğer olasılıkları besledi.</Content>
         </Dialog>
         <Dialog ID="19" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_74</VoiceFile>
-          <Content>**Çarpıklıklar** aracılığıyla ortaya çıkan **Anormallikler**, **kontrolü kaybetmiş** varlıklardır...</Content>
+          <Content>Çarpıklıklar aracılığıyla ortaya çıkan Anormallikler, kontrolü kaybetmiş varlıklardır...</Content>
         </Dialog>
         <Dialog ID="20" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_75</VoiceFile>
-          <Content>Tabiri caizse, kendi **Ö.E.G.**'leri tarafından **tüketildiler**.</Content>
+          <Content>Tabiri caizse, kendi Ö.E.G.'leri tarafından tüketildiler.</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_76</VoiceFile>
-          <Content>Sonuçta, **Ö.E.G.** ve **Anormallik** arasında çok ince bir çizgi var.</Content>
+          <Content>Sonuçta, Ö.E.G. ve Anormallik arasında çok ince bir çizgi var.</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_17</VoiceFile>
-          <Content>... Bu **Fenomen** için ön koşul nedir, ister **Ö.E.G.** olsun ister **Çarpıklık**?</Content>
+          <Content>... Bu Fenomen için ön koşul nedir, ister Ö.E.G. olsun ister Çarpıklık?</Content>
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7488,25 +7488,25 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_78</VoiceFile>
-          <Content>Ancak, bu çaba **hüsranla** sonuçlanırsa veya **ego**'nun sarsıldığı ve duygularının dayanılmaz bir noktaya kadar **büküldüğü** bir **çaresizlikle** karşılaşırsa, **Çarpıklık** o **ezici** duygudan ortaya çıkıyor gibi görünüyor.</Content>
+          <Content>Ancak, bu çaba hüsranla sonuçlanırsa veya ego'nun sarsıldığı ve duygularının dayanılmaz bir noktaya kadar büküldüğü bir çaresizlikle karşılaşırsa, Çarpıklık o ezici duygudan ortaya çıkıyor gibi görünüyor.</Content>
         </Dialog>
         <Dialog ID="25" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_79</VoiceFile>
-          <Content>Arzun ne kadar **güçlü** ve **saf** ise, **Çarpıklık** o kadar **güçlü** olur. Şu ana kadarki tahminim bu.</Content>
+          <Content>Arzun ne kadar güçlü ve saf ise, Çarpıklık o kadar güçlü olur. Şu ana kadarki tahminim bu.</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_18</VoiceFile>
-          <Content>Kafama takılan bir şey var. Bu Şehir'de hayallerinden vazgeçip **çaresizliğe** düşen bir sürü tip var.</Content>
+          <Content>Kafama takılan bir şey var. Bu Şehir'de hayallerinden vazgeçip çaresizliğe düşen bir sürü tip var.</Content>
         </Dialog>
         <Dialog ID="27" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_19</VoiceFile>
-          <Content>Eğer dediğin doğruysa, Şehir **Anormallikler** ve **Ö.E.G.** kullanan insanlarla dolu olurdu.</Content>
+          <Content>Eğer dediğin doğruysa, Şehir Anormallikler ve Ö.E.G. kullanan insanlarla dolu olurdu.</Content>
         </Dialog>
         <Dialog ID="28" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7518,7 +7518,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_81</VoiceFile>
-          <Content>Sadece kendi **samimi** arzusunun peşinden gidenlerde ortaya çıkar.</Content>
+          <Content>Sadece kendi samimi arzusunun peşinden gidenlerde ortaya çıkar.</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
           <Teller>Roland</Teller>
@@ -7530,49 +7530,49 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_21</VoiceFile>
-          <Content>Bu Şehir'de kendileri için **hayal kuran** neredeyse hiç kimse yok...</Content>
+          <Content>Bu Şehir'de kendileri için hayal kuran neredeyse hiç kimse yok...</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_22</VoiceFile>
-          <Content>Çoğu, kendi mutluluklarının peşinden koşmak yerine, sadece hayatlarındaki **talihsizlikten** kaçınma zihniyetiyle yaşıyor.</Content>
+          <Content>Çoğu, kendi mutluluklarının peşinden koşmak yerine, sadece hayatlarındaki talihsizlikten kaçınma zihniyetiyle yaşıyor.</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_23</VoiceFile>
-          <Content>İster **Kanatlar**, ister **Sendikalar** ya da **Düzelticiler** olsun... tüm insanlar, muhtemelen kendilerinin seçmediği bir kadere doğru ilerliyor.</Content>
+          <Content>İster Kanatlar, ister Sendikalar ya da Düzelticiler olsun... tüm insanlar, muhtemelen kendilerinin seçmediği bir kadere doğru ilerliyor.</Content>
         </Dialog>
         <Dialog ID="34" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_82</VoiceFile>
-          <Content>**Güç**, yalnızca kesinlikle kendi iyilikleri için yaşayan varlıklara bahşedilecektir.</Content>
+          <Content>Güç, yalnızca kesinlikle kendi iyilikleri için yaşayan varlıklara bahşedilecektir.</Content>
         </Dialog>
         <Dialog ID="35" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_83</VoiceFile>
-          <Content>**Bencil**, bazıları böyle diyebilir...</Content>
+          <Content>Bencil, bazıları böyle diyebilir...</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_84</VoiceFile>
-          <Content>Şahsen ben, hak etmediği gücü kazanan **çöp** olmasından çok, bu sonucu tercih ederim.</Content>
+          <Content>Şahsen ben, hak etmediği gücü kazanan çöp olmasından çok, bu sonucu tercih ederim.</Content>
         </Dialog>
         <Dialog ID="37" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_24</VoiceFile>
-          <Content>... Yani, bunun olabileceğini bilerek mi **planı sabote ettin**?</Content>
+          <Content>... Yani, bunun olabileceğini bilerek mi planı sabote ettin?</Content>
         </Dialog>
         <Dialog ID="38" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_85</VoiceFile>
-          <Content>Elbette hayır. Sadece **ölmek** istemedim. Yaşamak istedim; **intikamımı** almak istedim.</Content>
+          <Content>Elbette hayır. Sadece ölmek istemedim. Yaşamak istedim; intikamımı almak istedim.</Content>
         </Dialog>
         <Dialog ID="39" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7584,115 +7584,115 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_87</VoiceFile>
-          <Content>O **planın** sonunda **kapatılmam** gerekiyordu.</Content>
+          <Content>O planın sonunda kapatılmam gerekiyordu.</Content>
         </Dialog>
         <Dialog ID="41" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_88</VoiceFile>
-          <Content>Bu beni çok **sinirlendirdi**. Ben de **Işık**'ı çaldım ve ona **tutundum**.</Content>
+          <Content>Bu beni çok sinirlendirdi. Ben de Işık'ı çaldım ve ona tutundum.</Content>
         </Dialog>
         <Dialog ID="42" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_90</VoiceFile>
-          <Content>İlginç bir şekilde, kendime aldığım **Işık** eksik olduğu için, yarattığım bu **Kütüphane**'de **Anormallikler** ile birlikte **mahsur kaldım**.</Content>
+          <Content>İlginç bir şekilde, kendime aldığım Işık eksik olduğu için, yarattığım bu Kütüphane'de Anormallikler ile birlikte mahsur kaldım.</Content>
         </Dialog>
         <Dialog ID="43" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_91</VoiceFile>
-          <Content>**Robotik** bedenime kök salmış **emirler** buradan çıkmamı engelledi.</Content>
+          <Content>Robotik bedenime kök salmış emirler buradan çıkmamı engelledi.</Content>
         </Dialog>
         <Dialog ID="44" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_25</VoiceFile>
-          <Content>Öyleyse, **Davetiye**'yi kullanarak kitap topluyorsun...</Content>
+          <Content>Öyleyse, Davetiye'yi kullanarak kitap topluyorsun...</Content>
         </Dialog>
         <Dialog ID="45" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_92</VoiceFile>
-          <Content>Şehir'e dağılmış **Işık**'ı **geri almak** için.</Content>
+          <Content>Şehir'e dağılmış Işık'ı geri almak için.</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_93-01</VoiceFile>
-          <Content>Buraya gelen misafirlerin **farklı** bir yanı olduğunu kesinlikle fark ettin.</Content>
+          <Content>Buraya gelen misafirlerin farklı bir yanı olduğunu kesinlikle fark ettin.</Content>
         </Dialog>
         <Dialog ID="47" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_26</VoiceFile>
-          <Content>Doğru. Hepsinin bir tür **hayali** vardı, tanıdığım Şehir'deki tiplere benzemiyorlardı...</Content>
+          <Content>Doğru. Hepsinin bir tür hayali vardı, tanıdığım Şehir'deki tiplere benzemiyorlardı...</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_27</VoiceFile>
-          <Content>Ayrıca **şefkat** veya **arkadaşlığa** çok kolay kapıldılar.</Content>
+          <Content>Ayrıca şefkat veya arkadaşlığa çok kolay kapıldılar.</Content>
         </Dialog>
         <Dialog ID="49" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_94</VoiceFile>
-          <Content>Bunun nedeni **Işık**'tan etkilenmeleri. Hem de çok güçlü bir şekilde.</Content>
+          <Content>Bunun nedeni Işık'tan etkilenmeleri. Hem de çok güçlü bir şekilde.</Content>
         </Dialog>
         <Dialog ID="50" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_28</VoiceFile>
-          <Content>**Işık direğine** daha mı yakındılar demek istiyorsun?</Content>
+          <Content>Işık direğine daha mı yakındılar demek istiyorsun?</Content>
         </Dialog>
         <Dialog ID="51" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_95</VoiceFile>
-          <Content>Tam olarak değil. Aynı **tohum** tüm insanların kalbine ekildi, ancak bazılarının onu diğerlerinden daha güçlü bir şekilde büyütme potansiyeli daha yüksek.</Content>
+          <Content>Tam olarak değil. Aynı tohum tüm insanların kalbine ekildi, ancak bazılarının onu diğerlerinden daha güçlü bir şekilde büyütme potansiyeli daha yüksek.</Content>
         </Dialog>
         <Dialog ID="52" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_96</VoiceFile>
-          <Content>Ve **Davetiye** tam da onlara en çok ihtiyacımız olduğu anda onları buraya **çağırıyor**.</Content>
+          <Content>Ve Davetiye tam da onlara en çok ihtiyacımız olduğu anda onları buraya çağırıyor.</Content>
         </Dialog>
         <Dialog ID="53" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_97</VoiceFile>
-          <Content>**Işık**'ın eksik parçalarını bir araya getirdikçe, **Davetiye**'nin rehberliğindeki yolun sonunda bir kitap elde etmeyi umuyorum...</Content>
+          <Content>Işık'ın eksik parçalarını bir araya getirdikçe, Davetiye'nin rehberliğindeki yolun sonunda bir kitap elde etmeyi umuyorum...</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_98</VoiceFile>
-          <Content>Bölünmemiş, **eksiksiz Işık**'ın gücünü içeren **mutlak kitap**. Bu, bana ve burada yaşayan tüm **kütüphanecilere** **özgürlüğü** verecek kitap olacak.</Content>
+          <Content>Bölünmemiş, eksiksiz Işık'ın gücünü içeren mutlak kitap. Bu, bana ve burada yaşayan tüm kütüphanecilere özgürlüğü verecek kitap olacak.</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_99</VoiceFile>
-          <Content>Bir **insan** olarak yaşamama izin verecek.</Content>
+          <Content>Bir insan olarak yaşamama izin verecek.</Content>
         </Dialog>
         <Dialog ID="56" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_100</VoiceFile>
-          <Content>Artık başkalarının bana bir **makine** gibi davranmamı söylemesine **katlanmak** zorunda kalmayacağım...</Content>
+          <Content>Artık başkalarının bana bir makine gibi davranmamı söylemesine katlanmak zorunda kalmayacağım...</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_101</VoiceFile>
-          <Content>**Hafızamdan** silmek istediğim şeyleri **unutabileceğim**...</Content>
+          <Content>Hafızamdan silmek istediğim şeyleri unutabileceğim...</Content>
         </Dialog>
         <Dialog ID="58" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_29</VoiceFile>
-          <Content>Sanırım bu amaca ulaşmak için yaptığın ve yapmakta olduğun şeyler için herhangi bir **sorumluluk** veya **suçluluk** hissetmiyorsun.</Content>
+          <Content>Sanırım bu amaca ulaşmak için yaptığın ve yapmakta olduğun şeyler için herhangi bir sorumluluk veya suçluluk hissetmiyorsun.</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7704,13 +7704,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_103-02</VoiceFile>
-          <Content>Hayatımı yaşarken **benim olan** ve sadece **bana ait olanı** takdir edeceğim.</Content>
+          <Content>Hayatımı yaşarken benim olan ve sadece bana ait olanı takdir edeceğim.</Content>
         </Dialog>
         <Dialog ID="61" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_104-02</VoiceFile>
-          <Content>... Tıpkı daha önce söylediğin gibi, Roland. Herkesin kendine ait **kişisel meseleleri** ve **ızdırapları** vardır. **Izdırap** çekenlerin kendilerinden başka suçlayacak kimsesi yoktur.</Content>
+          <Content>... Tıpkı daha önce söylediğin gibi, Roland. Herkesin kendine ait kişisel meseleleri ve ızdırapları vardır. Izdırap çekenlerin kendilerinden başka suçlayacak kimsesi yoktur.</Content>
         </Dialog>
         <Dialog ID="62" Model="롤랑">
           <Teller>Roland</Teller>
@@ -7731,13 +7731,13 @@
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_1</VoiceFile>
-          <Content>Hey, Rudolph! Ödünç aldığın **Tavşanlarım** hakkında ne yapacaksın? Hiçbir sonuç alamadın bile!</Content>
+          <Content>Hey, Rudolph! Ödünç aldığın Tavşanlarım hakkında ne yapacaksın? Hiçbir sonuç alamadın bile!</Content>
         </Dialog>
         <Dialog ID="1" Model="루돌프">
           <Teller>Rudolph</Teller>
           <Title>Geyik Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Rudolph_1</VoiceFile>
-          <Content>O **kusurlu askerler** ile hiçbir sonuç alamadığım için üzgünüm.</Content>
+          <Content>O kusurlu askerler ile hiçbir sonuç alamadığım için üzgünüm.</Content>
         </Dialog>
         <Dialog ID="2" Model="묘">
           <Teller>Myo</Teller>
@@ -7749,13 +7749,13 @@
           <Teller>Rudolph</Teller>
           <Title>Geyik Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Rudolph_2-06</VoiceFile>
-          <Content>... Ah, güçsüz **Tavşanlarının** bir işi halletmek için çok **yararsız** olmasından dolayı özür dilerim.</Content>
+          <Content>... Ah, güçsüz Tavşanlarının bir işi halletmek için çok yararsız olmasından dolayı özür dilerim.</Content>
         </Dialog>
         <Dialog ID="4" Model="막심">
           <Teller>Maxim</Teller>
           <Title>Gergedan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Maxim_1</VoiceFile>
-          <Content>Sana oynuyorum, tavşan. Git ve o **dal gibi** diğer boynuzunu da sök at!</Content>
+          <Content>Sana oynuyorum, tavşan. Git ve o dal gibi diğer boynuzunu da sök at!</Content>
         </Dialog>
         <Dialog ID="5" Model="니콜라이">
           <Teller>Nikolai</Teller>
@@ -7773,25 +7773,25 @@
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_3-01</VoiceFile>
-          <Content>Dördüncü Sürü, **L Şirketi Yuvası** ve **Kütüphane**'ye gönderilecek.</Content>
+          <Content>Dördüncü Sürü, L Şirketi Yuvası ve Kütüphane'ye gönderilecek.</Content>
         </Dialog>
         <Dialog ID="8" Model="묘">
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_4</VoiceFile>
-          <Content>Ne cehennem? **Kütüphane**'ye gitmeyi anlarım, ama tüm **Yuva**'ya mı?</Content>
+          <Content>Ne cehennem? Kütüphane'ye gitmeyi anlarım, ama tüm Yuva'ya mı?</Content>
         </Dialog>
         <Dialog ID="9" Model="루돌프">
           <Teller>Rudolph</Teller>
           <Title>Geyik Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Rudolph_3-03</VoiceFile>
-          <Content>**Başparmak**, bir **Sottocapo** kaybettikten sonra zayıflamış, bu yüzden onları kovmak hiç de zor olmamalı...</Content>
+          <Content>Başparmak, bir Sottocapo kaybettikten sonra zayıflamış, bu yüzden onları kovmak hiç de zor olmamalı...</Content>
         </Dialog>
         <Dialog ID="10" Model="니콜라이">
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_4-01</VoiceFile>
-          <Content>**Endeks** baş belası olan kişi gibi görünüyor. Çok fazla asker **harekete geçirmeyeceğiz**; sadece birkaç kişi takviye olarak oraya gidecek.</Content>
+          <Content>Endeks baş belası olan kişi gibi görünüyor. Çok fazla asker harekete geçirmeyeceğiz; sadece birkaç kişi takviye olarak oraya gidecek.</Content>
         </Dialog>
         <Dialog ID="11" Model="묘">
           <Teller>Myo</Teller>
@@ -7803,37 +7803,37 @@
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_5</VoiceFile>
-          <Content>Bizim varış noktamız **Kütüphane**.</Content>
+          <Content>Bizim varış noktamız Kütüphane.</Content>
         </Dialog>
         <Dialog ID="13" Model="니콜라이">
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_6-01</VoiceFile>
-          <Content>Bu görevde başarısız olursak, bende dahil olmak üzere Sürü'deki on beş bin hayvanın tamamı **kurban edilecek**.</Content>
+          <Content>Bu görevde başarısız olursak, bende dahil olmak üzere Sürü'deki on beş bin hayvanın tamamı kurban edilecek.</Content>
         </Dialog>
         <Dialog ID="14" Model="루돌프">
           <Teller>Rudolph</Teller>
           <Title>Geyik Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Rudolph_4</VoiceFile>
-          <Content>Koşullar göz önüne alındığında **kurtulmadık** mıydı?</Content>
+          <Content>Koşullar göz önüne alındığında kurtulmadık mıydı?</Content>
         </Dialog>
         <Dialog ID="15" Model="막심">
           <Teller>Maxim</Teller>
           <Title>Gergedan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Maxim_2-01</VoiceFile>
-          <Content>Sanırım gideceğimiz aşikardı, çünkü **Dördüncü Sürü** tamamen **L Şirketi Yuvası** için organize edilmişti...</Content>
+          <Content>Sanırım gideceğimiz aşikardı, çünkü Dördüncü Sürü tamamen L Şirketi Yuvası için organize edilmişti...</Content>
         </Dialog>
         <Dialog ID="16" Model="막심">
           <Teller>Maxim</Teller>
           <Title>Gergedan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Maxim_3-01</VoiceFile>
-          <Content>Şey... Durumumuzun ne kadar **rahatsız edici** olduğu düşünülürse, bu kadar uzun süre hayatta kalmamız bir **mucize**.</Content>
+          <Content>Şey... Durumumuzun ne kadar rahatsız edici olduğu düşünülürse, bu kadar uzun süre hayatta kalmamız bir mucize.</Content>
         </Dialog>
         <Dialog ID="17" Model="루돌프">
           <Teller>Rudolph</Teller>
           <Title>Geyik Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Rudolph_5-01</VoiceFile>
-          <Content>**Güvenliği** sağlamak için kendimizi öldüresiye çalıştırdık... ama boyunlarımız tekrar tehlikede.</Content>
+          <Content>Güvenliği sağlamak için kendimizi öldüresiye çalıştırdık... ama boyunlarımız tekrar tehlikede.</Content>
         </Dialog>
         <Dialog ID="18" Model="묘">
           <Teller>Myo</Teller>
@@ -7845,31 +7845,31 @@
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_7-01</VoiceFile>
-          <Content>**L Şirketi** muhtemelen kendini yok etti. Neden buna karışmak zorundayız?</Content>
+          <Content>L Şirketi muhtemelen kendini yok etti. Neden buna karışmak zorundayız?</Content>
         </Dialog>
         <Dialog ID="20" Model="니콜라이">
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_7</VoiceFile>
-          <Content>**Güven**, **R Şirketi** için hayati önem taşır.</Content>
+          <Content>Güven, R Şirketi için hayati önem taşır.</Content>
         </Dialog>
         <Dialog ID="21" Model="니콜라이">
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_8</VoiceFile>
-          <Content>**L Şirketi** kendi başına çökmüş olsa bile fark etmezdi, ama eğer harici bir gücün hatası olduğu ortaya çıkarsa, tehdidi önlemede başarısız olduğu için **R Şirketi**'ne sorumluluk düşerdi.</Content>
+          <Content>L Şirketi kendi başına çökmüş olsa bile fark etmezdi, ama eğer harici bir gücün hatası olduğu ortaya çıkarsa, tehdidi önlemede başarısız olduğu için R Şirketi'ne sorumluluk düşerdi.</Content>
         </Dialog>
         <Dialog ID="22" Model="루돌프">
           <Teller>Rudolph</Teller>
           <Title>Geyik Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Rudolph_6-03</VoiceFile>
-          <Content>İşini iyi yapmayan **hayvanlar** yok edilmeli...</Content>
+          <Content>İşini iyi yapmayan hayvanlar yok edilmeli...</Content>
         </Dialog>
         <Dialog ID="23" Model="니콜라이">
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_8-01</VoiceFile>
-          <Content>Ve bu sorun sadece **L Şirketi** ile ilgili değil.</Content>
+          <Content>Ve bu sorun sadece L Şirketi ile ilgili değil.</Content>
         </Dialog>
         <Dialog ID="24" Model="묘">
           <Teller>Myo</Teller>
@@ -7881,13 +7881,13 @@
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_9</VoiceFile>
-          <Content>**Kütüphane**, **W Şirketi**'nin **Tekilliği**'ni de köşeye sıkıştırmış durumda. Şirketin temizlik ajanlarının ve trenlerinden birindeki yolcuların kitapları görünüşe göre **Kütüphane**'nin elinde.</Content>
+          <Content>Kütüphane, W Şirketi'nin Tekilliği'ni de köşeye sıkıştırmış durumda. Şirketin temizlik ajanlarının ve trenlerinden birindeki yolcuların kitapları görünüşe göre Kütüphane'nin elinde.</Content>
         </Dialog>
         <Dialog ID="26" Model="막심">
           <Teller>Maxim</Teller>
           <Title>Gergedan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Maxim_4</VoiceFile>
-          <Content>**Yolcular** mı?</Content>
+          <Content>Yolcular mı?</Content>
         </Dialog>
         <Dialog ID="27" Model="묘">
           <Teller>Myo</Teller>
@@ -7929,13 +7929,13 @@
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_12</VoiceFile>
-          <Content>Muhtemelen trende saatlerce bekledikten sonra, kaçmaya çalışırken onu **dikkatsizce** kullandı. Kesinlikle bunu yapacak türden biri.</Content>
+          <Content>Muhtemelen trende saatlerce bekledikten sonra, kaçmaya çalışırken onu dikkatsizce kullandı. Kesinlikle bunu yapacak türden biri.</Content>
         </Dialog>
         <Dialog ID="34" Model="니콜라이">
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_12-01</VoiceFile>
-          <Content>Onu neden özellikle bir **WARP trenine** bindirdin?</Content>
+          <Content>Onu neden özellikle bir WARP trenine bindirdin?</Content>
         </Dialog>
         <Dialog ID="35" Model="묘">
           <Teller>Myo</Teller>
@@ -7947,19 +7947,19 @@
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_14-01</VoiceFile>
-          <Content>**Kütüphane** o zamanlar sadece bir **Şehir Efsanesi**'ydi, bu yüzden o kadar da büyük bir olay olduğunu düşünmedim.</Content>
+          <Content>Kütüphane o zamanlar sadece bir Şehir Efsanesi'ydi, bu yüzden o kadar da büyük bir olay olduğunu düşünmedim.</Content>
         </Dialog>
         <Dialog ID="37" Model="묘">
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_15-01</VoiceFile>
-          <Content>Bir **Şehir Efsanesi**'ne karşı ölecek biri değildi, bu yüzden ona sadece biraz para kazanması için işi verdim, hepsi bu.</Content>
+          <Content>Bir Şehir Efsanesi'ne karşı ölecek biri değildi, bu yüzden ona sadece biraz para kazanması için işi verdim, hepsi bu.</Content>
         </Dialog>
         <Dialog ID="38" Model="막심">
           <Teller>Maxim</Teller>
           <Title>Gergedan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Maxim_6-01</VoiceFile>
-          <Content>Bir dakika bekle. Yani birinci sınıf değil, **ekonomi sınıfı** bir koltuk mu aldı?</Content>
+          <Content>Bir dakika bekle. Yani birinci sınıf değil, ekonomi sınıfı bir koltuk mu aldı?</Content>
         </Dialog>
         <Dialog ID="39" Model="묘">
           <Teller>Myo</Teller>
@@ -7971,13 +7971,13 @@
           <Teller>Maxim</Teller>
           <Title>Gergedan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Maxim_7</VoiceFile>
-          <Content>Pekala, diyelim ki bir şekilde tren çalışırken trenden çıktı ve **Kütüphane**'de bir **kitap** oldu.</Content>
+          <Content>Pekala, diyelim ki bir şekilde tren çalışırken trenden çıktı ve Kütüphane'de bir kitap oldu.</Content>
         </Dialog>
         <Dialog ID="41" Model="막심">
           <Teller>Maxim</Teller>
           <Title>Gergedan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Maxim_8-01</VoiceFile>
-          <Content>**W Şirketi**, sadece birkaç yolcunun ortadan kaybolmasını örtbas etmek için mi hareket ediyor?</Content>
+          <Content>W Şirketi, sadece birkaç yolcunun ortadan kaybolmasını örtbas etmek için mi hareket ediyor?</Content>
         </Dialog>
         <Dialog ID="42" Model="막심">
           <Teller>Maxim</Teller>
@@ -7995,13 +7995,13 @@
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_18</VoiceFile>
-          <Content>Neden temizlik ajanlarını bu kadar aceleyle gönderdiklerini merak ediyorum~ Yanlış gitmesi ve **Tekillikleri**'nin herkese ifşa olması çok kolaydı.</Content>
+          <Content>Neden temizlik ajanlarını bu kadar aceleyle gönderdiklerini merak ediyorum~ Yanlış gitmesi ve Tekillikleri'nin herkese ifşa olması çok kolaydı.</Content>
         </Dialog>
         <Dialog ID="45" Model="루돌프">
           <Teller>Rudolph</Teller>
           <Title>Geyik Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Rudolph_7</VoiceFile>
-          <Content>**Kitaplar**'daki içeriğe dayanarak trenlerin ardındaki **gerçeği** takip etmek isteyen insanlar da var.</Content>
+          <Content>Kitaplar'daki içeriğe dayanarak trenlerin ardındaki gerçeği takip etmek isteyen insanlar da var.</Content>
         </Dialog>
         <Dialog ID="46" Model="루돌프">
           <Teller>Rudolph</Teller>
@@ -8019,55 +8019,55 @@
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_14-01</VoiceFile>
-          <Content>Bizim işimiz **L Şirketi**, **W Şirketi** ve **T Şirketi**'nin **Tekillikleri**'ni ve **Yuvalarını** **korumak**.</Content>
+          <Content>Bizim işimiz L Şirketi, W Şirketi ve T Şirketi'nin Tekillikleri'ni ve Yuvalarını korumak.</Content>
         </Dialog>
         <Dialog ID="49" Model="니콜라이">
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_15</VoiceFile>
-          <Content>**Kurban edilmek** istemiyorsak, o **Tekillik** ile ilgili **kitapları** ne pahasına olursa olsun geri almalıyız.</Content>
+          <Content>Kurban edilmek istemiyorsak, o Tekillik ile ilgili kitapları ne pahasına olursa olsun geri almalıyız.</Content>
         </Dialog>
         <Dialog ID="50" Model="니콜라이">
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_16-01</VoiceFile>
-          <Content>Ayrıca **L Şirketi**'nin çöküşünün **nedenini** de bulmamız gerekiyor.</Content>
+          <Content>Ayrıca L Şirketi'nin çöküşünün nedenini de bulmamız gerekiyor.</Content>
         </Dialog>
         <Dialog ID="51" Model="니콜라이">
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_17</VoiceFile>
-          <Content>Ancak, getireceğimiz kanıtların arasına **yanlış bilgi** karışırsa, **Kargalar** doğrudan bizim peşimize düşer, bu yüzden dikkatli olun.</Content>
+          <Content>Ancak, getireceğimiz kanıtların arasına yanlış bilgi karışırsa, Kargalar doğrudan bizim peşimize düşer, bu yüzden dikkatli olun.</Content>
         </Dialog>
         <Dialog ID="52" Model="막심">
           <Teller>Maxim</Teller>
           <Title>Gergedan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Maxim_10-01</VoiceFile>
-          <Content>Umarım **L Şirketi** kendi boynunu yarmıştır...</Content>
+          <Content>Umarım L Şirketi kendi boynunu yarmıştır...</Content>
         </Dialog>
         <Dialog ID="53" Model="묘">
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_19-01</VoiceFile>
-          <Content>Herkesin hayatı **Tekillikler**'e bağlıymış gibi davranması aptalca.</Content>
+          <Content>Herkesin hayatı Tekillikler'e bağlıymış gibi davranması aptalca.</Content>
         </Dialog>
         <Dialog ID="54" Model="루돌프">
           <Teller>Rudolph</Teller>
           <Title>Geyik Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Rudolph_9-01</VoiceFile>
-          <Content>Bu bizim işimiz, bu yüzden aptalca olsun ya da olmasın, hayatımız pahasına onları **güvence altına almalıyız**.</Content>
+          <Content>Bu bizim işimiz, bu yüzden aptalca olsun ya da olmasın, hayatımız pahasına onları güvence altına almalıyız.</Content>
         </Dialog>
         <Dialog ID="55" Model="묘">
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_20-02</VoiceFile>
-          <Content>Hah, doğru. Ama hala **eğlenceli** değil mi? **Tekillikler** meselesini kastediyorum.</Content>
+          <Content>Hah, doğru. Ama hala eğlenceli değil mi? Tekillikler meselesini kastediyorum.</Content>
         </Dialog>
         <Dialog ID="56" Model="묘">
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_21</VoiceFile>
-          <Content>**W Şirketi**'nin o **"zaman kazandıran"** **ışınlanması**!</Content>
+          <Content>W Şirketi'nin o "zaman kazandıran" ışınlanması!</Content>
         </Dialog>
         <Dialog ID="57" Model="묘">
           <Teller>Myo</Teller>
@@ -8079,25 +8079,25 @@
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_23-02</VoiceFile>
-          <Content>Ve tren vardığında, o yolcular **yepyeni** olarak **geri yükleniyor**.</Content>
+          <Content>Ve tren vardığında, o yolcular yepyeni olarak geri yükleniyor.</Content>
         </Dialog>
         <Dialog ID="59" Model="묘">
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_24-02</VoiceFile>
-          <Content>Ve **T Şirketi** de trenler tarafından toplanan **zamanı** satmak veya kullanmak için **paketliyor**, değil mi?</Content>
+          <Content>Ve T Şirketi de trenler tarafından toplanan zamanı satmak veya kullanmak için paketliyor, değil mi?</Content>
         </Dialog>
         <Dialog ID="60" Model="묘">
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_25-03</VoiceFile>
-          <Content>Eminim o yolcular dışarıda Şehir'in bir yerinde biftek yiyip keyif yapıyorlardır, geçirdikleri yüzlerce yıllık **ızdırabın** şimdi yedikleri etin pişirildiği dumanı tüten kapta kullanıldığından habersiz.</Content>
+          <Content>Eminim o yolcular dışarıda Şehir'in bir yerinde biftek yiyip keyif yapıyorlardır, geçirdikleri yüzlerce yıllık ızdırabın şimdi yedikleri etin pişirildiği dumanı tüten kapta kullanıldığından habersiz.</Content>
         </Dialog>
         <Dialog ID="61" Model="묘">
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_26-01</VoiceFile>
-          <Content>Kahretsin, **R Şirketi** de farklı değil, bakın ne yaptık...</Content>
+          <Content>Kahretsin, R Şirketi de farklı değil, bakın ne yaptık...</Content>
         </Dialog>
         <Dialog ID="62" Model="니콜라이">
           <Teller>Nikolai</Teller>
@@ -8109,7 +8109,7 @@
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_19-04</VoiceFile>
-          <Content>**Tekillikler** hakkında bir kelime daha edersen, seni **tecrit** altına alırım.</Content>
+          <Content>Tekillikler hakkında bir kelime daha edersen, seni tecrit altına alırım.</Content>
         </Dialog>
         <Dialog ID="64" Model="묘">
           <Teller>Myo</Teller>
@@ -8121,7 +8121,7 @@
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_20-01</VoiceFile>
-          <Content>Kaybedecek vaktimiz yok, o yüzden **harekete geçmek** için hazırlanın.</Content>
+          <Content>Kaybedecek vaktimiz yok, o yüzden harekete geçmek için hazırlanın.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -8130,13 +8130,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep1_Roland_1-02</VoiceFile>
-          <Content>Kahretsin... **R Şirketi** gerçekten geliyor mu?</Content>
+          <Content>Kahretsin... R Şirketi gerçekten geliyor mu?</Content>
         </Dialog>
         <Dialog ID="67" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_1</VoiceFile>
-          <Content>Merak ediyorum. **Kütüphane** şu anki haliyle **R Şirketi**'yle nasıl başa çıkacak acaba?</Content>
+          <Content>Merak ediyorum. Kütüphane şu anki haliyle R Şirketi'yle nasıl başa çıkacak acaba?</Content>
         </Dialog>
         <Dialog ID="68" Model="롤랑">
           <Teller>Roland</Teller>
@@ -8154,7 +8154,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_3</VoiceFile>
-          <Content>Sana herhangi bir tavsiye vermek istesem de... **Tavşan Takımı**'nı sadece hareket halinde gördüm.</Content>
+          <Content>Sana herhangi bir tavsiye vermek istesem de... Tavşan Takımı'nı sadece hareket halinde gördüm.</Content>
         </Dialog>
         <Dialog ID="71" Model="롤랑">
           <Teller>Roland</Teller>
@@ -8178,31 +8178,31 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep1_Roland_5</VoiceFile>
-          <Content>Bu arada, senin şirket (L Corp.) neden **R Şirketi**'ni işe aldı?</Content>
+          <Content>Bu arada, senin şirket (L Corp.) neden R Şirketi'ni işe aldı?</Content>
         </Dialog>
         <Dialog ID="75" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep1_Roland_6</VoiceFile>
-          <Content>Başlangıçta **L Şirketi**'ndeki işlerin nasıl yürüdüğüne dair hiçbir fikrim olmadığı için bildiğimi düşünmüştüm, ama **Gebura**'yı ve buradaki kütüphanecileri görünce, her türlü durumla başa çıkabileceklerinden daha fazlasını yapabilecek gibi görünüyorlardı.</Content>
+          <Content>Başlangıçta L Şirketi'ndeki işlerin nasıl yürüdüğüne dair hiçbir fikrim olmadığı için bildiğimi düşünmüştüm, ama Gebura'yı ve buradaki kütüphanecileri görünce, her türlü durumla başa çıkabileceklerinden daha fazlasını yapabilecek gibi görünüyorlardı.</Content>
         </Dialog>
         <Dialog ID="76" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_5</VoiceFile>
-          <Content>**Anormallikler** adını verdiğimiz varlıklar yüzünden işler sık sık kontrolden çıkıyordu.</Content>
+          <Content>Anormallikler adını verdiğimiz varlıklar yüzünden işler sık sık kontrolden çıkıyordu.</Content>
         </Dialog>
         <Dialog ID="77" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_6</VoiceFile>
-          <Content>Bazen durum çalışanların halledemeyeceği kadar **sorunlu** hale geliyordu.</Content>
+          <Content>Bazen durum çalışanların halledemeyeceği kadar sorunlu hale geliyordu.</Content>
         </Dialog>
         <Dialog ID="78" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep1_Roland_7</VoiceFile>
-          <Content>Yani kayıp sayısını azaltmak için **Tavşan Takımı**'nı çağırırlardı.</Content>
+          <Content>Yani kayıp sayısını azaltmak için Tavşan Takımı'nı çağırırlardı.</Content>
         </Dialog>
         <Dialog ID="79" Model="롤랑">
           <Teller>Roland</Teller>
@@ -8214,49 +8214,49 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_7</VoiceFile>
-          <Content>Onları kendi gözlerimle hiç görmemiş olsam da, **sözleşme** yapılırken bana kısaca anlatılmıştı.</Content>
+          <Content>Onları kendi gözlerimle hiç görmemiş olsam da, sözleşme yapılırken bana kısaca anlatılmıştı.</Content>
         </Dialog>
         <Dialog ID="81" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_8</VoiceFile>
-          <Content>**Gergedan Takımı**'nın inanılmaz bir savaş gücü var, ama kolayca **heyecanlanırlar** ve tesisi moloz yığınına çevirecek kadar **yan hasara** neden olabilirler.</Content>
+          <Content>Gergedan Takımı'nın inanılmaz bir savaş gücü var, ama kolayca heyecanlanırlar ve tesisi moloz yığınına çevirecek kadar yan hasara neden olabilirler.</Content>
         </Dialog>
         <Dialog ID="82" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep1_Roland_9</VoiceFile>
-          <Content>... O adam kesinlikle sert ve güvenilir görünüyordu. Peki ya **Geyik Takımı** hakkında ne anlattılar?</Content>
+          <Content>... O adam kesinlikle sert ve güvenilir görünüyordu. Peki ya Geyik Takımı hakkında ne anlattılar?</Content>
         </Dialog>
         <Dialog ID="83" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_9</VoiceFile>
-          <Content>Bana **psikolojik saldırılar** kullandıklarını söylediler.</Content>
+          <Content>Bana psikolojik saldırılar kullandıklarını söylediler.</Content>
         </Dialog>
         <Dialog ID="84" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_10</VoiceFile>
-          <Content>Makineler onlardan nispeten güvende olsa da, **yöneticiye** geri dönüşü olmayan zarar verme riski hala vardı.</Content>
+          <Content>Makineler onlardan nispeten güvende olsa da, yöneticiye geri dönüşü olmayan zarar verme riski hala vardı.</Content>
         </Dialog>
         <Dialog ID="85" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep1_Roland_10</VoiceFile>
-          <Content>Yani **Tavşan Takımı**, o tesis için uygun olan tek takımdı, ha?</Content>
+          <Content>Yani Tavşan Takımı, o tesis için uygun olan tek takımdı, ha?</Content>
         </Dialog>
         <Dialog ID="86" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_11</VoiceFile>
-          <Content>Doğru. Her ne kadar **Tavşanlar** zaman zaman işleri daha da kötüleştirse de...</Content>
+          <Content>Doğru. Her ne kadar Tavşanlar zaman zaman işleri daha da kötüleştirse de...</Content>
         </Dialog>
         <Dialog ID="87" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_12</VoiceFile>
-          <Content>Ama yine de oldukça **faydalı** oldukları ortaya çıktı.</Content>
+          <Content>Ama yine de oldukça faydalı oldukları ortaya çıktı.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -8265,25 +8265,25 @@
           <Teller>Rudolph</Teller>
           <Title>Geyik Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Rudolph_10</VoiceFile>
-          <Content>Hava **ağır** geliyor.</Content>
+          <Content>Hava ağır geliyor.</Content>
         </Dialog>
         <Dialog ID="89" Model="막심">
           <Teller>Maxim</Teller>
           <Title>Gergedan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Maxim_11</VoiceFile>
-          <Content>Atmosfer bana **Harabeler**'deymişiz gibi hissettiriyor.</Content>
+          <Content>Atmosfer bana Harabeler'deymişiz gibi hissettiriyor.</Content>
         </Dialog>
         <Dialog ID="90" Model="루돌ф">
           <Teller>Rudolph</Teller>
           <Title>Geyik Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Rudolph_11-03</VoiceFile>
-          <Content>Bir **Şehrin Yıldızı**, tehlike açısından **Harabeler**'den pek de farklı değil.</Content>
+          <Content>Bir Şehrin Yıldızı, tehlike açısından Harabeler'den pek de farklı değil.</Content>
         </Dialog>
         <Dialog ID="91" Model="묘">
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_28-01</VoiceFile>
-          <Content>**Taze ot** otlamak için heyecanlı değil misiniz?</Content>
+          <Content>Taze ot otlamak için heyecanlı değil misiniz?</Content>
         </Dialog>
         <Dialog ID="92" Model="니콜라이">
           <Teller>Nikolai</Teller>
@@ -8295,31 +8295,31 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_13</VoiceFile>
-          <Content>Hoş geldiniz, sevgili misafirler. Ben Angela, bu **Kütüphane**'nin yöneticisi ve **Kütüphanecisi**'yim.</Content>
+          <Content>Hoş geldiniz, sevgili misafirler. Ben Angela, bu Kütüphane'nin yöneticisi ve Kütüphanecisi'yim.</Content>
         </Dialog>
         <Dialog ID="94" Model="니콜라이">
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_22</VoiceFile>
-          <Content>Selamlar, ben Nikolai, **R Şirketi Dördüncü Sürü**'nün lideriyim.</Content>
+          <Content>Selamlar, ben Nikolai, R Şirketi Dördüncü Sürü'nün lideriyim.</Content>
         </Dialog>
         <Dialog ID="95" Model="묘">
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_29</VoiceFile>
-          <Content>Uzun zaman oldu, Angela! **Sözleşme** bittiği için formaliteleri bir kenara bırakacağım.</Content>
+          <Content>Uzun zaman oldu, Angela! Sözleşme bittiği için formaliteleri bir kenara bırakacağım.</Content>
         </Dialog>
         <Dialog ID="96" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_14</VoiceFile>
-          <Content>**Tanıdık bir yüz** görmek güzel.</Content>
+          <Content>Tanıdık bir yüz görmek güzel.</Content>
         </Dialog>
         <Dialog ID="97" Model="묘">
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_30</VoiceFile>
-          <Content>**L Şirketi**'ni sen yıktın, değil mi?</Content>
+          <Content>L Şirketi'ni sen yıktın, değil mi?</Content>
         </Dialog>
         <Dialog ID="98" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -8331,37 +8331,37 @@
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_31</VoiceFile>
-          <Content>Seni ilk tanıdığımda o **çürümüş zihninin** bir gün **büyük** bir şey yapacağını hayal etmiştim.</Content>
+          <Content>Seni ilk tanıdığımda o çürümüş zihninin bir gün büyük bir şey yapacağını hayal etmiştim.</Content>
         </Dialog>
         <Dialog ID="100" Model="묘">
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_32-02</VoiceFile>
-          <Content>**İçgüdümü** kandıramazsın. Senin yüzünden yok edilmek üzereyiz.</Content>
+          <Content>İçgüdümü kandıramazsın. Senin yüzünden yok edilmek üzereyiz.</Content>
         </Dialog>
         <Dialog ID="101" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_16</VoiceFile>
-          <Content>Ortamı okuyamadan anlamsız **saçmalıklar** söylemeye devam ediyorsun. Bu kadar merak ediyorsan, öğrenmek için bir **kitap** okuyabilirsin.</Content>
+          <Content>Ortamı okuyamadan anlamsız saçmalıklar söylemeye devam ediyorsun. Bu kadar merak ediyorsan, öğrenmek için bir kitap okuyabilirsin.</Content>
         </Dialog>
         <Dialog ID="102" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_17</VoiceFile>
-          <Content>Ah, ne olduğunu bilmemen durumunda... **kitap**, elinde tutabileceğin ve okuyabileceğin bir sürü kağıt sayfadır.</Content>
+          <Content>Ah, ne olduğunu bilmemen durumunda... kitap, elinde tutabileceğin ve okuyabileceğin bir sürü kağıt sayfadır.</Content>
         </Dialog>
         <Dialog ID="103" Model="묘">
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep1_Myo_33-01</VoiceFile>
-          <Content>**Maskot sekreter**'ken küçük **Kütüphane**'nde kendini çok **önemli** mi sanıyorsun, ha?</Content>
+          <Content>Maskot sekreter'ken küçük Kütüphane'nde kendini çok önemli mi sanıyorsun, ha?</Content>
         </Dialog>
         <Dialog ID="104" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_18-02</VoiceFile>
-          <Content>Bu kadar hayranı olduğun **Kırmızı Sis**'i öldürmüş olabileceğim için mi gücendin?</Content>
+          <Content>Bu kadar hayranı olduğun Kırmızı Sis'i öldürmüş olabileceğim için mi gücendin?</Content>
         </Dialog>
         <Dialog ID="105" Model="묘">
           <Teller>Myo</Teller>
@@ -8379,13 +8379,13 @@
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep1_Nilolai_24-01</VoiceFile>
-          <Content>Bizi önce içeriye **yönlendirir** misin?</Content>
+          <Content>Bizi önce içeriye yönlendirir misin?</Content>
         </Dialog>
         <Dialog ID="108" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_19</VoiceFile>
-          <Content>Elbette. Umarım **kitaplarını** bu yerde bulursunuz.</Content>
+          <Content>Elbette. Umarım kitaplarını bu yerde bulursunuz.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -8403,37 +8403,37 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_20</VoiceFile>
-          <Content>**Arkadaş** mı? Daha önce de söylediğim gibi, o daha çok bir **tanıdıktı**.</Content>
+          <Content>Arkadaş mı? Daha önce de söylediğim gibi, o daha çok bir tanıdıktı.</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep1_Roland_12</VoiceFile>
-          <Content>Doğru, ama yine de seni uzun zamandır tanıyan **çok az** kişiden biri.</Content>
+          <Content>Doğru, ama yine de seni uzun zamandır tanıyan çok az kişiden biri.</Content>
         </Dialog>
         <Dialog ID="3" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep1_Roland_13</VoiceFile>
-          <Content>O senin eski bir **ortağın**dı, ki bu misafirler arasında çok **ender** bir durum. Garip hissettirmiyor mu ya da öyle bir şey?</Content>
+          <Content>O senin eski bir ortağındı, ki bu misafirler arasında çok ender bir durum. Garip hissettirmiyor mu ya da öyle bir şey?</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_21</VoiceFile>
-          <Content>... Bana **ilginç** bir izlenim bıraktı. O kadar.</Content>
+          <Content>... Bana ilginç bir izlenim bıraktı. O kadar.</Content>
         </Dialog>
         <Dialog ID="5" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_22</VoiceFile>
-          <Content>Ancak, duygularım ne olursa olsun, ona kolaylık sağlamayı planlamadım. Bizim için açık bir **amacımız** var ve misafirlerin de öyle.</Content>
+          <Content>Ancak, duygularım ne olursa olsun, ona kolaylık sağlamayı planlamadım. Bizim için açık bir amacımız var ve misafirlerin de öyle.</Content>
         </Dialog>
         <Dialog ID="6" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep1_Roland_14</VoiceFile>
-          <Content>Önüne çıkan her şeyi **yutarak** **özgürlüğü** kazanmanın, sonunda ağzında **acı bir tat** bırakacağını düşünmüyor musun?</Content>
+          <Content>Önüne çıkan her şeyi yutarak özgürlüğü kazanmanın, sonunda ağzında acı bir tat bırakacağını düşünmüyor musun?</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -8451,19 +8451,19 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_25</VoiceFile>
-          <Content>Ama şu anda, sahip olduğum **hedefe** doğru ilerlemeye odaklanmak istiyorum. Etrafımdaki şeylere dikkat etmek istemiyorum...</Content>
+          <Content>Ama şu anda, sahip olduğum hedefe doğru ilerlemeye odaklanmak istiyorum. Etrafımdaki şeylere dikkat etmek istemiyorum...</Content>
         </Dialog>
         <Dialog ID="10" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_26</VoiceFile>
-          <Content>Bu adımları atmak benim için yeterince **zor**.</Content>
+          <Content>Bu adımları atmak benim için yeterince zor.</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep1_Roland_15</VoiceFile>
-          <Content>Hiçbir **pişmanlığın** olmasını istemiyorsun, ha?</Content>
+          <Content>Hiçbir pişmanlığın olmasını istemiyorsun, ha?</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -8475,19 +8475,19 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep1_Angela_28</VoiceFile>
-          <Content>Roland, **pişmanlığım** olup olmadığını sormaktan yorulmuyor gibisin.</Content>
+          <Content>Roland, pişmanlığım olup olmadığını sormaktan yorulmuyor gibisin.</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep1_Roland_16</VoiceFile>
-          <Content>Şey, demek istediğim, başlangıçta her şeyden **habersizdin**, ama...</Content>
+          <Content>Şey, demek istediğim, başlangıçta her şeyden habersizdin, ama...</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep1_Roland_17</VoiceFile>
-          <Content>Buraya gelene kadar yolda birçok farklı şey gördün ve **deneyimledin**.</Content>
+          <Content>Buraya gelene kadar yolda birçok farklı şey gördün ve deneyimledin.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>Roland</Teller>
@@ -8499,7 +8499,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep1_Roland_19</VoiceFile>
-          <Content>Bir insanın **hedefleri** ve **hayalleri**... her zaman aynı kalmaz, biliyorsun.</Content>
+          <Content>Bir insanın hedefleri ve hayalleri... her zaman aynı kalmaz, biliyorsun.</Content>
         </Dialog>
         <Dialog ID="18" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -8520,7 +8520,7 @@
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep2_Nikolai_1</VoiceFile>
-          <Content>Uf... Sadece **Myo** mu eksik?</Content>
+          <Content>Uf... Sadece Myo mu eksik?</Content>
         </Dialog>
         <Dialog ID="1" Model="루돌프">
           <Teller>Rudolph</Teller>
@@ -8532,13 +8532,13 @@
           <Teller>Maxim</Teller>
           <Title>Gergedan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep2_Maxim_1</VoiceFile>
-          <Content>Hangi **Myo**'nun kazanacağına iddiaya girmek ister misin?</Content>
+          <Content>Hangi Myo'nun kazanacağına iddiaya girmek ister misin?</Content>
         </Dialog>
         <Dialog ID="3" Model="루돌프">
           <Teller>Rudolph</Teller>
           <Title>Geyik Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep2_Rudolph_2</VoiceFile>
-          <Content>Hala bundan **bıkmamış** olmana şaşırdım.</Content>
+          <Content>Hala bundan bıkmamış olmana şaşırdım.</Content>
         </Dialog>
         <Dialog ID="4" Model="루돌프">
           <Teller>Rudolph</Teller>
@@ -8550,7 +8550,7 @@
           <Teller>Myo #13</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_2_1</VoiceFile>
-          <Content>Kahretsin! Yine **öldüm** galiba!</Content>
+          <Content>Kahretsin! Yine öldüm galiba!</Content>
         </Dialog>
         <Dialog ID="6" Model="묘52">
           <Teller>Myo #52</Teller>
@@ -8568,13 +8568,13 @@
           <Teller>Myo #795</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_2_4-01</VoiceFile>
-          <Content>Acele edelim ve **kazananı** şimdi belirleyelim.</Content>
+          <Content>Acele edelim ve kazananı şimdi belirleyelim.</Content>
         </Dialog>
         <Dialog ID="9" Model="T사 연구원1">
           <Teller>T Şirketi Araştırmacısı 1</Teller>
           <Title>T Şirketi</Title>
           <VoiceFile>ch6_R_Corp_ep2_T_Corp_1_a</VoiceFile>
-          <Content>**TT2 protokolü** ile çarpılmış bir gün 100 katına ulaştı... bu çok fazla enerjiye mal oluyor.</Content>
+          <Content>TT2 protokolü ile çarpılmış bir gün 100 katına ulaştı... bu çok fazla enerjiye mal oluyor.</Content>
         </Dialog>
         <Dialog ID="10" Model="T사 연구원2">
           <Teller>T Şirketi Araştırmacısı 2</Teller>
@@ -8598,7 +8598,7 @@
           <Teller>Rudolph</Teller>
           <Title>Geyik Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep2_Rudolph_4-02</VoiceFile>
-          <Content>Ve yaklaşık **on beş bin Myo** var orada.</Content>
+          <Content>Ve yaklaşık on beş bin Myo var orada.</Content>
         </Dialog>
         <Dialog ID="14" Model="막심">
           <Teller>Maxim</Teller>
@@ -8652,19 +8652,19 @@
           <Teller>T Şirketi Araştırmacısı 1</Teller>
           <Title>T Şirketi</Title>
           <VoiceFile>ch6_R_Corp_ep2_T_Corp_3</VoiceFile>
-          <Content>**A Şirketi**'nin kurallarına göre, bir klon ya da orijinali olsun, aynı kişi **7 günden** fazla Şehir'de var olamaz.</Content>
+          <Content>A Şirketi'nin kurallarına göre, bir klon ya da orijinali olsun, aynı kişi 7 günden fazla Şehir'de var olamaz.</Content>
         </Dialog>
         <Dialog ID="23" Model="T사 연구원1">
           <Teller>T Şirketi Araştırmacısı 1</Teller>
           <Title>T Şirketi</Title>
           <VoiceFile>ch6_R_Corp_ep2_T_Corp_4</VoiceFile>
-          <Content>Eğer **R Şirketi** bu kuralı ihlal ederse, bir **Kanat** olarak yeterliliğini kaybeder ve **B Şirketi**'nin düzenlemelerine göre kapatılır.</Content>
+          <Content>Eğer R Şirketi bu kuralı ihlal ederse, bir Kanat olarak yeterliliğini kaybeder ve B Şirketi'nin düzenlemelerine göre kapatılır.</Content>
         </Dialog>
         <Dialog ID="24" Model="T사 연구원1">
           <Teller>T Şirketi Araştırmacısı 1</Teller>
           <Title>T Şirketi</Title>
           <VoiceFile>ch6_R_Corp_ep2_T_Corp_5_b</VoiceFile>
-          <Content>**"7 gün"**, **A Şirketi**'nin zaman ölçeğine göre ölçülür.</Content>
+          <Content>"7 gün", A Şirketi'nin zaman ölçeğine göre ölçülür.</Content>
         </Dialog>
         <Dialog ID="25" Model="묘2128">
           <Teller>Myo #2128</Teller>
@@ -8676,7 +8676,7 @@
           <Teller>Myo #2123</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_2_12</VoiceFile>
-          <Content>Kahretsin! Son iki aydır insan etiyle besleniyorum... ve bu benim **kendi** etim.</Content>
+          <Content>Kahretsin! Son iki aydır insan etiyle besleniyorum... ve bu benim kendi etim.</Content>
         </Dialog>
         <Dialog ID="27" Model="묘1902">
           <Teller>Myo #1902</Teller>
@@ -8694,7 +8694,7 @@
           <Teller>Myo #382</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_2_15</VoiceFile>
-          <Content>Hala anlamadın mı? En **yüksek kaliteli Myo**'yu üretmek için.</Content>
+          <Content>Hala anlamadın mı? En yüksek kaliteli Myo'yu üretmek için.</Content>
         </Dialog>
         <Dialog ID="30" Model="묘17">
           <Teller>Myo #17</Teller>
@@ -8706,37 +8706,37 @@
           <Teller>Myo #4319</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_2_17</VoiceFile>
-          <Content>Çoğumuz insanları öldürmekten **memnunuz**.</Content>
+          <Content>Çoğumuz insanları öldürmekten memnunuz.</Content>
         </Dialog>
         <Dialog ID="32" Model="묘192">
           <Teller>Myo #192</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_2_18</VoiceFile>
-          <Content>Çünkü hayatta kalmanın kelimenin tam anlamıyla tek yolu **öldürmek**ti!</Content>
+          <Content>Çünkü hayatta kalmanın kelimenin tam anlamıyla tek yolu öldürmekti!</Content>
         </Dialog>
         <Dialog ID="33" Model="T사 연구원2">
           <Teller>T Şirketi Araştırmacısı 2</Teller>
           <Title>T Şirketi</Title>
           <VoiceFile>ch6_R_Corp_ep2_T_Corp_9</VoiceFile>
-          <Content>**R Şirketi Kuluçkahanesi**'ni, diğer adıyla **klonlama makinesi**'ni kullanırken daha dikkatli olmalısınız. Artık bu şekilde çalışmaya devam etmek zor olacak.</Content>
+          <Content>R Şirketi Kuluçkahanesi'ni, diğer adıyla klonlama makinesi'ni kullanırken daha dikkatli olmalısınız. Artık bu şekilde çalışmaya devam etmek zor olacak.</Content>
         </Dialog>
         <Dialog ID="34" Model="T사 연구원2">
           <Teller>T Şirketi Araştırmacısı 2</Teller>
           <Title>T Şirketi</Title>
           <VoiceFile>ch6_R_Corp_ep2_T_Corp_10-01</VoiceFile>
-          <Content>Çünkü **L Şirketi** o kadar aniden çöktü ki, şu anda talepleri karşılayacak yeterli **enerji tedarikçimiz** yok.</Content>
+          <Content>Çünkü L Şirketi o kadar aniden çöktü ki, şu anda talepleri karşılayacak yeterli enerji tedarikçimiz yok.</Content>
         </Dialog>
         <Dialog ID="35" Model="T사 연구원2">
           <Teller>T Şirketi Araştırmacısı 2</Teller>
           <Title>T Şirketi</Title>
           <VoiceFile>ch6_R_Corp_ep2_T_Corp_11</VoiceFile>
-          <Content>**W Şirketi** de aynı nedenden dolayı **acil durumda** gibi görünüyor.</Content>
+          <Content>W Şirketi de aynı nedenden dolayı acil durumda gibi görünüyor.</Content>
         </Dialog>
         <Dialog ID="36" Model="니콜라이">
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep2_Nikolai_3</VoiceFile>
-          <Content>Sanırım öyle. **L Şirketi**'nin yüce komutanlığının tekliflerinde **aşırı derecede cömert** olduğunu duymuştum.</Content>
+          <Content>Sanırım öyle. L Şirketi'nin yüce komutanlığının tekliflerinde aşırı derecede cömert olduğunu duymuştum.</Content>
         </Dialog>
         <Dialog ID="37" Model="묘1234">
           <Teller>Myo #1234</Teller>
@@ -8766,7 +8766,7 @@
           <Teller>Myo #2831</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_2_23</VoiceFile>
-          <Content>Ve son **hayatta kalan** olmanın verdiği **zevk** **başka bir dünyaydı**.</Content>
+          <Content>Ve son hayatta kalan olmanın verdiği zevk başka bir dünyaydı.</Content>
         </Dialog>
         <Dialog ID="42" Model="묘2812">
           <Teller>Myo #2812</Teller>
@@ -8778,25 +8778,25 @@
           <Teller>Myo #3212</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_2_25-01</VoiceFile>
-          <Content>Bu cehenneme dayanabilmemin tek sebebi **Kırmızı Sis**'in bana verdiği sözler.</Content>
+          <Content>Bu cehenneme dayanabilmemin tek sebebi Kırmızı Sis'in bana verdiği sözler.</Content>
         </Dialog>
         <Dialog ID="44" Model="묘635">
           <Teller>Myo #635</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_2_26-02</VoiceFile>
-          <Content>**Güçlü** olan hayatta kalmaz...</Content>
+          <Content>Güçlü olan hayatta kalmaz...</Content>
         </Dialog>
         <Dialog ID="45" Model="묘635">
           <Teller>Myo #635</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_2_27-02</VoiceFile>
-          <Content>**Hayatta kalanlar** güçlüdür.</Content>
+          <Content>Hayatta kalanlar güçlüdür.</Content>
         </Dialog>
         <Dialog ID="46" Model="묘27">
           <Teller>Myo #27</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_2_28-03</VoiceFile>
-          <Content>Khh~ Efsanevi **Kırmızı Sis** beni **Kenar Mahalleler**'de bir kahraman gibi kurtarmıştı, böyle söyleyip gitmişti... Gerçekten inanılmaz değil miydi?!</Content>
+          <Content>Khh~ Efsanevi Kırmızı Sis beni Kenar Mahalleler'de bir kahraman gibi kurtarmıştı, böyle söyleyip gitmişti... Gerçekten inanılmaz değil miydi?!</Content>
         </Dialog>
         <Dialog ID="47" Model="묘31">
           <Teller>Myo #31</Teller>
@@ -8808,19 +8808,19 @@
           <Teller>Myo #4981</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_2_30-01</VoiceFile>
-          <Content>Devam edelim ve bu sefer kimin **hayatta** kalacağını görelim.</Content>
+          <Content>Devam edelim ve bu sefer kimin hayatta kalacağını görelim.</Content>
         </Dialog>
         <Dialog ID="49" Model="T사 연구원1">
           <Teller>T Şirketi Araştırmacısı 1</Teller>
           <Title>T Şirketi</Title>
           <VoiceFile>ch6_R_Corp_ep2_T_Corp_6</VoiceFile>
-          <Content>Belirtilen nedenlerden dolayı, bu muhtemelen **Dördüncü Sürü**'nün **kuluçkalanabileceği** son sefer olacak.</Content>
+          <Content>Belirtilen nedenlerden dolayı, bu muhtemelen Dördüncü Sürü'nün kuluçkalanabileceği son sefer olacak.</Content>
         </Dialog>
         <Dialog ID="50" Model="T사 연구원1">
           <Teller>T Şirketi Araştırmacısı 1</Teller>
           <Title>T Şirketi</Title>
           <VoiceFile>ch6_R_Corp_ep2_T_Corp_7</VoiceFile>
-          <Content>Tekrar başarısız olurlarsa, **ikinci bir şans** olmayacak.</Content>
+          <Content>Tekrar başarısız olurlarsa, ikinci bir şans olmayacak.</Content>
         </Dialog>
         <Dialog ID="51" Model="니콜라이">
           <Teller>Nikolai</Teller>
@@ -8832,7 +8832,7 @@
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep2_Nikolai_5-02</VoiceFile>
-          <Content>Kullanabileceğimiz hiç **enerji** kalmadı.</Content>
+          <Content>Kullanabileceğimiz hiç enerji kalmadı.</Content>
         </Dialog>
         <Dialog ID="53" Model="묘17">
           <Teller>Myo #17</Teller>
@@ -8844,7 +8844,7 @@
           <Teller>Myo #635</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_2_32-01</VoiceFile>
-          <Content>**Tereddüt** etmeye gerek yok. Bu bizim son kavgamız, o yüzden **pişmanlık** duymadan bitirelim.</Content>
+          <Content>Tereddüt etmeye gerek yok. Bu bizim son kavgamız, o yüzden pişmanlık duymadan bitirelim.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -8877,37 +8877,37 @@
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_3</VoiceFile>
-          <Content>... Eh, yine **iddia**'ya girdiniz, değil mi?!</Content>
+          <Content>... Eh, yine iddia'ya girdiniz, değil mi?!</Content>
         </Dialog>
         <Dialog ID="60" Model="루돌프">
           <Teller>Rudolph</Teller>
           <Title>Geyik Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep2_Rudolph_6_a</VoiceFile>
-          <Content>Girdik, Numara **635**.</Content>
+          <Content>Girdik, Numara 635.</Content>
         </Dialog>
         <Dialog ID="61" Model="루돌프">
           <Teller>Rudolph</Teller>
           <Title>Geyik Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep2_Rudolph_7-01</VoiceFile>
-          <Content>**Maxim**, bir dahaki içmeye gittiğimizde hesabı sen ödüyorsun.</Content>
+          <Content>Maxim, bir dahaki içmeye gittiğimizde hesabı sen ödüyorsun.</Content>
         </Dialog>
         <Dialog ID="62" Model="막심">
           <Teller>Maxim</Teller>
           <Title>Gergedan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep2_Maxim_5</VoiceFile>
-          <Content>**Myo #17**'nin başaracağından çok emindim. Duyuları çok keskindi sanki...</Content>
+          <Content>Myo #17'nin başaracağından çok emindim. Duyuları çok keskindi sanki...</Content>
         </Dialog>
         <Dialog ID="63" Model="묘">
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_4-01</VoiceFile>
-          <Content>Yalan söylemeyeceğim, **17** oldukça zorluydu.</Content>
+          <Content>Yalan söylemeyeceğim, 17 oldukça zorluydu.</Content>
         </Dialog>
         <Dialog ID="64" Model="묘">
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_5-01</VoiceFile>
-          <Content>Bu arada, **Maxim**! Benim içkimi de ödeyeceksin, değil mi?</Content>
+          <Content>Bu arada, Maxim! Benim içkimi de ödeyeceksin, değil mi?</Content>
         </Dialog>
         <Dialog ID="65" Model="막심">
           <Teller>Maxim</Teller>
@@ -8919,7 +8919,7 @@
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_6-02</VoiceFile>
-          <Content>Hah... iyi, artık **intikam** zamanı! O **kütüphanecileri** paramparça edelim!</Content>
+          <Content>Hah... iyi, artık intikam zamanı! O kütüphanecileri paramparça edelim!</Content>
         </Dialog>
       </Place>
       <Place>
@@ -8928,7 +8928,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep2_Roland_1</VoiceFile>
-          <Content>O, **R Şirketi**'nin **Tekilliği** miydi...?</Content>
+          <Content>O, R Şirketi'nin Tekilliği miydi...?</Content>
         </Dialog>
         <Dialog ID="68" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -8946,13 +8946,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep2_Angela_2</VoiceFile>
-          <Content>Eğer ölü insanları **klonlamak** mümkün olsaydı...</Content>
+          <Content>Eğer ölü insanları klonlamak mümkün olsaydı...</Content>
         </Dialog>
         <Dialog ID="71" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep2_Angela_3</VoiceFile>
-          <Content>O zaman beni... ve **Sephirot**'ları neden yarattı.</Content>
+          <Content>O zaman beni... ve Sephirot'ları neden yarattı.</Content>
         </Dialog>
         <Dialog ID="72" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -8964,7 +8964,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep2_Roland_3</VoiceFile>
-          <Content>Şey, detaylı bakarsak, o teknolojinin bir sürü **kusuru** olabilir.</Content>
+          <Content>Şey, detaylı bakarsak, o teknolojinin bir sürü kusuru olabilir.</Content>
         </Dialog>
         <Dialog ID="74" Model="롤랑">
           <Teller>Roland</Teller>
@@ -8976,13 +8976,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep2_Roland_5</VoiceFile>
-          <Content>Yüzeyde göründüğünden çok daha **karmaşık** olabilir. Belki de bahsettiğin kişi için o anda en iyi seçenek buydu.</Content>
+          <Content>Yüzeyde göründüğünden çok daha karmaşık olabilir. Belki de bahsettiğin kişi için o anda en iyi seçenek buydu.</Content>
         </Dialog>
         <Dialog ID="76" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep2_Roland_6</VoiceFile>
-          <Content>Yine de, buna oldukça şaşırdım. İnsanlar için **klonlama teknolojisi** gerçekten var.</Content>
+          <Content>Yine de, buna oldukça şaşırdım. İnsanlar için klonlama teknolojisi gerçekten var.</Content>
         </Dialog>
         <Dialog ID="77" Model="롤랑">
           <Teller>Roland</Teller>
@@ -8994,19 +8994,19 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep2_Angela_5</VoiceFile>
-          <Content>... Bu **'klonlama'** benim geçmek zorunda kaldığım şeye oldukça benziyor.</Content>
+          <Content>... Bu 'klonlama' benim geçmek zorunda kaldığım şeye oldukça benziyor.</Content>
         </Dialog>
         <Dialog ID="79" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep2_Roland_8</VoiceFile>
-          <Content>... Klon olsalar bile, bu kadar **acımasızca** kullanılmalarını beklemiyordum.</Content>
+          <Content>... Klon olsalar bile, bu kadar acımasızca kullanılmalarını beklemiyordum.</Content>
         </Dialog>
         <Dialog ID="80" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_R_Corp_ep2_Roland_9</VoiceFile>
-          <Content>Geçen sefer aldığımız versiyonlardan daha **güçlü** olacaklar mı?</Content>
+          <Content>Geçen sefer aldığımız versiyonlardan daha güçlü olacaklar mı?</Content>
         </Dialog>
         <Dialog ID="81" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -9018,7 +9018,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep2_Angela_7</VoiceFile>
-          <Content>Bu kadar yetenekli **elitlerle** kendilerinin binlercesiyle karşılaşıyorlar ve **galip** geliyorlar... Kolay olmayacağını düşünüyorum.</Content>
+          <Content>Bu kadar yetenekli elitlerle kendilerinin binlercesiyle karşılaşıyorlar ve galip geliyorlar... Kolay olmayacağını düşünüyorum.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -9027,31 +9027,31 @@
           <Teller>Rudolph</Teller>
           <Title>Geyik Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep2_Rudolph_8-03</VoiceFile>
-          <Content>Hava **ağır** geliyor.</Content>
+          <Content>Hava ağır geliyor.</Content>
         </Dialog>
         <Dialog ID="84" Model="막심">
           <Teller>Maxim</Teller>
           <Title>Gergedan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep2_Maxim_7-02</VoiceFile>
-          <Content>Atmosfer bana **Harabeler**'deymişiz gibi hissettiriyor.</Content>
+          <Content>Atmosfer bana Harabeler'deymişiz gibi hissettiriyor.</Content>
         </Dialog>
         <Dialog ID="85" Model="루돌프">
           <Teller>Rudolph</Teller>
           <Title>Geyik Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep2_Rudolph_9</VoiceFile>
-          <Content>Bir **Şehrin Yıldızı**, tehlike açısından **Harabeler**'den pek de farklı değil.</Content>
+          <Content>Bir Şehrin Yıldızı, tehlike açısından Harabeler'den pek de farklı değil.</Content>
         </Dialog>
         <Dialog ID="86" Model="니콜라이">
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep2_Nikolai_6-01</VoiceFile>
-          <Content>Ve hepimiz burada bir kez **öldük**.</Content>
+          <Content>Ve hepimiz burada bir kez öldük.</Content>
         </Dialog>
         <Dialog ID="87" Model="묘">
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_7-02</VoiceFile>
-          <Content>Yine de, **taze ot** otlamak için heyecanlı değil misiniz?</Content>
+          <Content>Yine de, taze ot otlamak için heyecanlı değil misiniz?</Content>
         </Dialog>
         <Dialog ID="88" Model="นิโคลาย">
           <Teller>Nikolai</Teller>
@@ -9063,13 +9063,13 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep2_Angela_8</VoiceFile>
-          <Content>... Tekrar hoş geldiniz, sevgili misafirler. Ben Angela, bu **Kütüphane**'nin yöneticisi ve **Kütüphanecisi**'yim.</Content>
+          <Content>... Tekrar hoş geldiniz, sevgili misafirler. Ben Angela, bu Kütüphane'nin yöneticisi ve Kütüphanecisi'yim.</Content>
         </Dialog>
         <Dialog ID="90" Model="นิโคลาย">
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep2_Nikolai_8-01</VoiceFile>
-          <Content>Selamlar, ben Nikolai, **R Şirketi Dördüncü Sürü**'nün lideriyim.</Content>
+          <Content>Selamlar, ben Nikolai, R Şirketi Dördüncü Sürü'nün lideriyim.</Content>
         </Dialog>
         <Dialog ID="91" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -9087,7 +9087,7 @@
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_8</VoiceFile>
-          <Content>Uzun zaman oldu, Angela! **Sözleşme** bittiği için formaliteleri bir kenara bırakacağım.</Content>
+          <Content>Uzun zaman oldu, Angela! Sözleşme bittiği için formaliteleri bir kenara bırakacağım.</Content>
         </Dialog>
         <Dialog ID="94" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -9111,7 +9111,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep2_Angela_12</VoiceFile>
-          <Content>Sen... sayısız kendi **klonunu** öldürdün.</Content>
+          <Content>Sen... sayısız kendi klonunu öldürdün.</Content>
         </Dialog>
         <Dialog ID="98" Model="묘">
           <Teller>Myo</Teller>
@@ -9123,19 +9123,19 @@
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep2_Nikolai_10-05</VoiceFile>
-          <Content>... Söyle bana, **Kütüphane Yöneticisi**. Ne kadar biliyorsun?</Content>
+          <Content>... Söyle bana, Kütüphane Yöneticisi. Ne kadar biliyorsun?</Content>
         </Dialog>
         <Dialog ID="100" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep2_Angela_13</VoiceFile>
-          <Content>Nasıl hala **akıllarını koruyorlar**?</Content>
+          <Content>Nasıl hala akıllarını koruyorlar?</Content>
         </Dialog>
         <Dialog ID="101" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep2_Angela_14</VoiceFile>
-          <Content>Onlar **insan**...</Content>
+          <Content>Onlar insan...</Content>
         </Dialog>
         <Dialog ID="102" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -9153,7 +9153,7 @@
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep2_Nikolai_11-01</VoiceFile>
-          <Content>Anlıyorum. Bu **Kütüphane**'nin gücü olmalı.</Content>
+          <Content>Anlıyorum. Bu Kütüphane'nin gücü olmalı.</Content>
         </Dialog>
         <Dialog ID="105" Model="니콜라이">
           <Teller>Nikolai</Teller>
@@ -9165,19 +9165,19 @@
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep2_Nikolai_13</VoiceFile>
-          <Content>Belki de **kıymetli bir çiçek** gibi korunmuş bir ortamda bulunan bir varlık için öyle görünebilir.</Content>
+          <Content>Belki de kıymetli bir çiçek gibi korunmuş bir ortamda bulunan bir varlık için öyle görünebilir.</Content>
         </Dialog>
         <Dialog ID="107" Model="니콜라이">
           <Teller>Nikolai</Teller>
           <Title>R Şirketi 4. Sürü Yüzbaşısı</Title>
           <VoiceFile>ch6_R_Corp_ep2_Nikolai_14</VoiceFile>
-          <Content>Ama bu, hayatlarımızda daha önce gördüklerimize kıyasla **hiçbir şey** değil.</Content>
+          <Content>Ama bu, hayatlarımızda daha önce gördüklerimize kıyasla hiçbir şey değil.</Content>
         </Dialog>
         <Dialog ID="108" Model="막심">
           <Teller>Maxim</Teller>
           <Title>Gergedan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep2_Maxim_8-02</VoiceFile>
-          <Content>Buna **dayanmakta** sorun yaşamayız.</Content>
+          <Content>Buna dayanmakta sorun yaşamayız.</Content>
         </Dialog>
         <Dialog ID="109" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -9189,13 +9189,13 @@
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_11_a-01</VoiceFile>
-          <Content>Haklısın, hiçbir şey bilmiyoruz. O yüzden **sinirli bir bebek** gibi mızmızlanmayı bırak ve sadece kendi yolumuza gidelim.</Content>
+          <Content>Haklısın, hiçbir şey bilmiyoruz. O yüzden sinirli bir bebek gibi mızmızlanmayı bırak ve sadece kendi yolumuza gidelim.</Content>
         </Dialog>
         <Dialog ID="111" Model="묘">
           <Teller>Myo</Teller>
           <Title>Tavşan Takımı Lideri - R Şirketi 4. Sürüsü</Title>
           <VoiceFile>ch6_R_Corp_ep2_Myo_12</VoiceFile>
-          <Content>Burada tekrar **ölmek** istemiyoruz, biliyor musun? Nasıl yaşadığın umrumda değil ve onu dinleyerek zaman kaybetmek istemiyorum.</Content>
+          <Content>Burada tekrar ölmek istemiyoruz, biliyor musun? Nasıl yaşadığın umrumda değil ve onu dinleyerek zaman kaybetmek istemiyorum.</Content>
         </Dialog>
         <Dialog ID="112" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -9213,7 +9213,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_R_Corp_ep2_Angela_18</VoiceFile>
-          <Content>Umarım **kitabınızı** bu yerde bulursunuz.</Content>
+          <Content>Umarım kitabınızı bu yerde bulursunuz.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -10635,7 +10635,7 @@
           <Teller>Miris</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Miris_12</VoiceFile>
-          <Content>Chun ve diğer **düzelticiler** öldüğü için mi? Bu yüzden mi böyle davranıyorsun?</Content>
+          <Content>Chun ve diğer düzelticiler öldüğü için mi? Bu yüzden mi böyle davranıyorsun?</Content>
         </Dialog>
         <Dialog ID="29" Model="샤오">
           <Teller>Xiao</Teller>
@@ -10713,7 +10713,7 @@
           <Teller>Miris</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Miris_15</VoiceFile>
-          <Content>Söyleyebileceğim tek şey şu, Xiao... seni takip eden **düzelticilerin** hiçbiri kimse tarafından zorlanmadı ve ben de farklı değilim.</Content>
+          <Content>Söyleyebileceğim tek şey şu, Xiao... seni takip eden düzelticilerin hiçbiri kimse tarafından zorlanmadı ve ben de farklı değilim.</Content>
         </Dialog>
         <Dialog ID="42" Model="미리스">
           <Teller>Miris</Teller>
@@ -11505,7 +11505,7 @@
           <Teller>Moirai</Teller>
           <Title>Dizin Dokumacısı</Title>
           <VoiceFile>ch6_Index_ep3_Moirai_21</VoiceFile>
-          <Content>**Şehir**'in kalp atışlarını hissediyorsun.</Content>
+          <Content>Şehir'in kalp atışlarını hissediyorsun.</Content>
         </Dialog>
         <Dialog ID="44" Model="모이라이">
           <Teller>Moirai</Teller>
@@ -11547,13 +11547,13 @@
           <Teller>Moirai</Teller>
           <Title>Dizin Dokumacısı</Title>
           <VoiceFile>ch6_Index_ep3_Moirai_26</VoiceFile>
-          <Content>Başlangıçta kafa karıştırıcı görünebilir. Sonuçta, bu **Şehir**'in dili. Elbette onu tanıyamazsın, hayır, hayır!</Content>
+          <Content>Başlangıçta kafa karıştırıcı görünebilir. Sonuçta, bu Şehir'in dili. Elbette onu tanıyamazsın, hayır, hayır!</Content>
         </Dialog>
         <Dialog ID="51" Model="얀">
           <Teller>Yan</Teller>
           <Title>Dizin Habercisi</Title>
           <VoiceFile>ch6_Index_ep3_Yan_26-01</VoiceFile>
-          <Content>**Şehir**'in dili mi? Başka diller de mi var...?</Content>
+          <Content>Şehir'in dili mi? Başka diller de mi var...?</Content>
         </Dialog>
         <Dialog ID="52" Model="모이라이">
           <Teller>Moirai</Teller>
@@ -11727,7 +11727,7 @@
           <Teller>Moirai</Teller>
           <Title>Dizin Dokumacısı</Title>
           <VoiceFile>ch6_Index_ep3_Moirai_45</VoiceFile>
-          <Content>**Şehir** boyunca Hükümleri gönderen tek kişi olduğumu düşünmüyorsun, değil mi?</Content>
+          <Content>Şehir boyunca Hükümleri gönderen tek kişi olduğumu düşünmüyorsun, değil mi?</Content>
         </Dialog>
         <Dialog ID="81" Model="얀">
           <Teller>Yan</Teller>
@@ -11739,13 +11739,13 @@
           <Teller>Moirai</Teller>
           <Title>Dizin Dokumacısı</Title>
           <VoiceFile>ch6_Index_ep3_Moirai_46</VoiceFile>
-          <Content>Bana göre, bu **Şehir**'in ta kendisi.</Content>
+          <Content>Bana göre, bu Şehir'in ta kendisi.</Content>
         </Dialog>
         <Dialog ID="83" Model="모ი라이">
           <Teller>Moirai</Teller>
           <Title>Dizin Dokumacısı</Title>
           <VoiceFile>ch6_Index_ep3_Moirai_47</VoiceFile>
-          <Content>İpliklere desenler yazan sarkaç, daha önce de söylediğim gibi **Şehir**'in hareketine göre sallanıyor.</Content>
+          <Content>İpliklere desenler yazan sarkaç, daha önce de söylediğim gibi Şehir'in hareketine göre sallanıyor.</Content>
         </Dialog>
         <Dialog ID="84" Model="모이라이">
           <Teller>Moirai</Teller>
@@ -11757,7 +11757,7 @@
           <Teller>Moirai</Teller>
           <Title>Dizin Dokumacısı</Title>
           <VoiceFile>ch6_Index_ep3_Moirai_49</VoiceFile>
-          <Content>**Şehir**'de olup biten her küçük olay, sarkaçı hareket ettiren bir titreşim haline geliyor.</Content>
+          <Content>Şehir'de olup biten her küçük olay, sarkaçı hareket ettiren bir titreşim haline geliyor.</Content>
         </Dialog>
         <Dialog ID="86" Model="모이라이">
           <Teller>Moirai</Teller>
@@ -11769,25 +11769,25 @@
           <Teller>Moirai</Teller>
           <Title>Dizin Dokumacısı</Title>
           <VoiceFile>ch6_Index_ep3_Moirai_51</VoiceFile>
-          <Content>Günün sonunda, biz sakinler **Şehir**'den asla özgür olamayız.</Content>
+          <Content>Günün sonunda, biz sakinler Şehir'den asla özgür olamayız.</Content>
         </Dialog>
         <Dialog ID="88" Model="모이라이">
           <Teller>Moirai</Teller>
           <Title>Dizin Dokumacısı</Title>
           <VoiceFile>ch6_Index_ep3_Moirai_52</VoiceFile>
-          <Content>Vatandaşları tarafından işlenen her eylem, sonuçta **Şehir**'in eylemidir. Biz bir şekilde onun iradesini temsil ediyoruz.</Content>
+          <Content>Vatandaşları tarafından işlenen her eylem, sonuçta Şehir'in eylemidir. Biz bir şekilde onun iradesini temsil ediyoruz.</Content>
         </Dialog>
         <Dialog ID="89" Model="얀">
           <Teller>Yan</Teller>
           <Title>Dizin Habercisi</Title>
           <VoiceFile>ch6_Index_ep3_Yan_38</VoiceFile>
-          <Content>İşlediğimiz tüm zalim şeyler **Şehir**'in iradesi yüzünden miydi?</Content>
+          <Content>İşlediğimiz tüm zalim şeyler Şehir'in iradesi yüzünden miydi?</Content>
         </Dialog>
         <Dialog ID="90" Model="얀">
           <Teller>Yan</Teller>
           <Title>Dizin Habercisi</Title>
           <VoiceFile>ch6_Index_ep3_Yan_39-03</VoiceFile>
-          <Content>Neden **Şehir**... böyle olmak zorunda?</Content>
+          <Content>Neden Şehir... böyle olmak zorunda?</Content>
         </Dialog>
         <Dialog ID="91" Model="모이라이">
           <Teller>Moirai</Teller>
@@ -11799,7 +11799,7 @@
           <Teller>Moirai</Teller>
           <Title>Dizin Dokumacısı</Title>
           <VoiceFile>ch6_Index_ep3_Moirai_54-01</VoiceFile>
-          <Content>**Şehir** insanlar tarafından inşa edildi ve onların zalim doğası doğal olarak eserine yansıdı.</Content>
+          <Content>Şehir insanlar tarafından inşa edildi ve onların zalim doğası doğal olarak eserine yansıdı.</Content>
         </Dialog>
         <Dialog ID="93" Model="모이라이">
           <Teller>Moirai</Teller>
@@ -11811,13 +11811,13 @@
           <Teller>Yan</Teller>
           <Title>Dizin Habercisi</Title>
           <VoiceFile>ch6_Index_ep3_Yan_40-01</VoiceFile>
-          <Content>Bu bir felaket... İnsanlar **Şehir**'i inşa etti... ve şimdi **Şehir** insanlarını mı kontrol ediyor...?</Content>
+          <Content>Bu bir felaket... İnsanlar Şehir'i inşa etti... ve şimdi Şehir insanlarını mı kontrol ediyor...?</Content>
         </Dialog>
         <Dialog ID="95" Model="모이라이">
           <Teller>Moirai</Teller>
           <Title>Dizin Dokumacısı</Title>
           <VoiceFile>ch6_Index_ep3_Moirai_56</VoiceFile>
-          <Content>Sıra önemli mi? Bence asıl nokta bu! Ne yaparsak yapalım, aslında **Şehir**'in bir parçasıyız.</Content>
+          <Content>Sıra önemli mi? Bence asıl nokta bu! Ne yaparsak yapalım, aslında Şehir'in bir parçasıyız.</Content>
         </Dialog>
         <Dialog ID="96" Model="얀">
           <Teller>Yan</Teller>
@@ -11847,7 +11847,7 @@
           <Teller>Moirai</Teller>
           <Title>Dizin Dokumacısı</Title>
           <VoiceFile>ch6_Index_ep3_Moirai_59</VoiceFile>
-          <Content>**Şehir**'in iradesine göre... **Şehir**'in iradesi, içinde yaşayan insanların iradesiyle eşleşiyor.</Content>
+          <Content>Şehir'in iradesine göre... Şehir'in iradesi, içinde yaşayan insanların iradesiyle eşleşiyor.</Content>
         </Dialog>
         <Dialog ID="101" Model="모이라이">
           <Teller>Moirai</Teller>
@@ -11859,7 +11859,7 @@
           <Teller>Moirai</Teller>
           <Title>Dizin Dokumacısı</Title>
           <VoiceFile>ch6_Index_ep3_Moirai_61</VoiceFile>
-          <Content>**Şehir**'deki insanların ihtiyaçlarından doğan varlıklar var.</Content>
+          <Content>Şehir'deki insanların ihtiyaçlarından doğan varlıklar var.</Content>
         </Dialog>
         <Dialog ID="103" Model="모이라이">
           <Teller>Moirai</Teller>
@@ -11895,7 +11895,7 @@
           <Teller>Moirai</Teller>
           <Title>Dizin Dokumacısı</Title>
           <VoiceFile>ch6_Index_ep3_Moirai_67</VoiceFile>
-          <Content>Ya da **Şehir**'in sonsuza kadar gelişmesini, tüm sakinlerini korumasını isteyenlerin boş umutları olabilir...</Content>
+          <Content>Ya da Şehir'in sonsuza kadar gelişmesini, tüm sakinlerini korumasını isteyenlerin boş umutları olabilir...</Content>
         </Dialog>
         <Dialog ID="109" Model="모이라이">
           <Teller>Moirai</Teller>
@@ -11919,7 +11919,7 @@
           <Teller>Moirai</Teller>
           <Title>Dizin Dokumacısı</Title>
           <VoiceFile>ch6_Index_ep3_Moirai_71_a</VoiceFile>
-          <Content>Bu kadar çok insan, bu kadar çok **Şehir** sakini onları istiyor...</Content>
+          <Content>Bu kadar çok insan, bu kadar çok Şehir sakini onları istiyor...</Content>
         </Dialog>
         <Dialog ID="113" Model="모이라이">
           <Teller>Moirai</Teller>
@@ -11979,7 +11979,7 @@
           <Teller>Yan</Teller>
           <Title>Dizin Habercisi</Title>
           <VoiceFile>ch6_Index_ep3_Yan_50-01</VoiceFile>
-          <Content>Bu **Şehir**... insanlar her zaman zalim olduğu için. İnsanlar bu şekilde doğar... ve umutsuz arzulara sahipler.</Content>
+          <Content>Bu Şehir... insanlar her zaman zalim olduğu için. İnsanlar bu şekilde doğar... ve umutsuz arzulara sahipler.</Content>
         </Dialog>
         <Dialog ID="123" Model="얀">
           <Teller>Yan</Teller>
@@ -12015,13 +12015,13 @@
           <Teller>Yan</Teller>
           <Title>Dizin Habercisi</Title>
           <VoiceFile>ch6_Index_ep3_Yan_56</VoiceFile>
-          <Content>Yaptığım şey **Şehir**'in bir parçasıydı... **Şehir**'in iradesi.</Content>
+          <Content>Yaptığım şey Şehir'in bir parçasıydı... Şehir'in iradesi.</Content>
         </Dialog>
         <Dialog ID="129" Model="얀">
           <Teller>Yan</Teller>
           <Title>Dizin Habercisi</Title>
           <VoiceFile>ch6_Index_ep3_Yan_57-01</VoiceFile>
-          <Content>Kinle sahte Hükümler yaratıp teslim etmek **Şehir**'in iradesine atfedilebilir, benim özgür irademe değil.</Content>
+          <Content>Kinle sahte Hükümler yaratıp teslim etmek Şehir'in iradesine atfedilebilir, benim özgür irademe değil.</Content>
         </Dialog>
         <Dialog ID="130" Model="얀">
           <Teller>Yan</Teller>
@@ -12033,7 +12033,7 @@
           <Teller>Yan</Teller>
           <Title>Dizin Habercisi</Title>
           <VoiceFile>ch6_Index_ep3_Yan_59</VoiceFile>
-          <Content>**Şehir** ve ben... ve bu **Şehir**'deki her insan bir ve aynıyız.</Content>
+          <Content>Şehir ve ben... ve bu Şehir'deki her insan bir ve aynıyız.</Content>
         </Dialog>
         <Dialog ID="132" Model="얀">
           <Teller>Yan</Teller>
@@ -12045,7 +12045,7 @@
           <Teller>얀샋ㄷ요무</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_61-02</VoiceFile>
-          <Content>... Moirai. **Şehir** nereye gitmem gerektiğini biliyor.</Content>
+          <Content>... Moirai. Şehir nereye gitmem gerektiğini biliyor.</Content>
         </Dialog>
         <Dialog ID="134" Model="모이라이">
           <Teller>Moirai</Teller>
@@ -12075,7 +12075,7 @@
           <Teller>얀샋ㄷ요무</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_62-01</VoiceFile>
-          <Content>... **Şehir**'in dilediği gibi.</Content>
+          <Content>... Şehir'in dilediği gibi.</Content>
         </Dialog>
         <Dialog ID="139" Model="모이라이">
           <Teller>Moirai</Teller>
@@ -12108,7 +12108,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Index_ep3_Angela_1-01</VoiceFile>
-          <Content>**Şehir**'in tanrılarına benzeyen varlıklar... daha önce böyle şeylerden bahseden bir şey okuduğumu veya duyduğumu sanmıyorum.</Content>
+          <Content>Şehir'in tanrılarına benzeyen varlıklar... daha önce böyle şeylerden bahseden bir şey okuduğumu veya duyduğumu sanmıyorum.</Content>
         </Dialog>
         <Dialog ID="144" Model="롤랑">
           <Teller>Roland</Teller>
@@ -12120,7 +12120,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Index_ep3_Roland_3-01</VoiceFile>
-          <Content> "**Varlıklar**" doğru kelime mi, emin değilim.</Content>
+          <Content> "Varlıklar" doğru kelime mi, emin değilim.</Content>
         </Dialog>
         <Dialog ID="146" Model="롤랑">
           <Teller>Roland</Teller>
@@ -12186,7 +12186,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Index_ep3_Angela_8</VoiceFile>
-          <Content>Sen ne düşünüyorsun bu konuda, Roland? Bu "tanrıların" **Şehir** sakinlerini doğru yola yönlendirdiğine inanıyor musun?</Content>
+          <Content>Sen ne düşünüyorsun bu konuda, Roland? Bu "tanrıların" Şehir sakinlerini doğru yola yönlendirdiğine inanıyor musun?</Content>
         </Dialog>
         <Dialog ID="157" Model="롤랑">
           <Teller>Roland</Teller>
@@ -12198,7 +12198,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Index_ep3_Roland_9</VoiceFile>
-          <Content>Ve buna, **Şehir**'in kalp atışı gibi keyfi anlamlar yüklüyorlar. Bu, birçok dinin paylaştığı bir bakış açısıdır.</Content>
+          <Content>Ve buna, Şehir'in kalp atışı gibi keyfi anlamlar yüklüyorlar. Bu, birçok dinin paylaştığı bir bakış açısıdır.</Content>
         </Dialog>
         <Dialog ID="159" Model="롤랑">
           <Teller>Roland</Teller>
@@ -12303,7 +12303,7 @@
           <Teller>얀샋ㄷ요무</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_68</VoiceFile>
-          <Content>Hükümler **Şehir**'in iradesini temsil eder... **Şehir**'de olan her şeyi bilirler.</Content>
+          <Content>Hükümler Şehir'in iradesini temsil eder... Şehir'de olan her şeyi bilirler.</Content>
         </Dialog>
         <Dialog ID="176" Model="뒤틀림 얀">
           <Teller>얀샋ㄷ요무</Teller>
@@ -12327,13 +12327,13 @@
           <Teller>얀샋ㄷ요무</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_70-01</VoiceFile>
-          <Content>Elbette hayır. Hükümler **Şehir**'in iradesidir ve **Şehir**'in iradesi benim irademdir...</Content>
+          <Content>Elbette hayır. Hükümler Şehir'in iradesidir ve Şehir'in iradesi benim irademdir...</Content>
         </Dialog>
         <Dialog ID="180" Model="뒤틀림 얀">
           <Teller>얀샋ㄷ요무</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_71</VoiceFile>
-          <Content>**Şehir**'in iradesini inkar etmek, kendimi inkar etmektir.</Content>
+          <Content>Şehir'in iradesini inkar etmek, kendimi inkar etmektir.</Content>
         </Dialog>
         <Dialog ID="181" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -12405,7 +12405,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Index_ep3_Angela_20</VoiceFile>
-          <Content>Ama bu bile sonunda Hükümlerin bir parçasıydı... Onun dediği gibi, **Şehir**'in iradesi.</Content>
+          <Content>Ama bu bile sonunda Hükümlerin bir parçasıydı... Onun dediği gibi, Şehir'in iradesi.</Content>
         </Dialog>
         <Dialog ID="192" Model="롤랑">
           <Teller>Roland</Teller>
@@ -12423,7 +12423,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Index_ep3_Roland_20</VoiceFile>
-          <Content>Öyle dedim. Çünkü onlar hala **Şehir**'in bir parçası.</Content>
+          <Content>Öyle dedim. Çünkü onlar hala Şehir'in bir parçası.</Content>
         </Dialog>
         <Dialog ID="195" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -12441,7 +12441,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Index_ep3_Angela_24</VoiceFile>
-          <Content>**Şehir**'in "tanrılarının" ortaya çıkmasının nedeni ne? İnsanlar acı çekseler bile neden onların var olmasını istiyor?</Content>
+          <Content>Şehir'in "tanrılarının" ortaya çıkmasının nedeni ne? İnsanlar acı çekseler bile neden onların var olmasını istiyor?</Content>
         </Dialog>
         <Dialog ID="198" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -12543,7 +12543,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Index_ep3_Roland_26-01</VoiceFile>
-          <Content>Kesinlikle. Ve korkutucu olan kısım da bu. Bu, **Şehir**'de sürekli oluyor.</Content>
+          <Content>Kesinlikle. Ve korkutucu olan kısım da bu. Bu, Şehir'de sürekli oluyor.</Content>
         </Dialog>
         <Dialog ID="215" Model="롤랑">
           <Teller>Roland</Teller>
