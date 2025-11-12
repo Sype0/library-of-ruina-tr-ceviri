@@ -1730,7 +1730,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald4</VoiceFile>
-          <Content>Sahneye bana katılabilmeniz çok keyifli olurdu, değil mi?</Content>
+          <Content>benim sahneme katılabilmeniz çok keyifli olurdu, değil mi?</Content>
         </Dialog>
         <Dialog ID="4" Model="???">
           <Teller>???</Teller>
@@ -1901,7 +1901,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Noah</Teller>
           <Title>Şirket Çalışanı</Title>
           <VoiceFile>ch5_Circus_ep1_Noah15</VoiceFile>
-          <Content>Ve hayallerimi çoktan bir kenara attım— ... Hey! Ne oluyor, bir geyik görmüş araba gibi durmak... Bu tehlikeli dostum.</Content>
+          <Content>Ve hayallerimi çoktan bir kenara attım— ... Hey! Ne oluyor, bir geyik görmüş araba gibi durma... Bu tehlikeli dostum.</Content>
         </Dialog>
         <Dialog ID="32" Model="에마">
           <Teller>Emma</Teller>
@@ -2399,7 +2399,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Noah</Teller>
           <Title>Şirket Çalışanı</Title>
           <VoiceFile>ch5_Circus_ep1_Noah43</VoiceFile>
-          <Content>Her zaman para, para, para. Hep sorunlarımı parayla çözebileceğini söylüyorsun; Sadece para atarsan her şeyin yoluna gireceğini mi düşünüyorsun?</Content>
+          <Content>Her zaman para, para, para. Hep sorunlarımı parayla çözebileceğini söylüyorsun; sadece para atarsan her şeyin yoluna gireceğini mi düşünüyorsun?</Content>
         </Dialog>
         <Dialog ID="114" Model="노아">
           <Teller>Noah</Teller>
@@ -2495,7 +2495,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Emma</Teller>
           <Title>Sirk Üyesi</Title>
           <VoiceFile>ch5_Circus_ep1_Emma32</VoiceFile>
-          <Content>Nihayet sana kim olduğumla, maddi bir şekilde değil de, yardım edebildim!</Content>
+          <Content>Nihayet maddi bir şekilde değil de,sana kim olduğumla yardım edebildim!</Content>
         </Dialog>
         <Dialog ID="130" Model="에마">
           <Teller>Emma</Teller>
@@ -2822,7 +2822,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch5_Circus_ep1_Roland12</VoiceFile>
-          <Content>Her ne olursa olsun. Niyet ne olursa olsun, mesele alıcının bunu nasıl algıladığıdır.</Content>
+          <Content>Her ne olursa olsun, mesele alıcının bunu nasıl algıladığıdır.</Content>
         </Dialog>
         <Dialog ID="184" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -2897,7 +2897,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Emma</Teller>
           <Title>Sirk Üyesi</Title>
           <VoiceFile>ch5_Circus_ep1_Emma41</VoiceFile>
-          <Content>Merhaba!! Sesimi duyabiliyorsunuz~!!</Content>
+          <Content>Merhaba!! Sesimi duyabiliyor musunuuuuzz~!!</Content>
         </Dialog>
         <Dialog ID="196" Model="앤젤라">
           <Teller>Angela</Teller>
