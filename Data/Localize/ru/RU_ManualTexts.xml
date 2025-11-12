@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <text id="ui_manual_title_1">Davet</text>
+    <text id="ui_manual_title_2">Resepsiyon</text>
+    <text id="ui_manual_title_3">Kütüphane</text>
+    <text id="ui_manuals_subtitle_1_1">Kırmızı Davetiyeler Gönder</text>
+    <text id="ui_manuals_subtitle_1_2">Genel Davetiyeler Gönder</text>
+
+    <text id="ui_manuals_subtitle_2_1">Resepsiyona Hazırlanma</text>
+    <text id="ui_manuals_subtitle_2_2">Savaşın Temelleri</text>
+
+    <text id="ui_manuals_subtitle_2_3">Resepsiyon Süreci</text>
+    <text id="ui_manuals_subtitle_2_4">Duygular ve Anormallikler</text>
+    <text id="ui_manuals_subtitle_2_5">Resepsiyon Sonu</text>
+    <text id="ui_manuals_subtitle_2_6">Sayfa Türleri</text>
+
+    <text id="ui_manuals_subtitle_3_1">Sayfa Kazanma</text>
+    <text id="ui_manuals_subtitle_3_2">Kütüphanecileri Kuşanma</text>
+    <text id="ui_manuals_subtitle_3_3">Kütüphaneyi Geliştirme</text>
+    <text id="ui_manuals_subtitle_3_4">Hikayeyi İnceleme</text>
+
+    <text id="ui_manuals_subsubtitle_1_1_1">Davetlileri Seçme</text>
+    <text id="ui_manuals_subsubtitle_1_1_2">Kitapları Seçme Ⅰ</text>
+    <text id="ui_manuals_subsubtitle_1_1_3">Kitapları Seçme Ⅱ</text>
+    <text id="ui_manuals_subsubtitle_1_1_4">Davetiyeyi Gönderme</text>
+    <text id="ui_manuals_subsubtitle_1_2_1">Genel Davetiyeler Gönder</text>
+    <text id="ui_manuals_subsubtitle_2_2_1">Savaş Sayfaları Nedir?</text>
+    <text id="ui_manuals_subsubtitle_2_3_1">Hız Zarı Atma</text>
+    <text id="ui_manuals_subsubtitle_2_3_2">Savaş Sayfaları Seçme</text>
+    <text id="ui_manuals_subsubtitle_2_3_3">Savaşa Başlama</text>
+    <text id="ui_manuals_subsubtitle_2_3_4">Zar Atma</text>
+    <text id="ui_manuals_subsubtitle_2_3_5">Tek Taraflı Saldırılar</text>
+    <text id="ui_manuals_subsubtitle_2_3_6">Çatışma Ⅰ</text>
+    <text id="ui_manuals_subsubtitle_2_3_7">Çatışma Ⅱ</text>
+    <text id="ui_manuals_subsubtitle_2_3_8">Sersemleme</text>
+    <text id="ui_manuals_subsubtitle_2_3_9">Kitap Kazanma</text>
+    <text id="ui_manuals_subsubtitle_2_3_10">Dirençler</text>
+    <text id="ui_manuals_subsubtitle_2_4_1">Duyguları Artırma Ⅰ</text>
+    <text id="ui_manuals_subsubtitle_2_4_2">Duyguları Artırma Ⅱ</text>
+    <text id="ui_manuals_subsubtitle_2_4_3">Ekip Duygu Seviyesi</text>
+    <text id="ui_manuals_subsubtitle_2_4_4">Anormallik Sayfaları</text>
+
+    <text id="ui_manuals_subsubtitle_2_5_1">Sonraki Sahne</text>
+    <text id="ui_manuals_subsubtitle_2_5_2">Dinlenme Odası</text>
+    <text id="ui_manuals_subsubtitle_2_5_3">Son</text>
+
+    <text id="ui_manuals_subsubtitle_2_6_1">Yakın Dövüş</text>
+    <text id="ui_manuals_subsubtitle_2_6_2">Menzilli</text>
+    <text id="ui_manuals_subsubtitle_2_6_3">Karşı Saldırı</text>
+    <text id="ui_manuals_subsubtitle_2_6_4">Alan Saldırısı</text>
+    <text id="ui_manuals_subsubtitle_2_6_5">Alan Saldırılarının Özellikleri</text>
+    <text id="ui_manuals_subsubtitle_2_6_6">Alan Saldırısı - Bireysel</text>
+    <text id="ui_manuals_subsubtitle_2_6_7">Alan Saldırısı - Toplam</text>
+
+        <text id="ui_manuals_subsubtitle_2_6_1_1">Yakın Dövüş Sayfası Simgesi</text>
+    <text id="ui_manuals_subsubtitle_2_6_1_2">- En yaygın Savaş Sayfası.
+- Bir Yakın Dövüş Sayfası, bir Menzilli Sayfayla çatıştığında, Saldırı Zarı, rakip Menzilli Zar ile Çatışmayı kazansa bile anında ona hasar veremez.
+Ancak, Saldırı Zarı her Çatışmayı kazandığında saklanır ve yeniden kullanılmak üzere Zarın sonuna taşınır.</text>
+
+    <text id="ui_manuals_subsubtitle_2_6_2_1">Menzilli Sayfa Simgesi</text>
+    <text id="ui_manuals_subsubtitle_2_6_2_2">- Uzaktan saldırılar gerçekleştiren daha az yaygın Savaş Sayfaları.
+- Menzilli Sayfalar, Hız ne olursa olsun, *daima* Yakın Dövüş Sayfalarından önce oynanır.
+- Bir Menzilli Sayfanın Saldırı Zarı, bir Yakın Dövüş Sayfasının Saldırı Zarına karşı Çatışmayı kaybetse bile, Menzilli kullanıcı anında hasar almaz.
+- Ancak, rakibin Yakın Dövüş Zarı saklanır ve yeniden kullanılmak üzere zarın sonuna taşınır.</text>
+
+    <text id="ui_manuals_subsubtitle_2_6_3_1">Karşı Saldırı Zarı Simgesi</text>
+    <text id="ui_manuals_subsubtitle_2_6_3_2">Karşı Saldırı Zarları Sarı renktedir.
+Bu zarlar, bir düşman tek taraflı bir saldırı deneye kadar saklanacaktır.
+Bir Karşı Saldırı Zarı Çatışmayı kazanırsa, Rakibin Savaş Sayfasında hala zarları varsa yeniden kullanılır.</text>
+    <text id="ui_manuals_subsubtitle_2_6_4_1">Alan Saldırısı Sayfaları Simgesi</text>
+    <text id="ui_manuals_subsubtitle_2_6_4_2">Bu Simge, &#60;color=#ff5622ff&#62;'Savaş Sayfası'nda&#60;/color&#62; bir Alan Saldırısı Sayfası olduğunu gösterir.
+- Bir Alan Saldırısı için bir hedef seçtiğinizde,
+her düşmana karşı otomatik olarak bir Hız Zarı seçilir.</text>
+
+    <text id="ui_manuals_subsubtitle_2_6_5_1">Alan Saldırıları, Hız ne olursa olsun, *daima* Yakın Dövüş ve Menzilli Sayfalardan önce oynanır.
+Bir Alan Saldırısı Zarı atışı, rakibin Savaş Sayfalarının atışlarıyla karşılaştırılır ve Alan Saldırısından daha düşük bir atışa sahip olan hedefler hasar alır ve Zarları yok edilir.</text>
+
+    <text id="ui_manuals_subsubtitle_2_6_6_1">İki farklı Alan Saldırısı türü vardır: &#60;color=#ff5622ff&#62;'Bireysel'&#60;/color&#62; ve &#60;color=#ff5622ff&#62;'Toplam'&#60;/color&#62;. &#60;color=#ff5622ff&#62;'Bireysel'&#60;/color&#62; Alan Saldırıları, hedeflerin her Hız Zarının atışlarıyla sırayla karşılaştırılır (Karşı Saldırı Zarları hariç). Yani, Alan Saldırısı Sayfasının ilk zarı rakibin Savaş Sayfasının ilk zarıyla, ikinci zarı ikincisiyle ve bu şekilde devam eder.</text>
+    <text id="ui_manuals_subsubtitle_2_6_7_1">'Toplam'&#60;/color&#62; Alan Saldırıları, hedeflerin Hız Zarlarının (Karşı Saldırı Zarları hariç) tüm zarlarının toplamıyla karşılaştırılır. Yani, Savaş Sayfasının tüm zarları toplanır ve Toplam Alan Saldırısı Sayfasıyla çatışır.</text>
+
+    <text id="ui_manuals_subsubtitle_3_1_1_1">Resepsiyonlarda kazandığınız Kitapları yakarak Sayfalar (ekipmanlar ve kartlar) kazanabilirsiniz.</text>
+    <text id="ui_manuals_subsubtitle_3_1_1_2">Adım 1: ‘Kitapları Yak’ sekmesine basın.</text>
+    <text id="ui_manuals_subsubtitle_3_1_2_1">Adım 3: ‘Kitapları Yak’ düğmesine basın.</text>
+    <text id="ui_manuals_subsubtitle_3_1_2_2">Adım 2: Yakmak istediğiniz kitapları listeden seçin.</text>
+    <text id="ui_manuals_subsubtitle_3_1_2_3">Her kitabın kazanabileceğiniz bir sayfa grubu ve her sayfanın kazanabileceğiniz belirli sayıda kopyası vardır.
+
+Tüm olası ödülleri (Anahtar Sayfalar hariç) kazandığınızda ödül listesi otomatik olarak sıfırlanır.
+Alternatif olarak, ‘Ödülleri Sıfırla’ düğmesine basarak ödülleri manuel olarak sıfırlayabilirsiniz.</text>
+    <text id="ui_manuals_subsubtitle_3_1_3_1">Bir katta kitap yaktığınızda, o katın renginde bir animasyon görürsünüz ve o kitaptan rastgele sayfalar kazanırsınız.
+
+Kitap yakmak size olasılığa bağlı olarak her seferinde farklı Sayfalar verecektir.</text>
+    <text id="ui_manuals_subsubtitle_3_1_4_1">Kitaplardan kazanabileceğiniz iki tür Sayfa vardır: ‘Anahtar Sayfalar’ ve ‘Savaş Sayfaları’.
+
+Anahtar Sayfalar, bir Kütüphanecinin fiziğini temsil eder; ekipman görevi görürler.
+Savaş Sayfaları, Kütüphanecilerin savaşta kullandığı Kartlardır.</text>
+    <text id="ui_manuals_subsubtitle_3_1_5_1">Sayfaların Nadirliği &lt;Cep Kitabı&gt;, &lt;Ciltli Kitap&gt;, &lt;Sınırlı Baskı&gt;’dan &lt;Sanat Eseri&gt;’ne kadar değişir.
+
+Daha yüksek dereceli Sayfalar daha güçlüdür, ancak kitap yakarak elde edilmeleri daha nadirdir.
+Ayrıca, Anahtar Sayfaların nadirliğine bağlı olarak sahip olabileceğiniz bir sınırı vardır.</text>
+    <text id="ui_manuals_subsubtitle_3_2_1_1">Kütüphanenin mevcut Derecesi.</text>
+    <text id="ui_manuals_subsubtitle_3_2_1_2">Seçilen sekmeye taşır.</text>
+    <text id="ui_manuals_subsubtitle_3_2_1_3">Kat Bilgilerini görüntüler.</text>
+    <text id="ui_manuals_subsubtitle_3_2_1_4">Kütüphanecilerinizi buradan kontrol edin.</text>
+    <text id="ui_manuals_subsubtitle_3_2_1_5">Seçilen katın bekleyen Görevler listesi.</text>
+    <text id="ui_manuals_subsubtitle_3_2_1_6">Seçilen katın Anormallik Sayfaları listesi.</text>
+    <text id="ui_manuals_subsubtitle_3_2_2_1">Yapılandırmak istediğiniz şeyi buradan seçin.</text>
+    <text id="ui_manuals_subsubtitle_3_2_2_2">Bu katın kütüphanecilerinin listesini gösterir.</text>
+    <text id="ui_manuals_subsubtitle_3_2_2_3">Seçilen kütüphanecinin bilgilerini gösterir.</text>
+    <text id="ui_manuals_subsubtitle_3_2_2_4">Seçilen kütüphanecinizin mevcut Anahtar Sayfası
+Anahtar Sayfayı değiştirmek için buraya tıklayabilirsiniz.</text>
+    <text id="ui_manuals_subsubtitle_3_2_2_5">Anahtar Sayfaya kuşanılan pasif yeteneklerin listesi
+Pasif yetenekleri ayarlamak için buraya tıklayabilirsiniz.</text>
+    <text id="ui_manuals_subsubtitle_3_2_2_6">Mevcut Anahtar Sayfanın Savaş Sayfaları (deste) listesi
+Destenizi düzenlemek için buraya tıklayabilirsiniz.</text>
+    <text id="ui_manuals_subsubtitle_3_2_3_1">Favori veya diğer Kütüphanecilere kuşanılmış Anahtar Sayfalarınızın listesini buradan kontrol edebilirsiniz.</text>
+    <text id="ui_manuals_subsubtitle_3_2_3_2">Anahtar Sayfaya tıklayıp ‘Kuşan’ı seçerek Anahtar Sayfayı kütüphaneciye atayabilirsiniz.</text>
+    <text id="ui_manuals_subsubtitle_3_2_3_3">Belirli bir derecedeki Anahtar Sayfalara bakın.</text>
+    <text id="ui_manuals_subsubtitle_3_2_3_4">Kuşanılan Anahtar Sayfa ile seçilen Anahtar Sayfanın bilgilerini karşılaştırabilirsiniz.</text>
+    <text id="ui_manuals_subsubtitle_3_2_3_5">Mevcut Anahtar Sayfayı çıkarır.</text>
+    <text id="ui_manuals_subsubtitle_3_2_4_1">Desteden tüm Savaş Sayfalarını kaldırır.</text>
+    <text id="ui_manuals_subsubtitle_3_2_4_2">Bir Savaş Sayfasını çıkarmak için Sol Tıklayın.</text>
+    <text id="ui_manuals_subsubtitle_3_2_4_3">Boşluklar rastgele temel savaş sayfalarıyla doldurulacaktır.</text>
+    <text id="ui_manuals_subsubtitle_3_2_4_4">Seçilen filtrelerle eşleşen sayfaları gösterir.</text>
+    <text id="ui_manuals_subsubtitle_3_2_4_5">Boş bir yuvaya Savaş Sayfası eklemek için Sol Tıklayın.</text>
+    <text id="ui_manuals_subsubtitle_3_2_4_6">Genellikle bir Deste'de sahip olabileceğiniz sayfa sayısının bir sınırı vardır.</text>
+    <text id="ui_manuals_subsubtitle_3_2_4_7">Destelerinizi buraya kaydedin veya yükleyin.</text>
+    <text id="ui_manuals_subsubtitle_3_2_5_1">Savaş Simgesini çıkarmak için buraya tıklayın.</text>
+    <text id="ui_manuals_subsubtitle_3_2_5_2">Kütüphanecinin kazandığı Savaş Simgeleri listesi, kuşanılmış olan en üsttedir.</text>
+    <text id="ui_manuals_subsubtitle_3_2_5_3">Değiştirmek için başka bir Simgeye tıklayın.</text>
+    <text id="ui_manuals_subsubtitle_3_2_5_4">Kütüphaneciyi Özelleştirme düğmesi.</text>
+    <text id="ui_manuals_subsubtitle_3_2_5_5">O yuvaya tıklayarak o belirli parça için Savaş Simgeleri listesini görebilirsiniz.</text>
+    <text id="ui_manuals_subsubtitle_3_2_5_6">Görünürlüğünü yapılandırmak için yanındaki Göz düğmesine
+basabilirsiniz.</text>
+    <text id="ui_manuals_subsubtitle_3_2_6_1">Bu özelleştirme menüsünde, Kütüphanecilerin adını, unvanını, görünümünü, vücut boyutunu ve diyaloglarını düzenleyebilirsiniz.
+Nugget'larınızı yaratmanın tadını çıkarın ve bu sayfadan ayrılmadan önce kaydetmeyi unutmayın.</text>
+    <text id="ui_manuals_subsubtitle_3_2_6_2">Rastgeleleştir.</text>
+    <text id="ui_manuals_subsubtitle_3_2_6_3">Geri al.</text>
+    <text id="ui_manuals_subsubtitle_3_2_6_4">Seçilen yönleri yapılandırmaya başla.</text>
+    <text id="ui_manuals_subsubtitle_3_2_6_5">Mevcut değişiklikleri kaydeder.</text>
+    <text id="ui_manuals_subsubtitle_3_2_6_6">Değişiklikleri kaydetmeden kapatır.</text>
+    <text id="ui_manuals_subsubtitle_3_2_7_1">Pasif yetenekler menüsünü kullanarak, bir Anahtar Sayfanın pasif yeteneklerini başka birine aktarabilirsiniz.</text>
+    <text id="ui_manuals_subsubtitle_3_2_7_2">Yeni bir menü açmak için pasif yetenekler listesine tıklayın.</text>
+    <text id="ui_manuals_subsubtitle_3_2_7_3">Diğer Anahtar Sayfaların pasif yeteneklerine sahip olan Anahtar Sayfaların listesini
+ve diğerleri tarafından kullanılan tüm Anahtar Sayfaların listesini kontrol edebilirsiniz.</text>
+    <text id="ui_manuals_subsubtitle_3_2_8_1">Adım 1: Kuşatmak istediğiniz Anahtar Sayfaya Tıklayın.</text>
+    <text id="ui_manuals_subsubtitle_3_2_8_2">Adım 2: Kuşanılan Anahtar Sayfalar listesinden kullanmak istediğiniz pasifleri seçin.</text>
+    <text id="ui_manuals_subsubtitle_3_2_8_3">Her pasif yeteneğin bir maliyeti vardır ve Anahtar Sayfaların, aynı anda ne kadar pasif yetenek kuşanabileceğinizi sınırlayan bir maliyet limiti vardır.
+Ayrıca, aynı pasif yeteneği birden fazla kuşanmamazsınız.</text>
+    <text id="ui_manuals_subsubtitle_3_3_1_1">Bir seviyenin görevlerini tamamlayarak bir katın Gerçekleşme Seviyesini yükseltebilirsiniz.</text>
+    <text id="ui_manuals_subsubtitle_3_3_1_2">Gerçekleşme Seviyesini yükseltebileceğiniz katlarda kırmızı bir bildirim (!) gösterilecektir.</text>
+    <text id="ui_manuals_subsubtitle_3_3_1_3">Bir katın Gerçekleşme Seviyesini yükseltmek için, mevcut seviyenin bir Anormalliğine karşı bir savaşı tamamlamanız gerekir.
+
+Bildirime tıklayın.
+Ardından Anormallikle savaşın.</text>
+    <text id="ui_manuals_subsubtitle_3_3_2_1">Bir Anormallik savaşında, kitapta dinlenmekte olan Anormalliği bastırmanız gerekir.
+Bunlar birden fazla deneme ve strateji gerektiren benzersiz savaşlardır.
+
+Bir Anormallik Savaşını tamamladıktan sonra…
+- Katın Gerçekleşme Seviyesi artacaktır.
+- Yeni Anormallik Sayfaları kilidi açılacaktır.
+- Yeni Kütüphaneciler uyanabilir (belirli seviyelerde).
+- Yeni Atamalar verilecektir.</text>
+    <text id="ui_manuals_subsubtitle_3_3_3_1">Her katın Gerçekleşme Seviyesini yükseltmek, Kütüphanenin Tehdit Seviyesini artıracaktır.
+Kütüphanenin tehdit seviyesi maksimuma ulaştığında, daha yüksek bir Dereceye yükselir.</text>
+    <text id="ui_manuals_subsubtitle_3_3_3_2">‘Kütüphane Derecesi’, Şehir tarafından algılanan ‘Kütüphane’nin mevcut tehdit seviyesidir.
+
+Kütüphane Derecesi daha yüksek bir seviyeye yükseldiğinde daha fazla insanı davet edebileceksiniz.
+Ayrıca, ek katların kilidini açmanıza da izin verebilir.</text>
+    <text id="ui_manuals_subsubtitle_3_3_4_1">Kütüphanede toplam on kat vardır.
+Ancak, Kütüphane henüz tamamlanmadığı için, katlar Kütüphanecileri içeride uyurken etkin değildir.</text>
+    <text id="ui_manuals_subsubtitle_3_3_4_2">Yeni katların kilidini açmak için Hikayede ilerleyin veya Kütüphane Derecesini yükseltin.
+
+Yeni bir katın kilidi açıldığında, Baş Kütüphanecisi uyanır ve o katı Resepsiyon için kullanabilirsiniz</text>
+    <text id="ui_manuals_subsubtitle_3_4_1_1">Kitaplıkta çeşitli hikaye içeriklerini okuyabilir ve inceleyebilirsiniz.
+Görmek istediğiniz hikayelerin listesini değiştirmek için bir sekmeye basın.</text>
+    <text id="ui_manuals_subsubtitle_3_4_1_2">Baş Kütüphanecilerinizin hikayelerinin Bölümlerini tekrar izleyin.</text>
+    <text id="ui_manuals_subsubtitle_3_4_1_3">Baş Kütüphanecilerin etkileşimde bulunduğu Bölümleri tekrar izleyin.</text>
+    <text id="ui_manuals_subsubtitle_3_4_2_1">Bir davetli grubuna ve ardından bir bölüme tıklayın.</text>
+    <text id="ui_manuals_subsubtitle_3_4_2_2">Savaşlardan Önceki ve Sonraki kesitleri izleyebilirsiniz.</text>
+    <text id="ui_manuals_subsubtitle_3_4_3_1">Hikaye Bölümünü ve davetli grubunu seçin.</text>
+    <text id="ui_manuals_subsubtitle_3_4_3_2">Hikayesini okumak istediğiniz Sayfayı seçin.</text>
+    <text id="ui_manuals_subsubtitle_3_4_3_3">Seçilen hikayeyi buradan okuyabilirsiniz.</text>
+    <text id="ui_manuals_back">Geri Dön</text>
+
+            <text id="ui_manuals_subsubtitle_2_2_2">Zar Yetenekleri</text>
+    <text id="ui_manuals_subsubtitle_2_2_2_1">Sağında yazan bir zarın yeteneği, koşullarına bağlı olarak &#60;color=#ff5622ff&#62;zar oynandığında&#60;/color&#62; etkinleştirilebilir.
+Çoğu yetenek, zar hedefe &#60;color=#ff5622ff&#62;vurduğunda&#60;/color&#62; veya zar &#60;color=#ff5622ff&#62;rakip zara karşı Çatışmayı kazandığında&#60;/color&#62; etkinleşir.</text>
+
+        <text id="ui_manuals_subsubtitle_2_2_3">Işık</text>
+    <text id="ui_manuals_subsubtitle_2_2_3_1">Savaş sırasında, &#60;color=#ff5622ff&#62;'Savaş Sayfaları'nı&#60;/color&#62; kullanmak “Işık” adı verilen bir kaynak gerektirir.
+Bir karakterin sahip olduğu Işık miktarı, üzerlerindeki sarı simgelerin sayısı ile gösterilir.</text>
+
+        <text id="ui_manuals_subsubtitle_2_4_5">E.G.O</text>
+    <text id="ui_manuals_subsubtitle_2_4_5_1">
+    - Bir ekibin genel Duygu Seviyesi Seviye 3'e ulaşırsa, bir E.G.O sayfası seçilebilir.
+    - Seçilen E.G.O sayfası, tüm Kütüphanecilerin erişebileceği farklı bir ‘El’de bulunur.
+    (Herkesin erişebileceği eli görüntülemeyi kolaylaştırmak için özel bir düğme görünecektir)
+    - Bir kez kullanıldıktan sonra, E.G.O sayfasının tekrar kullanılmadan önce Duygu Puanları biriktirilerek yeniden şarj edilmesi gerekir.</text>
+
+    <text id="ui_manuals_subsubtitle_2_4_4_1">Bir karakterin Duygu Seviyesi arttığında, ait oldukları ekibin Genel Duygusu da artacaktır.
+
+Ekip Duygu Seviyesi arttığında, bir sonraki Sahne'nin başında bir Anormallik Sayfası seçebilirsiniz.</text>
+    <text id="ui_manuals_subsubtitle_2_3_3_5">Savaş Sayfalarını Otomatik Seç</text>
+
+    <text id="ui_manuals_subsubtitle_2_1_1">Resepsiyona Hazırlanma 1</text>
+    <text id="ui_manuals_subsubtitle_2_1_2">Resepsiyona Hazırlanma 2</text>
+
+    <text id="ui_manuals_subsubtitle_2_4_3_1">İki tür Anormallik Sayfası vardır: &#60;color=#ff5622ff&#62;Uyanış (Mavi)&#60;/color&#62; ve &#60;color=#ff5622ff&#62;Kırılma (Kırmızı)&#60;/color&#62;.
+
+Uyanış Sayfaları genellikle kullanıcıya faydalı etkilerden oluşur.
+Kırılma Sayfaları güçlü etkiler sunar, ancak &#60;color=#ff5622ff&#62;dezavantajlarla&#60;/color&#62; birlikte gelir.
+
+Her Kat seçilebilecek farklı Anormallik Sayfaları sunar ve her Sayfa türünü seçme olasılığı, Ekibin kazandığı &#60;color=#ff5622ff&#62;Pozitif ve Negatif Duygu Puanlarına&#60;/color&#62; bağlıdır.</text>
+        <text id="ui_manuals_subsubtitle_2_1_2_1">Adım 1: Resepsiyonda kullanılacak Katı seçin.</text>
+    <text id="ui_manuals_subsubtitle_2_1_1_1">Kütüphanecileri seçerek onların bilgilerini görebilirsiniz.</text>
+    <text id="ui_manuals_subsubtitle_2_1_1_4">Davetlileri seçerek onların bilgilerini görebilirsiniz.</text>
+    <text id="ui_manuals_subsubtitle_2_1_2_2">Adım 2: ‘Senaryoyu Başlat’ düğmesine basarak resepsiyonu başlatın.</text>
+    <text id="ui_manuals_subsubtitle_2_1_2_3">Bu, Resepsiyonda kullanılabilecek kat sayısını gösterir.
+Artık katınız kalmadığında Resepsiyon sona erecektir.</text>
+    <text id="ui_manuals_subsubtitle_2_1_2_4">Kalan savaş sayısı</text>
+    <text id="ui_manuals_subsubtitle_2_1_1_2">Buraya tıklayarak bir Kütüphanecinin Anahtar Sayfalarını değiştirebilirsiniz.</text>
+    <text id="ui_manuals_subsubtitle_2_1_2_5">Resepsiyonu iptal eder ve hiçbir kitap kaybetmeden Kütüphaneye geri döner</text>
+    <text id="ui_manuals_subsubtitle_2_1_1_3">Buraya tıklayarak bir Kütüphanecinin Savaş Sayfaları listesini değiştirebilirsiniz</text>
+
+
+    <text id="ui_manuals_subsubtitle_2_3_5_1">Karakterlerden sadece birinin oynayacak zarı olduğunda, &#60;color=#ff5622ff&#62;'Tek Taraflı Saldırı'&#60;/color&#62; gerçekleşir.
+Bu, bir karakterin kendisine karşılık vermeyen başka bir karakteri hedeflediğinde olur.
+
+Bu durumda sadece Saldırı Zarları oynanır. Savunma Zarları, Sahne sona erene veya bir düşman Tek Taraflı Saldırı deneyene kadar tutulacaktır.</text>
+
+    <text id="ui_manuals_subsubtitle_2_3_6_1">Her iki karakterin de oynayacak zarı olduğunda, &#60;color=#ff5622ff&#62;'Çatışma'&#60;/color&#62; gerçekleşir.
+Bu genellikle her iki Hız Zarının da birbirini hedeflemesiyle olur.
+(Savunma veya Karşı Saldırı Zarlarını tutmak da Çatışmaya neden olabilir)
+
+Bir Çatışmada, eylemlerin sonucu atışları karşılaştırılarak belirlenir. &#60;color=#ff5622ff&#62;Saldırı Zarı&#60;/color&#62; Çatışmayı kazandığında sadece atışa eşit hasar verebilir. &#60;color=#ff5622ff&#62;Savunma Zarları&#60;/color&#62; arasındaki etkileşimler bir sonraki sayfadaki (Çatışma Ⅱ) kurallara uyar.</text>
+
+
+
+</localize>

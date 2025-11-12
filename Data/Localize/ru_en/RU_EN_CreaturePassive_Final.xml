@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <PassiveDesc ID="105010">
+    <Name>Korozyon</Name>
+    <Desc>Can 1'e düstügünde bir sonraki Asamaya geçer.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305510">
+    <Name>Korozyon</Name>
+    <Desc>Can 0'a düstügünde bir sonraki Asamaya geçer.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="105111">
+    <Name>Yeniden Canlanan Alev</Name>
+    <Desc>Bir müttefik öldügünde Maksimum Canin %25'ini kaybeder ve Sersemler.</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="105112">
+    <Name>Küller</Name>
+    <Desc>Sersemlediginde 1 Isik kaybeder.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="105211">
+    <Name>Sevgi</Name>
+    <Desc>Karakter bir Sayfa kullandiginda, Hedefi 1 Sevgi alir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="105212">
+    <Name>Nostaljik Anilar</Name>
+    <Desc>Kütüphanecinin 4 veya daha fazla Sevgi Yükü varsa, Güçlü bir Savas Sayfasi kullanir.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="105311">
+    <Name>Anlik Doygunluk</Name>
+    <Desc>Bir müttefikin Cani 20 veya daha az ise, Sahne'nin basinda onu tüketir ve 20 Can yeniler ve 2 Güç kazanir.</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="105312">
+    <Name>Açgözlülük</Name>
+    <Desc>Savas boyunca toplam 40 Hasar aldiktan sonra, Sahne'nin basinda en az Cani olan müttefiki tüketir ve 40 Can yeniler. Bu sekilde yenilen her müttefik için kalici olarak 2 Güç kazanir.</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="105313">
+    <Name>Doymak Bilmez Açlik</Name>
+    <Desc>Can %50 veya altina düserse, bir sonraki Sahne'nin basinda tüm Isigi yeniler ve ele 3 Güçlü Savas Sayfasi ekler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="105314">
+    <Name>Taze Et</Name>
+    <Desc>Sahne'nin basinda, rastgele bir Kütüphaneciye 'Taze Et' durumunu verir.</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="105321">
+    <Name>Dikkat</Name>
+    <Desc>Her Sahne'nin basinda 10 Can yeniler.</Desc>
+  </PassiveDesc>
+
+
+    <PassiveDesc ID="105411">
+    <Name>Dogumculuk</Name>
+    <Desc>Sahne'nin basinda hayatta 2 veya daha az isçi Ari varsa, tüm Kütüphanecilere 2 Spor bulastirir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="105412">
+    <Name>Metamorfoz</Name>
+    <Desc>Bir Kütüphaneci Sporlardan etkilenirken ölürse, bir sonraki Sahne'de bir isçi Ari ortaya çikar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="105413">
+    <Name>Feromonlar</Name>
+    <Desc>Her 3 Sahne'de bir tüm müttefiklerin Saldirganligini ve Sadakatini artiran Sayfalar kullanir.</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="105421">
+    <Name>Sadakat</Name>
+    <Desc>Önceki Sahne'de Angela'ya en son saldiran düsmani hedefler.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="105511">
+    <Name>Sarmasik Duvarlari</Name>
+    <Desc>5 Sarmasik Duvari yenilene kadar saldirilamaz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="105512">
+    <Name>Ormandaki Bir Elma</Name>
+    <Desc>5 Sarmasik Duvarinin tamami yenildikten sonra, Dirençler 2 Sahne boyunca degisir. Bundan sonra normale döner.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="105513">
+    <Name>Bogan Sarmasiklar</Name>
+    <Desc>3 Sahne boyunca yayilan bir Sarmasik Alani olusturur. Sarmasiklarin üzerinde duran Kütüphaneciler Baglama alir. Baglama miktari Sarmasik Alaninin genisligi ile artar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="105514">
+    <Name>Prensim Nerede?</Name>
+    <Desc>Sarmasik Alani maksimuma ulastiginda, o Sahne Güçlü bir Alan Saldirisi Sayfasi kullanir.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="105521">
+    <Name>Solgunluk</Name>
+    <Desc>Bastirma, Angela halledildiginde sona erer.</Desc>
+  </PassiveDesc>
+
+
+    <PassiveDesc ID="205010">
+    <Name>Korozyon</Name>
+    <Desc>Can 1'e düstügünde bir sonraki Asamaya geçer.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205111">
+    <Name>Metalik Ses</Name>
+    <Desc>Basarili bir Künt saldirida 2 Baglama ve Felç uygular</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205112">
+    <Name>siddet</Name>
+    <Desc>Bir düsmani yendiginde 1 Isik yeniler ve bir sonraki Sahne 2 Güç kazanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205113">
+    <Name>Korku</Name>
+    <Desc>Karakter bir durum etkisine sahip oldugunda tüm Zarlar 4 Güç kaybeder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205114">
+    <Name>Biter, Baslar, Biter</Name>
+    <Desc>Korku 2 kez etkinlestirildikten sonra, tek Hedefli Güçlü bir Savas Sayfasi kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205211">
+    <Name>Tam sarj!</Name>
+    <Desc>Karakterin 4 veya daha fazla Isigi varsa bir Alan Saldirisi Sayfasi kullanir. Karakter 3 Sahne boyunca Alan Saldirisi Sayfasi kullanmadiysa, Maliyeti 0 olarak degisir ve kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205212">
+    <Name>Tekrarlayan Kalip Tanima Mk2</Name>
+    <Desc>Bir Savas Sayfasi ile toplam 10 veya daha fazla Hasar verdikten sonra, 1 Isik yeniler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205221">
+    <Name>Tekrarlayan Kalip Tanima</Name>
+    <Desc>Tek bir Sahne'de toplam 10 veya daha fazla Hasar verdikten sonra, 1 Isik yeniler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205311">
+    <Name>Lütfen Daha Siki Çalisin!</Name>
+    <Desc>Sahne'nin basinda, bir veya daha fazla müttefik hayattaysa, 4 Koruma kazanir ve en az Cani olan müttefik için 10 Can yeniler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205312">
+    <Name>Hadi Müzik Yapalim!</Name>
+    <Desc>'O Melodiye HASRET!' etkinlestirildigi Sahne'de, müttefiklere takviyeler veren bir Sayfa kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205313">
+    <Name>Umutsuzluk Armonisi</Name>
+    <Desc>sarki Söyleyen Makine müzik çalarken, Güçlü bir Savas Sayfasi kullanir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205321">
+    <Name>sarki Söyleyen Makine</Name>
+    <Desc>Hedeflenemez. Eylem yapamaz. Hasar almaz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205322">
+    <Name>Gösteri Basliyor</Name>
+    <Desc>'O Melodiye HASRET!' etkinlestirildikten sonraki Sahne'nin basinda Makine'nin içinde bir karakter varsa, o Sahne için 'Performans'i etkinlestirir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205323">
+    <Name>Performans</Name>
+    <Desc>Sahne'nin basinda, Makine'nin içindeki karakter Maksimum Caninin %30'u kadar Hasar alir. Müzik çalarken, tüm karakterler 5 Güç kazanir ve tüm Sersemletme Hasari Dirençleri "Ölümcül" olarak degisir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205331">
+    <Name>O Melodiye HASRET!</Name>
+    <Desc>Üçüncü Sahne'den baslayarak: her dört Sahne'de bir kendine 5 Baglama uygular, ek bir Hiz Zari kazanir ve farkli bir Savas Sayfasi Seti kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205332">
+    <Name>Müzik Bagimliligi</Name>
+    <Desc>'O Melodiye HASRET!' etkinlestirildigi Sahne'nin sonunda sarki Söyleyen Makine'nin içinde kimse yoksa, en az Cani olan Bagimli Çalisan Makine'ye girer.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205411">
+    <Name>Kurtulus Eli</Name>
+    <Desc>En az Cani olan düsmani hedefler. Mühürlü Zarlara sahip Hedeflere öncelik verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205412">
+    <Name>Keder</Name>
+    <Desc>Zarlar, Hedefin Canina bagli olarak Güç kazanir. (Can %75~%50: Güç +1; %50 veya alti: Güç +2) </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205413">
+    <Name>Dinginlik</Name>
+    <Desc>Karakterin tüm Hiz Zarlari bu karakterin Sayfa etkisi tarafindan mühürlenirse, Sersemler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205414">
+    <Name>Agit</Name>
+    <Desc>Sahne'nin basinda Sersemlemis bir düsman varsa, Özel bir Savas Sayfasi kullanir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205415">
+    <Name>Ebedi Dinlenme</Name>
+    <Desc>Her 3 Sahne'de bir Alan Saldirisi Sayfasi kullanir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205421">
+    <Name>Faydasiz Çirpinis</Name>
+    <Desc>En az Cani olan düsmani hedefler; Angela bir sonraki Asamaya geçtiginde bastirilir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="205511">
+    <Name>Yedi Mermi</Name>
+    <Desc>Sersemletme Direnci 1'in altina düsmez. Angela'nin Sersemletme Direnci 1'e ulasirsa, 50 Can kaybeder ve bir sonraki Sahne tüm Sersemletme Dirençlerini yeniler ve davranisini degistirir.</Desc>
+  </PassiveDesc>
+
+
+    <PassiveDesc ID="305111">
+    <Name>ifadeler</Name>
+    <Desc>Hiz Zari sayisi hayatta kalan Kütüphaneci sayisina göre belirlenir. Hiz Zari atildigi anda yüze bagli olarak farkli Savas Sayfalari kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305112">
+    <Name>Yüzüne Büyük Bir Gülümseme Koy</Name>
+    <Desc>Zarlar mevcut ifadeye bagli olarak farkli miktarda Güç kazanir; daha Mutlu ifadeler daha az Güç demektir. Angela'nin kullandigi Savas Sayfalari mevcut ifadesine bagli olarak ek etkilere sahiptir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305113">
+    <Name>Tereddüt Eden Hissiyatlar</Name>
+    <Desc>Her 3 Sahne'de bir Güçlü bir Savas Sayfasi kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305211">
+    <Name>Cezbedilmis</Name>
+    <Desc>Kanama durumuna sahip Hedefi önceliklendirir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305212">
+    <Name>Dev Balta</Name>
+    <Desc>Vurdugunda 1 'Derin Yara' uygular. Hedefin 5 Derin Yara Yükü varsa, Maksimum Caninin %25'i kadar Hasar verir ve tüm Derin Yara Yüklerini kaldirir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305213">
+    <Name>Parilti</Name>
+    <Desc>Sahne'nin basinda bir düsmanin 3 veya daha fazla Kanama durumu varsa, Güçlü bir Savas Sayfasi kullanir. Bir kez kullanildiktan sonra, Sayfa sonraki 2 Sahne tekrar kullanilmaz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305221">
+    <Name>Hizli</Name>
+    <Desc>Hiz Zari +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305311">
+    <Name>Av Basliyor</Name>
+    <Desc>Bir müttefik öldükten sonra 2 Sahne boyunca etkinlesir ve düsmanlara saldirir. Bir müttefiki öldüren düsmanlari hedefler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305312">
+    <Name>Gözetim</Name>
+    <Desc>Her 2 Sahne'de bir, diger müttefiklere 4 Koruma verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305321">
+    <Name>Yemek Zamani!</Name>
+    <Desc>'Kozalak' durumuna sahip düsmani hedefler</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305411">
+    <Name>Sana Bir Hediye Verecegim!</Name>
+    <Desc>Eldeki en az 'Hediye' sayisina sahip Hedefi önceliklendirir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305412">
+    <Name>Eglenceli saka</Name>
+    <Desc>Her 2 Sahne'de bir her Kütüphanecinin eline bir 'Hediye' ekler. Ölen her iki 'Küçük arkadas' için ek bir 'Hediye' verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305413">
+    <Name>Büyüüük~ Hediye!!</Name>
+    <Desc>Tüm sarilmis Arkadaslar yenilirse, bir sonraki Sahne bir Alan Saldirisi Sayfasi kullanir. Bundan sonra, Sayfa her 3 Sahne'de bir kullanilir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305414">
+    <Name>Benimle Oynar misin?</Name>
+    <Desc>Blok Zarlari, Rakibin elindeki 'Hediye' sayisinin 4 kati kadar Güç kaybeder</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305415">
+    <Name>Yalniz Olmak Üzücü</Name>
+    <Desc>Tüm müttefikler öldüyse, tüm Dirençler "Ölümcül" olarak degisir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305421">
+    <Name>He..di..ye</Name>
+    <Desc>Eldeki en çok 'Hediye' sayisina sahip Hedefi önceliklendirir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305422">
+    <Name>BOOM!</Name>
+    <Desc>Üçüncü Sahne'de, önemli miktarda Hasar verecek ve kullaniciyi kendini yok etmeye zorlamadan önce Hedefine üç kopya 'Hediye' verecek Güçlü bir Savas Sayfasi kullanir. Karakter bu Sayfayi kullandiktan sonra ölür.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305423">
+    <Name>Sürpriz Bir Hediye</Name>
+    <Desc>Bu karakter ölürse, bir sonraki Sahne'de bir 'Küçük arkadas' ortaya çikar. Karakter, Özel bir Savas Sayfasi kullanarak kendini yok etmeden önce ölürse, Arkadas Caninin %80'i ile ortaya çikar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305431">
+    <Name>He..di..ye</Name>
+    <Desc>Eldeki en çok 'Hediye' sayisina sahip Hedefi önceliklendirir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305432">
+    <Name>Bana O Hediyeyi Ver!</Name>
+    <Desc>Saldiri Zarlari, Hedefin elindeki 'Hediye' sayisi kadar Güç kazanir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305511">
+    <Name>Isirgan Otu Giysisi</Name>
+    <Desc>Sahne 2'den baslayarak, her Sahne'nin basinda bir Kardes çagirir. Zaten hayatta 5 müttefik varsa etkinlesmez.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305512">
+    <Name>Korunacak Aile</Name>
+    <Desc>Sahne'nin basinda dört Kardes hayattaysa, bir Alan Saldirisi Sayfasi kullanir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305513">
+    <Name>Kirik Hayaller</Name>
+    <Desc>Sahne'nin basinda dört Kardes öldüyse, bir Alan Saldirisi Sayfasi kullanir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305521">
+    <Name>Birinci Kardes</Name>
+    <Desc>Bu karakter hayatta oldugu sürece, Angela bir Hiz Zari kazanir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305531">
+    <Name>ikinci Kardes</Name>
+    <Desc>Bu karakter hayatta oldugu sürece, Angela'nin Hizi 3 artar</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305541">
+    <Name>Üçüncü Kardes</Name>
+    <Desc>Bu karakter hayatta oldugu sürece, Angela saldirilari yansitan bir Savas Sayfasi kullanir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305551">
+    <Name>Dördüncü Kardes</Name>
+    <Desc>Bu karakter hayatta oldugu sürece, Angela'nin saldirilari Dirençlere bakilmaksizin "Ölümcül" Hasar verir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305561">
+    <Name>Besinci Kardes</Name>
+    <Desc>Bu karakter hayatta oldugu sürece, Angela 5 Kanama ve Kirilganlik uygulayan bir Savas Sayfasi kullanir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="305571">
+    <Name>Altinci Kardes</Name>
+    <Desc>Bu karakter ölürse, Angela Sersemler</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="405111">
+    <Name>Dokunaçlar</Name>
+    <Desc>Basarili bir Delici vurusla, Maksimum Sersemletme Direncini %5 azaltir. (10 kez birikir)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405112">
+    <Name>Yankilar</Name>
+    <Desc>Üçüncü Sahne'den baslayarak, her 2 Sahne'de bir 'Öteden Gelen Yankilar' Savas Sayfasini kullanir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405113">
+    <Name>Anlasilmaz</Name>
+    <Desc>Saldirilarla iki kat Sersemletme Hasari verir</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="405211">
+    <Name>iki Kisilik Evren</Name>
+    <Desc>Diger tüm müttefikler öldükten sonra, Can kaybeder ve Sersemler. Bundan sonra tekrar hedeflenebilir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405212">
+    <Name>Veda Gözyaslari</Name>
+    <Desc>Sahne'nin basinda, bir müttefik askida animasyonda ise, Aglama Moduna geçer; degilse, iyilestirme Moduna geçer. Karakter Sahne'nin basinda Aglama Modunda ise, bir Alan Saldirisi Sayfasi kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405213">
+    <Name>Jeton</Name>
+    <Desc>Karakter Sahne'nin basinda iyilestirme Modunda ise, diger tüm müttefiklerin Canini Maksimum Canlarinin %10'u kadar yeniler ve herhangi bir eylem yapmaz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405221">
+    <Name>Beni Birakma</Name>
+    <Desc>Can 1'in altina düsmez; ölümcül Hasar aldiginda, sonraki 2 Sahne boyunca askida animasyon durumuna girer. O durumdan uyandiginda Maksimum Canin %70'ini yeniler. Sahne'nin basinda Angela hariç tüm müttefiklerin Cani 1 ise ölür.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="405311">
+    <Name>Dayanilmaz Haz</Name>
+    <Desc>Her Sahne'nin basinda, karakterler ellerindeki her 'Haz' Sayfasi için 1 Isik yeniler. Vurdugunda, Hedefin elinde üç 'Haz' Sayfasi varsa, 20 Hasar verir ve o Sayfalari Tüketir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405312">
+    <Name>Kafanin Patlama Zamani</Name>
+    <Desc>Bir Kütüphanecinin 2 veya daha fazla 'Haz' kopyasi varsa bir Alan Saldirisi Sayfasi kullanir. Bir kez kullanildiktan sonra, Sayfa bir sonraki Sahne tekrar kullanilmaz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405313">
+    <Name>Mutluluk Veren Dikenler</Name>
+    <Desc>Vurdugunda, Hedefe 2 Pozitif Duygu Jetonu verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405314">
+    <Name>Süzülme</Name>
+    <Desc>Menzilli Sayfalardan Hasar almaz.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="405415">
+    <Name>Topraktan Yapilmis Oyuncak Bebek</Name>
+    <Desc>Yanma veya Kanama Hasari almaz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405412">
+    <Name>Çiçek Açan Koku</Name>
+    <Desc>Bu karakterin saldirilari Kütüphanecilere sadece Sersemletme Hasari verir. Bir Kütüphaneci Sersemlerse, aninda ölür ve bir sonraki Sahne'de 'Topraktan Çikan' ortaya çikar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405411">
+    <Name>Kefaret</Name>
+    <Desc>Bu karakter yalnizca 'Defne Taci' durumuna sahip Kütüphaneciden hasar alir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405413">
+    <Name>Ölümsüz Çiçek</Name>
+    <Desc>Sahne 2'den baslayarak, her Sahne'nin basinda Angela'nin arkasinda bir Yaprak açar. Sahne'nin basinda 3 Yaprak birikirse, hepsini kaldirir ve bir Alan Saldirisi Sayfasi kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405414">
+    <Name>Yaprak Gözyaslari</Name>
+    <Desc>Sersemlediginde, bir sonraki Sahne'nin basinda 40 Can kaybeder ve tüm Yapraklari kaldirir. Ayrica, tüm Kütüphaneciler Maksimum Sersemletme Dirençlerinin %50'sini geri kazanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405421">
+    <Name>Geldigim Topraga…</Name>
+    <Desc>Bu karakter Sersemlediginde ölür.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405423">
+    <Name>Topraktan Yapilmis Oyuncak Bebek</Name>
+    <Desc>Yanma veya Kanama Hasari almaz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405422">
+    <Name>Çiçek Açan Koku</Name>
+    <Desc>Bu karakterin saldirilari Kütüphanecilere sadece Sersemletme Hasari verir. Bir Kütüphaneci Sersemlerse, aninda ölür ve bir sonraki Sahne'de 'Topraktan Çikan' ortaya çikar.</Desc>
+  </PassiveDesc>
+
+
+    <PassiveDesc ID="405511">
+    <Name>Dünyanin En Güzel Gösterisi</Name>
+    <Desc>Savas 5 Sahne sürer; Sahne 6'da bir sonraki Asamaya geçer. Her Sahne benzersiz Savas Sayfalari kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405512">
+    <Name>Topluluk</Name>
+    <Desc>Sahne'nin basinda, eylem yapamayan diger müttefik sayisi kadar Güç kazanir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405521">
+    <Name>Sessiz Performans</Name>
+    <Desc>Savas Sayfalari kullanmaz. Sersemlediginde, Asama boyunca Hareketsiz kalir.</Desc>
+  </PassiveDesc>
+
+
+  <PassiveDesc ID="405611">
+    <Name>Dünyanin En Güzel Gösterisi</Name>
+    <Desc>Her 6 Sahne'de bir dönen benzersiz bir davranis kalibini izler. Direnç ve Hiz Zari sayisi her Sahne degisir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405612">
+    <Name>Ebedi Performans</Name>
+    <Desc>'Perdeyi indir' Savas Sayfasini kullandiktan sonra, tüm müttefiklerin Canini yeniler. iyilestirme, her tekrarda azalir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405613">
+    <Name>Atesli Hayranlik</Name>
+    <Desc>Sersemlemis Kütüphaneciler 'Atesli Hayranlik' durumunu alir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405614">
+    <Name>Topluluk</Name>
+    <Desc>Sahne'nin basinda, eylem yapamayan diger müttefik sayisi kadar Güç kazanir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="405621">
+    <Name>Sessiz Doruk</Name>
+    <Desc>Döngünün besinci ve altinci ölçüsünde eylem yapmaz</Desc>
+  </PassiveDesc>
+
+
+    <PassiveDesc ID="505101">
+    <Name>Olumsuz Degisim</Name>
+    <Desc>
+      Histeri Ölçer doldugunda, dönüsür. Histeri Ölçer Çatismalari kaybederken veya isaretli düsmanlar tarafindan saldiriya ugrarken artar ve Çatismalari kazanirken veya isaretli düsmanlara saldirirken azalir. Ölçer doldukça ekran soldan saga pembeye döner.
+      Sahne sonunda, tüm Isigi yeniler ve 2 Sayfa çeker.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505102">
+    <Name>Nefret Adina</Name>
+    <Desc>Her 2 Sahne'de bir Hedefe bir "isaret" birakan bir Sayfa kullanir. isaretli karakterin tüm Dirençleri "Zayif" olarak degisir ve karakter öncelikli olarak Roland tarafindan hedeflenir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505103">
+    <Name>Gizemli Köle</Name>
+    <Desc>Her 4 Sahne'de bir tüm Kütüphanecileri hedef alan bir Alan Saldirisi Sayfasi kullanir. Her Kütüphaneci, kendileri tarafindan atilan tüm zarlarin toplami Alan Saldirisi Zarina esit veya ondan büyükse saldiriyi engelleyebilir.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="505211">
+    <Name>Sadik Koruma</Name>
+    <Desc>Hedeflenemez. Eylem yapamaz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505212">
+    <Name>Keder</Name>
+    <Desc>Her 3 Sahne'de bir rastgele bir Kilica Gözyasi verir. Karakter Sersemlerse, bir sonraki Sahne etkinlesir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505213">
+    <Name>Umutsuzluk</Name>
+    <Desc>Gözyasi olan bir Kiliç ölümcül hasar aldiginda, bir sonraki Sahne Umutsuzluga düser.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505214">
+    <Name>Umutsuzluk Kutsamasi</Name>
+    <Desc>Bir karakter Umutsuzluga düstügünde, tüm Kiliçlar Can ve Sersemletme Direncini tamamen geri kazanir ve Özel bir Savas Sayfasi kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505215">
+    <Name>Kirik Bir Kalp</Name>
+    <Desc>Tüm Kiliçlar Umutsuzluk durumundayken karakteri delip geçerse, bir sonraki Sahne Sersemler ve Hedeflenebilir.</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="505221">
+    <Name>Gözyaslari</Name>
+    <Desc>Gözyaslari etkisi altindayken bir Hiz Zari kazanir, Özel Sayfalar kullanir ve Dirençleri degistirir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505222">
+    <Name>Soluklanma</Name>
+    <Desc>Ölümcül hasar aldiginda askiya alma durumuna girer. 2 Sahne sonra canlanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505223">
+    <Name>Umutsuzlugu Delen Kiliç</Name>
+    <Desc>Umutsuzluk durumundayken Hedefine hasar vermeyi basaramazsa, Kiliç Roland'i delip ona hasar verir.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="505311">
+    <Name>Vurucu Arzu</Name>
+    <Desc>Can %50 veya altina düserse, bir sonraki Sahne Açgözlülük Krali'na dönüsür. Dönüsmeden önce Can %50'nin altina düsmez.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505312">
+    <Name>Altin Yolu</Name>
+    <Desc>Her 3 Sahne'de bir, Parlak Mutluluk yaratir ve hedeflenemez, ancak eylem yapmaz. Bir sonraki Sahne, tüm Kütüphanecilere karsi Özel bir Savas Sayfasi kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505313">
+    <Name>Narsisizm</Name>
+    <Desc>3 veya daha az Kütüphaneci Özel Savas Sayfasi saldirisini engellemeyi basarirsa, bir sonraki Sahne 3 Güç ve Acele kazanir. (iki veya daha az Kütüphaneci hayattaysa, Sayfayi bir veya hiç Kütüphaneci engellemezse bu etki etkinlesir)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505314">
+    <Name>Anlik Mutluluk</Name>
+    <Desc>Tüm Kütüphaneciler Özel Savas Sayfasi saldirisini engellemeyi basarirsa, Roland bir sonraki Sahne Sersemler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505321">
+    <Name>Açgözlülük Krali</Name>
+    <Desc>Farkli Savas Sayfalari kullanir. Basarili bir vurusta, Hedefteki Kanama Yükleri kadar ek Hasar verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505322">
+    <Name>Kralin Yolu</Name>
+    <Desc>Her 3 Sahne'de bir, Parlak Mutluluk yaratir ve hedeflenemez, ancak eylem yapmaz. Bir sonraki Sahne, tek bir Hedefe karsi Özel bir Savas Sayfasi kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505323">
+    <Name>Açgözlülük</Name>
+    <Desc>Bir Kütüphaneci Özel Savas Sayfalari saldirilarindan herhangi birini engellemeyi basaramazsa, tüm Kütüphanecilere 15 Hasar verir ve 25 Can yeniler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505324">
+    <Name>Bir Anlik Mutluluk</Name>
+    <Desc>Bir Kütüphaneci Özel Savas Sayfasi saldirilarinin tamamini basariyla engellerse, Roland bir sonraki Sahne Sersemler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505331">
+    <Name>Parlak Mutluluk</Name>
+    <Desc>Bir Sahne boyunca var olur. Onu yenen Kütüphaneciye Özel bir Savas Sayfasi verir.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="505411">
+    <Name>Günün Oyunu</Name>
+    <Desc>Yalnizca Roland Münzevi'yi yenebilir. Münzevi yenildiginde savas bir sonraki Asamaya geçer.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505412">
+    <Name>Kör Öfke</Name>
+    <Desc>Münzevi'nin Asasina saldirmaya öncelik verir. Hiç Münzevi Asasi yoksa, Münzevi'ye saldirir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505413">
+    <Name>Baska Bir Dünyadan Günahkarlar!</Name>
+    <Desc>Bir veya daha fazla Münzevi Asasi mevcut oldugunda, toplam 30 Hasar aldiktan sonra, bir sonraki Sahne'de Alan Saldirisi Sayfasi, 'KÖTÜLÜgÜN ENKARNASYONLARI!!' kullanir. Toplam Hasar Sayaci bundan sonra sifirlanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505414">
+    <Name>Kaynayan Gazap</Name>
+    <Desc>Roland Münzevi'ye saldirmaya basladiginda, Alan Saldirisi Sayfasi, 'KÖTÜLÜgÜN ENKARNASYONLARI!!' kullanir. Sayfa bundan sonraki her 2 Sahne'de bir kullanilir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505421">
+    <Name>Sömürülen</Name>
+    <Desc>Can, bir Kütüphaneci saldirisindan 30'un altina düsmez. Karakterin Cani bir Sahne sonunda 30 veya daha az ise, bir sonraki Sahne'de Maksimum Canin %50'sini geri kazanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505422">
+    <Name>Sevgili Dost</Name>
+    <Desc>Roland ile Çatismaya girdiginde +5 Güç kazanir. Yanma, Kanama veya Asinma Hasari almaz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505423">
+    <Name>Baska Bir Dünyadan Gelen Ziyaretçiler</Name>
+    <Desc>Bir veya daha fazla Münzevi Asasi mevcutken, her 2 Sahne'de bir Alan Saldirisi Sayfasi kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505424">
+    <Name>iki Diyar Karsilastiginda</Name>
+    <Desc>
+      Tüm Münzevi Asalari yenildiginde davranisi degisir. Yeni döngünün ilk Sahnesi'nde, Roland'a saldirir.
+      ikinci Sahne'de tekrar Roland'a saldirdiktan sonra, daha fazla Münzevi Asasi çagiran bir Alan Saldirisi Sayfasi kullanir.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505431">
+    <Name>Münzevi Asasi</Name>
+    <Desc>Roland'a saldirir.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="505500">
+    <Name>Her sey Hiçlige Döner</Name>
+    <Desc>su sirayla dönen benzersiz davranis modlarina sahiptir: Hiçlik -> Açgözlülük -> Nefret -> Umutsuzluk -> Gazap. Her mod farkli pasif yetenekleri ve Savas Sayfalarini gelistirir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505501">
+    <Name>Anlamsiz Çaba</Name>
+    <Desc>'Gazap' modu disinda Sersemletme Hasari almaz. Kanama, Yanma, Asinma Hasari almaz. Bu karakterin Hiz Zari Mühürlenemez.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505502">
+    <Name>Degersiz Açgözlülük</Name>
+    <Desc>
+      'Mutluluk Sihirli Kizi' kullanici olmadigi sürece, bu karaktere karsi kullanilan Savas Sayfalari 5 Güç kaybeder.
+      Bu karakter her çatisma kaybettiginde, rastgele bir müttefik 'Mutluluk Parçasi' Savas Sayfasini kazanir. ikinci Sahne'de bir Alan Saldirisi Sayfasi 'Altin Yolu' kullanir.
+      Tüm müttefikler 'Altin Yolu' saldirisini engellerse, 50 Can kaybeder ve bir sonraki Sahne 'Nefret' moduna geçer.
+      Herhangi bir müttefik vurulursa, tüm Kütüphanecilere 10 Hasar verir ve 20 Can yeniler.
+      Basarili bir vurusta, Hedefteki Kanama miktari kadar Ek Hasar verir.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505503">
+    <Name>Faydasiz Nefret</Name>
+    <Desc>
+      'Sevgi Sihirli Kizi' kullanici olmadigi sürece, bu karaktere karsi kullanilan Savas Sayfalari 5 Güç kaybeder.
+      Toplam 10 Çatisma kazandiktan sonra, bir sonraki Sahne'de bir Alan Saldirisi Sayfasi 'Gizemli Köle' kullanir.
+      Sevgi Sihirli Kizi 'Gizemli Köle!' kullanirsa, 50 Can kaybeder ve bir sonraki Sahne 'Umutsuzluk' moduna geçer.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505504">
+    <Name>Anlamsiz Umutsuzluk</Name>
+    <Desc>
+      'Adalet Sihirli Kizi' kullanici olmadigi sürece, bu karaktere karsi kullanilan Savas Sayfalari 5 Güç kaybeder.
+      Bu karakterin kullandigi Savas Sayfasindaki tüm Zarlar bir Çatismada kaybeder veya berabere kalirsa, o Sayfa bir sonraki Sahne'den itibaren engellenir.
+      Üç Sayfanin tamami engellenirse, 50 Can kaybeder ve bir sonraki Sahne 'Gazap' moduna geçer.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505505">
+    <Name>Bilinçsiz Gazap</Name>
+    <Desc>
+      'Cesaret Sihirli Kizi' kullanici olmadigi sürece, bu karaktere karsi kullanilan Savas Sayfalari 5 Güç kaybeder.
+      Her 2 Sahne'de bir Alan Saldirisi Sayfasi kullanir. Sersemlediginde, 50 Can kaybeder ve 'Hiçlik' moduna geçer.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505511">
+    <Name>Taslasmis Nefret</Name>
+    <Desc>
+      Sevgi Sihirli Kizi, bu Heykeli kiran Kütüphanecinin yerine bir sonraki Sahne'nin basinda geçecektir.
+      Bir Sihirli Kiz Heykeli kirarsa, en az Cani olan Kütüphaneci onun yerine geçecektir.
+      Sihirli Kizlar, benzersiz Nitelikler, pasif yetenekler ve Savas Sayfalari içeren Özel Anahtar Sayfalara sahiptir.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505521">
+    <Name>Sertlesmis Umutsuzluk</Name>
+    <Desc>
+      Adalet Sihirli Kizi, bu Heykeli kiran Kütüphanecinin yerine bir sonraki Sahne'nin basinda geçecektir.
+      Bir Sihirli Kiz Heykeli kirarsa, en az Cani olan Kütüphaneci onun yerine geçecektir.
+      Sihirli Kizlar, benzersiz Nitelikler, pasif yetenekler ve Savas Sayfalari içeren Özel Anahtar Sayfalara sahiptir.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505531">
+    <Name>Fosillesmis Açgözlülük</Name>
+    <Desc>
+      Mutluluk Sihirli Kizi, bu Heykeli kiran Kütüphanecinin yerine bir sonraki Sahne'nin basinda geçecektir.
+      Bir Sihirli Kiz Heykeli kirarsa, en az Cani olan Kütüphaneci onun yerine geçecektir.
+      Sihirli Kizlar, benzersiz Nitelikler, pasif yetenekler ve Savas Sayfalari içeren Özel Anahtar Sayfalara sahiptir.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505541">
+    <Name>Taslasmis Gazap</Name>
+    <Desc>
+      Cesaret Sihirli Kizi, bu Heykeli kiran Kütüphanecinin yerine bir sonraki Sahne'nin basinda geçecektir.
+      Bir Sihirli Kiz Heykeli kirarsa, en az Cani olan Kütüphaneci onun yerine geçecektir.
+      Sihirli Kizlar, benzersiz Nitelikler, pasif yetenekler ve Savas Sayfalari içeren Özel Anahtar Sayfalara sahiptir.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505561">
+    <Name>Sahipsiz Kiliç</Name>
+    <Desc>Adalet Sihirli Kizi olmayan herhangi bir karakteri hedefler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505600">
+    <Name>Gerçek Bir Sihirli Kiz</Name>
+    <Desc>Sahne'nin basinda, 3 Sayfa çeker ve Isigi tamamen yeniler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505611">
+    <Name>Sevgi!</Name>
+    <Desc>Benzersiz Savas Sayfalari kullanir. Toplam 10 Çatisma kazandiktan sonra, 'Gizemli Köle!' Maliyeti 0'a düsürülür. (Sayfa kullanildiginda Maliyet sifirlanir)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505621">
+    <Name>Adalet!</Name>
+    <Desc>Benzersiz Savas Sayfalari kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505631">
+    <Name>Mutluluk!</Name>
+    <Desc>Benzersiz Savas Sayfalari kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="505641">
+    <Name>Cesaret!</Name>
+    <Desc>Benzersiz Savas Sayfalari kullanir.</Desc>
+  </PassiveDesc>
+
+      <PassiveDesc ID="605111">
+    <Name>Kâbusun Sonu</Name>
+    <Desc>Parali Asker Roland Kurt'u bitirirse Savas bir sonraki Asamaya ilerler; Kurt'tan önce ölürse Savas kaybedilir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605112">
+    <Name>intikamci</Name>
+    <Desc>Can %50 veya altinda oldugunda, her Sahne 1 Güç kazanir. ('Kuduzluk' veya 'Serbest Kalmis Kuduzluk' sirasinda etkinlesmez)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605113">
+    <Name>Tereddütsüz</Name>
+    <Desc>Her 2 Sahne'de bir, tüm karakterleri hedef alan 'Tereddütsüz Saldiri' kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605114">
+    <Name>Kuduzluk</Name>
+    <Desc>Kuduzluk Ölçeri doldugunda, Kuduzluk durumuna girer. Ölçer Kurt'tan saldiri alirken artar ve Kurt'a Hasar verirken azalir. Kuduzluk Ölçeri doldukça ekran daha kirmizi hale gelir. (Kuduzluk: 2 Sahne sürer. Her Sahne +2 Güç kazanir ve Alan Saldirisi Sayfalari kullanir.)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605115">
+    <Name>Serbest Kalmis Kuduzluk</Name>
+    <Desc>Bir Kütüphaneci Kurt'a son vurusu yaparsa, 'Serbest Kalmis Kuduzluk' durumuna girer, ardindan Maksimum Canin %50'sini ve Sersemletme Direncini tamamen yeniler. (Serbest Kalmis Kuduzluk: Kalici olarak devam eder. Her Sahne +4 Güç kazanir ve Alan Saldirisi Sayfalari kullanir.)</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="605120">
+    <Name>Keskin Pençeler</Name>
+    <Desc>Vurdugunda Hedefe 1 Yara izi uygular. Hedefteki Yara izi Yükleri kadar ek Hasar verir. 4 veya daha fazla Yara izi olan Hedeflere karsi Zarlar +2 Güç kazanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605121">
+    <Name>Kurt Kükremesi</Name>
+    <Desc>Can %50'den büyükken, her 4 Sahne'de bir Alan Saldirisi Sayfasi, 'Ulama' kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605122">
+    <Name>Kâbuslarda Uluma</Name>
+    <Desc>Can %50 veya altina düstügünde, 2 Hiz Zari kazanir ve her 2 Sahne'de bir 'Ulama' kullanir.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="605211">
+    <Name>Kurt'un Rolü</Name>
+    <Desc>Savasin basinda, rastgele bir Kütüphaneciyi yutar. Yutulan Kütüphaneci kaçarsa veya sindirilirse, 2 Sahne sonra baska bir Kütüphaneciyi yutar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605212">
+    <Name>siirsel Adalet Zamani</Name>
+    <Desc>Bir Kütüphaneciyi yuttuktan sonra, Maksimum Sersemletme Direncini geçici olarak iki katina çikarir ve tamamen yeniler; ardindan tüm Sersemletme Hasari Dirençleri bir sonraki Sahne için "Ölümcül" olarak degisir. Hiz Zari sayisi degisir ve farkli Savas Sayfalari kullanilir. Kurt Roland o Sahne'de Sersemlerse, esir alinan Kütüphaneciyi disari atar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605213">
+    <Name>Koyun Postu</Name>
+    <Desc>Yutulan Kütüphaneci disari atildiginda Maksimum Caninin %25'ini kaybeder ve Sersemler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605214">
+    <Name>içgüdüler</Name>
+    <Desc>Kurt Roland, bir Kütüphaneciyi yuttuktan sonraki Sahne'de Sersemlemezse, Kütüphaneci ölür.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605215">
+    <Name>Kötü Kurt Olmaya Mahkûm</Name>
+    <Desc>iki Kütüphaneci yutulup sindirilirse, dönüsür. Ayrica Sahne'nin basinda Can %50 veya altindaysa da dönüsür. Dönüsmeden önce Can %50'nin altina düsmez.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605221">
+    <Name>Dönüsüm</Name>
+    <Desc>Dönüstügünde, Maksimum Sersemletme Direnci artar ve Sersemletme Direnci tamamen yenilenir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605222">
+    <Name>Karanlikta</Name>
+    <Desc>Karakter, Dönüsmeden önceki Caninin %25 veya daha fazlasini kaybettikten sonra, sonraki 2 Sahne için 'Gölgede Saklanan' durumunu kazanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605223">
+    <Name>Gölgede Saklanan</Name>
+    <Desc>Karakter 'Gölgede Saklanan' durumuna sahipken, bu karakter tarafindan hedeflenmeyen Kütüphaneciler onu hedefleyemez.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605224">
+    <Name>Yorgunluk</Name>
+    <Desc>'Gölgede Saklanan' sona erdikten sonra, Alan Saldirisi Sayfasi, 'Ulama' kullanir; Sersemletme Hasari Dirençlerinin tamami o Sahne için "Ölümcül" olarak degisir.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="605301">
+    <Name>Beden Arayisi</Name>
+    <Desc>'Korkunç Ciyaklama' ve 'Kusmuk' disindaki Savas Sayfalarini ayrim gözetmeksizin kullanir. Bir müttefiki yendiginde mevcut Canin %30'unu geri kazanir.</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="605302">
+    <Name>Erimis Cesetler</Name>
+    <Desc>Karakter Maksimum Caninin %25'inden (62/87/112) daha fazlasini her kaybettiginde, bir sonraki Sahne'nin basinda 'Erimis Cesetler' ortaya çikar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605311">
+    <Name>Bölünme</Name>
+    <Desc>Can 0'a düstügünde bölünür. Tüm bedenler 3 Sahne içinde yenilirse, savas bir sonraki Asamaya ilerler. Aksi takdirde, karakter Asama 1 olarak canlanir. (Canlandiginda, tüm Erimis Cesetlerin kalan Canlarinin toplami kadar Can geri kazanir.)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605312">
+    <Name>Büyüyen Kütle</Name>
+    <Desc>Asama 2'ye dönüsür ve tüm Cani yeniler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605321">
+    <Name>Bölünebilir Ama Toplanabilir</Name>
+    <Desc>Can 0'a düstügünde tekrar Asama 1'e dönüsür. Asama 3'e dönüsür ve tüm Cani yeniler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605322">
+    <Name>Korkunç Kahkaha</Name>
+    <Desc>Sahne'nin basinda 1 Güç kazanir. Her 2 Sahne'de bir 'Korkunç Ciyaklama' kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605331">
+    <Name>Bölünme</Name>
+    <Desc>Can 0'a düstügünde tekrar Asama 2'ye dönüsür.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605332">
+    <Name>Çürümüs Kusmuk</Name>
+    <Desc>Sahne'nin basinda 2 Güç kazanir. Her 2 Sahne'de bir 'Kusmuk' kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605341">
+    <Name>Çürüme</Name>
+    <Desc>Saldiri aldiginda, saldiran Kütüphaneciye 8 Hasar verir ve rakibe 1 Kirilganlik uygular.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="605411">
+    <Name>Su Korkusu</Name>
+    <Desc>Bir karakterin 5'ten az Kani varsa, eksik Kan miktariyla orantili Güç kazanir. (En fazla 3)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605412">
+    <Name>Susuzluk</Name>
+    <Desc>Bir karakterin 2 veya daha az Kani varsa, Özel bir Savas Sayfasi kullanir. (2 Sahne bekleme süresi vardir.)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605413">
+    <Name>Kan Ziyafeti</Name>
+    <Desc>
+      Bir karakterin 5 veya daha fazla Kani varsa, bir Alan Saldirisi Sayfasi kullanir: 'Kan Ziyafeti'. (3 Sahne bekleme süresi vardir.)
+      Karakter Asamanin ilk 4 Sahnesi boyunca Sayfayi kullanmadiysa, o zaman Sahne 5'te kullanilir.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605414">
+    <Name>sekil Degistirme</Name>
+    <Desc>
+      Can %50 veya altina düserse, bir sonraki Sahne'de sekil degistirir. Bundan önce Can %50'nin altina düsmez.
+      sekil Degistirdiginde, tüm Kan Yarasi Yarasalari'ni yener ve 5 Kan kazanir.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605431">
+    <Name>sekil Degistirme</Name>
+    <Desc>sekil Degistirdiginde, tüm Kan Yarasi Yarasalari'ni yener ve 5 Kan kazanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605432">
+    <Name>Su Korkusu</Name>
+    <Desc>Bir karakterin 5'ten az Kani varsa, eksik Kan miktariyla orantili Güç kazanir. (En fazla 3)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605433">
+    <Name>Akan Kan</Name>
+    <Desc>Sahne'nin basinda 1 Kan kaybeder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605434">
+    <Name>Dayanilmaz Kuraklik</Name>
+    <Desc>Bir karakterin 2 veya daha az Kani varsa, Özel bir Savas Sayfasi kullanir. (2 Sahne bekleme süresi vardir.)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605435">
+    <Name>Kan Arzusu</Name>
+    <Desc>
+      Bir karakterin 0 Kani varsa, bir Alan Saldirisi Sayfasi kullanir: 'Kan Arzusu'. (3 Sahne bekleme süresi vardir.)
+      Karakter sekil Degistirmeden sonraki 3 Sahne içinde Sayfayi kullanmadiysa, o zaman Sahne 4'te kullanilir.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605421">
+    <Name>Su Korkusu</Name>
+    <Desc>Bir karakterin 1 veya daha az Kani varsa, 2 Güç kazanir.</Desc>
+  </PassiveDesc>
+
+
+    <PassiveDesc ID="605511">
+    <Name>Kabuk</Name>
+    <Desc>Her 2 Sahne'de bir, Bas Kütüphaneci olmayan rastgele bir Kütüphaneciye 'Kabuk Kullan' Savas Sayfasini kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605512">
+    <Name>Evrimlesiyor</Name>
+    <Desc>Can 0'a ulasirsa, bir sonraki Sahne'nin basinda ikinci Forma dönüsür.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605521">
+    <Name>Hâlâ Evrimlesiyor</Name>
+    <Desc>2 Sahne geçtikten sonra, Üçüncü Forma evrimlesir. Üçüncü Formun Cani, evrimlesme aninda bu mevcut formun sahip oldugu Can miktarina baglidir. (Min. Maksimum Canin %70'i)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605522">
+    <Name>Yenilenme</Name>
+    <Desc>Sahne'nin basinda, Maksimum Canin %50'sini yeniler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605531">
+    <Name>Sertlesme</Name>
+    <Desc>10 veya daha az Hasar verebilecek Hasari görmezden gelir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="605532">
+    <Name>Yenilenme</Name>
+    <Desc>Karakter herhangi bir Sahne'de 80 veya daha az Hasar alirsa, Sahne sonunda Maksimum Canin %10'unu yeniler.</Desc>
+  </PassiveDesc>
+
+        <PassiveDesc ID="705111">
+    <Name>Bol Hasat</Name>
+    <Desc>Eldeki en çok 'Bilgelik' kopyasina sahip Hedefi önceliklendirir. Zarlar, Hedefin elindeki 'Bilgelik' sayisi kadar Güç kazanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705112">
+    <Name>Hasat</Name>
+    <Desc>Her 3 Sahne'de bir Güçlü bir Savas Sayfasi kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705121">
+    <Name>Anlayisli Hasat</Name>
+    <Desc>Her 3 Sahne'de bir, ek bir Hiz Zari kazanir ve 'Bilgelik Biçme' Sayfasini kullanir, bu Sayfa Hedefin Savas Sayfasini emer ve vurdugunda kullanicinin Canini yeniler. Hedefin emecek Savas Sayfasi yoksa, bunun yerine ek (5~20) Hasar verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705122">
+    <Name>Bilge'nin Dinginligi</Name>
+    <Desc>'Bilgelik Biçme' 'Bilgelik' ile karsilastiginda, Biçici (kullanici) savas sonunda 20 Sersemletme Hasari alir ve sonraki Sahne'de 3 Kirilganlik ve Baglama kazanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705123">
+    <Name>Beyin Çabasi</Name>
+    <Desc>'Bilgelik Biçme' ile 'Bilgelik' olmayan bir Sayfayi emdikten sonra, emilen Sayfa sayisi kadar Güç ve Sertlik kazanir ve emilen Sayfalardan birini kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705124">
+    <Name>Beyin Arama</Name>
+    <Desc>Sahne'nin basinda, Sayfasi olmayan tüm Kütüphaneciler Sersemler.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="705211">
+    <Name>Yogun Orman</Name>
+    <Desc>Asama boyunca tüm Kütüphaneciler Isigi maksimuma yeniler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705212">
+    <Name>Yeterli Degil</Name>
+    <Desc>
+      Her Sahne, en çok Isiga sahip karakteri hedefler.
+      Saldirirken, tüm Zarlar Hedefin sahip oldugu Isik miktari kadar Güç kazanir.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705213">
+    <Name>Sicak Bir Kalp</Name>
+    <Desc>Sahne'nin basinda, Sicak Kalp miktari kadar Isik yeniler. Sahne sonunda 1 Sicak Kalp Yükü kaybeder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705214">
+    <Name>Bir Kalp istiyorum</Name>
+    <Desc>Sahne'nin basinda, Sicak Kalp miktari 0 ise, en az Cani olan Agaci hedefler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705215">
+    <Name>Vuran Kalp</Name>
+    <Desc>Baska bir karakteri yendiginde, Maksimum Canin %20'sini geri kazanir ve 3 Sicak Kalp Yükü kazanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705216">
+    <Name>Bos Gögüs</Name>
+    <Desc>
+      Bir karakter 2 Sahne boyunca Sicak Kalp'e sahip degilse, bir sonraki Sahne'nin basinda Sersemler.
+      Sersemlemeden kurtuldugunuzda en az Cani olan Agaci keser.
+    </Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="705311">
+    <Name>Eve Giden Yolda</Name>
+    <Desc>Asama basladiginda 'Ev'i olusturur ve 'Sari Tugla Yolu'nu 'Ev'e ve iki Kütüphaneciye uygulayan bir Alan Saldirisi Sayfasi kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705312">
+    <Name>Arkadaslar! Eve Gidelim~!</Name>
+    <Desc>ikinci Sahne'de, 'Ev'i ve 'Sari Tugla Yolu' olan Kütüphanecileri hedef alan 'Arkadaslar! Eve Gidelim~!' Savas Sayfasini kullanir. 
+Sayfa 'Ev'i vurursa, Savas kaybedilir.
+'Sari Tugla Yolu' olan tüm Kütüphaneciler 'Arkadaslar! Eve Gidelim~!' ile olan Çatismayi kazanirsa 'Ev'e yapilan saldiri iptal edilir.</Desc>  </PassiveDesc>
+  <PassiveDesc ID="705313">
+    <Name>Sen… Kötü Cadi…!</Name>
+    <Desc>
+      'Ev'e yapilan saldiri iki kez iptal edildikten sonra, tüm Dirençler "Ölümcül" olarak degisir ve bir sonraki Sahne Güçlü bir Savas Sayfasi kullanir.
+      Herhangi bir Kütüphaneci saldiridan hasar alirsa, bir sonraki Sahne'de 'Ev' ortaya çikar.
+      Hiçbir Kütüphaneci saldiridan hasar almazsa, karakter bir sonraki Sahne Sersemler ve 'Ev' Sersemlemeden sonraki Sahne'de olusur.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705321">
+    <Name>Cesur</Name>
+    <Desc>'Eve Giden Yol' ölene kadar tüm Hasarlara karsi bagisiktir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705322">
+    <Name>Korkak</Name>
+    <Desc>'Eve Giden Yol' öldügünde, tüm Dirençler "Ölümcül" olarak degisir ve Maksimum Can azalir. Hiz Zari sayisi ve Savas Sayfalari da degisir.</Desc>
+  </PassiveDesc>
+
+      <PassiveDesc ID="705411">
+    <Name>Canlanma</Name>
+    <Desc>ilk Sahne'de, tüm Jack'leri uyandiran ve bir Kütüphaneciye Unutkanlik uygulayan Savas Sayfalari kullanir. Bundan sonra, her 4 Sahne'de bir dönen benzersiz bir davranis kalibini izler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705412">
+    <Name>Yoksun Birakilanin Acisi</Name>
+    <Desc>Unutkanlik durumuna sahip bir Kütüphaneci o durumdan kurtulduktan sonra, bu karakterin tüm Dirençleri bir sonraki Sahne'nin basinda "Fatal" olarak degisir ve bir Alan Saldirisi Sayfasi kullanir. Bundan sonra kalibi tekrarlar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705413">
+    <Name>Yoksun Birakilanin Kederi</Name>
+    <Desc>2 döngü geçtikten sonra, bu karakterin tüm Sersemletme Hasari Dirençleri bir sonraki Sahne'nin basinda "Fatal" olarak degisir ve son derece Güçlü bir Alan Savas Sayfasi kullanir.</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="705421">
+    <Name>Çalinan Güç</Name>
+    <Desc>Unutkanlik durumuna sahip Kütüphanecinin Savas Sayfalarini kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705422">
+    <Name>Gerçek Olan Kim?</Name>
+    <Desc>
+      Uyanan Jack'lerden sadece biri gerçektir; geri kalani sahtedir.
+      Unutkanlik durumuna sahip bir Kütüphaneci gerçek Jack'i vurdugunda, onlardan çalinan bir Savas Sayfasini geri verir.
+      Gerçek Jack vuruldugunda ekran yanip söner.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705423">
+    <Name>Çal ya da Çalin</Name>
+    <Desc>
+      Unutkanlik durumuna sahip Kütüphaneci gerçek Jack'i 9 kez vurduktan sonra, tüm Jack'ler ölür.
+      Unutkanlik uygulandigindan itibaren 3 Sahne içinde kosul tamamlanmazsa, o duruma sahip Kütüphaneci bir sonraki Sahne Kabak'a dönüsür.
+      Bundan sonra, gerçek Jack 'Canlanmis Jack'e dönüsür ve Unutkanlik durumuna sahip Kütüphanecinin Anahtar Sayfasini ve Savas Sayfalarini kalici olarak kullanir.
+    </Desc>
+  </PassiveDesc>
+
+
+      <PassiveDesc ID="705510">
+    <Name>Cadinin Yargisi</Name>
+    <Desc>
+      Bes Asama belirli bir sirada ilerler. Tüm asamalar geçildiyse, 'Öfke' Asamasina geçilir.
+      Eve Giden Yol Asamasindan önce Sersemletme Hasarina karsi bagisiktir. Öfke Asamasindan önce fiziksel Hasara karsi bagisiktir.
+    </Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="705511">
+    <Name>Yargilama Basliyor</Name>
+    <Desc>
+      Asama basladiginda, ölen Kütüphaneciler tüm Canlariyla canlanir.
+      Tüm Kütüphanecilerin eline 5 Özel Savas Sayfasi ekler. Sonraki Asamalar, Özel Güçleri kullanilarak asilabilir.
+    </Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="705512">
+    <Name>Bana Sicak Kalbini Göster</Name>
+    <Desc>
+      Oduncu durumuna sahip olmayan tüm Kütüphanecilerin Isik limitini sinirlar.
+      2 Sahne içinde tüm 'Zümrüt Kristaller' yok edilirse, bir sonraki Sahne Korkuluk Asamasi
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705513">
+    <Name>Bir Kalp Nasil Bosaltilir</Name>
+    <Desc>2 Sahne içinde 'Zümrüt Kristaller' yok edilmezse, Korkuluk Asamasi
+</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="705514">
+    <Name>Bana Bilgeligini Göster</Name>
+    <Desc>
+      Korkuluk durumuna sahip olmayan tüm Kütüphanecileri 'Parildayan Heykeller'e dönüstürür.
+      Korkuluk Kütüphanecinin eline bir kopya 'Bilgelik' ve 4 Özel Savas Sayfasi eklenir.
+      Bir sonraki Sahne Kedi Asamas
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705515">
+    <Name>Ne Faydasiz Bilgelik</Name>
+    <Desc>Kütüphaneciler Sahne sonunda orijinal formlarina geri dönmezlerse, Korkuluk Kütüphanecinin Hiz Zari sayisini 1'e düsürür.</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="705516">
+    <Name>Bana Cesaretini Göster</Name>
+    <Desc>
+      Tüm Kütüphanecilere 2 Sahne boyunca 10 Kirilganlik, Silahsizlanma ve Zayiflatma uygular.
+      Tüm 'Kaslarini Çatmis Yüzler' yenilirse, bir sonraki Sahne Eve Giden Yol Asamas
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="705517">
+    <Name>Kedinin Korkakligindan Eminim</Name>
+    <Desc>Kedi durumuna sahip olmayan bir Kütüphaneci vurulursa, Kedi Kütüphanecisi Savasin sonuna kadar 5 Kirilganlik, Silahsizlanma ve Zayiflatma alir.</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="705518">
+    <Name>Ne Yapabilirsin?</Name>
+    <Desc>Sersemlediginde, bir sonraki Sahne Öfke Asamasi
+</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="705519">
+    <Name>Öfke</Name>
+    <Desc>Karakterin Cani 0'a ulasirsa veya farkli bir varliga dönüsürse, savas kazanilir.</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="705521">
+    <Name>Isik içeren Kristal</Name>
+    <Desc>Saldirirken 8 Hasar ve Sersemletme Hasari verir. Yok edildiginde, bir Kütüphaneciden 1-Isik kapasite limiti kaldirilir</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="705531">
+    <Name>Parçalanmis Zümrüt</Name>
+    <Desc>Sahne sonuna kadar gerçek formunu geri kazanmazsa, mevcut Caninin %80'i kadar hasar alir.</Desc>
+  </PassiveDesc>
+
+
+      <PassiveDesc ID="805111">
+    <Name>Sonsuza Dek Yanan Bir Lamba</Name>
+    <Desc>ilk Sahne'den baslayarak, her 3 Sahne'de bir rastgele bir Kütüphaneci Asistanina 'Büyülenmis' uygular. Sonraki olaylarda daha fazla Kütüphaneci etkilenir (1-2-2-3).</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805112">
+    <Name>Karanlik</Name>
+    <Desc>Üçüncü Sahne'den baslayarak, her 3 Sahne'de bir 'Örtücü Karanlik' Savas Sayfasini kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805113">
+    <Name>Yorgun Gözler</Name>
+    <Desc>Bir müttefik her yenildiginde, kalici olarak 5 Kirilganlik ve Silahsizlanma kazanir. Tüm müttefikler öldügünde, tüm Sersemletme Hasari Dirençleri "Ölümcül" olarak degisir.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="805211">
+    <Name>Yaramazliklara izin Yok!</Name>
+    <Desc>Saldiri Zarlari ile Çatismaya girdiginde Saldiri Zarlari +50 Güç kazanir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805212">
+    <Name>Cezalandirilmalilar!</Name>
+    <Desc>Karakter Hasar alirsa, saldirana 'Ceza!' uygular. Bir sonraki Sahne Ceza moduna girer.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805213">
+    <Name>Ceza!</Name>
+    <Desc>
+      Ceza modunda, Hiz Zari sayisi bir Sahne için 5'e çikar ve en son saldiran karaktere karsi Özel bir Savas Sayfasi kullanir.
+      Ayrica, tüm Sersemletme Hasari Dirençleri "Ölümcül" olarak degisir.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805221">
+    <Name>Korumak için…</Name>
+    <Desc>Roland Ceza modunda degilken, her 2 Sahne'de bir Gözetim kazanir ve her Sahne Saldiri Modu ile Savunma Modu arasinda geçis yapar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805222">
+    <Name>Kovalamak için…</Name>
+    <Desc>Roland Ceza modundayken, o Sahne için Saldiri Moduna girer.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805223">
+    <Name>Orman Muhafizi</Name>
+    <Desc>Sersemlemis karakterleri hedeflemeye öncelik verir. Hiz her Sahne belirli sabit degerlere sahiptir. Saldiri Zarlari, daha az Hiza sahip Hedeflere karsi +2 Güç kazanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805224">
+    <Name>Uyku</Name>
+    <Desc>Can 1'in altina düsmez. Can 1'e düstügünde, Uyku durumuna girer ve 3 Sahne sonra tüm Can ve Sersemletme Direnci ile uyanir.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="805311">
+    <Name>Yirtik Sargilar</Name>
+    <Desc>Kanama, Yanma veya Peri Hasari almaz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805312">
+    <Name>Günah isareti</Name>
+    <Desc>Savasin basinda 10 Günah isareti kazanir. Vurdugunda, Hedefe bir Günah isareti Yükü aktarir. Tüm Zarlar Hedefin sahip oldugu Günah isareti miktari kadar Güç kazanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805313">
+    <Name>Adaletsiz Terazi</Name>
+    <Desc>Sahne 1'den baslayarak, tüm karakterler her Sahne'nin basinda 1 Günah isareti kazanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805314">
+    <Name>Yargi</Name>
+    <Desc>Bir karakterin Sahne'nin basinda 5 veya daha fazla Günah isareti varsa, onlara Özel bir Savas Sayfasi: 'Yargi' kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805315">
+    <Name>Durmaksizin Yargi</Name>
+    <Desc>Sahne'nin basinda 3 veya daha fazla karakterin 3+ Günah isareti varsa, bir Alan Saldirisi Sayfasi kullanir: 'Durmaksizin Yargi'.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805316">
+    <Name>Tasan Yaramazliklar</Name>
+    <Desc>'Yargi' veya 'Durmaksizin Yargi' kullandiktan sonra, Maksimum Sersemletme Direncinin %25'ini kaybeder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805321">
+    <Name>Nüfuz Eden Çiglik</Name>
+    <Desc>Bir saldiri aldiktan sonra, bir sonraki Sahne'de 'Nüfuz Eden Çiglik' Savas Sayfasini kullanir.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="805511">
+    <Name>Kara Orman'daki Canavar</Name>
+    <Desc>Her 3 Sahne'de bir 8 olasi kaliptan 3'ünü kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805512">
+    <Name>Üç Kus</Name>
+    <Desc>
+      Her iki Sahne'de bir, Kiyamet Kusu için aktif Yumurta etkisini degistirir.
+      Kiyamet Kusunun Yumurtalari su sirayla döngü yapar: Büyük Gözler -> Küçük Gaga -> Uzun Kollar -> (Tekrarlar).
+      Roland'in Direnci, mevcut Yumurta etkisine bagli olarak degisir.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805521">
+    <Name>Çatlak Yumurtalar</Name>
+    <Desc>Kiyamet Kusunun Yumurta etkileri aktifken Sersemlerseniz, karakter Can kaybeder ve mevcut Yumurta etkisi kalici olarak kaybolur.
+Bir sonraki Sahne'nin basinda, Sersemlemeden kurtulur, tüm durum sorunlarini kaldirir ve 2 Güç ve Sertlik kazanir.
+    </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805513">
+    <Name>Ebedi Huzur</Name>
+    <Desc>Can %75'in altina düsmez.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805514">
+    <Name>Ebedi Dinginlik</Name>
+    <Desc>Can %50'nin altina düsmez.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805515">
+    <Name>Ebedi Sessizlik</Name>
+    <Desc>Can %25'in altina düsmez.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805516">
+    <Name>Büyük Kus Anisi</Name>
+    <Desc>Belirlenmis Savas Sayfalarini kullanir. Büyük Gözler etkisi kayboldugunda bu Kalip kullanilmaz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805517">
+    <Name>Yargi Kusu Anisi</Name>
+    <Desc>Belirlenmis Savas Sayfalarini kullanir. Uzun Kollar etkisi kayboldugunda bu Kalip kullanilmaz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805518">
+    <Name>Ceza Kusu Düsüncesi</Name>
+    <Desc>Belirlenmis Savas Sayfalarini kullanir. Küçük Gaga etkisi kayboldugunda bu Kalip kullanilmaz..</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805519">
+    <Name>Kiyamet Kusu</Name>
+    <Desc>Belirlenmis Savas Sayfalarini kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="805520">
+    <Name>Kiyamet Kusu</Name>
+    <Desc>Belirlenmis Savas Sayfalarini kullanir.</Desc>
+  </PassiveDesc>
+
+
+
+    <PassiveDesc ID="9055111">
+    <Name>Peygamber</Name>
+    <Desc>Hedeflenemez. Can ve Sersemletme Direnci 1'in altina düsmez. Yanma, Kanama veya Asinmayi önler. </Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="9055112">
+    <Name>Bana Güven</Name>
+    <Desc>Sahne'nin basinda, ölen Havarilerin sayisi kadar 'Vaftiz' Savas Sayfasi kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="9055113">
+    <Name>Dünyanin Sonundan</Name>
+    <Desc>12 Havari yenildikten sonra bir sonraki Asamaya geçer.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="9055121">
+    <Name>Zaman Geldi.</Name>
+    <Desc>Yanma, Kanama veya Asinmayi önler. ilk Sahne'de 'Kalk ve Bana Hizmet Et' Savas Sayfasini kullanir. Üçüncü Sahne'den baslayarak, her 3 Sahne'de bir 'Ben Kurtariciyim' Savas Sayfasini kullanir.</Desc>   </PassiveDesc>
+  <PassiveDesc ID="9055122">
+    <Name>Kalkin, Hizmetkârlarim. Kalkin ve Bana Hizmet Edin.</Name>
+    <Desc>ikinci Sahne'de 2 Muhafiz Havari çagirir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="9055131">
+    <Name>Neden Korkuyorsun?</Name>
+    <Desc>Tüm Kütüphaneciler ilk Sahne'de Sersemler. 'Beni inkar Etm3' Savas Sayfasini kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="9055132">
+    <Name>Ben Yaninizdayim.</Name>
+    <Desc>ikinci Sahne'de 2 Muhafiz Havari çagirir. Bas Kütüphaneciye '???' uygular.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="9055133">
+    <Name>???</Name>
+    <Desc>Bas Kütüphanecinin tüm Savas Sayfalarini kaldirir ve ona Özel Savas Sayfalari verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="905500">
+    <Name>Ebedi</Name>
+    <Desc>Can 1'in altina düsmez.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="905501">
+    <Name>Askida</Name>
+    <Desc>Can 2 veya altina düserse süresiz Sersemlersiniz. Yalnizca Kayip Cennet'in Havari'yi 'Dirilten' bir Savas Sayfasi kullandiginda Sersemlemeden kurtulabilirsiniz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="905502">
+    <Name>Seni Takip Edecegim</Name>
+    <Desc>Saldiri Zarlari, 'Vahiy' durumuna sahip Kütüphanecilere karsi +2 Güç kazanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="905521">
+    <Name>Muhafiz</Name>
+    <Desc>Sahne'nin basinda, Kayip Cennet'e 5 Koruma ve Sersemletme Korumasi verir.
+Bu karakter Askida ise, Angela'nin Direnci bir sonraki Sahne "Ölümcül" olarak degisir; karakter Sersemlemis durumdan kurtulana kadar Koruma veya Sersemletme Korumasi vermez.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="905522">
+    <Name>Seni Her Türlü Kötülükten Koruyacak</Name>
+    <Desc>Önceki Sahne'de Kayip Cennet'e saldiran Kütüphanecileri hedeflemeye öncelik verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="905523">
+    <Name>Yeniden Dogan</Name>
+    <Desc>Belirli bir Kütüphanecinin Anahtar Sayfasi ile ayni Dirençlere sahiptir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="905531">
+    <Name>Tirpanli Havari</Name>
+    <Desc>En az Cani olan Kütüphaneciyi hedeflemeye öncelik verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="905551">
+    <Name>Mizrakli Havari</Name>
+    <Desc>Durum sorunlari olan Kütüphanecileri hedeflemeye öncelik verir.</Desc>
+  </PassiveDesc>
+
+      <PassiveDesc ID="1005011">
+    <Name>Geçmisle Yüzlesmek</Name>
+    <Desc>Bu karakter yenilirse Savas kaybedilir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005012">
+    <Name>Angela</Name>
+    <Desc>Degistirilemeyen veya yerine konamayan benzersiz Anahtar Sayfasina ve Savas Sayfalarina sahiptir. Pasif yetenekler veremez.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005013">
+    <Name>Verilen Rolünün Yönetmeni</Name>
+    <Desc>Perdenin basinda ek 2 Sayfa çeker. Sahne'nin basinda 1 Isik yeniler ve 1 Sayfa çeker.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005014">
+    <Name>Isik Tohumu</Name>
+    <Desc>Tüm Müttefiklerin Duygulari 5 kat daha hizli artar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005015">
+    <Name>???</Name>
+    <Desc>Savas bir sonraki Asamaya geçtiginde E.G.O Sayfalari kazanir. 9 benzersiz E.G.O Sayfasi kullandiktan sonra, Özel bir E.G.O Sayfasi kazanir.</Desc>
+  </PassiveDesc>
+
+
+    <PassiveDesc ID="1005111">
+    <Name>Kirilma</Name>
+    <Desc>Her Sahne'nin basinda, eldeki ve destedeki tüm Sayfalari tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005112">
+    <Name>Yaralar</Name>
+    <Desc>Kesici saldiri Hasarindan 1-5 daha az Hasar alir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005113">
+    <Name>Kan</Name>
+    <Desc>Blok Zarlarinin Gücü +3</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="1005211">
+    <Name>Vurucu</Name>
+    <Desc>Her Sahne'nin basinda, eldeki ve destedeki tüm Sayfalari tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005212">
+    <Name>Atimli Hareket</Name>
+    <Desc>Her 4 Sahne'de bir Saldiriya geçer.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005213">
+    <Name>Akciger Yenilenmesi</Name>
+    <Desc>Saldiriya geçtikten sonra, Özlem Akcigerleri belirir ve Sahne sonunda 4 baska müttefik olana kadar 30 Can kaybeder. Sersemlemisse, karakter Sersemlemeden kurtuldugunda Akcigerler belirir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005214">
+    <Name>Akciger Arzusu</Name>
+    <Desc>8 veya daha fazla müttefik yenildikten sonra Sersemler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005215">
+    <Name>Dagilmis Arzular</Name>
+    <Desc>Sersemlediginde, 'Özlem' miktari ve davranis kalibi sifirlanir.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="1005221">
+    <Name>Arzu</Name>
+    <Desc>Akciger Arzusu'nun 'Özlem'i ile ilgili benzersiz bir etkiye sahiptir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005222">
+    <Name>Atesli Kalp Atislari</Name>
+    <Desc>Akciger Arzusu hariç iki veya daha az müttefik birimi varsa, 'Arzu' etkisini kaybeder ve 'Atesli Kalp Atislari' durumunu kazanir.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="1005311">
+    <Name>Yansima</Name>
+    <Desc>Bas Kütüphanecinin Destegini kopyalar. Her Sahne'nin basinda, eldeki ve destedeki tüm Sayfalari tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur. ('Bir Yalan sarkisi'ni yok sayar)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005312">
+    <Name>Yalanci</Name>
+    <Desc>Üçüncü Sahne'den baslayarak: her 3 Sahne'de bir kendine 10 Baglama uygular ve yanlis bilgi içeren 1~2 Sayfa kullanir ("Yalanlar" olarak adlandirilir).</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005313">
+    <Name>Uzun Burun</Name>
+    <Desc>Yalan içeren bir Sayfa 'Yalan Söylemek Kötü!' ile Çatismaya girdiginde, Sayfadaki tüm Zarlar 8 Güç kaybeder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005314">
+    <Name>Neseli Fabl</Name>
+    <Desc>Yalan içeren bir Sayfa 'Yalan Söylemek Kötü!' ile Çatismaya girmediginde, Sayfadaki tüm Zarlar 8 Güç kazanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005315">
+    <Name>Neden Kötü?</Name>
+    <Desc>Yalan ortaya çiktiktan sonra, bir sonraki Sahne'de tüm müttefikler 4 Kirilganlik ve Silahsizlanma alir ve Sersemletme Hasari Dirençlerinin tamami bir sonraki Sahne için "Ölümcül" olarak degisir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005316">
+    <Name>La la la~</Name>
+    <Desc>Yalan ortaya çikarilmadiysa, bir sonraki Sahne'de tüm müttefikler 4 Güç ve Sertlik kazanir.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="1005321">
+    <Name>Bir Yalan sarkisi</Name>
+    <Desc>Birinci Kütüphaneci Asistaninin Destegini kopyalar.
+Bu karakter hayatta oldugu sürece, her Sahne'nin basinda tüm karakterlerin ellerindeki orijinal Maliyeti 3 veya daha az olan tüm Savas Sayfalarinin Maliyetini rastgele yapar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005322">
+    <Name>Ters Bir sarki</Name>
+    <Desc>ikinci Kütüphaneci Asistaninin Destegini kopyalar.
+Bu karakter hayatta oldugu sürece, tüm müttefikler de Destegini kopyaladiklari Kütüphanecinin durum etkilerini kopyalar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005323">
+    <Name>Herkes için Bir sarki</Name>
+    <Desc>Üçüncü Kütüphaneci Asistaninin Destegini kopyalar.
+Bu karakter hayatta oldugu sürece, tüm müttefikler her Sahne'nin basinda 2 Güç veya 2 Sertlik kazanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005324">
+    <Name>Bir Merak sarkisi</Name>
+    <Desc>Dördüncü Kütüphaneci Asistaninin Destegini kopyalar.
+Bu karakter hayatta oldugu sürece, tüm Kütüphaneciler her Sahne'nin basinda ellerini karistirir ve 3 Sayfa çeker.</Desc>
+  </PassiveDesc>
+
+
+    <PassiveDesc ID="1005411">
+    <Name>Keskin Rüzgar</Name>
+    <Desc>Sahne'nin basinda, tüm Kütüphaneciler Maksimum Canlarinin %5'i kadar Can kaybeder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005412">
+    <Name>Sakli Sogukluk</Name>
+    <Desc>Tüm Buz Hapishaneleri yok edilene kadar saldirilardan Hasar almaz. Yanma veya Kanama Hasari almaz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005413">
+    <Name>Don Sütunu</Name>
+    <Desc>Yok edilen Buz Hapishanelerinin sayisina göre Hiz Zarlari ve Isik Kapasitesi kazanir. iki veya daha fazla Buz Hapishanesi yok edildiyse, bu karakterin destesine bir Yakin Dövüs Savas Sayfasi eklenir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005414">
+    <Name>Kisin Zulmünü ve Güllerin Kokusu Bilenler</Name>
+    <Desc>Tüm Buz Hapishaneleri yok edildikten sonra, bir sonraki Sahne'nin basinda tüm Kütüphaneciler Maksimum Canlarinin %50'sini geri kazanir. Kar Kraliçesi ayni Sahne'de bir Alan Saldirisi Sayfasi kullanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005415">
+    <Name>Soguk Kalp</Name>
+    <Desc>Hareketsizlige karsi bagisik.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="1005421">
+    <Name>Kai ve Gerda</Name>
+    <Desc>Bu karakterin Cani 0'a düserse, hapsedilen Kütüphaneci bir sonraki Sahne'de serbest birakilir.</Desc>
+  </PassiveDesc>
+
+
+    <PassiveDesc ID="1005512">
+    <Name>Parildayan</Name>
+    <Desc>Her Sahne'nin basinda, eldeki ve destedeki tüm Sayfalari tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005511">
+    <Name>…</Name>
+    <Desc>Hem Çivi hem de Çekiç yenildiginde Savas bir sonraki Asamaya devam eder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005513">
+    <Name>Durum Bagisikligi</Name>
+    <Desc>Durum etkilerinden Hasar almaz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005514">
+    <Name>Yüz Burusturma</Name>
+    <Desc>Hareketsizlige karsi bagisik.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005515">
+    <Name>Oku</Name>
+    <Desc>Vurdugunda, saldirganin sahip oldugu 'Suçluluk' Maliyeti kadar aldiginiz Hasari azaltir.</Desc>
+  </PassiveDesc>
+
+
+
+    <PassiveDesc ID="1005521">
+    <Name>Çivi</Name>
+    <Desc>Her Sahne Isigi tamamen yeniler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005522">
+    <Name>Suçluluk</Name>
+    <Desc>Zarlar, Sayfanin Maliyeti kadar Güç kazanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005523">
+    <Name>Zihindeki Bir Bosluk</Name>
+    <Desc>Vurdugunda, Hedefin elindeki en yüksek Maliyetli Sayfa 'Maliyet Azaltilmis' alir.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="1005531">
+    <Name>Çekiçler</Name>
+    <Desc>Tek Sahne'lerde Isigi tamamen yeniler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005532">
+    <Name>Zihinde Bir Çatlak</Name>
+    <Desc>Vurdugunda, Hedefin elindeki en yüksek Maliyetli Sayfa 'Maliyet Artirilmis' alir.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="1005541">
+    <Name>Parildayan</Name>
+    <Desc>Her Sahne'nin basinda, eldeki ve destedeki tüm Sayfalari tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005542">
+    <Name>Gelisen Arzular</Name>
+    <Desc>Vurdugunda, bir sonraki Sahne'de tüm Zarlar için +10 Güç kazanir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005543">
+    <Name>Siyah Tüyler</Name>
+    <Desc>Durum etkilerinden yari Hasar alir.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="1005551">
+    <Name>Parildayan</Name>
+    <Desc>Her Sahne'nin basinda, eldeki ve destedeki tüm Sayfalari tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005552">
+    <Name>Ezici içgüdüler</Name>
+    <Desc>Zarlar, Hedefin sahip oldugu mevcut 'Suçluluk' Maliyeti kadar Güç kazanir (Hedefin Suçlulugu yoksa Güç kazanilmaz)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1005553">
+    <Name>Siyah Tüyler</Name>
+    <Desc>Durum etkilerinden yari Hasar alir.</Desc>
+  </PassiveDesc>
+</PassiveDescRoot>

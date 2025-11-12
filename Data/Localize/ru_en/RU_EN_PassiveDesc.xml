@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <PassiveDesc ID="1">
+        <Name>Kesme Artışı Ⅰ</Name>
+        <Desc>Kesme Hasarını +1 artırma olasılığı %25</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="2">
+        <Name>Delme Artışı Ⅰ</Name>
+        <Desc>Delme Hasarını +1 artırma olasılığı %25</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="3">
+        <Name>Vurma Artışı Ⅰ</Name>
+        <Desc>Vurma Hasarını +1 artırma olasılığı %25</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="4">
+        <Name>Kesme Şoku Ⅰ</Name>
+        <Desc>Kesme Şok Hasarını +1 artırma olasılığı %25</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="5">
+        <Name>Delme Şoku Ⅰ</Name>
+        <Desc>Delme Şok Hasarını +1 artırma olasılığı %25</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="6">
+        <Name>Vurma Şoku Ⅰ</Name>
+        <Desc>Vurma Şok Hasarını +1 artırma olasılığı %25</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="7">
+        <Name>Kesme Ustalığı Ⅰ</Name>
+        <Desc>Kesme Zarı Gücünü +1 artırma olasılığı %10</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="8">
+        <Name>Delme Ustalığı Ⅰ</Name>
+        <Desc>Delme Zarı Gücünü +1 artırma olasılığı %10</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="9">
+        <Name>Vurma Ustalığı Ⅰ</Name>
+        <Desc>Vurma Zarı Gücünü +1 artırma olasılığı %10</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="10">
+        <Name>Blok Ustalığı Ⅰ</Name>
+        <Desc>Blok Zarı Gücünü +1 artırma olasılığı %20</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="11">
+        <Name>Kaçınma Ustalığı Ⅰ</Name>
+        <Desc>Kaçınma Zarı Gücünü +1 artırma olasılığı %20</Desc>
+    </PassiveDesc>
+  <PassiveDesc ID="12">
+    <Name>Vurma Üstünlüğü Ⅰ</Name>
+    <Desc>Bir Vurma Zarı kullanarak Çatışma kazandıktan sonra, fazladan 1 Hasar verme olasılığı %35</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="13">
+    <Name>Delme Üstünlüğü Ⅰ</Name>
+    <Desc>Bir Delme Zarı kullanarak Çatışma kazandıktan sonra, fazladan 1 Hasar verme olasılığı %35</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="14">
+    <Name>Kesme Üstünlüğü Ⅰ</Name>
+    <Desc>Bir Kesme Zarı kullanarak Çatışma kazandıktan sonra, fazladan 1 Hasar verme olasılığı %35</Desc>
+  </PassiveDesc>
+
+
+
+  <PassiveDesc ID="1001">
+        <Name>Kesme Artışı Ⅱ</Name>
+        <Desc>Kesme Hasarını +1 artırma olasılığı %30</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="1002">
+        <Name>Delme Artışı Ⅱ</Name>
+        <Desc>Delme Hasarını +1 artırma olasılığı %30</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="1003">
+        <Name>Vurma Artışı Ⅱ</Name>
+        <Desc>Vurma Hasarını +1 artırma olasılığı %30</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="1004">
+        <Name>Kesme Şoku Ⅱ</Name>
+        <Desc>Kesme Şok Hasarını +1 artırma olasılığı %30</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="1005">
+        <Name>Delme Şoku Ⅱ</Name>
+        <Desc>Delme Şok Hasarını +1 artırma olasılığı %30</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="1006">
+        <Name>Vurma Şoku Ⅱ</Name>
+        <Desc>Vurma Şok Hasarını +1 artırma olasılığı %30</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="1007">
+        <Name>Kesme Ustalığı Ⅱ</Name>
+        <Desc>Kesme Zarı Gücünü +1 artırma olasılığı %12</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="1008">
+        <Name>Delme Ustalığı Ⅱ</Name>
+        <Desc>Delme Zarı Gücünü +1 artırma olasılığı %12</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="1009">
+        <Name>Vurma Ustalığı Ⅱ</Name>
+        <Desc>Vurma Zarı Gücünü +1 artırma olasılığı %12</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="1010">
+        <Name>Blok Ustalığı Ⅱ</Name>
+        <Desc>Blok Zarı Gücünü +1 artırma olasılığı %24</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="1011">
+        <Name>Kaçınma Ustalığı Ⅱ</Name>
+        <Desc>Kaçınma Zarı Gücünü +1 artırma olasılığı %24</Desc>
+    </PassiveDesc>
+   <PassiveDesc ID="1012">
+    <Name>Vurma Üstünlüğü Ⅱ</Name>
+    <Desc>Bir Vurma Zarı kullanarak Çatışma kazandıktan sonra, fazladan 1 Hasar verme olasılığı %45</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1013">
+    <Name>Kesme Üstünlüğü Ⅱ</Name>
+    <Desc>Bir Kesme Zarı kullanarak Çatışma kazandıktan sonra, fazladan 1 Hasar verme olasılığı %45</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1014">
+    <Name>Delme Üstünlüğü Ⅱ</Name>
+    <Desc>Bir Delme Zarı kullanarak Çatışma kazandıktan sonra, fazladan 1 Hasar verme olasılığı %45</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="2001">
+    <Name>Kesme Artışı Ⅲ</Name>
+    <Desc>Kesme Hasarını +1 artırma olasılığı %35</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2002">
+    <Name>Delme Artışı Ⅲ</Name>
+    <Desc>Delme Hasarını +1 artırma olasılığı %35</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2003">
+    <Name>Vurma Artışı Ⅲ</Name>
+    <Desc>Vurma Hasarını +1 artırma olasılığı %35</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2004">
+    <Name>Kesme Şoku Ⅲ</Name>
+    <Desc>Kesme Şok Hasarını +1 artırma olasılığı %35</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2005">
+    <Name>Delme Şoku Ⅲ</Name>
+    <Desc>Delme Şok Hasarını +1 artırma olasılığı %35</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2006">
+    <Name>Vurma Şoku Ⅲ</Name>
+    <Desc>Vurma Şok Hasarını +1 artırma olasılığı %35</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2007">
+    <Name>Kesme Ustalığı Ⅲ</Name>
+    <Desc>Kesme Zarı Gücünü +1 artırma olasılığı %14</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2008">
+    <Name>Delme Ustalığı Ⅲ</Name>
+    <Desc>Delme Zarı Gücünü +1 artırma olasılığı %14</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2009">
+    <Name>Vurma Ustalığı Ⅲ</Name>
+    <Desc>Vurma Zarı Gücünü +1 artırma olasılığı %14</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2010">
+    <Name>Blok Ustalığı Ⅲ</Name>
+    <Desc>Blok Zarı Gücünü +1 artırma olasılığı %28</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2011">
+    <Name>Kaçınma Ustalığı Ⅲ</Name>
+    <Desc>Kaçınma Zarı Gücünü +1 artırma olasılığı %28</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2012">
+    <Name>Vurma Üstünlüğü Ⅲ</Name>
+    <Desc>Bir Vurma Zarı kullanarak Çatışma kazandıktan sonra, fazladan 1 Hasar verme olasılığı %60</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2013">
+    <Name>Kesme Üstünlüğü Ⅲ</Name>
+    <Desc>Bir Kesme Zarı kullanarak Çatışma kazandıktan sonra, fazladan 1 Hasar verme olasılığı %60</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2014">
+    <Name>Delme Üstünlüğü Ⅲ</Name>
+    <Desc>Bir Delme Zarı kullanarak Çatışma kazandıktan sonra, fazladan 1 Hasar verme olasılığı %60</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="3007">
+    <Name>Kesme Ustalığı</Name>
+    <Desc>Kesme Zarı Gücü +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="3008">
+    <Name>Delme Ustalığı</Name>
+    <Desc>Delme Zarı Gücü +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="3009">
+    <Name>Vurma Ustalığı</Name>
+    <Desc>Vurma Zarı Gücü +1</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="10001">
+    <Name>Hız</Name>
+    <Desc>Hız Zarı +1 (Üst Üste binmez)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10002">
+    <Name>Sadece Menzil</Name>
+    <Desc>Sadece Menzil Savaş Sayfaları kullanabilir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10003">
+    <Name>Menzil</Name>
+    <Desc>Menzil (ve yakın dövüş) Savaş Sayfaları kullanabilir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10004">
+    <Name>Hız Ⅱ</Name>
+    <Desc>Hız Zarı +2 (Üst Üste binmez)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10005">
+    <Name>Kızıl Sis</Name>
+    <Desc>???</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10006">
+    <Name>???</Name>
+    <Desc>???</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10007">
+    <Name>???</Name>
+    <Desc>???</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="10008">
+        <Name>Hız Ⅲ</Name>
+        <Desc>Hız Zarı +1. Duygu Seviyesi 3'te ek bir Hız Zarı kazanır. (Üst Üste binmez)</Desc>
+    </PassiveDesc>
+  
+    <PassiveDesc ID="200004">
+        <Name>Yarım Yürek Cesareti</Name>
+        <Desc>Bir müttefik öldüğünde, sonraki Sahnede 1 Güç kazanır</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="200006">
+        <Name>Yun'un Önsezisi</Name>
+    <Desc>Kaçınma Zarlarının maksimum sonucunu %50 olasılıkla +3 artırır</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="200005">
+        <Name>Savunma Sanatı</Name>
+    <Desc>Savunma Zarlarının maksimum sonucunu %25 olasılıkla +3 artırır</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="201001">
+        <Name>9. Derece Düzeltici Kesmesi</Name>
+        <Desc>Kesme Hasarını +1 artırma olasılığı %50</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="201002">
+        <Name>9. Derece Düzeltici Darbesi</Name>
+        <Desc>Vurma Hasarını +1 artırma olasılığı %50</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="201003">
+        <Name>9. Derece Düzeltici Saplaması</Name>
+        <Desc>Delme Hasarını +1 artırma olasılığı %50</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="200007">
+        <Name>Elektrik Şoku</Name>
+        <Desc>Başarılı bir saldırıda, sonraki Sahnede %25 olasılıkla 1 Felç uygular (Sahne başına Hedef başına bir kez)</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="200010">
+        <Name>Kanca</Name>
+        <Desc>Bir düşmanı yendiğinde, sonraki Sahnede 1 Güç kazanır</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="210002">
+        <Name>Hızlı Pişirme</Name>
+        <Desc>Bir düşmanı yendiğinde %10 Can yeniler (Azami 12)</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="210001">
+        <Name>Acil Durum Tayını</Name>
+        <Desc>Her Sahnenin başında 2 Can yeniler</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="210003">
+        <Name>Yetenek</Name>
+        <Desc>Daha düşük Hıza sahip düşmanlara +1 Şok Hasarı verir</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="210006">
+        <Name>Yanan Sopa</Name>
+        <Desc>Başarılı bir saldırıda %50 olasılıkla 1 Yanık uygular</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="211005">
+        <Name>Nüfuz</Name>
+        <Desc>Delme Hasarını +1 artırma olasılığı %50</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="211007">
+        <Name>Aşağı Doğru Kesme</Name>
+        <Desc>Kesme Hasarını +1 artırma olasılığı %50</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="211003">
+        <Name>Açık Yara</Name>
+        <Desc>Kanama etkisine sahip düşmanlara +1 Hasar verir</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="221001">
+        <Name>Adımı Koru</Name>
+        <Desc>Bir Çatışma kazandığında 1 Can yeniler</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="221002">
+        <Name>Adımı Koru</Name>
+        <Desc>Bir Çatışma kazandığında 1 Can yeniler</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="220001">
+        <Name>Sükunet</Name>
+    <Desc>Bir Çatışma kazandığında, %25 olasılıkla sonraki Zarın maksimum sonucunu +3 artırır</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="220002">
+        <Name>Zwei Kılıç Kullanımı Ⅰ</Name>
+        <Desc>Kesme Hasarı +1</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="221003">
+        <Name>Zwei Kılıç Kullanımı Ⅱ</Name>
+        <Desc>Kesme Şok Hasarı +1</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="220004">
+        <Name>Kalkanın</Name>
+        <Desc>Savunma Zarı Gücü +1</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="220003">
+        <Name>Asgari Hücum</Name>
+        <Desc>Kesme Şok Hasarı +1</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="221004">
+        <Name>Zwei Kılıç Kullanımı Ⅲ</Name>
+        <Desc>Delme Hasarı +2</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="220006">
+        <Name>Sınır</Name>
+        <Desc>Her Sahnenin sonunda, el boşsa 1 Işık yeniler ve 1 Sayfa çeker</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="220005">
+        <Name>Daha İyi Seçim</Name>
+        <Desc>Karakter bir Sayfayı ıskarta ettiğinde 3 Can yeniler</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="220007">
+        <Name>Böyle Zamanlarda!</Name>
+        <Desc>Sahne sonunda elde 3 veya daha az Sayfa varsa, sonraki Sahnede 1 Güç kazanır</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="220008">
+        <Name>Dinlenme</Name>
+        <Desc>Karakter o Sahnede hiç Sayfa kullanmadıysa Sahne sonunda 1 Işık yeniler</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="220010">
+        <Name>Derin Nefes</Name>
+        <Desc>Her Sahnenin başında %25 olasılıkla 1 Işık yeniler</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="220009">
+        <Name>Çift Tekme</Name>
+        <Desc>Bir Çatışma kazandığında rakibe 1 Hasar verir</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="221005">
+        <Name>Solar Pleksus Yumruğu</Name>
+        <Desc>Vurma Hasarı +2</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="221007">
+        <Name>8. Derece Kesme Becerisi</Name>
+        <Desc>Kesme Şok Hasarı +1</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="221009">
+        <Name>8. Derece Delme Becerisi</Name>
+        <Desc>Delme Şok Hasarı +1</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="221010">
+        <Name>7. Derece Kesme Becerisi</Name>
+        <Desc>Kesme Şok Hasarı +2</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="221012">
+        <Name>7. Derece Delme Becerisi</Name>
+        <Desc>Delme Şok Hasarı +2</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="221013">
+        <Name>Balta Çetesi Ruhu</Name>
+        <Desc>Vurma Şok Hasarı +1</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="221014">
+        <Name>Çift Balta</Name>
+        <Desc>Kesme Hasarı +2, Delme Hasarı -1</Desc>
+    </PassiveDesc>
+    <PassiveDesc ID="221006">
+        <Name>Zayıf Noktaya Vurma</Name>
+        <Desc>Vurma Hasarı +3</Desc>
+    </PassiveDesc>
+  <PassiveDesc ID="230001">
+    <Name>Anı</Name>
+    <Desc>Eğer bir müttefik öldüyse, her Sahnenin sonunda 2 Güç kazanır.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="230004">
+    <Name>Konsantrasyon</Name>
+    <Desc>İlk Sahne için +1 Güç kazanır</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230005">
+    <Name>Kör Ateş</Name>
+    <Desc>İlk Sahne için +2 Güç kazanır</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230006">
+    <Name>Sürpriz Saldırı</Name>
+    <Desc>Saldırı Zarları ilk Sahne için +3 Güç kazanır</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="230007">
+    <Name>Gardiyan</Name>
+    <Desc>Perdenin başlangıcında, rastgele üç müttefik 2 Koruma kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230107">
+    <Name>Şafak Işığı</Name>
+    <Desc>Başarılı bir vuruşta, Hedef Yanık etkisine sahipse +1-2 Şok Hasarı verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230207">
+    <Name>Silah Atölyesi Damgası</Name>
+    <Desc>Savaş Sayfaları kullanarak Yanık uyguladığında, fazladan +1 Birikim uygular.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230008">
+    <Name>Yalnız Düzeltici</Name>
+    <Desc>Her Sahnenin sonunda, başka müttefik yoksa 3 Güç kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230009">
+    <Name>Tutku</Name>
+    <Desc>Mevcut Duygu Seviyenin iki katı kadar Güç kazanır (Seviye 1'e kadar).</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="230010">
+    <Name>Bzzz Bzzz</Name>
+    <Desc>Perdenin başlangıcında, rastgele üç düşmana 1 Felç uygular.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230011">
+    <Name>Pzzt Pzzt</Name>
+    <Desc>Başarılı bir vuruşta, Hedef Felç etkisine sahipse 1-2 Fazladan Hasar verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230012">
+    <Name>Kararsız Yük</Name>
+    <Desc>Her Sahnenin sonunda, sonraki Sahnede %50 olasılıkla 1 Güç kazanır</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="230016">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="231016">
+    <Name>Aşkın Gücü</Name>
+    <Desc>Bir Perde kazandığında, Kasaba'dan ölenleri %50 Can ile diriltir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="232016">
+    <Name>Dernier Amour</Name>
+    <Desc>Can %50 veya altına düşerse...</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="230018">
+    <Name>Hazırlıklı</Name>     <Desc>Perdenin başlangıcında fazladan 2 Sayfa çeker</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230118">
+    <Name>Karanlık Bulut Kılıcı</Name>     <Desc>Kesme Zarı Gücü +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230019">
+    <Name>Derin Bıçaklama</Name>     <Desc>Savaş Sayfaları kullanarak Kanama uyguladığında, fazladan +1 Birikim uygular.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230020">
+    <Name>Derin Yara</Name>
+    <Desc>Saldırı Zarlarıyla Çatışma kazandığında, sonraki Sahnede 1 Kanama uygular</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="231001">
+    <Name>Kılıç Darbesi</Name>
+    <Desc>Başarılı bir Kesme saldırısından sonra, sonraki Sahnede 1 Kanama uygular</Desc>
+  </PassiveDesc>
+  
+    <PassiveDesc ID="230021">
+    <Name>Miyav Miyav~</Name>     <Desc>Perdenin başlangıcında, rastgele iki müttefike 1 Güç verir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230121">
+    <Name>Doğaçlama Vuruş</Name>      <Desc>Başarılı bir Vurma saldırısından sonra, sonraki Sahnede rastgele bir düşmana 1 Kırılganlık uygular (Sahne başına bir kez)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230022">
+    <Name>Muu… Muu…?</Name>     <Desc>Başarılı bir Vurma saldırısında, Hedefe 1-2 Fazladan Hasar verir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230023">
+    <Name>Oinkie!! Oink!!!</Name>     <Desc>Perdenin başlangıcında, rastgele iki düşmana 1 Zayıflık verir</Desc>
+  </PassiveDesc>
+  
+    <PassiveDesc ID="230024">
+    <Name>Durulmaz</Name>     <Desc>Ölümcül Hasar aldığında, bu pasifi etkinleştiren Hasar da dahil olmak üzere tüm Hasarı Sahne boyunca 25 azaltır (Perde başına bir kez)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230124">
+    <Name>Kama</Name>     <Desc>Delme Zarı Gücü +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230025">
+    <Name>Delici</Name>     <Desc>Delme Hasarı +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230026">
+    <Name>Delme Şoku</Name>     <Desc>Delme Şok Hasarı +1</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="230028">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230128">
+    <Name>Yanan Tutku</Name>
+    <Desc>Sahnenin başlangıcında, karakter Şokta değilse tüm düşmanlara 3 Yanık uygular.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230228">
+    <Name>Kararsız EGO Kabuğu</Name>
+    <Desc>'Tüy Kalkan' ve 'Kavurucu Kılıç' modları arasında düzenli olarak geçiş yapar, sırasıyla darbe aldıktan sonra ve saldırırken Yanık uygular. Düzenli aralıklarla 'Alevli Darbe' kullanır.</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="232001">
+    <Name>Süblimasyon</Name>
+    <Desc>Zarlar, üzerinizdeki her 5 Kanama Birikimi için +1 Güç kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="232002">
+    <Name>Bükülmüş Yara</Name>
+    <Desc>Kanama etkisine sahip düşmanlara +1 Şok Hasarı verir.</Desc>
+  </PassiveDesc>
+  
+    <PassiveDesc ID="233001">
+    <Name>Dayanışma</Name>
+    <Desc>Sahne sonunda, tüm müttefikler yaşıyorsa, sonraki Sahnede 1 Güç kazanır; tüm müttefikler ölü ise, bunun yerine kendine 2 Zayıflık uygular.
+Bu pasif yetenek, Perdeye bir veya daha fazla müttefik ile başlandıysa etkinleşir.</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="240001">
+    <Name>Aşırı Nefes</Name>    <Desc>Orijinal Maliyeti 4 veya daha yüksek olan bir Sayfa kullanırken 2 Işık yeniler.
+Bir Hız Zarı kullanılamaz hale gelir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240101">
+    <Name>Saptırılmış Saldırı</Name>    <Desc>Sahne başına bir kez, Tek-taraflı bir saldırıya bir Blok Zarı [Atış: 2-6] ile karşılık verir. (Her iki karakterin de Savaş Sayfaları kullandığı Çatışmalarda kullanılmaz)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240201">
+    <Name>Tükenme</Name>       <Desc>Bir Hız Zarı kullanılamaz hale gelir</Desc>
+    </PassiveDesc>
+  <PassiveDesc ID="240301">
+    <Name>Ölüm Gözü</Name>     <Desc>Tüm Zarlar +4 Güç kazanır
+Tüm Zarlar 3 Güç kaybeder</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240401">
+    <Name>Tükenmiş</Name>     <Desc>Zar Gücü -3</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="240002">
+    <Name>Tekil Saldırı</Name>     <Desc>Karşı Saldırısı olmayan bir Zar içeren bir Savaş Sayfası kullandığında, Zar +2 Güç kazanır ve bir Çatışmada iki kat Duygu Puanı üretir.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="240003">
+    <Name>Nefes</Name>      <Desc>Sahnenin başlangıcında, mevcut Işık 0 ise 1 Işık yeniler</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="241001">
+    <Name>Kizuna/Aşırı Yorgunluk</Name>      <Desc>Bir müttefik öldükten sonra, Perdenin geri kalanı için her Sahnede 1 Güç ve Dayanıklılık kazanır. (2 kez birikir)
+Savaşa %75 daha az Can ile başlar</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="241101">
+    <Name>Aşırı Yorgunluk</Name>
+    <Desc>Savaşa %75 daha az Can ile başlar</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="241201">
+    <Name>Aşırı Yorgunluk</Name>
+    <Desc>Savaşa %50 daha az Can ile başlar</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="241301">
+    <Name>Kizuna/Aşırı Yorgunluk</Name>  
+    <Desc>Bir müttefik öldükten sonra, Perdenin geri kalanı için her Sahnede 1 Güç ve Dayanıklılık kazanır. (2 kez birikir)
+Savaşa %25 daha az Can ile başlar</Desc>
+  </PassiveDesc>
+
+
+    <PassiveDesc ID="240004">
+    <Name>Hızlanma</Name>     <Desc>Hız 5 veya daha yüksek olduğunda, saldırılarla +1 Şok Hasarı verir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240005">
+    <Name>Kontüzyon</Name>     <Desc>Başarılı bir Vurma saldırısında, fazladan 2 Şok Hasarı verir</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240006">
+    <Name>Kukla İskeleti</Name>     <Desc>Vurma Zarı Gücü +1</Desc>
+  </PassiveDesc>
+  
+    <PassiveDesc ID="240008">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240108">
+    <Name>İp Cambazlığı</Name>
+    <Desc>Emma ve Noah birlikteyken, Şok olamazlar ve ek bir Hız Zarı kazanırlar. Şok Dirençleri 0'a düşerse, Emma ve Noah Sahne sonunda ayrılırlar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240208">
+    <Name>Yalnız Performans</Name>
+    <Desc>Noah öldüğünde, tüm Dirençler "Ölümcül" olarak değişir.</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="240308">
+    <Name>Yüksek Seviye Akrobasi</Name>
+    <Desc>Orijinal Maliyeti 3 veya daha yüksek olan bir Sayfa kullandığında, o Sayfadaki tüm Zarlar +1 Güç kazanır</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240408">
+    <Name>Aslan Yumruğu</Name>
+    <Desc>Vurma Zarı Gücü +1</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="240508">
+    <Name>Sürüş</Name>
+    <Desc>Sahne sonunda, Emma ile yeniden birleşir</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="240015">
+    <Name>Zihin Transferi</Name>     <Desc>Başarılı bir saldırıda 2 Şok Direnci yeniler</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240016">
+    <Name>Sağlık Transferi</Name>     <Desc>Başarılı bir saldırıda 2 Can yeniler</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="241002">
+    <Name>Sıvılaştırılmış Et</Name>     <Desc>Savunma Zarı Gücü +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="241102">
+    <Name>Ceset Temizliği</Name>     <Desc>Başka bir karakter öldüğünde, o Sahnenin sonunda Maksimum Can'ın %5'ini yeniler (Azami 12)</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="241202">
+    <Name>Ceset Temizliği</Name>     <Desc>Başka bir karakter öldüğünde, o Sahnenin sonunda Maksimum Can'ın %20'sini yeniler</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="240018">
+    <Name>Yönerge Lütfu</Name>     <Desc>Her Sahnede, rastgele bir Saldırı Zarı türünün Gücünü +2 artırır (Kesme, Delme veya Vurma)</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="240118">
+    <Name>Yönerge Okuması</Name>     <Desc>Perdenin başlangıcında fazladan bir Sayfa çeker</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="240019"> 
+    <Name>Kuantum Sıçraması</Name>  
+    <Desc>Hız 4 veya daha yüksekse, başarılı bir saldırıda %10 olasılıkla fazladan 13 Hasar verir</Desc> 
+  </PassiveDesc>
+  <PassiveDesc ID="240020"> 
+    <Name>Kırılma</Name>  
+    <Desc>Başarılı bir vuruşta, %5 olasılıkla fazladan 13 Şok Hasarı verir</Desc> 
+  </PassiveDesc>
+  <PassiveDesc ID="240021"> 
+    <Name>Tepki Gücü</Name>  
+    <Desc>Karakter bir Sahne boyunca hiç Sayfa kullanmadıysa, sonraki Sahnede 1 Güç ve Dayanıklılık kazanır</Desc> 
+  </PassiveDesc>
+  <PassiveDesc ID="240022"> 
+    <Name>Boyutsal Kesitler</Name>  
+    <Desc>Başarılı bir vuruşta, %10 olasılıkla fazladan 10 Hasar verir</Desc> 
+  </PassiveDesc>
+  
+  <PassiveDesc ID="240023">
+    <Name>Duman Nefesi</Name>     <Desc>Bir karakter 'Duman' etkisine sahipse, saldırılarla verilen Şok Hasarını (Duman x %10) artırır</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240024">
+    <Name>Duman Bağımlılığı</Name>     <Desc>Başarılı bir vuruşta, karakter 8 veya daha fazla 'Duman' Birikimine sahipse, sonraki Sahnede 2 Felç uygular (Sahne başına Hedef başına bir kez)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240025">
+    <Name>Uyarıcı Buharlar</Name>     <Desc>Sahne başına bir kez, bir karakter 'Duman' etkisine sahipse, Tek-taraflı bir saldırıya bir Blok Zarı [Atış: 1~(Duman)] ile karşılık verir. (Her iki karakterin de Savaş Sayfaları kullandığı Çatışmalarda kullanılmaz)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240026">
+    <Name>Derin Pus</Name>     <Desc>'Duman' bu karakterde alınan Hasar yerine verdiğin Hasarı artırır</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="240027">
+    <Name>Kızgın Demir</Name>
+    <Desc>Vurduğunda 1-2 Yanık uygular</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240127">
+    <Name>Tüy Kalkan</Name>
+    <Desc>Vurulduğunda, saldırana 1-2 Yanık uygular</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240227">
+    <Name>Uçucu Tutku</Name>
+    <Desc>Hedef Yanık etkisine sahipse, Saldırı Zarlarının Gücünü +1 artırır</Desc>
+  </PassiveDesc>
+  
+    <PassiveDesc ID="240028">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240128">
+    <Name>Zihinleri Ayırma</Name>     <Desc>0 Can'a ulaştığında ayrılır. Bundan sonra tüm Kütüphaneciler 1 Işık ve 10 Şok Direnci yeniler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240228">
+    <Name>Ayrılmış Zihinler</Name>     <Desc>Tüm Çocuklar 0 Can'a ulaştığında birleşir. Bundan sonra tüm Kütüphaneciler 1 Işık ve 10 Şok Direnci yeniler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240328">
+    <Name>Görmeyen Çocuk</Name>
+    <Desc>Ağlayan Çocuklar tarafından kullanılan Savaş Sayfalarının bilgilerinin bir kısmını göremezsin. Bu yetenek, bu karakter Şok olduğunda iptal edilir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240428">
+    <Name>Duymayan Çocuk</Name>
+    <Desc>Ağlayan Çocukların Hedeflerini göremez ve yeniden yönlendiremezsin. Bu yetenek, bu karakter Şok olduğunda iptal edilir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240528">
+    <Name>Konuşamayan Çocuk</Name>
+    <Desc>Her Sahnenin başlangıcında rastgele bir Kütüphaneci Hareketsiz hale gelir. Bu yetenek, bu karakter Şok olduğunda iptal edilir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240628">
+    <Name>Hassas Bir Zihin</Name>
+    <Desc>Şok olmak karakterin Dirençlerini geçici olarak değiştirmez.
+Bunun yerine, Çocuklardan biri, aşağıdaki etkiye sahip bir Zar içeren bir Sayfa oynar: ‘[Bir Çatışma kaybettiğinde] Tüm müttefiklerin tüm Dirençleri "Ölümcül" olarak değişir.’</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="243001">
+    <Name>Zayıflıklar</Name>
+    <Desc>"Zayıf" veya "Ölümcül" olduğu bir hasar türüyle Hedefe saldırdığında, +1 Hasar verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="243101">
+    <Name>Bilgi Değerlendirmesi</Name>
+    <Desc>Sahnenin sonunda, rastgele bir düşmanın bir direnci Sahne boyunca "Normal" olarak değişir. ("Dirençli" veya "Normal" olan Dirençler arasından seçilir)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="243201">
+    <Name>Zayıflıkları Görme</Name>
+    <Desc>Karakter geçen Sahnede "Zayıf" olduğu bir hasar türüyle bir düşmana saldırdıysa ve düşman Sahne sonunda 5 veya daha fazla Kırılganlık Birikimine sahipse, o türe karşı direnci Perdenin geri kalanı için "Ölümcül" olur.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="243003">
+    <Name>Anavatan Eskrim</Name>
+    <Desc>Kesme Zarı Gücü +2</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="243005">
+    <Name>Yara İzleri Heykeltıraşı</Name>
+    <Desc>Karakterin her Sahnede kullandığı ilk Savaş Sayfasındaki Saldırı Zarları ek bir etki kazanır: ‘[Vurduğunda] 2 Kanama uygular’</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="243105">
+    <Name>Azim</Name>
+    <Desc>Duygu Seviyesi 1 veya daha yüksek olduğunda, Sahnenin başlangıcında 1 Koruma ve Şok Koruması kazanır. Miktar Duygu Seviyesi 3'te 2'ye ve Duygu Seviyesi 5'te 3'e yükselir.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="243205">
+    <Name>Yırtılma Yarası</Name>
+    <Desc>Kanama etkisine sahip düşmanlara +3 Hasar verir.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250001">
+    <Name>Şevk</Name>
+    <Desc>Saldırı Zarları Duygu Seviyesi 3 veya daha yüksek olduğunda +1 Güç kazanır</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250002">
+    <Name>Asla Pes Etmeyen Savaşçı</Name>     <Desc>Duygu Seviyesi yükseldiğinde, 1 Güç ve Dayanıklılık kazanır</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250003">
+    <Name>Dağ Gibi Sağlam</Name>     <Desc>Duygu Seviyesi yükseldiğinde, Maksimum Can'ın %15'ini yeniler (Azami 20)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250004">
+    <Name>Huzurda Tetikte</Name>     <Desc>Duygu Seviyesi yükseldiğinde, karakter Şokta değilse Maksimum Şok Direncinin %25'ini yeniler</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250005">
+    <Name>Mühimmat Tedariki</Name>     <Desc>Üç başarılı Yakın Dövüş Savaş Sayfası saldırısından sonra, ele rastgele bir Mühimmat ekler.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250006">
+    <Name>Şefin Emirleri</Name>     <Desc>Sahnenin başlangıcında, rastgele 2 müttefike 1 Koruma verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250106">
+    <Name>Üç Kat Azim</Name>     <Desc>Her üçüncü Saldırı Zarı +1 Güç kazanır. Dördüncü Sahneden itibaren, bunun yerine tüm Saldırı Zarları +1 Güç kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250007">
+    <Name>Kum</Name>     <Desc>Alınan tüm Hasarı ve Şok Hasarını 1 azaltır (Saldırılardan gelmeyen Hasar dahil)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250008">
+    <Name>Güçlendirilmiş İlk Atış</Name>     <Desc>Bir Menzil Savaş Sayfası oynadığında, ilk Saldırı Zarı +1 Güç kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250009">
+    <Name>Ek Tedarikler</Name>     <Desc>Her 3 Mühimmat tükettiğinde, Sahnenin sonunda ele rastgele bir Mühimmat ekler.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250010">
+    <Name>Acil Canlandırma Protokolü</Name>
+    <Desc>Ölümcül bir saldırı aldığında, Hasarı iptal eder ve tüm Yükü harcayarak Birikim başına 5 Can yeniler (Perde başına bir kez)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250011">
+    <Name>Kuvvet Alanı</Name>
+    <Desc>Bir Savaş Sayfası kullanarak Yük harcadıktan sonra, sonraki Sahnede 1 Koruma kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250012">
+    <Name>Ağır Yürekli Kalenin Gücü</Name>
+    <Desc>Bir Çatışma kazandığında rakibe 1-2 Şok Hasarı verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250110">
+    <Name>Yüklü Kalkan</Name>     <Desc>Duygu Seviyesi 2 veya daha yüksek olduğunda, karakter önceki Sahnede Savaş Sayfaları kullanarak Yük kazandıysa, Sahnenin başlangıcında 1 Dayanıklılık kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250210">
+    <Name>Deşarj Edilmiş Enerji</Name>     <Desc>Duygu Seviyesi 2 veya daha yüksek olduğunda, karakter önceki Sahnede Savaş Sayfaları kullanarak Yük harcadıysa, Sahnenin başlangıcında 1 Güç kazanır.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="250013">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250113">
+    <Name>Mavi Yankı</Name>
+    <Desc>Menzil Savaş Sayfalarından Hasar almazsın.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250014">
+    <Name>İçten Yanmalı Motor</Name>
+    <Desc>Savaş Sayfaları kullanarak Duman kazandığında, fazladan +1 Birikim kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250114">
+    <Name>Et Dişlisi</Name>
+    <Desc>Her Savaş Sayfasının ilk Saldırı Zarı +2-3 Hasar verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250214">
+    <Name>Düşünce Dişlisi</Name>
+    <Desc>Kaçınma Zarı Gücü +1</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="150015">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150115">
+    <Name>İndeks Vekili</Name>
+    <Desc>İkinci Sahnede, koşul ne olursa olsun 'Kilit Açılmış Kılıç' durumuna girer.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150016">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150116">
+    <Name>İndeks Vekili</Name>
+    <Desc>İkinci Sahnede, koşul ne olursa olsun 'Kilit Açılmış Kılıç' durumuna girer.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150017">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150117">
+    <Name>İndeks Vekili</Name>
+    <Desc>İkinci Sahnede, koşul ne olursa olsun 'Kilit Açılmış Kılıç' durumuna girer.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250115">
+    <Name>Bloklanmış Potansiyel</Name>     <Desc>Tek bir Perdede altı Eşsiz Savaş Sayfası kullandıktan sonra, tüm Zarların Gücünü 1 artıran 'Kilit Açılmış Kılıç' durumuna girer.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250015">     <Name>Kudurmuş Akıntı</Name>     <Desc>Karakter her 4 Eşsiz Savaş Sayfası kullandığında bir Sayfa çeker.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250016">     <Name>Kırıcı Baskı</Name>     <Desc>Bir Çatışmada, rakibin Savunma Zarı 1 Güç kaybeder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250017">     <Name>Kolay Dinlenme</Name>     <Desc>Duygu Seviyesi 2 veya daha yüksek olduğunda, her Sahnede, eldeki Maliyeti 1 veya daha yüksek olan rastgele bir Savaş Sayfasının Maliyeti Sahne boyunca 1 azalır.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="250018">     <Name>Yırtıcı Ateş Gücü</Name>     <Desc>Sahnenin başlangıcında, eldeki iki Savaş Sayfası şu etkiyi kazanır: 'Bu Sayfa kullanılırken, Savaş Sayfalarının yetenekleriyle iki kat Yanık uygular'.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250020">     <Name>Yangın Gücü</Name>     <Desc>Bir yakın dövüş vuruşunda, 1 Yanık ve 'Yangın Gücü', 2 Sahne süren bir durum uygular.
+'Yangın Gücü' etkisine sahip bir düşman Şok olduğunda, tüm düşmanlara düşmanın sahip olduğu Yanık miktarının yarısı kadar Yanık uygular. (Aşağı yuvarlanır)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250021">     <Name>Kavurucu Ateş</Name>     <Desc>Bu karakterin yakın dövüş saldırısının Hedefi, saldırıldığı Sahnenin sonunda Yanık Hasarı aldığında, aynı zamanda Yanığın yarısı kadar Şok Hasarı da alır.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="250022">
+    <Name>Kali</Name>
+    <Desc>Her Sahnede fazladan 1 Işık yeniler ve fazladan 1 Sayfa çeker.
+Can 350'ye düştüğünde, Şok Direncini tamamen yeniler ve E.G.O'yu Açığa Çıkarır; bu gerçekleşmeden Can 350'nin altına düşemez. (Kabul başına bir kez)
+'E.G.O Açığa Çıkmış' durumunu kaybettikten sonra, 3 Sahnede onu yeniler.
+Karakter bu Kabulde E.G.O'yu açığa çıkardıktan sonra yeni bir Perdeye girerse, ikinci Sahnede açığa çıkarır.</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="250122">
+    <Name>Efsanevi</Name>
+    <Desc>Sadece Gebura donatabilir. Eşsiz E.G.O'ya erişebilir.
+Duygu Seviyesi 4 veya daha yüksek olduğunda, 'E.G.O'yu Açığa Çıkar' Savaş Sayfası ele eklenir. (Perde başına bir kez)</Desc>
+  </PassiveDesc>
+  
+    <PassiveDesc ID="250222">
+    <Name>Misilleme</Name>
+    <Desc>Savaşın başlangıcında bir Karşı Saldırı Zarı (Kesme, 4-8) kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250322">
+    <Name>En Güçlü</Name>
+    <Desc>En düşük sonuca sahip Hız Zarı seçilir; değer mümkün olan en yüksek değere değişir.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250422">
+    <Name>Kızıl Sis</Name>
+    <Desc>Tüm Zarlar +2 Güç kazanır.
+'Büyük Bölünme: Yatay' kullanabilir.
+Her Sahnede, rastgele bir türe karşı direnç "Normal" olurken diğerleri "Dirençli" olur.
+Yenilen her düşman için, tüm Zarların Gücünü artıran bir 'Kızıl Sis' Birikimi kazanır.
+Karakter herhangi bir Sahnede saldırılarla 40+ Hasar veremezse, Maksimum Şok Direncinin %40'ı kadar Şok Hasarı alır.
+Şok olduğunda 'E.G.O Açığa Çıkmış' durumunu kaybeder.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="10010">
+    <Name>Binah</Name>
+    <Desc>Değiştirilemeyen veya değiştirilemeyen Eşsiz Anahtar Sayfa ve Savaş Sayfalarına sahiptir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10011">
+    <Name>Eksik Hakem</Name>
+    <Desc>Sahnenin başlangıcında, eldeki Sayfa sayısı 4 olana kadar çeker.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250522">
+    <Name>Kızıl Sis</Name>
+    <Desc>Kızıl Sis Anahtar Sayfasını Kuşanabilir</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="250123">
+    <Name>Üçlü-R Kıyafeti</Name>
+    <Desc>Aynı anda 20'ye kadar Yük biriktirebilir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="251001">
+    <Name>Tavşan Geliştirmesi</Name>     <Desc>Bu Perdede kaybedilen Maksimum Can'ın her %30'u için, her Sahnenin başlangıcında 1 Acele kazanır. (3'e kadar)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="251002">
+    <Name>Gergedan Prosedürü</Name>     <Desc>Bu Perdede kaybedilen Maksimum Can'ın her %30'u için, her Sahnenin başlangıcında 1 Dayanıklılık kazanır. (2'ye kadar)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="251003">
+    <Name>Geyik Tedavisi</Name>     <Desc>Bu Perdede kaybedilen Maksimum Can'ın her %30'u için, her Sahnenin başlangıcında 1 Güç kazanır. (2'ye kadar)</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250023">
+    <Name>Komutan</Name>     <Desc>Bir karakter Sahnenin başlangıcında 11 veya daha fazla Yüke sahipse, tüm müttefiklere 1 Güç ve Dayanıklılık verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250223">
+    <Name>Son Dokunuş</Name>     <Desc>Bir Hedefe karşı bir Savaş Sayfası kullandıktan sonra, Sahnenin sonunda üzerlerine bir 'İşaret' bırakır. İşaretlenmiş düşman saldırılardan %50 daha fazla Hasar ve Şok Hasarı alır. Aynı anda yalnızca bir düşman İşaretlenebilir.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="251101">
+    <Name>Sıkıştırılmış Kas Gücü</Name>     <Desc>Bir karakter Sahnenin başlangıcında 11 veya daha fazla Yüke sahipse, 1 Acele kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="251102">
+    <Name>Senkronize Biyonik Kask</Name>     <Desc>Bir karakter Sahnenin başlangıcında 11 veya daha fazla Yüke sahipse, 2 Koruma kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="251103">
+    <Name>Beyin Dalgası Boynuzları</Name>     <Desc>Bir karakter Sahnenin başlangıcında 11 veya daha fazla Yüke sahipse, Sahne boyunca saldırılarla +2 Şok Hasarı verir.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="250024">
+    <Name>Myo'nun Becerisi</Name>     <Desc>Bir Savaş Sayfası kullandığında, o Sayfadaki tüm Zarlar, daha düşük Hıza sahip Hedeflere karşı Güç kazanır. (2 puan fark için +1 Güç, 5'e kadar)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250025">
+    <Name>Maxim'in Saldırısı</Name>     <Desc>Bir karakter Sahnenin başlangıcında 20 veya daha fazla Yüke sahipse, saldırılarla %50 daha fazla Hasar ve Şok Hasarı verir; ayrıca saldırılardan %30 daha az Hasar ve Şok Hasarı alır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250026">
+    <Name>Hayatta Kalan</Name>     <Desc>Karakter her Şoktan kurtulduğunda, Perdenin geri kalanı için Sahnenin başlangıcında 1 Güç ve Dayanıklılık kazanır. (5'e kadar)</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="251201">
+    <Name>Yeterli Mühimmat</Name>
+    <Desc>Varsayılan türü 'Menzil' olan Savaş Sayfaları kullanıldığında tükenmez.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="250027">
+    <Name>Olasılık Manipülatörü</Name>
+    <Desc>Bu karakterin attığı bir Zar minimum değeri elde ettiğinde, onu yeniden atar. Zar başına bir kez etkinleşir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250127">
+    <Name>Duruş Değiştirme</Name>
+    <Desc>Dört Duruştan birine sahip olabilir: Kesme, Delme, Vurma ve Savunma. Her Duruş için farklı bir Deste kullanılır. Perdenin başlangıcında rastgele bir Duruş seçilir; Işık ödeyerek Duruş değiştirilebilir.</Desc>
+  </PassiveDesc>
+  
+    <PassiveDesc ID="250227">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Her Sahnede Işığı tamamen yeniler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250327">
+    <Name>Boyutsal Gezgin</Name>
+    <Desc>Can 350'ye düştüğünde, Perde aniden sona erer ve başka bir Kata geçer. Bu gerçekleşmeden Can 350'nin altına düşemez. (Kabul başına bir kez)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250427">
+    <Name>Duruş Değiştirme</Name>
+    <Desc>Düzenli bir aralıkta, Duruşu aşağıdakilerden birine değiştirir: Kesme, Delme, Vurma ve Savunma. Duruş değiştirdikten sonra, Duruşta temsil edilen türdeki Zarlar Sahne boyunca +1 Güç kazanır.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="150036">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150136">
+    <Name>Xiao</Name>
+    <Desc>Can 100'e düştükten sonra Etkisiz hale gelir.</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="150037">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  
+    <PassiveDesc ID="150038">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150138">
+    <Name>Ejderhanın Dokuz Oğlu</Name>
+    <Desc>Zar Gücü +1.
+Sahnenin başlangıcında, tüm düşmanlara 2 Yanık uygular.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150238">
+    <Name>Pú Láo</Name>
+    <Desc>'Pú Láo' etkin olduğunda, tüm karakterler Sahne boyunca Güçten etkilenmez.
+'Pú Láo' ilk Sahnede ve daha sonra her 2 Sahnede bir etkinleşir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150338">
+    <Name>Ters Artış</Name>
+    <Desc>Her Sahnede, kendine Şok Hasarı veren ancak Çatışma kaybederse Güç veren bir Savaş Sayfası kullanır.
+Karakter Şoktan kurtulsa veya Perde bitse bile Şok Direnci tamamen yenilenmez.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250036">
+    <Name>Ejderhanın Dokuz Oğlu</Name>
+    <Desc>Duygu Seviyesi Sahnenin sonunda 2 veya daha yüksekse, E.G.O'yu açığa çıkarır.
+Karakterin Duygu Seviyesi Sahnenin sonunda 4 veya daha yüksekse, açığa çıkan E.G.O potansiyeldir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250136">
+    <Name>Ejderhanın Dokuz Oğlu</Name>
+    <Desc>Saldırı Zarı Gücü +1. 'Bā Xià' pasif yeteneğini kazanır.
+Karakterin Duygu Seviyesi Sahnenin sonunda 4 veya daha yüksekse, E.G.O potansiyeldir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250236">
+    <Name>Ejderhanın Dokuz Oğlu</Name>
+    <Desc>Zar Gücü +1. 'Bā Xià' pasif yeteneğini kazanır.
+Sahnenin başlangıcında, tüm düşmanlara 2 Yanık uygular.
+Eşsiz E.G.O'ya erişebilir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250336">
+    <Name>Bā Xià</Name>
+    <Desc>Yanık Hasarı almaz. Yanık olmayan bir durum sorunu aldığında, onu yarıya indirir (Aşağı yuvarlanır, 1'den az azalmaz)</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="150039">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="150139">
+    <Name>El</Name>
+    <Desc>Şok olamaz; Canı bittiğinde yenilemez. Can Sahnenin başlangıcında 30 veya daha az ise Hareket edemez. 얀샋ㄷ요무 mevcut olmadığında yok edilir.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="150051">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150151">
+    <Name>얀샋ㄷ요무</Name>
+    <Desc>Bu karakterin Canı 301 veya daha yüksekse ve tüm ellerin Canı 30 veya daha az ise, Ellerle birleşir.
+Bu karakterin Canı, Ellerle birleşmişken 300 veya altına düşerse, Sahnenin sonunda Ellerden ayrılır; ayrıldığında, tüm durum etkilerini kaldırır ve Şok Direncini tamamen yeniler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150251">
+    <Name>Bozuk Kılıç</Name>
+    <Desc>Karakter ellerle birleşmişse veya karakterin Canı 300 veya daha az ise, düzenli aralıklarla bir Toplu Saldırı kullanır.
+Toplu Saldırı, Perde çok sayıda Sahne sürerse de kullanılır.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250051">
+    <Name>얀샋ㄷ요무</Name>
+    <Desc>Bir karakterin 'Yıkım (Kırmızı)' Anormallik Sayfaları 'Uyanış (Mavi)' Sayfalarından fazlaysa, tüm Zarlar +1 Güç kazanır. Yıkım Sayfaları Uyanış Sayfalarından 2 veya daha fazla fazlaysa, buna ek olarak Saldırı Zarlarının Hasar ve Şok Hasarını +1 artırır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250151">
+    <Name>Ulak</Name>     <Desc>Her Sahnede, müttefikler üzerinde kullanılabilen bir Özel Savaş Sayfası kazanır.
+Savaş Sayfası türü her Sahnede rastgele belirlenir. Duygu Seviyesi 3 veya daha yüksek olduğunda, sahip bunun yerine iki seçenek arasından seçim yapabilir.
+(Dört farklı işleve sahip Özel Savaş Sayfası türü vardır: 'Güç Verir', 'Koruma ve Şok Koruması Verir', 'Sayfa Çeker' ve 'Işık Yeniler'.)</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="300001">
+    <Name>Havari</Name>
+    <Desc>Kontrol Edilemez. Bu karakter ölemez, ancak Canı 1'e düştüğünde, Beyaz Gece ile Senkronizasyon bitene kadar Hareket edemez.
+Beyaz Gece ile Senkronize edilmiş müttefik yoksa karakter tekrar bir Kütüphaneciye dönüşür.</Desc>
+  </PassiveDesc>
+
+
+    <PassiveDesc ID="260001">
+    <Name>Dört Trigram</Name>
+    <Desc>Kullanıldıkları Sahne boyunca kullanıcıya fayda sağlayan dört Özel Savaş Sayfası kazanır. Sahne başına yalnızca bir Dört Trigram Sayfası oynanabilir, bir Dört Trigram Sayfası kullanıldığında, hepsi kullanılana kadar tekrar kullanılamaz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="260002">
+    <Name>Herkes için Hana</Name>
+            <Desc>Savaş Sayfalarıyla Güç, Dayanıklılık, Koruma veya Şok Koruması kazandığında: Aynı durum etkisini rastgele başka bir müttefiğe de verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="260003">
+    <Name>Hana için Herkes</Name>
+            <Desc>Karakter önceki Sahnede saldırılardan Hasar aldıysa, o Hasarın en yüksek olduğu türe karşı bu karakterin Dirençlerini Sahne boyunca "Dirençli" olarak değiştirir. (Fiziksel Hasar ve Şok Hasarı için ayrı ayrı uygulanır)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="260004">
+    <Name>On İki Düzeltici</Name>
+            <Desc>Tüm Zarların *Minimum* sonucunu +2 artırır. Duygu Seviyesi 3 veya daha yüksek olduğunda, tüm Zarların *Maksimum* sonucunu da +1 artırır.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="160004">
+    <Name>Düello</Name>
+    <Desc>Hareketsizliğe karşı bağışıklıdır. Rakip ek Maksimum Can ve Maksimum Şok Direnci kazanır.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="10012">
+    <Name>Orlando</Name>
+    <Desc>Değiştirilemeyen veya değiştirilemeyen Eşsiz Anahtar Sayfa ve Savaş Sayfalarına sahiptir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10013">
+    <Name>Kara Sessizlik</Name>
+    <Desc>Perdenin başlangıcında fazladan 2 Sayfa çeker. Kullanılan her üçüncü Savaş Sayfasındaki tüm Zarlar +2 Güç kazanır.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="260005">
+    <Name>Rezonans</Name>
+    <Desc>Bir Yakın Dövüş Savaş Sayfası kullanıldığında, bu karakter ve Hedefin Titreşiminin Hız farkı 1 veya daha az ise, Sayfadaki tüm Zarlar +2 Güç kazanır.
+Perdenin başlangıcında 2 Sayfa çeker.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="260006">
+    <Name>Aşırı Isınma</Name>
+    <Desc>Karakter Yanık etkisine sahipken, Saldırı Zarları +1 Güç kazanır.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="260007">
+    <Name>Usta Sigara İçicisi</Name>
+    <Desc>'Duman' ile ilgili bir etkiye sahip bir Savaş Sayfası kullandığında, Sayfadaki tüm Zarlar +1 Güç kazanır.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="260008">
+    <Name>Ana Yemeği Hazırla</Name>
+    <Desc>Bir Yakın Dövüş Savaş Sayfası kullanıldığında, Hedef Kanama etkisine sahipse, Sayfadaki Saldırı Zarları +1~2 Güç kazanır.</Desc>
+  
+  <PassiveDesc ID="260009">
+    <Name>Kişnemeee~! Hav Hav! Gıdak!</Name> 
+    <Desc>Bir Yakın Dövüş Savaş Sayfasıyla vurduğunda, aşağıdaki etkilerden birini etkinleştirir (her etki Sahne başına bir kez etkinleşir):
+- Sonraki Sahnede 1 Zayıflık uygular
+- Sonraki Sahnede 1 Felç uygular
+- Hedefe 2 Şok Hasarı verir
+- 2 Şok Direnci yeniler</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="260010">
+    <Name>Muhteşem Performans</Name>
+    <Desc>Karşı Saldırı olmayan 3 veya daha fazla Zar türüne sahip bir Savaş Sayfası kullandığında, Sayfadaki tüm Zarlar +1 Güç kazanır ve +1 Hasar verir.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="260011">
+    <Name>Cesaret</Name>
+    <Desc>Ölümcül bir saldırı aldığında, Hasarı iptal eder ve 100 Can yeniler; bunun olduğu Sahnenin sonunda, tüm Şok Direncini yeniler. (Kabul başına bir kez)</Desc>
+  </PassiveDesc>
+
+
+  <PassiveDesc ID="260012">
+    <Name>Kukla İpleri</Name>
+    <Desc>Perdenin başlangıcında, başka bir müttefike 'Kuklacının İpleri' verebilen bir Özel Savaş Sayfası ele ekler.
+'Kuklacının İpleri' etkisine sahip karakter her Sahnenin başlangıcında 1 Güç veya Dayanıklılık kazanır ve Canı 1'in altına düşmez.
+'Kuklacının İpleri' etkisine sahip karakterin Canı 1'e ulaşırsa veya bu pasif yeteneğe sahip karakter mevcut değilse, 'Kuklacının İpleri' Sahnenin sonunda kaybolur.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="260013">
+    <Name>Kana Susamış</Name>
+    <Desc>Vurduğunda 2 Can yeniler.
+Karakter tek bir Sahnede 3 veya daha fazla Can yenilerse, sonraki Sahnede 1 Güç kazanır.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="260014">
+    <Name>Sözleşmeler</Name>
+    <Desc>Perdenin başlangıcında, tüm müttefiklerin ellerine İmzasız Sözleşmeler ekler.
+Karakter, elindeki İmzasız Sözleşmelerde belirtilen koşulları yerine getirirse, etkisi verilir ve Sözleşme tüketilir. İmzasız Sözleşmeler diğer müttefiklerle değiştirilebilir.</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="1400001">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+
+     <PassiveDesc ID="170001">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170002">
+    <Name>Misilleme</Name>
+    <Desc>Savaşın başlangıcında 2 Zar (Kesme, 4-8) kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170003">
+    <Name>Kin</Name>
+    <Desc>Vurduğunda 5 Şok Direnci yeniler; bir Çatışma kaybettiğinde 8 Şok Direnci kaybeder.</Desc>   </PassiveDesc>
+  <PassiveDesc ID="170004">
+    <Name>Kara Sessizlik</Name>
+    <Desc>Üçüncü Hız Zarında seçilen Sayfadaki tüm Zarlar +2 Güç kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170005">
+    <Name>Hız Ⅲ</Name>
+    <Desc>Hız Zarı +1. Duygu Seviyesi 3'te ek bir Hız Zarı kazanır.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="170101">
+    <Name>Ölülerin Doğuşu</Name>
+    <Desc>Dumanlı Atık yenildiğinde, sonraki Sahnede yerine bir tane belirir ve 50 Can kaybeder. (Birim başına bir kez) Karakterin Canı 300 veya daha az ise Dumanlı Atıklar belirmez.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="170102">
+    <Name>Boğucu Sis Taşıyıcısı</Name>
+    <Desc>Saldırırken, Hedef Boğucu Sis etkisine sahipse, +2 Hasar verir.
+Vurulduğunda, saldırgan Boğucu Sis etkisine sahipse, 2 daha az Hasar alır.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="170103">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="170201">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170202">
+    <Name>Ruh Eşleri</Name>
+    <Desc>Hız Zarları +2. 2 Sahnelik bir aralıkla 3 Sahne boyunca Ruh Bağlantısı kazanır. Ruh Bağlantısı etkinken, ek 3 Hız Zarı kazanır. 
+Hem Roland hem de Angelica Şok olursa, Ruh Bağlantısı 1 Sahne gecikir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170200">
+    <Name>Bağlı Ruhlar</Name>
+    <Desc>Ruh Bağlantısı süresi dolmadan önce 0'a düşürülürse, karakterin Hasar Direnci "Normal"e ve Şok Hasarı Direnci sonraki 2 Sahne boyunca "Ölümcül"e değişir ve 3 Felç alır. 
+Aksi takdirde, Ruh Bağlantısı süresi dolduğunda Can ve Şok Direncini yeniler ve miktarı en yüksek Can'a sahip karakterin miktarına ayarlar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170203">
+    <Name>Gereken Hedef</Name>
+    <Desc>Ruh Bağlantısı etkinken, ilk üç Hız Zarı en düşük Can'a sahip Kütüphaneciyi hedefler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170204">
+    <Name>Kara İşaret</Name>
+    <Desc>Ruh Bağlantısı yokken, 'Kara İşaret' etkisine sahip Kütüphaneciyi hedeflemeyi önceliklendirir. Saldırı Zarları İşaretlenmiş Hedefe karşı +3 Güç kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170205">
+    <Name>Sevgili Elveda</Name>
+    <Desc>Angelica öldüğünde, Çılgın bir duruma girer ve farklı bir Savaş Sayfaları Seti kullanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170211">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170212">
+    <Name>Gereken Hedef</Name>
+    <Desc>Ruh Bağlantısı etkinken, ilk üç Hız Zarı en düşük Can'a sahip Kütüphaneciyi hedefler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170213">
+    <Name>Kara İşaret</Name>
+    <Desc>Ruh Bağlantısı'nın etkin olduğu üçüncü Sahnede, bu karakterle son savaşan karaktere bir 'Kara İşaret' bırakır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170214">
+    <Name>Sevgili Uğurlama</Name>
+    <Desc>Roland öldüğünde, Tesellisiz hale gelir ve farklı bir Savaş Sayfaları Seti kullanır.</Desc>
+  </PassiveDesc>
+  
+    <PassiveDesc ID="170301">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur. Durum etkilerinden gelen Hasarın yarısını alır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170302">
+    <Name>Kütüphane Anıları</Name>
+    <Desc>Aşamanın süresi boyunca, gana una habilidad pasiva única cada Escena. El HP no disminuye de 40%. Si el HP de Roland está en 40% al final de la Escena, pasa a la siguiente Fase. Recupera completamente la Resistencia al Aturdimiento cuando se pasa a la siguiente Fase.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170303">
+    <Name>Yara İzleri</Name>
+    <Desc>Her Sahnede değişen belirli bir Türe karşı Hasarı azaltır. O türün saldırısıyla vurulduğunda, Hasarını %20 olasılıkla 0'a düşürür. Bu etki, Roland tarafından çağrılan silahlar yok edilerek iptal edilebilir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170304">
+    <Name>Kan</Name>
+    <Desc>Savunma Zarları bu Sahnede 1-2 Güç kazanır. Bir Savunma Zarı Çatışma kaybederse, 3-6 Şok Hasarı alır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170305">
+    <Name>Okuma</Name>
+    <Desc>Bu Sahnede 1 Güç kazanır. Kazanılan Güç, bu etki etkin olduğunda 1 artar. Bir Saldırı Zarı Hasar veremezse, 3-6 Şok Hasarı alır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170306">
+    <Name>Merak</Name>
+    <Desc>Bu Sahne boyunca, vurduğunda, Hedefin elindeki rastgele iki Sayfayı Destesine geri karıştırır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170307">
+    <Name>Öpücük</Name>
+    <Desc>Bağlanma etkisine sahip Kütüphanecileri hedeflemeyi önceliklendirir. Bu Sahne boyunca, bir Çatışma kazandığında rakibe Buz Kıymığı uygular. Sahnenin sonunda, 3 veya daha fazla Buz Kıymığı etkisine sahip karakterler sonraki Sahnede Hareketsiz kalır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170311">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170312">
+    <Name>Dağınık Anı Parçaları</Name>
+    <Desc>Aşamanın başlangıcında, her biri farklı yeteneklere sahip dört Geçmiş Görüntüsü çağrılır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170320">
+    <Name>Kazınmış Kin</Name>
+    <Desc>Bu, Sahnenin sonuna kadar kalırsa, yere Saplanır. Beşinci Sahnede kullanılan Savaş Sayfasının son Zarı, yerdeki her silah için yeniden kullanılır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170330">
+    <Name>Geçmiş Görüntüsü</Name>
+    <Desc>Hız Zarı +1. Duygu Seviyesi için ek Hız Zarı kazanmaz. Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170331">
+    <Name>Atım</Name>
+    <Desc>Hız Zarı -1. Vurduğunda, sonraki Sahnede tüm müttefiklere 1 Güç verir. Karakter Sahnenin sonunda Saldırı Zarları kullanarak hiç Hasar veremezse, Şok Hasarı alır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170332">
+    <Name>Arzu</Name>
+    <Desc>Maksimum Can %15 artar. 1-2 Hız kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170333">
+    <Name>Ateşli Kalp Atışları</Name>
+    <Desc>Bu karakter çağrıldığı üçüncü Sahnenin sonunda ölür. Ölünceye kadar her Sahnede 2 Güç ve Dayanıklılık, 3 Acele ve 4 Koruma kazanır. Tüm Şok Hasarı Dirençleri "Etkisiz" olarak değişir. Maksimum Can %50 azalır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170334">
+    <Name>Öğrenme</Name>
+    <Desc>Tüm Hız Zarlarında 'Öğrenme' Savaş Sayfasını kullanır. Bu karakterin saldırısı vurursa, sonraki Sahnede Sayfaların Maliyetini rastgele bir değere değiştiren 'Yalanlar' durumunu uygular.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170335">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+
+
+    <PassiveDesc ID="1405000">
+    <Name>Parıldayan</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüketir; ele yeni Sayfalar ekler. Maliyetleri 0 olur. Duygu Seviyesi için ek Hız Zarı kazanmaz.</Desc>
+  </PassiveDesc>
+ 
+    <PassiveDesc ID="1405011">
+    <Name>Gösterinin Başlangıcı~</Name>
+    <Desc>Sahnenin sonunda, tüm Kütüphaneciler 2-4 Şok Hasarı alır. Mevcut Şok Direnci en düşük olan Kütüphaneciyi hedeflemeyi önceliklendirir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1405012">
+    <Name>Omuz Silkebilirim!</Name>
+    <Desc>Tek bir Sahnede Maksimum Can'ın %50'sinden fazlasını kaybedemez.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1405013">
+    <Name>Elveda…!</Name>
+    <Desc>Bir müttefik öldüğünde, 50 Şok Hasarı alır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1405014">
+    <Name>Gösterinin Sonu</Name>
+    <Desc>Öldüğünde, tüm Kütüphaneciler tüm Şok Direncini yeniler ve üzerlerindeki tüm durum sorunları yarıya indirilir.</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="1405021">
+    <Name>Yanında Performans Sergilemek Bir Zevkti…!</Name>
+    <Desc>Öldüğünde, Oswald 70 Şok Hasarı alır. (Oswald savaş dışı olsa bile Hasar alır)</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="1405031">
+    <Name>Yanında Performans Sergilemek Bir Zevkti…!</Name>
+    <Desc>Öldüğünde, Oswald 70 Şok Hasarı alır. (Oswald savaş dışı olsa bile Hasar alır)</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="1405041">
+    <Name>Yanında Performans Sergilemek Bir Zevkti…!</Name>
+    <Desc>Öldüğünde, Oswald 70 Şok Hasarı alır. (Oswald savaş dışı olsa bile Hasar alır)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1405042">
+    <Name>Amalgamasyon</Name>
+    <Desc>Eğer 'Kızıl İpler'in etkileriyle belirirse, birleşen her karakter için Maksimum Can 20 artar ve birleşen Kütüphanecilerin pasif yeteneklerini kazanır.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="1407011">
+    <Name>Dolaşmış İpler</Name>
+    <Desc>Her müttefikin oynadığı bir Zar minimum sonucu elde ettiğinde, onu yeniden atar. Zar başına bir kez etkinleşir. Sahnenin başlangıcında, rastgele bir Kütüphaneci 2 Bağlanma alır. 'Gergin İpler' kullanıldığında Sahnenin başlangıcında, tüm 'Kukla İpleri' kaldırılır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1407012">
+    <Name>Serbest Bırakılmış Et</Name>
+    <Desc>Öldükten sonra, Perdenin geri kalanı için her Sahnenin başlangıcında tüm Kütüphaneciler 1-3 Acele kazanır ve tüm Zarları +1 Güç kazanır.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="1406011">
+    <Name>Şiddetli Fırtına</Name>
+    <Desc>Sahnenin sonunda, tüm Kütüphaneciler 3-5 Hasar alır. Jae-heon'un Saldırı Zarları '[Vurduğunda] 1 Kanama uygular' kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1406012">
+    <Name>Şiddetli Kasırga</Name>
+    <Desc>Öldükten sonra, Perdenin geri kalanı için tüm Kütüphaneciler saldırılarla +3 Hasar verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1406013">
+    <Name>Savaşmaya Yönelik Ateşli Kararlılık</Name>
+    <Desc>Sahnenin sonunda başka müttefik yoksa, Perdenin geri kalanı için 1 Güç ve Dayanıklılık kazanır ve 2 Hız Zarı kazanır.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="170006">
+    <Name>Algıyı Engelleyen Maske</Name>
+    <Desc>En düşük hıza sahip bir Hız Zarı hedeflenemez hale gelir.</Desc>
+  </PassiveDesc>
+  
+  
+    <PassiveDesc ID="180001">
+    <Name>Bir Hakem</Name>
+    <Desc></Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="180002">
+    <Name>Bir Pençe</Name>
+    <Desc></Desc>
+  </PassiveDesc>
+  
+    <PassiveDesc ID="180104">
+    <Name>Gebura'nın Becerisi</Name>     <Desc>Bir Savaş Sayfası kullandığında, o Sayfadaki tüm Zarlar, daha düşük Hıza sahip Hedeflere karşı Güç kazanır. (2 puan fark için +1 Güç, 5'e kadar)</Desc>
+  </PassiveDesc>
+  
+    <PassiveDesc ID="180005">
+    <Name>Bir Hakem</Name>
+    <Desc>Sahnenin başlangıcında, eldeki Sayfa sayısı 5 olana kadar çeker.</Desc>
+  </PassiveDesc>
+  
+
+    <PassiveDesc ID="10112">
+    <Name>Yorgunluk</Name>
+    <Desc>Savaşa %25 daha az Can ile başlar</Desc>
+  </PassiveDesc>
+
+  
+  <PassiveDesc ID="252001">
+    <Name>Merhamet</Name>
+    <Desc>Saldırı Zarları, %10'dan daha az Can'a sahip Hedeflere karşı +1 Güç kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="252002">
+    <Name>Sivri Uç</Name>
+    <Desc>Delme Zarları +2 Güç kazanır ve Kesme ve Vurma Zarları -2 Güç kaybeder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="252003">
+    <Name>Zırhtaki Çatlak</Name>
+    <Desc>Bir Yakın Dövüş Savaş Sayfası kullanıldığında, bu karakterin Hızı Hedefinkinden 3 veya daha fazla fazlaysa, Hedefin sahip olduğu bir Blok Zarını yok eder.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="234001">
+    <Name>Anlaşma</Name>
+    <Desc>Karakter bir Sayfayı ıskarta ederse, sonraki Sahnenin başlangıcında 1 Sayfa çeker.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="234002">
+    <Name>Desteyi İstifleme</Name>
+    <Desc>Karakter bir Sayfayı ıskarta ederse, Sahnenin sonunda 1 Işık yeniler.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="253001">
+    <Name>Serap</Name>
+    <Desc>Sahnenin sonunda, Sahne boyunca alınan Şok Hasarının yarısını yeniler. (Minimum 1; Şoktayken etkinleşmez)</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="253002">
+    <Name>Şahin Gözü</Name>
+    <Desc>Sahnenin sonunda, en fazla Hasarı alan müttefike 2 Koruma verir.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="253003">
+    <Name>Haboob</Name>
+    <Desc>Sahne başına bir kez, Tek-taraflı bir saldırı aldıktan sonra, sonraki Sahnede 1 Koruma ve Şok Koruması kazanır.</Desc>
+  </PassiveDesc>
+
+    <PassiveDesc ID="254001">
+    <Name>Sigorta Faydaları</Name>
+    <Desc>Karakter bir Sahnede 1 veya daha fazla Tek-taraflı saldırı aldıysa, 1 Işık yeniler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="254002">
+    <Name>Poliçe Formu</Name>
+    <Desc>Sahnenin sonunda, sonraki Sahnede bu karaktere uygulanabilecek bir durum sorununun (Zayıflık, Silahsızlandırma veya Bağlanma) tüm Birikimlerini kaldırır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="254003">
+    <Name>Hayat Sigortası</Name>
+    <Desc>Aktarılamaz. Sahnenin sonunda, bir karakterin Canı %30 veya daha az ise, ele 'Hayat Sigortası'nın bir kopyasını ekler.</Desc>
+  </PassiveDesc>
+  
+
+    <PassiveDesc ID="255001">
+    <Name>Taşan Duman</Name>
+    <Desc>Sahnenin sonunda, bir karakter 8 veya daha fazla Duman etkisine sahipse, sonraki Sahnede 1 Güç kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="255002">
+    <Name>Aşırı Talep</Name>
+    <Desc>Bir karakter 10 veya daha fazla Duman etkisine sahipse, saldırılarla +3 Hasar verir.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="255003">
+    <Name>Anında Onarım</Name>
+    <Desc>Şok olduğunda, Şoktan kurtulur ve Şok Direncini tamamen yeniler (Perde başına bir kez).</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="255004">
+    <Name>Delilik</Name>
+    <Desc>Sahnenin başlangıcında, aşağıdaki etkilerden birini kazanır:
+- 2 Güç
+- 2 Acele
+- 2 Dayanıklılık
+- 5 Kırılganlık</Desc>
+  </PassiveDesc>
+  
+    <PassiveDesc ID="256001">
+    <Name>Saldırı Pozisyonu</Name>
+    <Desc>Sahnenin başlangıcında, kendine 3 Kırılganlık uygular ve 1 Güç kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="256002">
+    <Name>Zihinselleştirme</Name>
+    <Desc>Karakter hiç Sayfa kullanmadıysa Sahnenin sonunda 1 Işık yeniler ve 1 Sayfa çeker.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="256003">
+    <Name>Hazırlıklı Pozisyon</Name>
+    <Desc>Karakter önceki Sahnede 'Hareketsizlik' aldıysa, 1 Güç, 2 Koruma ve Şok Koruması kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="256004">
+    <Name>Kırmaya Hazır</Name>
+    <Desc>Her 3 Sahnede bir 'Hassasiyetle Kır' Savaş Sayfasını kullanır.</Desc>
+  </PassiveDesc>
+
+
+  <PassiveDesc ID="240010">
+    <Name>Akrobatik</Name>
+    <Desc>Menzil Saldırı Hasarı +1</Desc>
+  </PassiveDesc>
+   
+</PassiveDescRoot>
