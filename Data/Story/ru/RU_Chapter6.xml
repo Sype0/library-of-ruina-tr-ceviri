@@ -6093,7 +6093,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Roland_3</VoiceFile>
-          <Content>Beyaz Geceler ve Kara Günler boyunca parlayan ışığın, sadece Çarpıklık veya Ö.E.G yaratmaktan daha fazla etkisi olmuş, ha?...</Content>
+          <Content>Beyaz Geceler ve Kara Günler boyunca parlayan ışığın, sadece Çarpıklık veya E.G.O yaratmaktan daha fazla etkisi olmuş, ha?...</Content>
         </Dialog>
         <Dialog ID="89" Model="롤랑">
           <Teller>Roland</Teller>
@@ -6594,7 +6594,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Angela_32</VoiceFile>
-          <Content>Emin değilim. Tam olarak bir Çarpıklık mı yoksa Ö.E.G. mi olduğunu söyleyemem.</Content>
+          <Content>Emin değilim. Tam olarak bir Çarpıklık mı yoksa E.G.O. mi olduğunu söyleyemem.</Content>
         </Dialog>
         <Dialog ID="2" Model="롤랑">
           <Teller>Roland</Teller>
@@ -7344,13 +7344,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_11</VoiceFile>
-          <Content>Kırmızı Sis'in kullandığı o büyük kırmızı kılıç ve kıyafetler Ö.E.G. idi, değil mi?</Content>
+          <Content>Kırmızı Sis'in kullandığı o büyük kırmızı kılıç ve kıyafetler E.G.O. idi, değil mi?</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_61</VoiceFile>
-          <Content>Bildiğim kadarıyla, o kızıl kılıç, şans eseri elde edilmiş bir Ö.E.G. prototipiydi.</Content>
+          <Content>Bildiğim kadarıyla, o kızıl kılıç, şans eseri elde edilmiş bir E.G.O. prototipiydi.</Content>
         </Dialog>
         <Dialog ID="2" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7368,25 +7368,25 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_63</VoiceFile>
-          <Content>O, Kali'nin bizzat ortaya çıkardığı Kırmızı Sis'in Ö.E.G.'sidir.</Content>
+          <Content>O, Kali'nin bizzat ortaya çıkardığı Kırmızı Sis'in E.G.O.'sidir.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_13</VoiceFile>
-          <Content>Hah... Eğer ortaya çıkarılmış bir Ö.E.G. bu kadar güçlüyse, Şehir'in tüm besin zincirini tersine çevirebilir.</Content>
+          <Content>Hah... Eğer ortaya çıkarılmış bir E.G.O. bu kadar güçlüyse, Şehir'in tüm besin zincirini tersine çevirebilir.</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_64</VoiceFile>
-          <Content>Şu ana kadar fark etmiş olmalısın, ama tüm Ö.E.G.'ler aynı güce sahip değildir.</Content>
+          <Content>Şu ana kadar fark etmiş olmalısın, ama tüm E.G.O.'ler aynı güce sahip değildir.</Content>
         </Dialog>
         <Dialog ID="7" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_65</VoiceFile>
-          <Content>Kali'nin yaptığı kadar gücü Ö.E.G.'den çok az insanın çıkarabildiğini söylemek daha doğru olur.</Content>
+          <Content>Kali'nin yaptığı kadar gücü E.G.O.'den çok az insanın çıkarabildiğini söylemek daha doğru olur.</Content>
         </Dialog>
         <Dialog ID="8" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7404,7 +7404,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_15</VoiceFile>
-          <Content>Peki, şimdi anladın mı? Çarpıklık, Ö.E.G. ve Anormallikler arasındaki tüm ilişkiyi?</Content>
+          <Content>Peki, şimdi anladın mı? Çarpıklık, E.G.O. ve Anormallikler arasındaki tüm ilişkiyi?</Content>
         </Dialog>
         <Dialog ID="11" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7422,7 +7422,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_69</VoiceFile>
-          <Content>Eğer öyle olsaydı, Şehir'deki herkes kendi Ö.E.G.'sini ortaya çıkarabilir ve bu onlara zenginlikleri veya sosyal statüleri ne olursa olsun, gereksiz bir ölümü önleme gücü verirdi.</Content>
+          <Content>Eğer öyle olsaydı, Şehir'deki herkes kendi E.G.O.'sini ortaya çıkarabilir ve bu onlara zenginlikleri veya sosyal statüleri ne olursa olsun, gereksiz bir ölümü önleme gücü verirdi.</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7434,7 +7434,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_71</VoiceFile>
-          <Content>Bazıları ortaya çıkardıkları Ö.E.G.'yi kaybetmiş olabilir, ama hiç kimse kendi Ö.E.G.'sine hakim olamaz ve bir Anormallik haline gelemezdi.</Content>
+          <Content>Bazıları ortaya çıkardıkları E.G.O.'yi kaybetmiş olabilir, ama hiç kimse kendi E.G.O.'sine hakim olamaz ve bir Anormallik haline gelemezdi.</Content>
         </Dialog>
         <Dialog ID="16" Model="롤랑">
           <Teller>Roland</Teller>
@@ -7464,19 +7464,19 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_75</VoiceFile>
-          <Content>Tabiri caizse, kendi Ö.E.G.'leri tarafından tüketildiler.</Content>
+          <Content>Tabiri caizse, kendi E.G.O.'leri tarafından tüketildiler.</Content>
         </Dialog>
         <Dialog ID="21" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Angela_76</VoiceFile>
-          <Content>Sonuçta, Ö.E.G. ve Anormallik arasında çok ince bir çizgi var.</Content>
+          <Content>Sonuçta, E.G.O. ve Anormallik arasında çok ince bir çizgi var.</Content>
         </Dialog>
         <Dialog ID="22" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_17</VoiceFile>
-          <Content>... Bu Fenomen için ön koşul nedir, ister Ö.E.G. olsun ister Çarpıklık?</Content>
+          <Content>... Bu Fenomen için ön koşul nedir, ister E.G.O. olsun ister Çarpıklık?</Content>
         </Dialog>
         <Dialog ID="23" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -7506,7 +7506,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Red_Mist_ep1_Roland_19</VoiceFile>
-          <Content>Eğer dediğin doğruysa, Şehir Anormallikler ve Ö.E.G. kullanan insanlarla dolu olurdu.</Content>
+          <Content>Eğer dediğin doğruysa, Şehir Anormallikler ve E.G.O. kullanan insanlarla dolu olurdu.</Content>
         </Dialog>
         <Dialog ID="28" Model="앤젤라">
           <Teller>Angela</Teller>
