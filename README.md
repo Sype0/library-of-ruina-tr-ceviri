@@ -38,12 +38,14 @@ Yamayı kurmak için aşağıdaki adımları izleyin:
    - Oyunu başlatın ve ayarlardan dili kontrol edin.
 
 ---
-
 ## 📸 Ekran Görüntüleri
-
-> ![Ana Menü](http://keddiiigörseleklemeyiunutmussun.com)
-> ![Diyalog](http://lolang.com)
-
+­
+    <img src="https://media.discordapp.net/attachments/1423730430921936966/1439341486679396442/image.png?ex=691a2ab8&is=6918d938&hm=3825b98f56ec750ecb8a755dd7ba53657a94ac44ad61afd93bd4f2ceaefb6a61&=&format=webp&quality=lossless&width=1523&height=856" 
+         alt="Diyalog" 
+         style="height: 250px; margin-right: 10px; border-radius: 4px;">
+    <img src="https://media.discordapp.net/attachments/1423730430921936966/1439342353159688312/image.png?ex=691a2b86&is=6918da06&hm=f21219cb5f0efc8f025f371ce0ae342fb844adbeef15cef3bcc4f52bfb784e67&=&format=webp&quality=lossless&width=1522&height=856" 
+         alt="Intro" 
+         style="height: 250px; border-radius: 4px;"> 
 ---
 
 ## ✨ Emeği Geçenler
