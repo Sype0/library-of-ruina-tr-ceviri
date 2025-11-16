@@ -30,7 +30,7 @@ Bu proje kapsamında oyunun arayüzü, diyalogları, savaş kartları ve Abnorma
 Yamayı kurmak için aşağıdaki adımları izleyin:
 
 1. **Gereksinimler:**
-   - [BaseMod] veya gerekli mod yükleyicisinin kurulu olması gerekir.
+   - Oyunun mod desteği olan sürümünün (1.1.0.6 veya daha yeni) sizde olması gerekiyor.
 
 2. **Yükleme:**
    - Bu sayfanın sağ tarafındaki **[Releases]** kısmından son sürümü indirin.
