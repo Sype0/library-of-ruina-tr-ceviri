@@ -2,6 +2,7 @@
 
 ![Durum](https://img.shields.io/badge/Durum-Geliştiriliyor-yellow)
 ![Oyun Sürümü](https://img.shields.io/badge/Oyun%20Sürümü-v1.1.0.6-blue)
+![Yama Sürümü](https://img.shields.io/badge/Yama%20Sürümü-v0.1-red)
 
 <img src="https://media.discordapp.net/attachments/1423730430921936966/1424489120188731432/thumbnail.jpg?ex=6919871f&is=6918359f&hm=4184100848a4c23d9980b3a1760b6c420cb7c8e94d76da1dac610509655cb1b1&=&format=webp&width=1522&height=856" alt="Library of Ruina Türkçe Yama Önizleme" width="300px" align="right" style="margin-left: 15px;">
 
