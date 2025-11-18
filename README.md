@@ -44,7 +44,7 @@ Yamayı kurmak için aşağıdaki adımları izleyin:
     <img src="/screenshots/ss1.png" 
          alt="Diyalog" 
          style="height: 250px; margin-right: 10px; border-radius: 4px;">
-    <img src="/screenshots/ss2" 
+    <img src="/screenshots/ss2.png" 
          alt="Intro" 
          style="height: 250px; border-radius: 4px;"> 
 ---
