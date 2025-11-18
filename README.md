@@ -53,7 +53,7 @@ Yamayı kurmak için aşağıdaki adımları izleyin:
 
 Bu projeyi geliştiren ekip:
 
-* **[A]**
+* **[Sype](https://github.com/Sype0)**
 * **[Detaylı Oynamak](https://www.youtube.com/@Detayl%C4%B1Oynamak)**
 
  > Bu projeyi mümkün kılan [Detaylı Oynamak Topluluğu'na](https://discord.gg/A7ktrBUFTR) ayrıca teşekkürler ❤️
