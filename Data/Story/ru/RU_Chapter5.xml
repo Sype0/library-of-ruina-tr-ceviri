@@ -1180,7 +1180,7 @@
           <Teller>Jae-heon</Teller>
           <Title>Doktor?</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Jaeheon12-01</VoiceFile>
-          <Content>Şey, hepsi Meclis'teki arkadaşlarıma teşekkürler. Ben ve dürtüsel Elena sadece bir hafta kadar buradayız...</Content>
+          <Content>Şey, hepsi Meclis'teki arkadaşlarım sayesinde. Ben ve dürtüsel Elena sadece bir hafta kadar buradayız...</Content>
         </Dialog>
         <Dialog ID="12" Model="재헌">
           <Teller>Jae-heon</Teller>
