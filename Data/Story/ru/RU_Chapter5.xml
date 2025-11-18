@@ -1526,7 +1526,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch5_Puppeteer_ep1_Angela4</VoiceFile>
-          <Content>Bu arada, birinci sınıf vagonlardaki tüm yolcuların kaybolduğu duyulursa WARP corp. başı büyük belada demektir.</Content>
+          <Content>Bu arada, birinci sınıf vagonlardaki tüm yolcuların kaybolduğu duyulursa WARP corp'un başı büyük belada demektir.</Content>
         </Dialog>
         <Dialog ID="69" Model="롤랑">
           <Teller>Roland</Teller>

@@ -13331,7 +13331,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chesed_ep1_roland2</VoiceFile>
-          <Content>Mmmmmmmmm, kahve kokuyor mu?</Content>
+          <Content>Mmmmmmmmm, kahve mi kokuyor?</Content>
         </Dialog>
         <Dialog ID="2" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13361,13 +13361,13 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chesed_ep1_roland4</VoiceFile>
-          <Content>Tamam, sanırım bir süredir ilk fincanımı deneyeceğim.</Content>
+          <Content>Tamam, Kahve içmeyeli uzun zaman oldu.</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chesed_ep1_roland5</VoiceFile>
-          <Content>Ah! Bu nasıl kahve olur? Bozuk olmadığından emin misin?</Content>
+          <Content>Ah! Bu nasıl bir kahve? Bozuk olmadığından emin misin?</Content>
         </Dialog>
         <Dialog ID="8" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13415,7 +13415,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chesed_ep1_roland8</VoiceFile>
-          <Content>Ne? Kahve içine şeker attığın sert, acı bir içecek değil mi sanıyordum?</Content>
+          <Content>Ne? Kahvenin içine şeker atılabilen, boğucu, acı bir içecek olması gerekmiyor muydu?</Content>
         </Dialog>
         <Dialog ID="16" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13499,7 +13499,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chesed_ep1_roland15</VoiceFile>
-          <Content>Ve sonra aniden trajedi yaşandı mı?</Content>
+          <Content>Ve sonra aniden trajedi yaşandı öyle mi?</Content>
         </Dialog>
         <Dialog ID="30" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13517,13 +13517,13 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chesed_ep1_roland17</VoiceFile>
-          <Content>Bazen benim başıma gelen olayların da aniden gelmediğini düşünüyorum.</Content>
+          <Content>Bazen başıma gelen trajik olayın hiç de öyle birdenbire ortaya çıkmadığını düşünüyorum.</Content>
         </Dialog>
         <Dialog ID="33" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chesed_ep1_roland18</VoiceFile>
-          <Content>En başından mahvolmuştum. Olması kaçınılmazdı.</Content>
+          <Content>En başından mahvolmuştum, orasi besbelli.</Content>
         </Dialog>
         <Dialog ID="34" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13553,13 +13553,13 @@ Yardımınız için minnettarım.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bil.</Title>
           <VoiceFile>ch8_Chesed_ep1_chesed19</VoiceFile>
-          <Content>Kali bir süre sonra kahveyi sevmeye başlamıştı, eminim sen de keyif alacaksın, Roland.</Content>
+          <Content>Kali bir süredir denedikten sonra kahveye iyice düşkün oldu; o yüzden eminim, sen de sonunda bundan zevk almaya başlayacaksın, Roland~</Content>
         </Dialog>
         <Dialog ID="39" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chesed_ep1_roland21</VoiceFile>
-          <Content>Pekala, hala umut var.</Content>
+          <Content>Pekala, hala kahveden umutluyum.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -13697,7 +13697,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chesed_ep2_roland12</VoiceFile>
-          <Content>Oldukça yorucu olmalıydı.</Content>
+          <Content>Oldukça yorucu olmalı...</Content>
         </Dialog>
         <Dialog ID="22" Model="헤세드">
           <Teller>Chesed</Teller>

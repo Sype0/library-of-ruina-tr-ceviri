@@ -835,15 +835,15 @@
   </PassiveDesc>
   <PassiveDesc ID="705121">
     <Name>Anlayisli Hasat</Name>
-    <Desc>Her 3 Sahne'de bir, ek bir Hiz Zari kazanir ve 'Bilgelik Biçme' Sayfasini kullanir, bu Sayfa Hedefin Savas Sayfasini emer ve vurdugunda kullanicinin Canini yeniler. Hedefin emecek Savas Sayfasi yoksa, bunun yerine ek (5~20) Hasar verir.</Desc>
+    <Desc>Her 3 Sahne'de bir, ek bir Hiz Zari kazanir ve 'Bilgelik Toplama' Sayfasini kullanir, bu Sayfa Hedefin Savas Sayfasini emer ve vurdugunda kullanicinin Canini yeniler. Hedefin emecek Savas Sayfasi yoksa, bunun yerine ek (5~20) Hasar verir.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705122">
     <Name>Bilge'nin Dinginligi</Name>
-    <Desc>'Bilgelik Biçme' 'Bilgelik' ile karsilastiginda, Biçici (kullanici) savas sonunda 20 Sersemletme Hasari alir ve sonraki Sahne'de 3 Kirilganlik ve Baglama kazanir.</Desc>
+    <Desc>'Bilgelik Toplama' 'Bilgelik' ile karsilastiginda, Biçici (kullanici) savas sonunda 20 Sersemletme Hasari alir ve sonraki Sahne'de 3 Kirilganlik ve Baglama kazanir.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705123">
     <Name>Beyin Çabasi</Name>
-    <Desc>'Bilgelik Biçme' ile 'Bilgelik' olmayan bir Sayfayi emdikten sonra, emilen Sayfa sayisi kadar Güç ve Sertlik kazanir ve emilen Sayfalardan birini kullanir.</Desc>
+    <Desc>'Bilgelik Toplama' ile 'Bilgelik' olmayan bir Sayfayi emdikten sonra, emilen Sayfa sayisi kadar Güç ve Sertlik kazanir ve emilen Sayfalardan birini kullanir.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705124">
     <Name>Beyin Arama</Name>

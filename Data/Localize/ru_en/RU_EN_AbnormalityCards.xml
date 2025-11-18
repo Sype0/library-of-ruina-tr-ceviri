@@ -52,7 +52,7 @@ Bu Anormallik Kartini seçtikten sonra Kütüphanecinin kullandigi ilk iki Savas
       <CardName>Özlem Dolu Anilar</CardName>
       <AbilityDesc>[Yalnizca Bir Müttefik]
 Bir Çatisma kazandiginda, %20 sansla Zardaki degere esit ek  Sersemleme Hasari ver.
-Ayni hedefe çok sik çatismak sansi artirir.</AbilityDesc>
+Ayni hedefe sürekli çatismak sansi artirir.</AbilityDesc>
       <FlaborText>Ayi birine sikica sariliyordu. Ayi sarilmayi sever. Ama bir sey garipti.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Bana sikica saril, olur mu? Zihnini yatistirir.</Dialogue>
