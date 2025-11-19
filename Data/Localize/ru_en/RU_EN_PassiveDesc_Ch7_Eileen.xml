@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1302011">
+    <Name>Düşünce Çarkı: Hedef</Name>
+    <Desc>Önceki Sahne Eileen'a saldıran son düşmanı hedeflemeyi önceliklendirir.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1302012">
+    <Name>Düşünce Çarkı: Tahmin</Name>
+    <Desc>Sahne başına bir kez, Tek Taraflı bir saldırıya bir Kaçınma Zarıyla [Atış: 5-10] yanıt verir. (Her iki karakterin de Savaş Sayfası kullandığı Çatışmalarda oynanmaz)</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1302013">
+    <Name>Et Çarkı: Üretim</Name>
+    <Desc>Aşama her değiştiğinde, yenilen her Çark Tapanı için bir Çark Tapanı belirir.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1302014">
+    <Name>Et Çarkı: Ölme</Name>
+    <Desc>Bir Çark Tapanı öldükten sonraki Sahne, 'Düşünce Çarkı: Beyin Yıkama' Savaş Sayfasını kullanır.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1302015">
+    <Name>İnananların Şevki</Name>
+    <Desc>Aşama sonunda hayatta olan Tapanlar Canlarını ve Sersemletme Dirençlerini tamamen iyileştirir.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1302016">
+    <Name>Et Çarkı: Rol</Name>
+    <Desc>Bir Çark Tapanı yenildiğinde, Eileen Sahne sonunda 125 Sersemletme Hasarı alır.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1302017">
+    <Name>İnananların İnancı</Name>
+    <Desc>Eileen'ın Canı 350'ye ulaştığında, aşama değişene kadar bu limitin altına düşmez; aynısı 150 Can için de geçerlidir. Eileen'ın Canı limite ulaştıktan sonra, savaş bir sonraki aşamaya ilerler.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1402011">
+    <Name>Fümigasyon Dumanı</Name>
+    <Desc>Her Sahne, tüm müttefikler bu karakterin sahip olduğu Duman miktarına eşit Duman kazanır.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1402012">
+    <Name>Aerosol Yayılımı</Name>
+    <Desc>Hayatta olduğu sürece, tüm müttefikler 'Derin Sis' etkisini kazanır.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1402013">
+    <Name>Taşan Pas</Name>
+    <Desc>Ölümde, tüm müttefikler 10 Duman alır ve 'Derin Sis' etkisini kaybeder.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="1402014">
+    <Name>Tahmin</Name>
+    <Desc>Her 5 Sahne: 'Düşünce Çarkı: Geliş'in bir kopyası ele eklenir, aynı Sahne kullanılır.</Desc>
+  </PassiveDesc>
+ 
+</PassiveDescRoot>

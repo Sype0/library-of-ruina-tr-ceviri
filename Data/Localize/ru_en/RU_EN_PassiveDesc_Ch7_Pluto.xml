@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1309011">
+    <Name>Işıldama</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüket; ele yeni Sayfalar ekle. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1309012">
+    <Name>Dünün Sözü</Name>
+    <Desc>İkinci Sahne'de, bir Kütüphaneci Asistanının görünümünü, istatistiklerini ve Savaş Sayfalarını kopyalayan 4 Gölge çağırır. Tüm Gölgeler yenildiğinde, bir sonraki aşamaya ilerler.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1309013">
+    <Name>Büyülü Engel</Name>
+    <Desc>Durum sorunlarına karşı bağışıklıdır. Sapmalardan Hasar almaz. (Yalnızca ilk Aşama sırasında aktiftir)</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="1309014">
+    <Name>İlginçleşiyor</Name>
+    <Desc>Sersemletme Direnci değişir. Her 5 Sahne bir Alan Saldırısı Sayfası kullanır. O Sayfadaki Zar'ın hedeflerine Hasar vermeyi başaramama sayısıyla orantılı Sersemletme Hasarı alır.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="1309021">
+    <Name>Işıldama</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüket; ele yeni Sayfalar ekle. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1309022">
+    <Name>Gölge</Name>
+    <Desc>Kopyalanan Kütüphaneci ile aynı Can, Sersemletme Direnci, Dirençler ve Pasif Yeteneklere sahiptir. Savaş Sayfalarını kullanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1309023">
+    <Name>BEN GERÇEĞİM!!!</Name>
+    <Desc>Her 2 Sahne bir Güçlü Savaş Sayfası kullanır.</Desc>
+  </PassiveDesc>
+</PassiveDescRoot>

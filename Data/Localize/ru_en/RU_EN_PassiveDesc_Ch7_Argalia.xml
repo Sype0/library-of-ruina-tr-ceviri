@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <PassiveDesc ID="1300001">
+    <Name>Yeni Dokuma</Name>
+    <Desc>Saldırılardan 1-2 daha az Hasar ve Sersemletme Hasarı alır.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="1310011">
+    <Name>Işıldama</Name>
+    <Desc>Her sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüket; ele yeni Sayfalar ekle. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1310012">
+    <Name>Rezonans</Name>
+    <Desc>Argalia'nın Hızı Hedefin Titreşimi ile aynıysa güçlenen bir Savaş Sayfası olan 'Rezonans'ı kullanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1310013">
+    <Name>Doğaçlama Final</Name>
+    <Desc>Can 25'e düştüğünde, tüm durum sorunlarını kaldırır ve tüm Sersemletme Direncini iyileştirir. Bundan sonra, 'Doğaçlama Final' Savaş Sayfasını kullanır.
+Bu gerçekleşene kadar Can 25'in altına düşmez.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1310014">
+    <Name>Taahhüt</Name>
+    <Desc>Hareketsizliğe karşı bağışıklıdır. Rakibin maksimum Can ve Sersemletme Direnci artar. 
+Rakibin Zar sayısı, Sahne başına çekilen Sayfa ve Işık iyileşmesi 2 artar.
+
+Sahne sonunda başka müttefik yoksa, bir sonraki Sahne 3 Güç kazanır.</Desc>
+  </PassiveDesc>
+ 
+</PassiveDescRoot>

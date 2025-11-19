@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1306011">
+    <Name>Işıldama</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüket; ele yeni Sayfalar ekle. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1306012">
+    <Name>Kurt Saati</Name>
+    <Desc>Sahnenin başlangıcında, Hedeflenemez düşman yoksa, 'Hedeflenemez' etkilerini kaldır ve bu etkilere sahip olanlara 2 Koruma ve Sersemleme Koruması ver.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1306013">
+    <Name>İkinci Tur Saati</Name>
+    <Desc>Canı 1'e düştüğünde, Canını ve Sersemleme Direncini tamamen iyileştirir ve tüm durum sorunlarını kaldırır. Bu gerçekleşmeden önce Can 0'a düşemez. (Perde başına bir kez)
+Bundan sonra, Perdenin geri kalanı için 2 Güç ve Dayanıklılık kazanır.</Desc>
+  </PassiveDesc>
+ 
+</PassiveDescRoot>

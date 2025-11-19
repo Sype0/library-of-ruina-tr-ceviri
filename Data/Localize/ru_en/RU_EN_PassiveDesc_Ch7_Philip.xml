@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1301011">
+    <Name>Işıldama</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüket; ele yeni Sayfalar ekle. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1301012">
+    <Name>Kavurucu Kılıç</Name>
+    <Desc>Aşırı Isınmış durumdayken: vurduğunda Hedefe 1 Yakma verir ve saldıran vurduğunda saldıran kişiye 1 Yakma verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1301013">
+    <Name>Kavurucu Kılıç</Name>
+    <Desc>Aşırı Isınmış durumdayken: vurduğunda Hedefe 1 Yakma verir ve saldıran vurduğunda saldıran kişiye 1 Yakma verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1301014">
+    <Name>Alevli Kılıç</Name>
+    <Desc>Vurduğunda Hedefe 1 Yakma verir ve saldıran vurduğunda saldıran kişiye 1 Yakma verir.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1301015">
+    <Name>Soğumuş Kalp</Name>
+    <Desc>Yakma Hasarı almaz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1301016">
+    <Name>Kor Kılıcı</Name>
+    <Desc>Savaş Sayfalarını kullanarak Yakma uyguladığınızda, fazladan +1 uygular.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1301017">
+    <Name>Duygular</Name>
+    <Desc>Duygu Seviyesi yükseldiğinde, kendiniz dahil tüm karakterlere 3 Yakma verir.
+Mevcut Duygu Seviyesinin yarısı bölü 2 kadar Güç kazanır (Aşağı Yuvarlanır)</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="1301018">
+    <Name>Aşırı Isınma</Name>
+    <Desc>Karakter Sahnenin başlangıcında 15 veya daha fazla Yakma'ya sahipse, Aşırı Isınmış durumunu alır, saldırılarla daha fazla Hasar verir ancak Sersemletme Hasarına karşı daha savunmasız hale gelir.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1301019">
+    <Name>Kaynayan Kalp</Name>
+    <Desc>Maksimum Can %60'ın altına düşmez. Sersemletildiğinde, bir sonraki aşamaya ilerler, Dirençleri değiştirir ve kendindeki tüm durum sorunlarını kaldırır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1301030">
+    <Name>Solmuş Zihin</Name>
+    <Desc>Konuşamayan bir Çocuk yenildiğinde, bir sonraki Sahne şimdiye kadar yenilen Konuşamayan Çocuk sayısına göre Güç kaybeder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1301032">
+    <Name>Yanan Kalp</Name>
+    <Desc>Maksimum Can %30'un altına düşmez. Sersemletildiğinde, bir sonraki aşamaya ilerler, Dirençleri değiştirir ve kendindeki tüm durum sorunlarını kaldırır.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="1301021">
+    <Name>Tutuşturulmuş Kalp</Name>
+    <Desc>Yarı Yakma Hasarı alır. Belirdikten sonraki Sahneden başlayarak, her Sahne 1 Güç ve Dayanıklılık kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1301022">
+    <Name>Aşırı Isınma</Name>
+    <Desc>Karakter Sahnenin başlangıcında 15 veya daha fazla Yakma'ya sahipse, Aşırı Isınmış durumunu alır, saldırılarla daha fazla Hasar verir ancak Sersemletme Hasarına karşı daha savunmasız hale gelir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1301023">
+    <Name>Yanma</Name>
+    <Desc>Aşırı Isınmış durumdayken: her Sahne 3 Kırılgan kazanır ve vurduğunda Hedefe 1 Yakma verir. Ayrıca, farklı bir Savaş Sayfası destesi kullanır.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1401011">
+    <Name>Ödünç Alınan Alevler</Name>
+    <Desc>Hayatta olduğu sürece, müttefiklerin her çatışmada oynadığı ilk Saldırı Zarı 1 Yakma verir.
+Öldükten sonra, müttefikler vurduğunda 1 Yakma alır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1401012">
+    <Name>Süper Isı</Name> <Desc>Karakter Sahnenin başlangıcında 10 veya daha fazla Yakma'ya sahipse, daha fazla Hasar veren Aşırı Isınmış durumunu alır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1401014">
+    <Name>Kavurucu Çaresizlik</Name>
+    <Desc>Her 3 Sahne: 'Kavurucu Çaresizlik' ele eklenir, aynı Sahne kullanılır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1401017">
+    <Name>Kısıtlamalar</Name>
+    <Desc>3 veya daha fazla 'Kısıtlama' birikimine sahip bir Hedefe vurulduğunda, bir sonraki Sahne Hareketsizleştirir.</Desc>
+  </PassiveDesc>
+</PassiveDescRoot>

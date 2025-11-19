@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1303011">
+    <Name>Işıldama</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüket; ele yeni Sayfalar ekle. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1303012">
+    <Name>Zorlu ve Hazır</Name>
+    <Desc>Can %30'un altına düşmez. Can %40 veya daha aza düşerse, bir sonraki aşamaya ilerler.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="1303013">
+    <Name>Kızgın Ziyafet</Name>
+    <Desc>Aşama başladığında, tüm Taze Et'i yener ve Et'in sahip olduğu miktara göre Can iyileştirir. Ayrıca, 1 Güç kazanır.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1303014">
+    <Name>Yenileyici Hücreler</Name>
+    <Desc>Perdenin başlangıcında, 20 Esneklik kazanır. Her 5 Sahne, kendindeki tüm durum sorunlarını kaldırır ve 10 Esneklik kazanır.</Desc>
+  </PassiveDesc>
+   <PassiveDesc ID="1303015">
+    <Name>Köpekbalığı Derisi</Name>
+    <Desc>Her Sahne 3 Koruma kazanır. Kanama etkisine sahipken saldırılardan +3 ek Hasar alır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1303016">
+    <Name>Durdurulamaz Zulüm</Name>
+    <Desc>Sersemletilemez. Sersemletme Direnci 0'a düştüğünde, bunun yerine 100 Can kaybeder ve bir sonraki Sahne 1 Güç kazanır.</Desc>
+  </PassiveDesc>
+
+   <PassiveDesc ID="1403011">
+    <Name>Köpekbalığı Koruması</Name>
+    <Desc>Hayatta olduğu sürece, diğer tüm müttefikler 1 Koruma ve Sersemletme Koruması kazanır.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1403012">
+    <Name>Garde Perdue</Name> <Desc>Ölümde, bir sonraki Sahne tüm müttefikler 5 Kırılgan alır.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1403013">
+    <Name>Yaraya Tuz Basmak</Name>
+    <Desc>Eğer Hedefte 5 veya daha fazla Kanama varsa, bu oyuncunun bir çatışmada kullandığı ilk Zar vurduğunda 1 Kırılganlık verir.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1403014">
+    <Name>Deri Yenilenmesi</Name>
+    <Desc>Karakter bir Sahne boyunca herhangi bir saldırı tarafından vurulmazsa, 10 Can iyileştirir ve 1 Güç kazanır.</Desc>
+  </PassiveDesc>
+
+</PassiveDescRoot>

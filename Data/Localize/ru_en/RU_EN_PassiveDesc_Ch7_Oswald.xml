@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1305011">
+    <Name>Işıldama</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüket; ele yeni Sayfalar ekle. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1305012">
+    <Name>Dikkatin Dağılmasına Vakit Yok!</Name>
+    <Desc>Saldırılardan ve Sapmalardan yarı Sersemletme Hasarı alır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1305013">
+    <Name>Aslında, Bir El Yardıma İhtiyacımız Olabilir mi~?</Name>
+    <Desc>İkinci Sahne, en yüksek Can'a sahip Kütüphaneciyi Şaşkın hale getiren bir Savaş Sayfası kullanır.
+Bir Kütüphaneci Şaşkın durumundan çıktıktan sonra, Sayfa 2 Sahne içinde kullanılacaktır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1305014">
+    <Name>İşbirlikçi Performans</Name>
+    <Desc>Sahnenin başlangıcında, Şaşkın Kütüphaneciye 1 Güç, 1 Dayanıklılık ve 3 Koruma verir. Kütüphaneci Sersemletildiğinde: Sahne sonunda 60 Sersemletme Hasarı alır.
+Kütüphaneci 2 kez Şaşkın durumundan kurtulduktan sonra, bir sonraki Sahne bir Alan Saldırısı Sayfası kullanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1305021">
+    <Name>Senin Yanında Performans Sergilemek Bir Zevkti…!</Name>
+    <Desc>Bu karakter yenildiğinde, Oswald Sahne sonunda 40 Sersemletme Hasarı alır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1305022">
+    <Name>Işıldama</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüket; ele yeni Sayfalar ekle. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1305031">
+    <Name>Işıldama</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüket; ele yeni Sayfalar ekle. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+</PassiveDescRoot>

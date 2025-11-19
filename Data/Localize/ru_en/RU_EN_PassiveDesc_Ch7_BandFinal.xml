@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <PassiveDesc ID="1410011">
+    <Name>Işıldama</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüket; ele yeni Sayfalar ekle. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1410012">
+    <Name>Yankı Topluluğu'nun Direktörü</Name>
+    <Desc>Pluto veya Elena hayatta olduğu sürece, Can 100'ün altına düşmez. Bu Resepsiyon'da ölen diğer Topluluk üyelerinin her biri için bir Hız Zarı kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1410013">
+    <Name>Yoğunlaşan Duygular</Name>
+    <Desc>Her 4 Sahne, tüm Yankı Topluluğu üyelerine 'Perdenin süresi boyunca, her Sahne 1 Güç ve Dayanıklılık kazanır' verir.
+Sahnenin sonunda, tüm karakterlerin Duygu Seviyesi 2 artar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1410014">
+    <Name>Büyük Final</Name>
+    <Desc>Başka Yankı Topluluğu üyesi yoksa, tüm Sersemletme Direncini iyileştirir ve farklı bir Savaş Sayfası seti kullanır.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1408011">
+    <Name>Işıldama</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüket; ele yeni Sayfalar ekle. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1408012">
+    <Name>Hız</Name>
+    <Desc>Hız Zarı +1. Dördüncü Sahne'de bir Hız Zarı kazanır. Eğer Duygu Seviyesi 4 veya daha yüksek olan bir düşman varsa fazladan bir tane daha kazanır.
+Duygu Seviyesi için ek Hız Zarı kazanmaz.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="1409011">
+    <Name>Işıldama</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüket; ele yeni Sayfalar ekle. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1409012">
+    <Name>Mantıksız</Name>
+    <Desc>Her Sahne, bir 'Adil Olmayan Sözleşme' Savaş Sayfası kullanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1409013">
+    <Name>Büyük Gölge</Name>
+    <Desc>İkinci Sahne'de bir Gölge çağırır. Gölge, Baş Kütüphanecinin destesini ve elini kopyalar ( [Oynandığında] Sayfaları hariç). Eğer Baş Kütüphaneci mevcut değilse, yerine rastgele başka bir Kütüphaneci kopyalanır.</Desc>
+  </PassiveDesc>
+  
+  
+  <PassiveDesc ID="1409021">
+    <Name>Işıksız</Name>
+    <Desc>Pluto Sahnenin sonunda mevcut değilse, ölür.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1409022">
+    <Name>Güçlü Gölge</Name>
+    <Desc>Zar Gücü +1. Her Sahne Gölge'nin Savaş Sayfalarını kullanır.</Desc>
+  </PassiveDesc>
+ 
+</PassiveDescRoot>

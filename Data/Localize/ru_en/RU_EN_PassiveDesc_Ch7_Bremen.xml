@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1304011">
+    <Name>Hav hav gürültü! Doodly-doo? Hihi~!</Name>
+    <Desc>Başarılı bir Künt vuruşta, fazladan 1-2 Sersemletme Hasarı ver.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1304012">
+    <Name>Üç Başlılık</Name>
+    <Desc>İlk üç Hız Zarı, belirli başlıklara ait Savaş Sayfaları kullanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1304013">
+    <Name>Kontrol Edilemeyen Performans</Name>
+    <Desc>Sersemletilemez. İkinci Sahneden başlayarak, her 3 Sahne bir aşağıdaki eylemi gerçekleştirir: bir Alan Saldırısı Sayfası kullanır, ardından bir sonraki Sahnedeki tüm Dirençleri "Ölümcül" olarak değiştirir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1304014">
+    <Name>Işıldama</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüket; ele yeni Sayfalar ekle. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1304015">
+    <Name>Zirveden</Name>
+    <Desc>Her Sahne, bir başlık aktifleşir. Her başlık farklı Savaş Sayfaları kullanır.
+Bazı Sahnelerde, bir Çatışmayı kazandıktan sonra bir Savaş Sayfasının kopyasını kazanmayı sağlayan bir durum etkisi olan 'Etiketli' ile Hedefe vuran Özel Savaş Sayfaları kullanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1304016">
+    <Name>Yıkılmış Başlık</Name>
+    <Desc>Sersemletildiğinde, mevcut aktif başlığa ait Hız Zarı kırılır ve karakter bir sonraki Sahne Sersemlemeden kurtulur.
+Tüm başlıklar yok edildiğinde, savaş bir sonraki aşamaya ilerler.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1404011">
+    <Name>Savaş Alanı Savaş Şarkısı</Name>
+    <Desc>Bu karakter hayatta olduğu sürece, rastgele bir müttefike rastgele bir pozitif durum verir. (Güç, Dayanıklılık veya Acele) Verilen miktar, bu karakterin sahip olduğu Işık miktarına eşittir.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1404012">
+    <Name>Beklemmt'in Kararlılığı</Name>
+    <Desc>Sersemletildiğinde tüm Işığı kaybeder.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1404013">
+    <Name>Erlöschend Bir Mezarın Ağıtı</Name>
+    <Desc>Ölümde: bir sonraki Sahne tüm düşmanlar 3 Güç, Dayanıklılık ve Acele kazanır.</Desc>
+  </PassiveDesc>
+</PassiveDescRoot>

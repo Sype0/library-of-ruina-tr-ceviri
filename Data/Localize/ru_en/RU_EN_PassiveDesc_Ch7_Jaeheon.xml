@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1307011">
+    <Name>Işıldama</Name>
+    <Desc>Her Sahnenin başlangıcında, eldeki ve destedeki tüm Sayfaları tüket; ele yeni Sayfalar ekle. Maliyetleri 0 olur.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307012">
+    <Name>Kuklacı</Name>
+    <Desc>İlk dört Sahne'de Kuklalarına 'Kukla İpleri' verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307013">
+    <Name>Kopmuş İpler</Name>
+    <Desc>Eğer bir Kukla'nın Kukla İpleri yoksa veya ölmüşse, o Kuklayı kontrol etmek için Sayfa kullanmaz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307014">
+    <Name>Koruyucu Kukla</Name>
+    <Desc>Sahnenin başlangıcında, hayatta olan Kukla sayısına artı 'Kukla İpleri'ne sahipken ölen Kukla sayısına göre Koruma ve Sersemletme Koruması kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307001">
+    <Name>Manipüle Edilmiş Et</Name>
+    <Desc>Duygu Seviyesi bonusundan Hız Zarı kazanmaz. 'Kukla İpleri'ne sahipken yenilirse, 2 Sahne sonra maksimum Canının yarısı ile canlanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307021">
+    <Name>Gigigigigig</Name>
+    <Desc>Karakter 'Kukla İpleri'ne sahipse, saldırılarla fazladan +2 Sersemletme Hasarı verir.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307031">
+    <Name>Creeeeak…</Name>
+    <Desc>Karakter 'Kukla İpleri'ne sahipse, Sahnenin başlangıcında 1 Acele kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307041">
+    <Name>Ghghgh. Ghgh.</Name>
+    <Desc>Karakter 'Kukla İpleri'ne sahipse, Sahnenin başlangıcında 1 Güç kazanır.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307051">
+    <Name>Ghghghghghghghgh…</Name>
+    <Desc>Karakter 'Kukla İpleri'ne sahipse, Sahnenin başlangıcında 1 Güç, Dayanıklılık ve Acele kazanır.</Desc>
+  </PassiveDesc>
+</PassiveDescRoot>
