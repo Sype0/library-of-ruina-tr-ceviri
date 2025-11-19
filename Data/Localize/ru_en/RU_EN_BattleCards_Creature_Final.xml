@@ -738,7 +738,7 @@
       <Behaviour ID="0">Bu Zar, Hedefin Maksimum Canının (Zar Değeri x %2)'si kadar hasar verir (Dirençleri Yoksayar)</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9905212">
-      <LocalizedName>Acıyla Bağlanmış Kılıç</Localizedmaz
+      <LocalizedName>Acıyla Bağlanmış Kılıç</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="1">Bu Zar, Hedefin Maksimum Canının (Zar Değeri x %2)'si kadar hasar verir (Dirençleri Yoksayar)</Behaviour>
       <Behaviour ID="2">Bu Zar, Hedefin Maksimum Canının (Zar Değeri x %2)'si kadar hasar verir (Dirençleri Yoksayar)</Behaviour>
