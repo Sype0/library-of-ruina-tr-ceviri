@@ -2131,7 +2131,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep5_Roland10</VoiceFile>
-          <Content>Bana o canavarı deme... Hayır, bu daha çok bir Çarpıtma vakasına benziyor...</Content>
+          <Content>Bana o canavarı deme... Hayır, bu daha çok bir Bozulma vakasına benziyor...</Content>
         </Dialog>
         <Dialog ID="118" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -3313,7 +3313,7 @@
           <Teller>Yesod</Teller>
           <Title>Baş Kütüphaneci - Teknolojik Bilimler</Title>
           <VoiceFile>ch8_Yesod_ep3_yesod42</VoiceFile>
-          <Content>Ne dersen de, gerçekliği göz ardı etmek veya çarpıtmak istemiyorum.</Content>
+          <Content>Ne dersen de, gerçekliği göz ardı etmek veya Bozulmak istemiyorum.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -13883,13 +13883,13 @@ Yardımınız için minnettarım.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed5</VoiceFile>
-          <Content>Sana bir şekilde "Şehir" sakinlerini hatırlatmıyor mu?</Content>
+          <Content>Sana bir şekilde Şehir sakinlerini hatırlatmıyor mu?</Content>
         </Dialog>
         <Dialog ID="8" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed6</VoiceFile>
-          <Content>Bir kişinin kimliği ve değerleri, nerede doğup büyüdüğüne bağlı olarak büyük ölçüde değişebilir; ister "Callejuelas"'ta ister "Nidos"'ta olsun, ya da hangi "Distrito"'ya ait olduğuna göre.</Content>
+          <Content>Bir kişinin kimliği ve değerleri, nerede doğup büyüdüğüne bağlı olarak büyük ölçüde değişebilir; ister Sokaklar'da ister Yuvalar'da olsun, ya da hangi Semte ait olduğuna göre.</Content>
         </Dialog>
         <Dialog ID="9" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13901,7 +13901,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed8</VoiceFile>
-          <Content>Müzik sokaklarında, tek bir akort bile çalamazsan kaybetmiş sayılırsın.</Content>
+          <Content>Mesela Müzik sokaklarında, tek bir akort bile çalamazsan kaybetmiş sayılırsın.</Content>
         </Dialog>
         <Dialog ID="11" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13913,19 +13913,19 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chesed_ep3_Roland4</VoiceFile>
-          <Content>Bu mantıklı. ... Bir saniye bekle.</Content>
+          <Content>Bu mantıklı... Bir saniye bekle.</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chesed_ep3_Roland5</VoiceFile>
-          <Content>Bana her insanın farklı bir tadı olduğunu mu söylüyorsun...?</Content>
+          <Content>Bana her insanın farklı bir tadı olduğunu mu söylüyorsun..?</Content>
         </Dialog>
         <Dialog ID="14" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chesed_ep3_Roland6</VoiceFile>
-          <Content>Bu, "Distrito 23" sakinlerinin söyleyeceği bir şey... Bana misafirlerden yapılmış kahve vermiyorsun, değil mi?!?!</Content>
+          <Content>Bu, "Semt 23" sakinlerinin söyleyeceği bir şey... Bana misafirlerden yapılmış kahve vermiyorsun, değil mi?!</Content>
         </Dialog>
         <Dialog ID="15" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13949,19 +13949,19 @@ Yardımınız için minnettarım.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed11</VoiceFile>
-          <Content>Farklı kökenlerden gelen kahveyi tek bir fincanda karıştırma tekniğine ""karıştırma"" denir.</Content>
+          <Content>Farklı kökenlerden gelen kahveyi tek bir fincanda karıştırma tekniğine "harmanlama" denir.</Content>
         </Dialog>
         <Dialog ID="19" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed12</VoiceFile>
-          <Content>Karıştırma kullanılarak, düşük kaliteli bir kahve bile güzel bir tada sahip olabilir.</Content>
+          <Content>Harmanlama kullanılarak, düşük kaliteli bir kahve bile güzel bir tada sahip olabilir.</Content>
         </Dialog>
         <Dialog ID="20" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed13</VoiceFile>
-          <Content>Sosyoloji, biraz düşündüğünde karıştırmaya çok benzer.</Content>
+          <Content>Sosyoloji, biraz düşündüğünde Harmanlamaya çok benzer.</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>Roland</Teller>
@@ -13991,7 +13991,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed16</VoiceFile>
-          <Content>"Şehir" ve "Nidos" insanlara fısıldamaya devam ediyor, hepsi iyi çekirdekler elde etmek için.</Content>
+          <Content>"Şehir" ve "Yuva" insanlara fısıldamaya devam ediyor, hepsi iyi çekirdekler elde etmek için.</Content>
         </Dialog>
         <Dialog ID="26" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14003,7 +14003,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed18</VoiceFile>
-          <Content>"İşte hayatın gerçek değerini burada bulabilirsin." "Nido" sakinlerinin refah ve konforunu, kaybedenlerin elendiği sefil manzaranın hemen yanında sergiliyorlar.</Content>
+          <Content>"İşte hayatın gerçek değerini burada bulabilirsin." "Yuva" sakinlerinin refah ve konforunu, kaybedenlerin elendiği sefil manzaranın hemen yanında sergiliyorlar.</Content>
         </Dialog>
         <Dialog ID="28" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14015,25 +14015,25 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chesed_ep3_Roland11</VoiceFile>
-          <Content>Bir aldatmaca olsa bile, "Nido"'daki hayatın "Callejuelas"'taki hayattan kat kat iyi olduğu doğru.</Content>
+          <Content>Bir aldatmaca olsa bile, "yuva"'daki hayatın "Sokaklar"daki hayattan kat kat iyi olduğu doğru.</Content>
         </Dialog>
         <Dialog ID="30" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed20</VoiceFile>
-          <Content>Gerçekten öyle mi? "Alas" sürekli insanları öğütüyor, tıpkı bir kahve fabrikasındaki çekirdekler gibi, değil mi?</Content>
+          <Content>Gerçekten öyle mi? Kanat sürekli insanları öğütüyor, tıpkı bir kahve fabrikasındaki çekirdekler gibi, değil mi?</Content>
         </Dialog>
         <Dialog ID="31" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed21</VoiceFile>
-          <Content>Tüm "Alas", "kanat" toplamaya çalışırken kendi "Nidos"'larını dünyanın en rahat yeri gibi gösterir.</Content>
+          <Content>Kanatlar, tüm güçleri kendilerinde toplamak isterken kendi Yuvalarını sanki dünyanın en huzurlu ve en iyi yeriymiş gibi gösterirler.</Content>
         </Dialog>
         <Dialog ID="32" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed22</VoiceFile>
-          <Content>Her "Nido"'da farklı kurallar var ve "Callejuelas" bu politikalara göre değişiyor. Herkes o büyük ve tatlı yalana batmış durumda.</Content>
+          <Content>Her Yuva'da farklı kurallar var ve "Sokaklar" bu politikalara göre değişiyor. Herkes o büyük ve tatlı yalana batmış durumda.</Content>
         </Dialog>
         <Dialog ID="33" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14051,7 +14051,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chesed_ep3_Roland13</VoiceFile>
-          <Content>Gerçekten de "Callejuelas"'tan ayrılıp, bir "Ala"'ya katılıp bir "Nido"'da istikrarlı bir hayata sahip olmaktan daha iyi bir şey yok.</Content>
+          <Content>Gerçekten de "Sokaklar"dan ayrılıp, bir "Ala"'ya katılıp bir "yuva"'da istikrarlı bir hayata sahip olmaktan daha iyi bir şey yok.</Content>
         </Dialog>
         <Dialog ID="36" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14207,7 +14207,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_12</VoiceFile>
-          <Content>Bak, ben bir "Nido"'dan geliyorum.</Content>
+          <Content>Bak, ben bir "yuva"'dan geliyorum.</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>Roland</Teller>
@@ -14243,13 +14243,13 @@ Yardımınız için minnettarım.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_16-01</VoiceFile>
-          <Content>Ablam ve diğer kardeşlerim de bir çırpıda "Alas"'a katıldılar.</Content>
+          <Content>Ablam ve diğer kardeşlerim de bir çırpıda Kanatlara katıldılar.</Content>
         </Dialog>
         <Dialog ID="26" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_17-02</VoiceFile>
-          <Content>Çoğu insanın girmekte zorlandığı "Alas", benim için sıradan kariyerlerden ibaretti.</Content>
+          <Content>Çoğu insanın girmekte zorlandığı Kanat, benim için sıradan kariyerlerden ibaretti.</Content>
         </Dialog>
         <Dialog ID="27" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14273,7 +14273,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_20</VoiceFile>
-          <Content>Ama bir gün, insanın kader diyebileceği tuhaf bir olay örgüsünde... Hayatının hiç de alakası olmayacağını düşündüğü bir yer olan "Callejuelas"'a girdi.</Content>
+          <Content>Ama bir gün, insanın kader diyebileceği tuhaf bir olay örgüsünde... Hayatının hiç de alakası olmayacağını düşündüğü bir yer olan "Sokaklar"'a girdi.</Content>
         </Dialog>
         <Dialog ID="31" Model="롤랑">
           <Teller>Roland</Teller>
@@ -14291,13 +14291,13 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chessed_ep4_Roland_13</VoiceFile>
-          <Content>Biri bir "Nido" sakinini ve üstelik zengin birini kaçırmaya karar verdi...</Content>
+          <Content>Biri bir yuva sakinini ve üstelik zengin birini kaçırmaya karar verdi...</Content>
         </Dialog>
         <Dialog ID="34" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chessed_ep4_Roland_14</VoiceFile>
-          <Content>Ya büyük bir "Sindicato" ya da sadece deli bir tip olmalıydı.</Content>
+          <Content>Ya büyük bir "sendika" ya da sadece deli bir tip olmalıydı.</Content>
         </Dialog>
         <Dialog ID="35" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14383,7 +14383,7 @@ Vesaire vesaire.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chessed_ep4_Roland_17</VoiceFile>
-          <Content>Sanırım bu çok garip bir şey değildi, her gün "Callejuelas"'ta saçmalıklar söyleyen bir sürü insan var.</Content>
+          <Content>Sanırım bu çok garip bir şey değildi, her gün "Sokaklar"da saçmalıklar söyleyen bir sürü insan var.</Content>
         </Dialog>
         <Dialog ID="49" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14449,7 +14449,7 @@ Vesaire vesaire.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_42-02</VoiceFile>
-          <Content>"Carmen" ve "Kali" bana "Callejuelas"'ta neler olduğunu ve "Nidos"'taki insanların nasıl anlamsızca gasp edildiğini gösterdi.</Content>
+          <Content>"Carmen" ve "Kali" bana "Sokaklar"da neler olduğunu ve "yuvalar"daki insanların nasıl anlamsızca gasp edildiğini gösterdi.</Content>
         </Dialog>
         <Dialog ID="60" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14617,7 +14617,7 @@ Vesaire vesaire.</Content>
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Chessed_ep5_Angela_6</VoiceFile>
-         > <Content>Hala "Lobotomy Corp"'ta olanları mı düşünüyorsun?</Content>
+          <Content>Hala "Lobotomy Corp"'ta olanları mı düşünüyorsun?</Content>
         </Dialog>
         <Dialog ID="11" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14749,7 +14749,7 @@ Vesaire vesaire.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_14</VoiceFile>
-          <Content>Tıpkı "Endeks"'in "Yasalara" takıntılı olması ve "Fixer"'ların görevleri bitirmeye takıntılı olması gibi.</Content>
+          <Content>Tıpkı "Endeks"'in "Yasalara" takıntılı olması ve "Düzeltici"'ların görevleri bitirmeye takıntılı olması gibi.</Content>
         </Dialog>
         <Dialog ID="33" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14809,7 +14809,7 @@ Vesaire vesaire.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_18-01</VoiceFile>
-          <Content>Bazen, bu "Şehir"'de geçen hikayelere bakarken acıyla sarsılıyorum.</Content>
+          <Content>Bazen, bu Şehir'de geçen hikayelere bakarken acıyla sarsılıyorum.</Content>
         </Dialog>
         <Dialog ID="43" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14821,7 +14821,7 @@ Vesaire vesaire.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_20-01</VoiceFile>
-          <Content>Buna benzer başka hiçbir şeye tanık olmak istemediğim için "Şehir"'i değiştirme çabasına katıldım.</Content>
+          <Content>Buna benzer başka hiçbir şeye tanık olmak istemediğim için Şehir'i değiştirme çabasına katıldım.</Content>
         </Dialog>
         <Dialog ID="45" Model="롤랑">
           <Teller>Roland</Teller>
@@ -14839,7 +14839,7 @@ Vesaire vesaire.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep5_Chessed_22-01</VoiceFile>
-          <Content>... "Çarpıtma" ile daha fazla soruna yol açtığımız söylenebilir.</Content>
+          <Content>... "Bozulma" ile daha fazla soruna yol açtığımız söylenebilir.</Content>
         </Dialog>
         <Dialog ID="48" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14869,13 +14869,13 @@ Vesaire vesaire.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chessed_ep5_Roland_15-01</VoiceFile>
-          <Content>Eğer biri "Şehir"'in neden bu hale geldiğini gerçekten bilmek isteseydi, o zaman hiç kimse zamanında yeterli para toplayamadığı için "Sindicatolar" yüzünden ölmüyor olurdu.</Content>
+          <Content>Eğer biri "Şehir"'in neden bu hale geldiğini gerçekten bilmek isteseydi, o zaman hiç kimse zamanında yeterli para toplayamadığı için "sendikalar" yüzünden ölmüyor olurdu.</Content>
         </Dialog>
         <Dialog ID="53" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chessed_ep5_Roland_16-01</VoiceFile>
-          <Content>Hiçbir "Fixer" sadece görevlerini tamamlamak için ölmüş olmazdı; hiçbir "kanat" "Alas" tarafından tüketilebilir olarak kullanılmazdı.</Content>
+          <Content>Hiçbir "Düzeltici" sadece görevlerini tamamlamak için ölmüş olmazdı; hiçbir kanat tarafından tüketilebilir olarak kullanılmazdı.</Content>
         </Dialog>
         <Dialog ID="54" Model="롤랑">
           <Teller>Roland</Teller>
@@ -14953,7 +14953,7 @@ Vesaire vesaire.</Content>
           <Content>Bu, sadece güce sahip olanların verebileceği bir ayrıcalıktır.</Content>
         </Dialog>
         <Dialog ID="66" Model="해결사1">
-          <Teller>Bir Fixer</Teller>
+          <Teller>Bir Düzeltici</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Pluto_1</VoiceFile>
           <Content>Lütfen... Sadece hiç karşılaşmamış gibi yapalım mı?</Content>
@@ -14965,16 +14965,16 @@ Vesaire vesaire.</Content>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="68" Model="해결사1">
-          <Teller>Bir Fixer</Teller>
+          <Teller>Bir Düzeltici</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Pluto_2-03</VoiceFile>
           <Content>O sözleşme neydi zaten!</Content>
         </Dialog>
         <Dialog ID="69" Model="해결사1">
-          <Teller>Bir Fixer</Teller>
+          <Teller>Bir Düzeltici</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Pluto_3-05</VoiceFile>
-          <Content>Bir sözleşmeyi bozmanın ve itibarını kaybetmenin senin gibi bir "Fixer" için ölüm cezası anlamına geldiğini biliyor musun, değil mi?</Content>
+          <Content>Bir sözleşmeyi bozmanın ve itibarını kaybetmenin senin gibi bir "Düzeltici" için ölüm cezası anlamına geldiğini biliyor musun, değil mi?</Content>
         </Dialog>
         <Dialog ID="70" Model="롤랑">
           <Teller>Roland</Teller>
@@ -14983,13 +14983,13 @@ Vesaire vesaire.</Content>
           <Content>Tekrar oku, dikkatlice.</Content>
         </Dialog>
         <Dialog ID="71" Model="해결사1">
-          <Teller>Bir Fixer</Teller>
+          <Teller>Bir Düzeltici</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Pluto_4-02</VoiceFile>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="72" Model="해결사1">
-          <Teller>Bir Fixer</Teller>
+          <Teller>Bir Düzeltici</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Pluto_5-05</VoiceFile>
           <Content>Lanet olası piç, kelime oyunları yapıyor...</Content>
@@ -15001,13 +15001,13 @@ Vesaire vesaire.</Content>
           <Content>Peki, neden en başta "ensefalin" kaçakçılığı yapmaya başladın? Bunu yapmasaydın bu sorunu yaşamazdık.</Content>
         </Dialog>
         <Dialog ID="74" Model="해결사1">
-          <Teller>Bir Fixer</Teller>
+          <Teller>Bir Düzeltici</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Pluto_6-03</VoiceFile>
           <Content>Yemin ederim, hiçbir fikrim yoktu...</Content>
         </Dialog>
         <Dialog ID="75" Model="해결사1">
-          <Teller>Bir Fixer</Teller>
+          <Teller>Bir Düzeltici</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Pluto_7-02</VoiceFile>
           <Content>Bunun "ensefalin" olduğunu bilmiyordum ve "O Corp"'a gönderilmesi gerektiğini de bilmiyordum!</Content>
@@ -15019,13 +15019,13 @@ Vesaire vesaire.</Content>
           <Content>Bunu nasıl hallettiğimizi biliyorsun... Bir dahaki sefere, sözleşmeler konusunda uzmanlaşmış bir "Büro"'ya gittiğinden emin ol.</Content>
         </Dialog>
         <Dialog ID="77" Model="해결사1">
-          <Teller>Bir Fixer</Teller>
+          <Teller>Bir Düzeltici</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Pluto_8-02</VoiceFile>
           <Content>Bakalım ne kadar süre bu kadar havalı ve güçlü davranabileceksin!</Content>
         </Dialog>
         <Dialog ID="78" Model="해결사1">
-          <Teller>Bir Fixer</Teller>
+          <Teller>Bir Düzeltici</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Pluto_9_a-02</VoiceFile>
           <Content>Sadece bekle... Bu "Şehir" seni de aynı şekilde mahvedecek!!!</Content>
@@ -15043,19 +15043,19 @@ Vesaire vesaire.</Content>
           <Content>Her şey bir göz açıp kapayıncaya kadar değişti.</Content>
         </Dialog>
         <Dialog ID="81" Model="둥지 이주 관리자">
-          <Teller>Oficial de Inmigración del Nido</Teller>
+          <Teller>Yuva Göçmenlik Görevlisi</Teller>
           <Title>Bir Memur</Title>
           <VoiceFile>ch8_Chessed_ep5_People_1-02</VoiceFile>
-          <Content>Bilmiyor muydun? "Kanat Savaşları"'na katılanlar bir "Nido"'ya taşınamaz.</Content>
+          <Content>Bilmiyor muydun? "Kanat Savaşları"'na katılanlar bir "Yuva"'ya taşınamaz.</Content>
         </Dialog>
         <Dialog ID="82" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Roland_32-03</VoiceFile>
-          <Content>Ne? Ama savaş gazilerinin bir "Nido"'ya taşınmada öncelikli olacağını söyledin! O savaşa katılmadan önce bana söylediğin buydu!</Content>
+          <Content>Ne? Ama savaş gazilerinin bir "Yuva"'ya taşınmada öncelikli olacağını söyledin! O savaşa katılmadan önce bana söylediğin buydu!</Content>
         </Dialog>
         <Dialog ID="83" Model="둥지 이주 관리자">
-          <Teller>Oficial de Inmigración del Nido</Teller>
+          <Teller>Yuva Göçmenlik Görevlisi</Teller>
           <Title>Bir Memur</Title>
           <VoiceFile>ch8_Chessed_ep5_People_2-02</VoiceFile>
           <Content>Haberi almadın mı? Şartlar bir süre önce değişti.</Content>
@@ -15067,7 +15067,7 @@ Vesaire vesaire.</Content>
           <Content>Şaka yapıyor olmalısın... Ucuz bir hediye hakkında konuşmuyoruz, bu bir "Ala" tarafından verilen bir sözdü!</Content>
         </Dialog>
         <Dialog ID="85" Model="둥지 이주 관리자">
-          <Teller>Oficial de Inmigración del Nido</Teller>
+          <Teller>Yuva Göçmenlik Görevlisi</Teller>
           <Title>Bir Memur</Title>
           <VoiceFile>ch8_Chessed_ep5_People_3-02</VoiceFile>
           <Content>Bilmen gereken her şeyi biliyorsun. Bağırmak seni hiçbir yere götürmez, üzgünüm.</Content>
@@ -15085,7 +15085,7 @@ Vesaire vesaire.</Content>
           <Content>Gerçekten hiçbir yolu yok mu...?</Content>
         </Dialog>
         <Dialog ID="88" Model="둥지 이주 관리자">
-          <Teller>Oficial de Inmigración del Nido</Teller>
+          <Teller>Yuva Göçmenlik Görevlisi</Teller>
           <Title>Bir Memur</Title>
           <VoiceFile>ch8_Chessed_ep5_People_4-02</VoiceFile>
           <Content>Hayır demek hayır demektir, senin için bile. Bu anlaşmaya muazzam miktarda para dahil oldu.</Content>
@@ -15109,19 +15109,19 @@ Vesaire vesaire.</Content>
           <Content>Hayır, herhangi bir "Ala" benden yardım istemeye kalkarsa, pişman ederim onları.</Content>
         </Dialog>
         <Dialog ID="92" Model="둥지 이주 관리자">
-          <Teller>Oficial de Inmigración del Nido</Teller>
+          <Teller>Yuva Göçmenlik Görevlisi</Teller>
           <Title>Bir Memur</Title>
           <VoiceFile>ch8_Chessed_ep5_People_5-02</VoiceFile>
           <Content>Ama sana bir ödeme yapıldı, değil mi?</Content>
         </Dialog>
         <Dialog ID="93" Model="둥지 이주 관리자">
-          <Teller>Oficial de Inmigración del Nido</Teller>
+          <Teller>Yuva Göçmenlik Görevlisi</Teller>
           <Title>Bir Memur</Title>
           <VoiceFile>ch8_Chessed_ep5_People_6-01</VoiceFile>
           <Content>Ve bir dahaki sefere, bir "Büro"'nun aracılığı olmadan anlaşma imzalamaktan kaçınmaya çalış.</Content>
         </Dialog>
         <Dialog ID="94" Model="둥지 이주 관리자">
-          <Teller>Oficial de Inmigración del Nido</Teller>
+          <Teller>Yuva Göçmenlik Görevlisi</Teller>
           <Title>Bir Memur</Title>
           <VoiceFile>ch8_Chessed_ep5_People_7-01</VoiceFile>
           <Content>Şey... Bu önlemlerin farkındasın, değil mi?</Content>
@@ -15133,7 +15133,7 @@ Vesaire vesaire.</Content>
           <Content>Siktir git.</Content>
         </Dialog>
         <Dialog ID="96" Model="둥지 이주 관리자">
-          <Teller>Oficial de Inmigración del Nido</Teller>
+          <Teller>Yuva Göçmenlik Görevlisi</Teller>
           <Title>Bir Memur</Title>
           <VoiceFile>ch8_Chessed_ep5_People_8-01</VoiceFile>
           <Content>Hayır teşekkürler. İyi günler.</Content>
@@ -15142,13 +15142,13 @@ Vesaire vesaire.</Content>
           <Teller>Roland</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Roland_40-01</VoiceFile>
-          <Content>... Üzgünüm. "Duman Savaşı" gazilerini "Nido"'ya kabul etmeyecekler... Sözlerini birdenbire değiştirdiler.</Content>
+          <Content>... Üzgünüm. "Duman Savaşı" gazilerini "Yuva"'ya kabul etmeyecekler... Sözlerini birdenbire değiştirdiler.</Content>
         </Dialog>
         <Dialog ID="98" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Angelika_1-02</VoiceFile>
-          <Content>Bir "Nido"'da değiliz, ama burası oldukça güvenli, biliyor musun?</Content>
+          <Content>Bir "Yuva"'da değiliz, ama burası oldukça güvenli, biliyor musun?</Content>
         </Dialog>
         <Dialog ID="99" Model="???">
           <Teller>???</Teller>
@@ -15160,31 +15160,31 @@ Vesaire vesaire.</Content>
           <Teller>Roland</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Roland_41</VoiceFile>
-          <Content>Yine de, "Nido" yapabilirdi...</Content>
+          <Content>Yine de, "Yuva" yapabilirdi...</Content>
         </Dialog>
         <Dialog ID="101" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Angelika_4-04</VoiceFile>
-          <Content>Ve dürüst olmak gerekirse, hiçbir zaman bir "Nido"'ya gitmek istemedim.</Content>
+          <Content>Ve dürüst olmak gerekirse, hiçbir zaman bir "Yuva"'ya gitmek istemedim.</Content>
         </Dialog>
         <Dialog ID="102" Model="???">
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Angelika_5-01</VoiceFile>
-          <Content>İkimiz de "Alas"'ın isteği üzerine bir "Nido"'ya giderken kirli işler gördük ve yaptık.</Content>
+          <Content>İkimiz de Kanat'ın isteği üzerine bir "Yuva"'ya giderken kirli işler gördük ve yaptık.</Content>
         </Dialog>
         <Dialog ID="103" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Roland_42</VoiceFile>
-          <Content>En azından "Nido"'da dolaşırken hayatımız için endişelenmek zorunda kalmazdık!</Content>
+          <Content>En azından "Yuva"'da dolaşırken hayatımız için endişelenmek zorunda kalmazdık!</Content>
         </Dialog>
         <Dialog ID="104" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Roland_43</VoiceFile>
-          <Content>Hayat, buradaki "Callejuelas"'tan daha değerlidir!</Content>
+          <Content>Hayat, buradaki "Sokaklar"dan daha değerlidir!</Content>
         </Dialog>
         <Dialog ID="105" Model="롤랑">
           <Teller>Roland</Teller>
@@ -15244,7 +15244,7 @@ Vesaire vesaire.</Content>
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Angelika_11-03</VoiceFile>
-          <Content>Bir "Fixer"'ın hayatının nasıl olduğunu biliyorsun.</Content>
+          <Content>Bir "Düzeltici"'ın hayatının nasıl olduğunu biliyorsun.</Content>
         </Dialog>
         <Dialog ID="115" Model="???">
           <Teller>???</Teller>
@@ -15322,7 +15322,7 @@ Vesaire vesaire.</Content>
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Angelika_17-01</VoiceFile>
-          <Content>... Söyleme bana, "Fixer" işi mi?</Content>
+          <Content>... Söyleme bana, "Düzeltici" işi mi?</Content>
         </Dialog>
         <Dialog ID="128" Model="롤랑">
           <Teller>Roland</Teller>
@@ -15346,7 +15346,7 @@ Vesaire vesaire.</Content>
           <Teller>Roland</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Roland_57</VoiceFile>
-          <Content>"Distrito 25".</Content>
+          <Content>"Semt 25".</Content>
         </Dialog>
         <Dialog ID="132" Model="???">
           <Teller>???</Teller>
@@ -16989,7 +16989,7 @@ Vesaire vesaire.</Content>
           <Teller />
           <Title />
           <VoiceFile>ch8_Binah_ep5_Roland_7</VoiceFile>
-          <Content>Annemi babamı görme şansım hiç olmadı, "Callejuelas"'ta yaşlı bir kadının himayesinde büyüdüm.</Content>
+          <Content>Annemi babamı görme şansım hiç olmadı, "Sokaklar"da yaşlı bir kadının himayesinde büyüdüm.</Content>
         </Dialog>
         <Dialog ID="33" Model="">
           <Teller />
@@ -17001,13 +17001,13 @@ Vesaire vesaire.</Content>
           <Teller />
           <Title />
           <VoiceFile>ch8_Binah_ep5_Roland_9</VoiceFile>
-          <Content>Kendi başıma hayatta kalmanın bir yolunu ararken, genç yaşta "Fixer" dünyasına atladım.</Content>
+          <Content>Kendi başıma hayatta kalmanın bir yolunu ararken, genç yaşta "Düzeltici" dünyasına atladım.</Content>
         </Dialog>
         <Dialog ID="35" Model="">
           <Teller />
           <Title />
           <VoiceFile>ch8_Binah_ep5_Roland_10</VoiceFile>
-          <Content>Bunun için ananeme teşekkür etmeliyim, gitmeden önce bana bir "Fixer" olarak nasıl hayatta kalacağımı öğretti.</Content>
+          <Content>Bunun için ananeme teşekkür etmeliyim, gitmeden önce bana bir "Düzeltici" olarak nasıl hayatta kalacağımı öğretti.</Content>
         </Dialog>
         <Dialog ID="36" Model="">
           <Teller />
@@ -17043,11 +17043,11 @@ Vesaire vesaire.</Content>
           <Teller />
           <Title />
           <VoiceFile>ch8_Binah_ep5_Roland_16</VoiceFile>
-          <Content>Bir "Nido"'da yaşarsam mutlu olur muydum...?</Content>
+          <Content>Bir "Yuva"'da yaşarsam mutlu olur muydum...?</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Konum: L Corp Nidosu'nda bir yer</PlaceName>
+        <PlaceName>Konum: L Corp Yuvasında bir yer</PlaceName>
         <Dialog ID="42" Model="">
           <Teller />
           <Title />
@@ -17118,7 +17118,7 @@ Vesaire vesaire.</Content>
           <Teller>Salvador</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Binah_ep5_Salvador_5</VoiceFile>
-          <Content>Bahse girerim "Nido"'ya göç izni için buradasın.</Content>
+          <Content>Bahse girerim "yuva"'ya göç izni için buradasın.</Content>
         </Dialog>
         <Dialog ID="54" Model="롤랑">
           <Teller>Roland</Teller>
@@ -17130,7 +17130,7 @@ Vesaire vesaire.</Content>
           <Teller>Salvador</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Binah_ep5_Salvador_6-01</VoiceFile>
-          <Content>Ben doğuştan bir "Nido" sakiniyim, o yüzden buna ihtiyacım yok.</Content>
+          <Content>Ben doğuştan bir "yuva" sakiniyim, o yüzden buna ihtiyacım yok.</Content>
         </Dialog>
         <Dialog ID="56" Model="롤랑">
           <Teller>Roland</Teller>
@@ -17148,7 +17148,7 @@ Vesaire vesaire.</Content>
           <Teller>Roland</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Binah_ep5_Roland_26-02</VoiceFile>
-          <Content>"I Corp."'un "Nido"'sundan bir rozet...</Content>
+          <Content>"I Corp."'un "yuva"'sundan bir rozet...</Content>
         </Dialog>
         <Dialog ID="59" Model="살바도르">
           <Teller>Salvador</Teller>
@@ -17178,7 +17178,7 @@ Vesaire vesaire.</Content>
           <Teller>Salvador</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Binah_ep5_Salvador_12</VoiceFile>
-          <Content>"Fixer"'ların ve tüm bu "Şehir"'in ilkeleri böyledir.</Content>
+          <Content>"Düzeltici"'ların ve tüm bu "Şehir"'in ilkeleri böyledir.</Content>
         </Dialog>
         <Dialog ID="64" Model="살바도르">
           <Teller>Salvador</Teller>
@@ -17325,7 +17325,7 @@ Vesaire vesaire.</Content>
           <Teller />
           <Title />
           <VoiceFile>ch8_Binah_ep5_Roland_40</VoiceFile>
-          <Content>Savaştan sonra "Şehir"'e döndüm ve "Fixer" olarak çalışmaya devam ettim.</Content>
+          <Content>Savaştan sonra "Şehir"'e döndüm ve "Düzeltici" olarak çalışmaya devam ettim.</Content>
         </Dialog>
         <Dialog ID="88" Model="">
           <Teller />
@@ -17337,7 +17337,7 @@ Vesaire vesaire.</Content>
           <Teller />
           <Title />
           <VoiceFile>ch8_Binah_ep5_Roland_42</VoiceFile>
-          <Content>Sayısız kriz ve işten sonra, yanımda kalan tek şey "Charles Bürosu"'ndan on iki "Fixer"'dı.</Content>
+          <Content>Sayısız kriz ve işten sonra, yanımda kalan tek şey "Charles Bürosu"'ndan on iki "Düzeltici"'dı.</Content>
         </Dialog>
       </Place>
       <Place>
@@ -17586,7 +17586,7 @@ Vesaire vesaire.</Content>
           <Teller />
           <Title />
           <VoiceFile>ch8_Binah_ep5_Roland_68</VoiceFile>
-          <Content>Nedeni, bir "Fixer" olarak, potansiyel düşmanlarının yüzünü hatırlamamasını sağlamanın önemli olmasıydı—yanlış hatırlamıyorsam.</Content>
+          <Content>Nedeni, bir "Düzeltici" olarak, potansiyel düşmanlarının yüzünü hatırlamamasını sağlamanın önemli olmasıydı—yanlış hatırlamıyorsam.</Content>
         </Dialog>
         <Dialog ID="131" Model="">
           <Teller />
@@ -17751,13 +17751,13 @@ Vesaire vesaire.</Content>
           <Teller />
           <Title />
           <VoiceFile>ch8_Binah_ep5_Roland_84</VoiceFile>
-          <Content>"Callejuelas"'tan ve "Nidos"'tan eşit olarak insanları kaçırmak için kurnaz numaralar kullanıyordu.</Content>
+          <Content>"Sokaklar"dan ve "yuvalar"dan eşit olarak insanları kaçırmak için kurnaz numaralar kullanıyordu.</Content>
         </Dialog>
         <Dialog ID="158" Model="">
           <Teller />
           <Title />
           <VoiceFile>ch8_Binah_ep5_Roland_85</VoiceFile>
-          <Content>"Kurbanlar" daha sonra "Callejuelas"'ta cesetler olarak bulundu.</Content>
+          <Content>"Kurbanlar" daha sonra "Sokaklar"da cesetler olarak bulundu.</Content>
         </Dialog>
         <Dialog ID="159" Model="">
           <Teller />
@@ -17787,7 +17787,7 @@ Vesaire vesaire.</Content>
           <Teller />
           <Title />
           <VoiceFile>ch8_Binah_ep5_Roland_90</VoiceFile>
-          <Content>"Nido"'nun doğrudan zararı gördüğü için bu kadar hızlı bir şekilde "Şehir Yıldızı" olarak atandığına bahse girerim.</Content>
+          <Content>Yuva'nın doğrudan zararı gördüğü için bu kadar hızlı bir şekilde "Şehir Yıldızı" olarak atandığına bahse girerim.</Content>
         </Dialog>
         <Dialog ID="164" Model="롤랑">
           <Teller>Roland</Teller>
