@@ -58,3 +58,9 @@ Bu projeyi geliştiren ekip:
 
  > Bu projeyi mümkün kılan [Detaylı Oynamak Topluluğu'na](https://discord.gg/A7ktrBUFTR) ayrıca teşekkürler ❤️
 ---
+
+## 🤝 Katkıda Bulunun
+
+Çevirilerin kontrol edilmesi, düzenlenmesi ve yeni içeriklerin çevrilmesi için tüm gönüllü katkılarınız değerlidir!
+
+* Hata bulursanız lütfen bir **[Issue Açın](https://github.com/Sype0/library-of-ruina-tr-ceviri/issues)**.
