@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="1">
-    <Title>Bölüm 1-Dedikodu-‘Dışari sokaga çikiyorum, ellerim cebimde’</Title>
+    <Title>Bölüm 1-Dedikodu-‘Dışari sokaga çikiyorum, ellerim cebimde.’</Title>
   </Chapter>
   <Group>
     <GroupName>Prologue</GroupName>
