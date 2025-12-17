@@ -4193,7 +4193,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Sen</Teller>
           <Title>WARP Temizlik Ajanı</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen4</VoiceFile>
-          <Content>Eğitim görsellerinde görmüşsündür ama çaylak, kendini hazırlasan iyi olur.</Content>
+          <Content>Eğitim görsellerinde görmüşsündür çaylak ama yine de kendini hazırlasan iyi olur.</Content>
         </Dialog>
         <Dialog ID="8" Model="센">
           <Teller>Sen</Teller>
@@ -4250,7 +4250,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Sen</Teller>
           <Title>WARP Temizlik Ajanı</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen8</VoiceFile>
-          <Content>Merhaba~ Hala hayatta mısın, değil mi?</Content>
+          <Content>Merhaba~ Hala hayattasın, değil mi?</Content>
         </Dialog>
         <Dialog ID="17" Model="레스티">
           <Teller>Lesti</Teller>
@@ -4481,7 +4481,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Birinci Sınıf Yolcu 1</Teller>
           <Title>Yolcu</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_firstclass1</VoiceFile>
-          <Content>Kimsin sen sik— AHHHHHHH!</Content>
+          <Content>Kimsin sen yarr— AHHHHHHH!</Content>
         </Dialog>
         <Dialog ID="55" Model="1등석 승객2">
           <Teller>Birinci Sınıf Yolcu 2</Teller>
@@ -4565,7 +4565,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Rose</Teller>
           <Title>WARP Temizlik Ajanı</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Rose20</VoiceFile>
-          <Content>O kuklaların burada bir kağıt parçası imzaladığını görebiliyor musunuz, değil mi?</Content>
+          <Content>O kuklaların burada bir kağıt parçası imzaladığını görüyorsunuz, değil mi?</Content>
         </Dialog>
         <Dialog ID="69" Model="레스티">
           <Teller>Lesti</Teller>
@@ -4583,7 +4583,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Sen</Teller>
           <Title>WARP Temizlik Ajanı</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen26</VoiceFile>
-          <Content>Vay, ne. Bu gerçek bir ışınlanma değil mi?</Content>
+          <Content>Vay, ne? Bu gerçek bir ışınlanma değil mi?</Content>
         </Dialog>
         <Dialog ID="72" Model="로즈">
           <Teller>Rose</Teller>
@@ -4658,7 +4658,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Roland2</VoiceFile>
-          <Content>O W Şti. piçleri... her şeyi biliyorlardı.</Content>
+          <Content>O W Corp. piçleri... her şeyi biliyorlardı.</Content>
         </Dialog>
         <Dialog ID="84" Model="롤랑">
           <Teller>Roland</Teller>
@@ -4688,13 +4688,13 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Angela2</VoiceFile>
-          <Content>Lobotomy Şti. de çok farklı değildi. Yine de, başka bir Kanat'ın utanç verici sırlarını kendi gözlerimle görmek oldukça ilgi çekici.</Content>
+          <Content>Lobotomy Corp. de çok farklı değildi. Yine de, başka bir Kanat'ın utanç verici sırlarını kendi gözlerimle görmek oldukça ilgi çekici.</Content>
         </Dialog>
         <Dialog ID="89" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Angela3</VoiceFile>
-          <Content>Görüyorum ki her şey aynı, ne de olsa. İğrenç şeyler yapmak, sadece işleri olduğu için...</Content>
+          <Content>Her şey Lobotomy Corp. ile aynı. İğrenç şeyler yapmak, sadece işleri...</Content>
         </Dialog>
         <Dialog ID="90" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -4712,13 +4712,13 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Roland7</VoiceFile>
-          <Content>Bu bilginin dünyaya ifşa edildiğini hayal et. Kimsenin bir daha W Şti. trenlerine bineceğine bahse girerim, biliyor musun?</Content>
+          <Content>Bu bilginin dünyaya ifşa edildiğini hayal et. Kimsenin bir daha W Corp. trenlerine binmeyeceğine bahse girerim, biliyor musun?</Content>
         </Dialog>
         <Dialog ID="93" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Roland8</VoiceFile>
-          <Content>Bu da W Şti.'ni onu geri almak için daha da çaresiz hale getirir.</Content>
+          <Content>Bu da W Corp.'ni onu geri almak için daha da çaresiz hale getirir.</Content>
         </Dialog>
         <Dialog ID="94" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -4799,7 +4799,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Angela8</VoiceFile>
-          <Content>W Şti.'nin Birinci Sınıf yolcularından yapılmış kuklaları mı kastediyorsun, değil mi?</Content>
+          <Content>W Corp.'nin Birinci Sınıf yolcularından yapılmış kuklaları kastediyorsun, değil mi?</Content>
         </Dialog>
         <Dialog ID="107" Model="сен">
           <Teller>Sen</Teller>
@@ -4823,7 +4823,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Lesti</Teller>
           <Title>WARP Temizlik Ajanı</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti26</VoiceFile>
-          <Content>Yani W Şti. tamamen mahvolur mu?!</Content>
+          <Content>Yani W Corp. tamamen mahvolur mu?!</Content>
         </Dialog>
         <Dialog ID="111" Model="로즈">
           <Teller>Rose</Teller>
@@ -4847,7 +4847,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Angela12</VoiceFile>
-          <Content>Bu kitap halka açılırsa, W Şti. de Lobotomy Şti. gibi çökebilir.</Content>
+          <Content>Bu kitap halka açılırsa, W Corp. de Lobotomy Corp. gibi çökebilir.</Content>
         </Dialog>
         <Dialog ID="1" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -4865,19 +4865,19 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Roland11</VoiceFile>
-          <Content>L Şti.'nin parçalanması da planın bir parçası mıydı?</Content>
+          <Content>L Corp.'nin parçalanması da planın bir parçası mıydı?</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Angela14</VoiceFile>
-          <Content>Bir anlamda. Planın sonu, o döngüden kazanılan aydınlanmayı Şehir halkıyla paylaşmak, L Şti.'ni tamamen feda etmekti.</Content>
+          <Content>Bir anlamda. Planın sonu, o döngüden kazanılan aydınlanmayı Şehir halkıyla paylaşmak, L Corp'u tamamen feda etmekti.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Roland12</VoiceFile>
-          <Content>Yani L Şti.'nin çılgın intihar planı bir şekilde başarılı oldu, ha?...</Content>
+          <Content>Yani L Corp.'unn çılgın intihar planı bir şekilde başarılı oldu, ha?...</Content>
         </Dialog>
         <Dialog ID="6" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -4925,7 +4925,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Roland15</VoiceFile>
-          <Content>Bu, plan başarılı olsaydı... Çarpıtma'nın yaşanmayacağı anlamına mı geliyor...</Content>
+          <Content>Bu, plan başarılı olsaydı... Çarpıtma'nın yaşanmayacağı anlamına mı geliyordu...</Content>
         </Dialog>
         <Dialog ID="14" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -5030,7 +5030,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Jin</Teller>
           <Title>Gülümseyen Yüzler</Title>
           <VoiceFile>ch5_Smiling_ep1_Jin3</VoiceFile>
-          <Content>Kahretsin~! Senin, kahrolası açgözlü yaşlı herif!! Tabağın üzerindeki tüm kesikleri yiyemezsin!!!</Content>
+          <Content>Kahretsin~! Seni kahrolası açgözlü yaşlı herif!! Tabağın üzerindeki tüm kesikleri yiyemezsin!!!</Content>
         </Dialog>
         <Dialog ID="13" Model="미">
           <Teller>Mi</Teller>
@@ -5441,7 +5441,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch5_Smiling_ep1_Roland10</VoiceFile>
-          <Content>Ancak, Düzeltici faaliyetlerinde bir sürü alan var ve durum her vaka için farklı olabilir, adil bir bire bir karşılaştırma yapmak zor.</Content>
+          <Content>Ancak, Düzeltici faaliyetlerinde bir sürü alan var ve durum her vaka için farklı olabilir, adil bire bir karşılaştırma yapmak zor.</Content>
         </Dialog>
         <Dialog ID="81" Model="롤랑">
           <Teller>Roland</Teller>
@@ -5693,7 +5693,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
         <Teller>Philip</Teller>
         <Title>Eski Şafak Tamircisi</Title>
         <VoiceFile>ch5_Crying_ep1_Philip8</VoiceFile>
-        <Content>Şimdi hatırladım. Wedge Bürosu'nu meşgul edenler onlardı... ve Dawn Bürosu'ndaki herkes yardım edemedikleri için öldü.</Content>
+        <Content>Şimdi hatırladım. Kama Bürosu'nu meşgul edenler onlardı... ve Şafak Bürosu'ndaki herkes yardım edemedikleri için öldü.</Content>
       </Dialog>
       <Dialog ID="22" Model="필립">
         <Teller>Philip</Teller>
@@ -5747,7 +5747,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
         <Teller>Oswald</Teller>
         <Title>Sirk Direktörü</Title>
         <VoiceFile>ch5_Crying_ep1_Oswald20</VoiceFile>
-        <Content>Tamam, tamam. Gel ve benimle sahneye çık, olur mu!</Content>
+        <Content>Tamam, tamam. Gel ve benimle sahneye çık, olur mu?</Content>
       </Dialog>
       <Dialog ID="31" Model="살바도르">
         <Teller>Salvador?</Teller>
@@ -5837,7 +5837,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
         <Teller>Philip</Teller>
         <Title>Eski Şafak Tamircisi</Title>
         <VoiceFile>ch5_Crying_ep1_Philip17</VoiceFile>
-        <Content>A-ama, ustanın bir karısı ve çocukları vardı...</Content>
+        <Content>A-ama, ustanın karısı ve çocukları vardı...</Content>
       </Dialog>
       <Dialog ID="46" Model="오스왈드">
         <Teller>Oswald</Teller>
@@ -5873,7 +5873,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
         <Teller>Oswald</Teller>
         <Title>Sirk Direktörü</Title>
         <VoiceFile>ch5_Crying_ep1_Oswald32</VoiceFile>
-        <Content>Bunu tam doğru zamanda duraklatıyorsun, sanki tekrar tekrar izlediğin bir tekrar gibi... bunun bir nedeni olmalı.</Content>
+        <Content>Bunu tam doğru zamanda duraklatıyorsun, sanki tekrar tekrar izlediğin bir döngü gibi... bunun bir nedeni olmalı.</Content>
       </Dialog>
       <Dialog ID="52" Model="필립">
         <Teller>Philip</Teller>
@@ -6005,7 +6005,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
         <Teller>Pluto</Teller>
         <Title>Dünün Vaadi</Title>
         <VoiceFile>ch5_Crying_ep1_Pluto2</VoiceFile>
-        <Content>Pek konuşkan hissetmiyorsun, değil mi? Pekala, sorun değil. Tüm zamanımız var, o yüzden yavaş yavaş açılalım.</Content>
+        <Content>Pek konuşkan hissetmiyorsun, değil mi? Pekala, sorun değil. Epey zamanımız var, o yüzden yavaş yavaş açılalım.</Content>
       </Dialog>
       <Dialog ID="74" Model="플루토">
         <Teller>Pluto</Teller>
@@ -6260,7 +6260,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
         <Teller>Roland</Teller>
         <Title>Hizmetkar</Title>
         <VoiceFile>ch5_Crying_ep1_Roland9</VoiceFile>
-        <Content>Çarpıtma böyle mi oluyor, ha?... gerçi biraz daha açıklamaya ihtiyacım olabilir.</Content>
+        <Content>Çarpıtma böyle oluyor, ha?... gerçi biraz daha açıklamaya ihtiyacım olabilir.</Content>
       </Dialog>
       <Dialog ID="116" Model="롤랑">
         <Teller>Roland</Teller>
@@ -6422,7 +6422,10 @@ Tren olması gerektiği gibi çalışıyor.</Content>
         <Content>...</Content>
       </Dialog>
     </Place>
-    <Place>
+  </Episode>
+    <Episode>
+      <EpisodeName>Episode 1 Epilogue</EpisodeName>
+      <Place>
       <PlaceName>Konum: Kütüphanenin İçi</PlaceName>
       <Dialog ID="0" Model="롤랑">
         <Teller>Roland</Teller>
@@ -6495,8 +6498,8 @@ Tren olması gerektiği gibi çalışıyor.</Content>
         <Title>Kütüphane Yöneticisi</Title>
         <VoiceFile>ch5_Crying_ep1_Angela18</VoiceFile>
         <Content>...</Content>
-      </Dialog>
-    </Place>
-  </Episode>
-</Group>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
 </ScenarioRoot>

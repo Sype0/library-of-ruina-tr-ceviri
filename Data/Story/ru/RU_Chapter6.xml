@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="6">
-    <Title>Bölüm 6-Şehrin Yıldızı-‘Her yıldıza güzel bir şeyler söylemeye çalışıyorum.’</Title>
+    <Title>Bölüm 6-Sehrin Yildizi-‘Her yildiza güzel bir seyler söylemeye çalisiyorum.’</Title>
   </Chapter>
   <Group>
     <GroupName>Prolog</GroupName>
@@ -2038,7 +2038,7 @@
           <Content>Saçmalık! Bunun için kaç üyemizin öldüğünden haberin var mı?</Content>
         </Dialog>
         <Dialog ID="12" Model="라미에르 패밀리 언더보스">
-          <Teller>Ramier Ailesi Underboss'u</Teller>
+          <Teller>Ramier Ailesi Alt patron'u</Teller>
           <Title>Ramier Ailesi</Title>
           <VoiceFile>ch6_Thumb_ep1_Ramier_under_1</VoiceFile>
           <Content>Ailemiz buna muazzam bir miktar para yatırdı!</Content>
@@ -2095,7 +2095,7 @@
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep1_Kalo_12</VoiceFile>
-          <Content>Ama Capo di tutti capi aksini emrediyor. İtaat etmekten başka seçeneğimiz yok.</Content>
+          <Content>Ama capo dei capi aksini emrediyor. İtaat etmekten başka seçeneğimiz yok.</Content>
         </Dialog>
         <Dialog ID="22" Model="칼로">
           <Teller>Kalo</Teller>
@@ -2137,7 +2137,7 @@
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep1_Kalo_17</VoiceFile>
-          <Content>Capo di tutti capi'nin emirlerine her şeyden önce uymalıyız.</Content>
+          <Content>capo dei capi'nin emirlerine her şeyden önce uymalıyız.</Content>
         </Dialog>
         <Dialog ID="29" Model="밤의 송곳 두목">
           <Teller>Gece Bızları Lideri</Teller>
@@ -2155,7 +2155,7 @@
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep1_Kalo_18</VoiceFile>
-          <Content>Capo di tutti capi'nin niyetlerini sorgulaman ne cüret. Bu tür kirli düşüncelerin kökünden sökülmesi gerekiyor.</Content>
+          <Content>capo dei capi'nin niyetlerini sorgulaman ne cüret. Bu tür kirli düşüncelerin kökünden sökülmesi gerekiyor.</Content>
         </Dialog>
         <Dialog ID="32" Model="칼로">
           <Teller>Kalo</Teller>
@@ -2179,7 +2179,7 @@
           <Teller>Kalo</Teller>
           <Title>Başparmak Sottocapo'su</Title>
           <VoiceFile>ch6_Thumb_ep1_Kalo_20</VoiceFile>
-          <Content>Capo di tutti capi bana bizzat söyledi. İndeks...</Content>
+          <Content>capo dei capi bana bizzat söyledi. İndeks...</Content>
         </Dialog>
         <Dialog ID="36" Model="칼로">
           <Teller>Kalo</Teller>

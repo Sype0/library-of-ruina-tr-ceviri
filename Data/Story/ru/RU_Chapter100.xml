@@ -15826,7 +15826,7 @@ Vesaire vesaire.</Content>
           <Teller>Binah</Teller>
           <Title>Jefa bibliotecaria - Filosofía</Title>
           <VoiceFile>ch8_Binah_ep1_Binah_14-01</VoiceFile>
-          <Content>Ben "Kafa"'nın bir "Árbitro"'suydum.</Content>
+          <Content>Ben "Kafa"'nın bir Hakemiydim.</Content>
         </Dialog>
         <Dialog ID="30" Model="롤랑">
           <Teller>Roland</Teller>
@@ -18453,7 +18453,7 @@ Vesaire vesaire.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Hokma_ep1_Roland_11</VoiceFile>
-          <Content>Kütüphane'yi tamamlamasına ve aradığı kitabı bulmasına yardım etmen gerekmiyor mu, doğru değil mi?</Content>
+          <Content>Kütüphane'yi tamamlamasına ve aradığı kitabı bulmasına yardım etmen gerekiyor değil mi?</Content>
         </Dialog>
         <Dialog ID="18" Model="호크마">
           <Teller>Hokma</Teller>
@@ -18519,7 +18519,7 @@ Vesaire vesaire.</Content>
           <Teller>Hokma</Teller>
           <Title>Baş Kütüphaneci - Din</Title>
           <VoiceFile>ch8_Hokma_ep1_Hokma_15-01</VoiceFile>
-          <Content>Şimdiye kadar çok zamanımı can sıkıntısıyla geçirdim.</Content>
+          <Content>Şimdiye kadar çoğu zamanımı can sıkıntısıyla geçirdim.</Content>
         </Dialog>
       </Place>
     </Episode>
