@@ -67,7 +67,7 @@
       <LocalizedName>Saldırganlık Dürtüsü</LocalizedName>
       <Ability>Sonraki Sahnede Güçlü bir saldırı kullanacaktır</Ability>
       <Behaviour ID="0">[Çatışmayı Kazandığında] 1 Spor Uygular</Behaviour>
-      <Behaviour ID="2">[Vurulduğunda] Sonraki Sahnede tüm müttefiklere (kendin dahil) 2 Güç ve Acele verir</Behaviour>
+      <Behaviour ID="2">[Vurulduğunda] Sonraki Sahnede tüm müttefiklere (kendin dahil) 2 Güç ve Hız verir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9901402">
       <LocalizedName>Görkem Damgası</LocalizedName>
@@ -1235,7 +1235,7 @@
   </BattleCardDesc>
     <BattleCardDesc ID="9906413">
     <LocalizedName>Kızıl Ziyafet</LocalizedName>
-  <Ability>[Kullanıldığında] Sonraki Sahnede 2 müttefiğe 3 Koruma ve Acele verir</Ability>
+  <Ability>[Kullanıldığında] Sonraki Sahnede 2 müttefiğe 3 Koruma ve Hız verir</Ability>
     <Behaviour ID="1">[Çatışmayı Kazandığında] Rakibin sonraki Zarının Gücünü 1 azaltır</Behaviour>
     <Behaviour ID="2">[Vurulduğunda] Sonraki Sahnede 1 Kan kazanır</Behaviour>
   </BattleCardDesc>
@@ -1503,7 +1503,7 @@
     <BattleCardDesc ID="9907413">
       <LocalizedName>Samimi Zihin</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Vurulduğunda] Sonraki Sahnede rastgele 2 müttefiğe 1 Acele verir</Behaviour>
+      <Behaviour ID="0">[Vurulduğunda] Sonraki Sahnede rastgele 2 müttefiğe 1 Hız verir</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9907414">
       <LocalizedName>Sessizce Uzaklaş</LocalizedName>
@@ -1603,7 +1603,7 @@ Bu Kütüphaneci zaten bu duruma sahipse veya başka bir Sayfanın etkisine sahi
 
     <BattleCardDesc ID="9907631">
       <LocalizedName>Cesaret</LocalizedName>
-      <Ability>[Oynandığında] 2 Sahne boyunca 'Cesaret' kazanır (Üzerindeki tüm Endeble (Zayıflık), Silahsızlandırma ve Kırılganlık durumlarını kaldırır. 5 Güç ve Acele kazanır.)</Ability>
+      <Ability>[Oynandığında] 2 Sahne boyunca 'Cesaret' kazanır (Üzerindeki tüm Endeble (Zayıflık), Silahsızlandırma ve Kırılganlık durumlarını kaldırır. 5 Güç ve Hız kazanır.)</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9907531">
       <LocalizedName>Tüket</LocalizedName>
@@ -1677,7 +1677,7 @@ Bu Kütüphaneci zaten bu duruma sahipse veya başka bir Sayfanın etkisine sahi
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9908212">
-      <LocalizedName>Hızlı Kanat Çırpışları</Localizedname>
+      <LocalizedName>Hızlı Kanat Çırpışları</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9908213">
       <LocalizedName>Ceza!</LocalizedName>
@@ -1781,7 +1781,7 @@ Bu Kütüphaneci zaten bu duruma sahipse veya başka bir Sayfanın etkisine sahi
       <Behaviour ID="1">[Vurulduğunda] Hedef 1 Işık kaybeder</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9908531">
-      <LocalizedName>Eğik Terazi</Localizedme
+      <LocalizedName>Eğik Terazi</LocalizedName>
       <Behaviour ID="0">[Vurulduğunda] Sonraki Sahnede 1 'Ağır Suçluluk' uygular</Behaviour>
       <Behaviour ID="1">[Vurulduğunda] Sonraki Sahnede 2 'Ağır Suçluluk' uygular</Behaviour>
     </BattleCardDesc>
@@ -1804,7 +1804,7 @@ Bu Kütüphaneci zaten bu duruma sahipse veya başka bir Sayfanın etkisine sahi
 
     <BattleCardDesc ID="9909111">
       <LocalizedName>Korkma</LocalizedName>
-      <Ability>[Kullanıldığında] Sonraki Sahnede rastgele bir müttefiğe 1 Güç, Dayanıklılık ve Acele verir</Ability>
+      <Ability>[Kullanıldığında] Sonraki Sahnede rastgele bir müttefiğe 1 Güç, Dayanıklılık ve Hız verir</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9909112">
       <LocalizedName>Kalk ve Bana Hizmet Et</LocalizedName>
@@ -1826,7 +1826,7 @@ Bu Kütüphaneci zaten bu duruma sahipse veya başka bir Sayfanın etkisine sahi
     </BattleCardDesc>
     <BattleCardDesc ID="9909116">
       <LocalizedName>Vaftiz</LocalizedName>
-      <Ability>[Kullanıldığında] Hedefin 10 Can ve Sersemletme Direncini Yeniler; Hedefe sonraki Sahnede 1 Güç, Dayanıklılık ve Acele verir</Ability>
+      <Ability>[Kullanıldığında] Hedefin 10 Can ve Sersemletme Direncini Yeniler; Hedefe sonraki Sahnede 1 Güç, Dayanıklılık ve Hız verir</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9909999">
       <LocalizedName>Kefaret</LocalizedName>

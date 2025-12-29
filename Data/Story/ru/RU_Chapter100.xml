@@ -10487,7 +10487,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Tiphereth</Teller>
           <Title>Baş Kütüphaneci - Doğa Bil.</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_8-01</VoiceFile>
-          <Content>Örneğin, Dawn Ofisi'nden Philip'e bak, Ağlayan Çocuklara dönüştü. Dönüşmesi için duygularında yoğun bir artış gerekti.</Content>
+          <Content>Örneğin, Şafak Ofisi'nden Philip'e bak, Ağlayan Çocuklara dönüştü. Dönüşmesi için duygularında yoğun bir artış gerekti.</Content>
         </Dialog>
         <Dialog ID="12" Model="티페리트">
           <Teller>Tiphereth</Teller>
@@ -10595,7 +10595,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Roland_11</VoiceFile>
-          <Content>Azize sabrına sahipsin.</Content>
+          <Content>Peygamber sabrına sahipsin.</Content>
         </Dialog>
         <Dialog ID="30" Model="티페리트">
           <Teller>Tiphereth</Teller>
@@ -12038,7 +12038,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Gebura_ep3_Roland16</VoiceFile>
-          <Content>Ah, bunun geleceğini görmeliydim. Kali'nin bir yerlerde daha fazla parası sakladığını düşünmüş olmalılar.</Content>
+          <Content>Ah, bunun geleceğini görmeliydim. Kali'nin bir yerlerde daha fazla para sakladığını düşünmüş olmalılar.</Content>
         </Dialog>
         <Dialog ID="59" Model="게부라">
           <Teller>Gebura</Teller>
@@ -13925,7 +13925,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chesed_ep3_Roland6</VoiceFile>
-          <Content>Bu, "Semt 23" sakinlerinin söyleyeceği bir şey... Bana misafirlerden yapılmış kahve vermiyorsun, değil mi?!</Content>
+          <Content>Bu, 23. bölge sakinlerinin söyleyeceği bir şey... Bana misafirlerden yapılmış kahve vermiyorsun, değil mi?!</Content>
         </Dialog>
         <Dialog ID="15" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -13991,7 +13991,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed16</VoiceFile>
-          <Content>"Şehir" ve "Yuva" insanlara fısıldamaya devam ediyor, hepsi iyi çekirdekler elde etmek için.</Content>
+          <Content>Şehir ve Yuva insanlara fısıldamaya devam ediyor, hepsi iyi çekirdekler elde etmek için.</Content>
         </Dialog>
         <Dialog ID="26" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14057,7 +14057,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chesed_ep3_chesed24</VoiceFile>
-          <Content>Peki, insanları nasıl ""karıştıracağına"" kim karar veriyor? Hayır, bu ilk etapta gerekli mi?</Content>
+          <Content>Peki, insanları nasıl karıştıracağına kim karar veriyor? Hayır, bu ilk etapta gerekli mi?</Content>
         </Dialog>
         <Dialog ID="37" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14944,7 +14944,7 @@ Vesaire vesaire.</Content>
           <Teller />
           <Title />
           <VoiceFile>ch8_Chessed_ep5_Roland_24</VoiceFile>
-          <Content>""Söz"" kelimesi belki de bu "Şehir"'deki en boş kelimedir.</Content>
+          <Content>Söz kelimesi belki de bu Şehir'deki en boş kelimedir.</Content>
         </Dialog>
         <Dialog ID="65" Model="">
           <Teller />
@@ -15010,7 +15010,7 @@ Vesaire vesaire.</Content>
           <Teller>Bir Düzeltici</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Chessed_ep5_Pluto_7-02</VoiceFile>
-          <Content>Bunun "ensefalin" olduğunu bilmiyordum ve "O Corp"'a gönderilmesi gerektiğini de bilmiyordum!</Content>
+          <Content>Bunun ensefalin olduğunu bilmiyordum ve O Corp'a gönderilmesi gerektiğini de bilmiyordum!</Content>
         </Dialog>
         <Dialog ID="76" Model="롤랑">
           <Teller>Roland</Teller>

@@ -477,7 +477,7 @@
   </PassiveDesc>
   <PassiveDesc ID="505313">
     <Name>Narsisizm</Name>
-    <Desc>3 veya daha az Kütüphaneci Özel Savas Sayfasi saldirisini engellemeyi basarirsa, bir sonraki Sahne 3 Güç ve Acele kazanir. (iki veya daha az Kütüphaneci hayattaysa, Sayfayi bir veya hiç Kütüphaneci engellemezse bu etki etkinlesir)</Desc>
+    <Desc>3 veya daha az Kütüphaneci Özel Savas Sayfasi saldirisini engellemeyi basarirsa, bir sonraki Sahne 3 Güç ve Hız kazanir. (iki veya daha az Kütüphaneci hayattaysa, Sayfayi bir veya hiç Kütüphaneci engellemezse bu etki etkinlesir)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505314">
     <Name>Anlik Mutluluk</Name>

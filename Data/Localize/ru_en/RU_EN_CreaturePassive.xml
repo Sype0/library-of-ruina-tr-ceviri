@@ -244,7 +244,7 @@ Sahne sonunda, tüm Isigi yeniler ve 2 Sayfa çeker.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="601014">
     <Name>Serbest Kalmis Kuduzluk</Name>
-    <Desc>Bir Kütüphaneci Kurt'a son vurusu yaparsa, Anormallik 'Serbest Kalmis Kuduzluk' durumuna girer ve ek Maksimum Can ve Sersemletme Direnci kazanir. Bundan sonra, Maksimum Canin %50'sini ve Sersemletme Direncini tamamen yeniler. Serbest Kalmis Kuduzluk: Kalici olarak devam eder. Her Sahne +5 Güç ve Acele kazanir ve Alan Saldirisi Sayfalari kullanir.</Desc>
+    <Desc>Bir Kütüphaneci Kurt'a son vurusu yaparsa, Anormallik 'Serbest Kalmis Kuduzluk' durumuna girer ve ek Maksimum Can ve Sersemletme Direnci kazanir. Bundan sonra, Maksimum Canin %50'sini ve Sersemletme Direncini tamamen yeniler. Serbest Kalmis Kuduzluk: Kalici olarak devam eder. Her Sahne +5 Güç ve Hız kazanir ve Alan Saldirisi Sayfalari kullanir.</Desc>
   </PassiveDesc>
     <PassiveDesc ID="601021">
     <Name>Kurt Kükremesi</Name>
@@ -358,7 +358,7 @@ Sahne sonunda, tüm Isigi yeniler ve 2 Sayfa çeker.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="503013">
     <Name>Narsisizm</Name>
-    <Desc>3 veya daha az Kütüphaneci Özel Savas Sayfasi saldirisini engellemeyi basarirsa, bir sonraki Sahne 3 Güç ve Acele kazanir. (iki veya daha az Kütüphaneci hayattaysa, Sayfayi bir veya hiç Kütüphaneci engellemezse bu etki etkinlesir.)</Desc>
+    <Desc>3 veya daha az Kütüphaneci Özel Savas Sayfasi saldirisini engellemeyi basarirsa, bir sonraki Sahne 3 Güç ve Hız kazanir. (iki veya daha az Kütüphaneci hayattaysa, Sayfayi bir veya hiç Kütüphaneci engellemezse bu etki etkinlesir.)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="503014">
     <Name>Anlik Mutluluk</Name>
@@ -768,7 +768,7 @@ Bundan sonra, gerçek Jack 'Canlanmis Jack'e dönüsür ve Unutkanlik durumuna s
   </PassiveDesc>
   <PassiveDesc ID="704026">
     <Name>Kuzey Parçasi</Name>
-    <Desc>Her Sahne 1 Acele kazanir</Desc>
+    <Desc>Her Sahne 1 Hız kazanir</Desc>
   </PassiveDesc>
   <PassiveDesc ID="704027">
     <Name>Dogu Parçasi</Name>
@@ -781,7 +781,7 @@ Bundan sonra, gerçek Jack 'Canlanmis Jack'e dönüsür ve Unutkanlik durumuna s
   </PassiveDesc>
   <PassiveDesc ID="704032">
     <Name>Mükemmel Jack</Name>
-    <Desc>Her Sahne 2 Güç ve Sertlik, 1 Acele ve Sersemletme Hasarini 3 artiran bir bonus kazanir</Desc>
+    <Desc>Her Sahne 2 Güç ve Sertlik, 1 Hız ve Sersemletme Hasarini 3 artiran bir bonus kazanir</Desc>
   </PassiveDesc>
     <PassiveDesc ID="704041">
     <Name>Kaybolmus Anilar</Name>
