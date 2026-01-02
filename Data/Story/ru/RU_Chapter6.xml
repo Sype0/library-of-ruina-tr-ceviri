@@ -2890,110 +2890,110 @@
     </Episode>
   </Group>
 <Group>
-    <GroupName>Cane Ofisi</GroupName>
+    <GroupName>Baston Ofisi</GroupName>
     <Episode>
       <EpisodeName>Epizot 1</EpisodeName>
       <Place>
-        <PlaceName>Konum: Cane Ofisi</PlaceName>
+        <PlaceName>Konum: Baston Ofisi</PlaceName>
         <Dialog ID="0" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_1-02</VoiceFile>
           <Content>Başkan, T Şirketi'nin talebini gördünüz mü?</Content>
         </Dialog>
         <Dialog ID="1" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_1</VoiceFile>
           <Content>Vay vay~ Bu zorlu bir durum.</Content>
         </Dialog>
         <Dialog ID="2" Model="마르티나">
           <Teller>Martina</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Martina_1</VoiceFile>
           <Content>... Keşfedildik mi...?</Content>
         </Dialog>
         <Dialog ID="3" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_2-01</VoiceFile>
           <Content>W Şirketi'nin Tekilliğini bu kadar dikkatsizce sızdırması ne kadar beceriksizce. Bu iyi değil! Hiç iyi değil!</Content>
         </Dialog>
         <Dialog ID="4" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_2-02</VoiceFile>
           <Content>İtiraf etmeliyim ki, her şey Mavi Yankı'nın söylediği gibi gitti.</Content>
         </Dialog>
         <Dialog ID="5" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_3-01</VoiceFile>
           <Content>Evet! Gerçekten de! Bu, W Şirketi'nin Tekilliğinin ayrıntılarını öğrenmek için mükemmel bir fırsat!</Content>
         </Dialog>
         <Dialog ID="6" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_4-01</VoiceFile>
           <Content>Tek yapmamız gereken bu Davet ile Kütüphane'yi ziyaret etmek ve W Şirketi'nin temizlik ajanlarının kitaplarını kazanmak!</Content>
         </Dialog>
         <Dialog ID="7" Model="마르티나">
           <Teller>Martina</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Martina_2-01</VoiceFile>
           <Content>... Baş... Kütüphane artık bir Şehrin Yıldızı...</Content>
         </Dialog>
         <Dialog ID="8" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_5</VoiceFile>
           <Content>Şimdiye kadar on bir Şehrin Yıldızı ile ilgili talebi tamamladık! Ofisimizin bu kadar yükselmesinin nedeni de bu yetenek!</Content>
         </Dialog>
         <Dialog ID="9" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_3</VoiceFile>
           <Content>W Şirketi Tekilliği'nin gizli bilgilerini edindiğimizde, onlarla ne yapacaksınız? Sadece W Şirketi'ne geri vereceğinizden şüpheliyim.</Content>
         </Dialog>
         <Dialog ID="10" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_6</VoiceFile>
           <Content>Elbette, bu teknolojiye ihtiyacı olan müşterilere satmalıyız! Bir patent savaşı patlamak üzere.</Content>
         </Dialog>
         <Dialog ID="11" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_4-02</VoiceFile>
           <Content>Yani hemen T Şirketi'ne teslim etmeyeceğiz.</Content>
         </Dialog>
         <Dialog ID="12" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_7-02</VoiceFile>
           <Content>Bay Bada! Ofisimizin yaptığı gibi rütbelerde yükselmek için sadece çalışkanlıktan fazlası gerekir!</Content>
         </Dialog>
         <Dialog ID="13" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_8-01</VoiceFile>
           <Content>Her zaman fırsat kollamalıyız!</Content>
         </Dialog>
         <Dialog ID="14" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_9</VoiceFile>
           <Content>Başlangıçta, işi Gaze Ofisi gibi alakasız çöplere devretmemiz söylendiğinde şüpheliydim...</Content>
         </Dialog>
         <Dialog ID="15" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_10</VoiceFile>
           <Content>Şaka yaptıklarını sanmıştım ama bakın nasıl sonuçlandı!</Content>
         </Dialog>
         <Dialog ID="16" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_11</VoiceFile>
           <Content>Ancak, işte asıl mesele...</Content>
         </Dialog>
@@ -3007,23 +3007,23 @@
           <Teller>Pluto</Teller>
           <Title>Dünün Vaadi</Title>
           <VoiceFile>ch6_Cane_ep1_Pluto_1-01</VoiceFile>
-          <Content>Sizi ikinci kez görmek bir zevk, Cane Ofisi Başkanı Nemo.</Content>
+          <Content>Sizi ikinci kez görmek bir zevk, Baston Ofisi Başkanı Nemo.</Content>
         </Dialog>
         <Dialog ID="19" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_12-01</VoiceFile>
-          <Content>... İşte asıl mesele! O tuhaf, kadınsı adam ve iskelet kafa. Ne zamandan beri oraya kendimizin gitmesini ekledik?</Content>
+          <Content>... İşte asıl mesele! O tuhaf, kadınsı adam ve iskelet kafa. Ne zamandan beri kendi başımıza oraya gitmeyi kabul ettik?</Content>
         </Dialog>
         <Dialog ID="20" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_13</VoiceFile>
           <Content>İşler bu şekilde mi olacak?</Content>
         </Dialog>
         <Dialog ID="21" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_14-01</VoiceFile>
           <Content>Kütüphane'ye kendimiz mi gitmek zorundayız? Ben dahil mi?</Content>
         </Dialog>
@@ -3041,43 +3041,43 @@
         </Dialog>
         <Dialog ID="24" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_5-02</VoiceFile>
           <Content>Konuşmamızı mı dinliyordunuz...?</Content>
         </Dialog>
         <Dialog ID="25" Model="마르티나">
           <Teller>Martina</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Martina_3-01</VoiceFile>
           <Content>... Bu sorunlu olabilir...</Content>
         </Dialog>
         <Dialog ID="26" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_15_b-04</VoiceFile>
           <Content>Ha! Ha! Ha! Ah, bir çift röntgenci... duvarların kulakları olduğunu söylerler ama bok torbalarının da varmış gibi görünüyor!</Content>
         </Dialog>
         <Dialog ID="27" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_16-04</VoiceFile>
           <Content>Korkuyor muyum?</Content>
         </Dialog>
         <Dialog ID="28" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_17-06</VoiceFile>
           <Content>Pekala... EVET! Lanet olsun, korkuyorum, sorduğun için teşekkürler!</Content>
         </Dialog>
         <Dialog ID="29" Model="마르티나">
           <Teller>Martina</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Martina_4-01</VoiceFile>
           <Content>... Başkan sinirlendi...</Content>
         </Dialog>
         <Dialog ID="30" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_6</VoiceFile>
           <Content>Onu sakinleştirmek tam bir baş belası olacak.</Content>
         </Dialog>
@@ -3085,65 +3085,65 @@
           <Teller>Pluto</Teller>
           <Title>Dünün Vaadi</Title>
           <VoiceFile>ch6_Cane_ep1_Pluto_2-01</VoiceFile>
-          <Content>Önde gelen ve prestijli Cane Ofisi'nin sözünü geri almasını beklemiyordum.</Content>
+          <Content>Önde gelen ve prestijli Baston Ofisi'nin sözünü geri almasını beklemiyordum.</Content>
         </Dialog>
         <Dialog ID="32" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_18-01</VoiceFile>
           <Content>Bay Kafatası Şapka! Beynim hurda gibi mi görünüyor?</Content>
         </Dialog>
         <Dialog ID="33" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_19</VoiceFile>
           <Content>Motivasyonun o kadar şeffaf ki, dehşete kapılmamak elde değil!</Content>
         </Dialog>
         <Dialog ID="34" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_20</VoiceFile>
           <Content>Ya Kütüphane'ye girersem? Ve orada kitap olursam?</Content>
         </Dialog>
         <Dialog ID="35" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_21</VoiceFile>
           <Content>O zaman Kütüphane'de hem W Şirketi hem de T Şirketi'nin Tekilliklerini detaylandıran bir kitap olur, değil mi? L Şirketi'nin kitabının olduğu aynı Kütüphane'de!</Content>
         </Dialog>
         <Dialog ID="36" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_7-02</VoiceFile>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="37" Model="마르티나">
           <Teller>Martina</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Martina_5-01</VoiceFile>
           <Content>...</Content>
         </Dialog>
         <Dialog ID="38" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_22-01</VoiceFile>
           <Content>Tahmin et kim üç Tekilliğe aynı anda sahip olur!</Content>
         </Dialog>
         <Dialog ID="39" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_23-01</VoiceFile>
           <Content>Patent savaşının eşiğinde olduğumuz bu zamanlarda mı?</Content>
         </Dialog>
         <Dialog ID="40" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_24-01</VoiceFile>
           <Content>Ha! Ha! Ha! O kadar açık ki, iki kez söylemenin anlamı yok!</Content>
         </Dialog>
         <Dialog ID="41" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_25-03</VoiceFile>
           <Content>Söyle bana. Bunun arkasındaki dahi kim. Bu küçük oyunlarınla kimin cebini doldurmaya çalışıyorsun.</Content>
         </Dialog>
@@ -3209,7 +3209,7 @@
         </Dialog>
         <Dialog ID="52" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_26-02</VoiceFile>
           <Content>SUS!!!!!!</Content>
         </Dialog>
@@ -3241,13 +3241,13 @@
           <Teller>Pluto</Teller>
           <Title>Dünün Vaadi</Title>
           <VoiceFile>ch6_Cane_ep1_Pluto_5-02</VoiceFile>
-          <Content>Özetlemek gerekirse, biz Cane Ofisi'ne W Şirketi'nin Tekilliği hakkında bilgi sağlayacağız.</Content>
+          <Content>Özetlemek gerekirse, biz Baston Ofisi'ne W Şirketi'nin Tekilliği hakkında bilgi sağlayacağız.</Content>
         </Dialog>
         <Dialog ID="58" Model="플루토">
           <Teller>Pluto</Teller>
           <Title>Dünün Vaadi</Title>
           <VoiceFile>ch6_Cane_ep1_Pluto_6-02</VoiceFile>
-          <Content>Ve karşılığında, Cane Ofisi biz ne zaman istersek Kütüphane'den kitapları alacak.</Content>
+          <Content>Ve karşılığında, Baston Ofisi biz ne zaman istersek Kütüphane'den kitapları alacak.</Content>
         </Dialog>
         <Dialog ID="59" Model="플루토">
           <Teller>Pluto</Teller>
@@ -3257,7 +3257,7 @@
         </Dialog>
         <Dialog ID="60" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_8-02</VoiceFile>
           <Content>W Şirketi Tekilliği hakkındaki bilginin Kütüphane kitapları şeklinde teslim edileceği bize söylenmedi. Kaldı ki onları bizim almamız gerektiği de söylenmedi.</Content>
         </Dialog>
@@ -3275,7 +3275,7 @@
         </Dialog>
         <Dialog ID="63" Model="마르티나">
           <Teller>Martina</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Martina_6</VoiceFile>
           <Content>... Buna karar veren sen değilsin...</Content>
         </Dialog>
@@ -3287,9 +3287,9 @@
         </Dialog>
         <Dialog ID="65" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_9-03</VoiceFile>
-          <Content>Sözleşme, Kütüphane'ye kendimizin gitmesi gerektiğini asla belirtmedi. Sadece “Cane Ofisi”nin gitmesi gerektiğini söylüyordu.</Content>
+          <Content>Sözleşme, Kütüphane'ye kendimizin gitmesi gerektiğini asla belirtmedi. Sadece “Baston Ofisi”nin gitmesi gerektiğini söylüyordu.</Content>
         </Dialog>
         <Dialog ID="66" Model="플루토">
           <Teller>Pluto</Teller>
@@ -3299,7 +3299,7 @@
         </Dialog>
         <Dialog ID="67" Model="마르티나">
           <Teller>Martina</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Martina_7-01</VoiceFile>
           <Content>... Hiçbir şey göremiyorum...</Content>
         </Dialog>
@@ -3311,19 +3311,19 @@
         </Dialog>
         <Dialog ID="69" Model="마르티나">
           <Teller>Martina</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Martina_8-01</VoiceFile>
           <Content>... “Bu sözleşmeyi imzalayan herkes Kütüphane'deki kitapları bizzat geri almalıdır”...</Content>
         </Dialog>
         <Dialog ID="70" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_10</VoiceFile>
           <Content>Ne aptalca bir aldatmaca. İşimizi engelledikten sonra paçayı sıyıracağını mı sanıyorsun?</Content>
         </Dialog>
         <Dialog ID="71" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_11-08</VoiceFile>
           <Content>Bu noktada hileli sözleşmenizi yerine getireceğimizi düşündüren ne?</Content>
         </Dialog>
@@ -3361,11 +3361,11 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Cane_ep1_Agalia_20-01</VoiceFile>
-          <Content>Neyse, bu sözleşmenin şartlarını yerine getirmezseniz, kağıdı imzalayanlardan istediği her şeyi alabilir, anladınız mı? İstediğimiz zaman, istediğimiz kadarını alabiliriz.</Content>
+          <Content>Neyse, bu sözleşmenin şartlarını yerine getirmezseniz, kağıdı imzalayanlardan istediği her şeyi alabiliriz, anladınız mı? İstediğimiz zaman, istediğimiz kadarını alabiliriz.</Content>
         </Dialog>
         <Dialog ID="78" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_27</VoiceFile>
           <Content>... Saçmalık!</Content>
         </Dialog>
@@ -3389,13 +3389,13 @@
         </Dialog>
         <Dialog ID="82" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_12-01</VoiceFile>
           <Content>Kuhrgh...</Content>
         </Dialog>
         <Dialog ID="83" Model="마르티나">
           <Teller>Martina</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Martina_9-01</VoiceFile>
           <Content>... Bada...!</Content>
         </Dialog>
@@ -3425,7 +3425,7 @@
         </Dialog>
         <Dialog ID="88" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_28</VoiceFile>
           <Content>Sana bir şey soracağım!</Content>
         </Dialog>
@@ -3437,7 +3437,7 @@
         </Dialog>
         <Dialog ID="90" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_29-01</VoiceFile>
           <Content>O şeytanlarla ne yapmayı planlıyorsunuz?</Content>
         </Dialog>
@@ -3461,61 +3461,61 @@
         </Dialog>
         <Dialog ID="94" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_30-01</VoiceFile>
           <Content>... Güzellik...? Yalnızlık...?</Content>
         </Dialog>
         <Dialog ID="95" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_31-02</VoiceFile>
           <Content>Ha! Ha! Ha! Çılgın manyak...</Content>
         </Dialog>
         <Dialog ID="96" Model="마르티나">
           <Teller>Martina</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Martina_10-01</VoiceFile>
           <Content>... Bada, kalbin iyi mi...? ... Bir doktora gitsek mi...?</Content>
         </Dialog>
         <Dialog ID="97" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_13-02</VoiceFile>
           <Content>Gittiler...</Content>
         </Dialog>
         <Dialog ID="98" Model="마르티나">
           <Teller>Martina</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Martina_11-01</VoiceFile>
           <Content>... Şimdi ne yapacağız, başkan...</Content>
         </Dialog>
         <Dialog ID="99" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_32</VoiceFile>
           <Content>Güzel! Görünüşe göre bizi yakaladılar!</Content>
         </Dialog>
         <Dialog ID="100" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_14-06</VoiceFile>
           <Content>... Hazırlıksız gitmemiz sorun olmayacak, değil mi...</Content>
         </Dialog>
         <Dialog ID="101" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_33-01</VoiceFile>
           <Content>Basit düşünelim. Çok ciddileşmeyin!</Content>
         </Dialog>
         <Dialog ID="102" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_34-01</VoiceFile>
           <Content>Kütüphane'ye gideceğiz, kitapları alacağız ve geri geleceğiz! Hepsi bu!</Content>
         </Dialog>
         <Dialog ID="103" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_35-02</VoiceFile>
           <Content>Hadi hazırlanalım!</Content>
         </Dialog>
@@ -3556,7 +3556,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Cane_ep1_Roland_2</VoiceFile>
-          <Content>Şey, sanırım. Yine de Şehir'deki tek manipülatif tür olmaktan çok uzak.</Content>
+          <Content>Şey, sanırım öyle. Yine de Şehir'deki tek manipülatif tür olmaktan çok uzak.</Content>
         </Dialog>
         <Dialog ID="110" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -3653,103 +3653,103 @@
         <PlaceName>Konum: Kütüphane Girişi</PlaceName>
         <Dialog ID="125" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_36-02</VoiceFile>
           <Content>Canavarlar bizi tavadan alıp ateşe, yani Kütüphane denen canavar yuvasına attı.</Content>
         </Dialog>
         <Dialog ID="126" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_37-02</VoiceFile>
           <Content>Bu altın komedi olmalı, yüzyılın şakası.</Content>
         </Dialog>
         <Dialog ID="127" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_15-01</VoiceFile>
           <Content>Eğer biraz yardımcı olacaksa, Kütüphane'nin oldukça nazik olduğunu duydum.</Content>
         </Dialog>
         <Dialog ID="128" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_38-02</VoiceFile>
           <Content>... Bir saniye.</Content>
         </Dialog>
         <Dialog ID="129" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_16-03</VoiceFile>
           <Content>Bir şey mi oldu?</Content>
         </Dialog>
         <Dialog ID="130" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_39</VoiceFile>
           <Content>Martina!</Content>
         </Dialog>
         <Dialog ID="131" Model="마르티나">
           <Teller>Martina</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Martina_12-01</VoiceFile>
           <Content>Evet...</Content>
         </Dialog>
         <Dialog ID="132" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_40-01</VoiceFile>
           <Content>Bu yer hakkında ne düşünüyorsun?</Content>
         </Dialog>
         <Dialog ID="133" Model="마르티나">
           <Teller>Martina</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Martina_13-01</VoiceFile>
           <Content>Işık, ama... bir şey kokuyor...</Content>
         </Dialog>
         <Dialog ID="134" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_41-02</VoiceFile>
           <Content>Kesinlikle! Para kokuyor, kazanç kokuyor!</Content>
         </Dialog>
         <Dialog ID="135" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_17</VoiceFile>
           <Content>O kafayla koku alamaz bile.</Content>
         </Dialog>
         <Dialog ID="136" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_42</VoiceFile>
           <Content>Her bulutun gümüş bir astarı vardır ve görünüşe göre bir tane bulduk!</Content>
         </Dialog>
         <Dialog ID="137" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_18-01</VoiceFile>
           <Content>Kitapları falan satmayı mı planlıyorsunuz?</Content>
         </Dialog>
         <Dialog ID="138" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_43-02</VoiceFile>
           <Content>Kesinlikle! Sözleşme Ofisi olarak itibarımız yerle bir olsa bile, en azından bu kitapları alıp satarsak aç kalmayız!</Content>
         </Dialog>
         <Dialog ID="139" Model="마르티나">
           <Teller>Martina</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Martina_14-01</VoiceFile>
           <Content>Şu anda paraya boğulmuyor musunuz, başkan...?</Content>
         </Dialog>
         <Dialog ID="140" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_19</VoiceFile>
           <Content>Martina, başkanımız her gün bir Kenar Mahalle sakininin bir yıllık kazancını yemeğe harcıyor. Parası asla yetmez.</Content>
         </Dialog>
         <Dialog ID="141" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_44-01</VoiceFile>
           <Content>Yine de Ofis personelimi asla dolandırmadım, emin olabilirsiniz!</Content>
         </Dialog>
@@ -3761,37 +3761,37 @@
         </Dialog>
         <Dialog ID="143" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_45</VoiceFile>
           <Content>Siz bu yerin yöneticisi, o çok bahsedilen 'Solgun Kütüphaneci' Angela olmalısınız!</Content>
         </Dialog>
         <Dialog ID="144" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_20-05</VoiceFile>
           <Content>Hiç de solgun görünmüyor.</Content>
         </Dialog>
         <Dialog ID="145" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_46</VoiceFile>
           <Content>Bada! Sözlerine dikkat et.</Content>
         </Dialog>
         <Dialog ID="146" Model="네모">
           <Teller>Nemo</Teller>
-          <Title>Cane Başkanı</Title>
+          <Title>Baston Başkanı</Title>
           <VoiceFile>ch6_Cane_ep1_Nemo_47-02</VoiceFile>
           <Content>Buradaki Bayan Angela, gelecekte bizim değerli mal ve zenginlik sağlayıcımız olabilir!</Content>
         </Dialog>
         <Dialog ID="147" Model="마르티나">
           <Teller>Martina</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Martina_15-01</VoiceFile>
           <Content>Başkan ne kadar hızlı tavır değiştirdi...</Content>
         </Dialog>
         <Dialog ID="148" Model="바다">
           <Teller>Bada</Teller>
-          <Title>Cane Düzelticisi</Title>
+          <Title>Baston Düzelticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Bada_21-03</VoiceFile>
           <Content>Buna alıştım artık.</Content>
         </Dialog>
@@ -3799,7 +3799,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Yöneticisi</Title>
           <VoiceFile>ch6_Cane_ep1_Angela_16</VoiceFile>
-          <Content>Kitaplarını bu yerde bulmaları dileğiyle.</Content>
+          <Content>Kitaplarınızı bu yerde bulmanız dileği ile.</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -3947,7 +3947,7 @@
           <Teller>Kenar Mahalle Sakini 3</Teller>
           <Title>Kenar Mahalle Sakini</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_peaple_3</VoiceFile>
-          <Content>Canavarlar gelmek üzere. Lütfen... gitmemize izin ver, yeterince yaptın...</Content>
+          <Content>Canavarlar gelmek üzere. Lütfen... gitmemize izin ver, yeterince çektirdiniz...</Content>
         </Dialog>
         <Dialog ID="9" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -4055,7 +4055,7 @@
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Argalia_20</VoiceFile>
-          <Content>Saf ve sevimli erkek Fatma'mı kaybetmenin acısı ve umutsuzluğuyla titredim...</Content>
+          <Content>Masum ve sevimli yaramazımı kaybettiğim için acıyla ve umutsuzlukla titredim...</Content>
         </Dialog>
         <Dialog ID="27" Model="아르갈리아">
           <Teller>Argalia</Teller>
@@ -4452,7 +4452,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch6_Blue_Reverberation_ep1_Roland_17</VoiceFile>
-          <Content>Pekala, belki. Bundan pişman mı oldun falan mı?</Content>
+          <Content>Pekala, belki. Bundan pişman falan mı oldun?</Content>
         </Dialog>
         <Dialog ID="15" Model="앤젤라">
           <Teller>Angela</Teller>
