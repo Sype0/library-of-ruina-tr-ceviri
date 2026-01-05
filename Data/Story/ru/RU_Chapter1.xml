@@ -823,7 +823,7 @@
           <Teller>Pete</Teller>
           <Title>Fare</Title>
           <VoiceFile>ch1_rat_ep1_pit12</VoiceFile>
-          <Content>Hey! Şakamı bu? Doğru şeyi topladığınızdan eminmisiniz?!</Content>
+          <Content>Hey! Şakamı bu? Doğru şeyi topladığınızdan emin misiniz?!</Content>
         </Dialog>
         <Dialog ID="23" Model="레니">
           <Teller>Lenny</Teller>
@@ -1687,7 +1687,7 @@
           <Teller>Finn</Teller>
           <Title>Yun’un Düzelticisi</Title>
           <VoiceFile>ch1_Yun_ep1_finn1</VoiceFile>
-          <Content>Ama genede, küçük işlerle başlarsak belki bir gün ışığı biz de görebiliriz böyle düşünmüyormusunuz?</Content>
+          <Content>Ama genede, küçük işlerle başlarsak belki bir gün ışığı biz de görebiliriz böyle düşünmüyor musunuz?</Content>
         </Dialog>
         <Dialog ID="3" Model="해결사2">
           <Teller>Düzeltici 2</Teller>
@@ -1711,7 +1711,7 @@
           <Teller>Düzeltici 1</Teller>
           <Title>Yun’un Ofisi</Title>
           <VoiceFile>ch1_Yun_ep1_Fixer1_2</VoiceFile>
-          <Content>Yeah, Finn. sen bir Düzeltici olduğunda aklında daha iyi şeyler vardı herhalde.</Content>
+          <Content>Aynen öyle, Finn. sen bir Düzeltici olduğunda aklında daha iyi şeyler vardı herhalde.</Content>
         </Dialog>
         <Dialog ID="7" Model="해결사1">
           <Teller>Düzeltici 1</Teller>
