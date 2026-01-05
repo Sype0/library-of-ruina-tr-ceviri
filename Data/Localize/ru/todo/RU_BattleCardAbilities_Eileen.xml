@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardAbilityDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BattleCardAbility ID="elieenalliespower2">
+    <Desc>[Kullanıldığında] Gelecek sahne müttefik Dişli Tapınanlarına 2 Güç verir</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="elieenallieshp10">
+    <Desc>[Kullanıldığında] Müttefik Dişli Tapınanlarının 10 HP'sini yeniler</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="elieenalliesquickness2">
+    <Desc>[Kullanıldığında] Müttefik Dişli Tapınanlarına 2 Sürat verir</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="eileen_Stun">
+    <Desc>[İsabet Halinde] Gelecek sahne hedefi Hareketsiz Bırakır</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="eileen_Text">
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="smokeSelf1">
+    <Desc>[Kullanıldığında] 1 Duman kazanır</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="smokeatkbyburnbuf">
+    <Desc>[İsabet Halinde] Eğer hedef Yanık etkisine sahipse, hedefin Duman miktarının yarısı kadar Duman uygular</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="smoke2addatk">
+    <Desc>[Kullanıldığında] Eğer hedef 5+ Duman etkisine sahipse, bu sayfadaki saldırı zarı "[İsabet Halinde] 2 Duman uygular" etkisi kazanır</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="dmgupbysmokebuf">
+    <Desc>[İsabet Halinde] Hedefteki her Duman başına hasar 0.5 artar</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="strength2quickness2friendbytargetsmoke">
+    <Desc>[Kullanıldığında] Eğer hedef 5+ Duman etkisine sahipse, gelecek sahne rastgele bir müttefiğe 2 Sürat ve Güç verir</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="smoke5atkandStun">
+    <Desc>[İsabet Halinde] 5 Duman uygular, gelecek sahne hedefi Hareketsiz Bırakır</Desc>
+  </BattleCardAbility>
+ 
+</BattleCardAbilityDescRoot>

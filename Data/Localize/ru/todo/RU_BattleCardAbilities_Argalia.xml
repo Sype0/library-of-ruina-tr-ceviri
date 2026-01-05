@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardAbilityDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BattleCardAbility ID="argaliaVibrateUp2">
+    <Desc>[İsabet Halinde] Hedef 2 Titreşim kazanır</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="argaliaVibrateUp3">
+    <Desc>[İsabet Halinde] Hedef 3 Titreşim kazanır</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="argaliaVibrateUp4">
+    <Desc>[İsabet Halinde] Hedef 4 Titreşim kazanır</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="argaliaVibrateDown1">
+    <Desc>[İsabet Halinde] Hedef 1 Titreşim kaybeder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="argaliaVibrateDown2">
+    <Desc>[İsabet Halinde] Hedef 2 Titreşim kaybeder</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="argaliaLoseDice">
+    <Desc>[Çarpışma Kaybedildiğinde] Hedef 2 Titreşim kaybeder</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="argaliaStrengthPl">
+    <Desc>[Çarpışma Kaybedildiğinde] Gelecek sahne 3 Güç kazanır</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="vibrateActivate">
+    <Desc>[Kullanıldığında] Eğer Hız, hedefin Titreşim değerine eşitse, bu sayfadaki tüm zarlar +4 Güç kazanır ve hedef tüm Titreşimini kaybeder</Desc>
+    <Desc></Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="argaliaDefense">
+    <Desc>Eğer bu sayfadaki herhangi bir karşı saldırı zarı sahne sonunda kalırsa, gelecek sahne 3 Güç kazanır (Birikmez)</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="argaliaDefenseDice">
+    <Desc>Eğer bu zar sahne sonunda kalırsa, gelecek sahne 3 Güç kazanır</Desc> </BattleCardAbility>
+</BattleCardAbilityDescRoot>

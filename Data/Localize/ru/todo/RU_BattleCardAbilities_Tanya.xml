@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardAbilityDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BattleCardAbility ID="tanyaSpeed">
+    <Desc>[Kullanıldığında] Eğer hızın hedeften yüksekse, bu sayfadaki tüm zarlar +6 Güç kazanır</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="tanyaAll">
+    <Desc>Yönlendirilemez. Bu sayfa tüm düşmanlara karşı kullanılır</Desc>
+  </BattleCardAbility>
+</BattleCardAbilityDescRoot>

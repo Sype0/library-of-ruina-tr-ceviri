@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GiftTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GiftText ID="Librarian_Special_0">
+    <Prefix>Angela</Prefix>
+    <Postfix>Hizmetkar</Postfix>
+  </GiftText>
+  <GiftText ID="Librarian_Special_1">
+    <Prefix>Tarih Katı</Prefix>
+    <Postfix>Baş Kütüphaneci</Postfix>
+  </GiftText>
+  <GiftText ID="Librarian_Special_2">
+    <Prefix>Teknoloji Katı</Prefix>
+    <Postfix>Baş Kütüphaneci</Postfix>
+  </GiftText>
+  <GiftText ID="Librarian_Special_3">
+    <Prefix>Edebiyat Katı</Prefix>
+    <Postfix>Baş Kütüphaneci</Postfix>
+  </GiftText>
+  <GiftText ID="Librarian_Special_4">
+    <Prefix>Sanat Katı</Prefix>
+    <Postfix>Baş Kütüphaneci</Postfix>
+  </GiftText>
+  <GiftText ID="Librarian_New">
+    <Prefix>Kütüphane</Prefix>
+    <Postfix>Yeni</Postfix>
+  </GiftText>
+  <GiftText ID="Librarian_0">
+    <Prefix>Genel</Prefix>
+    <Postfix>Kütüphaneci</Postfix>
+    <AcquireCondition>Genel Kat'ta {0} savaş kazan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_1">
+    <Prefix>Tarih</Prefix>
+    <Postfix>Kütüphaneci</Postfix>
+    <AcquireCondition>Tarih Katı'nda {0} savaş kazan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_2">
+    <Prefix>Teknoloji</Prefix>
+    <Postfix>Kütüphaneci</Postfix>
+    <AcquireCondition>Teknoloji Katı'nda {0} savaş kazan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_3">
+    <Prefix>Edebiyat</Prefix>
+    <Postfix>Kütüphaneci</Postfix>
+    <AcquireCondition>Edebiyat Katı'nda {0} savaş kazan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_4">
+    <Prefix>Sanat</Prefix>
+    <Postfix>Kütüphaneci</Postfix>
+    <AcquireCondition>Sanat Katı'nda {0} savaş kazan.</AcquireCondition>
+  </GiftText>
+ <GiftText ID="Librarian_Special_5">
+    <Desc></Desc>
+    <Prefix>Doğa Bilimleri Katı</Prefix>
+    <Postfix>Baş Kütüphaneci</Postfix>
+    <AcquireCondition></AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_Special_6">
+    <Desc></Desc>
+    <Prefix>Dil Katı</Prefix>
+    <Postfix>Baş Kütüphaneci</Postfix>
+    <AcquireCondition></AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_Special_7">
+    <Desc></Desc>
+    <Prefix>Sosyal Bilimler Katı</Prefix>
+    <Postfix>Baş Kütüphaneci</Postfix>
+    <AcquireCondition></AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_Special_8">
+    <Desc></Desc>
+    <Prefix>Felsefe Katı</Prefix>
+    <Postfix>Baş Kütüphaneci</Postfix>
+    <AcquireCondition></AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_Special_9">
+    <Desc></Desc>
+    <Prefix>Din Katı</Prefix>
+    <Postfix>Baş Kütüphaneci</Postfix>
+    <AcquireCondition></AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_5">
+    <Desc></Desc>
+    <Prefix>Doğa Bilimleri</Prefix>
+    <Postfix>Kütüphaneci</Postfix>
+    <AcquireCondition>Doğa Bilimleri Katı'nda {0} savaş kazan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_6">
+    <Desc></Desc>
+    <Prefix>Dil</Prefix>
+    <Postfix>Kütüphaneci</Postfix>
+    <AcquireCondition>Dil Katı'nda {0} savaş kazan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_7">
+    <Desc></Desc>
+    <Prefix>Sosyal Bilimler</Prefix>
+    <Postfix>Kütüphaneci</Postfix>
+    <AcquireCondition>Sosyal Bilimler Katı'nda {0} savaş kazan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_8">
+    <Desc></Desc>
+    <Prefix>Felsefe</Prefix>
+    <Postfix>Kütüphaneci</Postfix>
+    <AcquireCondition>Felsefe Katı'nda {0} savaş kazan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_9">
+    <Desc></Desc>
+    <Prefix>Din</Prefix>
+    <Postfix>Kütüphaneci</Postfix>
+    <AcquireCondition>Din Katı'nda {0} savaş kazan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Rat">
+    <Desc>YP +1</Desc>
+    <Prefix>Sıçan</Prefix>
+    <Postfix>Bıyığı</Postfix>
+    <AcquireCondition>Sıçanlar ile olan dövüşte Pete, Lenny ve Mang-chi'yi tek bir karakterle yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Pin">
+    <Desc>YP +1, Sersemletme Direnci -1</Desc>
+    <Prefix>Beceriksiz</Prefix>
+    <Postfix>Çaylak</Postfix>
+    <AcquireCondition>Finn'in ana sayfası kuşatılmışken {0} darbe al.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Yun">
+    <Desc>Kaçınma zarlarının Gücünü +1 artırma şansı %1</Desc>
+    <Prefix>Yun Ofisi</Prefix>
+    <Postfix>Temsilcisi</Postfix>
+    <AcquireCondition>Yun'un ana sayfası kuşatılmışken {0} savaş kazan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Iron">
+    <Desc>YP -1, Sersemletme Direnci +1</Desc>
+    <Prefix>Zırhlı</Prefix>
+    <Postfix>Kardeş</Postfix>
+    <AcquireCondition>Demir Kardeşliği ile olan karşılaşma sırasında {0} kez Felç kazan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Hook">
+    <Desc>Delme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Paslı</Prefix>
+    <Postfix>Kanca</Postfix>
+    <AcquireCondition>Hook Ofisi ile olan karşılaşma sırasında {0} kez Kanama uygula.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Cooker">
+    <Desc>Kesme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Sokak Yemeği</Prefix>
+    <Postfix>Lezzeti</Postfix>
+    <AcquireCondition>Pierre'in Bistrosu savaş sayfasını kullanarak {0} kez Kanama uygula.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="StreetLamp">
+    <Desc>Sersemletme Direnci +1</Desc>
+    <Prefix>Gece Yarısı</Prefix>
+    <Postfix>Sokak Lambası</Postfix>
+    <AcquireCondition>Streetlight Ofisi karşılaşmasının ilk bölümünde San, Lulu ve Mars'ı tek bir karakterle yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="RuruFriend">
+    <Desc>Vurma hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Lulu'nun</Prefix>
+    <Postfix>Arkadaşı</Postfix>
+    <AcquireCondition>Streetlight Ofisi karşılaşmasının ikinci bölümünde Lulu tarafından {0} kez öldürül.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="LonelyBoy">
+    <Desc>Kesme zarlarının Gücünü +1 artırma şansı %2</Desc>
+    <Prefix>Yalnız</Prefix>
+    <Postfix>Dışlanmış</Postfix>
+    <AcquireCondition>Streetlight Ofisi karşılaşmasının ikinci bölümünde Mars'ın ana sayfası kuşatılmışken Lulu'yu {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="ZweiCrew">
+    <Desc>Bloklama zarlarının Gücünü +1 artırma şansı %2</Desc>
+    <Prefix>Zwei Onursal</Prefix>
+    <Postfix>Üyesi</Postfix>
+    <AcquireCondition>Şehir Efsanesi seviyesindeki bir savaşta, aynı anda {0} veya daha fazla Dayanıklılığa sahip ol.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="YourShield">
+    <Desc>YP +1</Desc>
+    <Prefix>Senin</Prefix>
+    <Postfix>Kalkanın</Postfix>
+    <AcquireCondition>Tek bir savaşta Julia veya Isadora'dan {0} veya daha fazla darbe al.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Isadora">
+    <Desc>Kesme sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Dertsiz</Prefix>
+    <Postfix>Ast</Postfix>
+    <AcquireCondition>Isadora'nın ana sayfası kuşatılmışken Walter'ı {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="AbandonedDog">
+    <Desc>Vurma zarlarının Gücünü +1 artırma şansı %2</Desc>
+    <Prefix>Sokak</Prefix>
+    <Postfix>Köpeği</Postfix>
+    <AcquireCondition>Sokak Köpekleri savaş sayfasını kullanarak toplam {0} zar kaldır.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="DogTrainer">
+    <Desc>Vurma hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Cesur</Prefix>
+    <Postfix>Eğitmen</Postfix>
+    <AcquireCondition>Sokak Köpekleri ile olan karşılaşma sırasında tek bir perdede {0} veya daha fazla hasar ver.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Drunk">
+    <Desc>Delme zarlarının Gücünü +1 artırma şansı %2</Desc>
+    <Prefix>Sarhoş</Prefix>
+    <Postfix>Düzeltici</Postfix>
+    <AcquireCondition>Molar Ofisi sayfalarını kullanarak {0} sayfa at.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Hangover">
+    <Desc>Delme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Akşamdan Kalma</Prefix>
+    <Postfix>Yardımcısı</Postfix>
+    <AcquireCondition>Mika veya Rain'in ana sayfaları kuşatılmışken Olga'yu {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="BackStreet">
+    <Desc>YP +1, Sersemletme Direnci +1</Desc>
+    <Prefix>Ara Sokak</Prefix>
+    <Postfix>Gezgini</Postfix>
+    <AcquireCondition>Şehir Masalı seviyesindeki bir resepsiyonu {0} kez tamamla.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Challenger">
+    <Desc>Her türden sersemletme hasarını +1 artırma şansı %2</Desc>
+    <Prefix>Kararlı</Prefix>
+    <Postfix>Meydan Okuyan</Postfix>
+    <AcquireCondition>Tek bir savaşta düşmanları {0} kez sersemlet.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="BloodyFighter">
+    <Desc>YP +3</Desc>
+    <Prefix>Sıcakkanlı</Prefix>
+    <Postfix>Dövüşçü</Postfix>
+    <AcquireCondition>%{0} veya daha az YP ile bir savaş kazan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Twinkle">
+    <Desc>Sersemletme Direnci +2</Desc>
+    <Prefix>Işıldayan</Prefix>
+    <Postfix>Analist</Postfix>
+    <AcquireCondition>Karakter üzerinde aynı anda {0} veya daha fazla durum etkisi (hem güçlendirme hem zayıflatma) bulundur.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Carnival">
+    <Desc>Bloklama zarlarının Gücünü +1 artırma şansı %2</Desc>
+    <Prefix>Büyüleyici</Prefix>
+    <Postfix>Değil mi?</Postfix>
+    <AcquireCondition>Savaş sırasında {0} adet Büyüleyici Kumaş kopyası oluştur.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Fullstop">
+    <Desc>Delme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Yaşamak İçin</Prefix>
+    <Postfix>Durak</Postfix>
+    <AcquireCondition>Menzilli savaş sayfalarını kullanarak {0} düşman yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Dawn">
+    <Desc>Kesme zarlarının Gücünü +1 artırma şansı %2</Desc>
+    <Prefix>Işıldayan</Prefix>
+    <Postfix>Şafak</Postfix>
+    <AcquireCondition>Şehir Vebası seviyesindeki bir resepsiyonun tek bir perdesinde, Dawn Ofisi savaş sayfasını kullanarak {0} kez Yanık uygula.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Philip">
+    <Desc>YP +1</Desc>
+    <Prefix>Kusurlu</Prefix>
+    <Postfix>Ego</Postfix>
+    <AcquireCondition>Wedge Ofisi resepsiyonunun tamamında hayatta kal.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="OnePunch">
+    <Desc>Vurma hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Şaşırtıcı</Prefix>
+    <Postfix>Tek Atış</Postfix>
+    <AcquireCondition>Şehir Vebası seviyesindeki bir resepsiyonun tek bir perdesinde, başka etkilerin yardımı olmadan 'Brazos de contención' maliyetini {0} kez 1'e düşür.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Gaze">
+    <Desc>Kesme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Amansız</Prefix>
+    <Postfix>Bakış</Postfix>
+    <AcquireCondition>Şehir Vebası seviyesindeki bir resepsiyonun tek bir perdesinde, Felçli bir hedefe karşı {0} kez 'Oportunidad encontrada' kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Chaser">
+    <Desc>Sersemletme Direnci +1</Desc>
+    <Prefix>Çok Renkli</Prefix>
+    <Postfix>Takipçi</Postfix>
+    <AcquireCondition>Dalloc'un ana sayfası kuşatılmışken {0} Şehir Vebası dereceli düşman yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Spark">
+    <Desc>Vurma hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Pzzt</Prefix>
+    <Postfix>Pzzt</Postfix>
+    <AcquireCondition>Şehir Vebası seviyesindeki bir resepsiyonun tek bir perdesinde, Gaze Ofisi sayfalarını kullanarak {0} kez Felç uygula.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Spear">
+    <Desc>Delme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Keskin</Prefix>
+    <Postfix>Mızrak</Postfix>
+    <AcquireCondition>Sadece Savunma ve Delme zarlarına sahip savaş sayfalarını kullanarak bir Şehir Vebası seviyesi resepsiyonunu tamamla.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="NewBody">
+    <Desc>YP +1</Desc>
+    <Prefix>Yeni Bir</Prefix>
+    <Postfix>Vücut</Postfix>
+    <AcquireCondition>Pamela'nın ana sayfası kuşatılmışken Pameli'yi {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Veteran">
+    <Desc>YP +2</Desc>
+    <Prefix>Amansız</Prefix>
+    <Postfix>Gazi</Postfix>
+    <AcquireCondition>Oscar'ın ana sayfasındaki 'Durdurulamaz' pasifi etkinken ve başka müttefik yokken bir Şehir Vebası seviyesi resepsiyonunu tamamla.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Pierce">
+    <Desc>Delme zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Delip</Prefix>
+    <Postfix>Geçen</Postfix>
+    <AcquireCondition>Oscar'ın 'Durdurulamaz' pasifi etkinken hasar ver.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Wedge">
+    <Desc>Sersemletme Direnci +2</Desc>
+    <Prefix>Sivri</Prefix>
+    <Postfix>Kama</Postfix>
+    <AcquireCondition>Oscar'ın ana sayfası kuşatılmışken hem Dawn Ofisi hem de Wedge Ofisi resepsiyonlarında Philip'i yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Cat">
+    <Desc>Vurma zarlarının Gücünü +1 artırma şansı %2</Desc>
+    <Prefix>Miyav Miyav</Prefix>
+    <Postfix>Kedicik</Postfix>
+    <AcquireCondition>Şehir Vebası seviyesindeki bir resepsiyonda, Meow'un ana sayfası kuşatılmışken aynı anda {0} Güce sahip ol.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Rabbit">
+    <Desc>Kaçınma zarlarının Gücünü +1 artırma şansı %2</Desc>
+    <Prefix>Tavşan</Prefix>
+    <Postfix>……?</Postfix>
+    <AcquireCondition>Şehir Vebası seviyesindeki bir resepsiyonun tek bir perdesinde, MuMu'nun ana sayfası kuşatılmışken {0} kez Cılızlık uygula.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Pig">
+    <Desc>Sersemletme Direnci +1</Desc>
+    <Prefix>Oink-oink</Prefix>
+    <Postfix>Domuzcuk</Postfix>
+    <AcquireCondition>Şehir Vebası seviyesindeki bir resepsiyonun tek bir perdesinde, savaş sayfalarının etkileriyle {0} Işık yenile.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Stepan">
+    <Desc>Menzilli sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Korkak</Prefix>
+    <Postfix>Civciv</Postfix>
+    <AcquireCondition>Full-stop Ofisi menzilli sayfalarını kullanarak, yakın dövüş savaş sayfalarına karşı {0} kez çarpışma kaybet. (Sayfa başına bir kez sayılır)</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Cloud">
+    <Desc>10+ Kanamalı bir hedefe saldırırken kesme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Karanlık</Prefix>
+    <Postfix>Bulut</Postfix>
+    <AcquireCondition>Şehir Vebası seviyesindeki bir resepsiyonda, elinde {0} sayfa varken 'Mürekkepleme' savaş sayfasını kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Blade">
+    <Desc>Kesme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Keskin</Prefix>
+    <Postfix>Kılıç</Postfix>
+    <AcquireCondition>Şehir Vebası seviyesindeki bir resepsiyonda {0} düşmanı Kanama ile yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Kurokumo">
+    <Desc>10+ Kanamalı bir hedefe saldırırken kesme sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Kurokumo</Prefix>
+    <Postfix>Yandaşı</Postfix>
+    <AcquireCondition>Şehir Vebası seviyesindeki bir resepsiyonun tek bir perdesinde, tek bir hedefe {0} veya daha fazla Kanama uygula.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Chain">
+    <Desc>Karakterde 5+ Kanama varken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Paslı</Prefix>
+    <Postfix>Zincirler</Postfix>
+    <AcquireCondition>Jikan'ın ana sayfası kuşatılmışken kendine {0} veya daha fazla Kanama uygula.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Gambler">
+    <Desc>Karakter son sahnede bir sayfa attıysa sersemletme hasarını +1 artırma şansı %4</Desc>
+    <Prefix>Gerçek</Prefix>
+    <Postfix>Kumarbaz</Postfix>
+    <AcquireCondition>Şehir Vebası seviyesindeki bir resepsiyonun tek bir perdesinde, 'Sakura' savaş sayfasının etkisini {0} kez etkinleştir.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Solidary">
+    <Desc>Delme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Dayanışma</Prefix>
+    <Postfix>Atölyesi</Postfix>
+    <AcquireCondition>Şehir Vebası seviyesindeki bir resepsiyonun tek bir perdesinde, atölyeye bağlı bir Düzeltici'nin ana sayfası kuşatılmışken {0} çarpışma kazan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Family">
+    <Desc>YP +3</Desc>
+    <Prefix>Kıymetli</Prefix>
+    <Postfix>Aile</Postfix>
+    <AcquireCondition>Tek bir resepsiyonda 'Ceset Temizliği' pasif yeteneğini {0} kez etkinleştir.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Cleaner">
+    <Desc>Delme hasarını +2 artırma şansı %5</Desc>
+    <Prefix>Gece</Prefix>
+    <Postfix>Süpürücüsü</Postfix>
+    <AcquireCondition>'Çöp Atma' savaş sayfasının son zarını {0} kez geri dönüştür.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Vitality">
+    <Desc>Sersemletme Direnci +3</Desc>
+    <Prefix>Kalıcı</Prefix>
+    <Postfix>Canlılık</Postfix>
+    <AcquireCondition>Tek bir resepsiyonda 'Israr' etkisini {0} kez etkinleştir.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Assassin">
+    <Desc>YP %25 veya altındayken delme zarlarının Gücünü +2 artırma şansı %4</Desc>
+    <Prefix>Ölümcül</Prefix>
+    <Postfix>Suikastçı</Postfix>
+    <AcquireCondition>Şehir Kabusu seviyesindeki bir resepsiyonun tek bir perdesinde, karakterin YP'si %25 veya altındayken {0} düşman yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Shi">
+    <Desc>YP %25 veya altındayken vurma zarlarının Gücünü +2 artırma şansı %4</Desc>
+    <Prefix>Shi Birliği</Prefix>
+    <Postfix>Üyesi</Postfix>
+    <AcquireCondition>Şehir Kabusu seviyesindeki bir resepsiyonun tek bir perdesinde, savaş sayfalarının etkisiyle kendine {0} kez hasar ver.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Tired">
+    <Desc>YP %25 veya altındayken Savunma zarlarının Gücünü +2 artırma şansı %4</Desc>
+    <Prefix>Bitkin</Prefix>
+    <Postfix>Yoldaş</Postfix>
+    <AcquireCondition>Karakterin YP'si %25 veya altındayken kaçınma zarlarını kullanarak {0} çarpışma kazan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Blow">
+    <Desc>YP %25 veya altındayken kesme zarlarının Gücünü +2 artırma şansı %4</Desc>
+    <Prefix>Öfkeli</Prefix>
+    <Postfix>Saldırgan</Postfix>
+    <AcquireCondition>Menzilli savaş sayfalarına karşı {0} çarpışma kazan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Death">
+    <Desc>YP %25 veya altındayken hasarı ve sersemletme hasarını +4 artırma şansı %4</Desc>
+    <Prefix>Ölümün</Prefix>
+    <Postfix>Sınırı</Postfix>
+    <AcquireCondition>Aynı savaş sayfasını kullanarak 'Ölümün Sınırı'na karşı {0} çarpışma kazan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Circus">
+    <Desc>Vurma hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Sirk</Prefix>
+    <Postfix>Üyesi</Postfix>
+    <AcquireCondition>Emma'nın ana sayfası kuşatılmışken Noah'ı {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Friend">
+    <Desc>Noah'ın pasif yeteneği bu karakterin ana sayfasına kuşatılmışken hasarı +1 artırma şansı %10</Desc>
+    <Prefix>Ömürlük</Prefix>
+    <Postfix>Yoldaş</Postfix>
+    <AcquireCondition>Emma ve Noah beraberken onları {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="NoahEye">
+    <Desc>Menzilli hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Keskin</Prefix>
+    <Postfix>Gözler</Postfix>
+    <AcquireCondition>Emma yenildikten sonra Noah'ı {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Puppet">
+    <Desc>Vurma hasarını +2 artırma şansı %5</Desc>
+    <Prefix>Gıcırtı</Prefix>
+    <Postfix>Gigigig</Postfix>
+    <AcquireCondition>'Gıcırtı' savaş sayfasına karşı {0} kez çarpışma kaybet.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Order">
+    <Desc>Tekil (Unique) durumdayken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Hükmün</Prefix>
+    <Postfix>İradesi</Postfix>
+    <AcquireCondition>Şehir Kabusu seviyesindeki bir resepsiyonun tek bir perdesinde, 'Hükmün Lütfu' pasifiyle artırılmış zarları içeren savaş sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="SmileFace">
+    <Desc>Karakterde 10+ Duman varken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Gülen</Prefix>
+    <Postfix>Surat</Postfix>
+    <AcquireCondition>Şehir Kabusu seviyesindeki bir resepsiyonun tek bir perdesinde, hem karakterin hem de rakibin {0} veya daha fazla Dumana sahip olduğu bir çarpışma yaşa.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Sadness">
+    <Desc>Menzilli zarın Gücünü +1 artırma şansı %2</Desc>
+    <Prefix>Teselli Edilemez</Prefix>
+    <Postfix>Acı</Postfix>
+    <AcquireCondition>"Ağlayan Çocuklar" resepsiyonunun tamamında hayatta kal.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="OverCharge">
+    <Desc>Sersemletme Direnci +2</Desc>
+    <Prefix>Aşırı</Prefix>
+    <Postfix>Yükleme</Postfix>
+    <AcquireCondition>Şehir Kabusu seviyesindeki bir resepsiyonun tek bir perdesinde, 'Aşırı Yükleme' sayfasının etkisiyle {0} kez Hareketsiz kal.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="SpaceCut">
+    <Desc>Yük harcanan sahnelerde ofansif zarların Gücünü +1 artırma şansı %5</Desc>
+    <Prefix>Uzay</Prefix>
+    <Postfix>Yırtıcı</Postfix>
+    <AcquireCondition>10+ Yük varken 'Uzayı Yırt' sayfasının yeteneğinde {0} kez başarısız ol.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Warp">
+    <Desc>Yük harcanan sahnelerde hasarı +1 artırma şansı %5</Desc>
+    <Prefix>W Corp.</Prefix>
+    <Postfix>Temizlik Ajanı</Postfix>
+    <AcquireCondition>Şehir Kabusu seviyesindeki bir resepsiyonun tek bir perdesinde, 'Sıçrama' sayfasıyla {0} sayfa çek.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Wanderer">
+    <Desc>Kesme hasarını +2 artırma şansı %5</Desc>
+    <Prefix>Gezgin</Prefix>
+    <Postfix>Kılıç Ustası</Postfix>
+    <AcquireCondition>Tek bir resepsiyonda 'Kemiklerini Almak İçin' sayfasını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="InfoCollector">
+    <Desc>"Zayıf" veya "Ölümcül" dirence sahip bir hedefe saldırırken sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>İstihbarat</Prefix>
+    <Postfix>Toplayıcı</Postfix>
+    <AcquireCondition>Dante'nin ana sayfasındaki 'Bilgi Değerlendirme' pasifi ile hasar dirençlerini {0} kez değiştir.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="MeatGear">
+    <Desc>10+ Dumanlı bir hedefe saldırırken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Et</Prefix>
+    <Postfix>Çarkı</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonun tek bir perdesinde, 10+ Dumanlı bir hedefe tek bir saldırıda {0} veya daha fazla hasar ver.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="ThumbBoss">
+    <Desc>Karakter son sahnede bir sayfa attıysa hasarı +4 artırma şansı %5</Desc>
+    <Prefix>Başparmak</Prefix>
+    <Postfix>Alt Patronu</Postfix>
+    <AcquireCondition>Kalo'nun ana sayfası kuşatılmışken Boris, Denis, Katriel ve Başparmak askerlerini {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="RuleBreaker">
+    <Desc>Daha fazla YP'ye sahip bir rakiple çarpışırken sersemletme hasarını +2 artırma şansı %5</Desc>
+    <Prefix>Kural</Prefix>
+    <Postfix>Yıkıcı</Postfix>
+    <AcquireCondition>Boris'in ana sayfası kuşatılmışken Kalo'yu {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Punisher">
+    <Desc>Güç kazanımı veya kaybından etkilenmiyorken hasarı +2 artırma şansı %5</Desc>
+    <Prefix>Demir Yumruk</Prefix>
+    <Postfix>Disiplincisi</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonda 'Disiplin' sayfasını kullanarak {0} düşman yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Obey">
+    <Desc>Karakter son sahnede bir sayfa attıysa Savunma zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Mutlak</Prefix>
+    <Postfix>İtaat</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonda, Başparmak sayfalarının etkisiyle {0} kez savaş sayfası at.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Dokidoki">
+    <Desc>Xiao veya Lowell'ın ana sayfası kuşatılmışken ve aynı kattaki başka bir kütüphaneci diğer ana sayfayı kuşatmışken sersemletme hasarını +3 artırma şansı %6</Desc>
+    <Prefix>Küt Küt Atan</Prefix>
+    <Postfix>Kalp</Postfix>
+    <AcquireCondition>Xiao veya Lowell'ın ana sayfası kuşatılmışken, diğer ana sayfaya sahip başka bir kütüphaneciyle birlikte {0} Şehrin Yıldızı seviyesi resepsiyonu tamamla. (Her iki karakter de hayatta kalmalıdır)</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Emotion">
+    <Desc>15+ Yanıklı bir karakterle karşılaşırken sersemletme hasarını +1 artırma şansı %4</Desc>
+    <Prefix>Duygusal</Prefix>
+    <Postfix>Türbülans</Postfix>
+    <AcquireCondition>Tüm müttefiklerin duygu seviyesi {0} iken bir Şehrin Yıldızı seviyesi resepsiyonu tamamla.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Talent">
+    <Desc>15+ Yanıklı bir karaktere saldırırken hasarı +1 artırma şansı %4</Desc>
+    <Prefix>Potansiyel Bir</Prefix>
+    <Postfix>Renk</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonun tek bir perdesinde {0} veya daha fazla Yanık birikimi uygula.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Nemo">
+    <Desc>Karakterde 10+ Yük varken Savunma zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Korkmuş</Prefix>
+    <Postfix>Altına-Etmiş!</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonda 'Enerji Işını' sayfasını kullanarak {0} zar yok et.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Brother">
+    <Desc>YP +2</Desc>
+    <Prefix>Ağabey</Prefix>
+    <Postfix></Postfix>
+    <AcquireCondition>San'ın ana sayfası kuşatılmışken Bada'yı {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Creepy">
+    <Desc>Yük harcanan sahnelerde sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Garip</Prefix>
+    <Postfix>Gülümseme</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonun tek bir perdesinde, 'Gizemli Saldırı' sayfasıyla {0} sersemletme hasarı ver.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Gloria">
+    <Desc>'Kılıç Kilidi Açıldı' durumundayken kesme zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Görevimiz Tehlike</Prefix>
+    <Postfix>★</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonda 'Yok Etme' sayfasını kullanarak aynı anda {0} hedefi yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Liberation">
+    <Desc>'Kılıç Kilidi Açıldı' durumundayken vurma zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Kilidi Açılmış</Prefix>
+    <Postfix>Kılıç</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonda 'Kilidi Aç-III' sayfasını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Pressure">
+    <Desc>'Kılıç Kilidi Açıldı' durumundayken Savunma zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Baskıcı</Prefix>
+    <Postfix>Hüküm</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonda 'Kelle Uçurma' sayfasını kullanarak {0} düşman yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Index">
+    <Desc>'Kılıç Kilidi Açıldı' durumundayken delme zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Endeks</Prefix>
+    <Postfix>Vekili</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonda 'Cezalandırma' sayfasını kullanarak {0} düşman yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="RedMist">
+    <Desc>Kızıl Sis ana sayfası kullanılırken E.G.O tezahürü sırasında hasarı +1 artırma şansı %6</Desc>
+    <Prefix>Kızıl</Prefix>
+    <Postfix>Sis</Postfix>
+    <AcquireCondition>Kızıl Sis'i Gebura olarak yen. (Gebura'ya özel)</AcquireCondition>
+  </GiftText>
+  <GiftText ID="HugryRabbit">
+    <Desc>Karakterde 20+ Yük varken kesme zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Açlıktan Ölen</Prefix>
+    <Postfix>Tavşan</Postfix>
+    <AcquireCondition>Herhangi bir R Corporation resepsiyonunda, Tip-1 kask takarken Tavşan ekibinden {0} asker yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="FullRabbit">
+    <Desc>Karakterde 20+ Yük varken kesme zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Dolu</Prefix>
+    <Postfix>Çörek</Postfix>
+    <AcquireCondition>Herhangi bir R Corporation resepsiyonunda, Tip-2 kask takarken Tavşan ekibinden {0} asker yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="RapidRabbit">
+    <Desc>Karakterde 20+ Yük varken kesme zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Çevik</Prefix>
+    <Postfix>Yaban Tavşanı</Postfix>
+    <AcquireCondition>Herhangi bir R Corporation resepsiyonunda, Tip-3 kask takarken Tavşan ekibinden {0} asker yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="HeavyRhino">
+    <Desc>Karakterde 20+ Yük varken vurma zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Girişken</Prefix>
+    <Postfix>Tırnaklı</Postfix>
+    <AcquireCondition>Herhangi bir R Corporation resepsiyonunda, Tip-1 kask takarken Gergedan ekibinden {0} asker yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="FuriousRhino">
+    <Desc>Karakterde 20+ Yük varken vurma zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Düşüncesiz</Prefix>
+    <Postfix>Gergedan</Postfix>
+    <AcquireCondition>Herhangi bir R Corporation resepsiyonunda, Tip-2 kask takarken Gergedan ekibinden {0} asker yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="BraveRhino">
+    <Desc>Karakterde 20+ Yük varken vurma zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Gözü Pek</Prefix>
+    <Postfix>Gergedan</Postfix>
+    <AcquireCondition>Herhangi bir R Corporation resepsiyonunda, Tip-3 kask takarken Gergedan ekibinden {0} asker yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="NervousReindeer">
+    <Desc>Karakterde 20+ Yük varken delme zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Gergin</Prefix>
+    <Postfix>Ren Geyiği</Postfix>
+    <AcquireCondition>Herhangi bir R Corporation resepsiyonunda, Tip-1 kask takarken Ren Geyiği ekibinden {0} asker yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="TiredReindeer">
+    <Desc>Karakterde 20+ Yük varken delme zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Yorgun</Prefix>
+    <Postfix>Ren Geyiği</Postfix>
+    <AcquireCondition>Herhangi bir R Corporation resepsiyonunda, Tip-2 kask takarken Ren Geyiği ekibinden {0} asker yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="DangerousReindeer">
+    <Desc>Karakterde 20+ Yük varken delme zarlarının Gücünü +1 artırma şansı %4</Prefix>
+    <Prefix>Nesli</Prefix>
+    <Postfix>Tükenmekte</Postfix>
+    <AcquireCondition>Herhangi bir R Corporation resepsiyonunda, Tip-3 kask takarken Ren Geyiği ekibinden {0} asker yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Commander">
+    <Desc>Karakterde 20+ Yük varken hasarı 1 azaltma şansı %5</Desc>
+    <Prefix>Gazi</Prefix>
+    <Postfix>Komutan</Postfix>
+    <AcquireCondition>'Son Dokunuş' pasifi ile işaretlenmiş {0} hedefi yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Disposition">
+    <Desc>Karakterde 20+ Yük varken zar Gücünü +1 artırma şansı %5</Desc>
+    <Prefix>Soğukkanlı</Prefix>
+    <Postfix>Mizaç</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonda 'Elden Çıkar' sayfasını kullanarak {0} düşman yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="MentalCrash">
+    <Desc>Karakterde 20+ Yük varken sersemletme hasarını +2 artırma şansı %6</Desc>
+    <Prefix>Kırbaçlanmış</Prefix>
+    <Postfix>Zihin</Postfix>
+    <AcquireCondition>'Zihinsel Kırbaç' sayfasının zarından {0} kez maksimum değerde darbe al.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Crasher">
+    <Desc>YP +3</Desc>
+    <Prefix>Zaferin</Prefix>
+    <Postfix>Anahtarı</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonda 'Zemini Yık' sayfasını kullanarak aynı anda {0} hedefi yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Meet">
+    <Desc>Hız 5 veya daha yüksekken hasarı ve sersemletme hasarını +1 artırma şansı %6</Desc>
+    <Prefix>Acı</Prefix>
+    <Postfix>Buluşma</Postfix>
+    <AcquireCondition>Kızıl Sis ana sayfası veya pasifi kuşatılmışken ikinci R Corp. resepsiyonunda Myo'yu {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Berserk">
+    <Desc>Bir karakter 5 veya daha fazla hıza sahip bir zara sahipken ofansif zarların Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Vahşi</Prefix>
+    <Postfix>Kaptan</Postfix>
+    <AcquireCondition>'Vahşi Bıçaklar' sayfasının son zarıyla {0} kez düşman yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="BurnEmotion">
+    <Desc>20+ Yanıklı bir hedefe saldırırken kesme zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Hafızayla Beslenen</Prefix>
+    <Postfix>Duygular</Postfix>
+    <AcquireCondition>Xiao resepsiyonu sırasında {0} Yanık birikimine sahip ol.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="IronRotus">
+    <Desc>20+ Yanıklı bir hedefe saldırırken delme zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Demir</Prefix>
+    <Postfix>Nilüfer</Postfix>
+    <AcquireCondition>'Ters Artış' sayfasına {0} kez kışkırtma yaptıktan sonra Xiao resepsiyonunu tamamla.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Advice">
+    <Desc>20+ Yanıklı bir hedefe saldırırken vurma zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>İçten</Prefix>
+    <Postfix>Tavsiye</Postfix>
+    <AcquireCondition>Miris'in ana sayfası kuşatılmışken Xiao'nun E.G.O tezahürünü {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Chance">
+    <Desc>'Olasılık Manipülatörü' etkinleştiğinde hasarı +4 artırma şansı %5</Desc>
+    <Prefix>Olasılık</Prefix>
+    <Postfix>Manipülatörü</Postfix>
+    <AcquireCondition>Mor Gözyaşı ana sayfasındaki 'Olasılık Manipülatörü' pasif yeteneğini {0} kez etkinleştir.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="PuppleTear">
+    <Desc>Mor Gözyaşı ana sayfası kuşatılmışken hasarı ve sersemletme hasarını +2 artırma şansı %5</Desc>
+    <Prefix>Mor</Prefix>
+    <Postfix>Gözyaşı</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonun tek bir perdesinde, Mor Gözyaşı ana sayfasının tüm durumlarını kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Experience">
+    <Desc>Bir perdenin 11. sahnesinden itibaren zar Gücünü +1 artırma şansı %7</Desc>
+    <Prefix>Olgun</Prefix>
+    <Postfix>Deneyim</Postfix>
+    <AcquireCondition>Kalo, Nikolai ve Mor Gözyaşı'nı {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="CityChild">
+    <Desc>Kırmızı bir Anormallik sayfası seçtikten sonra hasarı +1 ve sersemletme hasarını +2 artırma şansı %5</Desc>
+    <Prefix>Şehrin</Prefix>
+    <Postfix>Haberci</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonun tek bir perdesinde, 'Haberci' pasifiyle oluşturulan Hüküm sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="VeryStrong">
+    <Desc>20+ Kanamalı bir karaktere saldırırken kesme zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Üst Derece</Prefix>
+    <Postfix>Çok Güçlü</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonun tek bir perdesinde, tek bir hedefe {0}+ Kanama uygula.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Night">
+    <Desc>Delme hasarını +2 ve delme sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Gece</Prefix>
+    <Postfix>Bizizi</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonun tek bir perdesinde, 'Zırhtaki Çatlak' pasifiyle {0} bloklama zarını yok et.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Future">
+    <Desc>Karakter son sahnede bir sayfa attıysa sersemletme hasarını +2 artırma şansı %5</Desc>
+    <Prefix>Mirae</Prefix>
+    <Postfix>Hayat Sigortası</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonun tek bir perdesinde, Irina'nın ana sayfasındaki 'Poliçe Formu' pasifini {0} kez etkinleştir.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Horus">
+    <Desc>Koruma varken Savunma zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Horus'un</Prefix>
+    <Postfix>Gözü</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonun tek bir perdesinde, Udjat ana sayfası kuşatılmışken tek bir sahnede {0} veya daha fazla Koruma kazan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="OnePoint">
+    <Desc>Karakter son sahnede Hareketsiz kaldıysa hasarı +2 artırma şansı %6</Desc>
+    <Prefix>Kırılma</Prefix>
+    <Postfix>Noktası</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonun tek bir perdesinde, 'Nokta Atışı' sayfasıyla karakterin Maksimum Sersemletme Direnci kadar Sersemletme Direnci harca.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Steampunk">
+    <Desc>Hedefte 10+ Duman varsa hasarı ve sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Buharlı</Prefix>
+    <Postfix>Punk</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonun tek bir perdesinde, 10+ Dumanlı bir hedefe tek bir saldırıda {0} veya daha fazla hasar ver.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Hana">
+    <Desc>Karakterde savaş sayfalarından kazanılmış Güç, Dayanıklılık, Koruma veya Sersemletme Koruması varsa hasarı ve sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Hana Birliği</Prefix>
+    <Postfix>Direktörü</Postfix>
+    <AcquireCondition>Şehrin Yıldızı seviyesindeki bir resepsiyonun tek bir perdesinde, Mirinae'nin ana sayfasındaki 'Herkes İçin Hana' pasifini {0} kez etkinleştir.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="CryBaby">
+    <Desc>Yanığın varken ofansif zarların Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Ağlayan</Prefix>
+    <Postfix>Çocuklar</Postfix>
+    <AcquireCondition>Salvador ve Yuna'nın pasif yetenekleri kuşatılmışken Philip'i {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="GearGod">
+    <Desc>Hedefte 10+ Duman varsa hasarı ve sersemletme hasarını +2 artırma şansı %5</Desc>
+    <Prefix>Çarklar Kilisesi</Prefix>
+    <Postfix>Lideri</Postfix>
+    <AcquireCondition>Liwei, Tamaki veya Stephan'ın ana sayfaları veya pasifleri kuşatılmışken Eileen'i {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Chef">
+    <Desc>20+ Kanamalı bir hedefe saldırırken hasarı +3 artırma şansı %5</Desc>
+    <Prefix>Sekizinci</Prefix>
+    <Postfix>Şef</Postfix>
+    <AcquireCondition>Pierre'in ana sayfası veya pasifleri kuşatılmışken Greta'yı {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Bremen">
+    <Desc>2+ durum bozukluğu olan bir hedefe karşı sersemletme hasarını +4 artırma şansı %6</Desc>
+    <Prefix>Bremen</Prefix>
+    <Postfix>Müzisyenleri</Postfix>
+    <AcquireCondition>Meow, MuMu veya Oink'in ana sayfaları veya pasifleri kuşatılmışken Bremen'i {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="EightCircus">
+    <Desc>Sersemletme hasarını +20 artırma şansı %1</Desc>
+    <Prefix>Saat 8</Prefix>
+    <Postfix>Sirk Müdürü</Postfix>
+    <AcquireCondition>Emma'nın ana sayfası veya pasifleri kuşatılmışken Oswald'ı {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="WolfTime">
+    <Desc>'Cesaret' pasifi etkinleştikten sonra, resepsiyonun geri kalanı için hasarı +4 artırma şansı %8</Desc>
+    <Prefix>Kurt</Prefix>
+    <Postfix>Vakti</Postfix>
+    <AcquireCondition>Sayo, Yang veya Gin'in ana sayfaları veya pasifleri kuşatılmışken Tanya'yı {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Puppeteer">
+    <Desc>'Kuklacı İpleri' durumunda bir müttefik varken hasarı 1 azaltma şansı %5</Desc>
+    <Prefix>Yankılanma Topluluğu</Prefix>
+    <Postfix>Kuklacısı</Postfix>
+    <AcquireCondition>Bir Kukla'nın ana sayfası veya pasifleri kuşatılmışken Jae-heon'u {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="BloodNight">
+    <Desc>Karakter son sahnede YP yenilediyse hasarı +2 artırma şansı %5</Desc>
+    <Prefix>Kan Kırmızısı</Prefix>
+    <Postfix>Gece</Postfix>
+    <AcquireCondition>Tomerry'nin ana sayfası veya pasifleri kuşatılmışken Elena'yı {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Promise">
+    <Desc>'Sözleşme Yükümlülüğü' durumunda bir müttefik varken hasarı +4 artırma şansı %5</Desc>
+    <Prefix>Dünün</Prefix>
+    <Postfix>Sözü</Postfix>
+    <AcquireCondition>Nemo, Bada veya Martina'nın ana sayfaları veya pasifleri kuşatılmışken Pluto'yu {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="BlueReverberation">
+    <Desc>'Rezonans' pasifi etkinleştiğinde hasarı ve sersemletme hasarını +2 artırma şansı %10</Desc>
+    <Prefix>Mavi</Prefix>
+    <Postfix>Yankılanma</Postfix>
+    <AcquireCondition>Argalia'yı {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="CryBaby2">
+    <Desc>20+ Yanıklı bir hedefe saldırırken ofansif zarların Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Yakıcı</Prefix>
+    <Postfix>Çaresizlik</Postfix>
+    <AcquireCondition>Çarpıtılmış Philip'i {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="GearGod2">
+    <Desc>Karakterde 10+ Duman varken ofansif zarların Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Çarklara Bürünmüş</Prefix>
+    <Postfix>Telkinci</Postfix>
+    <AcquireCondition>Çarpıtılmış Eileen'i {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Chef2">
+    <Desc>20+ Kanamalı bir hedefe saldırırken ofansif zarların Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Dünyanın En İyi</Prefix>
+    <Postfix>Aşçısı</Postfix>
+    <AcquireCondition>Çarpıtılmış Greta'yı {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Bremen2">
+    <Desc>2+ durum bozukluğu olan bir hedefe saldırırken ofansif zarların Gücünü +1 artırma şansı %5</Desc>
+    <Prefix>Zirvedeki</Prefix>
+    <Postfix>Koro</Postfix>
+    <AcquireCondition>Çarpıtılmış Bremen'i {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="EightCircus2">
+    <Desc>Bir ofansif zar maksimum değerde gelirse sersemletme hasarını +7 artırma şansı %7</Desc>
+    <Prefix>ZİRVE</Prefix>
+    <Postfix>!!!</Postfix>
+    <AcquireCondition>Çarpıtılmış Oswald'ı {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="WolfTime2">
+    <Desc>'Cesaret' pasifi etkinleştikten sonra, resepsiyonun geri kalanı için ofansif zarların Gücünü +1 artırma şansı %6</Desc>
+    <Prefix>Simsiyah</Prefix>
+    <Postfix>Parçalayıcı</Postfix>
+    <AcquireCondition>Çarpıtılmış Tanya'yı {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Puppeteer2">
+    <Desc>'Kuklacı İpleri' durumunda bir müttefik varken Savunma zarlarının Gücünü +1 artırma şansı %5</Desc>
+    <Prefix>İp</Prefix>
+    <Postfix>Gerici</Postfix>
+    <AcquireCondition>Çarpıtılmış Jae-heon'u {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="BloodNight2">
+    <Desc>Karakter son sahnede YP yenilediyse ofansif zarların Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Kan</Prefix>
+    <Postfix>İblisi</Postfix>
+    <AcquireCondition>Çarpıtılmış Elena'yı {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Promise2">
+    <Desc>'Sözleşme Yükümlülüğü' durumunda bir müttefik varken ofansif zarların Gücünü +1 artırma şansı %5</Desc>
+    <Prefix>Dünün</Prefix>
+    <Postfix>Sözü</Postfix>
+    <AcquireCondition>Çarpıtılmış Pluto'yu {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="BlueReverberation2">
+    <Desc>'Rezonans' yeteneği etkinleştiğinde zar Gücünü +1 artırma şansı %10</Desc>
+    <Prefix>Final</Prefix>
+    <Postfix>Melodisi</Postfix>
+    <AcquireCondition>Çarpıtılmış Argalia'yı {0} kez yen.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality1">
+    <Desc>Kavrulmuş Kız Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Küller</Prefix>
+    <Postfix></Postfix>
+    <AcquireCondition>Kavrulmuş Kız Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality2">
+    <Desc>Mutlu Oyuncak Ayı Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Ayıcığın</Prefix>
+    <Postfix>Sahibi</Postfix>
+    <AcquireCondition>Mutlu Oyuncak Ayı Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality3">
+    <Desc>Peri Festivali Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Perilerin</Prefix>
+    <Postfix>Acil Durum Yemeği</Postfix>
+    <AcquireCondition>Peri Festivali Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality4">
+    <Desc>Kraliçe Arı Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Kraliçenin</Prefix>
+    <Postfix>Sadık Hizmetkarı</Postfix>
+    <AcquireCondition>Kraliçe Arı Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality5">
+    <Desc>Pamuk Prenses'in Elması Anormallik sayfalarına sahipken ofansif zarların Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Pamuk Prenses'in</Prefix>
+    <Postfix>Elması</Postfix>
+    <AcquireCondition>Pamuk Prenses'in Elması Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality6">
+    <Desc>Terk Edilmiş Katil Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Katilin</Prefix>
+    <Postfix>Deneyi</Postfix>
+    <AcquireCondition>Terk Edilmiş Katil Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality7">
+    <Desc>Küçük Yardımcı Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Her Şeyde</Prefix>
+    <Postfix>Yardımcı!</Postfix>
+    <AcquireCondition>Küçük Yardımcı Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality8">
+    <Desc>Şarkı Söyleyen Makine Anormallik sayfalarına sahipken sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Müzik</Prefix>
+    <Postfix>Bağımlısı</Postfix>
+    <AcquireCondition>Şarkı Söyleyen Makine Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality9">
+    <Desc>Ölü Kelebekler Cenazesi Anormallik sayfalarına sahipken sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Taziye ve</Prefix>
+    <Postfix>Ebedi İstirahat</Postfix>
+    <AcquireCondition>Ölü Kelebekler Cenazesi Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality10">
+    <Desc>Der Freischütz Anormallik sayfalarına sahipken ofansif zarların Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Sihirli Mermi</Prefix>
+    <Postfix>Atıcısı</Postfix>
+    <AcquireCondition>Der Freischütz Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality11">
+    <Desc>Utangaç Bakış Anormallik sayfalarına sahipken Savunma zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Utangaç</Prefix>
+    <Postfix>Yüz İfadesi</Postfix>
+    <AcquireCondition>Utangaç Bakış Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality12">
+    <Desc>Kırmızı Ayakkabılar Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Kıpkırmızı</Prefix>
+    <Postfix>Ayak İzleri</Postfix>
+    <AcquireCondition>Kırmızı Ayakkabılar Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality13">
+    <Desc>Örümcek Kozası Anormallik sayfalarına sahipken sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Küçük</Prefix>
+    <Postfix>Örümcek Kozası</Postfix>
+    <AcquireCondition>Örümcek Kozası Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality14">
+    <Desc>Laetitia Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Laetitia'nın</Prefix>
+    <Postfix>Hediyesi!</Postfix>
+    <AcquireCondition>Laetitia Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality15">
+    <Desc>Kara Kuğunun Rüyası Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Kara Kuğunun</Prefix>
+    <Postfix>Kardeşleri</Postfix>
+    <AcquireCondition>Kara Kuğunun Rüyası Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality16">
+    <Desc>Evrenin Parçası Anormallik sayfalarına sahipken sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Evrenin</Prefix>
+    <Postfix>Yankısı</Postfix>
+    <AcquireCondition>Evrenin Parçası Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality17">
+    <Desc>Galaksinin Çocuğu Anormallik sayfalarına sahipken sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Galaksinin</Prefix>
+    <Postfix>En İyi Arkadaşı</Postfix>
+    <AcquireCondition>Galaksinin Çocuğu Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality18">
+    <Desc>Porccubus Anormallik sayfalarına sahipken sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Dayanılmaz</Prefix>
+    <Postfix>Haz</Postfix>
+    <AcquireCondition>Porccubus Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality19">
+    <Desc>Alriune Anormallik sayfalarına sahipken sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Çiçek Açan</Prefix>
+    <Postfix>Koku</Postfix>
+    <AcquireCondition>Alriune Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality20">
+    <Desc>Sessiz Orkestra Anormallik sayfalarına sahipken ofansif zarların Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Sessiz</Prefix>
+    <Postfix>Orkestra</Postfix>
+    <AcquireCondition>Sessiz Orkestra Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality21">
+    <Desc>Nefret Kraliçesi Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Nefretle Dolu</Prefix>
+    <Postfix>Kraliçe</Postfix>
+    <AcquireCondition>Nefret Kraliçesi Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality22">
+    <Desc>Çaresizlik Şövalyesi Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Çaresizliğe Bürünen</Prefix>
+    <Postfix>Şövalye</Postfix>
+    <AcquireCondition>Çaresizlik Şövalyesi Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality23">
+    <Desc>Açgözlülük Kralı Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Açgözlülüğe Mahkum</Prefix>
+    <Postfix>Kraliçe</Postfix>
+    <AcquireCondition>Açgözlülük Kralı Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality24">
+    <Desc>Öfke Hizmetkarı Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Öfkeyle Dolup Taşmış</Prefix>
+    <Postfix>Hizmetkar</Postfix>
+    <AcquireCondition>Öfke Hizmetkarı Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality25">
+    <Desc>Nihil Soytarısı Anormallik sayfalarına sahipken ofansif zarların Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Nihilist</Prefix>
+    <Postfix>Soytarı</Postfix>
+    <AcquireCondition>Nihil Soytarısı Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality26">
+    <Desc>Kırmızı Başlıklı Paralık Asker Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Kırmızı Başlıklı</Prefix>
+    <Postfix>Paralık Asker</Postfix>
+    <AcquireCondition>Kırmızı Başlıklı Paralık Asker Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality27">
+    <Desc>Koca Kurt Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Koca</Prefix>
+    <Postfix>Kurt</Postfix>
+    <AcquireCondition>Koca Kurt Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality28">
+    <Desc>Gülen Ceset Dağı Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Ceset</Prefix>
+    <Postfix>Dağı</Postfix>
+    <AcquireCondition>Gülen Ceset Dağı Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality29">
+    <Desc>Nosferatu Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Kan İblisi</Prefix>
+    <Postfix>Koleksiyonu</Postfix>
+    <AcquireCondition>Nosferatu Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality30">
+    <Desc>Orada Hiçbir Şey Yok Anormallik sayfalarına sahipken ofansif zarların Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Merhaba?</Prefix>
+    <Postfix>Hoşça Kal!</Postfix>
+    <AcquireCondition>Orada Hiçbir Şey Yok Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality31">
+    <Desc>Bilgelik Arayan Korkuluk Anormallik sayfalarına sahipken sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Zeki</Prefix>
+    <Postfix>Korkuluk</Postfix>
+    <AcquireCondition>Bilgelik Arayan Korkuluk Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality32">
+    <Desc>İyi Kalpli Oduncu Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>İyi Kalpli</Prefix>
+    <Postfix>Oduncu</Postfix>
+    <AcquireCondition>İyi Kalpli Oduncu Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality33">
+    <Desc>Eve Dönüş Yolu/Korkak Kedi Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Eve Dönüş</Prefix>
+    <Postfix>Yolu</Postfix>
+    <AcquireCondition>Eve Dönüş Yolu/Korkak Kedi Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality34">
+    <Desc>Ozma Anormallik sayfalarına sahipken sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Unutkan</Prefix>
+    <Postfix>Ozma</Postfix>
+    <AcquireCondition>Ozma Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality35">
+    <Desc>Yalan Söyleyen Yetişkin Anormallik sayfalarına sahipken Savunma zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Sahte</Prefix>
+    <Postfix>Taht</Postfix>
+    <AcquireCondition>Yalan Söyleyen Yetişkin Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality36">
+    <Desc>Koca Kuş Anormallik sayfalarına sahipken sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Nöbetçi</Prefix>
+    <Postfix>Fener</Postfix>
+    <AcquireCondition>Koca Kuş Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality37">
+    <Desc>Cezalandırıcı Kuş Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Cezalandırıcı</Prefix>
+    <Postfix>Çete</Postfix>
+    <AcquireCondition>Cezalandırıcı Kuş Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality38">
+    <Desc>Yargıç Kuş Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Adalet</Prefix>
+    <Postfix>Terazisi</Postfix>
+    <AcquireCondition>Yargıç Kuş Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality39">
+    <Desc>Kıyamet Kuşu Anormallik sayfalarına sahipken ofansif zarların Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Kıyamet</Prefix>
+    <Postfix>Kuşu</Postfix>
+    <AcquireCondition>Kıyamet Kuşu Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality40">
+    <Desc>Kıyamet Kuşu Anormallik sayfalarına sahipken Savunma zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Karanlık Orman'ın</Prefix>
+    <Postfix>Koruyucusu</Postfix>
+    <AcquireCondition>Kıyamet Kuşu Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality41">
+    <Desc>Cenneti Eşelemek Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Cenneti</Prefix>
+    <Postfix>Eşelemek</Postfix>
+    <AcquireCondition>Cenneti Eşelemek Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality42">
+    <Desc>Sessizliğin Bedeli Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Sessizliğin</Prefix>
+    <Postfix>Bedeli</Postfix>
+    <AcquireCondition>Sessizliğin Bedeli Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality43">
+    <Desc>Mavi Yıldız Anormallik sayfalarına sahipken sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Mavi Yıldız</Prefix>
+    <Postfix>Müridi</Postfix>
+    <AcquireCondition>Mavi Yıldız Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality44">
+    <Desc>Beyaz Gece Anormallik sayfalarına sahipken ofansif zarların Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Fanatik</Prefix>
+    <Postfix>Mümin</Postfix>
+    <AcquireCondition>Beyaz Gece Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality45">
+    <Desc>Beyaz Gece Anormallik sayfalarına sahipken Savunma zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Beyaz Gece</Prefix>
+    <Postfix>Havarisi</Postfix>
+    <AcquireCondition>Beyaz Gece Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality46">
+    <Desc>Kan Banyosu Anormallik sayfalarına sahipken sersemletme hasarını +1 artırma şansı %5</Desc>
+    <Prefix>Kana</Prefix>
+    <Postfix>Bulanmış Banyo</Postfix>
+    <AcquireCondition>Kan Banyosu Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality47">
+    <Desc>Arzu Kalbi Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Arzu</Prefix>
+    <Postfix>Kalbi</Postfix>
+    <AcquireCondition>Arzu Kalbi Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality48">
+    <Desc>Pinokyo Anormallik sayfalarına sahipken hasarı +1 artırma şansı %5</Desc>
+    <Prefix>Uzun Burunlu</Prefix>
+    <Postfix>Pinokyo</Postfix>
+    <AcquireCondition>Pinokyo Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality49">
+    <Desc>Kar Kraliçesi Anormallik sayfalarına sahipken Savunma zarlarının Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Kışın</Prefix>
+    <Postfix>Öpücüğü</Postfix>
+    <AcquireCondition>Kar Kraliçesi Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality50">
+    <Desc>Sessiz Kız Anormallik sayfalarına sahipken ofansif zarların Gücünü +1 artırma şansı %4</Desc>
+    <Prefix>Sessiz</Prefix>
+    <Postfix>Kız</Postfix>
+    <AcquireCondition>Sessiz Kız Anormallik veya E.G.O sayfalarını {0} kez kullan.</AcquireCondition>
+  </GiftText>
+</GiftTextRoot>

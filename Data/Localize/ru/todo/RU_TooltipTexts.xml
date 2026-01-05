@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <text id="ui_tooltip_content_ability_hp">YP</text>
+  <text id="ui_tooltip_content_ability_break">Sersemletme Direnci</text>
+  <text id="ui_tooltip_content_ability_speeddice">Hiz Zari</text>
+  <text id="ui_tooltip_content_resistance_slash">&#60;color=#ff0000ff&#62;Kesme&#60;/color&#62; Hasar Direnci</text>
+  <text id="ui_tooltip_content_resistance_penetrate">&#60;color=#ff0000ff&#62;Delme&#60;/color&#62; Hasar Direnci</text>
+  <text id="ui_tooltip_content_resistance_hit">&#60;color=#ff0000ff&#62;Vurma&#60;/color&#62; Hasar Direnci</text>
+  <text id="ui_tooltip_content_resistancebreak_slash">&#60;color=#ffff00ff&#62;Kesme&#60;/color&#62; Sersemletme Direnci</text>
+  <text id="ui_tooltip_content_resistancebreak_penetrate">&#60;color=#ffff00ff&#62;Delme&#60;/color&#62; Sersemletme Direnci</text>
+  <text id="ui_tooltip_content_resistancebreak_hit">&#60;color=#ffff00ff&#62;Vurma&#60;/color&#62; Sersemletme Direnci</text>
+
+
+  <text id="ui_autotooltip_invitation_storyslot_title">Davetlileri Seç</text>
+  <text id="ui_autotooltip_invitation_storyslot_content">Bir &#60;color=#ff5622ff&#62;‘resepsiyon’&#60;/color&#62;, agirlamak istediginiz davetliye bir &#60;color=#ff5622ff&#62;‘davetiye’&#60;/color&#62; gönderildiginde baslar.</text>
+
+  <text id="ui_autotooltip_invitation_storyslotlevelicon_title">Bir Varmis Bir Yokmus</text>
+  <text id="ui_autotooltip_invitation_storyslotlevelicon_content">Oynamak istediginiz bölümü seçin.</text>
+
+  <text id="ui_autotooltip_invitation_invrightdropbookslot_title">Günün Kitaplari</text>
+  <text id="ui_autotooltip_invitation_invrightdropbookslot_content">Bölümü baslatmak için gereken kitap seti.</text>
+
+  <text id="ui_autotooltip_invitation_invcenterdropbookslot_title">Eldeki Kitaplar</text>
+  <text id="ui_autotooltip_invitation_invcenterdropbookslot_content">Kütüphane'nin sahip oldugu kitaplarin listesi.</text>
+
+  <text id="ui_autotooltip_invitation_sendbutton_title">Davetiyeyi Gönder</text>
+  <text id="ui_autotooltip_invitation_sendbutton_title_pad">Davetiyeyi Gönder &#60;sprite index=4&#62;</text>
+  <text id="ui_autotooltip_invitation_sendbutton_content">Davet için son hazirlik.</text>
+
+  <text id="ui_autotooltip_invitation_confirmbutton_title">Mühürle ve Gönder</text>
+  <text id="ui_autotooltip_invitation_confirmbutton_content">Davetiyeyi göndermeye hazir oldugunuzda, devam etmek için bu dügmeye basin.</text>
+
+  <text id="ui_autotooltip_before_battle_character_title">Kütüphaneci Bilgisi</text>
+  <text id="ui_autotooltip_before_battle_character_content">&#60;color=#ff5622ff&#62;‘Resepsiyona’&#60;/color&#62; katilacak kütüphaneciler hakkindaki bilgiler.</text>
+
+  <text id="ui_autotooltip_before_battle_detail_title">Detayli Bilgi</text>
+  <text id="ui_autotooltip_before_battle_detail_content">Karakteri seçtikten sonra tüm detayli bilgileri görebilirsiniz.</text>
+
+  <text id="ui_autotooltip_before_battle_card_title">Savas Sayfalari</text>
+  <text id="ui_autotooltip_before_battle_card_content">Seçilen karakterin &#60;color=#ff5622ff&#62;‘resepsiyonda’&#60;/color&#62; kullanacagi savas sayfalarinin (kartlarin) listesini inceleyebilirsiniz.</text>
+
+  <text id="ui_autotooltip_before_battle_enemy_title">Davetli Detaylari</text>
+  <text id="ui_autotooltip_before_battle_enemy_content">Kütüphane'den davetiye alan misafirlerin bilgileri burada gösterilir.</text>
+
+  <text id="ui_autotooltip_before_battle_start_title">Isiklar, Kamera, Motor!</text>
+  <text id="ui_autotooltip_before_battle_start_content">Mevcut tüm bilgileri incelemeyi bitirdiginizde savasi baslatmak için bu dügmeye basin.</text>
+
+
+  <text id="ui_autotooltip_after_battle_book_title">Ganimet</text>
+  <text id="ui_autotooltip_after_battle_book_content">&#60;color=#ff5622ff&#62;‘Resepsiyondan’&#60;/color&#62; elde ettiginiz kitaplari buradan inceleyebilirsiniz.
+Eger resepsiyonda basarisiz olduysaniz, bu kisim bunun yerine kaybettiginiz kitaplari gösterir.</text>
+
+  <text id="ui_autotooltip_after_battle_gift_title">Basari Aksesuarlari</text>
+  <text id="ui_autotooltip_after_battle_gift_content">Kütüphanecilerinizin &#60;color=#ff5622ff&#62;‘resepsiyondan’&#60;/color&#62; kazandigi Savas Sembollerini buradan inceleyebilirsiniz.</text>
+
+  <text id="ui_autotooltip_after_battle_end_title">Perdeleri Kapat</text>
+  <text id="ui_autotooltip_after_battle_end_content">&#60;color=#ff5622ff&#62;‘Resepsiyonu’&#60;/color&#62; bitirir ve sahneden çikis yapar.</text>
+
+  
+  <text id="ui_autotooltip_feedingbook_controlbutton_title">Yakma Keyfi</text>
+  <text id="ui_autotooltip_feedingbook_controlbutton_content">Elde ettiginiz kitaplari yakabilirsiniz.</text>
+
+  <text id="ui_autotooltip_feedingbook_centerbook_title">Sayfalarin içerigi</text>
+  <text id="ui_autotooltip_feedingbook_centerbook_content">Elinizdeki hangi kitaplari sunabileceginizi görebilirsiniz.
+Bu kitaplar ayni zamanda sonraki bölümlerde misafirleri davet etmek için de kullanilir, bu nedenle elinizde &#60;color=#ff5622ff&#62;en az bir kopya bulundurmaniz&#60;/color&#62; önerilir.</text>
+
+  <text id="ui_autotooltip_feedingbook_rewarditems_title">Küllerden Doganlar</text>
+  <text id="ui_autotooltip_feedingbook_rewarditems_content">Kitabi yakarak elde ettiginiz sayfalarin listesini inceleyebilirsiniz.</text>
+
+  <text id="ui_autotooltip_feedingbook_feedbookbutton_title">Kitap Yakiliyor</text>
+  <text id="ui_autotooltip_feedingbook_feedbookbutton_content">Kitaplarinizi yakmaya baslamak için dügmeye basin.
+Ayni anda &#60;color=#ff5622ff&#62;20 kitaba kadar&#60;/color&#62; yakabilirsiniz.</text>
+
+  <text id="ui_autotooltip_battle_speeddicestop_title">Hizi Belirle</text>
+  <text id="ui_autotooltip_battle_speeddicestop_content">Bir sahne basladiginda, ‘Hiz Zarlarini’ atmak için Bosluk (Space) tusuna basin.</text>
+  <text id="ui_autotooltip_battle_speeddicestop_content_pad">Bir sahne basladiginda, ‘Hiz Zarlarini’ atmak için &#60;sprite index=0&#62; tusuna basin.</text> <text id="ui_autotooltip_battle_speeddiceinfo_title">Hiz Zari</text>
+  <text id="ui_autotooltip_battle_speeddiceinfo_content">Yüksek hiz su avantajlari saglar:
+- Eger düsmanin hizi sizinkinden düsükse, saldirilarini kendinize yönlendirebilirsiniz.
+- Daha yüksek hiza sahip karakterler önce hareket eder.</text>
+
+  <text id="ui_autotooltip_battle_selectspeeddice_title">Kütüphaneci Hiz Zari</text>
+  <text id="ui_autotooltip_battle_selectspeeddice_content">Kütüphanecinin hiz zarini seçin.</text>
+
+  <text id="ui_autotooltip_battle_selectcard_title">Kütüphaneci Savas Sayfalari</text>
+  <text id="ui_autotooltip_battle_selectcard_content">Bu, kütüphanecinin elindeki savas sayfalaridir (kartlaridir).
+Bunlardan birini seçin.</text>
+
+  <text id="ui_autotooltip_battle_selectenemydice_title">Düsman Hiz Zari</text>
+  <text id="ui_autotooltip_battle_selectenemydice_content">simdi saldiriyla hedef almak için bir düsmanin hiz zarini seçin.</text>
+
+  <text id="ui_autotooltip_battle_autubattlealarm_title">Hizli Mod</text>
+  <text id="ui_autotooltip_battle_autubattlealarm_content">Q tusuna basarak veya simgeye tiklayarak hizli moda geçebilirsiniz.
+Hizli modda zar eylemleri otomatik olarak gerçeklesir ve çatismanin hizlica devam etmesini saglar.
+Hizli mod kapaliyken, oyuncunun her çarpismada tiklayarak veya Bosluk tusuna basarak zar eylemini devam ettirmesi gerekir.</text>
+
+  <text id="ui_autotooltip_battle_autubattlealarm_content_pad">Hizli moda geçis yapabilirsiniz.
+Hizli modda zar eylemleri otomatik olarak gerçeklesir ve çatismanin hizlica devam etmesini saglar.
+Hizli mod kapaliyken, oyuncunun her çarpismada tiklayarak veya Bosluk tusuna basarak zar eylemini devam ettirmesi gerekir.</text> <text id="ui_autotooltip_battle_autoequipcard_title">Savas Sayfalarini Otomatik Seç</text>
+  <text id="ui_autotooltip_battle_autoequipcard_content">P tusuna basarak veya simgeye tiklayarak kütüphanecinizin hiz zarlarini elinizdeki savas sayfalariyla otomatik olarak doldurabilirsiniz.
+Hedefler rastgele seçilir.
+Bu, savaslarin hizlica ilerlemesini saglar ancak hassasiyet ve strateji kaybina yol açar.</text>
+
+
+  <text id="ui_autotooltip_battle_battlearrowview_title">Hedefleri Göster</text>
+  <text id="ui_autotooltip_battle_battlearrowview_content">Bunlar kütüphanecilerin ve misafirlerin kimi hedef aldigini gösteren görsel göstergelerdir.
+1/2/3 tuslarina basarak (Düsmanlar/Çarpismalar/Kütüphaneciler) veya simgelere tiklayarak bunlari etkinlestirin.</text>
+  
+  <text id="ui_autotooltip_battle_battlearrowview_content_pad">Bunlar kütüphanecilerin ve misafirlerin kimi hedef aldigini gösteren görsel göstergelerdir.
+Simgelere tiklayarak bunlari etkinlestirin. (Düsmanlar/Çarpismalar/Kütüphaneciler)</text> <text id="ui_autotooltip_battle_startbattle_title">Hazirim!</text>
+  <text id="ui_autotooltip_battle_startbattle_content">Hiz zarlari atildiktan sonra Bosluk tusuna veya simgeye basmak Çatisma Asamasi'ni baslatir.</text>
+
+  <text id="ui_autotooltip_battle_startbattle_content_pad">Hiz zarlari atildiktan sonra &#60;sprite index=4&#62; simgesine basmak Çatisma Asamasi'ni baslatir.</text>
+
+
+
+  <text id="ui_autotooltip_creaturebattle_selectenemy_title">Rakibi Gözlemle</text>
+  <text id="ui_autotooltip_creaturebattle_selectenemy_content">Düsman karaktere basin.</text>
+  <text id="ui_autotooltip_creaturebattle_selectenemy_content_pad">Düsman karaktere basin.</text> <text id="ui_autotooltip_creaturebattle_passivealarm_title">Pasif Listesi</text>
+  <text id="ui_autotooltip_creaturebattle_passivealarm_content">Karaktere basarak sahip oldugu pasif yeteneklerin listesini inceleyebilirsiniz.</text>
+
+  <text id="ui_autotooltip_creaturebattle_tolerancealarm_title">Dirençler</text>
+  <text id="ui_autotooltip_creaturebattle_tolerancealarm_content">Bir karaktere bastiginizda, farkli hasar türlerine karsi olan dirençlerini de görebilirsiniz.</text>
+
+
+  <text id="ui_autotooltip_sephirah_librarianslot_title">Kütüphaneci Destesi</text>
+  <text id="ui_autotooltip_sephirah_librarianslot_content">Savas sayfalari listesine gitmek için bu kattaki bir kütüphaneciyi seçin.</text>
+
+
+  <text id="ui_autotooltip_battlepage_currentequiped_title">Mevcut Deste Yapilandirmasi</text>
+  <text id="ui_autotooltip_battlepage_currentequiped_content">su anda kusatilmis olan savas sayfalarini buradan görebilirsiniz.</text>
+
+  <text id="ui_autotooltip_battlepage_inventory_title">Savas Sayfasi Listesi</text>
+  <text id="ui_autotooltip_battlepage_inventory_content">Oyuncunun sahip oldugu savas sayfalarinin listesini görebilirsiniz.</text>
+
+  <text id="ui_autotooltip_librarianinfo_customizebutton_title">Kütüphaneci Özellestirme</text>
+  <text id="ui_autotooltip_librarianinfo_customizebutton_content">Buradan kütüphanecinin görünüsünü ve diyaloglarini özellestirebilirsiniz.</text>
+
+  <text id="ui_autotooltip_librarianinfo_gift_title">Savas Sembolleri</text>
+  <text id="ui_autotooltip_librarianinfo_gift_content">Oyuncunun sahip oldugu savas sembollerinin listesini görebilirsiniz.</text>
+
+  <text id="ui_autotooltip_librarianinfo_battlepage_title">Savas Sayfalari</text>
+  <text id="ui_autotooltip_librarianinfo_battlepage_content">Kütüphaneci bilgi sekmesinden savas sayfalari sekmesine geçis yapabilirsiniz.</text>
+
+  <text id="ui_autotooltip_librarianinfo_equippage_title">Ana Sayfalar</text>
+  <text id="ui_autotooltip_librarianinfo_equippage_content">Kütüphaneci bilgi sekmesinden ana sayfalar sekmesine geçis yapabilirsiniz.</text>
+  
+  <text id="ui_autotooltip_equippage_clickinvenbook_title">Harika Bir Koleksiyon!</text>
+  <text id="ui_autotooltip_equippage_clickinvenbook_content">Bu, oyuncunun &#60;color=#ff5622ff&#62;su anda sahip oldugu&#60;/color&#62; ana sayfalarin listesidir.</text>
+
+  <text id="ui_autotooltip_equippage_invenbookinfo_title">Ana Sayfa Bilgisi</text>
+  <text id="ui_autotooltip_equippage_invenbookinfo_content">bu panel seçilen ana sayfanin bilgilerini gösterir.
+&#60;color=#ff5622ff&#62;Desteyi, Pasif Yetenekleri ve Dirençleri&#60;/color&#62; inceleyebilirsiniz.</text>
+  
+  <text id="ui_autotooltip_equippage_selfequipedbookinfo_title">Kusatilmis Ana Sayfa</text>
+  <text id="ui_autotooltip_equippage_selfequipedbookinfo_content">Bu panel kütüphaneciye su anda kusatilmis olan ana sayfanin bilgilerini gösterir.</text>
+
+  <text id="ui_autotooltip_equippage_equipbuttonalarm_title">Kusan Dügmesi</text>
+  <text id="ui_autotooltip_equippage_equipbuttonalarm_content">Ana sayfayi kütüphaneciye kusatmak için dügmeye basin.</text>
+
+  <text id="ui_autotooltip_equippage_changecurrentequipalarm_title">Yeni Ana Sayfa</text>
+  <text id="ui_autotooltip_equippage_changecurrentequipalarm_content">Yeni kusatilan ana sayfanin bilgilerini buradan görebilirsiniz.</text>
+
+  <text id="ui_autotooltip_equippage_selfequipedbookinfo_emptybattlepagealarm_title">Kitapligi Bosalt</text>
+  <text id="ui_autotooltip_equippage_selfequipedbookinfo_emptybattlepagealarm_content">Savas sayfasi destesi ana sayfaya baglidir.
+Ana sayfalari degistirdikten sonra desteyi yapilandirdiginizdan emin olun.</text>
+
+  <text id="ui_autotooltip_keter_questalarm_title">Kat Görevleri</text>
+  <text id="ui_autotooltip_keter_questalarm_content">Her katin bir dizi &#60;color=#ff5622ff&#62;görevi&#60;/color&#62; olacaktir.
+Görevleri tamamlamak bir ‘anormallik savasi’ kilidini açacaktir.</text>
+
+  <text id="ui_autotooltip_keter_possiblecreaturebattle_title">Anormallik Savaslari</text>
+  <text id="ui_autotooltip_keter_possiblecreaturebattle_content">Bir katta görev tamamlandiginda, &#60;color=#ff5622ff&#62;bir anormallige karsi savas&#60;/color&#62; mevcut olacaktir.
+Bir anormallik savasini tamamlamak katin gerçeklestirme seviyesini artiracaktir.</text>
+
+  <text id="ui_autotooltip_keter_librarylevelalarm_title">Tehlike Seviyesi</text>
+  <text id="ui_autotooltip_keter_librarylevelalarm_content">Kütüphane'nin sehir tarafindan algilanan güncel tehlike seviyesi.
+Her katin gerçeklestirme seviyesini artirmak, Kütüphane'nin bir tehdit olarak varligini güçlendirecektir.
+Çubuk doldugunda &#60;color=#ff5622ff&#62;Kütüphane'nin tehdit seviyesi&#60;/color&#62; artacaktir.</text>
+
+
+
+  <text id="ui_autotooltip_battlesetting_remainstagebuttonalarm_title">Kalan Perdeler</text>
+  <text id="ui_autotooltip_battlesetting_remainstagebuttonalarm_content">Bazi resepsiyonlar birden fazla perdeden olusur.
+Resepsiyondaki perde sayisini buradan inceleyebilirsiniz.</text>
+
+
+  <text id="ui_autotooltip_battlesetting_remainstageinfoalarm_title">Savas Düzeni</text>
+  <text id="ui_autotooltip_battlesetting_remainstageinfoalarm_content">Perde sayisi ve onlarla karsilasacaginiz sirayi gösteren görsel gösterge.</text>
+
+  <text id="ui_autotooltip_battlesetting_possiblefloorinfo_title">Bir, iki, üç, kat…</text>
+  <text id="ui_autotooltip_battlesetting_possiblefloorinfo_content">Resepsiyona katilabilecek kat sayisi burada gösterilir.</text>
+  
+  <text id="ui_autotooltip_malkuth_firstopen_allsephirahhighlight_title">Katlar Kapilarini Açiyor</text>
+  <text id="ui_autotooltip_malkuth_firstopen_allsephirahhighlight_content">su anda kullanilabilir olan katlarin bilgisi.</text>
+  
+  <text id="ui_autotooltip_malkuth_firstopen_floorhighlight_title">Yeni Bir Kat</text>
+  <text id="ui_autotooltip_malkuth_firstopen_floorhighlight_content">Belirli kosullar yerine getirildiginde daha fazla katin kilidi açilacaktir.
+Yeni katlarda yeni kütüphaneciler belirecektir.</text>
+  
+  <text id="ui_autotooltip_malkuth_firstopen_floorinfohighlight_title">Bu Katta Neler Oluyor?</text>
+  <text id="ui_autotooltip_malkuth_firstopen_floorinfohighlight_content">Yeni katin bilgilerini buradan görebilirsiniz.
+Kütüphanecileri, kat görevlerini ve anormallik sayfalarini inceleyebilirsiniz.</text>
+
+</localize>

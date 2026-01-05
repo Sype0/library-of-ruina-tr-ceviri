@@ -85,7 +85,7 @@
           <Teller>???</Teller>
           <Title>Davetsiz Misafir</Title>
           <VoiceFile>ch1_prol1_ep1_roland5</VoiceFile>
-          <Content>Peki, sen kim oluyorsu... (nda benimle böyle konuşabiliyorsun?)</Content>
+          <Content>Peki, sen kim oluyorsu...</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>???</Teller>
@@ -277,7 +277,7 @@
           <Teller>Roland</Teller>
           <Title>Davetsiz Misafir</Title>
           <VoiceFile>ch1_prol2_ep1_roland6</VoiceFile>
-          <Content>Sendikaların oradan buradan insanları denek amaçlı Singularity (Teklik) araştırması için kaçırdıkları söylentilerini duymuştum.</Content>
+          <Content>Sendikaların oradan buradan insanları denek amaçlı teklik araştırması için kaçırdıkları söylentilerini duymuştum.</Content>
         </Dialog>
         <Dialog ID="13" Model="롤랑">
           <Teller>Roland</Teller>
@@ -493,7 +493,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch1_prol3_ep1_roland4</VoiceFile>
-          <Content>Düzelticilerle alakalı tuhaf fantezilerin falan varmı? 9. Sınıf birinden çok fazla şey beklemiyormusun? Senin düşündüğün kadarda yetenekli degilim, anlarsın ya.</Content>
+          <Content>Düzelticilerle alakalı tuhaf fantezilerin falan varmı? 9. Sınıf birinden çok fazla şey beklemiyor musun? Senin düşündüğün kadarda yetenekli degilim, anlarsın ya.</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>Angela</Teller>

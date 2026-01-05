@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<WhiteNightTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <param key="first" index="1">
+    “Sana şunu da söylüyorum ki, sen benim ilk Havarımsın ve ben kilisemi bu kayanın üzerine kuracağım; cehennemin kapıları ona karşı galip gelemeyecek.”
+  </param>
+  <param key="second" index="2">
+    “Söyle bize, bunlar ne zaman olacak ve senin gelişinin ve dünyanın sonunun işareti ne olacak?”
+  </param>
+  <param key="third" index="3">
+    “Efendimiz, gökten ateş yağdırıp onları yok etmemizi ister misin?”
+  </param>
+  <param key="fourth" index="4">
+    “Ve üçüncü ve dördüncü Havari; onlara Boanerges, yani Gökgürültüsü Oğulları adını verdi.”
+  </param>
+  <param key="fifth" index="5">
+    “Beşinci Havari dedi ki, Efendimiz, bize Baba'yı göster, bu bize yeter.”
+  </param>
+  <param key="sixth" index="6">
+    “Oradan geçerken bir adam gördü, altıncı Havari: ve ona dedi ki: Beni takip et. O da kalktı ve onu takip etti.”
+  </param>
+  <param key="seventh" index="7">
+    “Ve yedinci adında bir adam vardı ki, daha önce o şehirde büyücülük yapmış ve kendisinin büyük biri olduğunu söyleyerek halkı kandırmıştı.”
+  </param>
+  <param key="eighth" index="8">
+    “O zaman sekizinci Havari arkadaşlarına dedi ki: Haydi biz de gidelim, onunla birlikte ölelim.”
+  </param>
+  <param key="ninth" index="9">
+    “Dokuzuncu Havari cevap verdi ve ona dedi ki, sen Tanrı'nın Oğlusun; sen kutsal toprakların Kralısın.”
+  </param>
+  <param key="tenth" index="10">
+    “Onuncu Havari...”
+  </param>
+</WhiteNightTextRoot>

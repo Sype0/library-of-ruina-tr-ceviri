@@ -180,7 +180,7 @@
 	<text id="ui_title_newgame">Yeni Oyun</text>
 	<text id="ui_title_continue">Devam Et</text>
 	<text id="ui_title_setting">Ayarlar</text>
-	<text id="ui_title_exit">Masaüstüne Dön</text>
+	<text id="ui_title_exit">Geri Dön</text>
 	<text id="tooltip_tooltipPanel" xsi:nil="true"/>
 	<text id="ui_subtitle_none" xsi:nil="true"/>
 	<text id="ui_floormain_questalarm_queststate">Eksik Atamalar: {0}</text>

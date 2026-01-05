@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardAbilityDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BattleCardAbility ID="elenaStartBuf">
+    <Desc>[Savaş Başlangıcı] Eğer hedef Kızıl Haç ise, 3 Güç ve Koruma verir</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="elenaAtkBuf">
+    <Desc>[İsabet Halinde] Tüm müttefiklere 3 Güç ve Metanet verir</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="elenaMinionStrong">
+    <Desc>Bu sayfa kullanımdayken hedefin tüm hız zarları 3 hız kaybeder</Desc>
+    <Desc>Eğer bu sayfa bir düşmana isabet ederse, rastgele bir düşman üzerinde tekrar kullan (Halihazırda isabet almış düşmanları tekrar seçmez)</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="elenaMinionDefense">
+    <Desc>Eğer bu sayfadaki herhangi bir karşı saldırı zarı sahne sonunda kalırsa, Elena gelecek sahne hedef alınamaz</Desc>
+    <Desc></Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="powerUp2">
+    <Desc>[Kullanıldığında] Bu sayfadaki tüm zarlar +2 Güç kazanır</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="elenaAreaDice">
+    <Desc>[İsabet Halinde] Verilen hasarın yarısı kadar HP yeniler</Desc>
+  </BattleCardAbility>
+</BattleCardAbilityDescRoot>

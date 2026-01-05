@@ -1,239 +1,442 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <text id="ui_manual_title_1">Davet</text>
-    <text id="ui_manual_title_2">Resepsiyon</text>
-    <text id="ui_manual_title_3">Kütüphane</text>
-    <text id="ui_manuals_subtitle_1_1">Kirmizi Davetiyeler Gönder</text>
-    <text id="ui_manuals_subtitle_1_2">Genel Davetiyeler Gönder</text>
+	<text id="ui_manual_title_1">Davetiye</text>
+	<text id="ui_manual_title_2">Resepsiyon</text>
+	<text id="ui_manual_title_3">Kütüphane</text>
+	<text id="ui_manuals_subtitle_1_1">Kirmizi davetiyeleri gönder</text>
+	<text id="ui_manuals_subtitle_1_2">Genel davetiyeleri gönder</text>
 
-    <text id="ui_manuals_subtitle_2_1">Resepsiyona Hazirlanma</text>
-    <text id="ui_manuals_subtitle_2_2">Savasin Temelleri</text>
+	<text id="ui_manuals_subtitle_2_1">Resepsiyona hazirlan</text>
+	<text id="ui_manuals_subtitle_2_2">Savas temelleri</text>
 
-    <text id="ui_manuals_subtitle_2_3">Resepsiyon Süreci</text>
-    <text id="ui_manuals_subtitle_2_4">Duygular ve Anormallikler</text>
-    <text id="ui_manuals_subtitle_2_5">Resepsiyon Sonu</text>
-    <text id="ui_manuals_subtitle_2_6">Sayfa Türleri</text>
+	<text id="ui_manuals_subtitle_2_3">Resepsiyon süreci</text>
+	<text id="ui_manuals_subtitle_2_4">Duygular ve Anormallikler</text>
+	<text id="ui_manuals_subtitle_2_5">Resepsiyon sonu</text>
+	<text id="ui_manuals_subtitle_2_6">Sayfa türleri</text>
 
-    <text id="ui_manuals_subtitle_3_1">Sayfa Kazanma</text>
-    <text id="ui_manuals_subtitle_3_2">Kütüphanecileri Kusanma</text>
-    <text id="ui_manuals_subtitle_3_3">Kütüphaneyi Gelistirme</text>
-    <text id="ui_manuals_subtitle_3_4">Hikayeyi inceleme</text>
+	<text id="ui_manuals_subtitle_3_1">Sayfa edinme</text>
+	<text id="ui_manuals_subtitle_3_2">Kütüphanecileri kusat</text>
+	<text id="ui_manuals_subtitle_3_3">Kütüphaneyi gelistir</text>
+	<text id="ui_manuals_subtitle_3_4">Hikayeyi incele</text>
 
-    <text id="ui_manuals_subsubtitle_1_1_1">Davetlileri Seçme</text>
-    <text id="ui_manuals_subsubtitle_1_1_2">Kitaplari Seçme Ⅰ</text>
-    <text id="ui_manuals_subsubtitle_1_1_3">Kitaplari Seçme Ⅱ</text>
-    <text id="ui_manuals_subsubtitle_1_1_4">Davetiyeyi Gönderme</text>
-    <text id="ui_manuals_subsubtitle_1_2_1">Genel Davetiyeler Gönder</text>
-    <text id="ui_manuals_subsubtitle_2_2_1">Savas Sayfalari Nedir?</text>
-    <text id="ui_manuals_subsubtitle_2_3_1">Hiz Zari Atma</text>
-    <text id="ui_manuals_subsubtitle_2_3_2">Savas Sayfalari Seçme</text>
-    <text id="ui_manuals_subsubtitle_2_3_3">Savasa Baslama</text>
-    <text id="ui_manuals_subsubtitle_2_3_4">Zar Atma</text>
-    <text id="ui_manuals_subsubtitle_2_3_5">Tek Tarafli Saldirilar</text>
-    <text id="ui_manuals_subsubtitle_2_3_6">Çatisma Ⅰ</text>
-    <text id="ui_manuals_subsubtitle_2_3_7">Çatisma Ⅱ</text>
-    <text id="ui_manuals_subsubtitle_2_3_8">Sersemleme</text>
-    <text id="ui_manuals_subsubtitle_2_3_9">Kitap Kazanma</text>
-    <text id="ui_manuals_subsubtitle_2_3_10">Dirençler</text>
-    <text id="ui_manuals_subsubtitle_2_4_1">Duygulari Artirma Ⅰ</text>
-    <text id="ui_manuals_subsubtitle_2_4_2">Duygulari Artirma Ⅱ</text>
-    <text id="ui_manuals_subsubtitle_2_4_3">Ekip Duygu Seviyesi</text>
-    <text id="ui_manuals_subsubtitle_2_4_4">Anormallik Sayfalari</text>
+	<text id="ui_manuals_subsubtitle_1_1_1">Misafir seç</text>
+	<text id="ui_manuals_subsubtitle_1_1_2">Kitap seç Ⅰ</text>
+	<text id="ui_manuals_subsubtitle_1_1_3">Kitap seç Ⅱ</text>
+	<text id="ui_manuals_subsubtitle_1_1_4">Davetiye gönder</text>
+	<text id="ui_manuals_subsubtitle_1_2_1">Genel davetiyeleri gönder</text>
+	<text id="ui_manuals_subsubtitle_2_2_1">Savas sayfalari nedir?</text>
+	<text id="ui_manuals_subsubtitle_2_3_1">Hiz zari at</text>
+	<text id="ui_manuals_subsubtitle_2_3_2">Savas sayfalarini seç</text>
+	<text id="ui_manuals_subsubtitle_2_3_3">Savasi baslat</text>
+	<text id="ui_manuals_subsubtitle_2_3_4">Zar at</text>
+	<text id="ui_manuals_subsubtitle_2_3_5">Tek tarafli saldirilar</text>
+	<text id="ui_manuals_subsubtitle_2_3_6">Çarpisma Ⅰ</text>
+	<text id="ui_manuals_subsubtitle_2_3_7">Çarpisma Ⅱ</text>
+	<text id="ui_manuals_subsubtitle_2_3_8">Sersemletme</text>
+	<text id="ui_manuals_subsubtitle_2_3_9">Kitap kazanma</text>
+	<text id="ui_manuals_subsubtitle_2_3_10">Dirençler</text>
+	<text id="ui_manuals_subsubtitle_2_4_1">Duygu seviyesini artir Ⅰ</text>
+	<text id="ui_manuals_subsubtitle_2_4_2">Duygu seviyesini artir Ⅱ</text>
+	<text id="ui_manuals_subsubtitle_2_4_3">Takim duygu seviyesi</text>
+	<text id="ui_manuals_subsubtitle_2_4_4">Anormallik sayfalari</text>
 
-    <text id="ui_manuals_subsubtitle_2_5_1">Sonraki Sahne</text>
-    <text id="ui_manuals_subsubtitle_2_5_2">Dinlenme Odasi</text>
-    <text id="ui_manuals_subsubtitle_2_5_3">Son</text>
+	<text id="ui_manuals_subsubtitle_2_5_1">Sonraki sahne</text>
+	<text id="ui_manuals_subsubtitle_2_5_2">Dinlenme odasi</text>
+	<text id="ui_manuals_subsubtitle_2_5_3">Son</text>
 
-    <text id="ui_manuals_subsubtitle_2_6_1">Yakin Dövüs</text>
-    <text id="ui_manuals_subsubtitle_2_6_2">Menzilli</text>
-    <text id="ui_manuals_subsubtitle_2_6_3">Karsi Saldiri</text>
-    <text id="ui_manuals_subsubtitle_2_6_4">Alan Saldirisi</text>
-    <text id="ui_manuals_subsubtitle_2_6_5">Alan Saldirilarinin Özellikleri</text>
-    <text id="ui_manuals_subsubtitle_2_6_6">Alan Saldirisi - Bireysel</text>
-    <text id="ui_manuals_subsubtitle_2_6_7">Alan Saldirisi - Toplam</text>
+	<text id="ui_manuals_subsubtitle_2_6_1">Yakin Dövüs</text>
+	<text id="ui_manuals_subsubtitle_2_6_2">Menzilli</text>
+	<text id="ui_manuals_subsubtitle_2_6_3">Karsi Saldiri</text>
+	<text id="ui_manuals_subsubtitle_2_6_4">Toplu Saldiri</text>
+	<text id="ui_manuals_subsubtitle_2_6_5">Toplu saldiri özellikleri</text>
+	<text id="ui_manuals_subsubtitle_2_6_6">Toplu saldiri - Bireysel</text>
+	<text id="ui_manuals_subsubtitle_2_6_7">Toplu saldiri - Toplam</text>
 
-        <text id="ui_manuals_subsubtitle_2_6_1_1">Yakin Dövüs Sayfasi Simgesi</text>
-    <text id="ui_manuals_subsubtitle_2_6_1_2">- En yaygin Savas Sayfasi.
-- Bir Yakin Dövüs Sayfasi, bir Menzilli Sayfayla çatistiginda, Saldiri Zari, rakip Menzilli Zar ile Çatismayi kazansa bile aninda ona hasar veremez.
-Ancak, Saldiri Zari her Çatismayi kazandiginda saklanir ve yeniden kullanilmak üzere Zarin sonuna tasinir.</text>
+	<text id="ui_manuals_subsubtitle_2_6_1_1">Yakin dövüs sayfasi simgesi</text>
+	<text id="ui_manuals_subsubtitle_2_6_1_2">- En yaygin savas sayfasi türüdür.
+- Bir yakin dövüs sayfasi, menzilli bir sayfaya karsi çarpistiginda, saldiri zari rakibin menzilli zarini yense bile ona hemen hasar veremez.
+Ancak, her çarpisma kazanildiginda saldiri zari saklanir ve tekrar kullanilmak üzere zar sirasinin sonuna tasinir.</text>
 
-    <text id="ui_manuals_subsubtitle_2_6_2_1">Menzilli Sayfa Simgesi</text>
-    <text id="ui_manuals_subsubtitle_2_6_2_2">- Uzaktan saldirilar gerçeklestiren daha az yaygin Savas Sayfalari.
-- Menzilli Sayfalar, Hiz ne olursa olsun, *daima* Yakin Dövüs Sayfalarindan önce oynanir.
-- Bir Menzilli Sayfanin Saldiri Zari, bir Yakin Dövüs Sayfasinin Saldiri Zarina karsi Çatismayi kaybetse bile, Menzilli kullanici aninda hasar almaz.
-- Ancak, rakibin Yakin Dövüs Zari saklanir ve yeniden kullanilmak üzere zarin sonuna tasinir.</text>
+	<text id="ui_manuals_subsubtitle_2_6_2_1">Menzilli sayfa simgesi</text>
+	<text id="ui_manuals_subsubtitle_2_6_2_2">- Uzaktan saldiri gerçeklestiren daha nadir savas sayfalaridir.
+- Menzilli sayfalar, hizlarina bakilmaksizin *her zaman* yakin dövüs sayfalarindan önce oynanir.
+- Menzilli bir sayfanin saldiri zari, yakin dövüs sayfasinin saldiri zarina karsi bir çarpismayi kaybetse bile, menzilli kullanici hemen hasar almaz.
+- Bunun yerine, rakibin yakin dövüs zari saklanir ve tekrar kullanilmak üzere zar sirasinin sonuna tasinir.</text>
 
-    <text id="ui_manuals_subsubtitle_2_6_3_1">Karsi Saldiri Zari Simgesi</text>
-    <text id="ui_manuals_subsubtitle_2_6_3_2">Karsi Saldiri Zarlari Sari renktedir.
-Bu zarlar, bir düsman tek tarafli bir saldiri deneye kadar saklanacaktir.
-Bir Karsi Saldiri Zari Çatismayi kazanirsa, Rakibin Savas Sayfasinda hala zarlari varsa yeniden kullanilir.</text>
-    <text id="ui_manuals_subsubtitle_2_6_4_1">Alan Saldirisi Sayfalari Simgesi</text>
-    <text id="ui_manuals_subsubtitle_2_6_4_2">Bu Simge, &#60;color=#ff5622ff&#62;'Savas Sayfasi'nda&#60;/color&#62; bir Alan Saldirisi Sayfasi oldugunu gösterir.
-- Bir Alan Saldirisi için bir hedef seçtiginizde,
-her düsmana karsi otomatik olarak bir Hiz Zari seçilir.</text>
+	<text id="ui_manuals_subsubtitle_2_6_3_1">Karsi saldiri zari simgesi</text>
+	<text id="ui_manuals_subsubtitle_2_6_3_2">Karsi saldiri zarlari sari renktedir.
+Bu zarlar, bir düsman tek tarafli saldiri yapana kadar saklanir.
+Eger bir karsi saldiri zari bir çarpismayi kazanirsa, rakibin savas sayfasinda hala zar kaldigi sürece tekrar kullanilacaktir.</text>
+	<text id="ui_manuals_subsubtitle_2_6_4_1">Toplu saldiri sayfalari simgesi</text>
+	<text id="ui_manuals_subsubtitle_2_6_4_2">&#60;color=#ff5622ff&#62;‘Savas sayfasi’&#60;/color&#62; üzerindeki bu simge, onun bir toplu saldiri sayfasi oldugunu belirtir.
+- Bir toplu saldiri hedefi seçtiginizde,
+her bir düsmana karsi otomatik olarak bir hiz zari seçilecektir.</text>
 
-    <text id="ui_manuals_subsubtitle_2_6_5_1">Alan Saldirilari, Hiz ne olursa olsun, *daima* Yakin Dövüs ve Menzilli Sayfalardan önce oynanir.
-Bir Alan Saldirisi Zari atisi, rakibin Savas Sayfalarinin atislariyla karsilastirilir ve Alan Saldirisindan daha düsük bir atisa sahip olan hedefler hasar alir ve Zarlari yok edilir.</text>
+	<text id="ui_manuals_subsubtitle_2_6_5_1">Toplu saldirilar, hiza bakilmaksizin *her zaman* yakin dövüs ve menzilli sayfalardan önce oynanir.
+Toplu saldiri zarinin sonucu, hedeflerin seçili hiz zarlarindaki savas sayfalarinin zar sonuçlariyla karsilastirilir; toplu saldiridan daha düsük sonuca sahip olan hedefler hasar alir ve zarlari yok edilir.</text>
 
-    <text id="ui_manuals_subsubtitle_2_6_6_1">iki farkli Alan Saldirisi türü vardir: &#60;color=#ff5622ff&#62;'Bireysel'&#60;/color&#62; ve &#60;color=#ff5622ff&#62;'Toplam'&#60;/color&#62;. &#60;color=#ff5622ff&#62;'Bireysel'&#60;/color&#62; Alan Saldirilari, hedeflerin her Hiz Zarinin atislariyla sirayla karsilastirilir (Karsi Saldiri Zarlari hariç). Yani, Alan Saldirisi Sayfasinin ilk zari rakibin Savas Sayfasinin ilk zariyla, ikinci zari ikincisiyle ve bu sekilde devam eder.</text>
-    <text id="ui_manuals_subsubtitle_2_6_7_1">'Toplam'&#60;/color&#62; Alan Saldirilari, hedeflerin Hiz Zarlarinin (Karsi Saldiri Zarlari hariç) tüm zarlarinin toplamiyla karsilastirilir. Yani, Savas Sayfasinin tüm zarlari toplanir ve Toplam Alan Saldirisi Sayfasiyla çatisir.</text>
+	<text id="ui_manuals_subsubtitle_2_6_6_1">iki farkli toplu saldiri türü vardir: &#60;color=#ff5622ff&#62;‘Bireysel’&#60;/color&#62; ve &#60;color=#ff5622ff&#62;‘Toplam’&#60;/color&#62;. &#60;color=#ff5622ff&#62;‘Bireysel’&#60;/color&#62; toplu saldirilar, hedeflerin hiz zarlarindaki zar sonuçlariyla sirasiyla karsilastirilir (Karsi saldiri zarlari hariç). Yani toplu saldiri sayfasinin ilk zari, rakibin savas sayfasinin ilk zarina karsi yarisir, ikincisi ikinciyle ve bu sekilde devam eder.</text>
+	<text id="ui_manuals_subsubtitle_2_6_7_1">&#60;color=#ff5622ff&#62;‘Toplam’&#60;/color&#62; toplu saldirilar, hedeflerin hiz zarlarindaki savas sayfalarinin tüm zarlarinin toplamiyla karsilastirilir (Karsi saldiri zarlari hariç). Yani savas sayfasindaki tüm zarlar toplanir ve Toplam-Toplu saldiri sayfasina karsi yarisir.</text>
 
-    <text id="ui_manuals_subsubtitle_3_1_1_1">Resepsiyonlarda kazandiginiz Kitaplari yakarak Sayfalar (ekipmanlar ve kartlar) kazanabilirsiniz.</text>
-    <text id="ui_manuals_subsubtitle_3_1_1_2">Adim 1: ‘Kitaplari Yak’ sekmesine basin.</text>
-    <text id="ui_manuals_subsubtitle_3_1_2_1">Adim 3: ‘Kitaplari Yak’ dügmesine basin.</text>
-    <text id="ui_manuals_subsubtitle_3_1_2_2">Adim 2: Yakmak istediginiz kitaplari listeden seçin.</text>
-    <text id="ui_manuals_subsubtitle_3_1_2_3">Her kitabin kazanabileceginiz bir sayfa grubu ve her sayfanin kazanabileceginiz belirli sayida kopyasi vardir.
+	<text id="ui_manuals_subsubtitle_3_1_1">Kitap yakma Ⅰ</text>
+	<text id="ui_manuals_subsubtitle_3_1_2">Kitap yakma Ⅱ</text>
+	<text id="ui_manuals_subsubtitle_3_1_3">Kitap yakma ganimetleri</text>
+	<text id="ui_manuals_subsubtitle_3_1_4">Sayfa türleri</text>
+	<text id="ui_manuals_subsubtitle_3_1_5">Sayfa nadirlikleri</text>
+	<text id="ui_manuals_subsubtitle_3_2_1">Kitaplik arayüzü</text>
+	<text id="ui_manuals_subsubtitle_3_2_2">Karakter arayüzü</text>
+	<text id="ui_manuals_subsubtitle_3_2_3">Kilit sayfalari kusan</text>
+	<text id="ui_manuals_subsubtitle_3_2_4">Savas sayfalari kusan</text>
+	<text id="ui_manuals_subsubtitle_3_2_5">Savas sembollerini kusan</text>
+	<text id="ui_manuals_subsubtitle_3_2_6">Kütüphaneciyi özellestir</text>
+	<text id="ui_manuals_subsubtitle_3_2_7">Pasif aktarimi Ⅰ</text>
+	<text id="ui_manuals_subsubtitle_3_2_8">Pasif aktarimi Ⅱ</text>
+	<text id="ui_manuals_subsubtitle_3_3_1">Kat tamamlama seviyesini yükselt</text>
+	<text id="ui_manuals_subsubtitle_3_3_2">Anormallik savaslari</text>
+	<text id="ui_manuals_subsubtitle_3_3_3">Kütüphane seviyesini yükselt</text>
+	<text id="ui_manuals_subsubtitle_3_3_4">Yeni katlar aç</text>
+	<text id="ui_manuals_subsubtitle_3_4_1">Bas Kütüphaneci sahneleri</text>
+	<text id="ui_manuals_subsubtitle_3_4_2">Ana hikaye bölümlerini izle</text>
+	<text id="ui_manuals_subsubtitle_3_4_3">Sayfalari ve kitaplari oku</text>
 
-Tüm olasi ödülleri (Anahtar Sayfalar hariç) kazandiginizda ödül listesi otomatik olarak sifirlanir.
-Alternatif olarak, ‘Ödülleri Sifirla’ dügmesine basarak ödülleri manuel olarak sifirlayabilirsiniz.</text>
-    <text id="ui_manuals_subsubtitle_3_1_3_1">Bir katta kitap yaktiginizda, o katin renginde bir animasyon görürsünüz ve o kitaptan rastgele sayfalar kazanirsiniz.
+	<text id="ui_manuals_subsubtitle_1_1_1_1">Adim 1: Davetiye menüsünden, logosuna tiklayarak agirlamak istediginiz bir misafiri seçin.</text>
+	<text id="ui_manuals_subsubtitle_1_1_1_4">Resepsiyon, misafirlerinize bir 'Davetiye' gönderildiginde baslar.
+Adim 1: Davetiye menüsünden, logosuna tiklayarak davet etmek istediginiz bir misafiri seçin.</text>
+	<text id="ui_manuals_subsubtitle_1_1_2_1">Adim 2: Genisletilmis menüden baslatmak istediginiz bölümün simgesini seçin.</text>
+	<text id="ui_manuals_subsubtitle_1_1_2_2">Adim 3: Seçtiginizde, davetiye için gerekli olan tüm kitaplarin listesi gösterilecektir.
+Listedeki bosluga tiklayin.</text>
+	<text id="ui_manuals_subsubtitle_1_1_3_1">Adim 4: 'Günün Kitaplari' arasindan gerekli kitaplari seçin.</text>
+	<text id="ui_manuals_subsubtitle_1_1_4_1">Adim 5: Davetiyeyi hazirlayip göndermek için 'Davetiye Gönder'e basin.</text>
+	<text id="ui_manuals_subsubtitle_1_1_4_2">Adim 6: Davetiyeyi göndermek için altin renkli dügmeye basin.</text>
+	<text id="ui_manuals_subsubtitle_1_1_4_3">Misafirlerin detaylari, onlari ilk kez davet ettiginizde mevcut olmayacaktir.
 
-Kitap yakmak size olasiliga bagli olarak her seferinde farkli Sayfalar verecektir.</text>
-    <text id="ui_manuals_subsubtitle_3_1_4_1">Kitaplardan kazanabileceginiz iki tür Sayfa vardir: ‘Anahtar Sayfalar’ ve ‘Savas Sayfalari’.
+Onlarla bir kez yüzlestikten sonra bilgilerini bu listede görebilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_1_2_1_1">Genel davetiyeler, hikayeyi ilerletmeyen önemsiz misafirlere gönderilir.
+Ancak sizi daha güçlü yapabilecek kaynaklara sahip olabilirler.</text>
+	<text id="ui_manuals_subsubtitle_1_2_1_2">Adim 1: 'Kitap Kaydet' alanina tiklayarak 'Günün Kitaplari' arasindan *herhangi* bir kitabi seçin.
+(Herhangi bir miktar veya derece olabilir.)
+Not: Kirmizi bir davetiye ile ayni kitap kombinasyonunu koyarsaniz, genel bir davetiye yerine o kombinasyona uyan misafirler davet edilecektir.</text>
+	<text id="ui_manuals_subsubtitle_1_2_1_3">Adim 2: Davetiyeyi göndermek için 'Gönder'e basin.</text>
+	<text id="ui_manuals_subsubtitle_1_2_1_4">Genel davetiyelerde, agirlayacaginiz misafir türü kaydettiginiz kitaplarin degerine bagli olacaktir.</text>
 
-Anahtar Sayfalar, bir Kütüphanecinin fizigini temsil eder; ekipman görevi görürler.
-Savas Sayfalari, Kütüphanecilerin savasta kullandigi Kartlardir.</text>
-    <text id="ui_manuals_subsubtitle_3_1_5_1">Sayfalarin Nadirligi &lt;Cep Kitabi&gt;, &lt;Ciltli Kitap&gt;, &lt;Sinirli Baski&gt;’dan &lt;Sanat Eseri&gt;’ne kadar degisir.
 
-Daha yüksek dereceli Sayfalar daha güçlüdür, ancak kitap yakarak elde edilmeleri daha nadirdir.
-Ayrica, Anahtar Sayfalarin nadirligine bagli olarak sahip olabileceginiz bir siniri vardir.</text>
-    <text id="ui_manuals_subsubtitle_3_2_1_1">Kütüphanenin mevcut Derecesi.</text>
-    <text id="ui_manuals_subsubtitle_3_2_1_2">Seçilen sekmeye tasir.</text>
-    <text id="ui_manuals_subsubtitle_3_2_1_3">Kat Bilgilerini görüntüler.</text>
-    <text id="ui_manuals_subsubtitle_3_2_1_4">Kütüphanecilerinizi buradan kontrol edin.</text>
-    <text id="ui_manuals_subsubtitle_3_2_1_5">Seçilen katin bekleyen Görevler listesi.</text>
-    <text id="ui_manuals_subsubtitle_3_2_1_6">Seçilen katin Anormallik Sayfalari listesi.</text>
-    <text id="ui_manuals_subsubtitle_3_2_2_1">Yapilandirmak istediginiz seyi buradan seçin.</text>
-    <text id="ui_manuals_subsubtitle_3_2_2_2">Bu katin kütüphanecilerinin listesini gösterir.</text>
-    <text id="ui_manuals_subsubtitle_3_2_2_3">Seçilen kütüphanecinin bilgilerini gösterir.</text>
-    <text id="ui_manuals_subsubtitle_3_2_2_4">Seçilen kütüphanecinizin mevcut Anahtar Sayfasi
-Anahtar Sayfayi degistirmek için buraya tiklayabilirsiniz.</text>
-    <text id="ui_manuals_subsubtitle_3_2_2_5">Anahtar Sayfaya kusanilan pasif yeteneklerin listesi
+	<text id="ui_manuals_subsubtitle_2_2_1_1">Savas sayfalari ve onlarin zarlari resepsiyonun ana unsurlaridir.</text>
+	<text id="ui_manuals_subsubtitle_2_2_1_2">Metin, sayfanin yetenegini tanimlar; genellikle &#60;color=#ff5622ff&#62;kullanildiginda aktiflesir&#60;/color&#62;.</text>
+	<text id="ui_manuals_subsubtitle_2_2_1_3">Savasta, her biri farkli bir hasar türüne karsilik gelen &#60;color=#ff5622ff&#62;üç tür saldiri zari&#60;/color&#62; vardir.
+
+Örnegin:
+Bu simge 'Kesici' hasar türünü temsil eder; bu simgeye sahip bir saldiri zari oynandiginda, Kesici tipi hasar verilir.
+	
+Ayni sekilde, 'Delici' simgesine sahip bir saldiri zari oynamak Delici tipi hasar verecektir.
+	
+Benzer sekilde, 'Ezici' simgesine sahip bir saldiri zari oynamak Ezici tipi hasar verecektir.</text>
+
+	<text id="ui_manuals_subsubtitle_2_3_1_1">Yeni bir sahne basladiginda, hiz zarlarini atmak için bosluk tusuna basin.
+(Veya en üst ortadaki simgeye basabilirsiniz.)
+
+Bir karakterin kullanabilecegi savas sayfasi sayisi, &#60;color=#ff5622ff&#62;kaç adet hiz zarina sahip olduguna&#60;/color&#62; baglidir.
+
+Daha yüksek hiz zarina sahip karakterler:
+- Önce hareket ederler.
+- Kendilerine saldirmalari için daha düsük hiza sahip düsman saldirilarini &#60;color=#ff5622ff&#62;kendi üzerlerine yönlendirebilirler&#60;/color&#62;.</text>
+  
+  <text id="ui_manuals_subsubtitle_2_3_1_1_pad">Yeni bir sahne basladiginda, hiz zarlarini atmak için [4] tusuna basin.
+(Veya en üst ortadaki simgeye basabilirsiniz.)
+
+Bir karakterin kullanabilecegi savas sayfasi sayisi, &#60;color=#ff5622ff&#62;kaç adet hiz zarina sahip olduguna&#60;/color&#62; baglidir.
+
+Daha yüksek hiz atan karakterler:
+- Önce hareket ederler.
+- Kendilerine saldirmalari için daha düsük hiza sahip düsman saldirilarini &#60;color=#ff5622ff&#62;kendi üzerlerine yönlendirebilirler&#60;/color&#62;.</text>
+  
+	<text id="ui_manuals_subsubtitle_2_3_2_1">#3. Kütüphanecinizin seçtiginiz sayfayi kullanmasini istediginiz misafirin zarina tiklayin.
+
+Seçili zari düsman zarinin üzerine getirmek, onlarin hangi sayfayi kullanmayi planladigini gösterecektir.</text>
+	<text id="ui_manuals_subsubtitle_2_3_2_2">#1. Kütüphanecinin hiz zarina tiklayin.
+Ayrica seçtiginiz sayfayi iptal etmek için sag tiklayabilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_2_3_2_3">#2. Elinizden bir savas sayfasi seçin.</text>
+	<text id="ui_manuals_subsubtitle_2_3_2_4" xsi:nil="true"/>
+	<text id="ui_manuals_subsubtitle_2_3_2_5">Bir kütüphaneci bir sayfa kullandiginda, &#60;color=#ff5622ff&#62;sayfanin maliyeti kadar 'Isik'&#60;/color&#62; tüketilir.
+Her sahnenin basinda 1 Isik yenilenir.</text>
+	<text id="ui_manuals_subsubtitle_2_3_3_1">Hedef kontrol dügmelerine tiklamak, kütüphanecilerin ve misafirlerin hedeflerini size gösterecektir.
+(Soldan saga: Kirmizi - Misafirlerin hedefleri; Sari - Çarpismalar; Yesil - Kütüphanecilerin hedefleri.)</text>
+	<text id="ui_manuals_subsubtitle_2_3_3_2">Savasi baslatmak için 'Sahneyi Baslat' dügmesine tiklayin
+veya bosluk tusuna basin.</text>
+  <text id="ui_manuals_subsubtitle_2_3_3_2_pad">Savasi baslatmak için 'Sahneyi Baslat' dügmesine tiklayin
+veya [[4]] tusuna basin.</text>
+	<text id="ui_manuals_subsubtitle_2_3_3_3">Seçtiginiz sayfayi iptal etmek için &#60;color=#ff5622ff&#62;parlayan zara sag tiklayabilirsiniz&#60;/color&#62;.</text>
+  <text id="ui_manuals_subsubtitle_2_3_3_3_pad"></text>
+  <text id="ui_manuals_subsubtitle_2_3_3_4">Hizli Modu Açmak/Kapatmak için buraya tiklayin.
+Hizli Mod kapaliyken zarlar manuel olarak atilir.</text>
+	<text id="ui_manuals_subsubtitle_2_3_4_1">Savas asamasi basladiginda, her karakter hedefine dogru yaklasir.
+Hareket hizlari, hiz zari sonuçlarina baglidir.
+
+Karakterler hedeflerine ulastiklarinda eylemlerine baslayacaklardir.</text>
+	<text id="ui_manuals_subsubtitle_2_3_4_2">Karakterler, savas sayfalarindaki zarlari kullanarak eylemlerini gerçeklestirecekler.
+Zar türüne bagli olarak karakter saldiracak veya savunacaktir.
+
+Her eylemin sonucu, zar atislarinin sonucuna göre belirlenir.</text>
+	<text id="ui_manuals_subsubtitle_2_3_4_3">Zar sonucu belirlendiginde, karakterler sonuçlara göre hasar verecek veya rakibin saldirisini engelleyecektir.
+Eger &#60;color=#ff5622ff&#62;rakibin karsi koyacak bir zari yoksa&#60;/color&#62;, olaylar farkli gelisecektir.</text>
+
+	<text id="ui_manuals_subsubtitle_2_3_7_1">Blok zari</text>
+	<text id="ui_manuals_subsubtitle_2_3_7_2">&lt;Saldiri zarina karsi çarpisma kazanildiginda&gt;
+Hasari tamamen engeller.
+Degerler arasindaki fark kadar sersemletme hasari verir.
+
+&lt;Saldiri zarina karsi çarpisma kaybedildiginde&gt;
+Atilan zar sonucu kadar hasari azaltir.
+
+&lt;Savunma zarina karsi çarpisma kazanildiginda&gt;
+Atilan zar sonucu kadar sersemletme hasari verir.</text>
+	<text id="ui_manuals_subsubtitle_2_3_7_3">Kaçinma zari</text>
+	<text id="ui_manuals_subsubtitle_2_3_7_4">&lt;Saldiri zarina karsi çarpisma kazanildiginda&gt;
+Tüm hasardan kaçinilir.
+Kaçinma zari korunur.
+
+&lt;Saldiri zarina karsi çarpisma berabere bittiginde&gt;
+Tüm hasardan kaçinilir.
+Kaçinma zari kaybolur.
+
+&lt;Savunma zarina karsi çarpisma kazanildiginda&gt;
+Karakter sersemletme direncini geri kazanir.</text>
+	<text id="ui_manuals_subsubtitle_2_3_8_1">Bir karakter iki tür hasar alabilir ve verebilir:
+&lt;Fiziksel&gt; hasar ve &lt;Sersemletme&gt; hasari.
+
+Sersemletme saldirilari, isabet ettiginde hedefin sersemletme direncini (sari çubuk) azaltacaktir.
+
+Sersemletme direnci 0'a ulastiginda karakter 'Sersemlemis' olur.
+(Bu, kirik bir hiz zari ile belirtilir.)</text>
+	<text id="ui_manuals_subsubtitle_2_3_8_2">&#60;color=#ff5622ff&#62;Sersemlemis&#60;/color&#62; bir karakter:
+- Tüm saldiri türlerinden kritik hasar alir.
+- Mevcut ve sonraki sahne boyunca hareket edemez.
+- Sonraki sahnenin basinda isik geri kazanamaz.
+- Sonraki sahnenin basinda sayfa çekemez.
+
+Bir rakibi sersemleten karakter 1 Isik geri kazanir.</text>
+	<text id="ui_manuals_subsubtitle_2_3_9_1">Can (HP) kirmizi çubukla gösterilir ve 0'a düstügünde hasar alinir.
+
+Bir kütüphanecinin veya misafirin Cani 0 oldugunda ölürler.</text>
+	<text id="ui_manuals_subsubtitle_2_3_9_2">Kütüphanede &#60;color=#ff5622ff&#62;kaderleriyle yüzlesen&#60;/color&#62; misafirler &#60;color=#ff5622ff&#62;kitaplara&#60;/color&#62; dönüsür.
+
+Misafirin 'Duygu Seviyesi' ne kadar yüksekse, öldügünde daha fazla veya daha kaliteli kitap birakma olasiligi o kadar artar.
+
+Bir kütüphaneci savasta ölse bile, resepsiyon bittiginde canlanacaktir.</text>
+	<text id="ui_manuals_subsubtitle_2_3_10_1">Hasar direnci</text>
+	<text id="ui_manuals_subsubtitle_2_3_10_2">Sersemletme direnci</text>
+	<text id="ui_manuals_subsubtitle_2_3_10_3">Ölümcül: Hasar x2
+
+Zayif: Hasar x1.5
+
+Normal: Ayni hasar
+
+Dirençli: Hasar x0.5
+
+Etkisiz: Hasar x0.25</text>
+	<text id="ui_manuals_subsubtitle_2_3_10_4">Her karakterin (ve kilit sayfalarinin) her saldiri için farkli hasar ve sersemletme dirençleri vardir.
+
+Zayif olduklari bir hasar türüyle saldirirsaniz ek hasar verebilirsiniz, bu &#60;color=#ff5622ff&#62;"Ölümcül"&#60;/color&#62; veya &#60;color=#ff5622ff&#62;"Zayif"&#60;/color&#62; olarak belirtilir.
+Aksine, dirençli olduklari türlerle saldirmak, &#60;color=#ff5622ff&#62;"Dirençli"&#60;/color&#62; veya &#60;color=#ff5622ff&#62;"Etkisiz"&#60;/color&#62; olarak belirtilen daha az hasara neden olur.
+
+Resepsiyonlarda dirençleri avantajiniza kullanin.</text>
+	<text id="ui_manuals_subsubtitle_2_4_1_1">Savas ilerledikçe, kütüphanecilerin ve misafirlerin duygusal gerilimi artacaktir.</text>
+	<text id="ui_manuals_subsubtitle_2_4_1_2">Pozitif Duygu Puani (Mavi)
+- Çarpisma kazanildiginda veya savasta avantaj saglandiginda
+(Örn: Bir düsmani yenmek)
+
+Negatif Duygu Puani (Kirmizi)
+- Çarpisma kaybedildiginde veya savasta dezavantaj yasandiginda
+(Örn: Bir müttefiki kaybetmek)</text>
+	<text id="ui_manuals_subsubtitle_2_4_1_3">Duygu Çubugu tamamen doldugunda, karakterin duygu seviyesi artacaktir.
+
+Duygu seviyesi arttiginda:
+- Maksimum isik kapasitesinin artmasi gibi avantajlar kazanirlar.
+- Tüm isiklari yenilenir.
+
+Bir kütüphanecinin maksimum duygu seviyesi, katinin tamamlama seviyesine baglidir.</text>
+	<text id="ui_manuals_subsubtitle_2_4_2_1">Bir karakterin duygu seviyesi arttiginda, ait olduklari takimin genel duygu seviyesi de artacaktir.
+
+Takim duygu seviyesi arttiginda, sonraki sahnenin basinda bir anormallik sayfasi seçebilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_2_4_2_2">iki tür anormallik sayfasi vardir: Uyanis (Mavi) ve Çöküs (Kirmizi).
+
+Uyanis sayfalari genellikle kullanici için faydali etkiler içerir.
+Çöküs sayfalari güçlü etkiler sunar ancak beraberinde dezavantajlar getirir.
+
+Her kat seçmek için farkli anormallik sayfalari sunar ve her bir sayfa türünü seçme olasiligi, takimin topladigi pozitif ve negatif duygu puanlarina baglidir.</text>
+	<text id="ui_manuals_subsubtitle_2_5_1_1">Tüm karakterler eylemlerini bitirdiginde sahne sona erer ve yeni bir sahne baslar.
+
+Bu döngü, resepsiyon bitene veya kesilene kadar devam edecektir.</text>
+	<text id="ui_manuals_subsubtitle_2_5_1_2">Tüm misafirler kitaba dönüstügünde perde kapanir.</text>
+	<text id="ui_manuals_subsubtitle_2_5_1_3">Alternatif olarak, tüm kütüphanecileriniz öldügünde perde yarida kesilir.</text>
+	<text id="ui_manuals_subsubtitle_2_5_2_1">Bazi resepsiyonlar art arda gelen birden fazla perdeden olusur.
+
+Bu durumda, bir perdenin sonunda resepsiyon hazirlik asamasina dönersiniz ve sonraki perde için hazirlanabilirsiniz.
+
+Can (HP) ve anormallik sayfalari perdeler arasinda korunur.
+Durum etkileri ve sersemletme direnci sifirlanir.
+
+
+Hala gidilecek perdeler varken misafirleri agirlayacak müsait katiniz kalmazsa, resepsiyon vaktinden önce sona erer.</text>
+	<text id="ui_manuals_subsubtitle_2_5_3_1">Resepsiyonu kaybederseniz, misafirler o günün kitaplarini geri alirlar.</text>
+	<text id="ui_manuals_subsubtitle_2_5_3_2">Resepsiyona katilan kütüphaneciler su avantajlari elde edebilir.</text>
+	<text id="ui_manuals_subsubtitle_2_5_3_3">
+- Belirli kosullari yerine getirirlerse 'Savas Sembolleri' (küçük bonuslar veren kozmetikler) kazanabilirler.</text>
+	<text id="ui_manuals_subsubtitle_2_5_3_4">Kazandiginiz kitaplari buradan görebilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_2_5_3_5">Kütüphaneye dönmek ve bir sonraki hamlenizi planlamak için bu dügmeye basin.</text>
+	<text id="ui_manuals_subsubtitle_3_1_1_1">Resepsiyonlarda kazandiginiz kitaplari yakarak sayfalar (ekipmanlar ve kartlar) elde edebilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_3_1_1_2">Adim 1: 'Kitap Yak' sekmesine basin.</text>
+	<text id="ui_manuals_subsubtitle_3_1_2_1">Adim 3: 'Kitap Yak' dügmesine basin.</text>
+	<text id="ui_manuals_subsubtitle_3_1_2_2">Adim 2: Listeden yakilacak kitaplari seçin.</text>
+	<text id="ui_manuals_subsubtitle_3_1_2_3">Her kitabin içinden çikabilecek bir sayfa grubu vardir ve her sayfanin elde edilebilecek belirli bir kopya siniri vardir.
+
+Tüm olasi ödülleri aldiginizda ödül listesi otomatik olarak sifirlanacaktir. (Kilit sayfalari hariç)
+Alternatif olarak, 'Ödülleri Sifirla' dügmesine basarak ödülleri manuel olarak sifirlayabilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_3_1_3_1">Bir katta kitap yaktiginizda, o katin renginde bir animasyon göreceksiniz ve o kitaptan rastgele sayfalar elde edeceksiniz.
+
+Kitap yakmak, olasiliga bagli olarak her seferinde farkli sayfalar verecektir.</text>
+	<text id="ui_manuals_subsubtitle_3_1_4_1">Kitaplardan elde edebileceginiz iki tür sayfa vardir: 'Kilit Sayfalari' ve 'Savas Sayfalari'.
+
+Kilit sayfalari bir kütüphanecinin fiziksel varligini temsil eder; Ekipman görevi görürler.
+Savas sayfalari, kütüphanecilerin savasta kullandigi kartlardir.</text>
+	<text id="ui_manuals_subsubtitle_3_1_5_1">Sayfalarin nadirligi &lt;Karton Kapak&gt;, &lt;Ciltli&gt;, &lt;Sinirli Üretim&gt; ve &lt;Sanat Eseri&gt; olarak siralanir.
+
+Daha yüksek dereceli sayfalar daha güçlüdür ancak kitap yakarken elde edilmeleri daha nadirdir.
+Kilit sayfalarinin nadirligine bagli olarak sahip olabileceginiz miktar siniri vardir.</text>
+	<text id="ui_manuals_subsubtitle_3_2_1_1">Kütüphanenin mevcut seviyesi.</text>
+	<text id="ui_manuals_subsubtitle_3_2_1_2">Sizi seçilen sekmeye tasir.</text>
+	<text id="ui_manuals_subsubtitle_3_2_1_3">Kat bilgilerini görüntüleyin.</text>
+	<text id="ui_manuals_subsubtitle_3_2_1_4">Kütüphanecilerinizi buradan kontrol edin.</text>
+	<text id="ui_manuals_subsubtitle_3_2_1_5">Seçilen katin yapilacaklar listesi.</text>
+	<text id="ui_manuals_subsubtitle_3_2_1_6">Seçilen katin anormallik sayfalari listesi.</text>
+	<text id="ui_manuals_subsubtitle_3_2_2_1">Neyi yapilandirmak istediginizi buradan seçin.</text>
+	<text id="ui_manuals_subsubtitle_3_2_2_2">Bu kattaki kütüphanecilerin listesini gösterir.</text>
+	<text id="ui_manuals_subsubtitle_3_2_2_3">Seçilen kütüphanecinin bilgilerini gösterir.</text>
+	<text id="ui_manuals_subsubtitle_3_2_2_4">Seçili kütüphanecinizin mevcut kilit sayfasi.
+Kilit sayfasini degistirmek için buraya tiklayabilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_3_2_2_5">Kilit sayfasina kusanilmis pasif yeteneklerin listesi.
 Pasif yetenekleri ayarlamak için buraya tiklayabilirsiniz.</text>
-    <text id="ui_manuals_subsubtitle_3_2_2_6">Mevcut Anahtar Sayfanin Savas Sayfalari (deste) listesi
+	<text id="ui_manuals_subsubtitle_3_2_2_6">Mevcut kilit sayfasinin savas sayfalari listesi (Deste).
 Destenizi düzenlemek için buraya tiklayabilirsiniz.</text>
-    <text id="ui_manuals_subsubtitle_3_2_3_1">Favori veya diger Kütüphanecilere kusanilmis Anahtar Sayfalarinizin listesini buradan kontrol edebilirsiniz.</text>
-    <text id="ui_manuals_subsubtitle_3_2_3_2">Anahtar Sayfaya tiklayip ‘Kusan’i seçerek Anahtar Sayfayi kütüphaneciye atayabilirsiniz.</text>
-    <text id="ui_manuals_subsubtitle_3_2_3_3">Belirli bir derecedeki Anahtar Sayfalara bakin.</text>
-    <text id="ui_manuals_subsubtitle_3_2_3_4">Kusanilan Anahtar Sayfa ile seçilen Anahtar Sayfanin bilgilerini karsilastirabilirsiniz.</text>
-    <text id="ui_manuals_subsubtitle_3_2_3_5">Mevcut Anahtar Sayfayi çikarir.</text>
-    <text id="ui_manuals_subsubtitle_3_2_4_1">Desteden tüm Savas Sayfalarini kaldirir.</text>
-    <text id="ui_manuals_subsubtitle_3_2_4_2">Bir Savas Sayfasini çikarmak için Sol Tiklayin.</text>
-    <text id="ui_manuals_subsubtitle_3_2_4_3">Bosluklar rastgele temel savas sayfalariyla doldurulacaktir.</text>
-    <text id="ui_manuals_subsubtitle_3_2_4_4">Seçilen filtrelerle eslesen sayfalari gösterir.</text>
-    <text id="ui_manuals_subsubtitle_3_2_4_5">Bos bir yuvaya Savas Sayfasi eklemek için Sol Tiklayin.</text>
-    <text id="ui_manuals_subsubtitle_3_2_4_6">Genellikle bir Deste'de sahip olabileceginiz sayfa sayisinin bir siniri vardir.</text>
-    <text id="ui_manuals_subsubtitle_3_2_4_7">Destelerinizi buraya kaydedin veya yükleyin.</text>
-    <text id="ui_manuals_subsubtitle_3_2_5_1">Savas Simgesini çikarmak için buraya tiklayin.</text>
-    <text id="ui_manuals_subsubtitle_3_2_5_2">Kütüphanecinin kazandigi Savas Simgeleri listesi, kusanilmis olan en üsttedir.</text>
-    <text id="ui_manuals_subsubtitle_3_2_5_3">Degistirmek için baska bir Simgeye tiklayin.</text>
-    <text id="ui_manuals_subsubtitle_3_2_5_4">Kütüphaneciyi Özellestirme dügmesi.</text>
-    <text id="ui_manuals_subsubtitle_3_2_5_5">O yuvaya tiklayarak o belirli parça için Savas Simgeleri listesini görebilirsiniz.</text>
-    <text id="ui_manuals_subsubtitle_3_2_5_6">Görünürlügünü yapilandirmak için yanindaki Göz dügmesine
-basabilirsiniz.</text>
-    <text id="ui_manuals_subsubtitle_3_2_6_1">Bu özellestirme menüsünde, Kütüphanecilerin adini, unvanini, görünümünü, vücut boyutunu ve diyaloglarini düzenleyebilirsiniz.
-Nugget'larinizi yaratmanin tadini çikarin ve bu sayfadan ayrilmadan önce kaydetmeyi unutmayin.</text>
-    <text id="ui_manuals_subsubtitle_3_2_6_2">Rastgelelestir.</text>
-    <text id="ui_manuals_subsubtitle_3_2_6_3">Geri al.</text>
-    <text id="ui_manuals_subsubtitle_3_2_6_4">Seçilen yönleri yapilandirmaya basla.</text>
-    <text id="ui_manuals_subsubtitle_3_2_6_5">Mevcut degisiklikleri kaydeder.</text>
-    <text id="ui_manuals_subsubtitle_3_2_6_6">Degisiklikleri kaydetmeden kapatir.</text>
-    <text id="ui_manuals_subsubtitle_3_2_7_1">Pasif yetenekler menüsünü kullanarak, bir Anahtar Sayfanin pasif yeteneklerini baska birine aktarabilirsiniz.</text>
-    <text id="ui_manuals_subsubtitle_3_2_7_2">Yeni bir menü açmak için pasif yetenekler listesine tiklayin.</text>
-    <text id="ui_manuals_subsubtitle_3_2_7_3">Diger Anahtar Sayfalarin pasif yeteneklerine sahip olan Anahtar Sayfalarin listesini
-ve digerleri tarafindan kullanilan tüm Anahtar Sayfalarin listesini kontrol edebilirsiniz.</text>
-    <text id="ui_manuals_subsubtitle_3_2_8_1">Adim 1: Kusatmak istediginiz Anahtar Sayfaya Tiklayin.</text>
-    <text id="ui_manuals_subsubtitle_3_2_8_2">Adim 2: Kusanilan Anahtar Sayfalar listesinden kullanmak istediginiz pasifleri seçin.</text>
-    <text id="ui_manuals_subsubtitle_3_2_8_3">Her pasif yetenegin bir maliyeti vardir ve Anahtar Sayfalarin, ayni anda ne kadar pasif yetenek kusanabileceginizi sinirlayan bir maliyet limiti vardir.
-Ayrica, ayni pasif yetenegi birden fazla kusanmamazsiniz.</text>
-    <text id="ui_manuals_subsubtitle_3_3_1_1">Bir seviyenin görevlerini tamamlayarak bir katin Gerçeklesme Seviyesini yükseltebilirsiniz.</text>
-    <text id="ui_manuals_subsubtitle_3_3_1_2">Gerçeklesme Seviyesini yükseltebileceginiz katlarda kirmizi bir bildirim (!) gösterilecektir.</text>
-    <text id="ui_manuals_subsubtitle_3_3_1_3">Bir katin Gerçeklesme Seviyesini yükseltmek için, mevcut seviyenin bir Anormalligine karsi bir savasi tamamlamaniz gerekir.
+	<text id="ui_manuals_subsubtitle_3_2_3_1">Favori kilit sayfalarinizin veya diger kütüphanecilere kusanilmis sayfalarin listesini buradan kontrol edebilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_3_2_3_2">Kilit sayfasina tiklayip 'Kusan'i seçerek kilit sayfasini kütüphaneciye atayabilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_3_2_3_3">Belirli bir derecedeki kilit sayfalarini görüntüleyin.</text>
+	<text id="ui_manuals_subsubtitle_3_2_3_4">Kusanilmis kilit sayfasi ile seçilen kilit sayfasinin bilgilerini karsilastirabilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_3_2_3_5">Mevcut kilit sayfasini çikarin.</text>
+	<text id="ui_manuals_subsubtitle_3_2_4_1">Destedeki tüm savas sayfalarini kaldirir.</text>
+	<text id="ui_manuals_subsubtitle_3_2_4_2">Bir savas sayfasini çikarmak için üzerine sol tiklayin.</text>
+	<text id="ui_manuals_subsubtitle_3_2_4_3">Bos alanlar rastgele temel savas sayfalariyla doldurulacaktir.</text>
+	<text id="ui_manuals_subsubtitle_3_2_4_4">Seçilen filtrelere uyan sayfalari gösterir.</text>
+	<text id="ui_manuals_subsubtitle_3_2_4_5">Bos bir alana savas sayfasi eklemek için sol tiklayin.</text>
+	<text id="ui_manuals_subsubtitle_3_2_4_6">Genellikle bir destede bulundurabileceginiz sayfa sayisi sinirlidir.</text>
+	<text id="ui_manuals_subsubtitle_3_2_4_7">Destelerinizi buradan kaydedin veya yükleyin.</text>
+	<text id="ui_manuals_subsubtitle_3_2_5_1">Bir savas sembolünü çikarmak için buraya tiklayin.</text>
+	<text id="ui_manuals_subsubtitle_3_2_5_2">Kütüphanecinin kazandigi savas sembollerinin listesi, kusanilmis olan en üsttedir.</text>
+	<text id="ui_manuals_subsubtitle_3_2_5_3">Degistirmek için baska bir sembole tiklayin.</text>
+	<text id="ui_manuals_subsubtitle_3_2_5_4">Kütüphaneciyi özellestirme dügmesi.</text>
+	<text id="ui_manuals_subsubtitle_3_2_5_5">O bölgeye ait sembollerin listesini sembol yuvasina tiklayarak görebilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_3_2_5_6">Savas sembolünün görünürlügünü ayarlamak için
+yanindaki göz dügmesine basabilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_3_2_6_1">Bu özellestirme menüsünde kütüphanecilerin adini, unvanini, görünümünü, vücut boyutunu ve diyaloglarini düzenleyebilirsiniz.
+Kendi küçük kütüphanecilerinizi (nuggets) olusturmanin tadini çikarin ve çikmadan önce kaydetmeyi unutmayin.</text>
+	<text id="ui_manuals_subsubtitle_3_2_6_2">Rastgelelestir.</text>
+	<text id="ui_manuals_subsubtitle_3_2_6_3">Geri al.</text>
+	<text id="ui_manuals_subsubtitle_3_2_6_4">Seçilen görünümleri yapilandirmaya basla.</text>
+	<text id="ui_manuals_subsubtitle_3_2_6_5">Mevcut degisiklikleri kaydet.</text>
+	<text id="ui_manuals_subsubtitle_3_2_6_6">Degisiklikleri kaydetmeden kapat.</text>
+	<text id="ui_manuals_subsubtitle_3_2_7_1">Pasif yetenek menüsünü kullanarak bir kilit sayfasindaki pasifleri digerine aktarabilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_3_2_7_2">Yeni bir menü açmak için pasif yetenek listesine tiklamaniz yeterlidir.</text>
+	<text id="ui_manuals_subsubtitle_3_2_7_3">Diger kilit sayfalarindan pasif yetenek alan sayfalari ve
+baskalari tarafindan kullanilan tüm kilit sayfalarini görebilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_3_2_8_1">Adim 1: Kusanmak için kilit sayfasina tiklayin.</text>
+	<text id="ui_manuals_subsubtitle_3_2_8_2">Adim 2: Kusanilmis kilit sayfalari listesinden kullanmak istediginiz pasifleri seçin.</text>
+	<text id="ui_manuals_subsubtitle_3_2_8_3">Her pasif yetenegin bir maliyeti vardir ve kilit sayfalarinin ayni anda kusanabileceginiz pasif sayisini sinirlayan bir maliyet siniri vardir.
+Ayni pasif yetenegi birden fazla kez kusanamazsiniz.</text>
+	<text id="ui_manuals_subsubtitle_3_3_1_1">Bir seviyenin görevlerini tamamlayarak bir katin tamamlama seviyesini yükseltebilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_3_3_1_2">Tamamlama seviyesini yükseltebileceginiz katlarda kirmizi bir ünlem (!) isareti gösterilecektir.</text>
+	<text id="ui_manuals_subsubtitle_3_3_1_3">Bir katin tamamlama seviyesini yükseltmek için mevcut seviyenin anormalligine karsi bir savasi tamamlamaniz gerekir.
 
 Bildirime tiklayin.
-Ardindan Anormallikle savasin.</text>
-    <text id="ui_manuals_subsubtitle_3_3_2_1">Bir Anormallik savasinda, kitapta dinlenmekte olan Anormalligi bastirmaniz gerekir.
+Ardindan anormallikle savasin.</text>
+	<text id="ui_manuals_subsubtitle_3_3_2_1">Bir anormallik savasinda, kitapta dinlenen anormalligi bastirmaniz gerekir.
 Bunlar birden fazla deneme ve strateji gerektiren benzersiz savaslardir.
 
-Bir Anormallik Savasini tamamladiktan sonra…
-- Katin Gerçeklesme Seviyesi artacaktir.
-- Yeni Anormallik Sayfalari kilidi açilacaktir.
-- Yeni Kütüphaneciler uyanabilir (belirli seviyelerde).
-- Yeni Atamalar verilecektir.</text>
-    <text id="ui_manuals_subsubtitle_3_3_3_1">Her katin Gerçeklesme Seviyesini yükseltmek, Kütüphanenin Tehdit Seviyesini artiracaktir.
-Kütüphanenin tehdit seviyesi maksimuma ulastiginda, daha yüksek bir Dereceye yükselir.</text>
-    <text id="ui_manuals_subsubtitle_3_3_3_2">‘Kütüphane Derecesi’, Şehir tarafindan algilanan ‘Kütüphane’nin mevcut tehdit seviyesidir.
+Bir anormallik savasini tamamladiktan sonra…
+- Katin tamamlama seviyesi artacaktir.
+- Yeni anormallik sayfalari açilacaktir.
+- Bazi seviyelerde yeni kütüphaneciler uyanabilir.
+- Yeni görevler verilecektir.</text>
+	<text id="ui_manuals_subsubtitle_3_3_3_1">Her katin tamamlama seviyesini yükseltmek, Kütüphane'nin tehdit seviyesini artiracaktir.
+Kütüphane'nin tehdit seviyesi maksimuma ulastiginda, bir üst dereceye yükselecektir.</text>
+	<text id="ui_manuals_subsubtitle_3_3_3_2">'Kütüphane Derecesi', Kütüphane'nin sehir tarafindan algilanan mevcut tehdit seviyesidir.
 
-Kütüphane Derecesi daha yüksek bir seviyeye yükseldiginde daha fazla insani davet edebileceksiniz.
-Ayrica, ek katlarin kilidini açmaniza da izin verebilir.</text>
-    <text id="ui_manuals_subsubtitle_3_3_4_1">Kütüphanede toplam on kat vardir.
-Ancak, Kütüphane henüz tamamlanmadigi için, katlar Kütüphanecileri içeride uyurken etkin degildir.</text>
-    <text id="ui_manuals_subsubtitle_3_3_4_2">Yeni katlarin kilidini açmak için Hikayede ilerleyin veya Kütüphane Derecesini yükseltin.
+Kütüphane derecesi yükseldiginde daha fazla insani davet edebilirsiniz.
+Ayrica ek katlar açmaniza da olanak taniyabilir.</text>
+	<text id="ui_manuals_subsubtitle_3_3_4_1">Kütüphanede toplam on kat vardir.
+Ancak Kütüphane henüz tamamlanmadigi için katlar pasif kalir ve kütüphanecileri içeride uyur.</text>
+	<text id="ui_manuals_subsubtitle_3_3_4_2">Yeni katlarin kilidini açmak için hikayede ilerleyin veya Kütüphane derecesini yükseltin.
 
-Yeni bir katin kilidi açildiginda, Bas Kütüphanecisi uyanir ve o kati Resepsiyon için kullanabilirsiniz</text>
-    <text id="ui_manuals_subsubtitle_3_4_1_1">Kitaplikta çesitli hikaye içeriklerini okuyabilir ve inceleyebilirsiniz.
+Yeni bir kat açildiginda Bas Kütüphanecisi uyanacak ve o kati resepsiyonlar için kullanabileceksiniz.</text>
+	<text id="ui_manuals_subsubtitle_3_4_1_1">Kitaplikta çesitli hikaye içeriklerini okuyabilir ve inceleyebilirsiniz.
 Görmek istediginiz hikayelerin listesini degistirmek için bir sekmeye basin.</text>
-    <text id="ui_manuals_subsubtitle_3_4_1_2">Bas Kütüphanecilerinizin hikayelerinin Bölümlerini tekrar izleyin.</text>
-    <text id="ui_manuals_subsubtitle_3_4_1_3">Bas Kütüphanecilerin etkilesimde bulundugu Bölümleri tekrar izleyin.</text>
-    <text id="ui_manuals_subsubtitle_3_4_2_1">Bir davetli grubuna ve ardindan bir bölüme tiklayin.</text>
-    <text id="ui_manuals_subsubtitle_3_4_2_2">Savaslardan Önceki ve Sonraki kesitleri izleyebilirsiniz.</text>
-    <text id="ui_manuals_subsubtitle_3_4_3_1">Hikaye Bölümünü ve davetli grubunu seçin.</text>
-    <text id="ui_manuals_subsubtitle_3_4_3_2">Hikayesini okumak istediginiz Sayfayi seçin.</text>
-    <text id="ui_manuals_subsubtitle_3_4_3_3">Seçilen hikayeyi buradan okuyabilirsiniz.</text>
-    <text id="ui_manuals_back">Geri Dön</text>
+	<text id="ui_manuals_subsubtitle_3_4_1_2">Bas kütüphanecilerinizin hikaye bölümlerini tekrar izleyin.</text>
+	<text id="ui_manuals_subsubtitle_3_4_1_3">Bas kütüphanecilerin birbirleriyle etkilesime girdigi bölümleri tekrar izleyin.</text>
+	<text id="ui_manuals_subsubtitle_3_4_2_1">Bir misafir grubuna ve ardindan bir bölüme tiklayin.</text>
+	<text id="ui_manuals_subsubtitle_3_4_2_2">Savas öncesi ve sonrasi sahneleri görebilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_3_4_3_1">Hikaye bölümünü ve misafir grubunu seçin.</text>
+	<text id="ui_manuals_subsubtitle_3_4_3_2">Hikayesini okumak istediginiz kisinin sayfasini seçin.</text>
+	<text id="ui_manuals_subsubtitle_3_4_3_3">Seçilen hikayeyi buradan okuyabilirsiniz.</text>
+	<text id="ui_manuals_back">Geri Dön</text>
 
-            <text id="ui_manuals_subsubtitle_2_2_2">Zar Yetenekleri</text>
-    <text id="ui_manuals_subsubtitle_2_2_2_1">Saginda yazan bir zarin yetenegi, kosullarina bagli olarak &#60;color=#ff5622ff&#62;zar oynandiginda&#60;/color&#62; etkinlestirilebilir.
-Çogu yetenek, zar hedefe &#60;color=#ff5622ff&#62;vurdugunda&#60;/color&#62; veya zar &#60;color=#ff5622ff&#62;rakip zara karsi Çatismayi kazandiginda&#60;/color&#62; etkinlesir.</text>
+	<text id="ui_manuals_subsubtitle_2_2_2">Zar yetenekleri</text>
+	<text id="ui_manuals_subsubtitle_2_2_2_1">Bir zarin saginda yazan yetenegi, zar kosullarina bagli olarak &#60;color=#ff5622ff&#62;zar oynandiginda&#60;/color&#62; aktiflesebilir.
+Yeteneklerin çogu, zar hedefe &#60;color=#ff5622ff&#62;isabet ettiginde&#60;/color&#62; veya zar &#60;color=#ff5622ff&#62;rakibin zarina karsi bir çarpisma kazandiginda&#60;/color&#62; aktiflesir.</text>
 
-        <text id="ui_manuals_subsubtitle_2_2_3">Isik</text>
-    <text id="ui_manuals_subsubtitle_2_2_3_1">Savas sirasinda, &#60;color=#ff5622ff&#62;'Savas Sayfalari'ni&#60;/color&#62; kullanmak “Isik” adi verilen bir kaynak gerektirir.
-Bir karakterin sahip oldugu Isik miktari, üzerlerindeki sari simgelerin sayisi ile gösterilir.</text>
+	<text id="ui_manuals_subsubtitle_2_2_3">Isik</text>
+	<text id="ui_manuals_subsubtitle_2_2_3_1">Savas sirasinda 'Savas Sayfalarini' kullanmak için "Isik" adi verilen bir kaynak gerekir.
+Bir karakterin sahip oldugu isik miktari, üzerlerindeki sari simgelerin sayisiyla belirtilir.</text>
 
-        <text id="ui_manuals_subsubtitle_2_4_5">E.G.O</text>
-    <text id="ui_manuals_subsubtitle_2_4_5_1">
-    - Bir ekibin genel Duygu Seviyesi Seviye 3'e ulasirsa, bir E.G.O sayfasi seçilebilir.
-    - Seçilen E.G.O sayfasi, tüm Kütüphanecilerin erisebilecegi farkli bir ‘El’de bulunur.
-    (Herkesin erisebilecegi eli görüntülemeyi kolaylastirmak için özel bir dügme görünecektir)
-    - Bir kez kullanildiktan sonra, E.G.O sayfasinin tekrar kullanilmadan önce Duygu Puanlari biriktirilerek yeniden sarj edilmesi gerekir.</text>
+	<text id="ui_manuals_subsubtitle_2_4_5">E.G.O</text>
+	<text id="ui_manuals_subsubtitle_2_4_5_1">
+    - Bir takimin genel duygu seviyesi 3'e ulasirsa, bir E.G.O sayfasi seçilebilir.
+    - Seçilen E.G.O sayfalari, tüm kütüphanecilerin erisebilecegi farkli bir 'Elde' bulunur.
+    (Tüm kütüphanecilerin erisebildigi eli görmeyi kolaylastirmak için özel bir dügme görünecektir)
+    - Bir kez kullanildiginda, E.G.O sayfasinin tekrar kullanilabilmesi için duygu puani toplanarak yeniden sarj edilmesi gerekir.</text>
 
-    <text id="ui_manuals_subsubtitle_2_4_4_1">Bir karakterin Duygu Seviyesi arttiginda, ait olduklari ekibin Genel Duygusu da artacaktir.
+	<text id="ui_manuals_subsubtitle_2_4_4_1">Bir karakterin duygu seviyesi arttiginda, ait olduklari takimin genel duygu seviyesi de artacaktir.
 
-Ekip Duygu Seviyesi arttiginda, bir sonraki Sahne'nin basinda bir Anormallik Sayfasi seçebilirsiniz.</text>
-    <text id="ui_manuals_subsubtitle_2_3_3_5">Savas Sayfalarini Otomatik Seç</text>
+Takim duygu seviyesi arttiginda, sonraki sahnenin basinda bir anormallik sayfasi seçebilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_2_3_3_5">Savas sayfalarini otomatik seç</text>
 
-    <text id="ui_manuals_subsubtitle_2_1_1">Resepsiyona Hazirlanma 1</text>
-    <text id="ui_manuals_subsubtitle_2_1_2">Resepsiyona Hazirlanma 2</text>
+	<text id="ui_manuals_subsubtitle_2_1_1">Resepsiyona hazirlan 1</text>
+	<text id="ui_manuals_subsubtitle_2_1_2">Resepsiyona hazirlan 2</text>
 
-    <text id="ui_manuals_subsubtitle_2_4_3_1">iki tür Anormallik Sayfasi vardir: &#60;color=#ff5622ff&#62;Uyanis (Mavi)&#60;/color&#62; ve &#60;color=#ff5622ff&#62;Kirilma (Kirmizi)&#60;/color&#62;.
+	<text id="ui_manuals_subsubtitle_2_4_3_1">iki tür anormallik sayfasi vardir: &#60;color=#ff5622ff&#62;Uyanis (Mavi)&#60;/color&#62; ve &#60;color=#ff5622ff&#62;Çöküs (Kirmizi)&#60;/color&#62;.
 
-Uyanis Sayfalari genellikle kullaniciya faydali etkilerden olusur.
-Kirilma Sayfalari güçlü etkiler sunar, ancak &#60;color=#ff5622ff&#62;dezavantajlarla&#60;/color&#62; birlikte gelir.
+Uyanis sayfalari genellikle kullanici için faydali etkiler içerir.
+Çöküs sayfalari güçlü etkiler sunar ancak beraberinde &#60;color=#ff5622ff&#62;dezavantajlar&#60;/color&#62; getirir.
 
-Her Kat seçilebilecek farkli Anormallik Sayfalari sunar ve her Sayfa türünü seçme olasiligi, Ekibin kazandigi &#60;color=#ff5622ff&#62;Pozitif ve Negatif Duygu Puanlarina&#60;/color&#62; baglidir.</text>
-        <text id="ui_manuals_subsubtitle_2_1_2_1">Adim 1: Resepsiyonda kullanilacak Kati seçin.</text>
-    <text id="ui_manuals_subsubtitle_2_1_1_1">Kütüphanecileri seçerek onlarin bilgilerini görebilirsiniz.</text>
-    <text id="ui_manuals_subsubtitle_2_1_1_4">Davetlileri seçerek onlarin bilgilerini görebilirsiniz.</text>
-    <text id="ui_manuals_subsubtitle_2_1_2_2">Adim 2: ‘Senaryoyu Baslat’ dügmesine basarak resepsiyonu baslatin.</text>
-    <text id="ui_manuals_subsubtitle_2_1_2_3">Bu, Resepsiyonda kullanilabilecek kat sayisini gösterir.
-Artik katiniz kalmadiginda Resepsiyon sona erecektir.</text>
-    <text id="ui_manuals_subsubtitle_2_1_2_4">Kalan savas sayisi</text>
-    <text id="ui_manuals_subsubtitle_2_1_1_2">Buraya tiklayarak bir Kütüphanecinin Anahtar Sayfalarini degistirebilirsiniz.</text>
-    <text id="ui_manuals_subsubtitle_2_1_2_5">Resepsiyonu iptal eder ve hiçbir kitap kaybetmeden Kütüphaneye geri döner</text>
-    <text id="ui_manuals_subsubtitle_2_1_1_3">Buraya tiklayarak bir Kütüphanecinin Savas Sayfalari listesini degistirebilirsiniz</text>
-
-
-    <text id="ui_manuals_subsubtitle_2_3_5_1">Karakterlerden sadece birinin oynayacak zari oldugunda, &#60;color=#ff5622ff&#62;'Tek Tarafli Saldiri'&#60;/color&#62; gerçeklesir.
-Bu, bir karakterin kendisine karsilik vermeyen baska bir karakteri hedeflediginde olur.
-
-Bu durumda sadece Saldiri Zarlari oynanir. Savunma Zarlari, Sahne sona erene veya bir düsman Tek Tarafli Saldiri deneyene kadar tutulacaktir.</text>
-
-    <text id="ui_manuals_subsubtitle_2_3_6_1">Her iki karakterin de oynayacak zari oldugunda, &#60;color=#ff5622ff&#62;'Çatisma'&#60;/color&#62; gerçeklesir.
-Bu genellikle her iki Hiz Zarinin da birbirini hedeflemesiyle olur.
-(Savunma veya Karsi Saldiri Zarlarini tutmak da Çatismaya neden olabilir)
-
-Bir Çatismada, eylemlerin sonucu atislari karsilastirilarak belirlenir. &#60;color=#ff5622ff&#62;Saldiri Zari&#60;/color&#62; Çatismayi kazandiginda sadece atisa esit hasar verebilir. &#60;color=#ff5622ff&#62;Savunma Zarlari&#60;/color&#62; arasindaki etkilesimler bir sonraki sayfadaki (Çatisma Ⅱ) kurallara uyar.</text>
+Her kat seçmek için farkli anormallik sayfalari sunar ve her bir sayfa türünü seçme olasiligi, takimin topladigi &#60;color=#ff5622ff&#62;pozitif ve negatif duygu puanlarina&#60;/color&#62; baglidir.</text>
+	<text id="ui_manuals_subsubtitle_2_1_2_1">Adim 1: Resepsiyonda kullanilacak kati seçin.</text>
+	<text id="ui_manuals_subsubtitle_2_1_1_1">Kütüphanecileri seçerek bilgilerini görebilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_2_1_1_4">Misafirleri seçerek bilgilerini görebilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_2_1_2_2">Adim 2: 'Sahneyi Baslat' dügmesine basarak resepsiyonu baslatin.</text>
+	<text id="ui_manuals_subsubtitle_2_1_2_3">Bu, resepsiyonda kullanilabilecek kat sayisini gösterir.
+Kullanacak katiniz kalmadiginda resepsiyon sona erer.</text>
+	<text id="ui_manuals_subsubtitle_2_1_2_4">Kalan savas sayisi</text>
+	<text id="ui_manuals_subsubtitle_2_1_1_2">Buraya tiklayarak bir kütüphanecinin kilit sayfalarini degistirebilirsiniz.</text>
+	<text id="ui_manuals_subsubtitle_2_1_2_5">Resepsiyonu iptal edin ve hiçbir kitap kaybetmeden Kütüphane'ye dönün</text>
+	<text id="ui_manuals_subsubtitle_2_1_1_3">Buraya tiklayarak bir kütüphanecinin savas sayfalari listesini degistirebilirsiniz</text>
 
 
+	<text id="ui_manuals_subsubtitle_2_3_5_1">Karakterlerden sadece birinin oynayacak zari oldugunda, bir &#60;color=#ff5622ff&#62;‘Tek Tarafli Saldiri’&#60;/color&#62; gerçeklesir.
+Bu, bir karakterin kendisine karsilik vermeyen baska birini hedeflemesiyle olur.
+
+Bu durumda sadece saldiri zarlari oynanir. Savunma zarlari sahne bitene veya bir düsman tek tarafli bir saldiri yapmaya çalisana kadar saklanir.</text>
+
+	<text id="ui_manuals_subsubtitle_2_3_6_1">Her iki karakterin de oynayacak bir zari oldugunda, bir &#60;color=#ff5622ff&#62;‘Çarpisma’&#60;/color&#62; gerçeklesir.
+Bu genellikle her iki hiz zarinin birbirini hedeflemesi durumunda olur.
+(Savunma veya karsi saldiri zarlarini saklamak da bir çarpismaya neden olabilir)
+
+Bir çarpismada, eylemlerin sonucu zar sonuçlari karsilastirilarak belirlenir. &#60;color=#ff5622ff&#62;Saldiri zari&#60;/color&#62; yalnizca bir çarpismayi kazandiginda zar sonucu kadar hasar verebilir. &#60;color=#ff5622ff&#62;Savunma zarlari&#60;/color&#62; arasindaki etkilesimler sonraki sayfadaki kurallari takip eder (Çarpisma Ⅱ).</text>
 
 </localize>

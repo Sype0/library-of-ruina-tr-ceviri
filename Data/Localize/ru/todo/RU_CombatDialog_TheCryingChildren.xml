@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<text id="ChildCovering_nomal_1">Kulaklarımı kapattığımda sadece kendi sesimi duyabiliyorum. Çıkardığım seslere tamamen odaklanabiliyorum.</text>
+	<text id="ChildCovering_nomal_2">Nazik bir sesi saldırgan bir sesle karıştırırsam, bu şekilde konuşan kişinin suçudur, değil mi?</text>
+	<text id="ChildCovering_nomal_3">… …</text>
+	<text id="ChildCovering_nomal_4">Bu kolay. Bakmak zorunda değilim, değil mi? Karanlıkla yüzleşmek zorunda değilim.</text>
+	<text id="ChildCovering_nomal_5">Hiçbir şey dinlemiyorum, duymak istemiyorum!</text>
+	<text id="ChildCovering_nomal_6">…</text>
+	<text id="ChildCovering_nomal_7">Ne söylediklerini bilmek için duymama gerek yok. Bahse girerim hakkımda kötü konuşuyorlardır.</text>
+	<text id="ChildCovering_nomal_8">… … …</text>
+	<text id="TheCryingChildren_nomal_1">Bakmak, dinlemek ve konuşmak; bunların hepsi bilinçli olarak yapmaktan kaçınabileceğim eylemler.</text>
+	<text id="TheCryingChildren_nomal_2">Ancak, bu tek başına dünyadaki tüm kötülüğü ortadan kaldırmayacak.</text>
+	<text id="TheCryingChildren_nomal_3">İyiyle kötüyü ayırt etmek için temkinli bir bakış açısı gerekir.</text>
+	<text id="TheCryingChildren_nomal_4">Başkalarıyla eğlenmenin aksine, başkalarının acısına sempati duymak yüzeysel bir eylemdir.</text>
+	<text id="TheCryingChildren_nomal_5">Taşıdığım kederin acısını sadece ben hissedebilirim.</text>
+	<text id="TheCryingChildren_nomal_6">Bana zarar vermeye çalışan herkese göz yumuyorum.</text>
+	<text id="TheCryingChildren_nomal_7">Beni yanlış yola saptıran tüm sözlere kulaklarımı tıkıyorum.</text>
+	<text id="TheCryingChildren_nomal_8">Ağzım, gereksiz kötülüğe karşı dilsizleşiyor.</text>
+	<text id="TheCryingChildren_nomal_9">Ve son olarak, harekete geçme. Beni bu şekilde mutlu ediyorsun.</text>
+</localize>

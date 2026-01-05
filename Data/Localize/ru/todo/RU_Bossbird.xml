@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<BossBirdTextRoot>
+  <param key="Escape" index="0">
+    Bir zamanlar, sıcak Ormanlarında mutlu mesut yaşayan üç kuş varmış.
+  </param>
+
+  <param key="BigBirdArrive" index="1">
+    Pek çok gözü olan Büyük Kuş, davetsiz misafirlere karşı ormana göz kulak olmaya karar vermiş.&#13;&#10; Büyük Kuş'un gözleri çok uzağı görebilir, bizim göremediğimiz şeyleri görebilirmiş.
+  </param>
+
+  <param key="LongBirdArrive" index="3">
+    Ormandaki huzuru korumak için, Uzun Kuş ormana girenlerin günahlarını tartarmış.&#13;&#10; Uzun Kuş'un terazisi adildir, her türlü günahı tartabilirmiş.
+  </param>
+
+  <param key="SmallBirdArrive" index="2">
+    Küçük Kuş ise yaratıkların kötü işlerini gagasıyla cezalandırmaya karar vermiş.
+  </param>
+
+  <param key="BossBirdAppear" index="4">
+    Derken, kaotik çığlıkların arasında biri bağırmış:&#13;&#10;"Bu bir canavar!, Ormanda korkunç bir canavar yaşıyor!"
+  </param>
+
+  <param key="BigBirdBreak" index="5">
+    Büyük Kuş'un her şeyi gören gözleri kör edilmiş,
+  </param>
+
+  <param key="LongBirdBreak" index="7">
+    Uzun Kuş'un kozmosa uzanan başı öne eğilmiş,
+  </param>
+
+  <param key="SmallBirdBreak" index="6">
+    Küçük Kuş'un her şeyi yutabilen ağzı mühürlenmiş,
+  </param>
+
+  <param key="Suppressed" index="8">
+    Kuş ormanda gezinmeye başlamış ama hiçbir şey yokmuş.&#13;&#10;Ne bir yaratık, ne güneş ne ay, ne de bir canavar. Geriye sadece bir Kuş ve karanlık Orman kalmış.
+  </param>
+</BossBirdTextRoot>

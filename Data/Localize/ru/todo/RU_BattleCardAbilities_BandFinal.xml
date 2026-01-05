@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardAbilityDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BattleCardAbility ID="forbidrecovery2atk">
+    <Desc>[İsabet Halinde] Gelecek sahne 2 İyileşme Engeli uygular</Desc>
+  </BattleCardAbility>  
+  
+  <BattleCardAbility ID="resonanceControl"> <Desc>[Savaş Başlangıcı] Bu sahne boyunca, eğer hedef 4+ Titreşim değerine sahipse "Rezonans" pasif yeteneği etkinleşir</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="nullifyPowerAtk">
+    <Desc>[İsabet Halinde] Hedefin zar Gücü gelecek sahne boyunca hiçbir etkiden etkilenemez</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="vibrateDmg">
+    <Desc>[İsabet Halinde] Hedefin Titreşim miktarına eşit bonus hasar verir</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerUp1thisRound">
+    <Desc>[Savaş Başlangıcı] Bu sahne için saldırı zarlarının Gücünü 1 artırır</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="debufHalfOnUse">
+    <Desc>[Kullanıldığında] Kendi üzerindeki durum etkilerinin miktarını yarıya indirir (Yukarı yuvarlanır)</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="Pluto_UC_Protect">
+    <Desc>[İsabet Halinde] Gelecek sahne hedefin eline "Adaletsiz Karşılık: Savunma" ekler</Desc>
+    <Desc>Aynı anda sadece bir adet "Adaletsiz Karşılık: Savunma" kopyasına sahip olunabilir.</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="Pluto_UC_Atk">
+    <Desc>[İsabet Halinde] Gelecek sahne hedefin eline "Adaletsiz Karşılık: Saldırı" ekler</Desc>
+    <Desc>Aynı anda sadece bir adet "Adaletsiz Karşılık: Saldırı" kopyasına sahip olunabilir.</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="Pluto_UC_Light">
+    <Desc>[İsabet Halinde] Gelecek sahne hedefin eline "Adaletsiz Karşılık: Işık" ekler</Desc>
+    <Desc>Aynı anda sadece bir adet "Adaletsiz Karşılık: Işık" kopyasına sahip olunabilir</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="UC_Protect">
+    <Desc>Eğer bu sayfa sahne sonunda elindeyse, rastgele bir sayfa at ve gelecek sahne onun maliyetine eşit Koruma kazan</Desc>
+    <Desc>[Oynandığında] Bu sayfayı tüket</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="UC_Atk">
+    <Desc>Eğer bu sayfa sahne sonunda elindeyse, destenin en üstüne karıştır ve gelecek sahne hasarı 1 artır</Desc>
+    <Desc>[Oynandığında] Bu sayfayı tüket</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="UC_Light">
+    <Desc>Eğer bu sayfa sahne sonunda elindeyse, 1 Işık yenile, ardından bir "Prangalar" kopyası ekle ve onu at</Desc>
+    <Desc>[Oynandığında] Bu sayfayı tüket</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="shackles">
+    <Desc>[Oynandığında] Bu sayfayı tüket</Desc>
+  </BattleCardAbility>
+  
+  
+  <BattleCardAbility ID="unitePower">
+    <Desc>[Bağ]</Desc>
+    <Desc>[Savaş Başlangıcı] Bu sahne boyunca, bir Bağ sayfası kullanan tüm müttefikler tüm zarlar için +1 Güç kazanır (Birikmez)</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="uniteAttack">
+    <Desc>[Bağ]</Desc>
+    <Desc>[Savaş Başlangıcı] Bu sahne boyunca, bir Bağ sayfası kullanan tüm müttefikler bir Kesme zarı (4-8) kazanır (Birikmez)</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="uniteDefense">
+    <Desc>[Bağ]</Desc>
+    <Desc>[Savaş Başlangıcı] Bu sahne boyunca, bir Bağ sayfası kullanan tüm müttefikler ilk sırada gelen bir Blok zarı (6-9) kazanır (Birikmez)</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="argaliaDistortedArea">
+    <Desc>Üçüncü sahnede kullanılabilir</Desc>
+    <Desc>[Kullanıldığında] Ele bir "Büyük Final" kopyası ekler</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="argaliaDistortedDice1">
+  </BattleCardAbility>
+  <BattleCardAbility ID="argaliaDistortedDice2">
+    <Desc>Eğer son zar isabet ederse, %50 ek hasar verir</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="plutoArea">
+    <Desc>Üçüncü sahnede kullanılabilir.</Desc>
+    <Desc>Bu sayfa kullanıldığında tüketilir ve 4 sahne sonra ele geri döner</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="elenaNewArea">
+    <Desc>Üçüncü sahnede kullanılabilir.</Desc>
+    <Desc>Bu sayfa kullanıldığında tüketilir ve 4 sahne sonra ele geri döner.</Desc>
+    <Desc>Eğer kullanıcı bu Perde boyunca 20+ HP yenilemişse, bu sayfanın maliyeti 2 azalır</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="elenaNewAreaDice">
+    <Desc>[İsabet Halinde] 3 HP yeniler</Desc>
+  </BattleCardAbility>
+  
+
+  <BattleCardAbility ID="jaeheonArea">
+    <Desc>Üçüncü sahnede kullanılabilir.</Desc>
+    <Desc>Bu sayfa kullanıldığında tüketilir ve 4 sahne sonra ele geri döner</Desc>
+    <Desc>[Kullanıldığında] "Kuklacı İpleri"ne sahip tüm müttefikler 20 HP ve Sarsılma Direnci yeniler</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="jaeheonAreaDice">
+    <Desc>[İsabet Halinde] Gelecek sahne 1 Bağlama uygular</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="oswaldArea">
+    <Desc>Üçüncü sahnede kullanılabilir.</Desc>
+    <Desc>Bu sayfa kullanıldığında tüketilir ve 4 sahne sonra ele geri döner</Desc>
+    <Desc>[Kullanıldığında] Hedeflere rastgele şu durumlardan birini uygular: 2 Kırılgan, 2 Silahsızlandır, 2 Güçsüz, 2 Koruma, 2 Sarsılma Koruması</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oswald_break8areaatk">
+    <Desc>[İsabet Halinde] 8 Sarsılma hasarı verir</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="bremenArea">
+    <Desc>Üçüncü sahnede kullanılabilir.</Desc>
+    <Desc>Bu sayfa kullanıldığında tüketilir ve 4 sahne sonra ele geri döner</Desc>
+    <Desc>[Kullanıldığında] Bu sahne tüm düşmanlara 2 Kırılgan uygular</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="bremen_chorus_atk">
+    <Desc>[İsabet Halinde] Gelecek sahne 1 Felç uygular</Desc>
+  </BattleCardAbility>
+  
+  
+  <BattleCardAbility ID="eileenArea">
+    <Desc>Üçüncü sahnede kullanılabilir.</Desc>
+    <Desc>Bu sayfa kullanıldığında tüketilir ve 4 sahne sonra ele geri döner.</Desc>
+    <Desc>Eğer saldırı en az bir kez isabet ederse, tüm müttefikler sahne sonunda 1 Işık yeniler</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="philipSpecial">
+    <Desc>[Kullanıldığında] Duygu Seviyesi 3'te, gelecek sahneden itibaren ele bir "Kavurucu Çaresizlik" kopyası ekler ve tüm düşmanlara 1 Yanık uygular</Desc>
+    <Desc>"Kavurucu Çaresizlik" sahne sonunda tüketilir</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="philipArea">
+    <Desc>Sahne sonunda tüketilir</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="resistance1atk">
+    <Desc>[İsabet Halinde] Eğer hedefin 2 veya daha az Direnci varsa, 1 Direnç kazanır</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="costDownAndPowerUp">
+    <Desc>Bu sayfa eldeyken, bir saldırı zarına karşı kaybedilen her Çarpışma için maliyeti azalır</Desc>
+    <Desc>[Savaş Başlangıcı] Bu sahne saldırı zarlarının Gücünü +1 artırır</Desc>
+    <Desc>[Kullanıldığında] 1 sayfa çek</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="nextCostDown">
+    <Desc>[Kullanıldığında] 1 sayfa çek; 1 Işık yenile; gelecek sahne tüm sayfaların maliyetini 1 azaltır</Desc>
+  </BattleCardAbility>
+  
+</BattleCardAbilityDescRoot>
