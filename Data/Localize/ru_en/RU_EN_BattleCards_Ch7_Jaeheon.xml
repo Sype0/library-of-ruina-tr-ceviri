@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703701">
+      <LocalizedName>Saldırı Emri</LocalizedName>
+      <Ability>[Savaş Başlangıcı] Gelecek sahne boyunca en düşük Can değerine sahip kütüphaneciye 'Kızıl İşaret' verir</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703702">
+      <LocalizedName>Rüyanda Görürsün</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Çarpışma Kazanıldığında] Bu sahne boyunca 1 Kuvvetsizlik uygular</Behaviour>
+      <Behaviour ID="1">[Çarpışma Kazanıldığında] Bu sahne boyunca 1 Silahsızlandırma uygular</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703703">
+      <LocalizedName>İtiş</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703704">
+      <LocalizedName>Kötürüm</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703705">
+      <LocalizedName>Gergin İpler</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Çarpışma Kaybedildiğinde] Kukla, gelecek sahne boyunca 1 Kukla İpi kaybeder</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703706">
+      <LocalizedName>İnce İpler</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1">[Çarpışma Kaybedildiğinde] Çevik Kukla, gelecek sahne boyunca 1 Kukla İpi kaybeder</Behaviour>     
+    </BattleCardDesc>
+    <BattleCardDesc ID="703707">
+      <LocalizedName>Dayanıklı İpler</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Çarpışma Kaybedildiğinde] Ağır Kukla, gelecek sahne boyunca 1 Kukla İpi kaybeder</Behaviour>     
+    </BattleCardDesc>
+    <BattleCardDesc ID="703708">
+      <LocalizedName>Eşsiz İpler</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1">[Çarpışma Kaybedildiğinde] Meleksi Kukla, gelecek sahne boyunca 1 Kukla İpi kaybeder</Behaviour>     
+    </BattleCardDesc>
+    <BattleCardDesc ID="703709">
+      <LocalizedName>İpleri Germe</LocalizedName>
+      <Ability>[Kullanıldığında] Gelecek sahne boyunca tüm kuklalara 1 Kukla İpi verir</Ability>
+      <Behaviour ID="0">[İsabet Halinde] Gelecek sahne boyunca 1 Bağlama uygular</Behaviour>     
+      <Behaviour ID="1">[İsabet Halinde] Gelecek sahne boyunca 1 Bağlama uygular</Behaviour>     
+    </BattleCardDesc>
+    <BattleCardDesc ID="703710">
+      <LocalizedName>Gigigig</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703711">
+      <LocalizedName>Gıcırtı</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703712">
+      <LocalizedName>Manken</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703713">
+      <LocalizedName>Otomatik Hareket</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703714">
+      <LocalizedName>Kukla Bariyeri</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703715">
+      <LocalizedName>Bastırılmış Beden</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703716">
+      <LocalizedName>Enerjik Jest</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703717">
+      <LocalizedName>Grgh..</LocalizedName>
+      <Ability>[Kullanıldığında] 3 Işık yeniler; 1 kart çeker</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703718">
+      <LocalizedName>Gh..Gigi..Gig</LocalizedName>
+      <Ability>[Kullanıldığında] 1 Işık yeniler; 1 kart çeker</Ability>
+    </BattleCardDesc>
+     <BattleCardDesc ID="703719">
+      <LocalizedName>Uu…Ghghgh…</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Çarpışma Kazanıldığında] Rakibin sonraki zarını yok eder</Behaviour>     
+    </BattleCardDesc>
+    <BattleCardDesc ID="703720">
+      <LocalizedName>Kuklalar</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703721">
+      <LocalizedName>Kuklalar</LocalizedName>
+      <Ability>Eğer hız 5 veya üzerindeyse, bu sayfadaki tüm zarlar +1 Güç kazanır</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703722">
+      <LocalizedName>Kuklalar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703723">
+      <LocalizedName>Kuklalar</LocalizedName>
+      <Ability>Eğer hız 5 veya üzerindeyse, bu sayfadaki tüm zarlar +2 Güç kazanır</Ability>
+      <Behaviour ID="0">[İsabet Halinde] 4 sersemletme hasarı verir</Behaviour>     
+      <Behaviour ID="1">[İsabet Halinde] 4 sersemletme hasarı verir</Behaviour>     
+      <Behaviour ID="2">[İsabet Halinde] 4 sersemletme hasarı verir</Behaviour>     
+    </BattleCardDesc>
+
+  </cardDescList>
+</BattleCardDescRoot>

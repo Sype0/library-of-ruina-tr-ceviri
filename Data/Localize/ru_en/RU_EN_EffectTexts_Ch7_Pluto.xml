@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <effectTextList>
+    <BattleEffectText ID="Pluto_Contracted_1">
+      <Name>Sözleşme Yükümlülüğü: Özgürlük</Name>
+      <Desc>Sahne başlangıcında, orijinal maliyeti 3 veya daha düşük olan tüm savaş sayfalarının maliyeti rastgeleleşir. Eğer karakter maliyeti {0} olan bir savaş sayfası oynarsa, sahne sonunda Canının %25'ini kaybeder.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Pluto_Contracted_2">
+      <Name>Sözleşme Yükümlülüğü: Güçlendirme</Name>
+      <Desc>Maliyeti {0} olan (Her sahne 0 ile 3 arasında rastgele belirlenir) savaş sayfaları oynadığında, bu sayfaların zarları +3 Güç kazanır. Diğer sayfalar 3 Güç kaybeder.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Pluto_Contracted_3">
+      <Name>Sözleşme Yükümlülüğü: Hız</Name>
+      <Desc>Sahne başlangıcında 3 Acele kazanır. Sahne içinde gerçekleştirilen her Tek Taraflı saldırı için, gelecek sahne kendine 1 Kuvvetsizlik ve Silahsızlandırma uygular.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Pluto_Contracted_4">
+      <Name>Sözleşme Yükümlülüğü: Kuvvet</Name>
+      <Desc>Sahne başlangıcında 2 Güç kazanır. Eğer karakter, karşı saldırı zarı olmayan 2 veya daha fazla ofansif zara sahip bir savaş sayfası kullanırsa, gelecek sahne sersemler.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Pluto_Contracted_5">
+      <Name>Sözleşme Yükümlülüğü: Işık</Name>
+      <Desc>Sahne başlangıcında tüm ışığı yeniler. Sahne sonunda, kalan her bir Işık puanı için maksimum Canın %10'u kadar Hasar alır.</Desc>
+    </BattleEffectText> 
+    <BattleEffectText ID="Pluto_Barrier">
+      <Name>Mühürleyici Bariyer</Name>
+      <Desc>Eylem gerçekleştiremez. Kütüphaneciler tarafından hedeflenebilir. Sersemletildiğinde bariyer çözülür.</Desc>
+    </BattleEffectText>   
+  </effectTextList>
+</BattleEffectTextRoot>

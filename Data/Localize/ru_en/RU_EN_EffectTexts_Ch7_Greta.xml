@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <effectTextList>
+    <BattleEffectText ID="Resistance">
+      <Name>Metanet</Name>
+      <Desc>Uygulanmaya çalışılan {0} adet durum etkisini önleyebilir. Bu etki tarafından bir durum etkisi her engellendiğinde, bir birikim kaybedilir.
+Metanet, belirli savaş sayfalarına karşı çarpışma kazanılarak azaltılabilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Greta_Meat">
+      <Name>Ana Malzemem Olacaksın!</Name>
+      <Desc>Greta tarafından hedeflendi. Greta'nın saldırıları bu karaktere isabet ettiğinde, Greta 8 Can yeniler.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Greta_Meat_Librarian">
+      <Name>Esir Alınmış Kütüphaneci</Name>
+      <Desc>Eğer bu karakterin Canı 0'a ulaşırsa, kütüphaneci ölür. Diğer kütüphanecilerden sadece sersemletme hasarı alır. Sersemletildiğinde, kütüphaneci bir miktar Can ve sersemletme direnci kaybederek gelecek sahne serbest kalır.</Desc>
+    </BattleEffectText>
+    
+    <BattleEffectText ID="Resistance_simple">
+      <Name>Metanet</Name>
+      <Desc>Uygulanmaya çalışılan {0} adet durum etkisini önleyebilir. Bu etki tarafından bir durum etkisi her engellendiğinde, bir birikim kaybedilir.</Desc>
+    </BattleEffectText>
+  </effectTextList>
+</BattleEffectTextRoot>

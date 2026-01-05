@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703411">
+      <LocalizedName>¡¡Hav HAV HAV!!</LocalizedName>
+      <Ability>[Savaş Başlangıcı] Bu sahne boyunca 2 Kuvvetsizlik uygular</Ability>
+      <Behaviour ID="2">[Çarpışma Kazanıldığında] Gelecek sahne boyunca rastgele bir düşmana 1 Kuvvetsizlik uygular</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703412">
+      <LocalizedName>¡Havv-hav! ¡¡¡HAV!!!</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[İsabet Halinde] Gelecek sahne boyunca 2 Bağlama ve Silahsızlandırma uygular</Behaviour>
+      <Behaviour ID="1">[İsabet Halinde] Gelecek sahne boyunca 2 Bağlama ve Silahsızlandırma uygular</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703413">
+      <LocalizedName>¡¡¡GAKGAKGAK!!!</LocalizedName>
+      <Ability>[Müttefikleri hedef alabilir;][Savaş Başlangıcı] Eğer hedef müttefikse, bu sahne boyunca 2 Güç verir</Ability>
+      <Behaviour ID="0">[Çarpışma Kazanıldığında] Gelecek sahne boyunca rastgele bir müttefiğe 1 Güç verir</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703414">
+      <LocalizedName>¡¡¡¡Ü-ürü-üüüü!!!!</LocalizedName>
+      <Ability>[Savaş Başlangıcı] Tüm müttefiklere 1 Güç verir</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703415">
+      <LocalizedName>¡¡¡NİİİİHİHİHİ!!!</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[İsabet Halinde] Gelecek sahne boyunca 'Etiketlendi' verir</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703416">
+      <LocalizedName>¡¡¡Niiiih!!!</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[İsabet Halinde] Gelecek sahne boyunca 1 Felç uygular</Behaviour>
+      <Behaviour ID="1">[İsabet Halinde] Gelecek sahne boyunca 1 Felç uygular</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703421">
+      <LocalizedName>Güçlü Tendon Sesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703422">
+      <LocalizedName>Ebedi Melodi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703423">
+      <LocalizedName>Karanlık Müzik Tapınağı</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703424">
+      <LocalizedName>Patlayıcı Tempo</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703425">
+      <LocalizedName>Üçlü</LocalizedName>
+      <Ability>[Savaş Başlangıcı] Rastgele bir müttefiğe 2 Güç, Dayanıklılık, Acele ve Koruma verir; Hedefe 2 Kuvvetsizlik, Silahsızlandırma, Bağlama ve Kırılganlık uygular</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703426">
+      <LocalizedName>Zirvedeki Koro</LocalizedName>
+      <Ability>[Savaş Başlangıcı] Gelecek sahne boyunca hedefi manuel olarak işaretlemek için 10 Kırılganlık ve 5 Felç uygular</Ability>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="707401">
+      <LocalizedName>Tehditkar Gürültü</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707402">
+      <LocalizedName>Konser</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707403">
+      <LocalizedName>Hayali Ezgi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707404">
+      <LocalizedName>Müzik Terapisi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707405">
+      <LocalizedName>Wohlklang</LocalizedName>
+    </BattleCardDesc>
+  </cardDescList>
+</BattleCardDescRoot>

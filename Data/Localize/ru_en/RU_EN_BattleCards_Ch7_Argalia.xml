@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703001">
+      <LocalizedName>Prequel</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703002">
+      <LocalizedName>Solo</LocalizedName> </BattleCardDesc>
+    <BattleCardDesc ID="703003">
+      <LocalizedName>Uyumsuzluk</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703004">
+      <LocalizedName>Tırpan Kesişi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703005">
+      <LocalizedName>Çılgın Melodi</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="703011">
+      <LocalizedName>Sürekli Saldırı</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703012">
+      <LocalizedName>Mavi Patika</LocalizedName>
+    </BattleCardDesc>
+
+    
+    <BattleCardDesc ID="703021">
+      <LocalizedName>Doğaçlama Final</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="703031">
+      <LocalizedName>Rezonans</LocalizedName>
+    </BattleCardDesc>
+  </cardDescList>
+</BattleCardDescRoot>

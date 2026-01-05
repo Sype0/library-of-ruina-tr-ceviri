@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703501">
+      <LocalizedName>Hadi Eğlenelim</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703502">
+      <LocalizedName>¡Sürpriz için hazır mısınız?!&lt;color="red"&gt;♥&lt;/color&gt;</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Çarpışma Kazanıldığında] 5 Can yeniler</Behaviour>
+      <Behaviour ID="1">[Çarpışma Kazanıldığında] 5 Can yeniler</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703503">
+      <LocalizedName>¡Güm! ¡Patlammo!!♣</LocalizedName>
+      <Ability>[İyi iş] Eğer bu sayfadaki son zar bir çarpışmayı kaybederse, rakip gelecek sahne boyunca 1 Acele ve Dayanıklılık kazanır</Ability>
+      <Behaviour ID="0">[Çarpışma Kazanıldığında] Son zar +1 Güç kazanır</Behaviour>
+      <Behaviour ID="1">[Çarpışma Kazanıldığında] Son zar +1 Güç kazanır</Behaviour>
+      <Behaviour ID="2">[İsabet Halinde] Gelecek sahne boyunca hedefin bir hız zarını mühürler</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703504">
+      <LocalizedName>¡Al, yakala!♣</LocalizedName>
+      <Ability>[Aferin] Eğer bu sayfadaki ilk zar bir çarpışmayı kaybederse, rakip gelecek sahne boyunca 1 Güç kazanır</Ability>
+      <Behaviour ID="0">[İsabet Halinde] Hedefin sayfasındaki tüm zarları yok eder</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703505">
+      <LocalizedName>Üstünde zıplayalım mı?◆</LocalizedName>
+      <Ability>[Harika iş] Eğer bu sayfadaki tüm zarlar bir çarpışmayı kaybederse, rakip 2 Işık yeniler</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703506">
+      <LocalizedName>Sana ihtiyacımız var, biliyorsun değil mi?</LocalizedName>
+      <Ability>[Karşılaşıldığında] Hedefi sersemletir; Hedef gelecek sahne boyunca Şaşkına Döner</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703507">
+      <LocalizedName>¡¡¡DORUK NOKTASI!!!</LocalizedName>
+      <Ability>[HEPSİNİZ;][BAŞLADIĞINDA] Hedefe şu durumlardan birini uygular: 2 Kırılganlık, 2 Silahsızlandırma, 2 Kırılganlık, 2 Koruma, 2 Güç veya 2 Dayanıklılık</Ability>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="703511">
+      <LocalizedName>Rastgele Fırlatış</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703512">
+      <LocalizedName>X-Kesişi</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703513">
+      <LocalizedName>Giyotin</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[İsabet Halinde] Hedefin sonraki zarını yok eder</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703514">
+      <LocalizedName>Bıçak Yağmuru</LocalizedName>
+      <Ability>Eğer son zar Hasar vermeyi başaramazsa, gelecek sahne boyunca kendine 2 Kuvvetsizlik uygula</Ability>
+      <Behaviour ID="0">[Çarpışma Kazanıldığında] Sonraki zar +1 Güç kazanır; gelecek sahne boyunca 1 Kanama uygular</Behaviour>
+      <Behaviour ID="1">[Çarpışma Kazanıldığında] Sonraki zar +1 Güç kazanır; gelecek sahne boyunca 1 Kanama uygular</Behaviour>
+      <Behaviour ID="2">[Çarpışma Kazanıldığında] Sonraki zar +1 Güç kazanır; gelecek sahne boyunca 1 Kanama uygular</Behaviour>
+      <Behaviour ID="3">[İsabet Halinde] Gelecek sahne boyunca 1 Acele ve Güç kazanır</Behaviour>
+    </BattleCardDesc>
+    
+    <BattleCardDesc ID="703521">
+      <LocalizedName>Neşe Aryası</LocalizedName>
+      <Ability>[Kullanıldığında] En az Canı olan müttefik için 8 Can yeniler</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703522">
+      <LocalizedName>Talih Aryası</LocalizedName>
+      <Ability>[Kullanıldığında] En az Canı olan müttefiğe 2 Koruma verir</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703523">
+      <LocalizedName>Cesaret Aryası</LocalizedName>
+      <Ability>[Kullanıldığında] En az Canı olan müttefiğe 1 Güç verir</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703524">
+      <LocalizedName>Korkunç Fırlatış</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[İsabet Halinde] 8 Sersemletme hasarı verir</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703525">
+      <LocalizedName>Yankılanan Terör</LocalizedName>
+      <Behaviour ID="0">[İsabet Halinde] 4 Sersemletme hasarı verir</Behaviour>
+      <Behaviour ID="1">[İsabet Halinde] 4 Sersemletme hasarı verir</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703526">
+      <LocalizedName>Korkunç Fırlatış</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[İsabet Halinde] 8 Sersemletme hasarı verir</Behaviour>
+    </BattleCardDesc>
+  </cardDescList>
+</BattleCardDescRoot>

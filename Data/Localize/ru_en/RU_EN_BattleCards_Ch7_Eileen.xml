@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703201">
+      <LocalizedName>Düşünce Çarkı: Hızlandır</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703202">
+      <LocalizedName>Düşünce Çarkı: Vaaz Ver</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703203">
+      <LocalizedName>Düşünce Çarkı: Yay</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703204">
+      <LocalizedName>Et Çarkı: Gelişim</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703205">
+      <LocalizedName>Et Çarkı: İlham Ver</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703206">
+      <LocalizedName>Et Çarkı: Hızlanma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703207">
+      <LocalizedName>Düşünce Çarkı: Beyin Yıkama</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="707201">
+      <LocalizedName>Düşünce Çarkı: Öngör</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707202">
+      <LocalizedName>Düşünce Çarkı: Yanma</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707203">
+      <LocalizedName>Düşünce Çarkı: Pas Taşkını</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707204">
+      <LocalizedName>Et Çarkı: Duman Döngüsü</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707205">
+      <LocalizedName>Et Çarkı: Aşıla</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707206">
+      <LocalizedName>Düşünce Çarkı: Zuhur</LocalizedName>
+    </BattleCardDesc>
+  </cardDescList>
+</BattleCardDescRoot>

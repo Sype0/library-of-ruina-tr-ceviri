@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <effectTextList>
+        
+    <BattleEffectText ID="Bremen_Head_Donkey">
+      <Name>A-İ'nin Parlama Vakti</Name>
+      <Desc>A-İ'nin savaş sayfası dördüncü hız zarında oynanır. Sersemletildiğinde, birinci hız zarı kırılır.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Bremen_Head_Dog">
+      <Name>Hav-Hav'ın Isınma Turu</Name>
+      <Desc>Hav-Hav'ın savaş sayfası dördüncü hız zarında oynanır. Sersemletildiğinde, ikinci hız zarı kırılır.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Bremen_Head_Chicken">
+      <Name>Ü-Ürü-Üüü'nün Kibirli Seansı</Name>
+      <Desc>Ü-Ürü-Üüü'nün savaş sayfası dördüncü hız zarında oynanır. Sersemletildiğinde, üçüncü hız zarı kırılır.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Bremen_Influenced">
+      <Name>Etiketlendi</Name>
+      <Desc>Bir sahne sürer. Bu duruma sahip karakter, etki aktifken bir savaş sayfasındaki zara karşı çarpışma kazanırsa, o sayfanın bir kopyası eline eklenir. (Sayfa başına bir kez)</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Bremen_Vulnerable">
+      <Name>Evrensel Savunmasızlık</Name>
+      <Desc>Bu sahne boyunca tüm dirençler "Ölümcül" olarak değişir.</Desc>
+    </BattleEffectText>
+  </effectTextList>
+</BattleEffectTextRoot>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <effectTextList>
+    <BattleEffectText ID="Jaeheon_PuppetThread">
+      <Name>Kukla İpleri</Name>
+      <Desc>Hız Zarı +1. Öldüğünde, 2 Sahne sonra canlanır. Bu etkinin bir birikimi kaybedildiğinde karakter 8 hasar alır.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Jaeheon_Mark">
+      <Name>Kızıl İşaret</Name>
+      <Desc>Bir Sahne sürer. Meleksi Kukla ve 'Kukla İpleri' tarafından eklenen fazladan Hız Zarı tarafından hedeflenir.</Desc>
+    </BattleEffectText>
+  </effectTextList>
+</BattleEffectTextRoot>

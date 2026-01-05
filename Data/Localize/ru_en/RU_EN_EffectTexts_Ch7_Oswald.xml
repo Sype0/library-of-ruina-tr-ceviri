@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <effectTextList>
+    <BattleEffectText ID="Oswald_Daze">
+      <Name>Afallamış</Name>
+      <Desc>2 Sahne sürer. Kontrol edilemez. Müttefikleri hedef alır. Bir Çarpışma kaybedildiğinde, Maksimum Sersemletme Direncinin %5'ine eşit ek Sersemletme Hasarı alır. Eğer Hedef Sersemlemişse, bu etki Sahne sonunda kaldırılır ve karakter sonraki Sahne sersemlemiş halden çıkar.</Desc>
+    </BattleEffectText>
+  </effectTextList>
+</BattleEffectTextRoot>

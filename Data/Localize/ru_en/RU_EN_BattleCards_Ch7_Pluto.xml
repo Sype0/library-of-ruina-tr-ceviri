@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703901">
+      <LocalizedName>Özgürlük Sözleşmesi</LocalizedName>
+      <Ability>[Savaş Başlangıcı] Hedefin eline bir 'Karşılık - Özgürlük' kopyası ekler (Özgürlük: Maliyetler rastgeleleşir; belirli bir maliyete sahip sayfaların kullanılması gerekir)</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703902">
+      <LocalizedName>Güçlendirme Sözleşmesi</LocalizedName>
+      <Ability>[Savaş Başlangıcı] Hedefin eline bir 'Karşılık - Güçlendirme' kopyası ekler (Güçlendirme: Belirli bir maliyetteki sayfalar Güç kazanır; diğerleri Güç kaybeder)</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703903">
+      <LocalizedName>Hız Sözleşmesi</LocalizedName>
+      <Ability>[Savaş Başlangıcı] Hedefin eline bir 'Karşılık - Hız' kopyası ekler (Hız: Acele kazanır; Çarpışmalara girmesi gerekir)</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703904">
+      <LocalizedName>Kuvvet Sözleşmesi</LocalizedName>
+      <Ability>[Savaş Başlangıcı] Hedefin eline bir 'Karşılık - Kuvvet' kopyası ekler (Kuvvet: Güç kazanır; Ofansif zarlı sayfalar kullanması gerekir)</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703905">
+      <LocalizedName>Işık Sözleşmesi</LocalizedName>
+      <Ability>[Savaş Başlangıcı] Hedefin eline bir 'Karşılık - Işık' kopyası ekler (Işık: Işığı tamamen yeniler; tamamının kullanılması gerekir)</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703906">
+      <LocalizedName>Karşılık - Özgürlük</LocalizedName>
+      <Ability>[Elde tutulur] Bu sayfa eldeyken 'Sözleşme Yükümlülüğü: Özgürlük' etkisini kazanır</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703907">
+      <LocalizedName>Karşılık - Güçlendirme</LocalizedName>
+      <Ability>[Elde tutulur] Bu sayfa eldeyken 'Sözleşme Yükümlülüğü: Güçlendirme' etkisini kazanır</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703908">
+      <LocalizedName>Karşılık - Hız</LocalizedName>
+      <Ability>[Elde tutulur] Bu sayfa eldeyken 'Sözleşme Yükümlülüğü: Hız' etkisini kazanır</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703909">
+      <LocalizedName>Karşılık - Kuvvet</LocalizedName>
+      <Ability>[Elde tutulur] Bu sayfa eldeyken 'Sözleşme Yükümlülüğü: Kuvvet' etkisini kazanır</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703910">
+      <LocalizedName>Karşılık - Işık</LocalizedName>
+      <Ability>[Elde tutulur] Bu sayfa eldeyken 'Sözleşme Yükümlülüğü: Işık' etkisini kazanır</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703911">
+      <LocalizedName>Büyü: Saptırma</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703912">
+      <LocalizedName>Büyü: Füze</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703913">
+      <LocalizedName>Büyü: Hamle</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703914">
+      <LocalizedName>Büyü: Muhafaza</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703915">
+      <LocalizedName>Lanet: Mühür</LocalizedName>
+      <Ability>[Kullanıldığında] Gelecek sahne boyunca hedefi bir bariyer içine hapseder</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703916">
+      <LocalizedName>Lanet: Çağrı</LocalizedName>
+      <Ability>[Savaş Başlangıcı] Gelecek sahne boyunca bariyere hapsolmuş kütüphanecinin bir gölgesini çağırır</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703917">
+      <LocalizedName>Lanet: Takas</LocalizedName>
+      <Ability>Sahne sonunda, bariyere hapsolmuş kütüphanecinin Can değerini gölgeninkiyle değiştirir</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703918">
+      <LocalizedName>Dinlenmenin Hilal Kolları</LocalizedName>
+      <Ability>Sahne sonunda, her bir zarın hasar vermekte başarısız olduğu sayı x 5 kadar sersemletme hasarı alır</Ability>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="703921">
+      <LocalizedName>Gölge Sureti</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1">[Çarpışma Kaybedildiğinde] Bu karakter gelecek sahne boyunca karşılaştığı sayfayı kullanır</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703922">
+      <LocalizedName>¡¡¡GERÇEK OLAN BENİM!!!</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703923">
+      <LocalizedName>Gölgeler</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703924">
+      <LocalizedName>Gölge Saldırısı</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703925">
+      <LocalizedName>Gölge Sureti</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Çarpışma Kaybedildiğinde] Bu karakter gelecek sahne boyunca karşılaştığı sayfayı kullanır</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703926">
+      <LocalizedName>Gölge Sureti</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="2">[Çarpışma Kaybedildiğinde] Bu karakter gelecek sahne boyunca karşılaştığı sayfayı kullanır</Behaviour>
+    </BattleCardDesc>
+  </cardDescList>
+</BattleCardDescRoot>

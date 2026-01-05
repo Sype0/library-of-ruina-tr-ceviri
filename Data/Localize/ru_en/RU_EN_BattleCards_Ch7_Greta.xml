@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703311">
+      <LocalizedName>Vur ve Bük</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Çarpışma Kazanıldığında] Gelecek sahne boyunca 1 Kanama uygular</Behaviour>
+      <Behaviour ID="1">[Çarpışma Kazanıldığında] Gelecek sahne boyunca 1 Kanama uygular</Behaviour>
+      <Behaviour ID="2">[Çarpışma Kazanıldığında] Gelecek sahne boyunca 1 Güç kazanır</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703312">
+      <LocalizedName>Moksibüsyon</LocalizedName>
+      <Ability>Greta bu sayfayı kullanarak bir çarpışma kaybettiğinde 1 Metanet kaybeder</Ability>
+      <Behaviour ID="0">[Çarpışma Kazanıldığında] Gelecek sahne boyunca 2 Kanama uygular</Behaviour>
+      <Behaviour ID="1">[Çarpışma Kazanıldığında] Gelecek sahne boyunca 2 Kanama uygular</Behaviour>
+      <Behaviour ID="2">[Çarpışma Kazanıldığında] Gelecek sahne boyunca 2 Kanama uygular</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703313">
+      <LocalizedName>Yumurta Kırmak</LocalizedName>
+      <Ability>Eğer hedefte Kanama varsa, bu sayfadaki zarlar +2 Güç kazanır</Ability>
+      <Behaviour ID="1">[İsabet Halinde] Gelecek sahne boyunca 3 Bağlama ve Felç uygular</Behaviour>
+      <Behaviour ID="2">[Çarpışma Kazanıldığında] Gelecek sahne boyunca 1 Kanama uygular</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703314">
+      <LocalizedName>Eti Çeşnile</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[İsabet Halinde] Gelecek sahne boyunca 1 Kanama ve Kırılganlık uygular</Behaviour>
+      <Behaviour ID="1">[İsabet Halinde] Gelecek sahne boyunca 1 Kanama ve Kırılganlık uygular</Behaviour>
+      <Behaviour ID="2">[İsabet Halinde] Gelecek sahne boyunca 1 Kanama ve Kırılganlık uygular</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703315">
+      <LocalizedName>Kıymak</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703316">
+      <LocalizedName>Karışım</LocalizedName>
+      <Ability>Yönlendirilemez</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703317">
+      <LocalizedName>Tadım Darbesi</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1">[İsabet Halinde] 8 Can yeniler; Eğer hedefte Kanama varsa, Hasarı +10 artırır</Behaviour>
+      <Behaviour ID="3">[Çarpışma Kazanıldığında] Gelecek sahne boyunca 2 Kanama uygular</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703318">
+      <LocalizedName>Tat Testi</LocalizedName>
+      <Ability>Diğer tüm karakterleri hedef alır. Eğer hedefte Kanama varsa, ilk zar +2 Güç kazanır</Ability>
+      <Behaviour ID="0">[İsabet Halinde] 10 Can yeniler; bu sayfayı hedef almayan rastgele bir düşmana karşı yeniden atılır</Behaviour>
+      <Behaviour ID="1">[Çarpışma Kazanıldığında] Gelecek sahne boyunca 2 Kanama uygular</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703319">
+      <LocalizedName>Çuvala Gir!</LocalizedName>
+      <Ability>[Kullanıldığında] Hedefin eylemini iptal eder ve onları Taze Et'e dönüştürür</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703310">
+      <LocalizedName>Yemek Vakti</LocalizedName>
+      <Ability>Yönlendirilemez</Ability>
+      <Behaviour ID="0">[İsabet Halinde] 20 Can yeniler</Behaviour>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="707301">
+      <LocalizedName>Kelle Paça Darbesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707302">
+      <LocalizedName>Kuyruk Darbesi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707303">
+      <LocalizedName>Av Vakti</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707304">
+      <LocalizedName>Kuyruk Dönüşü</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707305">
+      <LocalizedName>Donanım Montajı</LocalizedName>
+    </BattleCardDesc>
+  </cardDescList>
+</BattleCardDescRoot>

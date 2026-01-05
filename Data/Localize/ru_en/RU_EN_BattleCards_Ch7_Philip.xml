@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703111">
+      <LocalizedName>Sönük Günbatımı</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703112">
+      <LocalizedName>Çatışan Duygular</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Çarpışma Kazanıldığında] Her iki karaktere de 1 Yanma uygular</Behaviour>
+      <Behaviour ID="1">[Çarpışma Kazanıldığında] Her iki karaktere de 1 Yanma uygular</Behaviour>
+      <Behaviour ID="3">[Çarpışma Kazanıldığında] Her iki karaktere de 1 Yanma uygular</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703113">
+      <LocalizedName>Çaresiz Damga</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[İsabet Halinde] 3 Negatif Duygu Parası kazanır</Behaviour>
+      <Behaviour ID="1">[İsabet Halinde] 3 Negatif Duygu Parası kazanır</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703114">
+      <LocalizedName>Kavurucu Kararlılık</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[İsabet Halinde] 2 Yanma uygular</Behaviour>
+      <Behaviour ID="1">[İsabet Halinde] 1 Yanma uygular</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703115">
+      <LocalizedName>Vahşi Ruh</LocalizedName>
+      <Ability>[Savaş Başlangıcı] Gelecek sahne boyunca Yanma uyguladığında, 2 ek birikim uygular; Gelecek sahne boyunca 2 Güç kazanır</Ability>
+      <Behaviour ID="0">[Çarpışma Kazanıldığında] Her iki karaktere de 1 Yanma uygular</Behaviour>
+      <Behaviour ID="1">[İsabet Halinde] 1 Yanma uygular</Behaviour>
+      <Behaviour ID="2">[İsabet Halinde] 1 Yanma uygular</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703116">
+      <LocalizedName>Yanan Cesaret</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[İsabet Halinde] Eğer hedefte 10 veya daha fazla Yanma varsa, tüm karakterlere 1 Yanma uygular</Behaviour>
+      <Behaviour ID="1">[İsabet Halinde] Eğer hedefte 10 veya daha fazla Yanma varsa, tüm karakterlere 1 Yanma uygular</Behaviour>
+      <Behaviour ID="2">[İsabet Halinde] Eğer hedefte 10 veya daha fazla Yanma varsa, tüm karakterlere 1 Yanma uygular</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703117">
+      <LocalizedName>Zapt Et</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1">[İsabet Halinde] Gelecek sahne boyunca 2 Kuvvetsizlik, Silahsızlandırma ve Bağlama uygular</Behaviour>
+      <Behaviour ID="2">[Çarpışma Kazanıldığında] Her iki karaktere de 1 Yanma uygular</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703118">
+      <LocalizedName>Hüzün Yarası</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703119">
+      <LocalizedName>Yeniden Doğan Yanan Darbe</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[İsabet Halinde] 5 Yanma uygular</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703110">
+      <LocalizedName>Kavurucu Çaresizlik</LocalizedName>
+      <Behaviour ID="1">[İsabet Halinde] 3 Yanma uygular</Behaviour>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="703121">
+      <LocalizedName>Mırıltı</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1"></Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703122">
+      <LocalizedName>Kanat Çırpışı</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1">[İsabet Halinde] Gelecek sahne boyunca 1 Kuvvetsizlik uygular</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703123">
+      <LocalizedName>Kurban Etme</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[İsabet Halinde] Gelecek sahne boyunca 1 Silahsızlandırma uygular</Behaviour>
+      <Behaviour ID="2">[İsabet Halinde] Gelecek sahne boyunca 1 Kuvvetsizlik uygular</Behaviour>
+    </BattleCardDesc>
+  </cardDescList>
+</BattleCardDescRoot>

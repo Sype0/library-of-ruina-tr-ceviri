@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703801">
+      <LocalizedName>Kanlı Pençeler</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703802">
+      <LocalizedName>Sifon</LocalizedName> </BattleCardDesc>
+    <BattleCardDesc ID="703803">
+      <LocalizedName>Dolaşım</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703804">
+      <LocalizedName>Enjekte Et</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703805">
+      <LocalizedName>Kan Banyosu</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703806">
+      <LocalizedName>Tahliye</LocalizedName>
+    </BattleCardDesc>
+
+    
+    <BattleCardDesc ID="703811">
+      <LocalizedName>Çapraz Bıçak</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703812">
+      <LocalizedName>Şok Dalgası</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703813">
+      <LocalizedName>Kızgın Silah</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703814">
+      <LocalizedName>Dizginlenemez Saldırı</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703815">
+      <LocalizedName>Engelleme</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703816">
+      <LocalizedName>Takipçi</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703817">
+      <LocalizedName>Yıkıcı</LocalizedName>
+    </BattleCardDesc>
+    
+  </cardDescList>
+</BattleCardDescRoot>

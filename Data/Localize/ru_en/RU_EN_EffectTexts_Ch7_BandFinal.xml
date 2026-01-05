@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <effectTextList>
+        
+    <BattleEffectText ID="ForbidRecovery">
+      <Name>İyileşme Engeli</Name>
+      <Desc>{0} sahne boyunca Can veya sersemletme direnci yenilenemez.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="ArgaliaUpsurge">
+      <Name>Yoğunlaşan Duygular</Name>
+      <Desc>Sahne başlangıcında, {0} Güç ve Dayanıklılık kazanır.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="PlutoUnfairProtect">
+      <Name>Adaletsiz Sözleşme: Savunma</Name>
+      <Desc>Şu anda 'Adaletsiz Karşılık: Savunma' etkisine sahip.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="PlutoUnfairAtk">
+      <Name>Adaletsiz Sözleşme: Saldırı</Name>
+      <Desc>Şu anda 'Adaletsiz Karşılık: Saldırı' etkisine sahip.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="PlutoUnfairLight">
+      <Name>Adaletsiz Sözleşme: Işık</Name>
+      <Desc>Şu anda 'Adaletsiz Karşılık: Işık' etkisine sahip.</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="onlypage_eileen_Keyword">
+      <Name>Eileen'e Özel Sayfa</Name>
+      <Desc>Sadece Eileen'in ana sayfasıyla (Key Page) bir destede kullanılabilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_oswald_Keyword">
+      <Name>Oswald'a Özel Sayfa</Name>
+      <Desc>Sadece Oswald'ın ana sayfasıyla bir destede kullanılabilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_greta_Keyword">
+      <Name>Greta'ya Özel Sayfa</Name>
+      <Desc>Sadece Greta'nın ana sayfasıyla bir destede kullanılabilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_bremen_Keyword">
+      <Name>Bremen'e Özel Sayfa</Name>
+      <Desc>Sadece Bremen'in ana sayfasıyla bir destede kullanılabilir.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_jaeheon_Keyword">
+      <Name>Jae-heon'a Özel Sayfa</Name>
+      <Desc>Sadece Jae-heon'un ana sayfasıyla bir destede kullanılabilir.</Desc>
+    </BattleEffectText>
+    
+  </effectTextList>  
+</BattleEffectTextRoot>
