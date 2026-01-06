@@ -2727,7 +2727,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch1_Hook_ep1_angela12</VoiceFile>
-          <Content>İnsanlık çağımı? Bu ne anlama geliyor, tam olarak?</Content>
+          <Content>İnsanlık çağı mı? Bu ne anlama geliyor, tam olarak?</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
@@ -2841,13 +2841,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch1_Hook_ep1_roland22</VoiceFile>
-          <Content>Head senin gibi aykırılıkları tespit etmede korkutucu derecede iyi.</Content>
+          <Content>Kafa senin gibi aykırılıkları tespit etmede korkutucu derecede iyi.</Content>
         </Dialog>
         <Dialog ID="26" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch1_Hook_ep1_roland23</VoiceFile>
-          <Content>Oh, tabii. Eğer bilmiyorsan, Head basitçe Şehri yöneten, bir sürü gizli işler çeviren iğrenç tiplerden oluşuyor.</Content>
+          <Content>Oh, tabii. Eğer bilmiyorsan, Kafa basitçe Şehri yöneten, bir sürü gizli işler çeviren iğrenç tiplerden oluşuyor.</Content>
         </Dialog>
         <Dialog ID="27" Model="롤랑">
           <Teller>Roland</Teller>
@@ -2895,13 +2895,13 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch1_Hook_ep1_roland28</VoiceFile>
-          <Content>Onları neyin motive ettiğini bilmiyorum, ama Head'in kendisi tarafından belirlenen kuralları çiğnemek, cesaretten daha fazlasını ister.</Content>
+          <Content>Onları neyin motive ettiğini bilmiyorum, ama Kafa'nın kendisi tarafından belirlenen kuralları çiğnemek, cesaretten daha fazlasını ister.</Content>
         </Dialog>
         <Dialog ID="35" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch1_Hook_ep1_roland29</VoiceFile>
-          <Content>Head'in uygulamasından hiç kimse kaçamaz.</Content>
+          <Content>Kafa'nın uygulamasından hiç kimse kaçamaz.</Content>
         </Dialog>
         <Dialog ID="36" Model="앤젤라">
           <Teller>Angela</Teller>

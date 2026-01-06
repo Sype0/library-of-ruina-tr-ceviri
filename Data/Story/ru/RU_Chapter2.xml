@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="2">
-    <Title>Chapter 2-Mito Urbano-‘Günesin batisindan once, Sarkinin sonundaki dehseti düsünmeye vakitleri yok.’</Title>
+    <Title>Chapter 2-Sehir Masali-‘Günesin batisindan once, Sarkinin sonundaki dehseti düsünmeye vakitleri yok.’</Title>
   </Chapter>
   <Group>
     <GroupName>Prologue</GroupName>
@@ -13,7 +13,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch2_prol_ep1_walter1</VoiceFile>
-          <Content>Hana Organizasyonu'ndan ya da Zwei 1. Bölüm'den, Distortion (Bozulma) ile ilgili başka rapor var mı?</Content>
+          <Content>Hana Organizasyonu'ndan ya da Zwei 1. Bölüm'den, Bozulma ile ilgili başka rapor var mı?</Content>
         </Dialog>
         <Dialog ID="1" Model="이사도라">
           <Teller>???</Teller>
@@ -70,7 +70,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch2_prol_ep1_roland2</VoiceFile>
-          <Content>Ne? Eğer yardım etmezsem beni öldüreceğini söylediğini hatırlıyormusun? Çünkü ben hatırlıyorum.</Content>
+          <Content>Ne? Eğer yardım etmezsem beni öldüreceğini söylediğini hatırlıyor musun? Çünkü ben hatırlıyorum.</Content>
         </Dialog>
         <Dialog ID="10" Model="롤랑">
           <Teller>Roland</Teller>

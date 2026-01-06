@@ -223,7 +223,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland1</VoiceFile>
-          <Content>Peki? Kitaplar yardımcı oldumu?</Content>
+          <Content>Peki? Kitaplar yardımcı oldu mu?</Content>
         </Dialog>
         <Dialog ID="1" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -253,7 +253,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland4</VoiceFile>
-          <Content>Yani, daha önceden, insan falan değilmiydin?</Content>
+          <Content>Yani, daha önceden, insan falan değil miydin?</Content>
         </Dialog>
         <Dialog ID="6" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -289,7 +289,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Malkuth_ep2_roland8</VoiceFile>
-          <Content>Bunu, vücudunu geri aldığına sevinmediğin olarak algılıyorum doğrumu? Aldığın vakit çokta mutlu gözükmüyordun.</Content>
+          <Content>Bunu, vücudunu geri aldığına sevinmediğin olarak algılıyorum doğru mu? Aldığın vakit çokta mutlu gözükmüyordun.</Content>
         </Dialog>
         <Dialog ID="12" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -2578,7 +2578,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Yesod_ep2_roland6</VoiceFile>
-          <Content>Eski hayatlarınızda deneyimli dövüşçüler falanmıydınız, yoksa? Sendikaların elebaşları gibi?</Content>
+          <Content>Eski hayatlarınızda deneyimli dövüşçüler falan mıydınız, yoksa? Sendikaların elebaşları gibi?</Content>
         </Dialog>
         <Dialog ID="11" Model="롤랑">
           <Teller>Roland</Teller>
@@ -2698,7 +2698,7 @@
           <Teller>Roland</Teller>
           <Title>Perrito Faldero</Title>
           <VoiceFile>ch8_Yesod_ep2_roland15</VoiceFile>
-          <Content>Küçük adi !#@$!#...</Content>
+          <Content>!#@$!#...</Content>
         </Dialog>
       </Place>
     </Episode>
@@ -21108,7 +21108,7 @@ Vesaire vesaire.</Content>
         <Teller>Angela</Teller>
         <Title>Kütüphane Direktörü</Title>
         <VoiceFile>ch8_kether_ep1_angela7</VoiceFile>
-        <Content>İkiyüzlüler...</Content>
+        <Content>İki yüzlüler...</Content>
       </Dialog>
       <Dialog ID="16" Model="앤젤라">
         <Teller>Angela</Teller>
