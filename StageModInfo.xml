@@ -2,14 +2,14 @@
 <NormalInvitation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.1</Version>
   <Workshop>
-    <ID>Detayli oynamak toplulugu</ID>
+    <ID>sype.turkceyama</ID>
     <Title>Turkce Ceviri</Title>
     <Description>Ceviri: Detayli oynamak toplulugu
 	
 	https://discord.gg/A7ktrBUFTR
 	</Description>
     <Tag>Localizations</Tag>
-    <PreviewImage>\preview.jpg</PreviewImage>
+    <PreviewImage>\preview.jpeg</PreviewImage>
   </Workshop>
   <InvitationFile>
     <Stage Exist="true">

@@ -54,9 +54,10 @@ Yamayı kurmak için aşağıdaki adımları izleyin:
 Bu projeyi geliştiren ekip:
 
 * **[Sype](https://github.com/Sype0)**
+* **[Lalettayin](https://github.com/koseenestalha)**
 * **[Detaylı Oynamak](https://www.youtube.com/@Detayl%C4%B1Oynamak)**
 
- > Bu projeyi mümkün kılan [Detaylı Oynamak Topluluğu'na](https://discord.gg/A7ktrBUFTR) ayrıca teşekkürler ❤️
+ > [Detaylı Oynamak Topluluğu'na](https://discord.gg/A7ktrBUFTR) ayrıca teşekkürler ❤️
 ---
 
 ## 🤝 Katkıda Bulunun
