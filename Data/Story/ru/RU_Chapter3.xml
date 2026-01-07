@@ -1759,7 +1759,7 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Konum: Algún lugar en los Barrios Bajos</PlaceName>
+        <PlaceName>Konum: Varoşlarda bir yer</PlaceName>
         <Dialog ID="0" Model="경미">
           <Teller>Gyeong-mi</Teller>
           <Title>Sokak köpeği</Title>
@@ -2200,7 +2200,7 @@
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
-        <PlaceName>Konum: Plataforma WARP</PlaceName>
+        <PlaceName>Konum: WARP Platformu</PlaceName>
         <Dialog ID="0" Model="레인">
           <Teller>Rain</Teller>
           <Title>Azıdişi düzelticisi</Title>
@@ -2449,7 +2449,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Konum: Dentro del Tren WARP UW-212</PlaceName>
+        <PlaceName>Konum: UW-212 WARP Treni'nin İçinde</PlaceName>
         <Dialog ID="41" Model="안내방송">
           <Teller>Anuncio de</Teller>
           <Title>WARP Corp.</Title>
