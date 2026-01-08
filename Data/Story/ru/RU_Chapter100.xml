@@ -16476,7 +16476,7 @@ Vesaire vesaire.</Content>
           <Teller>Binah</Teller>
           <Title>Jefa bibliotecaria - Filosofía</Title>
           <VoiceFile>ch8_Binah_ep4_Binah_4-01</VoiceFile>
-          <Content>Ve insan kavrayışının ötesindeki varlıklar "Afueras"'ın dışındaki bölgelerde yaşıyor.</Content>
+          <Content>Ve insan kavrayışının ötesindeki varlıklar "Kenar mahalleler'in dışındaki bölgelerde yaşıyor.</Content>
         </Dialog>
         <Dialog ID="5" Model="롤랑">
           <Teller>Roland</Teller>
@@ -17520,7 +17520,7 @@ Vesaire vesaire.</Content>
           <Teller>Angelica</Teller>
           <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_10</VoiceFile>
-          <Content>Ben "Afueras"'tandımdı.</Content>
+          <Content>Ben Kenar Mahalle 'tandımdı.</Content>
         </Dialog>
         <Dialog ID="120" Model="안젤리카">
           <Teller>Angelica</Teller>
@@ -17532,7 +17532,7 @@ Vesaire vesaire.</Content>
           <Teller>Angelica</Teller>
           <Title>Charles Düzelticisi</Title>
           <VoiceFile>ch8_Binah_ep5_Angelika_12-01</VoiceFile>
-          <Content>Ve benimle deney yapmayı bitirdiklerinde, beni "Afueras"'a attılar.</Content>
+          <Content>Ve benimle deney yapmayı bitirdiklerinde, beni "Kenar mahalleye attılar.</Content>
         </Dialog>
         <Dialog ID="122" Model="안젤리카">
           <Teller>Angelica</Teller>
@@ -17745,7 +17745,7 @@ Vesaire vesaire.</Content>
           <Teller />
           <Title />
           <VoiceFile>ch8_Binah_ep5_Roland_83</VoiceFile>
-          <Content>"Angelica" ve benim aradığımız hedefin adı ""Kan Kırmızı Gece""ydi.</Content>
+          <Content>"Angelica" ve benim aradığımız hedefin adı "Kan Kırmızı Gece"ydi.</Content>
         </Dialog>
         <Dialog ID="157" Model="">
           <Teller />
@@ -17757,13 +17757,13 @@ Vesaire vesaire.</Content>
           <Teller />
           <Title />
           <VoiceFile>ch8_Binah_ep5_Roland_85</VoiceFile>
-          <Content>"Kurbanlar" daha sonra "Sokaklar"da cesetler olarak bulundu.</Content>
+          <Content>Kurbanlar daha sonra Sokaklarda cesetler olarak bulundu.</Content>
         </Dialog>
         <Dialog ID="159" Model="">
           <Teller />
           <Title />
           <VoiceFile>ch8_Binah_ep5_Roland_86</VoiceFile>
-          <Content>"Canlanmış" cesetler.</Content>
+          <Content>Canlanmış cesetler.</Content>
         </Dialog>
         <Dialog ID="160" Model="">
           <Teller />
