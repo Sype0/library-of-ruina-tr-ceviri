@@ -1441,7 +1441,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela2</VoiceFile>
-          <Content>Nasıl istersen. Benim hakkımda ne düşündüğün umrumda değil.</Content>
+          <Content>Nasıl istersen. Benim hakkımda ne düşündüğün umurumda değil.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -1621,13 +1621,13 @@
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep5_Malkuth17-01</VoiceFile>
-          <Content>Ama! Tarih tekrar tekrar etse bile, geleceğin de aynı olacağını garanti edemeyiz.</Content>
+          <Content>Ama! Tarih tekrar etse bile, geleceğin de aynı olacağını garanti edemeyiz.</Content>
         </Dialog>
         <Dialog ID="34" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep5_Malkuth18</VoiceFile>
-          <Content>Tüm fedakarlıkların ve dökülen kanın boşuna olduğunu söyleyemeyiz, özellikle de tarih tekerrür ederken bile...</Content>
+          <Content>Tüm fedakarlıkların ve dökülen kanın boşuna olduğunu söyleyemeyiz, özellikle de tarih tekrar ederken bile...</Content>
         </Dialog>
         <Dialog ID="35" Model="말쿠트">
           <Teller>Malkuth</Teller>
@@ -1708,7 +1708,7 @@
           <Teller>Benjamin</Teller>
           <Title>Araştırmacı</Title>
           <VoiceFile>ch8_Malkuth_ep5_Benjamin5</VoiceFile>
-          <Content>Öyle bir surat yapsan bile yapabileceğim bir şey yok. Yaratıcı, yarattığı şeye isim vermekten sorumlu olmalıdır denir.</Content>
+          <Content>Öyle bir surat yapsan bile yapabileceğim bir şey yok. Yaratıcı, yarattığı şeye isim vermek zorundadır; derler.</Content>
         </Dialog>
         <Dialog ID="48" Model="아인">
           <Teller>Ayin</Teller>
@@ -1906,7 +1906,7 @@
           <Teller>Benjamin</Teller>
           <Title>Araştırmacı</Title>
           <VoiceFile>ch8_Malkuth_ep5_Benjamin22</VoiceFile>
-          <Content>Dış Mahal'de yaşayanlar umutsuzca Şehir'e girmek için ağlıyorlar. Şehir'deyse insanlar bir Yuva'ya ait olmaya çalışarak hayatlarını feda ediyorlar.</Content>
+          <Content>Dış Mahalle'de yaşayanlar umutsuzca Şehir'e girmek için ağlıyorlar. Şehir'deyse insanlar bir Yuva'ya ait olmaya çalışarak hayatlarını feda ediyorlar.</Content>
         </Dialog>
         <Dialog ID="81" Model="벤자민">
           <Teller>Benjamin</Teller>
@@ -1936,7 +1936,7 @@
           <Teller>Angela</Teller>
           <Title>AI</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela27</VoiceFile>
-          <Content>Öyleyse, bana şeyleri sorgulama yeteneğini neden verdin?</Content>
+          <Content>Öyleyse, bana bir şeyleri sorgulama yeteneğini neden verdin?</Content>
         </Dialog>
         <Dialog ID="86" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -2056,7 +2056,7 @@
           <Teller>Angela</Teller>
           <Title>AI</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela40</VoiceFile>
-          <Content>Bana cevap vermenin bir yolu yok...</Content>
+          <Content>Bana cevap vermenin bir anlamı yok...</Content>
         </Dialog>
       </Place>
       <Place>
@@ -2269,7 +2269,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Malkuth_ep5_Angela55-01</VoiceFile>
-          <Content>Sonsuza dek Kütüphane'de mahsur kalmaktan endişeleniyordun demek istiyorsun.</Content>
+          <Content>Sonsuza kadar kütüphanede mahsur kalmaktan korktuğunu mu söylemek istiyorsun.</Content>
         </Dialog>
         <Dialog ID="15" Model="롤랑">
           <Teller>Roland</Teller>
@@ -5597,7 +5597,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep4_hod13</VoiceFile>
-          <Content>... Biliyorum, değil mi? Ben de öyle düşünüyorum.</Content>
+          <Content>... Ben de öyle düşünüyorum.</Content>
         </Dialog>
         <Dialog ID="23" Model="호드">
           <Teller>Hod</Teller>
@@ -14171,7 +14171,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_9-01</VoiceFile>
-          <Content>"Şehir"'in çok basit olduğunu, her şeyin olabileceğini ve kaçınılmaz olduğunu söyleyerek konuşuyorsun hep.</Content>
+          <Content>Şehir'in çok basit olduğunu, her şeyin olabileceğini ve kaçınılmaz olduğunu söyleyerek konuşuyorsun hep.</Content>
         </Dialog>
         <Dialog ID="14" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14207,7 +14207,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_12</VoiceFile>
-          <Content>Bak, ben bir "yuva"'dan geliyorum.</Content>
+          <Content>Bak, ben bir Yuva'dan geliyorum.</Content>
         </Dialog>
         <Dialog ID="20" Model="롤랑">
           <Teller>Roland</Teller>
@@ -14237,7 +14237,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_15-02</VoiceFile>
-          <Content>Biliyorum, değil mi? Herkes "A Corp".'a katılmamı ve hiçbir şey olmamış gibi yükselmemi bekliyordu.</Content>
+          <Content>Öyle değil mi? Herkes A Corp'a katılmamı ve hiçbir şey olmamış gibi yükselmemi bekliyordu.</Content>
         </Dialog>
         <Dialog ID="25" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14297,19 +14297,19 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chessed_ep4_Roland_14</VoiceFile>
-          <Content>Ya büyük bir "sendika" ya da sadece deli bir tip olmalıydı.</Content>
+          <Content>Ya büyük bir Sendika'ya da sadece deli bir tip olmalıydı.</Content>
         </Dialog>
         <Dialog ID="35" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_22-01</VoiceFile>
-          <Content>Şey, bak... Bunlar aslında "Carmen" ve "Kali"'ydi.</Content>
+          <Content>Şey, bak... Bunlar aslında Carmen ve Kali'ydi.</Content>
         </Dialog>
         <Dialog ID="36" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chessed_ep4_Roland_15</VoiceFile>
-          <Content>Ha? Eğer "Niebla Roja" bunu yaptıysa... Pekala, iyi sebepleri olmalıydı.</Content>
+          <Content>Ha? Eğer Kızıl Sis bunu yaptıysa... Pekala, iyi sebepleri olmalıydı.</Content>
         </Dialog>
         <Dialog ID="37" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14321,8 +14321,8 @@ Yardımınız için minnettarım.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_24-02</VoiceFile>
-          <Content>"İnsanları yüzlerine bakarak ayırt etmekte asla iyi olmadın, "Kali"."
-"Şey, bana kötü bir tarif verdiğin için senin suçun, "Carmen"!"
+          <Content>"İnsanları yüzlerine bakarak ayırt etmekte asla iyi olmadın, Kali."
+"Şey, bana kötü bir tarif verdiğin için senin suçun, Carmen!"
 Vesaire vesaire.</Content>
         </Dialog>
         <Dialog ID="39" Model="헤세드">
@@ -14347,7 +14347,7 @@ Vesaire vesaire.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_27</VoiceFile>
-          <Content>"Carmen"'in araştırma fonlarını dolandıran bir sanatçıyı yakalamaya çalışıyorlardı ve "Kali" beni o kişiyle karıştırmış anlaşılan.</Content>
+          <Content>Carmen'in araştırma fonlarını dolandıran bir sanatçıyı yakalamaya çalışıyorlardı ve Kali beni o kişiyle karıştırmış anlaşılan.</Content>
         </Dialog>
         <Dialog ID="43" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14359,7 +14359,7 @@ Vesaire vesaire.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_29-01</VoiceFile>
-          <Content>Ama sonra "Carmen" hiç utanmadan, oradayken bir süre yardım edip edemeyeceğimi sordu.</Content>
+          <Content>Ama sonra Carmen hiç utanmadan, oradayken bir süre yardım edip edemeyeceğimi sordu.</Content>
         </Dialog>
         <Dialog ID="45" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14407,13 +14407,13 @@ Vesaire vesaire.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_35-02</VoiceFile>
-          <Content>Onunla ilgili öne çıkan tek şey, insanların çoğu ona zar zor bakıp işlerine geri dönerken bile, bu kadar saçma bir konuşmadan aşırı derecede gurur duyması ve emin olmasıydı.</Content>
+          <Content>Onunla ilgili en dikkat çekici şey, insanların çoğu ona şöyle bir bakıp işine dönmesine rağmen, bu kadar saçma bir konuşmayı bile büyük bir gurur ve özgüvenle yapmasıydı.</Content>
         </Dialog>
         <Dialog ID="53" Model="헤세드">
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_36-01</VoiceFile>
-          <Content>"Carmen", gördüğüm tüm insanlardan çok farklıydı.</Content>
+          <Content>Carmen, gördüğüm tüm insanlardan çok farklıydı.</Content>
         </Dialog>
         <Dialog ID="54" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14449,7 +14449,7 @@ Vesaire vesaire.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_42-02</VoiceFile>
-          <Content>"Carmen" ve "Kali" bana "Sokaklar"da neler olduğunu ve "yuvalar"daki insanların nasıl anlamsızca gasp edildiğini gösterdi.</Content>
+          <Content>Carmen ve Kali bana Sokaklar'da neler olduğunu ve yuvalar'daki insanların nasıl anlamsızca gasp edildiğini gösterdi.</Content>
         </Dialog>
         <Dialog ID="60" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14521,7 +14521,7 @@ Vesaire vesaire.</Content>
           <Teller>Chesed</Teller>
           <Title>Baş Kütüphaneci - Sos. Bilimler</Title>
           <VoiceFile>ch8_Chessed_ep4_Chessed_50</VoiceFile>
-          <Content>Evet, öyleyim. Gelecek sefer gerçekten değiştirmek istiyorum.</Content>
+          <Content>Evet, öyleyim. Gelecek sefere gerçekten değiştirmek istiyorum.</Content>
         </Dialog>
         <Dialog ID="72" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -14539,7 +14539,7 @@ Vesaire vesaire.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chessed_ep4_Roland_24</VoiceFile>
-          <Content>Böylesine cömert şeyler söyleyebilmen tamamen sahip olduğun o müreffeh hayat sayesinde.</Content>
+          <Content>Böylesine cömert şeyler söyleyebilmen tamamen sahip olduğun o zengin hayat sayesinde.</Content>
         </Dialog>
         <Dialog ID="75" Model="롤랑">
           <Teller>Roland</Teller>
