@@ -35,8 +35,8 @@ Yamayı kurmak için aşağıdaki adımları izleyin:
 2. **Yükleme:**
    - Bu sayfanın sağ tarafındaki **[Releases]** kısmından son sürümü indirin.
    - Oyunun başlangıç argümanına "-mod" ekleyin.
-   - İndirdiğiniz arşivi klasöre çıkartın.
-   - Çıkan dosyaları oyunun kurulu olduğu dizindeki `LibraryOfRuina_Data/Mods` içine atın.
+   - İndirdiğiniz arşivi çıkartın.
+   - Çıkan klasörü oyunun kurulu olduğu dizindeki `LibraryOfRuina_Data/Mods` içine atın.
    - Oyunu başlatın ve ayarlardan dili kontrol edin.
 
 ---
