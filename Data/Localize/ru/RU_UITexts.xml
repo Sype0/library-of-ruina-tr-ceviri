@@ -151,7 +151,7 @@
 	<text id="ui_battleresult_returnrewadlist">Kapat</text>
 	<text id="ui_popup_levelup_floor"> {0} idrak seviyesi yükseldi!</text>
 	<text id="ui_popup_opensephirah_questalarm">Yeni bir Görev eklendi</text>
-	<text id="ui_popup_opensephirah_title">{0} Açildi</text>
+	<text id="ui_popup_opensephirah_title">{0} açıldı</text>
 	<text id="ui_popup_librarygradeup_title">Kütüphane Sınıfı</text>
 	<text id="ui_popup_gacha_confirm">Onayla</text>
 	<text id="ui_option_title">Seçenekler</text>
@@ -259,7 +259,7 @@
 	<text id="endbatte_typo_win">Zafer</text>
 	<text id="endbatte_type_lose">Yenilgi</text>
 	<text id="creaturebookshelf_needselect">Anormallik Sayfasi/Sayfalarini seçmelisin</text>
-	<text id="ui_popup_endcontents_1">simdilik hazirladigimiz tüm içerik bu kadar.
+	<text id="ui_popup_endcontents_1">simdilik hazırladığımız tüm içerik bu kadar.
 Daha fazlasi için lütfen sabirla bir sonraki güncellemeyi bekleyin.</text>
 	<text id="ui_popup_endcontents_2">Daha fazlasi için lütfen sabirla bir sonraki güncellemeyi bekleyin.</text>
 	<text id="ui_popup_manualalarm_1">Kilavuzu açmak için F1 tusuna basabilirsin.</text>
@@ -335,16 +335,16 @@ Daha fazlasi için lütfen sabirla bir sonraki güncellemeyi bekleyin.</text>
 	<text id="ui_drop_limit">Depolama limitine ulasildi</text>
 	<text id="ui_deck_limit">savaş Sayfasi kusanma limiti</text>
 	<text id="ui_rewardlist">Kilit Açma Listesi</text>
-	<text id="ui_popup_nocontents">simdilik hazirladigimiz tüm hikaye bu kadar.
+	<text id="ui_popup_nocontents">simdilik hazırladığımız tüm hikaye bu kadar.
 Daha fazlasi için lütfen sabirla bir sonraki güncellemeyi bekleyin.</text>
 	<text id="ui_popup_decklimitchange">savaş Sayfasi limiti degistirildi.
 Savaş Kitaplığı sıfırlandı.</text>
-	<text id="ui_levlelupreward_1">Kütüphane sefi açildi</text>
-	<text id="ui_levlelupreward_2">{0}: Kütüphaneci/ler uyandi</text>
-	<text id="ui_levlelupreward_3">Özellestirme #1 (isim, Görünüs) açildi</text>
-	<text id="ui_levlelupreward_4">Anormallik Sayfalari açildi</text>
-	<text id="ui_levlelupreward_5">Özellestirme #2 (Unvanlar, Diyaloglar) açildi</text>
-	<text id="ui_levlelupreward_6">savaş Simgelerini düzenleme açildi</text>
+	<text id="ui_levlelupreward_1">Kütüphane sefi açıldı</text>
+	<text id="ui_levlelupreward_2">{0}: Kütüphaneci/ler uyandı</text>
+	<text id="ui_levlelupreward_3">Özellestirme #1 (isim, Görünüs) açıldı</text>
+	<text id="ui_levlelupreward_4">Anormallik Sayfalari açıldı</text>
+	<text id="ui_levlelupreward_5">Özellestirme #2 (Unvanlar, Diyaloglar) açıldı</text>
+	<text id="ui_levlelupreward_6">savaş Simgelerini düzenleme açıldı</text>
 	<text id="ui_popup_getstorybook">Kazanildi: {0}.</text>
 	<text id="ui_popup_closedStage">Davet edilebilecek misafir yok.</text>
 	<text id="ui_popup_maxfloorfeed">Bir seferde yalnizca 20 Kitap yakilabilir.</text>
@@ -433,7 +433,7 @@ Hizli Mod "Kapali" oldugunda Zar manuel olarak atilir.</text>
   <text id ="ui_popup_openuncomplete_floor">{0} idrakı Basarisiz Oldu</text>
   <text id="ui_library_abilitycontent_17">Artik E.G.O. Sayfalarini kullanabilirsin.</text>
   <text id="ui_library_abilitycontent_18">Duygu Seviyesi {0}. seviyeye yükseldi.</text>
-  <text id="ui_popup_creature_bossbattle_start">{0} hikayesinin final bölümünü görmeye hazir misin?</text>
+  <text id="ui_popup_creature_bossbattle_start">{0} hikayesinin final bölümünü görmeye hazır mısın?</text>
   <text id="ui_getegocard">E.G.O. Sayfasi edinildi</text>
   <text id="ui_egocard">E.G.O. Sayfasi</text>
 
@@ -605,7 +605,7 @@ O Sayfadan kaldirmak ister misin?
 
   
 
-  <text id ="ui_alarm_enterthebluereverberationprimary">{0} Kabulü için baslamaya hazir misin?</text>
+  <text id ="ui_alarm_enterthebluereverberationprimary">{0} Kabulü için baslamaya hazır mısın?</text>
 
   <text id ="ui_controller_removedeck">Destegi Sil</text>
 
@@ -635,7 +635,7 @@ Kabul baslasin mi?</text>
 
 
   <text id="ui_alarm_startthebluereverberationprimary">Bu noktadan itibaren davet gönderemeyecek, Kitap yakamayacak, Anormalliklerle savaşamayacak veya Kat idrakı yapamayacaksin.
-Gerçekten olacaklara hazir misin?</text>
+Gerçekten olacaklara hazır mısın?</text>
 
   <text id ="ui_alarm_backthebluereverberationprimary">simdi vazgeçersen, su ana kadarki tüm ilerlemeni kaybedecek ve Hana Birligi Kabulüne geri gönderileceksin.
 Vazgeçmek istedigine emin misin?</text>
