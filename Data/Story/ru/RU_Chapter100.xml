@@ -3835,7 +3835,7 @@
           <Teller>Yesod</Teller>
           <Title>Patron Kütüphaneci - Teknolojik Bilimler</Title>
           <VoiceFile>ch8_Yesod_ep5_Yesod15_b</VoiceFile>
-          <Content>Ve Kütüphane'deki teknolojiler hakkında daha fazla devam edebilirim.</Content>
+          <Content>Ve Kütüphane'deki teknolojileri devam edebilirim.</Content>
         </Dialog>
         <Dialog ID="21" Model="롤랑">
           <Teller>Roland</Teller>
@@ -3973,8 +3973,8 @@
           <Content>Elbette. Sadece senin emirlerini sorgulamadan takip etmem gerekiyor.</Content>
         </Dialog>
         <Dialog ID="43" Model="">
-          <Teller />
-          <Title />
+          <Teller>Angela</Teller>
+          <Title>AI</Title>
           <VoiceFile>ch8_Yesod_ep5_Angela12-01</VoiceFile>
           <Content>Lobotomy Corporation. Bir enerji şirketi ve Şehir'e insanlardan türeyen yaratıklar olan anormalliklerden çıkarılan enerji sağlayan bir Kanat.</Content>
         </Dialog>
@@ -12422,7 +12422,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Gebura_ep4_Roland_11-01</VoiceFile>
-          <Content>İnsanlığı iyileştirme araştırmasına liderlik eden kişi olduğu varsayılan kişi, değil mi?</Content>
+          <Content>İnsanlığı iyileştirme araştırmasına liderlik eden kişi, değil mi?</Content>
         </Dialog>
         <Dialog ID="28" Model="게부라">
           <Teller>Gebura</Teller>
@@ -12440,7 +12440,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Gebura_ep4_Roland_12-01</VoiceFile>
-          <Content>Yani ona acıdığın için mi yardım ettin falan mı?</Content>
+          <Content>Yani ona acıdığın için mi yardım ettin?</Content>
         </Dialog>
         <Dialog ID="31" Model="게부라">
           <Teller>Gebura</Teller>
@@ -12524,7 +12524,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Gebura_ep4_Roland_13-01</VoiceFile>
-          <Content>Bu, bir Renk olmadan önce miydi, değil mi?</Content>
+          <Content>Bu, bir Renk olmadan önce miydi?</Content>
         </Dialog>
         <Dialog ID="45" Model="게부라">
           <Teller>Gebura</Teller>
