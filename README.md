@@ -27,6 +27,10 @@ Bu proje kapsamında oyunun arayüzü, diyalogları, savaş kartları ve Abnorma
 
 ## ⚙️ Kurulum
 
+Eğer oyunun Steam versiyonuna sahipseniz direkt olarak **[bu linkten](https://steamcommunity.com/sharedfiles/filedetails/?id=3643439727)** kurabilirsiniz.
+
+---
+
 Yamayı kurmak için aşağıdaki adımları izleyin:
 
 1. **Gereksinimler:**
