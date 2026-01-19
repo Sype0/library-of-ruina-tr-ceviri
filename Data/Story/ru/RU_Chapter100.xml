@@ -5873,7 +5873,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Hod_ep5_Angela3</VoiceFile>
-          <Content>Yuvalar ve Ara Sokaklar arasındaki yaşam kalitesinin oldukça önemli olduğunu duydum, değil mi?</Content>
+          <Content>Yuvalar ve Ara Sokaklar arasındaki yaşam kalitesinin oldukça önemli olduğunu duydum.</Content>
         </Dialog>
         <Dialog ID="7" Model="롤랑">
           <Teller>Roland</Teller>
@@ -6410,7 +6410,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Angela</Teller>
           <Title>Yapay Zeka Sekreteri</Title>
           <VoiceFile>ch8_Hod_ep5_Angela39</VoiceFile>
-          <Content>Danışmanlık programını mı soruyorsun, değil mi?</Content>
+          <Content>Danışmanlık programını soruyorsun, değil mi?</Content>
         </Dialog>
         <Dialog ID="96" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -6650,7 +6650,7 @@ Yardımınız için minnettarım.</Content>
           <Teller />
           <Title />
           <VoiceFile />
-          <Content>&lt; Klippot Çöküşü! &gt;</Content>
+          <Content>&lt; Klipot Çöküşü! &gt;</Content>
         </Dialog>
         <Dialog ID="136" Model="앤젤라">
           <Teller>Angela</Teller>
