@@ -56,7 +56,7 @@
     </Type>
     <Type ID="BATTLE_VICTORY">
       <BattleDialog ID="BATTLE_VICTORY_0">Ç…ok… ödül… alacağız…</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Bu k…ez ne t…ür ödül…ler ala…cağız… Tomerry… kadar ç…ok büy…ümek isti…yorum…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bu k…ez ne t…ür ödül…ler ala…cağız… Tomerry… kadar ç…ok büy…ümek işti…yorum…</BattleDialog>
       <BattleDialog ID="BATTLE_VICTORY_2">Kay…bede…meyiz…</BattleDialog>
       <BattleDialog ID="BATTLE_VICTORY_3">B…u sev…ginin… gücüd…ür…</BattleDialog>
       <BattleDialog ID="BATTLE_VICTORY_4">Sevginin… ne k…adar güçlü… olduğunu… küçümse…meyin…</BattleDialog>

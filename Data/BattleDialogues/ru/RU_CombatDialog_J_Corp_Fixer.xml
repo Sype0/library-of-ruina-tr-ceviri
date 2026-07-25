@@ -46,7 +46,7 @@
       <BattleDialog ID="COLLEAGUE_DEATH_2">Bitene kadar bitmez.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Aman Tanrım, bu bir Gokō~! Gel de bu eli durdurmaya çalış!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">Aman Tanrım, bu bir Gökō~! Gel de bu eli durdurmaya çalış!</BattleDialog>
       <BattleDialog ID="KILLS_OPPONENT_1">Fufu… Bu kolay olacak.</BattleDialog>
       <BattleDialog ID="KILLS_OPPONENT_2">Bu kadar basit değil mi? Esnemek üzereyim!</BattleDialog>
     </Type>

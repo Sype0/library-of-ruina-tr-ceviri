@@ -394,7 +394,7 @@
     </Type>
     <Type ID="KILLS_OPPONENT">
       <BattleDialog ID="KILLS_OPPONENT_0">Et ya da insan, bir veya daha fazla zayıf nokta olmalı.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Etin hayati noktasını vurmalıyım, en son istediğim şey beni o küçük ayaklarıyla tekmelemesi.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Etin hayatı noktasını vurmalıyım, en son istediğim şey beni o küçük ayaklarıyla tekmelemesi.</BattleDialog>
       <BattleDialog ID="KILLS_OPPONENT_2">Bir dahaki görüşmemizde, daha şık bir et torbası olmaya çalış.</BattleDialog>
       <BattleDialog ID="KILLS_OPPONENT_3">Ah canım… Malzemeler çok yumuşaktı.</BattleDialog>
       <BattleDialog ID="KILLS_OPPONENT_4">Biraz daha kesebilmeyi umuyordum… Ne yazık.</BattleDialog>

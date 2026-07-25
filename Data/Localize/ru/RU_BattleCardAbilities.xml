@@ -1,343 +1,343 @@
 <?xml version="1.0" encoding="utf-8"?>
 <BattleCardAbilityDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <BattleCardAbility ID="exhaust">
-    <Desc>Bu Sayfa kullanildiginda Tüketilir</Desc>
+    <Desc>Bu Sayfa kullanıldığında Tüketilir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="vulnerable1atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Kirilgan uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Kırılgan uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="vulnerable2atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 2 Kirilgan uygular </Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 2 Kırılgan uygular </Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="vulnerable3atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 3 Kirilgan uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 3 Kırılgan uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="vulnerable4atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 4 Kirilgan uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 4 Kırılgan uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="vulnerable5atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 5 Kirilgan uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 5 Kırılgan uygular</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="bleeding1atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="bleeding2atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 2 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 2 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="bleeding3atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 3 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 3 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="bleeding4atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 4 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 4 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="bleeding6atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 6 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 6 Kanama uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="bleeding2pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 2 Kanama uygular</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 2 Kanama uygular</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="bleeding1atk_pierre">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="bleeding2atk_pierre">
-    <Desc>[Vurdugunda] Sonraki Sahne 2 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 2 Kanama uygular</Desc>
   </BattleCardAbility>
 
 
   <BattleCardAbility ID="burn1atk">
-    <Desc>[Vurdugunda] 1 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 1 Yanık uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="burn2atk">
-    <Desc>[Vurdugunda] 2 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 2 Yanık uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="burn3atk">
-    <Desc>[Vurdugunda] 3 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 3 Yanık uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="burn4atk">
-    <Desc>[Vurdugunda] 4 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 4 Yanık uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="burn6atk">
-    <Desc>[Vurdugunda] 6 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 6 Yanık uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="burn10atk">
-    <Desc>[Vurdugunda] 10 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 10 Yanık uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="burn2pw">
-    <Desc>[Çarpisma Kazandiginda] 2 Yanik uygular</Desc>
+    <Desc>[Çarpışma Kazandığında] 2 Yanık uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="weak1atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Zayif uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Zayıf uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="weak2atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 2 Zayif uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 2 Zayıf uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="malkuthboss_whitesnow_far2">
-    <Desc>[Vurdugunda] Sonraki Sahne 3 Zayif uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 3 Zayıf uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="weak1pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 1 Zayif uygular</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 1 Zayıf uygular</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="recoverHp1atk">
-    <Desc>[Vurdugunda] 1 Can yeniler</Desc>
+    <Desc>[Vurduğunda] 1 Can yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="recoverHp2atk">
-    <Desc>[Vurdugunda] 2 Can yeniler</Desc>
+    <Desc>[Vurduğunda] 2 Can yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="recoverHp3atk">
-    <Desc>[Vurdugunda] 3 Can yeniler</Desc>
+    <Desc>[Vurduğunda] 3 Can yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="recoverHp4atk">
-    <Desc>[Vurdugunda] 4 Can yeniler</Desc>
+    <Desc>[Vurduğunda] 4 Can yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="recoverHp6atk">
-    <Desc>[Vurdugunda] 6 Can yeniler</Desc>
+    <Desc>[Vurduğunda] 6 Can yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="recoverHp1">
-    <Desc>[Kullanildiginda] 1 Can yeniler</Desc>
+    <Desc>[Kullanıldığında] 1 Can yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="recoverHp2dfn">
-    <Desc>[Kullanildiginda] 2 Can yeniler</Desc>
+    <Desc>[Kullanıldığında] 2 Can yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="disarm1atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Silahsizlanma uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Silahsızlanma uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="disarm2atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 2 Silahsizlanma uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 2 Silahsızlanma uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="disarm3atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 3 Silahsizlanma uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 3 Silahsızlanma uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="malkuthboss_whitesnow_far3">
-    <Desc>[Vurdugunda] Sonraki Sahne 3 Silahsizlanma uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 3 Silahsızlanma uygular</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="binding1atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Baglama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Bağlama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="binding2atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 2 Baglama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 2 Bağlama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="binding3atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 3 Baglama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 3 Bağlama uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="paralysis1atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Felç uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Felç uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="paralysis2atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 2 Felç uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 2 Felç uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="paralysis3atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 3 Felç uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 3 Felç uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="paralysis4atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 4 Felç uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 4 Felç uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="final_queenbee_paralyze">
-    <Desc>[Vurdugunda] Sonraki Sahne 4 Felç uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 4 Felç uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="paralysis1pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 1 Felç uygular</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 1 Felç uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="paralysis2pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 2 Felç uygular</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 2 Felç uygular</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="quickness1">
-    <Desc>[Kullanildiginda] Sonraki Sahne 1 Hiz kazanir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne 1 Hız kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="quickness2">
-    <Desc>[Kullanildiginda] Sonraki Sahne 1 Hiz kazanir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne 1 Hız kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="quickness1atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Hiz kazanir</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Hız kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="endurance1pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 1 Dayaniklilik kazanir</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 1 Dayanıklılık kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="endurance2pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 2 Dayaniklilik kazanir</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 2 Dayanıklılık kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="endurance2">
-    <Desc>[Kullanildiginda] Sonraki Sahne 2 Dayaniklilik kazanir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne 2 Dayanıklılık kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="protection2">
-    <Desc>[Kullanildiginda] Sonraki Sahne 2 Koruma kazanir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne 2 Koruma kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="energy1">
-    <Desc>[Kullanildiginda] 1 Isik yeniler</Desc>
+    <Desc>[Kullanıldığında] 1 Işık yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="energy2">
-    <Desc>[Kullanildiginda] 2 Isik yeniler</Desc>
+    <Desc>[Kullanıldığında] 2 Işık yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="energy4">
-    <Desc>[Kullanildiginda] 4 Isik yeniler</Desc>
+    <Desc>[Kullanıldığında] 4 Işık yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="energy1atk">
-    <Desc>[Vurdugunda] 1 Isik yeniler</Desc>
+    <Desc>[Vurduğunda] 1 Işık yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="strength1">
-    <Desc>[Kullanildiginda] Sonraki Sahne 1 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne 1 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="strength2">
-    <Desc>[Kullanildiginda] Sonraki Sahne 2 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne 2 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="strength3">
-    <Desc>[Kullanildiginda] Sonraki Sahne 3 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne 3 Güç kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="upgradeNext1pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Zarin maksimum sonucunu +3 artirir</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Zarın maksimum sonucunu +3 artırır</Desc>
   </BattleCardAbility>  
   <BattleCardAbility ID="downgradeNext1pw">
-    <Desc>[Çarpisma Kazandiginda] Rakibin Zarinin maksimum sonucunu 3 azaltir</Desc>
+    <Desc>[Çarpışma Kazandığında] Rakibin Zarının maksimum sonucunu 3 azaltır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerUpNext2pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Zara +2 Güç ekler</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Zara +2 Güç ekler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerUpNext1pl">
-    <Desc>[Çarpisma Kaybettiginde] Sonraki Zara +1 Güç ekler</Desc>
+    <Desc>[Çarpışma Kaybettiğinde] Sonraki Zara +1 Güç ekler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerUpNext2pl">
-    <Desc>[Çarpisma Kaybettiginde] Sonraki Zara +2 Güç ekler</Desc>
+    <Desc>[Çarpışma Kaybettiğinde] Sonraki Zara +2 Güç ekler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="protection1friend">
-    <Desc>[Kullanildiginda] Sonraki Sahne tüm müttefiklere 1 Koruma verir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne tüm müttefiklere 1 Koruma verir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="endurance1friend">
-    <Desc>[Kullanildiginda] Sonraki Sahne tüm müttefiklere 1 Dayaniklilik verir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne tüm müttefiklere 1 Dayanıklılık verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="endurance2friend">
-    <Desc>[Kullanildiginda] Sonraki Sahne tüm müttefiklere 2 Dayaniklilik verir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne tüm müttefiklere 2 Dayanıklılık verir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="damage2pw">
-    <Desc>[Çarpisma Kazandiginda] Rakibe 2 Hasar verir</Desc>
+    <Desc>[Çarpışma Kazandığında] Rakibe 2 Hasar verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="damage3pw">
-    <Desc>[Çarpisma Kazandiginda] Rakibe 3 Hasar verir</Desc>
+    <Desc>[Çarpışma Kazandığında] Rakibe 3 Hasar verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="damage2atk">
-    <Desc>[Vurdugunda] Hedefe 2 Hasar verir</Desc>
+    <Desc>[Vurduğunda] Hedefe 2 Hasar verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="damage3atk">
-    <Desc>[Vurdugunda] Hedefe 3 Hasar verir</Desc>
+    <Desc>[Vurduğunda] Hedefe 3 Hasar verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="damage5atk">
-    <Desc>[Vurdugunda] Hedefe 5 Hasar verir</Desc>
+    <Desc>[Vurduğunda] Hedefe 5 Hasar verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="discard_lowest">
-    <Desc>[Kullanildiginda] En düsük maliyetli Sayfayi atar</Desc>
+    <Desc>[Kullanıldığında] En düşük maliyetli Sayfayı atar</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="discardall">
-    <Desc>[Kullanildiginda] Tüm Sayfalari atar </Desc>
+    <Desc>[Kullanıldığında] Tüm Sayfaları atar </Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="drawDiscard">
-    <Desc>Bu Sayfayi attiginda bir Sayfa çeker</Desc>
+    <Desc>Bu Sayfayı attığında bir Sayfa çeker</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="power_2">
-    <Desc>[Kullanildiginda] Bu Sayfanin tüm Zarlari 2 Güç kaybeder</Desc>
+    <Desc>[Kullanıldığında] Bu Sayfanın tüm Zarları 2 Güç kaybeder</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="energy1paralysis1">
-    <Desc>[Kullanildiginda] 1 Isik yeniler; sonraki Sahne kendine 1 Felç uygular</Desc>
+    <Desc>[Kullanıldığında] 1 Işık yeniler; sonraki Sahne kendine 1 Felç uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="discardAndEnergy">
-    <Desc>[Kullanildiginda] En düsük maliyetli Sayfayi atar ve 2 Isik yeniler</Desc>
+    <Desc>[Kullanıldığında] En düşük maliyetli Sayfayı atar ve 2 Işık yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="pierre">
-    <Desc>[Vurdugunda] Hedefin Kanama miktarina esit Can yeniler</Desc>
+    <Desc>[Vurduğunda] Hedefin Kanama miktarına eşit Can yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="ruru1">
-    <Desc>[Vurdugunda] 2 Yanik uygular, kendine 3 Hasar verir</Desc>
+    <Desc>[Vurduğunda] 2 Yanık uygular, kendine 3 Hasar verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="ruru2">
-    <Desc>[Vurdugunda] 3 Yanik uygular, kendine 3 Hasar verir</Desc>
+    <Desc>[Vurduğunda] 3 Yanık uygular, kendine 3 Hasar verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="gyeongmi">
-    <Desc>[Kullanildiginda] Bu Sayfanin tüm Zarlarini kaldirir ve elindeki rastgele bir Sayfanin Zarini kopyalar</Desc>
+    <Desc>[Kullanıldığında] Bu Sayfanın tüm Zarlarını kaldırır ve elindeki rastgele bir Sayfanın Zarını kopyalar</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="pinocchio">
-    <Desc>[Çarpisma Basladiginda] Bu Sayfanin tüm Zarlarini kaldirir ve Rakibin Sayfasindaki Zari kopyalar</Desc>
+    <Desc>[Çarpışma Başladığında] Bu Sayfanın tüm Zarlarını kaldırır ve Rakibin Sayfasındaki Zarı kopyalar</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="energy1pw">
-    <Desc>[Çarpisma Kazandiginda] 1 Isik yeniler</Desc>
+    <Desc>[Çarpışma Kazandığında] 1 Işık yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="carnival">
-    <Desc>Herkesin eline "Büyüleyici Kumas" ekler</Desc>
+    <Desc>Herkesin eline "Büyüleyici Kumaş" ekler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerPerHand">
-    <Desc>Eldeki her Sayfa için 1 Güç kazanir</Desc>
+    <Desc>Eldeki her Sayfa için 1 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="limit3">
-    <Desc>Ayni anda bu Sayfadan yalnizca 3 tane bulunabilir</Desc>
+    <Desc>Aynı anda bu Sayfadan yalnızca 3 tane bulunabilir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="break2atk">
-    <Desc>[Vurdugunda] Hedefe 2 Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] Hedefe 2 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="break3atk">
-    <Desc>[Vurdugunda] Hedefe 3 Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] Hedefe 3 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="break5atk">
-    <Desc>[Vurdugunda] Hedefe 5 Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] Hedefe 5 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="otherAlly2protection2">
-    <Desc>[Kullanildiginda] Sonraki Sahne rastgele iki müttefike 2 Koruma verir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne rastgele iki müttefike 2 Koruma verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="gainNegative1">
-    <Desc>[Kullanildiginda] 1 Negatif Duygu Puani kazanir</Desc>
+    <Desc>[Kullanıldığında] 1 Negatif Duygu Puanı kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerDownNext2pwTarget">
-    <Desc>[Çarpisma Kazandiginda] Rakibin sonraki Zarinin Gücünü 2 azaltir</Desc>
+    <Desc>[Çarpışma Kazandığında] Rakibin sonraki Zarının Gücünü 2 azaltır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="powerDown1target">
-    <Desc>Rakibin mevcut Zarinin Gücünü 1 azaltir</Desc>
+    <Desc>Rakibin mevcut Zarının Gücünü 1 azaltır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="drawCard">
-    <Desc>[Kullanildiginda] 1 Sayfa çeker</Desc>
+    <Desc>[Kullanıldığında] 1 Sayfa çeker</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="drawCard2">
-    <Desc>[Kullanildiginda] 2 Sayfa çeker</Desc>
+    <Desc>[Kullanıldığında] 2 Sayfa çeker</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="drawCard1atk">
-    <Desc>[Vurdugunda] 1 Sayfa çeker</Desc>
+    <Desc>[Vurduğunda] 1 Sayfa çeker</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="drawCard1pw">
-    <Desc>[Çarpisma Kazandiginda] 1 Sayfa çeker</Desc>
+    <Desc>[Çarpışma Kazandığında] 1 Sayfa çeker</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="drawCard2pw">
-    <Desc>[[Çarpisma Kazandiginda] 2 Sayfa çeker</Desc>
+    <Desc>[[Çarpışma Kazandığında] 2 Sayfa çeker</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="costDown1self">
-    <Desc>[Kullanildiginda] Bu Sayfanin Maliyetini 1 düsürür (En fazla 2 kez)</Desc>
+    <Desc>[Kullanıldığında] Bu Sayfanın Maliyetini 1 düşürür (En fazla 2 kez)</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="cardPowerDown1target">
-    <Desc>[Çarpisma Basladiginda] Rakibin tüm Zarlarinin Gücünü 1 azaltir</Desc>
+    <Desc>[Çarpışma Başladığında] Rakibin tüm Zarlarının Gücünü 1 azaltır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="powerUp1targetParalysis">
@@ -345,167 +345,167 @@
   </BattleCardAbility>
 
   <BattleCardAbility ID="tomerry1">
-    <Desc>[Kullanildiginda] Can %25 veya altindaysa, bu Sayfanin tüm Zarlari +2 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Can %25 veya altındaysa, bu Sayfanın tüm Zarları +2 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="tomerry2">
-    <Desc>[Kullanildiginda] Kendine 7 Hasar verir; bu Sayfanin tüm Zarlari +2 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Kendine 7 Hasar verir; bu Sayfanın tüm Zarları +2 Güç kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="tomerryReady">
-    <Desc>[Kullanildiginda] Sonraki Sahne 5 Güç kazanir; Sonraki Sahne güçlü bir saldiri kullanir; hazirlanirken ekstra Sersemletme Hasari alir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne 5 Güç kazanır; Sonraki Sahne güçlü bir saldırı kullanır; hazırlanırken ekstra Sersemletme Hasarı alır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="lovetownPower">
-    <Desc>Saldiri yalniz-tarafli ise +10 Güç ekler</Desc>
+    <Desc>Saldırı yalnız-taraflı ise +10 Güç ekler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="lovetownNextPower">
-    <Desc>[Çarpisma Kaybettiginde] Sonraki Zara +6 Güç ekler</Desc>
+    <Desc>[Çarpışma Kaybettiğinde] Sonraki Zara +6 Güç ekler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="tomerryBuf">
-    <Desc>[Vurdugunda] Sonraki Sahne tüm müttefiklere 3 Güç verir</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne tüm müttefiklere 3 Güç verir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="slashUp2thisRound">
-    <Desc>[Çarpisma Baslangici] Bu Sahne için Kesme Zarlarinin Gücünü 2+ artirir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Bu Sahne için Kesme Zarlarının Gücünü 2+ artırır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="protection3start">
-    <Desc>[Çarpisma Baslangici] 3 Koruma kazanir</Desc>
+    <Desc>[Çarpışma Başlangıcı] 3 Koruma kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="bleedingSlash1thisRound">
-    <Desc>[Çarpisma Baslangici] Basarili bir Kesme Hasari verdiginde sonraki Sahne 1 Kanama uygular</Desc>
+    <Desc>[Çarpışma Başlangıcı] Başarılı bir Kesme Hasarı verdiğinde sonraki Sahne 1 Kanama uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="protection3">
-    <Desc>[Kullanildiginda] Sonraki Sahne 3 Koruma kazanir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne 3 Koruma kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="enemy1weak1thisRound">
-    <Desc>[Çarpisma Baslangici] Rastgele bir düsmana 1 Zayif uygular</Desc>
+    <Desc>[Çarpışma Başlangıcı] Rastgele bir düşmana 1 Zayıf uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="enemy2weak1thisRound">
-    <Desc>[Çarpisma Baslangici] Rastgele iki düsmana 1 Zayif uygular</Desc>
+    <Desc>[Çarpışma Başlangıcı] Rastgele iki düşmana 1 Zayıf uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="ally1strength1thisRound">
-    <Desc>[Çarpisma Baslangici] Rastgele bir müttefike 1 Güç verir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Rastgele bir müttefike 1 Güç verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="ally2strength1thisRound">
-    <Desc>[Çarpisma Baslangici] Rastgele iki müttefike 1 Güç verir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Rastgele iki müttefike 1 Güç verir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="ally2strength1atk">
-    <Desc>[Vurdugunda] Sonraki Sahne rastgele iki müttefike 1 Güç verir</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne rastgele iki müttefike 1 Güç verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="ally2recover3atk">
-    <Desc>[Vurdugunda] Rastgele iki müttefikin 3 Canini yeniler</Desc>
+    <Desc>[Vurduğunda] Rastgele iki müttefikin 3 Canını yeniler</Desc>
   </BattleCardAbility>
 
 
   <BattleCardAbility ID="powerUp2speed6">
-    <Desc>[Kullanildiginda] Hiz 6 veya üzerindeyse, bu Sayfanin tüm Zarlari 2+ Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Hız 6 veya üzerindeyse, bu Sayfanın tüm Zarları 2+ Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerUp2speed7">
-    <Desc>[Kullanildiginda] Hiz 7 veya üzerindeyse, bu Sayfanin tüm Zarlari 2+ Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Hız 7 veya üzerindeyse, bu Sayfanın tüm Zarları 2+ Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerUp1Hp">
-    <Desc>[Kullanildiginda] Can %25 veya altindaysa, bu Sayfanin tüm Zarlari 1+ Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Can %25 veya altındaysa, bu Sayfanın tüm Zarları 1+ Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerUp2Hp">
-    <Desc>[Kullanildiginda] Can %25 veya altindaysa, bu Sayfanin tüm Zarlari 2+ Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Can %25 veya altındaysa, bu Sayfanın tüm Zarları 2+ Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="clashPowerUp">
-    <Desc>[Çarpisma Basladiginda] Kendine 5 Hasar verir, bu Sayfanin tüm Zarlari +2 Güç kazanir</Desc>
+    <Desc>[Çarpışma Başladığında] Kendine 5 Hasar verir, bu Sayfanın tüm Zarları +2 Güç kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="yujin">
-    <Desc>Zarin dogal sonucu maksimumsa ve 4 veya üzerindeyse, +45 Güç ekler</Desc>
+    <Desc>Zarın doğal sonucu maksimumsa ve 4 veya üzerindeyse, +45 Güç ekler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="energy1hp">
-    <Desc>[Kullanildiginda] Can %50 veya altindaysa, 1 Isik yeniler</Desc>
+    <Desc>[Kullanıldığında] Can %50 veya altındaysa, 1 Işık yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="energy1atkAndHp">
-    <Desc>[Vurdugunda] Can %25 veya altindaysa, 1 Isik yeniler</Desc>
+    <Desc>[Vurduğunda] Can %25 veya altındaysa, 1 Işık yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="onlypage">
     <Desc>[Özel Sayfa]</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="powerDown2targetDfn">
-    <Desc>Rakibin Savunma Zarlarinin Gücünü 2 azaltir</Desc>
+    <Desc>Rakibin Savunma Zarlarının Gücünü 2 azaltır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerDown3targetDfn">
-    <Desc>Rakibin Savunma Zarlarinin Gücünü 3 azaltir</Desc>
+    <Desc>Rakibin Savunma Zarlarının Gücünü 3 azaltır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="weakDisarmBinding1atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Zayif, Silahsizlanma ve Baglama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Zayıf, Silahsızlanma ve Bağlama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="weakDisarmBinding2atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 2 Zayif, Silahsizlanma ve Baglama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 2 Zayıf, Silahsızlanma ve Bağlama uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="energy1atkMostHp">
-    <Desc>[Vurdugunda] Maksimum Cana sahip tüm müttefiklerin 1 Isigini yeniler </Desc>
+    <Desc>[Vurduğunda] Maksimum Cana sahip tüm müttefiklerin 1 Işığını yeniler </Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="strength1atkMostHp">
-    <Desc>[Vurdugunda] Sonraki Sahne en yüksek Cana sahip müttefike 1 Güç verir</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne en yüksek Cana sahip müttefike 1 Güç verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="protection2atkMostHp">
-    <Desc>[Vurdugunda] Sonraki Sahne en yüksek Cana sahip müttefike 2 Koruma verir</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne en yüksek Cana sahip müttefike 2 Koruma verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="recoverBreak3atk">
-    <Desc>[Vurdugunda] 3 Sersemletme Direnci yeniler</Desc>
+    <Desc>[Vurduğunda] 3 Sersemletme Direnci yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="recoverBreak5atk">
-    <Desc>[Vurdugunda] 5 Sersemletme Direnci yeniler</Desc>
+    <Desc>[Vurduğunda] 5 Sersemletme Direnci yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="strength1atkAllFriend">
-    <Desc>[Vurdugunda] Sonraki Sahne tüm müttefiklere 1 Güç verir</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne tüm müttefiklere 1 Güç verir</Desc>
   </BattleCardAbility>
   
 
   <BattleCardAbility ID="burningGirl">
-    <Desc>[Kullanildiginda] 1 Kor kazanir</Desc>
+    <Desc>[Kullanıldığında] 1 Kor kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="match">
-    <Desc>[Vurdugunda] 1 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 1 Yanık uygular</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="sweeperUnique">
-    <Desc>[Kullanildiginda] 4 Sahne için "Azim" kazanir</Desc>
+    <Desc>[Kullanıldığında] 4 Sahne için "Azim" kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="sweeperOnly">
-    <Desc>[Kullanildiginda] Bu Sayfanin tüm saldiri Zarlari "[Vurdugunda] 2 Can yeniler" kazanir</Desc>
+    <Desc>[Kullanıldığında] Bu Sayfanın tüm saldırı Zarları "[Vurduğunda] 2 Can yeniler" kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="sweeperOnlyDice">
-    <Desc>[Vurdugunda] Zarin dogal sonucu 3 ise, bu Zari tekrar kullanir (En fazla 6 kez)</Desc>
+    <Desc>[Vurduğunda] Zarın doğal sonucu 3 ise, bu Zarı tekrar kullanır (En fazla 6 kez)</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="ally2protection1thisRound">
-    <Desc>[Çarpisma Baslangici] Rastgele iki müttefike 1 Koruma verir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Rastgele iki müttefike 1 Koruma verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerDown2thisRound">
-    <Desc>[Çarpisma Baslangici] Kullanicinin bu Tur kullandigi tüm Zarlar bu Sahne 2 Güç kaybeder</Desc>
+    <Desc>[Çarpışma Başlangıcı] Kullanıcının bu Tur kullandığı tüm Zarlar bu Sahne 2 Güç kaybeder</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="powerUp1highlander">
-    <Desc>[Kullanildiginda] Essiz ise, bu Sayfanin tüm Zarlari 1+ Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Eşsiz ise, bu Sayfanın tüm Zarları 1+ Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="drawCard3highlander">
-    <Desc>[Kullanildiginda] Essiz ise, 3 Sayfa çeker</Desc>
+    <Desc>[Kullanıldığında] Eşsiz ise, 3 Sayfa çeker</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerUp2fullCard">
-    <Desc>[Kullanildiginda] Elde 7 veya daha fazla Sayfa varsa, bu Sayfanin tüm Zarlari +2 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Elde 7 veya daha fazla Sayfa varsa, bu Sayfanın tüm Zarları +2 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerDown3thisRound">
-    <Desc>[Çarpisma Baslangici] Kullanicinin bu Tur kullandigi tüm Zarlar bu Sahne 3 Güç kaybeder</Desc>
+    <Desc>[Çarpışma Başlangıcı] Kullanıcının bu Tur kullandığı tüm Zarlar bu Sahne 3 Güç kaybeder</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="powerUpDice4highlander">
-    <Desc>Essiz ise, +4 Güç ekler</Desc>
+    <Desc>Eşsiz ise, +4 Güç ekler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="fairy_ego">
-    <Desc>[Vurdugunda] 3 Can yeniler, Zarin minimum sonucu atilana kadar bu Zari tekrar kullanir (En fazla 5 kez)</Desc>
+    <Desc>[Vurduğunda] 3 Can yeniler, Zarın minimum sonucu atılana kadar bu Zarı tekrar kullanır (En fazla 5 kez)</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="schorchedArea">
@@ -513,172 +513,172 @@
   <BattleCardAbility ID="snowwhiteArea">
   </BattleCardAbility>
   <BattleCardAbility ID="schorchedAreaDice">
-    <Desc>[Vurdugunda] 5 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 5 Yanık uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="snowwhiteAreaDice">
   </BattleCardAbility>
 
   <BattleCardAbility ID="teddyEgo">
-    <Desc>[Çarpisma Kazandiginda] Rakibin tüm Zarlarini yok eder</Desc>
+    <Desc>[Çarpışma Kazandığında] Rakibin tüm Zarlarını yok eder</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="warpSkill">
-    <Desc>[Özel Sayfa], [Kullanildiginda] Tüm Yükü harcar, % (Yük*9,9) olasilikla basarili olur</Desc>
-    <Desc>[Basarili] Bu Sayfanin tüm Zarlari 8+ Güç kazanir;
-[Basarisiz] Kendine 20 Hasar verir</Desc>
+    <Desc>[Özel Sayfa], [Kullanıldığında] Tüm Yükü harcar, % (Yük*9,9) olasılıkla başarılı olur</Desc>
+    <Desc>[Başarılı] Bu Sayfanın tüm Zarları 8+ Güç kazanır;
+[Başarısız] Kendine 20 Hasar verir</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="warpSkillDice">
-    <Desc>Tek seferde 10 Yük harcanmissa, 2+ Güç ekler</Desc>
+    <Desc>Tek seferde 10 Yük harcanmışsa, 2+ Güç ekler</Desc>
   </BattleCardAbility>
 
-  <BattleCardAbility ID="power3costCharge"> <Desc>[Kullanildiginda] Bu Sayfanin tüm Zarlarinin Gücünü +3 artirmak için 3 Yük harcar</Desc>
+  <BattleCardAbility ID="power3costCharge"> <Desc>[Kullanıldığında] Bu Sayfanın tüm Zarlarının Gücünü +3 artırmak için 3 Yük harcar</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="warpOvercharge">
-    <Desc>[Kullanildiginda] 10 Yük kazanir ve sonraki Sahne **Hareketsiz** olur</Desc>
+    <Desc>[Kullanıldığında] 10 Yük kazanır ve sonraki Sahne **Hareketsiz** olur</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="warpCharge3">
-    <Desc>[Kullanildiginda] 3 Yük kazanir</Desc>
+    <Desc>[Kullanıldığında] 3 Yük kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="warpCharge4">
-    <Desc>[Kullanildiginda] 4 Yük kazanir</Desc>
+    <Desc>[Kullanıldığında] 4 Yük kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="warpCharge5">
-    <Desc>[Kullanildiginda] 5 Yük kazanir</Desc>
+    <Desc>[Kullanıldığında] 5 Yük kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="warpCharge6">
-    <Desc>[Kullanildiginda] 6 Yük kazanir</Desc>
+    <Desc>[Kullanıldığında] 6 Yük kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="warpCharge2energy1">
-    <Desc>[Kullanildiginda] 2 Yük kazanir ve 1 Isik yeniler</Desc>
+    <Desc>[Kullanıldığında] 2 Yük kazanır ve 1 Işık yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="drawCardWarp">
-    <Desc>[Kullanildiginda] Sonraki Sahne 1 Hiz kazanir; 3 Yük harcar ve 2 Sayfa çeker</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne 1 Hız kazanır; 3 Yük harcar ve 2 Sayfa çeker</Desc>
   </BattleCardAbility>
 
 
   <BattleCardAbility ID="smoke1atk">
-    <Desc>[Vurdugunda] 1 Duman uygular</Desc>
+    <Desc>[Vurduğunda] 1 Duman uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="smoke2atk">
-    <Desc>[Vurdugunda] 2 Duman uygular</Desc>
+    <Desc>[Vurduğunda] 2 Duman uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="smoke3atk">
-    <Desc>[Vurdugunda] 3 Duman uygular</Desc>
+    <Desc>[Vurduğunda] 3 Duman uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="smoke4atk">
-    <Desc>[Vurdugunda] 4 Duman uygular</Desc>
+    <Desc>[Vurduğunda] 4 Duman uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="smoke5atk">
-    <Desc>[Vurdugunda] 5 Duman uygular</Desc>
+    <Desc>[Vurduğunda] 5 Duman uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="smoke7atk">
-    <Desc>[Vurdugunda] 7 Duman uygular</Desc>
+    <Desc>[Vurduğunda] 7 Duman uygular</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="smokeSelf4atk">
-    <Desc>[Vurdugunda] 4 Duman kazanir</Desc>
+    <Desc>[Vurduğunda] 4 Duman kazanır</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="smokeSelf2">
-    <Desc>[Kullanildiginda] 2 Duman kazanir</Desc>
+    <Desc>[Kullanıldığında] 2 Duman kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="smokeSelf3">
-    <Desc>[Kullanildiginda] 3 Duman kazanir</Desc>
+    <Desc>[Kullanıldığında] 3 Duman kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="smokeSelf4">
-    <Desc>[Kullanildiginda] 4 Duman kazanir</Desc>
+    <Desc>[Kullanıldığında] 4 Duman kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="smokeSelf7">
-    <Desc>[Kullanildiginda] 7 Duman kazanir</Desc>
+    <Desc>[Kullanıldığında] 7 Duman kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="energySmoke">
-    <Desc>[Kullanildiginda] 2 Duman kazanir. 1 Isik yeniler</Desc>
+    <Desc>[Kullanıldığında] 2 Duman kazanır. 1 Işık yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="energySmoke2">
-    <Desc>[Kullanildiginda] 2 Duman kazanir. 2 Isik yeniler</Desc>
+    <Desc>[Kullanıldığında] 2 Duman kazanır. 2 Işık yeniler</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="powerUp2smoke">
-    <Desc>[Kullanildiginda] Bu Sayfanin tüm Zarlarinin Gücünü +2 artirmak için 2 Duman kullanir</Desc>
+    <Desc>[Kullanıldığında] Bu Sayfanın tüm Zarlarının Gücünü +2 artırmak için 2 Duman kullanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="bleedingXsmoke">
-    <Desc>[Vurdugunda] Hedefteki her 2 Duman için sonraki Sahne 1 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Hedefteki her 2 Duman için sonraki Sahne 1 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="bleeding3smoke">
-    <Desc>[Vurdugunda] 3 Kanama uygulamak için 2 Duman kullanir</Desc>
+    <Desc>[Vurduğunda] 3 Kanama uygulamak için 2 Duman kullanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="debufsSmoke">
-    <Desc>[Vurdugunda] Hedef 7+ Duman'a sahipse, 2 Felç ve 1 Zayif uygular</Desc>
+    <Desc>[Vurduğunda] Hedef 7+ Duman'a sahipse, 2 Felç ve 1 Zayıf uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="debufsSmokeRemake">
-    <Desc>[Vurdugunda] Hedef 4+ Duman'a sahipse, 2 Felç ve 1 Zayif uygular</Desc>
+    <Desc>[Vurduğunda] Hedef 4+ Duman'a sahipse, 2 Felç ve 1 Zayıf uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="drawSmoke">
-    <Desc>[Vurdugunda] Hedef 3+ Duman'a sahipse, 2 Sayfa çeker</Desc>
+    <Desc>[Vurduğunda] Hedef 3+ Duman'a sahipse, 2 Sayfa çeker</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="smokeOnly1">
-    <Desc>[Kullanildiginda] 1 Sayfa çeker</Desc>
+    <Desc>[Kullanıldığında] 1 Sayfa çeker</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="smokeOnly2">
-    <Desc>[Kullanildiginda] 2 Duman kazanir</Desc>
+    <Desc>[Kullanıldığında] 2 Duman kazanır</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="freischutz">
-    <Desc>Diger tüm karakterleri hedefler</Desc>
+    <Desc>Diğer tüm karakterleri hedefler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="butterfly_brkdmg">
-    <Desc>[Vurdugunda] Hedefe 5 Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] Hedefe 5 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="weak5atk">
-    <Desc>[Vurdugunda] 5 Zayif uygular</Desc>
+    <Desc>[Vurduğunda] 5 Zayıf uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="disarm5atk">
-    <Desc>[Vurdugunda] 5 Silahsizlanma uygular</Desc>
+    <Desc>[Vurduğunda] 5 Silahsızlanma uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="binding5atk">
-    <Desc>[Vurdugunda] 5 Baglama uygular</Desc>
+    <Desc>[Vurduğunda] 5 Bağlama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="yesod_final_butterfly_ego_brk">
-    <Desc>[Vurdugunda] Hedefe 3 Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] Hedefe 3 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="yesod_final_butterfly_ego_dmg">
-    <Desc>[Vurdugunda] Hedefe 3 Hasar verir</Desc>
+    <Desc>[Vurduğunda] Hedefe 3 Hasar verir</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="murderDice1">
-    <Desc>[Vurdugunda] Hedefin mevcut Sersemletme Direncinin %10'una esit Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] Hedefin mevcut Sersemletme Direncinin %10'una eşit Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="murderDice2">
-    <Desc>[Vurdugunda] Hedefin mevcut Sersemletme Direncinin %50'sine esit Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] Hedefin mevcut Sersemletme Direncinin %50'sine eşit Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="helperEgo">
   </BattleCardAbility>
   <BattleCardAbility ID="helperDice">
-    <Desc>[Vurdugunda] Sonraki Sahne 2 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 2 Kanama uygular</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="singingMachineEgo">
-    <Desc>Her basarili vurusta, rastgele bir müttefik 3 Sersemletme Hasari alir ve sonraki Sahne 1 Güç kazanir</Desc>
-    <Desc>Bir düsmani yendiginde, tüm müttefikler 2 Güç kazanir</Desc>
+    <Desc>Her başarılı vuruşta, rastgele bir müttefik 3 Sersemletme Hasarı alır ve sonraki Sahne 1 Güç kazanır</Desc>
+    <Desc>Bir düşmanı yendiğinde, tüm müttefikler 2 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="singingMachineDice">
-    <Desc>[Vurdugunda] En düsük sonucu atana kadar bu Zari tekrar kullanir (En fazla 2 kez)</Desc>
+    <Desc>[Vurduğunda] En düşük sonucu atana kadar bu Zarı tekrar kullanır (En fazla 2 kez)</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="buterflyEgo">
-    <Desc>Bu Sayfadaki her Zar 8 kez atilir</Desc>
+    <Desc>Bu Sayfadaki her Zar 8 kez atılır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="buterflyDice">
-    <Desc>[Vurdugunda] Hedefe 3 Hasar veya 3 Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] Hedefe 3 Hasar veya 3 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
 
   
@@ -687,70 +687,70 @@
   </BattleCardAbility>
 
   <BattleCardAbility ID="philipEgo">
-    <Desc>Yalnizca 3 veya üzeri Duygu Seviyesi ile kullanilabilir</Desc>
+    <Desc>Yalnızca 3 veya üzeri Duygu Seviyesi ile kullanılabilir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="cryingChildPenalty">
-    <Desc>[Çarpisma Kaybettiginde] Tüm müttefiklerin tüm dirençleri "Ölümcül" olarak degisir</Desc>
+    <Desc>[Çarpışma Kaybettiğinde] Tüm müttefiklerin tüm dirençleri "Ölümcül" olarak değişir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="cryingChildArea">
-    <Desc>Kullanici Sahne bittiginde Sersemlemis olur</Desc>
+    <Desc>Kullanıcı Sahne bittiğinde Sersemlemiş olur</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="cryingChildAreaDice">
   </BattleCardAbility>
   
   <BattleCardAbility ID="liuUnique">
-    <Desc>[Kullanildiginda] Her 2 Duygu Seviyesi için +1 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Her 2 Duygu Seviyesi için +1 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="costDown1emotion3">
     <Desc>3 veya üzeri Duygu Seviyesi ile 1 daha az maliyetlidir </Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="dmgUp1thisRound">
-    <Desc>[Çarpisma Baslangici] Saldiri Zarlari bu Sahne +1 Hasar verir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Saldırı Zarları bu Sahne +1 Hasar verir</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="gainEmotion1pw">
-    <Desc>[Çarpisma Kazandiginda] 1 Duygu Puani kazanir</Desc>
+    <Desc>[Çarpışma Kazandığında] 1 Duygu Puanı kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="gainPositive1">
-    <Desc>[Kullanildiginda] 1 Pozitif Duygu Puani kazanir</Desc>
+    <Desc>[Kullanıldığında] 1 Pozitif Duygu Puanı kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="endurance1emotion">
-    <Desc>[Kullanildiginda] Sonraki Sahne 1 Dayaniklilik kazanir. 3 veya üzeri Duygu Seviyesi ile bunun yerine 2 Dayaniklilik kazanir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne 1 Dayanıklılık kazanır. 3 veya üzeri Duygu Seviyesi ile bunun yerine 2 Dayanıklılık kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="lowelonly">
-    <Desc>[Kullanildiginda] Bu Sayfanin tüm Zarlarini kaldirir. Yalnizca sonraki Sahne kullanilabilecek bir **Alan Saldirisi** Sayfasi ekler.</Desc>
+    <Desc>[Kullanıldığında] Bu Sayfanın tüm Zarlarını kaldırır. Yalnızca sonraki Sahne kullanılabilecek bir **Alan Saldırısı** Sayfası ekler.</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="lowelCreated">
-    <Desc>Yalnizca bu Sahne kullanilabilir</Desc>
+    <Desc>Yalnızca bu Sahne kullanılabilir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="lowelDice">
-    <Desc>[Vurdugunda] 3 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 3 Yanık uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="liuBurnDice">
-    <Desc>[Vurdugunda] 1 + (Kisisel Duygu Seviyesi) Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 1 + (Kişisel Duygu Seviyesi) Yanık uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="shyLookEgoDice">
-    <Desc>Sersemlemis hedeflere karsi 10+ Hasar verir</Desc>
+    <Desc>Sersemlemiş hedeflere karşı 10+ Hasar verir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="redshoesEgoDice2">
-    <Desc>Hedefteki Kanama miktarinin iki katina esit Güç kazanir</Desc>
+    <Desc>Hedefteki Kanama miktarının iki katına eşit Güç kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="spiderBudEgoDice">
-    <Desc>[Vurdugunda] Sonraki Sahne 3 Baglama, Zayif ve Silahsizlanma uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 3 Bağlama, Zayıf ve Silahsızlanma uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="latitiaAreaEgo">
   </BattleCardAbility>
 
   <BattleCardAbility ID="latitiaEgoDice">
-    <Desc>[Vurdugunda] Hedefin eline "Küçük Hediye" Sayfasinin bir kopyasini ekler</Desc>
+    <Desc>[Vurduğunda] Hedefin eline "Küçük Hediye" Sayfasının bir kopyasını ekler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="blackSwanAreaEgo">
@@ -759,750 +759,750 @@
   <BattleCardAbility ID="blackSwanEgoDice1">
   </BattleCardAbility>
   <BattleCardAbility ID="blackSwanEgoDice2">
-    <Desc>[Vurdugunda] Hedef sonraki Sahne 3 Isik kaybeder</Desc>
+    <Desc>[Vurduğunda] Hedef sonraki Sahne 3 Işık kaybeder</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="AddBullet1">
-    <Desc>[Kullanildiginda] Ele rastgele 1 Mühimmat ekler</Desc>
+    <Desc>[Kullanıldığında] Ele rastgele 1 Mühimmat ekler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="AddBullet2">
-    <Desc>[Kullanildiginda] Ele rastgele 2 Mühimmat ekler</Desc>
+    <Desc>[Kullanıldığında] Ele rastgele 2 Mühimmat ekler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="discard1">
-    <Desc>[Kullanildiginda] En düsük maliyetli Sayfayi atar.</Desc>
-    <Desc>Bir Mühimmat atilirsa, bu Sayfadaki tüm Saldiri Zarlari 1+ Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] En düşük maliyetli Sayfayı atar.</Desc>
+    <Desc>Bir Mühimmat atılırsa, bu Sayfadaki tüm Saldırı Zarları 1+ Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="discard2draw1">
-    <Desc>[Kullanildiginda] Eldeki en düsük maliyetli 2 Sayfayi atar ve bir Sayfa çeker.</Desc>
-    <Desc>Atilan her Mühimmat için +1 Güç kazanir</Desc>     
+    <Desc>[Kullanıldığında] Eldeki en düşük maliyetli 2 Sayfayı atar ve bir Sayfa çeker.</Desc>
+    <Desc>Atılan her Mühimmat için +1 Güç kazanır</Desc>     
   </BattleCardAbility>
 
   <BattleCardAbility ID="negatePower">
-    <Desc>Bu Sayfadaki ve karsilastigi Sayfadaki Zarlar kazanilan veya kaybedilen Güçten etkilenmez</Desc>
+    <Desc>Bu Sayfadaki ve karşılaştığı Sayfadaki Zarlar kazanılan veya kaybedilen Güçten etkilenmez</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="dmgUpFriend3">
-    <Desc>[Kullanildiginda] Sonraki Sahne tüm müttefiklerin Saldiri Zarlari +2 Hasar verir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne tüm müttefiklerin Saldırı Zarları +2 Hasar verir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="thumbBullet1">
-    <Desc>Kullanildiginda veya atildiginda Tüketilir; [Tüketildiginde] Kullanicinin Menzilli Sayfalarina karsi gelen Zarlar bu Sahne 1 Güç kaybeder</Desc>
+    <Desc>Kullanıldığında veya atıldığında Tüketilir; [Tüketildiğinde] Kullanıcının Menzilli Sayfalarına karşı gelen Zarlar bu Sahne 1 Güç kaybeder</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="thumbBullet2">
-    <Desc>Kullanildiginda veya atildiginda Tüketilir; [Tüketildiginde] Menzilli Sayfalarla vurdugunda sonraki Sahne 1 Felç ve Silahsizlanma uygular</Desc>
+    <Desc>Kullanıldığında veya atıldığında Tüketilir; [Tüketildiğinde] Menzilli Sayfalarla vurduğunda sonraki Sahne 1 Felç ve Silahsızlanma uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="thumbBullet3">
-    <Desc>Kullanildiginda veya atildiginda Tüketilir; [Tüketildiginde] Bu Sahne Menzilli Sayfalarla vurdugunda 2 Yanik uygular</Desc>
+    <Desc>Kullanıldığında veya atıldığında Tüketilir; [Tüketildiğinde] Bu Sahne Menzilli Sayfalarla vurduğunda 2 Yanık uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="repeat3">
-    <Desc>Bu Zar 3 kez atilir</Desc>
+    <Desc>Bu Zar 3 kez atılır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="repeat4">
-    <Desc>Bu Zar 4 kez atilir</Desc>
+    <Desc>Bu Zar 4 kez atılır</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="badaCard">
-    <Desc>[Çarpisma Basladiginda] Rakibin tüm Zarlarinin Gücünü 2 azaltmak için 3 Yük harcar</Desc>
+    <Desc>[Çarpışma Başladığında] Rakibin tüm Zarlarının Gücünü 2 azaltmak için 3 Yük harcar</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="chargeProtection">
-    <Desc>[Kullanildiginda] Bu Sahne ve sonrakinde tüm müttefiklere 1 Koruma vermek için 2 Yük harcar.</Desc>
+    <Desc>[Kullanıldığında] Bu Sahne ve sonrakinde tüm müttefiklere 1 Koruma vermek için 2 Yük harcar.</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="chargeEnergy">
-    <Desc>[Kullanildiginda] 3 Isik yenilemek için 4 Yük harcar</Desc>
+    <Desc>[Kullanıldığında] 3 Işık yenilemek için 4 Yük harcar</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="badaCardRemake">
-    <Desc>[Kullanildiginda] Bu Sayfanin tüm Zarlarinin Gücünü 2 artirmak için 4 Yük harcar</Desc>
+    <Desc>[Kullanıldığında] Bu Sayfanın tüm Zarlarının Gücünü 2 artırmak için 4 Yük harcar</Desc>
   </BattleCardAbility>
   
-  <BattleCardAbility ID="chargeDestroyDesc"> <Desc>Bu Sayfadaki Zar yetenekleri yalnizca Rakipte saldiri Zarlari varsa etkinlesir</Desc>
+  <BattleCardAbility ID="chargeDestroyDesc"> <Desc>Bu Sayfadaki Zar yetenekleri yalnızca Rakipte saldırı Zarları varsa etkinleşir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="chargeDestroy">
-    <Desc>[Çarpisma Kazandiginda] Rakibin sonraki Saldiri Zarini yok etmek için 2 Yük harcar</Desc>
+    <Desc>[Çarpışma Kazandığında] Rakibin sonraki Saldırı Zarını yok etmek için 2 Yük harcar</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="charge2pw">
-    <Desc>[Çarpisma Kazandiginda] 2 Yük kazanir</Desc>
+    <Desc>[Çarpışma Kazandığında] 2 Yük kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="charge1pl">
-    <Desc>[Çarpisma Kaybettiginde] 1 Yük kazanir</Desc>
+    <Desc>[Çarpışma Kaybettiğinde] 1 Yük kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="charge2pl">
-    <Desc>[Çarpisma Kaybettiginde] 1 Yük kazanir</Desc>
+    <Desc>[Çarpışma Kaybettiğinde] 1 Yük kazanır</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="AddBullet1AndDraw">
-    <Desc>[Kullanildiginda] Elinize rastgele bir Mühimmat ekler; 1 Sayfa çeker</Desc>
+    <Desc>[Kullanıldığında] Elinize rastgele bir Mühimmat ekler; 1 Sayfa çeker</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="smokeSelf4draw">
-    <Desc>[Kullanildiginda] 4 Duman kazanir ve 1 Sayfa çeker</Desc>
+    <Desc>[Kullanıldığında] 4 Duman kazanır ve 1 Sayfa çeker</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="smokePowerUp">
-    <Desc>[Kullanildiginda] Hedef 2 veya daha fazla Duman'a sahipse, bu Sayfadaki tüm Saldiri Zarlari +1 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Hedef 2 veya daha fazla Duman'a sahipse, bu Sayfadaki tüm Saldırı Zarları +1 Güç kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="nullifyPower">
-    <Desc>[Kullanildiginda] Sonraki Sahne Hedef Zarinin Gücü hiçbir etkiden etkilenmez</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne Hedef Zarının Gücü hiçbir etkiden etkilenmez</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="argaliaBuf">
-    <Desc>[Vurdugunda] Sonraki Sahne tüm müttefiklere 1 Güç ve Dayaniklilik verir</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne tüm müttefiklere 1 Güç ve Dayanıklılık verir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="areaText">
   </BattleCardAbility>
   <BattleCardAbility ID="cardPowerDown2target">
-    <Desc>[Çarpisma Basladiginda] Rakibin tüm Zarlarinin Gücünü 2 azaltir</Desc>
+    <Desc>[Çarpışma Başladığında] Rakibin tüm Zarlarının Gücünü 2 azaltır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="cardPowerDown4target">
-    <Desc>[Çarpisma Basladiginda] Rakibin tüm Zarlarinin Gücünü 4 azaltir</Desc>
+    <Desc>[Çarpışma Başladığında] Rakibin tüm Zarlarının Gücünü 4 azaltır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="universeDice">
-    <Desc>[Vurdugunda] Hedefe 10 Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] Hedefe 10 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="galaxyEgoDice">
-    <Desc>[Vurdugunda] Zarin dogal sonucuna esit Can yeniler</Desc>
+    <Desc>[Vurduğunda] Zarın doğal sonucuna eşit Can yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="porccubusEgoDice">
-    <Desc>Hedefin Duygu Seviyesine esit Güç kazanir</Desc>
+    <Desc>Hedefin Duygu Seviyesine eşit Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="porccubusEgoDice2">
-    <Desc>Bu Zar 3 kez atilir.
-[Vurdugunda] Sonraki Sahne 3 Kanama uygular</Desc>
+    <Desc>Bu Zar 3 kez atılır.
+[Vurduğunda] Sonraki Sahne 3 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="aliuneEgoDice">
-    <Desc>[Vurdugunda] Hedef Sersemlemis ise, 8 Hasar verir</Desc>
+    <Desc>[Vurduğunda] Hedef Sersemlemiş ise, 8 Hasar verir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="orchestraEgoDice1">
-    <Desc>[Vurdugunda] Hedef sonraki Sahne 2 Isik kaybeder</Desc>
+    <Desc>[Vurduğunda] Hedef sonraki Sahne 2 Işık kaybeder</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="orchestraEgoDice2">
-    <Desc>[Vurdugunda] Hedefin Hizi sonraki Sahne 1 olur</Desc>
+    <Desc>[Vurduğunda] Hedefin Hızı sonraki Sahne 1 olur</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="orchestraEgoDice3">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Zayif ve Silahsizlanma uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Zayıf ve Silahsızlanma uygular</Desc>
   </BattleCardAbility>
 
 
   <BattleCardAbility ID="redshoesEgo">
-    <Desc>[Çarpisma Baslangici] Düsmanlar bu Sahne Saldiri Zarlarini attiktan sonra Kanama kaybetmez</Desc>
+    <Desc>[Çarpışma Başlangıcı] Düşmanlar bu Sahne Saldırı Zarlarını attıktan sonra Kanama kaybetmez</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="breakCharge">
-    <Desc>[Vurdugunda] 5 Sersemletme Hasari vermek için 2 Yük harcar</Desc>
+    <Desc>[Vurduğunda] 5 Sersemletme Hasarı vermek için 2 Yük harcar</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="gloriaCard">
-    <Desc>Yalnizca "Kiliç Kilidi Açildi" durumundayken kullanilabilir</Desc>
+    <Desc>Yalnızca "Kılıç Kilidi Açıldı" durumundayken kullanılabilir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="estherCard">
-    <Desc>Yalnizca "Kiliç Kilidi Açildi" durumundayken kullanilabilir</Desc>
-    <Desc>Bununla karsilasan Rakibin tüm Zarlarinin Gücünü 12 azaltir</Desc>
+    <Desc>Yalnızca "Kılıç Kilidi Açıldı" durumundayken kullanılabilir</Desc>
+    <Desc>Bununla karşılaşan Rakibin tüm Zarlarının Gücünü 12 azaltır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="hubertCard">
-    <Desc>Yalnizca "Kiliç Kilidi Açildi" durumundayken kullanilabilir</Desc>
+    <Desc>Yalnızca "Kılıç Kilidi Açıldı" durumundayken kullanılabilir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="gloriaDice">
-    <Desc>[Vurdugunda] Bu Sahne 1 Zayif uygular</Desc>
+    <Desc>[Vurduğunda] Bu Sahne 1 Zayıf uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="estherDice">
-    <Desc>[Vurdugunda] Dogal atis sonucunun 7 kati kadar ek Hasar ve Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] Doğal atış sonucunun 7 katı kadar ek Hasar ve Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="hubertDice">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Zayif ve 8 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Zayıf ve 8 Kanama uygular</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="strength1friendKill">
-    <Desc>Öldürdügünde, sonraki Sahne tüm müttefiklere 1 Güç verir</Desc>
+    <Desc>Öldürdüğünde, sonraki Sahne tüm müttefiklere 1 Güç verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerUp1targetHp50">
-    <Desc>Hedefin Cani %50 veya altindaysa 1 Güç ekler</Desc>
+    <Desc>Hedefin Canı %50 veya altındaysa 1 Güç ekler</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="cardPowerDown1targetHighlander">
-    <Desc>[Çarpisma Baslangici] Essiz ise, Rakibin tüm Zarlarinin Gücünü 1 azaltir </Desc>
+    <Desc>[Çarpışma Başlangıcı] Eşsiz ise, Rakibin tüm Zarlarının Gücünü 1 azaltır </Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerDownNext2pwTargetHighlander">
-    <Desc>[Çarpisma Kazandiginda] Essiz ise, Rakibin sonraki Zarinin Gücünü 2 azaltir</Desc>
+    <Desc>[Çarpışma Kazandığında] Eşsiz ise, Rakibin sonraki Zarının Gücünü 2 azaltır</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="draw1CardAndHighlanderEnergy">
-    <Desc>[Kullanildiginda] 1 Sayfa çeker, Essiz ise, ayni zamanda 2 Isik yeniler</Desc>
+    <Desc>[Kullanıldığında] 1 Sayfa çeker, Eşsiz ise, aynı zamanda 2 Işık yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="indexRelease1">
-    <Desc>[Kullanildiginda] Elinize "Kilidi Aç-II" Sayfasini ekler</Desc>
+    <Desc>[Kullanıldığında] Elinize "Kilidi Aç-II" Sayfasını ekler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="indexRelease2">
-    <Desc>[Kullanildiginda] Elinize "Kilidi Aç-III" Sayfasini ekler</Desc>
+    <Desc>[Kullanıldığında] Elinize "Kilidi Aç-III" Sayfasını ekler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="drawAndEnergy">
-    <Desc>[Kullanildiginda] 1 Isik yeniler ve 1 Sayfa çeker</Desc>
+    <Desc>[Kullanıldığında] 1 Işık yeniler ve 1 Sayfa çeker</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="shyaoDice1">
-    <Desc>[Vurdugunda] 2 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 2 Yanık uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="shyaoDice2">
-    <Desc>[Vurdugunda] 2 Yanik uygular; her Duygu Seviyesi için bu etkiyi tekrar eder</Desc>
+    <Desc>[Vurduğunda] 2 Yanık uygular; her Duygu Seviyesi için bu etkiyi tekrar eder</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="burn1atk2times">
-    <Desc>[Vurdugunda] 2 kez 1 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 2 kez 1 Yanık uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="burn1atk3times">
-    <Desc>[Vurdugunda] 3 kez 1 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 3 kez 1 Yanık uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="burnSpread">
-    <Desc>[Vurdugunda] Hedef 4 veya daha fazla Yanik'a sahipse, tüm düsmanlara 1 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] Hedef 4 veya daha fazla Yanık'a sahipse, tüm düşmanlara 1 Yanık uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="burnPlus">
-    <Desc>[Çarpisma Baslangici] Bu Sahne Savas Sayfalari kullanarak Yanik uyguladiginda, ek 1 Yanik uygular</Desc>
+    <Desc>[Çarpışma Başlangıcı] Bu Sahne Savaş Sayfaları kullanarak Yanık uyguladığında, ek 1 Yanık uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="punchDraw">
-    <Desc>[Kullanildiginda] Sonraki Sahnenin baslangicinda desteden "Tek Noktaya Biçaklama"nin tüm kopyalarini çeker</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahnenin başlangıcında desteden "Tek Noktaya Bıçaklama"nin tüm kopyalarını çeker</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="fireIlsum">
-    <Desc>[Kullanildiginda] "Atesli Parlama" Sayfasi elinizdeyse, onu atar ve bir Sayfa çeker, ardindan atilan Sayfanin saldiri Zarlarini buna ekler.</Desc>
+    <Desc>[Kullanıldığında] "Ateşli Parlama" Sayfası elinizdeyse, onu atar ve bir Sayfa çeker, ardından atılan Sayfanın saldırı Zarlarını buna ekler.</Desc>
     <Desc></Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="discard4bullet">
-    <Desc>[Kullanildiginda] Elinizdeki 0 maliyetli dört adede kadar Sayfayi atar.</Desc>
-    <Desc>Atilan her Mühimmat için bu Sayfadaki Saldiri Zarlari bu Sahne +1 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Elinizdeki 0 maliyetli dört adede kadar Sayfayı atar.</Desc>
+    <Desc>Atılan her Mühimmat için bu Sayfadaki Saldırı Zarları bu Sahne +1 Güç kazanır</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="breakChargeRemake">
-    <Desc>[Vurdugunda] 6 Sersemletme Hasari vermek için 2 Yük harcar, en fazla 3 kez</Desc>
+    <Desc>[Vurduğunda] 6 Sersemletme Hasarı vermek için 2 Yük harcar, en fazla 3 kez</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="powerUp1Hp_ver2">
-    <Desc>[Kullanildiginda] Can %50 veya altindaysa, Sayfanin tüm Zarlari 1+ Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Can %50 veya altındaysa, Sayfanın tüm Zarları 1+ Güç kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="hateEgoDice">
   </BattleCardAbility>
   <BattleCardAbility ID="despairEgoDice">
-    <Desc>[Vurdugunda] Sonraki Sahne Hedefin bir Hiz Zarini mühürler</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne Hedefin bir Hız Zarını mühürler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="greedEgoDice">
-    <Desc>[Vurdugunda] 1 Isik yeniler; Sonraki Sahne 1 Güç kazanir</Desc>
+    <Desc>[Vurduğunda] 1 Işık yeniler; Sonraki Sahne 1 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="wrathEgo">
-    <Desc>Diger tüm karakterleri hedefler</Desc>
+    <Desc>Diğer tüm karakterleri hedefler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="voidEgo">
-    <Desc>[Kullanildiginda] Elinizde Sayfa yoksa, bu Sahne ve sonraki Sahne tüm düsmanlara 4 Zayif, Silahsizlanma, Baglama ve Felç uygular</Desc>
+    <Desc>[Kullanıldığında] Elinizde Sayfa yoksa, bu Sahne ve sonraki Sahne tüm düşmanlara 4 Zayıf, Silahsızlanma, Bağlama ve Felç uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="voidEgoDice">
   </BattleCardAbility>
 
   <BattleCardAbility ID="kaliNormalAttackJ">
-    <Desc>Bu Sayfayla 8 veya daha fazla Hasar verilmisse, 1 Sayfa çeker ve diger tüm "Dikey Kesim" kartlarinin maliyetini 1 düsürür</Desc>
+    <Desc>Bu Sayfayla 8 veya daha fazla Hasar verilmişse, 1 Sayfa çeker ve diğer tüm "Dikey Kesim" kartlarının maliyetini 1 düşürür</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="kaliNormalAttackZ">
-    <Desc>Bu Sayfayla 8 veya daha fazla Hasar verilmisse, 1 Sayfa çeker ve diger tüm "Mizraklar" kartlarinin maliyetini 1 düsürür</Desc>
+    <Desc>Bu Sayfayla 8 veya daha fazla Hasar verilmişse, 1 Sayfa çeker ve diğer tüm "Mızraklar" kartlarının maliyetini 1 düşürür</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="kaliNormalAttackH">
-    <Desc>Bu Sayfayla 8 veya daha fazla Hasar verilmisse, 2 Isik yeniler ve diger tüm "Yatay Kesim" kartlarinin maliyetini 1 düsürür</Desc>
+    <Desc>Bu Sayfayla 8 veya daha fazla Hasar verilmişse, 2 Işık yeniler ve diğer tüm "Yatay Kesim" kartlarının maliyetini 1 düşürür</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="kali">
-    <Desc>Hedef yenilirse veya Sersemletilirse, bu Sayfayi hedefe veya rastgele bir düsmana tekrar kullanir</Desc>
+    <Desc>Hedef yenilirse veya Sersemletilirse, bu Sayfayı hedefe veya rastgele bir düşmana tekrar kullanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="kaliEgoAwaken">
-    <Desc>[Kullanildiginda] 6 Isik yeniler; Sersemletme Direncini tamamen yeniler. Sonraki Sahne Kirmizi Sis'in E.G.O'sunu Ortaya Çikarir</Desc>
+    <Desc>[Kullanıldığında] 6 Işık yeniler; Sersemletme Direncini tamamen yeniler. Sonraki Sahne Kırmızı Sis'in E.G.O'sunu Ortaya Çıkarır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="kaliSuperAttack">
-    <Desc>[Vurdugunda] Hedefin rastgele baska bir Hiz Zarindaki Savas Sayfasini yok eder</Desc>
+    <Desc>[Vurduğunda] Hedefin rastgele başka bir Hız Zarındaki Savaş Sayfasını yok eder</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="kaliAreaDice">
-    <Desc>[Vurdugunda] Sonraki Sahne 5 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 5 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="kaliAttackBuf">
-    <Desc>[Vurdugunda] Sonraki Sahne 3 Güç kazanir</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 3 Güç kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="protection3friendThisRound">
-    <Desc>[Kullanildiginda] Bu Sahne tüm müttefiklere 3 Koruma verir</Desc>
+    <Desc>[Kullanıldığında] Bu Sahne tüm müttefiklere 3 Koruma verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="drawUntil4">
-    <Desc>[Kullanildiginda] Elde 4 Sayfa olana kadar Sayfa çeker</Desc>
+    <Desc>[Kullanıldığında] Elde 4 Sayfa olana kadar Sayfa çeker</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="fairy3atkCard">
-    <Desc>[Vurdugunda] Hedefe 3 Peri uygular</Desc>
+    <Desc>[Vurduğunda] Hedefe 3 Peri uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="fairy5atkCard">
-    <Desc>[Vurdugunda] Hedefe 5 Peri uygular</Desc>
+    <Desc>[Vurduğunda] Hedefe 5 Peri uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="binahShockwaveDice1">
   </BattleCardAbility>
   <BattleCardAbility ID="binahShockwaveDice2">
-    <Desc>[Vurdugunda] Bu Sahne 1 Zayif uygular</Desc>
+    <Desc>[Vurduğunda] Bu Sahne 1 Zayıf uygular</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="fairy1atk">
-    <Desc>[Vurdugunda] 1 Peri uygular</Desc>
+    <Desc>[Vurduğunda] 1 Peri uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="fairy2atk">
-    <Desc>[Vurdugunda] 2 Peri uygular</Desc>
+    <Desc>[Vurduğunda] 2 Peri uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="fairy3atk">
-    <Desc>[Vurdugunda] 3 Peri uygular</Desc>
+    <Desc>[Vurduğunda] 3 Peri uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="forbidReuseDice">
-    <Desc>Hedefin Zari tekrar kullanilamaz</Desc>
+    <Desc>Hedefin Zarı tekrar kullanılamaz</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="sealTargetAtk">
-    <Desc>[Vurdugunda] Sonraki Sahne Hedefin bir Hiz Zarini mühürler</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne Hedefin bir Hız Zarını mühürler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="forbidCardAtk">
-    <Desc>[Vurdugunda] Sonraki Sahne Hedefin 4+ Maliyetli Sayfalarinin Maliyetini 2 artirir</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne Hedefin 4+ Maliyetli Sayfalarının Maliyetini 2 artırır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="myoCard">
-    <Desc>Yalnizca 20+ Yük ile kullanilabilir. [Vurdugunda] Sonraki Sahne 3 Kanama uygular</Desc>
+    <Desc>Yalnızca 20+ Yük ile kullanılabilir. [Vurduğunda] Sonraki Sahne 3 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="myoDice1">
   </BattleCardAbility>
   <BattleCardAbility ID="myoDice2">
-    <Desc>[Vurdugunda] Manuel olarak seçilen Hedefe karsi 15 bonus Hasar verir</Desc>
+    <Desc>[Vurduğunda] Manuel olarak seçilen Hedefe karşı 15 bonus Hasar verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="rudolphCard">
-    <Desc>Yalnizca 20+ Yük ile kullanilabilir.</Desc>
+    <Desc>Yalnızca 20+ Yük ile kullanılabilir.</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="rudolphDice">
-    <Desc>[Vurdugunda] 6 Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] 6 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="maximCard">
-    <Desc>Yalnizca 20+ Yük ile kullanilabilir.</Desc>
-    <Desc>[Kullanildiginda] Bu Sayfadaki tüm Zarlarin Gücünü +10 artirmak için 20 Yük harcar</Desc>
+    <Desc>Yalnızca 20+ Yük ile kullanılabilir.</Desc>
+    <Desc>[Kullanıldığında] Bu Sayfadaki tüm Zarların Gücünü +10 artırmak için 20 Yük harcar</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="maximDice">
-    <Desc>[Vurdugunda] 20 veya daha fazla Hasar vermisseniz, Hedefe ek 15 Hasar verir</Desc>
+    <Desc>[Vurduğunda] 20 veya daha fazla Hasar vermişseniz, Hedefe ek 15 Hasar verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="nicolaiDice">
-    <Desc>Hedefin Cani %50 veya altindaysa +5 Güç ekler</Desc>
+    <Desc>Hedefin Canı %50 veya altındaysa +5 Güç ekler</Desc>
   </BattleCardAbility>
   
   
   <BattleCardAbility ID="deerCard">
-    <Desc>[Kullanildiginda] Kendine 4 Sersemletme Hasari verir</Desc>
+    <Desc>[Kullanıldığında] Kendine 4 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="deerDice">
-    <Desc>[Vurdugunda] 8 Sersemletme Hasari vermek için 3 Yük harcar</Desc>
+    <Desc>[Vurduğunda] 8 Sersemletme Hasarı vermek için 3 Yük harcar</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="rhinoCard">
-    <Desc>[Çarpisma Baslangici] Bu Sahne 2 Koruma kazanir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Bu Sahne 2 Koruma kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="drawCardWarpOnly">
-    <Desc>[Kullanildiginda] 2 Sayfa çekmek için 3 Yük harcar</Desc>
+    <Desc>[Kullanıldığında] 2 Sayfa çekmek için 3 Yük harcar</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="power1costCharge">
-    <Desc>[Kullanildiginda] 2 Sayfa çekmek için 3 Yük harcar</Desc>
+    <Desc>[Kullanıldığında] 2 Sayfa çekmek için 3 Yük harcar</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="energyAndCharge">
-    <Desc>[Kullanildiginda] 1 Isik yeniler ve 3 Yük kazanir</Desc>
+    <Desc>[Kullanıldığında] 1 Işık yeniler ve 3 Yük kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="warpCharge8">
-    <Desc>[Kullanildiginda] 8 Yük kazanir</Desc>
+    <Desc>[Kullanıldığında] 8 Yük kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="warpCharge10">
-    <Desc>[Kullanildiginda] 10 Yük kazanir</Desc>
+    <Desc>[Kullanıldığında] 10 Yük kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="charge1atk">
-    <Desc>[Vurdugunda] 1 Yük kazanir</Desc>
+    <Desc>[Vurduğunda] 1 Yük kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="charge8atk">
-    <Desc>[Vurdugunda] 8 Yük kazanir</Desc>
+    <Desc>[Vurduğunda] 8 Yük kazanır</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="otherAlly2strength1thisRound">
-    <Desc>[Çarpisma Baslangici] Rastgele 2 müttefike 1 Güç verir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Rastgele 2 müttefike 1 Güç verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="copyMostCost">
-    <Desc>[Kullanildiginda] Elinizdeki en yüksek maliyetli Sayfayi kopyalar ve elinize ekler</Desc>
+    <Desc>[Kullanıldığında] Elinizdeki en yüksek maliyetli Sayfayı kopyalar ve elinize ekler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="costdown">
-    <Desc>Bu Sayfanin Maliyeti, eldeki "Hizli Kesimler" karti sayisiyla düsürülür.</Desc>
+    <Desc>Bu Sayfanın Maliyeti, eldeki "Hızlı Kesimler" kartı sayısıyla düşürülür.</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="myoBerserk">
-    <Desc>[Kullanildiginda] Destesindeki tüm Menzilli Sayfalari Yakin Dövüs Sayfalarina dönüstürür. Ele "Vahsi Biçaklar"in bir kopyasini ekler. Sonraki Sahnenin baslangicinda bu karakterin tüm Zarlari 1+ Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Destesindeki tüm Menzilli Sayfaları Yakın Dövüş Sayfalarına dönüştürür. Ele "Vahşi Bıçaklar"in bir kopyasını ekler. Sonraki Sahnenin başlangıcında bu karakterin tüm Zarları 1+ Güç kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="gyeongmiRemake">
-    <Desc>[Kullanildiginda] Bu Sayfadaki tüm Zarlari, orijinal Maliyeti 4 veya daha az olan eldeki rastgele bir Sayfanin Zarlariyla degistirir (Karsi Zarlar hariç)</Desc>
+    <Desc>[Kullanıldığında] Bu Sayfadaki tüm Zarları, orijinal Maliyeti 4 veya daha az olan eldeki rastgele bir Sayfanın Zarlariyla değiştirir (Karşı Zarlar hariç)</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="nicolaiCard2">
-    <Desc>Yalnizca 20+ Yük ile. Bir düsmani yendiginde, "Atma"nin bir kopyasini ekler ve Maliyetini 1 düsürür</Desc>
-    <Desc>Hedefin Cani %50 veya altindaysa Hasari iki katina çikarir</Desc>
+    <Desc>Yalnızca 20+ Yük ile. Bir düşmanı yendiğinde, "Atma"nin bir kopyasını ekler ve Maliyetini 1 düşürür</Desc>
+    <Desc>Hedefin Canı %50 veya altındaysa Hasarı iki katına çıkarır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="nicolaiDice1">
-    <Desc>[Çarpisma Kazandiginda] Rakibin Zarini yok eder
-[Çarpisma Kaybettiginde] Bu Sayfadaki diger Zari yok eder</Desc>
+    <Desc>[Çarpışma Kazandığında] Rakibin Zarını yok eder
+[Çarpışma Kaybettiğinde] Bu Sayfadaki diğer Zarı yok eder</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="nicolaiDice2">
-    <Desc>Hedef "isaret"e sahipse, Zarin verdigi Hasar ve Sersemletme Hasarini artirir</Desc>
+    <Desc>Hedef "işaret"e sahipse, Zarın verdiği Hasar ve Sersemletme Hasarını artırır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="powerUp1speed6exhaust">
-    <Desc>[Kullanildiginda] Hiz 6 veya üzerindeyse, Bu Sayfanin tüm Zarlari +1 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Hız 6 veya üzerindeyse, Bu Sayfanın tüm Zarları +1 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerUp2speed6exhaust">
-    <Desc>[Kullanildiginda] Hiz 6 veya üzerindeyse, Bu Sayfanin tüm Zarlari +2 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Hız 6 veya üzerindeyse, Bu Sayfanın tüm Zarları +2 Güç kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="wolfEgo">
-    <Desc>Bu Sayfadaki Zar vurdugunda Hasar veya Sersemletme Hasari vermez</Desc>
+    <Desc>Bu Sayfadaki Zar vurduğunda Hasar veya Sersemletme Hasarı vermez</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="wolfEgoDice1">
-    <Desc>Bu Zar 4 kez atilir</Desc>
+    <Desc>Bu Zar 4 kez atılır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="wolfEgoDice2">
-    <Desc>[Vurdugunda] Tüm Zarlarinizin yaptigi tüm geçerli atislarin (Kazanilan çarpismalar ve vuruslar) toplamina esit Hasar verir.</Desc>
+    <Desc>[Vurduğunda] Tüm Zarlarinizin yaptığı tüm geçerli atışların (Kazanılan çarpışmalar ve vuruşlar) toplamına eşit Hasar verir.</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="mountainEgoDice">
-    <Desc>[Vurdugunda] Bu Sahne 2 Zayif ve Silahsizlanma uygular</Desc>
+    <Desc>[Vurduğunda] Bu Sahne 2 Zayıf ve Silahsızlanma uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="freischutzEgo2">
-    <Desc>[Kullanildiginda] Sonraki 3 Sahne boyunca "Der Freischütz" ile Senkronize olur</Desc>
+    <Desc>[Kullanıldığında] Sonraki 3 Sahne boyunca "Der Freischütz" ile Senkronize olur</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="redHoodEgo">
-    <Desc>[Kullanildiginda] Sonraki 3 Sahne boyunca "Kirmizi Baslikli Parali Asker" ile Senkronize olur</Desc>
+    <Desc>[Kullanıldığında] Sonraki 3 Sahne boyunca "Kırmızı Başlıklı Paralı Asker" ile Senkronize olur</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="cancelChangeEgo">
-    <Desc>[Kullanildiginda] Sonraki Sahne Senkronizasyonu iptal eder</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne Senkronizasyonu iptal eder</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="nosferatuEgoDice">
-    <Desc>[Vurdugunda] 5 Can yeniler; Sonraki Sahne 1 Güç kazanir; Hedef sonraki Sahne 1 Güç ve 5 Kanama alir</Desc>
+    <Desc>[Vurduğunda] 5 Can yeniler; Sonraki Sahne 1 Güç kazanır; Hedef sonraki Sahne 1 Güç ve 5 Kanama alır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="nothingEgo">
-    <Desc>[Vurdugunda] Verilen Hasara esit Can yeniler</Desc>
+    <Desc>[Vurduğunda] Verilen Hasara eşit Can yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="matanEgoDice1">
-    <Desc>[Vurdugunda] Sonraki Sahne bir Hiz Zarini mühürler</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne bir Hız Zarını mühürler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="nothingEgoDice">
-    <Desc>[Vurdugunda] Sonraki Sahne 10 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 10 Kanama uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="slashUp1thisRound">
-    <Desc>[Çarpisma Baslangici] Bu Sahne için Kesme Zarlarinin Gücünü +1 artirir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Bu Sahne için Kesme Zarlarının Gücünü +1 artırır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerDouble">
-    <Desc>Güç artislari bu Zari x2 etkiler</Desc>
+    <Desc>Güç artışları bu Zarı x2 etkiler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="bleeding3atkTwoRound">
-    <Desc>[Vurdugunda] Sonraki Sahne ve ondan sonraki Sahne 3 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne ve ondan sonraki Sahne 3 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="vulnerable1atkTwoRound">
-    <Desc>[Vurdugunda] Sonraki Sahne ve ondan sonraki Sahne 1 Kirilgan uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne ve ondan sonraki Sahne 1 Kırılgan uygular</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="breakDmg2thisRoundHit">
-    <Desc>[Çarpisma Baslangici] Bu Sahne Vurma Zarlariyla ek 2 Sersemletme Hasari verir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Bu Sahne Vurma Zarlariyla ek 2 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="purpleSpecialDice">
-    <Desc>[Kullanildiginda] Bu Sayfadaki Saldiri Zarlarinin türleri, Hedefin en zayif türüne degisir</Desc>
+    <Desc>[Kullanıldığında] Bu Sayfadaki Saldırı Zarlarının türleri, Hedefin en zayıf türüne değişir</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="purpleAreaDice1">
-    <Desc>[Vurdugunda] 5 Hasar verir</Desc>
+    <Desc>[Vurduğunda] 5 Hasar verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="purpleAreaDice2">
-    <Desc>[Vurdugunda] 5 Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] 5 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="purpleAreaDice3">
-    <Desc>[Vurdugunda] Bu Sahne ve sonraki Sahne 3 Kanama ve 1 Kirilgan uygular</Desc>
+    <Desc>[Vurduğunda] Bu Sahne ve sonraki Sahne 3 Kanama ve 1 Kırılgan uygular</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="slashStance">
-    <Desc>[Oynandiginda] Kesme Durusuna geçer ve bu Sahne Kesme Zarlarinin Gücünü +1 artirir. Durus her 2 Sahne'de bir degistirilebilir</Desc>
+    <Desc>[Oynandığında] Kesme Duruşuna geçer ve bu Sahne Kesme Zarlarının Gücünü +1 artırır. Duruş her 2 Sahne'de bir değiştirilebilir</Desc>
     <Desc></Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="penetrateStance">
-    <Desc>[Oynandiginda] Delme Durusuna geçer ve bu Sahne Delme Zarlarinin Gücünü +1 artirir. Durus her 2 Sahne'de bir degistirilebilir</Desc>
+    <Desc>[Oynandığında] Delme Duruşuna geçer ve bu Sahne Delme Zarlarının Gücünü +1 artırır. Duruş her 2 Sahne'de bir değiştirilebilir</Desc>
     <Desc></Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="hitStance">
-    <Desc>[Oynandiginda] Vurma Durusuna geçer ve bu Sahne Vurma Zarlarinin Gücünü +1 artirir. Durus her 2 Sahne'de bir degistirilebilir</Desc>
+    <Desc>[Oynandığında] Vurma Duruşuna geçer ve bu Sahne Vurma Zarlarının Gücünü +1 artırır. Duruş her 2 Sahne'de bir değiştirilebilir</Desc>
     <Desc></Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="defeneseStance">
-    <Desc>[Oynandiginda] Savunma Durusuna geçer ve bu Sahne Savunma Zarlarinin Gücünü +1 artirir. Durus her 2 Sahne'de bir degistirilebilir</Desc>
+    <Desc>[Oynandığında] Savunma Duruşuna geçer ve bu Sahne Savunma Zarlarının Gücünü +1 artırır. Duruş her 2 Sahne'de bir değiştirilebilir</Desc>
     <Desc></Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="bleedingPlus">
-    <Desc>[Çarpisma Baslangici] Bu Sahne Savas Sayfalari kullanarak Kanama uyguladiginda, ek 1 Kanama uygular</Desc>
+    <Desc>[Çarpışma Başlangıcı] Bu Sahne Savaş Sayfaları kullanarak Kanama uyguladığında, ek 1 Kanama uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="scarecrowEgoDice">
-    <Desc>Yasayan her müttefik için +2 Güç kazanir</Desc>
+    <Desc>Yaşayan her müttefik için +2 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="lumberjackEgoDice1">
-    <Desc>[Çarpisma Kazandiginda] Son Zar +2 Güç kazanir</Desc>
+    <Desc>[Çarpışma Kazandığında] Son Zar +2 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="homeEgo">
-    <Desc>Saldiri en az bir kez vurursa, bu Sahnenin sonunda diger tüm müttefikler 2 Isik yeniler</Desc>
+    <Desc>Saldırı en az bir kez vurursa, bu Sahnenin sonunda diğer tüm müttefikler 2 Işık yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="ozmaEgoDice">
-    <Desc>Saldiri en az bir kez vurursa, tüm müttefikler 1 Sayfa çeker</Desc>
+    <Desc>Saldırı en az bir kez vurursa, tüm müttefikler 1 Sayfa çeker</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="wizardEgoDice">
-    <Desc>[Kullanildiginda] Sonraki Sahne, bu Perde ölen tüm müttefikleri bir Sahne boyunca diriltir. Dirilen müttefikler 4 Isiga sahip olur ve Duygu Seviyesi hariç tüm durumlari sifirlanir. Karakterler bu etkiyle iki kez diriltilemez.</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne, bu Perde ölen tüm müttefikleri bir Sahne boyunca diriltir. Dirilen müttefikler 4 Işığa sahip olur ve Duygu Seviyesi hariç tüm durumları sıfırlanır. Karakterler bu etkiyle iki kez diriltilemez.</Desc>
   </BattleCardAbility>
   
 <BattleCardAbility ID="ozma_forgotten">
-    <Desc>[Oynandiginda] Bu Sahne **Hareketsiz** olur; hedef alinamaz</Desc>
-    <Desc>Bu Sahnenin sonunda Maksimum Canin %40'ini yeniler ve Isigi tamamen yeniler</Desc>
+    <Desc>[Oynandığında] Bu Sahne **Hareketsiz** olur; hedef alınamaz</Desc>
+    <Desc>Bu Sahnenin sonunda Maksimum Canın %40'ini yeniler ve Işığı tamamen yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oz_emerald">
-    <Desc>Bu Sayfanin Maliyeti degistirilemez</Desc>
-    <Desc>[Oynandiginda] [Düsman Hedefi] Hedefin Hiz Zarindaki rastgele 2 Savas Sayfasini iptal eder.</Desc>
-    <Desc>Bu Sahne Hedefe karsi her basarili vurus için 1 Isik yeniler. (En fazla 2 kez)</Desc>
+    <Desc>Bu Sayfanın Maliyeti değiştirilemez</Desc>
+    <Desc>[Oynandığında] [Düşman Hedefi] Hedefin Hız Zarındaki rastgele 2 Savaş Sayfasını iptal eder.</Desc>
+    <Desc>Bu Sahne Hedefe karşı her başarılı vuruş için 1 Işık yeniler. (En fazla 2 kez)</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oz_control">
-    <Desc>Bu Sayfanin Maliyeti degistirilemez</Desc>
-    <Desc>[Oynandiginda] Eldeki tüm Sayfalarin Maliyetini 0'a düsürür</Desc>
-    <Desc>Kullanildiginda, Maliyeti bu etki uygulanmadan önceki sonuca sifirlanir</Desc>
+    <Desc>Bu Sayfanın Maliyeti değiştirilemez</Desc>
+    <Desc>[Oynandığında] Eldeki tüm Sayfaların Maliyetini 0'a düşürür</Desc>
+    <Desc>Kullanıldığında, Maliyeti bu etki uygulanmadan önceki sonuca sıfırlanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="nodice">
-    <Desc>Bu Sayfa, Karsi Saldiri olmayan bir Zari olmadigi için herhangi bir eylem gerçeklestirmez</Desc>
+    <Desc>Bu Sayfa, Karşı Saldırı olmayan bir Zarı olmadığı için herhangi bir eylem gerçekleştirmez</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="nodiceAndDraw">
-    <Desc>Bu Sayfa, Karsi Saldiri olmayan bir Zari olmadigi için herhangi bir eylem gerçeklestirmez</Desc>
-    <Desc>[Çarpisma Baslangici] 1 Sayfa çeker</Desc>
+    <Desc>Bu Sayfa, Karşı Saldırı olmayan bir Zarı olmadığı için herhangi bir eylem gerçekleştirmez</Desc>
+    <Desc>[Çarpışma Başlangıcı] 1 Sayfa çeker</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="allyBuf">
-    <Desc>[Çarpisma Baslangici] Rastgele bir müttefike 1 Güç, 2 Koruma ve 2 Sersemletme Korumasi verir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Rastgele bir müttefike 1 Güç, 2 Koruma ve 2 Sersemletme Koruması verir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="strength1atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Güç kazanir</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="strength2atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 2 Güç kazanir</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 2 Güç kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="shyaoDebufDice">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Zayif ve Silahsizlanma uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Zayıf ve Silahsızlanma uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="shyaoAreaStrength">
-    <Desc>[Kullanildiginda] Sonraki Sahne 2 Güç ve Dayaniklilik kazanir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne 2 Güç ve Dayanıklılık kazanır</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="shyaoSelfBurn">
-    <Desc>[Çarpisma Baslangici] Bu Sahne 10 daha az Yanik Hasari alir</Desc>
-    <Desc>[Kullanildiginda] Kullanicida Yanik varsa, 4 Can yeniler ve sonraki Sahne 2 Koruma kazanir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Bu Sahne 10 daha az Yanık Hasarı alır</Desc>
+    <Desc>[Kullanıldığında] Kullanicida Yanık varsa, 4 Can yeniler ve sonraki Sahne 2 Koruma kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="burnBoth">
-    <Desc>[Vurdugunda] Her birine 3 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] Her birine 3 Yanık uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="burnAll">
-    <Desc>[Vurdugunda] Tüm düsmanlara 2 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] Tüm düşmanlara 2 Yanık uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="dragonAnger">
-    <Desc>"Ters Ölçek" olarak seçilen Zar çarpismayi kaybederse, kendine 70 Sersemletme Hasari verir ve sonraki Sahne 4 Güç ve Dayaniklilik kazanir </Desc>
+    <Desc>"Ters Ölçek" olarak seçilen Zar çarpışmayı kaybederse, kendine 70 Sersemletme Hasarı verir ve sonraki Sahne 4 Güç ve Dayanıklılık kazanır </Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="dragonAngerDice">
     <Desc>[Ters Ölçek]</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="shyaoBurnAreaDice">
-    <Desc>[Vurdugunda] 8 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 8 Yanık uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="burn1AreaEachDice">
-    <Desc>[Vurdugunda] 1 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 1 Yanık uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="burn2AreaEachDice">
-    <Desc>[Vurdugunda] 8 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 8 Yanık uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="bigBirdEgo">
-    <Desc>[Çarpisma Baslangici] Düsmanlar bu Sahne kazanilan veya kaybedilen Güçten etkilenmez</Desc>
+    <Desc>[Çarpışma Başlangıcı] Düşmanlar bu Sahne kazanılan veya kaybedilen Güçten etkilenmez</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="longBirdEgo">
-    <Desc>[Vurdugunda] Hasar, Hedefin Maksimum Caninin %10'una esittir (maksimum 50 Hasar)</Desc>
+    <Desc>[Vurduğunda] Hasar, Hedefin Maksimum Canının %10'una eşittir (maksimum 50 Hasar)</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="smallBirdEgo">
-    <Desc>[Kullanildiginda] Eldeki rastgele 2 Sayfanin Maliyetini kullanilana kadar 1 azaltir (Birikmez)</Desc>
+    <Desc>[Kullanıldığında] Eldeki rastgele 2 Sayfanın Maliyetini kullanılana kadar 1 azaltır (Birikmez)</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="bossBirdFirstEgoDice">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Felç uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Felç uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="bossBirdSecondEgo">
-    <Desc>[Kullanildiginda] Hedefin Cani %50 veya altindaysa, bu Sayfanin tüm Zarlari 8+ Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Hedefin Canı %50 veya altındaysa, bu Sayfanın tüm Zarları 8+ Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="bossBirdSecondEgoDice">
-    <Desc>Cani %50 veya az olan hedeflere karsi %50 daha fazla Hasar verir</Desc>
+    <Desc>Canı %50 veya az olan hedeflere karşı %50 daha fazla Hasar verir</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="emotion_small_beak">
-    <Desc>[Oynandiginda] [Ele Geri Döner] Maksimum Canin %5'i kadar Hasar alir; 1 Isik yeniler</Desc>
+    <Desc>[Oynandığında] [Ele Geri Döner] Maksimum Canın %5'i kadar Hasar alır; 1 Işık yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="yanAreaDice">
-    <Desc>[Vurdugunda] 2 Çürüme uygular</Desc>
+    <Desc>[Vurduğunda] 2 Çürüme uygular</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="yanOnly1Dice">
-    <Desc>[Vurdugunda] 2 Çürüme uygular</Desc>
+    <Desc>[Vurduğunda] 2 Çürüme uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="yanOnly2Dice">
-    <Desc>[Çarpisma Kazandiginda] Rakibin sonraki Zarini yok eder</Desc>
+    <Desc>[Çarpışma Kazandığında] Rakibin sonraki Zarını yok eder</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="yanInstantEnergy">
-    <Desc>[Oynandiginda] 3 Isik yeniler; sonraki Sahne ayni miktarda Isik kaybeder</Desc>
+    <Desc>[Oynandığında] 3 Işık yeniler; sonraki Sahne aynı miktarda Işık kaybeder</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="yanSword">
-    <Desc>Bu Sayfanin Maliyeti, kullanicinin Maksimum Isik miktarina esittir.</Desc>
-    <Desc>[Kullanildiginda] Bu Sayfanin tüm Zarlari Duygu Seviyesine esit Güç kazanir; Tüm Isigi yeniler</Desc>
+    <Desc>Bu Sayfanın Maliyeti, kullanıcının Maksimum Işık miktarına eşittir.</Desc>
+    <Desc>[Kullanıldığında] Bu Sayfanın tüm Zarları Duygu Seviyesine eşit Güç kazanır; Tüm Işığı yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="powerDownAndEnergy">
-    <Desc>[Kullanildiginda] 1 Isik yeniler; bu Sayfadaki tüm Zarlar 2 Güç kaybeder</Desc>
+    <Desc>[Kullanıldığında] 1 Işık yeniler; bu Sayfadaki tüm Zarlar 2 Güç kaybeder</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="energy3AndDraw1">
-    <Desc>[Kullanildiginda] 3 Isik yeniler; 1 Sayfa çeker</Desc>
+    <Desc>[Kullanıldığında] 3 Işık yeniler; 1 Sayfa çeker</Desc>
   </BattleCardAbility>
   
 <BattleCardAbility ID="yanEnemyBuf1">
-    <Desc>Yalnizca 31 veya daha fazla Cana sahip bir El varsa kullanilabilir</Desc>
-    <Desc>[Çarpisma Baslangici] Hedef bir El ise, 3 Güç kazanir</Desc>
+    <Desc>Yalnızca 31 veya daha fazla Cana sahip bir El varsa kullanılabilir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Hedef bir El ise, 3 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="yanEnemyBuf2">
-    <Desc>Yalnizca 31 veya daha fazla Cana sahip bir El varsa kullanilabilir</Desc>
-    <Desc>[Çarpisma Baslangici] Hedef bir El ise, 3 Koruma kazanir</Desc>
+    <Desc>Yalnızca 31 veya daha fazla Cana sahip bir El varsa kullanılabilir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Hedef bir El ise, 3 Koruma kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="yanEnemyBuf3">
-    <Desc>Yalnizca 31 veya daha fazla Cana sahip bir El varsa kullanilabilir</Desc>
-    <Desc>[Çarpisma Baslangici] Hedef bu Sahne kazanilan veya kaybedilen Güçten etkilenmez</Desc>
+    <Desc>Yalnızca 31 veya daha fazla Cana sahip bir El varsa kullanılabilir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Hedef bu Sahne kazanılan veya kaybedilen Güçten etkilenmez</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="yanEnemyBuf4">
-    <Desc>[Çarpisma Baslangici] Hedef bir El ise, Canini 40 yeniler. Aksi takdirde, Hedefin Canini 5 yeniler.</Desc>
+    <Desc>[Çarpışma Başlangıcı] Hedef bir El ise, Canını 40 yeniler. Aksi takdirde, Hedefin Canını 5 yeniler.</Desc>
     <Desc></Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="yanEnemyBuf5">
-    <Desc>[Çarpisma Baslangici] Tüm müttefiklerin Canini 80 yeniler</Desc>
+    <Desc>[Çarpışma Başlangıcı] Tüm müttefiklerin Canını 80 yeniler</Desc>
   </BattleCardAbility>
 
 <BattleCardAbility ID="yanSpecial1">
-    <Desc>Her Sahne yalnizca 1 "Ögreti" Sayfasi kullanilabilir</Desc>
-    <Desc>[Oynandiginda] [Müttefik Hedef] 1 Güç verir</Desc>
+    <Desc>Her Sahne yalnızca 1 "Öğreti" Sayfası kullanılabilir</Desc>
+    <Desc>[Oynandığında] [Müttefik Hedef] 1 Güç verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="yanSpecial2">
-    <Desc>Her Sahne yalnizca 1 "Ögreti" Sayfasi kullanilabilir</Desc>
-    <Desc>[Oynandiginda] [Müttefik Hedef] 1 Koruma ve Sersemletme Korumasi verir</Desc>
+    <Desc>Her Sahne yalnızca 1 "Öğreti" Sayfası kullanılabilir</Desc>
+    <Desc>[Oynandığında] [Müttefik Hedef] 1 Koruma ve Sersemletme Koruması verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="yanSpecial3">
-    <Desc>Her Sahne yalnizca 1 "Ögreti" Sayfasi kullanilabilir</Desc>
-    <Desc>[Oynandiginda] [Müttefik Hedef] Hedef 1 Sayfa çeker</Desc>
+    <Desc>Her Sahne yalnızca 1 "Öğreti" Sayfası kullanılabilir</Desc>
+    <Desc>[Oynandığında] [Müttefik Hedef] Hedef 1 Sayfa çeker</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="yanSpecial4">
-    <Desc>Her Sahne yalnizca 1 "Ögreti" Sayfasi kullanilabilir</Desc>
-    <Desc>[Oynandiginda] [Müttefik Hedef] Hedef 1 Isik yeniler</Desc>
+    <Desc>Her Sahne yalnızca 1 "Öğreti" Sayfası kullanılabilir</Desc>
+    <Desc>[Oynandığında] [Müttefik Hedef] Hedef 1 Işık yeniler</Desc>
   </BattleCardAbility>
 
 <BattleCardAbility ID="selfbleeding1">
-    <Desc>[Kullanildiginda] Sonraki Sahne kendine 1 Kanama uygular</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne kendine 1 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="selfbleeding2">
-    <Desc>[Kullanildiginda] Sonraki Sahne kendine 2 Kanama uygular</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne kendine 2 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="selfbleeding1energy1">
-    <Desc>[Kullanildiginda] Sonraki Sahne kendine 1 Kanama uygular; 1 Isik yeniler</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne kendine 1 Kanama uygular; 1 Işık yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="selfbleeding3powerup2">
-    <Desc>[Kullanildiginda] Sonraki Sahne kendine 3 Kanama uygular; Bu Sayfadaki tüm Zarlar +2 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne kendine 3 Kanama uygular; Bu Sayfadaki tüm Zarlar +2 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="selfbleeding5powerup3">
-    <Desc>[Kullanildiginda] Sonraki Sahne kendine 5 Kanama uygular; Bu Sayfadaki tüm Zarlar +3 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne kendine 5 Kanama uygular; Bu Sayfadaki tüm Zarlar +3 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="alliespower1">
-    <Desc>[Kullanildiginda] Sonraki Sahne müttefiklere 1 Güç verir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne müttefiklere 1 Güç verir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="penetrateup1recoverplayerpoint1">
-    <Desc>[Çarpisma Baslangici] Bu Sahne Delme Zarlarinin Gücünü +1 artirir</Desc>
-    <Desc>[Kullanildiginda] 1 Isik yeniler</Desc>
+    <Desc>[Çarpışma Başlangıcı] Bu Sahne Delme Zarlarının Gücünü +1 artırır</Desc>
+    <Desc>[Kullanıldığında] 1 Işık yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="penetrateUp2thisRound">
-    <Desc>[Çarpisma Baslangici] Bu Sahne Delme Zarlarinin Gücünü +2 artirir, ancak her basarili vurusta 1-3 Hasar alir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Bu Sahne Delme Zarlarının Gücünü +2 artırır, ancak her başarılı vuruşta 1-3 Hasar alır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="emotion_martyr">
-    <Desc>[Oynandiginda] Bu Sahne saldirilarinizla ek 4-6 Sersemletme Hasari verir,</Desc>
+    <Desc>[Oynandığında] Bu Sahne saldirilarinizla ek 4-6 Sersemletme Hasarı verir,</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="emotion_bless">
-    <Desc>[Oynandiginda] [Müttefik Hedef] [Ele Geri Döner] Hedefin 6 Canini yeniler ve bu Sahne 1 Dayaniklilik kazanir (Yalnizca müttefikler, Sahne basina bir kez)</Desc>
+    <Desc>[Oynandığında] [Müttefik Hedef] [Ele Geri Döner] Hedefin 6 Canını yeniler ve bu Sahne 1 Dayanıklılık kazanır (Yalnızca müttefikler, Sahne başına bir kez)</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="emotion_bless_upgraded">
-    <Desc>[Oynandiginda] [Müttefik Hedef] [Ele Geri Döner] Hedefin 12 Canini yeniler ve bu Sahne 2 Dayaniklilik kazanir (Yalnizca müttefikler, Sahne basina bir kez)</Desc>
+    <Desc>[Oynandığında] [Müttefik Hedef] [Ele Geri Döner] Hedefin 12 Canını yeniler ve bu Sahne 2 Dayanıklılık kazanır (Yalnızca müttefikler, Sahne başına bir kez)</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="bloodyTreeEgoDice">
-    <Desc>[Vurdugunda] Sonraki Sahne bir Hiz Zarini mühürler</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne bir Hız Zarını mühürler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="clockEgo">
-    <Desc>[Kullanildiginda] Sonraki Sahne bir Hiz Zari kazanir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne bir Hız Zarı kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="clockEgoDice">
-    <Desc>[Çarpisma Kazandiginda] Rakibin sonraki Zarini yok eder</Desc>
+    <Desc>[Çarpışma Kazandığında] Rakibin sonraki Zarını yok eder</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="blueStarEgoDice">
-    <Desc>[Vurdugunda] Kullanicinin mevcut Sersemletme Direncinin yarisina esit Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] Kullanıcının mevcut Sersemletme Direncinin yarısına eşit Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="oneBadManyGoodEgo">
-    <Desc>[Kullanildiginda] Tüm müttefiklerin 15 Canini ve Sersemletme Direncini yeniler</Desc>
+    <Desc>[Kullanıldığında] Tüm müttefiklerin 15 Canını ve Sersemletme Direncini yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="whiteNightEgo">
-    <Desc>[Kullanildiginda] Sonraki 3 Sahne boyunca Beyaz Gece ile Senkronize olur. Senkronizasyon aktifken diger tüm müttefikler Havari'ye dönüsür.</Desc>
-    <Desc>Havariler kontrol edilemez veya yenilemez. Bir Havari'nin Cani 1'e düserse, Senkronizasyon bitene kadar hareket edemez.</Desc>
-    <Desc>Senkronizasyon bittiginde Havariler Kütüphaneciye geri döner</Desc>
+    <Desc>[Kullanıldığında] Sonraki 3 Sahne boyunca Beyaz Gece ile Senkronize olur. Senkronizasyon aktifken diğer tüm müttefikler Havari'ye dönüşür.</Desc>
+    <Desc>Havariler kontrol edilemez veya yenilemez. Bir Havari'nin Canı 1'e düşerse, Senkronizasyon bitene kadar hareket edemez.</Desc>
+    <Desc>Senkronizasyon bittiğinde Havariler Kütüphaneciye geri döner</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="whiteNightCard1">
-    <Desc>[Çarpisma Baslangici] Tüm müttefiklere 1 Güç verir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Tüm müttefiklere 1 Güç verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="whiteNightArea">
-    <Desc>[Kullanildiginda] Mevcut her düsman için 8 Can ve Sersemletme Direnci yeniler</Desc>
+    <Desc>[Kullanıldığında] Mevcut her düşman için 8 Can ve Sersemletme Direnci yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="whiteNightCard2">
-    <Desc>[Çarpisma Baslangici] Tüm müttefiklerin 6 Canini ve Sersemletme Direncini yeniler</Desc>
+    <Desc>[Çarpışma Başlangıcı] Tüm müttefiklerin 6 Canını ve Sersemletme Direncini yeniler</Desc>
   </BattleCardAbility>
 
 
@@ -1511,497 +1511,497 @@
     <Desc>Bu Sayfa herhangi bir hedefi yenerse, 30 Sersemletme Direnci yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="blueStarEgoDiceRemake">
-    <Desc>[Vurdugunda] Kullanicinin Sersemletme Direnci %50'den fazlaysa, 10 Hasar ve Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] Kullanıcının Sersemletme Direnci %50'den fazlaysa, 10 Hasar ve Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="hanaSpecial">
-    <Desc>Bu Sahne kullanilan Dört Trigram ("Geon", "Gon", "Gam" ve "Ri") Sayfalarina bagli olarak ek bir etki kazanir</Desc>
+    <Desc>Bu Sahne kullanılan Dört Trigram ("Geon", "Gon", "Gam" ve "Ri") Sayfalarına bağlı olarak ek bir etki kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="debufHalf">
-    <Desc>[Çarpisma Baslangici] Üzerinizdeki durum etkilerini yariya böler (Yukari Yuvarlanir)</Desc>
+    <Desc>[Çarpışma Başlangıcı] Üzerinizdeki durum etkilerini yarıya böler (Yukarı Yuvarlanır)</Desc>
     </BattleCardAbility>
   <BattleCardAbility ID="discardAllAndPower2">
-    <Desc>[Kullanildiginda] Eldeki tüm Sayfalari atar; Bu Sayfadaki tüm Zarlar +2 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Eldeki tüm Sayfaları atar; Bu Sayfadaki tüm Zarlar +2 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="hanaDiscardDraw">
-    <Desc>[Kullanildiginda] Rastgele bir Sayfayi atar; Sonraki Sahnenin baslangicinda 2 Sayfa çeker</Desc>
+    <Desc>[Kullanıldığında] Rastgele bir Sayfayı atar; Sonraki Sahnenin başlangıcında 2 Sayfa çeker</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="hanaQuick">
-    <Desc>[Kullanildiginda] Sonraki Sahne 1 Hiz kazanir; Hiz 7 veya üzerindeyse, +1 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne 1 Hız kazanır; Hız 7 veya üzerindeyse, +1 Güç kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="hanaPassive1">
-    <Desc>Her Sahne yalnizca bir Dört Trigram kullanilabilir. Bir kez kullanildiginda, Dört Trigramin tamami kullanilana kadar tekrar kullanilamaz</Desc>
-    <Desc>[Oynandiginda] Bu Sahne 1 Güç kazanir ve saldirilarla ek 2 Hasar ve Sersemletme Hasari verir</Desc>
+    <Desc>Her Sahne yalnızca bir Dört Trigram kullanılabilir. Bir kez kullanıldığında, Dört Trigramin tamamı kullanılana kadar tekrar kullanılamaz</Desc>
+    <Desc>[Oynandığında] Bu Sahne 1 Güç kazanır ve saldırılarla ek 2 Hasar ve Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="hanaPassive2">
-    <Desc>Her Sahne yalnizca bir Dört Trigram kullanilabilir. Bir kez kullanildiginda, Dört Trigramin tamami kullanilana kadar tekrar kullanilamaz</Desc>
-    <Desc>[Oynandiginda] Bu Sahne 1 Dayaniklilik kazanir ve saldirilardan %30 daha az Hasar ve Sersemletme Hasari alir</Desc>
+    <Desc>Her Sahne yalnızca bir Dört Trigram kullanılabilir. Bir kez kullanıldığında, Dört Trigramin tamamı kullanılana kadar tekrar kullanılamaz</Desc>
+    <Desc>[Oynandığında] Bu Sahne 1 Dayanıklılık kazanır ve saldırılardan %30 daha az Hasar ve Sersemletme Hasarı alır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="hanaPassive3">
-    <Desc>Her Sahne yalnizca bir Dört Trigram kullanilabilir. Bir kez kullanildiginda, Dört Trigramin tamami kullanilana kadar tekrar kullanilamaz</Desc>
-    <Desc>[Oynandiginda] 1 Isik yeniler</Desc>
+    <Desc>Her Sahne yalnızca bir Dört Trigram kullanılabilir. Bir kez kullanıldığında, Dört Trigramin tamamı kullanılana kadar tekrar kullanılamaz</Desc>
+    <Desc>[Oynandığında] 1 Işık yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="hanaPassive4">
-    <Desc>Her Sahne yalnizca bir Dört Trigram kullanilabilir. Bir kez kullanildiginda, Dört Trigramin tamami kullanilana kadar tekrar kullanilamaz</Desc>
-    <Desc>[Oynandiginda] 1 Sayfa çeker</Desc>
+    <Desc>Her Sahne yalnızca bir Dört Trigram kullanılabilir. Bir kez kullanıldığında, Dört Trigramin tamamı kullanılana kadar tekrar kullanılamaz</Desc>
+    <Desc>[Oynandığında] 1 Sayfa çeker</Desc>
   </BattleCardAbility>
 
 
   <BattleCardAbility ID="blackSilenceSpecial">
-    <Desc>Bu Sayfa yalnizca Kara Sessizlik'in 9 Savas Sayfasi kullanildiktan sonra kullanilabilir</Desc>
-    <Desc>[Vurdugunda] Sonraki Sahne 5 Kanama, 3 Baglama ve 3 Kirilgan uygular</Desc>
+    <Desc>Bu Sayfa yalnızca Kara Sessizlik'in 9 Savaş Sayfası kullanıldıktan sonra kullanılabilir</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 5 Kanama, 3 Bağlama ve 3 Kırılgan uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="blackSilenceSpecialDice">
-    <Desc>[Çarpisma Kazandiginda] Rakibin tüm Zarlarini yok eder</Desc>
+    <Desc>[Çarpışma Kazandığında] Rakibin tüm Zarlarını yok eder</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="powerUpNext1pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Zara +1 Güç ekler</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Zara +1 Güç ekler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="Seven_Engagement">
-    <Desc>[Kullanildiginda] Ele "Hazir Ol" Sayfasini ekler</Desc>
+    <Desc>[Kullanıldığında] Ele "Hazır Ol" Sayfasını ekler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="Seven_EnGarde">
-    <Desc>[Kullanildiginda] Sonraki Sahne Hedefe ve kendine 1 Güç verir</Desc>
+    <Desc>[Kullanıldığında] Sonraki Sahne Hedefe ve kendine 1 Güç verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="Seven_Fleche">
-    <Desc>[Çarpisma Kazandiginda] 4 Sersemletme Hasari verir; sonraki Sahne 1 Kirilgan uygular</Desc>
+    <Desc>[Çarpışma Kazandığında] 4 Sersemletme Hasarı verir; sonraki Sahne 1 Kırılgan uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="increaseMaxLast2pw">
-    <Desc>[Çarpisma Kazandiginda] Son Zarin maksimum atisini 2 artirir</Desc>
+    <Desc>[Çarpışma Kazandığında] Son Zarın maksimum atışını 2 artırır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="vulnerable2pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 2 Kirilgan uygular</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 2 Kırılgan uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="strength1pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 1 Güç kazanir</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 1 Güç kazanır</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="fixedCost">
-    <Desc>Bu Sayfanin Maliyeti degistirilemez</Desc>
+    <Desc>Bu Sayfanın Maliyeti değiştirilemez</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="rolandDrawUtil">
-    <Desc>Bu Sayfanin Maliyeti degistirilemez</Desc>
-    <Desc>[Kullanildiginda] 1 Sayfa çeker</Desc>
+    <Desc>Bu Sayfanın Maliyeti değiştirilemez</Desc>
+    <Desc>[Kullanıldığında] 1 Sayfa çeker</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="limit1">
-    <Desc>Ayni anda bu Sayfadan yalnizca bir kopya bulunabilir</Desc>
+    <Desc>Aynı anda bu Sayfadan yalnızca bir kopya bulunabilir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="upgradeNext2atk">
-    <Desc>[Vurdugunda] Sonraki Zarin maksimum sonucunu +2 artirir</Desc>
+    <Desc>[Vurduğunda] Sonraki Zarın maksimum sonucunu +2 artırır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="slashUp3thisRound">
-    <Desc>[Çarpisma Baslangici] Bu Sahne için Kesme Zarlarinin Gücünü +3 artirir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Bu Sahne için Kesme Zarlarının Gücünü +3 artırır</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="Sword_getbonecuttingcardpl">
-    <Desc>[Çarpisma Kaybettiginde] Ele "Kemiklerini Geri Alma" Sayfasini ekler</Desc>
+    <Desc>[Çarpışma Kaybettiğinde] Ele "Kemiklerini Geri Alma" Sayfasını ekler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="paralysis5bleeding3atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 5 Felç ve 3 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 5 Felç ve 3 Kanama uygular</Desc>
   </BattleCardAbility>
 
 
   <BattleCardAbility ID="bleeding3pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 3 Kanama uygular</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 3 Kanama uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="dmgUpbybleedingbuf">
-    <Desc>Hedefteki Kanama miktari kadar Hasari artirir</Desc>
+    <Desc>Hedefteki Kanama miktarı kadar Hasarı artırır</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="rolandSpecialRemake">
-    <Desc>Bu Sayfa yalnizca Kara Sessizlik'in 9 Savas Sayfasi kullanildiktan sonra kullanilabilir; [Güç Nüleme]</Desc>
+    <Desc>Bu Sayfa yalnızca Kara Sessizlik'in 9 Savaş Sayfası kullanıldıktan sonra kullanılabilir; [Güç Nüleme]</Desc>
   </BattleCardAbility> 
   
   
-  <BattleCardAbility ID="bremenCard"> <Desc>[Çarpisma Baslangici] Tüm müttefiklere 1 Güç verir; bu Sayfa bundan sonra yetenegini kaybeder</Desc>
+  <BattleCardAbility ID="bremenCard"> <Desc>[Çarpışma Başlangıcı] Tüm müttefiklere 1 Güç verir; bu Sayfa bundan sonra yeteneğini kaybeder</Desc>
     <Desc></Desc>
   </BattleCardAbility>
   
-  <BattleCardAbility ID="reBurnAttackCard"> <Desc>[Kullanildiginda] Kullanicinin sahip oldugu rastgele bir "Yanan Vurus" kopyasinin Maliyetini 1 düsürür; kendine 2 Yanik uygular</Desc>
+  <BattleCardAbility ID="reBurnAttackCard"> <Desc>[Kullanıldığında] Kullanıcının sahip olduğu rastgele bir "Yanan Vuruş" kopyasının Maliyetini 1 düşürür; kendine 2 Yanık uygular</Desc>
     <Desc></Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="tanyaOnlyCardDice">
-    <Desc>[Çarpisma Kazandiginda] Hedefin Sayfasindaki tüm Zarlar 5 Güç kaybeder</Desc>
+    <Desc>[Çarpışma Kazandığında] Hedefin Sayfasındaki tüm Zarlar 5 Güç kaybeder</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="vibrateActivatePlayer">
-    <Desc>[Kullanildiginda] Hiz, Hedefin Titresimine esitse, bu Sayfanin tüm Zarlari 4+ Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Hız, Hedefin Titreşimine eşitse, bu Sayfanın tüm Zarları 4+ Güç kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="plutoCard">
-    <Desc>Bu Sayfayi attiginda 1 Isik yeniler</Desc>
+    <Desc>Bu Sayfayı attığında 1 Işık yeniler</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="jaeheonPassive">
-    <Desc>[Oynandiginda] [Müttefik Hedef] Hedefe bir "Kukla ipleri" Sayfasi verir</Desc>
+    <Desc>[Oynandığında] [Müttefik Hedef] Hedefe bir "Kukla ipleri" Sayfası verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="argaliaDownWithCond">
-    <Desc>[Vurdugunda] Hedefin Titresimi 6 veya üzerindeyse, Titresimi 1 azaltir</Desc>
+    <Desc>[Vurduğunda] Hedefin Titreşimi 6 veya üzerindeyse, Titreşimi 1 azaltır</Desc>
   </BattleCardAbility>
     
   <BattleCardAbility ID="argaliaChangeVibrate">
-    <Desc>[Vurdugunda] Hedefin Titresimi 4'e sabitlenir</Desc>
+    <Desc>[Vurduğunda] Hedefin Titreşimi 4'e sabitlenir</Desc>
   </BattleCardAbility>
     
   <BattleCardAbility ID="vibrateAddition">
-    <Desc>Bu Sayfa Rezonansi etkinlestirirse, 2 Sayfa çeker</Desc>
+    <Desc>Bu Sayfa Rezonansı etkinleştirirse, 2 Sayfa çeker</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="vibrateAdditionEnergy">
-    <Desc>Bu Sayfa Rezonansi etkinlestirirse, 1 Sayfa çeker</Desc>
-    <Desc>[Kullanildiginda] 1 Isik yeniler</Desc>
+    <Desc>Bu Sayfa Rezonansı etkinleştirirse, 1 Sayfa çeker</Desc>
+    <Desc>[Kullanıldığında] 1 Işık yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="contract1">
-    <Desc>[Kosul] Maliyeti degistirilmis bir Sayfa kullanin
+    <Desc>[Koşul] Maliyeti değiştirilmiş bir Sayfa kullanın
 </Desc>
-    <Desc>[sartlar] Eldeki Sayfalarin Maliyeti rastgele olur; belirli bir Maliyetli Sayfalari kullanmanin bir cezasi vardir
+    <Desc>[şartlar] Eldeki Sayfaların Maliyeti rastgele olur; belirli bir Maliyetli Sayfaları kullanmanın bir cezası vardır
 </Desc>
-    <Desc>[Oynandiginda] Sözlesme atanmamis bir müttefiki hedefleyerek sözlesmeyi herkesin elinden tüketir ve sonraki Sahnenin baslangicinda sözlesmeleri degistirir </Desc>
+    <Desc>[Oynandığında] Sözleşme atanmamış bir müttefiki hedefleyerek sözleşmeyi herkesin elinden tüketir ve sonraki Sahnenin başlangıcında sözleşmeleri değiştirir </Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="contract2">
-    <Desc>[Kosul] Sahnenin sonunda elde 1, 2 ve 3 maliyetli Sayfalar bulundurun
+    <Desc>[Koşul] Sahnenin sonunda elde 1, 2 ve 3 maliyetli Sayfalar bulundurun
 </Desc>
-    <Desc>[sartlar] Belirli bir Maliyetli Sayfalar Güç kazanir; digerleri Güç kaybeder
+    <Desc>[şartlar] Belirli bir Maliyetli Sayfalar Güç kazanır; diğerleri Güç kaybeder
 </Desc>
-    <Desc>[Oynandiginda] Sözlesme atanmamis bir müttefiki hedefleyerek sözlesmeyi herkesin elinden tüketir ve sonraki Sahnenin baslangicinda sözlesmeleri degistirir </Desc>
+    <Desc>[Oynandığında] Sözleşme atanmamış bir müttefiki hedefleyerek sözleşmeyi herkesin elinden tüketir ve sonraki Sahnenin başlangıcında sözleşmeleri değiştirir </Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="contract3">
-    <Desc>[Kosul] Savunma Zarlariyla 4 Çarpisma kazanin
+    <Desc>[Koşul] Savunma Zarlariyla 4 Çarpışma kazanın
 </Desc>
-    <Desc>[sartlar] Hiz kazanir, bir Çarpismaya katilmak zorunludur
+    <Desc>[şartlar] Hız kazanır, bir Çarpışmaya katılmak zorunludur
 </Desc>
-    <Desc>[Oynandiginda] Sözlesme atanmamis bir müttefiki hedefleyerek sözlesmeyi herkesin elinden tüketir ve sonraki Sahnenin baslangicinda sözlesmeleri degistirir </Desc>
+    <Desc>[Oynandığında] Sözleşme atanmamış bir müttefiki hedefleyerek sözleşmeyi herkesin elinden tüketir ve sonraki Sahnenin başlangıcında sözleşmeleri değiştirir </Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="contract4">
-    <Desc>[Kosul] Sahnenin sonunda herhangi bir miktarda Güce sahip olun
+    <Desc>[Koşul] Sahnenin sonunda herhangi bir miktarda Güce sahip olun
 </Desc>
-    <Desc>[sartlar] Her Sahne Güç kazanir; bir Saldiri Zari olan Sayfalari kullanmak zorunludur
+    <Desc>[şartlar] Her Sahne Güç kazanır; bir Saldırı Zarı olan Sayfaları kullanmak zorunludur
 </Desc>
-    <Desc>[Oynandiginda] Sözlesme atanmamis bir müttefiki hedefleyerek sözlesmeyi herkesin elinden tüketir ve sonraki Sahnenin baslangicinda sözlesmeleri degistirir </Desc>
+    <Desc>[Oynandığında] Sözleşme atanmamış bir müttefiki hedefleyerek sözleşmeyi herkesin elinden tüketir ve sonraki Sahnenin başlangıcında sözleşmeleri değiştirir </Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="contract5">
-    <Desc>[Kosul] Sahnenin sonunda Duygu Seviyesi 2'de olun
+    <Desc>[Koşul] Sahnenin sonunda Duygu Seviyesi 2'de olun
 </Desc>
-    <Desc>[sartlar] Her Sahne tüm Isigi tamamen yeniler; hepsini kullanmak zorunludur
+    <Desc>[şartlar] Her Sahne tüm Işığı tamamen yeniler; hepsini kullanmak zorunludur
 </Desc>
-    <Desc>[Oynandiginda] Sözlesme atanmamis bir müttefiki hedefleyerek sözlesmeyi herkesin elinden tüketir ve sonraki Sahnenin baslangicinda sözlesmeleri degistirir </Desc>
+    <Desc>[Oynandığında] Sözleşme atanmamış bir müttefiki hedefleyerek sözleşmeyi herkesin elinden tüketir ve sonraki Sahnenin başlangıcında sözleşmeleri değiştirir </Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="heavysmoke1atk">
-    <Desc>[Vurdugunda] 1 Bogucu Sis uygular </Desc>
+    <Desc>[Vurduğunda] 1 Boğucu Sis uygular </Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="heavysmoke3atkarea">
-    <Desc>[Vurdugunda] 3 Bogucu Sis uygular</Desc>
+    <Desc>[Vurduğunda] 3 Boğucu Sis uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="bleeding5atkarea">
-    <Desc>[Vurdugunda] 5 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] 5 Kanama uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="addRecoverHp3Atkalldice">
-    <Desc>[Kullanildiginda] Bu Sayfadaki tüm Saldiri Zarlari "[Vurdugunda] 3 Can yeniler" kazanir</Desc>
+    <Desc>[Kullanıldığında] Bu Sayfadaki tüm Saldırı Zarları "[Vurduğunda] 3 Can yeniler" kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="rolandcontinuousDice">
-    <Desc>[Vurdugunda] Zarin dogal sonucu 5 ise, Zari tekrar kullanir (En fazla 4 kez)</Desc>
+    <Desc>[Vurduğunda] Zarın doğal sonucu 5 ise, Zarı tekrar kullanır (En fazla 4 kez)</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="addRecoverHp2Atkalldice">
-    <Desc>[Kullanildiginda] Bu Sayfadaki tüm Saldiri Zarlari "[Vurdugunda] 2 Can yeniler" kazanir</Desc>
+    <Desc>[Kullanıldığında] Bu Sayfadaki tüm Saldırı Zarları "[Vurduğunda] 2 Can yeniler" kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="greta_dmgUpbybleedingbufatk">
-    <Desc>[Vurdugunda] Hedefteki Kanama miktari kadar Hasari artirir</Desc>
+    <Desc>[Vurduğunda] Hedefteki Kanama miktarı kadar Hasarı artırır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="greta_destroyDice">
-    <Desc>[Çarpisma Kazandiginda] Rakibin Zarlarini yok eder
-[Çarpisma Kaybettiginde] Bu Sayfadaki Zarlari yok eder</Desc>
+    <Desc>[Çarpışma Kazandığında] Rakibin Zarlarını yok eder
+[Çarpışma Kaybettiğinde] Bu Sayfadaki Zarları yok eder</Desc>
   </BattleCardAbility>
   
 
   <BattleCardAbility ID="bremen_ally2recover5atk">
-    <Desc>[Vurdugunda] Rastgele iki müttefikin 2 Canini yeniler</Desc>
+    <Desc>[Vurduğunda] Rastgele iki müttefikin 2 Canını yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="bremen_binding2weak1atk">
-    <Desc>[Vurdugunda] 2 Baglama ve 1 Zayif uygular</Desc>
+    <Desc>[Vurduğunda] 2 Bağlama ve 1 Zayıf uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="bremen_ally2strength1pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne rastgele iki müttefike 1 Güç verir</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne rastgele iki müttefike 1 Güç verir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="bremen2_concert">
-    <Desc>[Çarpisma Baslangici] [Müttefik Hedef] Hedef müttefik ise, bu Sahne 2 Hiz verir</Desc>
+    <Desc>[Çarpışma Başlangıcı] [Müttefik Hedef] Hedef müttefik ise, bu Sahne 2 Hız verir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="bremen2_musictherapy">
-    <Desc>[Çarpisma Baslangici] [Müttefik Hedef] Hedef müttefik ise, 20 Can yeniler</Desc>
+    <Desc>[Çarpışma Başlangıcı] [Müttefik Hedef] Hedef müttefik ise, 20 Can yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="bremen2_canselectfriend">
-    <Desc>[Çarpisma Baslangici] [Müttefik Hedef] Hedef müttefik ise, tüm müttefikler 1 Güç kazanir ve 20 Can yeniler</Desc>
+    <Desc>[Çarpışma Başlangıcı] [Müttefik Hedef] Hedef müttefik ise, tüm müttefikler 1 Güç kazanır ve 20 Can yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="bremen2_ally2protectionpw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne en düsük Cana sahip müttefike 2 Koruma verir</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne en düşük Cana sahip müttefike 2 Koruma verir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="philip_weak1binding1disarm1atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Baglama, Silahsizlanma ve Zayif uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Bağlama, Silahsızlanma ve Zayıf uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="philip_negative1atk">
-    <Desc>[Kullanildiginda] Bu Sayfadaki tüm Saldiri Zarlari "[Vurdugunda] 1 Negatif Duygu Puani kazanir" kazanir</Desc>
+    <Desc>[Kullanıldığında] Bu Sayfadaki tüm Saldırı Zarları "[Vurduğunda] 1 Negatif Duygu Puanı kazanır" kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="philip_powerup2bytargetburn8">
-    <Desc>[Kullanildiginda] Hedef 8 veya daha fazla Yanik'a sahipse, 2+ Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Hedef 8 veya daha fazla Yanık'a sahipse, 2+ Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="philip_arrest1atk">
-    <Desc>[Vurdugunda] 1 Kisitlama uygular</Desc>
+    <Desc>[Vurduğunda] 1 Kısıtlama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="philip_areaburn10atk">
-    <Desc>[Vurdugunda] 10 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 10 Yanık uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="philip_vigor_atk2">
-    <Desc>[Vurdugunda] Her birine 2 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] Her birine 2 Yanık uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="roland2phaseFar">
-    <Desc>[Çarpisma Kazandiginda] Rakibin Zarlarini yok eder
-[Çarpisma Kaybettiginde] Bu Sayfadaki Zarlari yok eder</Desc>
+    <Desc>[Çarpışma Kazandığında] Rakibin Zarlarını yok eder
+[Çarpışma Kaybettiğinde] Bu Sayfadaki Zarları yok eder</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="roland2phaseenemys1">
-    <Desc>[Çarpisma Kazandiginda] Rakibin Zarlarini yok eder
-[Çarpisma Kaybettiginde] Bu Sayfadaki Zarlari yok eder</Desc>
+    <Desc>[Çarpışma Kazandığında] Rakibin Zarlarını yok eder
+[Çarpışma Kaybettiğinde] Bu Sayfadaki Zarları yok eder</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="roland2phaseenemys2">
-    <Desc>[Vurdugunda] Zarin dogal sonucu 3 ise, Zari tekrar kullanir (En fazla 4 kez)</Desc>
+    <Desc>[Vurduğunda] Zarın doğal sonucu 3 ise, Zarı tekrar kullanır (En fazla 4 kez)</Desc>
   </BattleCardAbility>
 
     <BattleCardAbility ID="blackbind">
-    <Desc>[Çarpisma Baslangici] Hedef Angelica ise, 1 Güç, Dayaniklilik ve Koruma verir. Aksi takdirde, Hedef "Karanlik Mevcudiyet" alir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Hedef Angelica ise, 1 Güç, Dayanıklılık ve Koruma verir. Aksi takdirde, Hedef "Karanlık Mevcudiyet" alır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="dmg3pw">
-    <Desc>[Çarpisma Kazandiginda] 3 Hasar verir</Desc>
+    <Desc>[Çarpışma Kazandığında] 3 Hasar verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="quickness1pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 1 Hiz kazanir</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 1 Hız kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="loselink1plwe">
-    <Desc>[Çarpisma Kaybettiginde] Hedef "Kül Mevcudiyeti"ne sahipse, "Ruh Bagi"ni 1 düsürür</Desc>
+    <Desc>[Çarpışma Kaybettiğinde] Hedef "Kül Mevcudiyeti"ne sahipse, "Ruh Bağı"ni 1 düşürür</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="atkcombo_zelkova">
-    <Desc>[Çarpisma Baslangici] Hedef Angelica ile ayni karakter ise, bu Sayfadaki tüm saldiri Zarlari ona tasinir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Hedef Angelica ile aynı karakter ise, bu Sayfadaki tüm saldırı Zarları ona taşınır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="atkcombo_allas">
-    <Desc>[Çarpisma Baslangici] Hedef Angelica ile ayni karakter ise, bu Sayfadaki tüm saldiri Zarlari ona tasinir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Hedef Angelica ile aynı karakter ise, bu Sayfadaki tüm saldırı Zarları ona taşınır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="atkcombo_logic">
-    <Desc>[Çarpisma Baslangici] Hedef Angelica ile ayni karakter ise, bu Sayfadaki tüm saldiri Zarlari ona tasinir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Hedef Angelica ile aynı karakter ise, bu Sayfadaki tüm saldırı Zarları ona taşınır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="bind1paralysis1atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Baglama ve Felç uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Bağlama ve Felç uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerup2highspeed">
-    <Desc>[Kullanildiginda] Hiz Hedefin hizindan yüksekse, +2 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Hız Hedefin hızından yüksekse, +2 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="vul1bleed1atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Kanama ve Kirilgan uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Kanama ve Kırılgan uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="allstr1endu1atk">
-    <Desc>[Vurdugunda] Sonraki Sahne tüm müttefiklere 1 Güç ve Dayaniklilik verir</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne tüm müttefiklere 1 Güç ve Dayanıklılık verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="whitebind">
-    <Desc>[Çarpisma Baslangici] Hedef Roland ise, 1 Güç, Dayaniklilik ve Koruma verir. Aksi takdirde, Hedef "Kül Mevcudiyeti" alir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Hedef Roland ise, 1 Güç, Dayanıklılık ve Koruma verir. Aksi takdirde, Hedef "Kül Mevcudiyeti" alır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="loselink1plbe">
-    <Desc>[Çarpisma Kaybettiginde] Hedef "Karanlik Mevcudiyet"e sahipse, "Ruh Bagi"ni 1 düsürür</Desc>
+    <Desc>[Çarpışma Kaybettiğinde] Hedef "Karanlık Mevcudiyet"e sahipse, "Ruh Bağı"ni 1 düşürür</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="dmg4break4atk">
-    <Desc>[Vurdugunda] 4 Hasar ve Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] 4 Hasar ve Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="dmg10break10atk">
-    <Desc>[Vurdugunda] 10 Hasar ve Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] 10 Hasar ve Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="bs3combodestroy">
-    <Desc>[Vurdugunda] [Çarpisma Kazandiginda] Rakibin tüm Zarlarini yok eder
-[Çarpisma Kaybettiginde] Bu Sayfadaki tüm Zarlari yok eder
+    <Desc>[Vurduğunda] [Çarpışma Kazandığında] Rakibin tüm Zarlarını yok eder
+[Çarpışma Kaybettiğinde] Bu Sayfadaki tüm Zarları yok eder
     </Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="black_4th_hammer_atk">
-    <Desc>[Vurdugunda] 5 Sersemletme Direnci yeniler</Desc>
+    <Desc>[Vurduğunda] 5 Sersemletme Direnci yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_dagger_atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 3 Kanama ve Silahsizlanma uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 3 Kanama ve Silahsızlanma uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_gaunlet_atk1">
-    <Desc>[Vurdugunda] Sonraki Sahne 3 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 3 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_gaunlet_atk2">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_lance_pw">
-    <Desc>[Çarpisma Kazandiginda] 6 Sersemletme Hasari verir</Desc>
+    <Desc>[Çarpışma Kazandığında] 6 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_attitude_atk1">
-    <Desc>[Vurdugunda] Sonraki Sahne 3 Kanama ve Zayif uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 3 Kanama ve Zayıf uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_attitude_atk2">
-    <Desc>[Vurdugunda] Sonraki Sahne 3 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 3 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_attitude_atk3">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_dualblade_atk1">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Baglama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Bağlama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_dualblade_atk2">
-    <Desc>[Vurdugunda] 6 Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] 6 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_bfsword_pw">
-    <Desc>[Çarpisma Kazandiginda] Rakibin tüm Zarlarini yok eder</Desc>
+    <Desc>[Çarpışma Kazandığında] Rakibin tüm Zarlarını yok eder</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_bfsword_atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Baglama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Bağlama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_shotgun_atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Baglama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Bağlama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_durandalstrong_atk">
-    <Desc>[Vurdugunda] 8 Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] 8 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_area_atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 2 Kanama, 1 Baglama ve 1 Kirilgan uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 2 Kanama, 1 Bağlama ve 1 Kırılgan uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_areastrong_atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 2 Kirilgan ve 1 Felç uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 2 Kırılgan ve 1 Felç uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_lance">
-    <Desc>[Kullanildiginda] Çarpisma degilse, +2 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Çarpışma değilse, +2 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_durandalstrong">
-    <Desc>[Kullanildiginda] Hedef Baglama'ya sahipse, +2 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Hedef Bağlama'ya sahipse, +2 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_durandal">
-    <Desc>[Kullanildiginda] Hedef Baglama'ya sahipse, +2 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Hedef Bağlama'ya sahipse, +2 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_durandalweak">
-    <Desc>Bu Sayfa +15 Hasar veremezse, kullanici 15 Sersemletme Hasari alir ve sonraki Sahne 1 Güç kazanir</Desc>
+    <Desc>Bu Sayfa +15 Hasar veremezse, kullanıcı 15 Sersemletme Hasarı alır ve sonraki Sahne 1 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_area">
-    <Desc>Üçüncü Zar kalan her silahta tekrar kullanilir</Desc>
+    <Desc>Üçüncü Zar kalan her silahta tekrar kullanılır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_afterimage">
-    <Desc>[Oynandiginda] Kendindeki tüm durum etkilerini temizler</Desc>
+    <Desc>[Oynandığında] Kendindeki tüm durum etkilerini temizler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_area_atk_Final">
-    <Desc>Rastgele Hasar türleriyle saldirir. [Vurdugunda] Sonraki Sahne 2 Kanama, 1 Baglama ve 1 Kirilgan uygular</Desc>
+    <Desc>Rastgele Hasar türleriyle saldırır. [Vurduğunda] Sonraki Sahne 2 Kanama, 1 Bağlama ve 1 Kırılgan uygular</Desc>
   </BattleCardAbility>
 
 
 <BattleCardAbility ID="oswald_summonandhide">
-    <Desc>Bayan Deniz Kizi ve Bay Biçak sonraki Sahne ortaya çikar. 2 Sahne sonra savasi birakirlar</Desc>
+    <Desc>Bayan Deniz Kızı ve Bay Bıçak sonraki Sahne ortaya çıkar. 2 Sahne sonra savaşı bırakırlar</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oswald_summon">
-    <Desc>[Çarpisma Baslangici] Oswald ölmedigi sürece Bay Tavsan sonraki Sahne ortaya çikar </Desc>
+    <Desc>[Çarpışma Başlangıcı] Oswald ölmediği sürece Bay Tavşan sonraki Sahne ortaya çıkar </Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oswald_attack_atk">
-    <Desc>[Vurdugunda] 4 Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] 4 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oswald_counter_atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oswald_combo_atk1">
-    <Desc>[Vurdugunda] 2 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 2 Yanık uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oswald_combo_atk2">
-    <Desc>[Vurdugunda] 1 Yanik uygular</Desc>
+    <Desc>[Vurduğunda] 1 Yanık uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oswald_distract">
-    <Desc>[Çarpisma Baslangici] Hedef Sahnenin sonunda Sersemlemis ise, müttefike dönüstürür</Desc>
+    <Desc>[Çarpışma Başlangıcı] Hedef Sahnenin sonunda Sersemlemiş ise, müttefike dönüştürür</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oswald_distract_atk">
-    <Desc>[Vurdugunda] 6 Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] 6 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oswald_vulnerable">
-    <Desc>[Çarpisma Baslangici] Hedefin direnci bu Sahne için "Ölümcül" olarak degisir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Hedefin direnci bu Sahne için "Ölümcül" olarak değişir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oswald_vulnerable_atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oswald_climax">
-    <Desc>[Kullanildiginda] Hedefe rastgele asagidaki durumlari uygular: 2 Kirilgan, 2 Silahsizlanma, 2 Zayif, 2 Koruma, 2 Güç, 2 Dayaniklilik</Desc>
+    <Desc>[Kullanıldığında] Hedefe rastgele aşağıdaki durumları uygular: 2 Kırılgan, 2 Silahsızlanma, 2 Zayıf, 2 Koruma, 2 Güç, 2 Dayanıklılık</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oswald_climax_atk">
-    <Desc>[Vurdugunda] 8 Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] 8 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oswald_boom">
-    <Desc>[Çarpisma Baslangici] Kullanici sonraki Sahne ölür</Desc>
+    <Desc>[Çarpışma Başlangıcı] Kullanıcı sonraki Sahne ölür</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oswald_boom_atk">
-    <Desc>[Vurdugunda] Hedefin mevcut Caninin %50'sine esit Hasar verir</Desc>
+    <Desc>[Vurduğunda] Hedefin mevcut Canının %50'sine eşit Hasar verir</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="jaeheon_area_atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 "Kukla ipleri" verir</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 "Kukla ipleri" verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="jaeheon_string">
-    <Desc>[Çarpisma Baslangici] Sonraki Sahne 1 "Kukla ipleri" verir</Desc>
+    <Desc>[Çarpışma Başlangıcı] Sonraki Sahne 1 "Kukla ipleri" verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="jaeheon_string_pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 1 Zayif uygular</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 1 Zayıf uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="jaeheon_link">
-    <Desc>[Çarpisma Baslangici] Hedefe ve sirke dahil düsmanlara "Kirmizi iplikler"i ekler</Desc>
+    <Desc>[Çarpışma Başlangıcı] Hedefe ve sirke dahil düşmanlara "Kırmızı iplikler"i ekler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="jaeheon_link_pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 1 Zayif uygular</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 1 Zayıf uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="jaeheon_guard_pw1">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 1 Zayif uygular</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 1 Zayıf uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="jaeheon_guard_pw2">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 1 Silahsizlanma uygular</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 1 Silahsızlanma uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="jaeheon_attackStrong_pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 1 Zayif uygular</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 1 Zayıf uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="jaeheon_bind_atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Baglama uygular</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Bağlama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="jaeheon_control1_pl">
-    <Desc>[Çarpisma Kaybettiginde] Kendine 20 Sersemletme Hasari verir; Tüm kütüphaneciler sonraki Sahne 1 "Kukla ipleri" kaybeder</Desc>
+    <Desc>[Çarpışma Kaybettiğinde] Kendine 20 Sersemletme Hasarı verir; Tüm kütüphaneciler sonraki Sahne 1 "Kukla ipleri" kaybeder</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="jaeheon_control2_pl">
-    <Desc>[Çarpisma Kaybettiginde] Kendine 20 Sersemletme Hasari verir; Tüm kütüphaneciler sonraki Sahne 1 "Kukla ipleri" kaybeder</Desc>
+    <Desc>[Çarpışma Kaybettiğinde] Kendine 20 Sersemletme Hasarı verir; Tüm kütüphaneciler sonraki Sahne 1 "Kukla ipleri" kaybeder</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oswald_string">
-    <Desc>Bu Sayfaya sahipken "Kirmizi iplikler" kazanir. Kullanildiginda elden ayrilmaz.</Desc>
+    <Desc>Bu Sayfaya sahipken "Kırmızı iplikler" kazanır. Kullanıldığında elden ayrılmaz.</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oswald_string_pl">
-    <Desc>[Çarpisma Kaybettiginde] Bu Sayfayi Tüketir, Jae-heon'a 10 Sersemletme Hasari verir</Desc>
+    <Desc>[Çarpışma Kaybettiğinde] Bu Sayfayı Tüketir, Jae-heon'a 10 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
 
 
   <BattleCardAbility ID="recoverNextRound">
-    <Desc>[Çarpisma Baslangici] Sonraki Sahnenin baslangicinda 50 Can yeniler</Desc>
+    <Desc>[Çarpışma Başlangıcı] Sonraki Sahnenin başlangıcında 50 Can yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="immuneDestory">
@@ -2010,209 +2010,209 @@
 
 
   <BattleCardAbility ID="binahArea">
-    <Desc>[Kullanildiginda] Tüm müttefiklere bu Sahne 3 Koruma ve Sersemletme Korumasi verir</Desc>
+    <Desc>[Kullanıldığında] Tüm müttefiklere bu Sahne 3 Koruma ve Sersemletme Koruması verir</Desc>
   </BattleCardAbility>
 
 
   <BattleCardAbility ID="angela_guard">
-    <Desc>Bu Sayfanin Maliyeti degistirilemez. [Kullanildiginda] 3 Isik yeniler; 1 Sayfa çeker</Desc>
+    <Desc>Bu Sayfanın Maliyeti değiştirilemez. [Kullanıldığında] 3 Işık yeniler; 1 Sayfa çeker</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="break3pw">
-    <Desc>[Çarpisma Kazandiginda] 3 Sersemletme Hasari verir</Desc>
+    <Desc>[Çarpışma Kazandığında] 3 Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="angela_galaxy">
-    <Desc>[Kullanildiginda] En düsük Cana sahip müttefikin 6 Canini ve Sersemletme Direncini yeniler</Desc>
+    <Desc>[Kullanıldığında] En düşük Cana sahip müttefikin 6 Canını ve Sersemletme Direncini yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="angela_heaven">
-    <Desc>Bu Sayfanin Maliyeti degistirilemez</Desc>
-    <Desc>[Kullanildiginda] 1 Isik yeniler; 1 Sayfa çeker</Desc>
+    <Desc>Bu Sayfanın Maliyeti değiştirilemez</Desc>
+    <Desc>[Kullanıldığında] 1 Işık yeniler; 1 Sayfa çeker</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="angela_teddy">
-    <Desc>[Çarpisma Basladiginda] Bu Sayfadaki tüm Zarlar +2 Güç kazanir</Desc>
+    <Desc>[Çarpışma Başladığında] Bu Sayfadaki tüm Zarlar +2 Güç kazanır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="angela_final_ego">
-    <Desc>Kullanilamaz.
-9 E.G.O Sayfasi kullanildiktan sonra, kosul karsilandiginda elinize özel bir Sayfa eklenir</Desc>
+    <Desc>Kullanılamaz.
+9 E.G.O Sayfası kullanıldıktan sonra, koşul karşılandığında elinize özel bir Sayfa eklenir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="angela_final_card">
-    <Desc>[Kullanildiginda] Kullanicinin tüm Canini feda eder</Desc>
+    <Desc>[Kullanıldığında] Kullanıcının tüm Canını feda eder</Desc>
   </BattleCardAbility>
 
 
   <BattleCardAbility ID="final_heart_addbreakdmg">
-    <Desc>[Çarpisma Kazandiginda] Zar atisina esit ek Sersemletme Hasari verir</Desc>
+    <Desc>[Çarpışma Kazandığında] Zar atışına eşit ek Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="final_heart_hp20">
-    <Desc>[Vurdugunda] 20 Can yeniler</Desc>
-    <Desc>[Çarpisma Kaybettiginde] Kendine 20 Hasar verir</Desc>
+    <Desc>[Vurduğunda] 20 Can yeniler</Desc>
+    <Desc>[Çarpışma Kaybettiğinde] Kendine 20 Hasar verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="final_heart_hp30bleed10">
-    <Desc>[Vurdugunda] 30 Can yeniler; sonraki Sahne 10 Kanama uygular</Desc>
+    <Desc>[Vurduğunda] 30 Can yeniler; sonraki Sahne 10 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="final_heart_eager">
-    <Desc>[Kullanildiginda] Kendine 40 Hasar verir; Tüm müttefiklerin Canini tamamen yeniler</Desc>
+    <Desc>[Kullanıldığında] Kendine 40 Hasar verir; Tüm müttefiklerin Canını tamamen yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="final_heart_areabuf">
-    <Desc>[Vurdugunda] Sonraki Sahne tüm müttefiklere 1 Güç ve Hiz verir</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne tüm müttefiklere 1 Güç ve Hız verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="final_heart_eager1atk">
-    <Desc>[Vurdugunda] Bu Sahne 1 "Arzuyu Özleme" verir</Desc>
+    <Desc>[Vurduğunda] Bu Sahne 1 "Arzuyu Özleme" verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="final_heart_eager1pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 1 "Arzuyu Özleme" verir</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 1 "Arzuyu Özleme" verir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="final_detection_lie">
-    <Desc>[Çarpisma Basladiginda] Bu Sayfadaki tüm Zarlari kaldirir ve bir yalan içeren Sayfadaki Zari kopyalar</Desc>
+    <Desc>[Çarpışma Başladığında] Bu Sayfadaki tüm Zarları kaldırır ve bir yalan içeren Sayfadaki Zarı kopyalar</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="final_remove_error">
-    <Desc>Bu Sayfadaki ve karsilastigi Sayfadaki Zarlar kazanilan veya kaybedilen Güçten etkilenmez</Desc>
-    <Desc>[Vurdugunda] Hedef Pinocchio ise, onu öldürür, ardindan Sahne sonunda tüm müttefiklerin tüm Canini ve Sersemletme Direncini yeniler</Desc>
-    <Desc>ve sonraki Sahne 2 Güç kazanir</Desc>
+    <Desc>Bu Sayfadaki ve karşılaştığı Sayfadaki Zarlar kazanılan veya kaybedilen Güçten etkilenmez</Desc>
+    <Desc>[Vurduğunda] Hedef Pinocchio ise, onu öldürür, ardından Sahne sonunda tüm müttefiklerin tüm Canını ve Sersemletme Direncini yeniler</Desc>
+    <Desc>ve sonraki Sahne 2 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="final_exhaust_target_card">
-    <Desc>[Çarpisma Kazandiginda] Hedef bir kütüphaneciyse, karsilastigi Sayfa bu asama boyunca Tüketilir</Desc>
+    <Desc>[Çarpışma Kazandığında] Hedef bir kütüphaneciyse, karşılaştığı Sayfa bu aşama boyunca Tüketilir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="bloodEgo">
-    <Desc>[Vurdugunda] Hedefteki Güç, Dayaniklilik, Koruma ve Sersemletme Korumasini temizler</Desc>
+    <Desc>[Vurduğunda] Hedefteki Güç, Dayanıklılık, Koruma ve Sersemletme Korumasını temizler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="heartEgo">
-    <Desc>[Kullanildiginda] Mevcut Canin yarisini kaybeder, tüm müttefiklere 1 Güç verir</Desc>
+    <Desc>[Kullanıldığında] Mevcut Canın yarısını kaybeder, tüm müttefiklere 1 Güç verir</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="pinochioego">
-    <Desc>[Kullanildiginda] Kullanicinin tüm Sayfalarinin Maliyeti sonraki Sahne 1 artar</Desc>
+    <Desc>[Kullanıldığında] Kullanıcının tüm Sayfalarının Maliyeti sonraki Sahne 1 artar</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="snowqueenEgoDice">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Baglama ve Zayif uygular </Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Bağlama ve Zayıf uygular </Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="silentEgo">
-    <Desc>[Vurdugunda] Rastgele üç düsman asagidaki durum etkilerinden biriyle etkilenir: 1 Felç, 1 Zayif, 1 Silahsizlanma, 1 Kirilgan (Bireysel olarak belirlenir)</Desc>
+    <Desc>[Vurduğunda] Rastgele üç düşman aşağıdaki durum etkilerinden biriyle etkilenir: 1 Felç, 1 Zayıf, 1 Silahsızlanma, 1 Kırılgan (Bireysel olarak belirlenir)</Desc>
     <Desc></Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="exhaustOnUseText">
-    <Desc>[Tek Kullanimlik]</Desc>
+    <Desc>[Tek Kullanımlık]</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="areaText_single">
-    <Desc>[Alan Saldirisi-Bireysel]</Desc>
+    <Desc>[Alan Saldırısı-Bireysel]</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="areaText_summation">
-    <Desc>[Alan Saldirisi-Toplam]</Desc>
+    <Desc>[Alan Saldırısı-Toplam]</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="separator">
     <Desc>, </Desc> </BattleCardAbility>
   
   <BattleCardAbility ID="awlofnight1">
-    <Desc>[Kullanildiginda] (Kullanicinin Hizi) ve (Hedefin Baglamasi) toplami kadar Hasari artirir</Desc>
+    <Desc>[Kullanıldığında] (Kullanıcının Hızı) ve (Hedefin Bağlaması) toplamı kadar Hasarı artırır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="binding1pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 1 Baglama uygular</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 1 Bağlama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="binding2pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 2 Baglama uygular</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 2 Bağlama uygular</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="quick1discard">
-    <Desc>Atildiginda 1 Hiz kazanir</Desc>
+    <Desc>Atıldığında 1 Hız kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="quickall1discard">
-    <Desc>Atildiginda, sonraki Sahne tüm müttefiklere 1 Hiz verir</Desc>
+    <Desc>Atıldığında, sonraki Sahne tüm müttefiklere 1 Hız verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="discardlowest1draw">
-    <Desc>[Kullanildiginda] En düsük maliyetli Sayfayi atar; 1 Sayfa çeker</Desc>
+    <Desc>[Kullanıldığında] En düşük maliyetli Sayfayı atar; 1 Sayfa çeker</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="sakura">
-    <Desc>[Kullanildiginda] Elde 4+ Sayfa varsa, rastgele 4 Sayfayi atar ve bir Saldiri Zarinin minimum sonucunu 3 artirir</Desc>
+    <Desc>[Kullanıldığında] Elde 4+ Sayfa varsa, rastgele 4 Sayfayı atar ve bir Saldırı Zarının minimum sonucunu 3 artırır</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="protect1pw">
-    <Desc>[Çarpisma Kazandiginda] Sonraki Sahne 1 Koruma kazanir</Desc>
+    <Desc>[Çarpışma Kazandığında] Sonraki Sahne 1 Koruma kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="protect1atk">
-    <Desc>[Vurdugunda] Sonraki Sahne 1 Koruma kazanir</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne 1 Koruma kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="usett_eye">
-    <Desc>[Vurdugunda] Sonraki Sahne tüm müttefiklere 2 Koruma verir</Desc>
+    <Desc>[Vurduğunda] Sonraki Sahne tüm müttefiklere 2 Koruma verir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="usett_adddice">
-    <Desc>Savunma Zarinin dogal sonucu maksimumsa, kuyruga bir Delme Zari (4-5) ekler</Desc>
+    <Desc>Savunma Zarının doğal sonucu maksimumsa, kuyruğa bir Delme Zarı (4-5) ekler</Desc>
   </BattleCardAbility>
   
   
   <BattleCardAbility ID="bleeding5pw">
-    <Desc>[Çarpisma Kazandiginda] 5 Kanama uygular</Desc>
+    <Desc>[Çarpışma Kazandığında] 5 Kanama uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="handCountDmgUp">
-    <Desc>[Kullanildiginda] Eldeki her Sayfa için Hasari +1 artirir; eldeki tüm Sayfalari atar</Desc>
+    <Desc>[Kullanıldığında] Eldeki her Sayfa için Hasarı +1 artırır; eldeki tüm Sayfaları atar</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="discardRandomAndEnergy">
-    <Desc>[Kullanildiginda] Rastgele bir Sayfayi atar; 1 Isik yeniler</Desc>
+    <Desc>[Kullanıldığında] Rastgele bir Sayfayı atar; 1 Işık yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="discardAllEnergy1">
-    <Desc>Atildiginda, tüm müttefikler 1 Isik yeniler</Desc>
+    <Desc>Atıldığında, tüm müttefikler 1 Işık yeniler</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="areaTextExhaust">
-    <Desc>[Alan Saldirisi]</Desc>
-    <Desc>Bu Sayfa kullanildiginda Tüketilir</Desc>
+    <Desc>[Alan Saldırısı]</Desc>
+    <Desc>Bu Sayfa kullanıldığında Tüketilir</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="lifeInsuranceAreaAtk">
-    <Desc>[Vurdugunda] 2 Silahsizlanma, Baglama ve Zayif uygular; 2 Can yeniler</Desc>
+    <Desc>[Vurduğunda] 2 Silahsızlanma, Bağlama ve Zayıf uygular; 2 Can yeniler</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="smokeSelf8">
-    <Desc>[Kullanildiginda] 8 Duman kazanir</Desc>
+    <Desc>[Kullanıldığında] 8 Duman kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="light1smoke3atk">
-    <Desc>[Vurdugunda] 1 Isik yeniler; 3 Duman uygular</Desc>
+    <Desc>[Vurduğunda] 1 Işık yeniler; 3 Duman uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="smoke2selfsmoke1atk">
-    <Desc>[Vurdugunda] 2 Duman uygular; 1 Duman kazanir</Desc>
+    <Desc>[Vurduğunda] 2 Duman uygular; 1 Duman kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="smoke3atkparalysis3atkbytagetsmoke5">
-    <Desc>[Vurdugunda] 3 Duman uygular; Hedef 5+ Duman'a sahipse, sonraki Sahne 3 Felç uygular</Desc>
+    <Desc>[Vurduğunda] 3 Duman uygular; Hedef 5+ Duman'a sahipse, sonraki Sahne 3 Felç uygular</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerup2byselfsmoke9">
-    <Desc>[Kullanildiginda] Kullanici 9+ Duman'a sahipse, bu Sayfadaki tüm Zarlar +2 Güç kazanir</Desc>
+    <Desc>[Kullanıldığında] Kullanıcı 9+ Duman'a sahipse, bu Sayfadaki tüm Zarlar +2 Güç kazanır</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="costdecrease1allcardExhaust">
-    <Desc>[Tek Kullanimlik] [Kullanildiginda] Eldeki tüm Sayfalarin Maliyetini 1 azaltir</Desc>
+    <Desc>[Tek Kullanımlık] [Kullanıldığında] Eldeki tüm Sayfaların Maliyetini 1 azaltır</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="breakdmgbyselfbreak">
-    <Desc>[Vurdugunda] Tüm Sersemletme Direncini harcar ve harcanan miktara esit Sersemletme Hasari verir</Desc>
+    <Desc>[Vurduğunda] Tüm Sersemletme Direncini harcar ve harcanan miktara eşit Sersemletme Hasarı verir</Desc>
   </BattleCardAbility>
 
 
   <BattleCardAbility ID="selfstunwithabil">
-    <Desc>[Oynandiginda] Bu Sahne **Hareketsiz** olursunuz. 
-Sonraki Sahne 3 Güç kazanir.
-Elinize "Hassasiyetle Kirma" kartinin bir kopyasini ekler</Desc>
+    <Desc>[Oynandığında] Bu Sahne **Hareketsiz** olursunuz. 
+Sonraki Sahne 3 Güç kazanır.
+Elinize "Hassasiyetle Kırma" kartının bir kopyasını ekler</Desc>
   </BattleCardAbility>
 
 
   <BattleCardAbility ID="Wizard_potion">
-    <Desc>[Oynandiginda] [Müttefik Hedef] "Sivi Cesaret" durumunu bahseder</Desc>
+    <Desc>[Oynandığında] [Müttefik Hedef] "Sıvı Cesaret" durumunu bahseder</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="Wizard_poket">
-    <Desc>[Oynandiginda] [Müttefik Hedef] "Talas Çuvali" durumunu bahseder</Desc>
+    <Desc>[Oynandığında] [Müttefik Hedef] "Talaş Çuvalı" durumunu bahseder</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="Wizard_heart">
-    <Desc>[Oynandiginda] [Müttefik Hedef] "Kursun Kalp" durumunu bahseder</Desc>
+    <Desc>[Oynandığında] [Müttefik Hedef] "Kurşun Kalp" durumunu bahseder</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="Wizard_home">
-    <Desc>[Oynandiginda] [Müttefik Hedef] "Ulasilamaz Ev" durumunu bahseder</Desc>
+    <Desc>[Oynandığında] [Müttefik Hedef] "Ulaşılamaz Ev" durumunu bahseder</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="Wizard_change">
-    <Desc>[Oynandiginda] [Müttefik Hedef] "Dönüsüm" durumunu bahseder</Desc>
+    <Desc>[Oynandığında] [Müttefik Hedef] "Dönüşüm" durumunu bahseder</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="final_netzach_orchestra2_oneside">
-    <Desc>Saldiri yalniz-tarafli ise, bu Sayfanin etkisi tüm düsmanlara uygulanir</Desc>
+    <Desc>Saldırı yalnız-taraflı ise, bu Sayfanın etkisi tüm düşmanlara uygulanır</Desc>
   </BattleCardAbility>
 
 

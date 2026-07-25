@@ -303,7 +303,7 @@
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_55</VoiceFile>
           <Content>Burada, sonuna kadar yanımda savaştılar... ve öldüler.</Content>
         </Dialog>
-        <Dialog ID="3" Model="1_샤오에go">
+        <Dialog ID="3" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_56</VoiceFile>
@@ -393,7 +393,7 @@
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_70</VoiceFile>
           <Content>Korku, umut olduğu için doğar, ama cesaret, korku olduğu için doğar...</Content>
         </Dialog>
-        <Dialog ID="18" Model="1_샤오에go">
+        <Dialog ID="18" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_71-01</VoiceFile>
@@ -435,7 +435,7 @@
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_77</VoiceFile>
           <Content>Sözlerine asla katılmayacağım.</Content>
         </Dialog>
-        <Dialog ID="25" Model="1_샤오에go">
+        <Dialog ID="25" Model="1_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_78-01</VoiceFile>
@@ -465,7 +465,7 @@
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_81-01</VoiceFile>
           <Content>Sönüp gidecek basit bir yıldız, doğan güneşin ışığını geçmeyi hedefleyemez.</Content>
         </Dialog>
-        <Dialog ID="3" Model="3_샤오에go">
+        <Dialog ID="3" Model="3_샤오에고">
           <Teller>Xiao</Teller>
           <Title />
           <VoiceFile>ch6_Liu_Sec1_ep2_Xiao_82-03</VoiceFile>
@@ -769,7 +769,7 @@
           <Teller>Baral</Teller>
           <Title>Pençe İnfazcısı</Title>
           <VoiceFile>ch7_Endbattle_ep2_Bharal_1</VoiceFile>
-          <Content>¡...!</Content>
+          <Content>...!</Content>
         </Dialog>
         <Dialog ID="1" Model="비나_조율자">
           <Teller>Binah</Teller>
@@ -837,7 +837,7 @@
           <VoiceFile>ch7_Endbattle_ep2_Zena_8</VoiceFile>
           <Content>Ancak, sanırım hesapları daha sonra kapatabiliriz.</Content>
         </Dialog>
-        <Dialog ID="12" Model="제ना">
+        <Dialog ID="12" Model="제나">
           <Teller>Zena</Teller>
           <Title>Kafa Yargıcı</Title>
           <VoiceFile>ch7_Endbattle_ep2_Zena_9</VoiceFile>

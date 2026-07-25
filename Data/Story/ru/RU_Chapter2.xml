@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="2">
-    <Title>Chapter 2-Sehir Masali-‘Günesin batisindan once, Sarkinin sonundaki dehseti düsünmeye vakitleri yok.’</Title>
+    <Title>Chapter 2-Şehir Masalı-‘Güneşin batışından önce, Şarkının sonundaki dehşeti düşünmeye vakitleri yok.’</Title>
   </Chapter>
   <Group>
     <GroupName>Prologue</GroupName>
@@ -154,7 +154,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch2_prol_ep1_angela7</VoiceFile>
-          <Content>Tabii, seni ne kadar da kullansam da, sen de beni kullanmakta özgürsun.</Content>
+          <Content>Tabii, seni ne kadar da kullansam da, sen de beni kullanmakta özgürsün.</Content>
         </Dialog>
         <Dialog ID="24" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -379,7 +379,7 @@
           <Teller>Jack</Teller>
           <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack8</VoiceFile>
-          <Content>Şey, uhh... ‘Zwei Birligi’ o alanı koruyor artık.</Content>
+          <Content>Şey, uhh... ‘Zwei Birliği’ o alanı koruyor artık.</Content>
         </Dialog>
         <Dialog ID="15" Model="피에르">
           <Teller>Pierre</Teller>
@@ -457,7 +457,7 @@
           <Teller>Jack</Teller>
           <Title>Pierre’nin Yardımcı Şefi</Title>
           <VoiceFile>ch2_Pierre_ep1_jack13</VoiceFile>
-          <Content>Oho... Bu umut verici...</Content>
+          <Content>Öhö... Bu umut verici...</Content>
         </Dialog>
         <Dialog ID="28" Model="피에르">
           <Teller>Pierre</Teller>

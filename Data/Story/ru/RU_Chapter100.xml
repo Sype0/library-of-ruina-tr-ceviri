@@ -1551,7 +1551,7 @@
           <VoiceFile>ch8_Malkuth_ep5_Malkuth10</VoiceFile>
           <Content>Kütüphane, Lobotomy Corporation ve daha önce olanlar. Tüm bu kanla lekelenmiş tarih...</Content>
         </Dialog>
-        <Dialog ID="22" Model="말쿠ْت">
+        <Dialog ID="22" Model="말쿠트">
           <Teller>Malkuth</Teller>
           <Title>Baş Kütüphaneci - Tarih</Title>
           <VoiceFile>ch8_Malkuth_ep5_Malkuth11</VoiceFile>
@@ -4547,7 +4547,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Hod</Teller>
           <Title>Baş Kütüphaneci - Edebiyat</Title>
           <VoiceFile>ch8_Hod_ep1_hod6</VoiceFile>
-          <Content>Buna net bir şekilde cevap veremiyeceğim kesin, ama sonucu görme firsatın olacak.</Content>
+          <Content>Buna net bir şekilde cevap veremiyeceğim kesin, ama sonucu görme fırsatın olacak.</Content>
         </Dialog>
         <Dialog ID="14" Model="호드">
           <Teller>Hod</Teller>
@@ -8732,7 +8732,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch8_Netzach_ep5_Angela1</VoiceFile>
-          <Content>Sanat bile insani fedakarlık gerektiriyor.</Content>
+          <Content>Sanat bile insanı fedakarlık gerektiriyor.</Content>
         </Dialog>
         <Dialog ID="4" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -9841,7 +9841,7 @@ Yardımınız için minnettarım.</Content>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth22</VoiceFile>
           <Content>Sorun değil. Enoch'a ikinci kez veda ettiğimde...</Content>
         </Dialog>
-        <Dialog ID="36" Model="티페ری트">
+        <Dialog ID="36" Model="티페리트">
           <Teller>Tiphereth</Teller>
           <Title>Baş Kütüphaneci - Doğa Bil.</Title>
           <VoiceFile>ch8_Tiphereth_ep2_tiphereth23</VoiceFile>
@@ -10579,7 +10579,7 @@ Yardımınız için minnettarım.</Content>
           <VoiceFile>ch8_Tiphereth_ep4_Roland_10</VoiceFile>
           <Content>Neden? O sizin planınızı sabote eden kişiydi, neden ona karşı iyisin?</Content>
         </Dialog>
-        <Dialog ID="27" Model="티페ری트">
+        <Dialog ID="27" Model="티페리트">
           <Teller>Tiphereth</Teller>
           <Title>Baş Kütüphaneci - Doğa Bil.</Title>
           <VoiceFile>ch8_Tiphereth_ep4_Tiphereth_18</VoiceFile>
@@ -10753,7 +10753,7 @@ Yardımınız için minnettarım.</Content>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_10</VoiceFile>
           <Content>Salt merak...</Content>
         </Dialog>
-        <Dialog ID="14" Model="티페री트">
+        <Dialog ID="14" Model="티페리트">
           <Teller>Tiphereth</Teller>
           <Title>Baş Kütüphaneci - Doğa Bil.</Title>
           <VoiceFile>ch8_Tiphereth_ep5_Tiphereth_11</VoiceFile>
@@ -11486,7 +11486,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Gebura_ep2_roland8</VoiceFile>
-          <Content>Şehir'in doğusu.</Content>
+          <Content>Şehir'in doğuşu.</Content>
         </Dialog>
         <Dialog ID="14" Model="게부라">
           <Teller>Gebura</Teller>
@@ -13523,7 +13523,7 @@ Yardımınız için minnettarım.</Content>
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch8_Chesed_ep1_roland18</VoiceFile>
-          <Content>En başından mahvolmuştum, orasi besbelli.</Content>
+          <Content>En başından mahvolmuştum, orası besbelli.</Content>
         </Dialog>
         <Dialog ID="34" Model="헤세드">
           <Teller>Chesed</Teller>
@@ -17114,7 +17114,7 @@ Vesaire vesaire.</Content>
           <VoiceFile>ch8_Binah_ep5_Roland_23</VoiceFile>
           <Content>Seni ilgilendirmez.</Content>
         </Dialog>
-        <Dialog ID="53" Model="살바โด르">
+        <Dialog ID="53" Model="살바도르">
           <Teller>Salvador</Teller>
           <Title>???</Title>
           <VoiceFile>ch8_Binah_ep5_Salvador_5</VoiceFile>
@@ -18593,7 +18593,7 @@ Vesaire vesaire.</Content>
           <VoiceFile>ch8_Hokma_ep2_Hokma_6</VoiceFile>
           <Content>Ben ona inanıyordum. Herkesin bir tür inancı ya da itikadı vardır; benim durumumda, onun yapmaya çalıştığı şeyin doğru olduğuna inanıyordum.</Content>
         </Dialog>
-        <Dialog ID="11" Model="호크मा">
+        <Dialog ID="11" Model="호크마">
           <Teller>Hokma</Teller>
           <Title>Baş Kütüphaneci - Din</Title>
           <VoiceFile>ch8_Hokma_ep2_Hokma_7-01</VoiceFile>
@@ -18827,7 +18827,7 @@ Vesaire vesaire.</Content>
       <VoiceFile>ch8_Hokma_ep3_Hokma_5-01</VoiceFile>
       <Content>Önceki hayatlarımızın kişilikleri ve özellikleri hâlâ bizi oluşturuyor... Ancak bunlar, içine döküldüğümüz kalıplardan başka bir şey değil.</Content>
     </Dialog>
-    <Dialog ID="8" Model="호크मा">
+    <Dialog ID="8" Model="호크마">
       <Teller>Hokma</Teller>
       <Title>Baş Kütüphaneci - Din</Title>
       <VoiceFile>ch8_Hokma_ep3_Hokma_6-01</VoiceFile>
@@ -20451,7 +20451,7 @@ Vesaire vesaire.</Content>
       <Teller>Empleado 1</Teller>
       <Title>Lobotomy Corp.</Title>
       <VoiceFile>ch8_Hokma_ep5_People_2_EFFECT_01</VoiceFile>
-      <Content>¡¡¡Por favor abre esta puerta... No quiero morir aquí, por favor!!!</Content>
+      <Content>Lütfen şu kapıyı aç... Burada ölmek istemiyorum, lütfen!!!</Content>
     </Dialog>
     <Dialog ID="54" Model="말쿠트">
       <Teller>Malkuth</Teller>
@@ -20523,7 +20523,7 @@ Vesaire vesaire.</Content>
       <Teller>Netzach</Teller>
       <Title>Sefira Güvenlik Ekibi</Title>
       <VoiceFile>ch8_Hokma_ep5_Netzach_2-01_Effect</VoiceFile>
-      <Content>Cuál es el punto, apuesto que todos vamos a morir.</Content>
+      <Content>Ne anlamı var ki, eminim hepimiz öleceğiz.</Content>
     </Dialog>
     <Dialog ID="66" Model="자동재생">
       <Teller />
@@ -21272,7 +21272,7 @@ Vesaire vesaire.</Content>
         <VoiceFile>ch8_Kether_ep2_Gebura2</VoiceFile>
         <Content>O haklı. Ben bir şeyi korumakta başarısız olduğumu düşünmüyorum. İradesini miras alan birinin hayatını kurtarabildim.</Content>
       </Dialog>
-      <Dialog ID="15" Model="티페ري트">
+      <Dialog ID="15" Model="티페리트">
         <Teller>Tiphereth</Teller>
         <Title>Baş Kütüphaneci - Doğa Bilimleri</Title>
         <VoiceFile>ch8_Kether_ep2_Tiphereth2-02</VoiceFile>
@@ -21374,7 +21374,7 @@ Vesaire vesaire.</Content>
         <VoiceFile />
         <Content>...</Content>
       </Dialog>
-      <Dialog ID="32" Model="티페ري트">
+      <Dialog ID="32" Model="티페리트">
         <Teller>Tiphereth</Teller>
         <Title>Baş Kütüphaneci - Doğa Bilimleri</Title>
         <VoiceFile>ch8_Kether_ep2_Tiphereth8</VoiceFile>
@@ -21398,7 +21398,7 @@ Vesaire vesaire.</Content>
         <VoiceFile>ch8_Kether_ep2_Roland4</VoiceFile>
         <Content>... Bu ikisi her zaman böyle mi?</Content>
       </Dialog>
-      <Dialog ID="36" Model="티페ري트">
+      <Dialog ID="36" Model="티페리트">
         <Teller>Tiphereth</Teller>
         <Title>Baş Kütüphaneci - Doğa Bilimleri</Title>
         <VoiceFile>ch8_Kether_ep2_Tiphereth9-01</VoiceFile>
@@ -21416,13 +21416,13 @@ Vesaire vesaire.</Content>
         <VoiceFile>ch8_Kether_ep2_Roland6-01</VoiceFile>
         <Content>Ve sen bu ikisi arasında arabuluculuk mu yapıyorsun?</Content>
       </Dialog>
-      <Dialog ID="39" Model="티페리т">
+      <Dialog ID="39" Model="티페리트">
         <Teller>Tiphereth</Teller>
         <Title>Baş Kütüphaneci - Doğa Bilimleri</Title>
         <VoiceFile>ch8_Kether_ep2_Tiphereth10-01</VoiceFile>
         <Content>Eğer ben durdurmazsam bu yerde ne tür karmaşalar yaşanır kim bilir.</Content>
       </Dialog>
-      <Dialog ID="40" Model="티페рит">
+      <Dialog ID="40" Model="티페리트">
         <Teller>Tiphereth</Teller>
         <Title>Baş Kütüphaneci - Doğa Bilimleri</Title>
         <VoiceFile>ch8_Kether_ep2_Tiphereth11</VoiceFile>

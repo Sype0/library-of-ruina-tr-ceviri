@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="8">
-    <Title>Epilog–'Kütüphane varligini sürdürecek.'</Title>
+    <Title>Epilog–'Kütüphane varlığını sürdürecek.'</Title>
   </Chapter>
   <Group>
     <GroupName>Epilog</GroupName>
@@ -111,7 +111,7 @@
           <VoiceFile />
           <Content>Evet, o. O muhtemelen yeni Kütüphane'dir.</Content>
         </Dialog>
-        <Dialog ID="17" Model="İori">
+        <Dialog ID="17" Model="이오리">
           <Teller>Iori</Teller>
           <Title>Mor Gözyaşı</Title>
           <VoiceFile />
@@ -129,7 +129,7 @@
           <VoiceFile />
           <Content>İnsanların sapmaları ve bozulmalarından doğan Anormallikler ile başa çıkmak için, L Corp.'un 'E.G.O' olarak adlandırdığı özel ekipman kullanmak, iş için en uygunudur.</Content>
         </Dialog>
-        <Dialog ID="20" Model="İori">
+        <Dialog ID="20" Model="이오리">
           <Teller>Iori</Teller>
           <Title>Mor Gözyaşı</Title>
           <VoiceFile />
@@ -141,25 +141,25 @@
           <VoiceFile />
           <Content>Belgelerine göre, 'E.G.O.I.S.T.' olarak adlandırılanlardan mı bahsediyorsun?</Content>
         </Dialog>
-        <Dialog ID="22" Model="İori">
+        <Dialog ID="22" Model="이오리">
           <Teller>Iori</Teller>
           <Title>Mor Gözyaşı</Title>
           <VoiceFile />
           <Content>Kesinlikle. Bende insanlar konusunda keskin bir göz olduğunu biliyorsunuz... Benim devralmamın bir zararı olmaz.</Content>
         </Dialog>
-        <Dialog ID="23" Model="İori">
+        <Dialog ID="23" Model="이오리">
           <Teller>Iori</Teller>
           <Title>Mor Gözyaşı</Title>
           <VoiceFile />
           <Content>Sistemi kendi yolumuzla şekillendirmede inisiyatif almalıyız.</Content>
         </Dialog>
-        <Dialog ID="24" Model="İori">
+        <Dialog ID="24" Model="이오리">
           <Teller>Iori</Teller>
           <Title>Mor Gözyaşı</Title>
           <VoiceFile />
           <Content>Şu anda, halkın fikirleri her yerde—"Bozulmalar", "Anormallikler" ve hatta basitçe "yaratıklar" gibi terimlerin ortalıkta dolaşması bunun açık kanıtı.</Content>
         </Dialog>
-        <Dialog ID="25" Model="İori">
+        <Dialog ID="25" Model="이오리">
           <Teller>Iori</Teller>
           <Title>Mor Gözyaşı</Title>
           <VoiceFile />
@@ -171,7 +171,7 @@
           <VoiceFile />
           <Content>... Önerini açık bir zihinle değerlendireceğiz.</Content>
         </Dialog>
-        <Dialog ID="27" Model="İori">
+        <Dialog ID="27" Model="이오리">
           <Teller>Iori</Teller>
           <Title>Mor Gözyaşı</Title>
           <VoiceFile />

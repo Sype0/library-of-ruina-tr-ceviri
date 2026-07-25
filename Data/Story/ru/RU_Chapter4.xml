@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="4">
-    <Title>4. Bölüm– Sehir Vebasi–‘Bir hastaligim olmadigini söylüyorlar.’</Title>
+    <Title>4. Bölüm– Şehir Vebası–‘Bir hastalığım olmadığını söylüyorlar.’</Title>
   </Chapter>
   <Group>
     <GroupName>Başlangıç</GroupName>
@@ -292,7 +292,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland23</VoiceFile>
-          <Content>Endişelenmemiz gereken tek şey öğle yemeğinde ne yiyeceğimiz, akşamları nereyi gideceğimiz veya cocuklarımız olursa ne isim vereceğimiz idi.</Content>
+          <Content>Endişelenmemiz gereken tek şey öğle yemeğinde ne yiyeceğimiz, akşamları nereyi gideceğimiz veya çocuklarımız olursa ne isim vereceğimiz idi.</Content>
         </Dialog>
         <Dialog ID="47" Model="롤랑">
           <Teller>Roland</Teller>
@@ -322,7 +322,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch4_prol_ep1_roland28</VoiceFile>
-          <Content>Beklediğinden daha iyi bir süpriz olsun diye hatta "U sirketinden" özel yalıtımlı bir kutu almıştım. Pajeon sanki yeni hazırlanmış gibi sıcak kalacaktı.</Content>
+          <Content>Beklediğinden daha iyi bir süpriz olsun diye hatta "U şirketinden" özel yalıtımlı bir kutu almıştım. Pajeon sanki yeni hazırlanmış gibi sıcak kalacaktı.</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1272,7 +1272,7 @@
         <VoiceFile>ch4_Fullstop_ep1_eileen22</VoiceFile>
         <Content>Belki de acımız, kendi kimliğimizi inkar etmeye çalışmamızdan kaynaklanıyordur...</Content>
       </Dialog>
-      <Dialog ID="37" Model="신道1">
+      <Dialog ID="37" Model="신도1">
         <Teller>İbadetçi 1</Teller>
         <Title />
         <VoiceFile>ch4_Fullstop_ep1_religiousperson16</VoiceFile>
@@ -2359,7 +2359,7 @@
         <Teller>Tamaki</Teller>
         <Title>Tam-Tarikat Durdurma Ofisi Düzelticisi</Title>
         <VoiceFile>ch4_Fullstop_ep1_tamaki19-01</VoiceFile>
-        <Content>Cik, cik, cik... Nesin sen, bir papağan mı? Hadi içeri gir artık.</Content>
+        <Content>Çık, çık, çık... Nesin sen, bir papağan mı? Hadi içeri gir artık.</Content>
       </Dialog>
       <Dialog ID="217" Model="스테판">
         <Teller>Stephan</Teller>
@@ -2592,7 +2592,7 @@
         <VoiceFile>ch4_Dawn_ep1_salvador14</VoiceFile>
         <Content>Yuna. Philip savaş alanında da mükemmel sonuçlar gösterdi. Gururlu bir 5. Sınıf Düzeltici oldu.</Content>
       </Dialog>
-      <Dialog ID="27" Model="살바дор">
+      <Dialog ID="27" Model="살바도르">
         <Teller>Salvador</Teller>
         <Title>Şafak Operatörü</Title>
         <VoiceFile>ch4_Dawn_ep1_salvador15</VoiceFile>
@@ -2982,7 +2982,7 @@
           <VoiceFile>ch4_Dawn_ep1_angela6</VoiceFile>
           <Content>Ben de bunu öğrenmek isterim.</Content>
         </Dialog>
-        <Dialog ID="91" Model="살바โด르">
+        <Dialog ID="91" Model="살바도르">
           <Teller>Salvador</Teller>
           <Title>Dawn Operatörü</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador37</VoiceFile>
@@ -3808,7 +3808,7 @@
 					<Teller>Elena</Teller>
 					<Title>Hemşire</Title>
 					<VoiceFile>ch4_Tomerry_ep1_elena14-02</VoiceFile>
-					<Content>Hiç kimse fizyolojik hayati fonksiyonlarda arıza veya sıkıntı göstermedi.</Content>
+					<Content>Hiç kimse fizyolojik hayatı fonksiyonlarda arıza veya sıkıntı göstermedi.</Content>
 				</Dialog>
 				<Dialog ID="30" Model="토미">
 					<Teller>Tommy</Teller>
@@ -3976,7 +3976,7 @@
 					<VoiceFile>ch4_Warp_ep1_tommy20 (2)</VoiceFile>
 					<Content>Evet... O hala uyuyor...</Content>
 				</Dialog>
-				<Dialog ID="58" Model="토मी">
+				<Dialog ID="58" Model="토미">
 					<Teller>Tommy</Teller>
 					<Title>Yolcu</Title>
 					<VoiceFile>ch4_Warp_ep1_tommy21</VoiceFile>
@@ -6002,7 +6002,7 @@
 					<VoiceFile>ch4_Bremen_ep1_meow11</VoiceFile>
 					<Content>Ehem, performansı olay yerinde gözlemleyen biri olarak konuşuyorum, sonu çoooook inanılmazdı, biliyor musun?</Content>
 				</Dialog>
-				<Dialog ID="25" Model="미яо">
+				<Dialog ID="25" Model="미야오">
 					<Teller>Miyav</Teller>
 					<Title>Bremen Müzisyeni</Title>
 					<VoiceFile>ch4_Bremen_ep1_meow12 (2)</VoiceFile>
@@ -6503,7 +6503,7 @@
           <VoiceFile>ch4_Wedge_ep1_philip7-01</VoiceFile>
           <Content>...</Content>
         </Dialog>
-        <Dialog ID="12" Model="파멜I">
+        <Dialog ID="12" Model="파멜리">
           <Teller>Pameli</Teller>
           <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli4 (2)</VoiceFile>
@@ -6569,7 +6569,7 @@
           <VoiceFile>ch4_Wedge_ep1_oscar5</VoiceFile>
           <Content>Cehennemdeki bir festival gibiydi. Bize epey sorun çıkardılar.</Content>
         </Dialog>
-        <Dialog ID="23" Model="파멜İ">
+        <Dialog ID="23" Model="파멜리">
           <Teller>Pameli</Teller>
           <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli7</VoiceFile>
@@ -6617,7 +6617,7 @@
           <VoiceFile>ch4_Wedge_ep1_pamela9 (2)</VoiceFile>
           <Content>Sigortanız olup olmadığını kontrol etmelisin. Çeşitli koşullara sahip birçok sigorta türü var.</Content>
         </Dialog>
-        <Dialog ID="31" Model="파멜İ">
+        <Dialog ID="31" Model="파멜리">
           <Teller>Pameli</Teller>
           <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli8</VoiceFile>
@@ -6629,7 +6629,7 @@
           <VoiceFile>ch4_Wedge_ep1_pamela10</VoiceFile>
           <Content>Ne? Seni kurtarmak için aceleyle klonlama ameliyatı oldum, karşılığında böyle mi teşekkür ediyorsun?</Content>
         </Dialog>
-        <Dialog ID="33" Model="파멜İ">
+        <Dialog ID="33" Model="파멜리">
           <Teller>Pameli</Teller>
           <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli9 (2)</VoiceFile>
@@ -6647,7 +6647,7 @@
           <VoiceFile>ch4_Wedge_ep1_pamela14 (2)</VoiceFile>
           <Content>Biliyor musun, neden bu sefer kalıcı olarak ölmüyorsun? O zaman hiçbir şekilde iyileşemezsin. Klonlanmış vücut için de bana ödeme yapmak zorunda kalmazsın.</Content>
         </Dialog>
-        <Dialog ID="36" Model="파멜İ">
+        <Dialog ID="36" Model="파멜리">
           <Teller>Pameli</Teller>
           <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli10 (2)</VoiceFile>
@@ -6725,7 +6725,7 @@
           <VoiceFile>ch4_Wedge_ep1_oscar12</VoiceFile>
           <Content>Bu konuya pek ilgili görünmüyorsun.</Content>
         </Dialog>
-        <Dialog ID="49" Model="오स्카">
+        <Dialog ID="49" Model="오스카">
           <Teller>Oscar</Teller>
           <Title>Kama Operatörü</Title>
           <VoiceFile>ch4_Wedge_ep1_oscar13-01</VoiceFile>
@@ -6827,25 +6827,25 @@
           <VoiceFile>ch4_Wedge_ep1_philip23-01</VoiceFile>
           <Content>Biz Düzelticiler olarak... hayır, Şehir'de yaşayan insanlar olarak başkaları için bir şeyler yapamaz mıyız!!!</Content>
         </Dialog>
-        <Dialog ID="66" Model="파멜İ">
+        <Dialog ID="66" Model="파멜리">
           <Teller>Pameli</Teller>
           <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli11 (2)</VoiceFile>
           <Content>Aman Tanrım, dayanılmazsın. Sana yanlış bir şey yaptığını söylemedi ki.</Content>
         </Dialog>
-        <Dialog ID="67" Model="파멜İ">
+        <Dialog ID="67" Model="파멜리">
           <Teller>Pameli</Teller>
           <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli12 (2)</VoiceFile>
           <Content>Sadece Ofisimizde bu tür Düzelticileri istemediğini söyledi, bu kadar basit. Bu yüzden bu kadar perişan olma.</Content>
         </Dialog>
-        <Dialog ID="68" Model="파멜İ">
+        <Dialog ID="68" Model="파멜리">
           <Teller>Pameli</Teller>
           <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli13 (2)</VoiceFile>
           <Content>Duyguları tarafından kolayca yönlendirilen birinden daha güvenilmez bir şey yoktur.</Content>
         </Dialog>
-        <Dialog ID="69" Model="파멜İ">
+        <Dialog ID="69" Model="파멜리">
           <Teller>Pameli</Teller>
           <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli14 (2)</VoiceFile>
@@ -6965,7 +6965,7 @@
       </Place>
       <Place>
         <PlaceName>Mekan: Kütüphane Girişi</PlaceName>
-        <Dialog ID="88" Model="파멜İ">
+        <Dialog ID="88" Model="파멜리">
           <Teller>Pameli</Teller>
           <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli15</VoiceFile>
@@ -6977,7 +6977,7 @@
           <VoiceFile>ch4_Wedge_ep1_pamela16</VoiceFile>
           <Content>Hala iyileşiyor. Ona biraz zaman tanımalıyız.</Content>
         </Dialog>
-        <Dialog ID="90" Model="파멜İ">
+        <Dialog ID="90" Model="파멜리">
           <Teller>Pameli</Teller>
           <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli16</VoiceFile>
@@ -7007,7 +7007,7 @@
           <VoiceFile>ch4_Wedge_ep1_oscar31</VoiceFile>
           <Content>Senin bir makine olduğunu sanıyordum... Ama kısmen insan olabilir misin?</Content>
         </Dialog>
-        <Dialog ID="95" Model="파멜İ">
+        <Dialog ID="95" Model="파멜리">
           <Teller>Pameli</Teller>
           <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli17</VoiceFile>
@@ -7043,7 +7043,7 @@
           <VoiceFile>ch4_Wedge_ep1_angela9</VoiceFile>
           <Content>Öyle mi?</Content>
         </Dialog>
-        <Dialog ID="101" Model="파멜İ">
+        <Dialog ID="101" Model="파멜리">
           <Teller>Pameli</Teller>
           <Title>Kama Düzelticisi</Title>
           <VoiceFile>ch4_Wedge_ep1_pameli18 (2)</VoiceFile>

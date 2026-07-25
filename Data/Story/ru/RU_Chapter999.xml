@@ -189,7 +189,7 @@
           <VoiceFile>ch0_prol_ep0_Angela13</VoiceFile>
           <Content>Anormalliklerin misafirleri bizim yerimize ağırlamasını sağlamayacağız.</Content>
         </Dialog>
-        <Dialog ID="30" Model="앤젤拉">
+        <Dialog ID="30" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Kütüphane Müdürü</Title>
           <VoiceFile>ch0_prol_ep0_Angela14</VoiceFile>

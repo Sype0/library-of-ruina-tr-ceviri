@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="5">
-    <Title>Bölüm 5-Sehir Kabusu-’Rüya Paramparça Oldu; Kule Yikildi.’</Title>
+    <Title>Bölüm 5-Şehir Kabusu-’Rüya Paramparça Oldu; Kule Yıkıldı.’</Title>
   </Chapter>
   <Group>
     <GroupName>Prolog</GroupName>
@@ -555,7 +555,7 @@
           <VoiceFile>ch5_Shi_ep1_Valentin2-01</VoiceFile>
           <Content>O bir Renk olabilir ama bu, Birliğimize bile ait olmayan bir Düzeltici'nin hepimizi tuzağa düşürmesinin ciddiyetini haklı çıkarmaz.</Content>
         </Dialog>
-        <Dialog ID="3" Model="발렌тин">
+        <Dialog ID="3" Model="발렌틴">
           <Teller>Valentin</Teller>
           <Title>Shi B. Bölüm 2 Düzelticisi</Title>
           <VoiceFile>ch5_Shi_ep1_Valentin3-01</VoiceFile>
@@ -2107,7 +2107,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
       </Place>
       <Place>
         <PlaceName>Konum: Sirk Çadırı İçi</PlaceName>
-        <Dialog ID="65" Model="오स्왈드">
+        <Dialog ID="65" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald20</VoiceFile>
@@ -2311,7 +2311,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Circus_ep1_Emma28</VoiceFile>
           <Content>Oh...</Content>
         </Dialog>
-        <Dialog ID="99" Model="오스왈д">
+        <Dialog ID="99" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald38</VoiceFile>
@@ -2323,7 +2323,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Circus_ep1_Oswald39</VoiceFile>
           <Content>Bu, gizli yoldaşlarımla birlikte eğlenme arzusuydu, inanılmaz, akıllara durgunluk veren bir arzu!</Content>
         </Dialog>
-        <Dialog ID="101" Model="오스왈д">
+        <Dialog ID="101" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald40</VoiceFile>
@@ -2335,7 +2335,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Circus_ep1_Noah35</VoiceFile>
           <Content>Neşe... Hayaller...</Content>
         </Dialog>
-        <Dialog ID="103" Model="오스왈д">
+        <Dialog ID="103" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald41</VoiceFile>
@@ -2347,7 +2347,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Circus_ep1_Noah36</VoiceFile>
           <Content>Gerçekten mutlu olabilir miyim... Sirkine katılırsam?</Content>
         </Dialog>
-        <Dialog ID="105" Model="오스왈д">
+        <Dialog ID="105" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald42</VoiceFile>
@@ -2431,25 +2431,25 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Circus_ep1_Oswald43</VoiceFile>
           <Content>Oh... Hava pek de parlak görünmüyor!</Content>
         </Dialog>
-        <Dialog ID="119" Model="오스왈д">
+        <Dialog ID="119" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald44</VoiceFile>
           <Content>O asılı duran gözyaşlarıyla bize katılamazsın, biliyor musun?</Content>
         </Dialog>
-        <Dialog ID="120" Model="오스왈д">
+        <Dialog ID="120" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald45</VoiceFile>
           <Content>Aha! Yanaklarında asılı duran o kötü arkadaşlara veda etmene yardım edeceğim. Gözlerini açtığında hepimiz arkadaş olacağız!</Content>
         </Dialog>
-        <Dialog ID="121" Model="오스왈д">
+        <Dialog ID="121" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald46</VoiceFile>
           <Content>O zaman, haydi...</Content>
         </Dialog>
-        <Dialog ID="122" Model="오스왈д">
+        <Dialog ID="122" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald47</VoiceFile>
@@ -2461,19 +2461,19 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Circus_ep1_Noah47</VoiceFile>
           <Content>Dünya... Gözlerim... Çok fazla dünya var. Ne oluyor. Başım dönüyor...</Content>
         </Dialog>
-        <Dialog ID="124" Model="오스왈д">
+        <Dialog ID="124" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald48</VoiceFile>
           <Content>Endişelenme. Yakında alışırsın!</Content>
         </Dialog>
-        <Dialog ID="125" Model="오스왈д">
+        <Dialog ID="125" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald49</VoiceFile>
           <Content>Dünyayı daha yüksek bir yerden görmek isteyen o gözlemci ve meraklı arkadaşa bir hediye!</Content>
         </Dialog>
-        <Dialog ID="126" Model="오스왈д">
+        <Dialog ID="126" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald50</VoiceFile>
@@ -2521,7 +2521,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Circus_ep1_Oswald51</VoiceFile>
           <Content>Hediyemizi beğenmenize sevindim!</Content>
         </Dialog>
-        <Dialog ID="134" Model="오스왈д">
+        <Dialog ID="134" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald52</VoiceFile>
@@ -2533,19 +2533,19 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Circus_ep1_Noah49</VoiceFile>
           <Content>Ne oluyor?</Content>
         </Dialog>
-        <Dialog ID="136" Model="오스왈д">
+        <Dialog ID="136" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald53</VoiceFile>
           <Content>Aslında... Bir süre önce kötü adamlar sirkimize gelip arkadaşlarımı bütün bütün yuttular! </Content>
         </Dialog>
-        <Dialog ID="137" Model="오스왈д">
+        <Dialog ID="137" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald54</VoiceFile>
           <Content>Zavallı Bayan Suaygırı ve Bay Top... O gün o kadar üzülmüştüm ki, kaşlarım üç sosis kadar uzundu...</Content>
         </Dialog>
-        <Dialog ID="138" Model="오스왈д">
+        <Dialog ID="138" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald55</VoiceFile>
@@ -2557,31 +2557,31 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Circus_ep1_Emma36</VoiceFile>
           <Content>Bu korkunç. Suçlular kimdi?</Content>
         </Dialog>
-        <Dialog ID="140" Model="오스왈д">
+        <Dialog ID="140" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald56</VoiceFile>
           <Content>Kim oldukları önemli değil. Tek bildiğim... Kütüphane adında bir yere gittikleri!</Content>
         </Dialog>
-        <Dialog ID="141" Model="오스왈д">
+        <Dialog ID="141" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald57</VoiceFile>
           <Content>Muhteşem sirkimiz bir kere bile başarısız olmadı, ama nedense onların kalbini harekete geçiremedik...</Content>
         </Dialog>
-        <Dialog ID="142" Model="오스왈д">
+        <Dialog ID="142" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald58</VoiceFile>
           <Content>Bunu bilmek istiyorum! NİİİİİİYE!!!</Content>
         </Dialog>
-        <Dialog ID="143" Model="오스왈д">
+        <Dialog ID="143" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald59</VoiceFile>
           <Content>... Ah hayır hayır hayır, öf! Şirin numaralarımıza ve gösterilerimize rağmen onların kalbini nasıl hareket ettiremedik merak ediyorum.</Content>
         </Dialog>
-        <Dialog ID="144" Model="오스왈д">
+        <Dialog ID="144" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald60</VoiceFile>
@@ -2599,19 +2599,19 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Circus_ep1_Emma37</VoiceFile>
           <Content>Ama o yere girmek sorun yaratır...</Content>
         </Dialog>
-        <Dialog ID="147" Model="오스왈д">
+        <Dialog ID="147" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald61</VoiceFile>
           <Content>Ay, ne kadar merhametlisiniz! Size güvenebileceğimi biliyordum.</Content>
         </Dialog>
-        <Dialog ID="148" Model="오스왈д">
+        <Dialog ID="148" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald62</VoiceFile>
           <Content>Geri dönmeyi başarırsanız, kutlama için bir parti vereceğiz!</Content>
         </Dialog>
-        <Dialog ID="149" Model="오스왈д">
+        <Dialog ID="149" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald63</VoiceFile>
@@ -2629,31 +2629,31 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Circus_ep1_Emma38</VoiceFile>
           <Content>Eğer istediğin buysa.</Content>
         </Dialog>
-        <Dialog ID="152" Model="오스왈д">
+        <Dialog ID="152" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald64</VoiceFile>
           <Content>...</Content>
         </Dialog>
-        <Dialog ID="153" Model="오스왈д">
+        <Dialog ID="153" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald65</VoiceFile>
           <Content>Öf, şimdi bir sürü şey hazırlamam gerekiyor!</Content>
         </Dialog>
-        <Dialog ID="154" Model="오스왈д">
+        <Dialog ID="154" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald66</VoiceFile>
           <Content>Öncelikle, bu ikili için... Onları heyecandan ağlatacak enfes bir ziyafet hazırlayacağım!</Content>
         </Dialog>
-        <Dialog ID="155" Model="오свалд">
+        <Dialog ID="155" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald67</VoiceFile>
           <Content>Sirke daha fazla kişi almam gerekiyor... Bayan Deniz Kızı'nın pullarıyla pratik yapıp sonra da...</Content>
         </Dialog>
-        <Dialog ID="156" Model="оswald">
+        <Dialog ID="156" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald68</VoiceFile>
@@ -2671,13 +2671,13 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Circus_ep1_Philip2</VoiceFile>
           <Content>Ben... Kütüphane'nin içinde savaşıyordum...</Content>
         </Dialog>
-        <Dialog ID="159" Model="оswald">
+        <Dialog ID="159" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald69</VoiceFile>
           <Content>...</Content>
         </Dialog>
-        <Dialog ID="160" Model="оswald">
+        <Dialog ID="160" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald70</VoiceFile>
@@ -2689,19 +2689,19 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Circus_ep1_Philip3-03</VoiceFile>
           <Content>Hayır, ben...</Content>
         </Dialog>
-        <Dialog ID="162" Model="оswald">
+        <Dialog ID="162" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald71</VoiceFile>
           <Content>Önemi yok! Beklenmedik misafirimiz için küçük bir gösteri yapmak, pasta aromalı soğuk sakız çiğnemek kadar kolay olmalı.</Content>
         </Dialog>
-        <Dialog ID="163" Model="оswald">
+        <Dialog ID="163" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald72</VoiceFile>
           <Content>Bu... Saat Sekiz Sirki!</Content>
         </Dialog>
-        <Dialog ID="164" Model="оswald">
+        <Dialog ID="164" Model="오스왈드">
           <Teller>Oswald</Teller>
           <Title>Sirk Müdürü</Title>
           <VoiceFile>ch5_Circus_ep1_Oswald73</VoiceFile>
@@ -2923,13 +2923,13 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Circus_ep1_Emma43</VoiceFile>
           <Content>Angela! İhtiyacımız olan tüm kitapları almayı başarırsak... Seni bir sonraki gösterimize davet edeceğiz!</Content>
         </Dialog>
-        <Dialog ID="200" Model="ноа">
+        <Dialog ID="200" Model="노아">
           <Teller>Noah</Teller>
           <Title>Sirk Üyesi</Title>
           <VoiceFile>ch5_Circus_ep1_Noah55</VoiceFile>
           <Content>Eminim bu kitaplar insanları daha mutlu etmenin sırlarını içeriyordur...</Content>
         </Dialog>
-        <Dialog ID="201" Model="ноа">
+        <Dialog ID="201" Model="노아">
           <Teller>Noah</Teller>
           <Title>Sirk Üyesi</Title>
           <VoiceFile>ch5_Circus_ep1_Noah56</VoiceFile>
@@ -3214,7 +3214,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Sweepers_ep1_Valerie13</VoiceFile>
           <Content>Evet. Bununla, Endeks'in gerçekten Anne'ye ve ailelerimize sırt çevirip çevirmediğini doğrulayabileceğiz.</Content>
         </Dialog>
-        <Dialog ID="33" Model="발레ри">
+        <Dialog ID="33" Model="발레리">
           <Teller>Valerie</Teller>
           <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie14</VoiceFile>
@@ -3238,13 +3238,13 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Sweepers_ep1_Valerie15</VoiceFile>
           <Content>Komşularımızı çağıralım. Kütüphane'ye birlikte gideceğiz.</Content>
         </Dialog>
-        <Dialog ID="37" Model="발레ри">
+        <Dialog ID="37" Model="발레리">
           <Teller>Valerie</Teller>
           <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie16</VoiceFile>
           <Content>Gitmeden önce çocuklarımıza kapıları kilitlemelerini ve yabancıları içeri almamalarını söyleyelim.</Content>
         </Dialog>
-        <Dialog ID="38" Model="발레ри">
+        <Dialog ID="38" Model="발레리">
           <Teller>Valerie</Teller>
           <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie17</VoiceFile>
@@ -3376,7 +3376,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Sweepers_ep1_Lyla14</VoiceFile>
           <Content>Etkilendim. Bu şaşırtıcı. Bakın, komşular. Kütüphane hiçbir yere benzemiyor.</Content>
         </Dialog>
-        <Dialog ID="59" Model="발레ரி">
+        <Dialog ID="59" Model="발레리">
           <Teller>Valerie</Teller>
           <Title>Süpürücü</Title>
           <VoiceFile>ch5_Sweepers_ep1_Valerie21</VoiceFile>
@@ -3703,13 +3703,13 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Index_ep1_Yan16-01</VoiceFile>
           <Content>Merhaba, Bay LaMarcus? Orada mısınız? Konuşmaya geldik~!</Content>
         </Dialog>
-        <Dialog ID="32" Model="글로рия">
+        <Dialog ID="32" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>Endeks Vekili</Title>
           <VoiceFile>ch5_Index_ep1_Gloria3</VoiceFile>
           <Content>Hım~? Bu işe yaramaz! Bırak bana tatlım~</Content>
         </Dialog>
-        <Dialog ID="33" Model="글로рия">
+        <Dialog ID="33" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>Endeks Vekili</Title>
           <VoiceFile>ch5_Index_ep1_Gloria4</VoiceFile>
@@ -3727,7 +3727,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Index_ep1_Yan17-01</VoiceFile>
           <Content>Bu kişi Yasa'sını yerine getirmedi mi?</Content>
         </Dialog>
-        <Dialog ID="36" Model="글로рия">
+        <Dialog ID="36" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>Endeks Vekili</Title>
           <VoiceFile>ch5_Index_ep1_Gloria5</VoiceFile>
@@ -3751,13 +3751,13 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Index_ep1_inhabitants3_3</VoiceFile>
           <Content>Resim yapmak hayatımdaki her şeydi ve kendi sanatımı mürekkeple lekeledim... bıçakladım, yırttım... ölü insanları o kadar çok farklı şekilde boyadım ki... her şeyi yaptım!!!</Content>
         </Dialog>
-        <Dialog ID="40" Model="글로рия">
+        <Dialog ID="40" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>Endeks Vekili</Title>
           <VoiceFile>ch5_Index_ep1_Gloria6</VoiceFile>
           <Content>Hım~? Bu oldukça basit bir sorun~</Content>
         </Dialog>
-        <Dialog ID="41" Model="글로рия">
+        <Dialog ID="41" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>Endeks Vekili</Title>
           <VoiceFile>ch5_Index_ep1_Gloria7</VoiceFile>
@@ -3775,7 +3775,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Index_ep1_inhabitants3_5</VoiceFile>
           <Content>Bu... bu... Yasa'nın çok belirsiz olması benim hatam değil...!</Content>
         </Dialog>
-        <Dialog ID="44" Model="글로рия">
+        <Dialog ID="44" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>Endeks Vekili</Title>
           <VoiceFile>ch5_Index_ep1_Gloria8</VoiceFile>
@@ -3799,7 +3799,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Index_ep1_inhabitants3_8</VoiceFile>
           <Content>Çok iyi gidiyordum...</Content>
         </Dialog>
-        <Dialog ID="48" Model="글로рия">
+        <Dialog ID="48" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>Endeks Vekili</Title>
           <VoiceFile>ch5_Index_ep1_Gloria9</VoiceFile>
@@ -3811,7 +3811,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Index_ep1_Yan19</VoiceFile>
           <Content>Denediğini anlıyorum. Ama...</Content>
         </Dialog>
-        <Dialog ID="50" Model="글로рия">
+        <Dialog ID="50" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>Endeks Vekili</Title>
           <VoiceFile>ch5_Index_ep1_Gloria10</VoiceFile>
@@ -3919,7 +3919,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Index_ep1_Esther1</VoiceFile>
           <Content>Yeni Yasalar, ha?...</Content>
         </Dialog>
-        <Dialog ID="68" Model="글로рия">
+        <Dialog ID="68" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>Endeks Vekili</Title>
           <VoiceFile>ch5_Index_ep1_Gloria11</VoiceFile>
@@ -3931,13 +3931,13 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Index_ep1_Yan27-01</VoiceFile>
           <Content>Yasalar Yasadır. Kaç tane Yasa aldığınızı umursuyormuşsunuz gibi değil.</Content>
         </Dialog>
-        <Dialog ID="70" Model="글로рия">
+        <Dialog ID="70" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>Endeks Vekili</Title>
           <VoiceFile>ch5_Index_ep1_Gloria12</VoiceFile>
           <Content>Yasalar hakkında hiç şüphem yok~ Bu gidişle Başparmak ve Süpürücülerden çok kan göreceğiz sanırım?</Content>
         </Dialog>
-        <Dialog ID="71" Model="글로рия">
+        <Dialog ID="71" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>Endeks Vekili</Title>
           <VoiceFile>ch5_Index_ep1_Gloria13</VoiceFile>
@@ -3979,7 +3979,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Index_ep1_Yan29</VoiceFile>
           <Content>... Bu seferki Yasalar ne hakkında, bu arada?</Content>
         </Dialog>
-        <Dialog ID="78" Model="글로рия">
+        <Dialog ID="78" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>Endeks Vekili</Title>
           <VoiceFile>ch5_Index_ep1_Gloria14</VoiceFile>
@@ -3991,7 +3991,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Index_ep1_Yan30</VoiceFile>
           <Content>Bu Yuva'daki her 37 yaşındaki kişi mi?</Content>
         </Dialog>
-        <Dialog ID="80" Model="글ория">
+        <Dialog ID="80" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>Endeks Vekili</Title>
           <VoiceFile>ch5_Index_ep1_Gloria15</VoiceFile>
@@ -4009,25 +4009,25 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Index_ep1_Hubert2</VoiceFile>
           <Content>Ailemizin görevi, bugün karşımıza çıkan on dördüncü kişinin sol bacağını yirmi altıncı kişinin sağ bacağıyla değiştirmek.</Content>
         </Dialog>
-        <Dialog ID="83" Model="글로рия">
+        <Dialog ID="83" Model="글로리아">
           <Teller>Gloria</Teller>
           <Title>Endeks Vekili</Title>
           <VoiceFile>ch5_Index_ep1_Gloria16</VoiceFile>
           <Content>Dışarıda o kadar çok kişi var ki~ Bir kez olsun bu kadar direkt bir Yasa almak tuhaf hissettiriyor, değil mi Yan~?</Content>
         </Dialog>
-        <Dialog ID="84" Model="эстер">
+        <Dialog ID="84" Model="에스더">
           <Teller>Esther</Teller>
           <Title>Endeks Vekili</Title>
           <VoiceFile>ch5_Index_ep1_Esther6</VoiceFile>
           <Content>‘... Başparmak'ı ortadan kaldırın. Süre sınırı yok.’’</Content>
         </Dialog>
-        <Dialog ID="85" Model="휴берт">
+        <Dialog ID="85" Model="휴버트">
           <Teller>Hubert</Teller>
           <Title>Endeks Vekili</Title>
           <VoiceFile>ch5_Index_ep1_Hubert3</VoiceFile>
           <Content>Bu açıklama gerektirmez.</Content>
         </Dialog>
-        <Dialog ID="86" Model="эстер">
+        <Dialog ID="86" Model="에스더">
           <Teller>Esther</Teller>
           <Title>Endeks Vekili</Title>
           <VoiceFile>ch5_Index_ep1_Esther7</VoiceFile>
@@ -4753,25 +4753,25 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen30</VoiceFile>
           <Content>Evet. Bir keresinde koca bir krallık kurmuşlardı.</Content>
         </Dialog>
-        <Dialog ID="99" Model="сен">
+        <Dialog ID="99" Model="센">
           <Teller>Sen</Teller>
           <Title>WARP Temizlik Ajanı</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen31</VoiceFile>
           <Content>Kendilerine kral, şövalyeler, soylular ve her neyse adını vermişlerdi.</Content>
         </Dialog>
-        <Dialog ID="100" Model="сен">
+        <Dialog ID="100" Model="센">
           <Teller>Sen</Teller>
           <Title>WARP Temizlik Ajanı</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen32</VoiceFile>
           <Content>Bir kasaba, bunun yanında hiçbir şey kalır.</Content>
         </Dialog>
-        <Dialog ID="101" Model="сен">
+        <Dialog ID="101" Model="센">
           <Teller>Sen</Teller>
           <Title>WARP Temizlik Ajanı</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen33</VoiceFile>
           <Content>İhanetler yaygındı, krallık gerilemeye başladı ve sadık şövalyeler ülkelerini kurtarmak için cesurca çabaladılar.</Content>
         </Dialog>
-        <Dialog ID="102" Model="레스ти">
+        <Dialog ID="102" Model="레스티">
           <Teller>Lesti</Teller>
           <Title>WARP Temizlik Ajanı</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti25</VoiceFile>
@@ -4801,7 +4801,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_CleanupCrew_ep1_Angela8</VoiceFile>
           <Content>W Corp.'nin Birinci Sınıf yolcularından yapılmış kuklaları kastediyorsun, değil mi?</Content>
         </Dialog>
-        <Dialog ID="107" Model="сен">
+        <Dialog ID="107" Model="센">
           <Teller>Sen</Teller>
           <Title>WARP Temizlik Ajanı</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Sen34</VoiceFile>
@@ -4819,7 +4819,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_CleanupCrew_ep1_Angela10</VoiceFile>
           <Content>Ancak, başarısız olursanız, diğer misafirler WARP trenlerinin sırlarını içeren kitapları alabilir.</Content>
         </Dialog>
-        <Dialog ID="110" Model="레스ти">
+        <Dialog ID="110" Model="레스티">
           <Teller>Lesti</Teller>
           <Title>WARP Temizlik Ajanı</Title>
           <VoiceFile>ch5_CleanupCrew_ep1_Lesti26</VoiceFile>
@@ -5092,31 +5092,31 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Smiling_ep1_Thelama3-01</VoiceFile>
           <Content>Saçmalama... bana ilk başta imkansız bir görev veren sendin...!</Content>
         </Dialog>
-        <Dialog ID="23" Model="аrgalia">
+        <Dialog ID="23" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia11</VoiceFile>
           <Content>Öf... bunun için sadece Güney Şubesi Bölüm 2'yi kullanmak senin seçimin, Thelma.</Content>
         </Dialog>
-        <Dialog ID="24" Model="аrgalia">
+        <Dialog ID="24" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia12</VoiceFile>
           <Content>Bölüm 1'in de bazılarıyla ilgilenmesini sağlayabilirdin. Küçük, gururlu Thelma, koltuğunu korumak için Bölüm 2'den kurtulmak için ucuz bir hile denedi ve bana verdiği sözü tutmayı başaramadı.</Content>
         </Dialog>
-        <Dialog ID="25" Model="셀ма">
+        <Dialog ID="25" Model="셀마">
           <Teller>Thelma</Teller>
           <Title>Shi Güney Şubesi Müdürü</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama4-01</VoiceFile>
           <Content>Ama sen!!! Onları kullanmam için bana ipucu veren sendin!!!</Content>
         </Dialog>
-        <Dialog ID="26" Model="аrgalia">
+        <Dialog ID="26" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia13</VoiceFile>
           <Content>Onları kesinlikle kullanman gerektiğini asla söylemedim, değil mi?</Content>
         </Dialog>
-        <Dialog ID="27" Model="аrgalia">
+        <Dialog ID="27" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia14</VoiceFile>
@@ -5146,19 +5146,19 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Smiling_ep1_Thelama8-01</VoiceFile>
           <Content>Lütfen bana bir şans daha ver...</Content>
         </Dialog>
-        <Dialog ID="32" Model="аrgalia">
+        <Dialog ID="32" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia15</VoiceFile>
           <Content>Thelma... sözümüzü bozduğun için en sonunda bile özür dileyemiyorsun.</Content>
         </Dialog>
-        <Dialog ID="33" Model="аrgalia">
+        <Dialog ID="33" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia16</VoiceFile>
           <Content>Bunu görmek kalbimi acıtıyor. Ah, ayrıca benim için endişelenmene gerek yok.</Content>
         </Dialog>
-        <Dialog ID="34" Model="аrgalia">
+        <Dialog ID="34" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia17</VoiceFile>
@@ -5194,13 +5194,13 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Smiling_ep1_Thelama9</VoiceFile>
           <Content>... Varoşlarda gece mi?</Content>
         </Dialog>
-        <Dialog ID="40" Model="аrgalia">
+        <Dialog ID="40" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia18</VoiceFile>
           <Content>Doğru. Kimse senin nerede ya da nasıl öldüğünü, ya da seni kimin öldürdüğünü asla bilemeyecek.</Content>
         </Dialog>
-        <Dialog ID="41" Model="аrgalia">
+        <Dialog ID="41" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia19</VoiceFile>
@@ -5212,13 +5212,13 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Smiling_ep1_Eileen1</VoiceFile>
           <Content>Elbette öyle, Bay Argalia.</Content>
         </Dialog>
-        <Dialog ID="43" Model="аrgalia">
+        <Dialog ID="43" Model="아르갈리아">
     13-17.       <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia20</VoiceFile>
           <Content>İyi! Hadi buna devam edelim, arkadaşlar.</Content>
         </Dialog>
-        <Dialog ID="44" Model="셀ма">
+        <Dialog ID="44" Model="셀마">
           <Teller>Thelma</Teller>
           <Title>Shi Güney Şubesi Müdürü</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama10_b</VoiceFile>
@@ -5230,7 +5230,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Smiling_ep1_Thelama11-01</VoiceFile>
           <Content>Çok üzgünüm... Hnk, hnn... sözümüzü bozduğum için üzgünüm...</Content>
         </Dialog>
-        <Dialog ID="46" Model="аrgalia">
+        <Dialog ID="46" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia21</VoiceFile>
@@ -5248,7 +5248,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Smiling_ep1_Mi4</VoiceFile>
           <Content>Şimdi bitirelim mi?</Content>
         </Dialog>
-        <Dialog ID="49" Model="аrgalia">
+        <Dialog ID="49" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia22</VoiceFile>
@@ -5266,37 +5266,37 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Smiling_ep1_Thelama13-01</VoiceFile>
           <Content>Yemin ederim! Bir daha asla ucuz hileler yapmayacağım!</Content>
         </Dialog>
-        <Dialog ID="52" Model="셀ма">
+        <Dialog ID="52" Model="셀마">
           <Teller>Thelma</Teller>
           <Title>Shi Güney Şubesi Müdürü</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama14-01</VoiceFile>
           <Content>Ve sana verdiğim hiçbir sözü bir daha asla bozmayacağım...!</Content>
         </Dialog>
-        <Dialog ID="53" Model="аrgalia">
+        <Dialog ID="53" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia23</VoiceFile>
           <Content>Ah~ Thelma...</Content>
         </Dialog>
-        <Dialog ID="54" Model="аrgalia">
+        <Dialog ID="54" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia24</VoiceFile>
           <Content>Gözlerim yaşaracak...</Content>
         </Dialog>
-        <Dialog ID="55" Model="аrgalia">
+        <Dialog ID="55" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia25</VoiceFile>
           <Content>Samimi bir özür dilediğin için seni affetmem mümkün değil.</Content>
         </Dialog>
-        <Dialog ID="56" Model="аrgalia">
+        <Dialog ID="56" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia26</VoiceFile>
           <Content>Dünyanın en zeki arkadaşı olmadığını biliyordum ama bu kadar düşeceğini düşünmemiştim.</Content>
         </Dialog>
-        <Dialog ID="57" Model="аrgalia">
+        <Dialog ID="57" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia27</VoiceFile>
@@ -5308,7 +5308,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Smiling_ep1_Wang9</VoiceFile>
           <Content>İyi, iyi. Susturucuyu geri takma zamanı, evlat. Aç ağzını~</Content>
         </Dialog>
-        <Dialog ID="59" Model="셀ма">
+        <Dialog ID="59" Model="셀마">
           <Teller>Thelma</Teller>
           <Title>Shi Güney Şubesi Müdürü</Title>
           <VoiceFile>ch5_Smiling_ep1_Thelama15-01</VoiceFile>
@@ -5326,13 +5326,13 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Smiling_ep1_Jin5</VoiceFile>
           <Content>Sırada ne var, dostum?</Content>
         </Dialog>
-        <Dialog ID="62" Model="аrgalia">
+        <Dialog ID="62" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia28</VoiceFile>
           <Content>İşiniz biter bitmez Kütüphane'ye gidin. Davet'i buraya bırakacağım.</Content>
         </Dialog>
-        <Dialog ID="63" Model="аrgalia">
+        <Dialog ID="63" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia29</VoiceFile>
@@ -5344,7 +5344,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
           <VoiceFile>ch5_Smiling_ep1_Wang10</VoiceFile>
           <Content>Hoh hon. Elbette yaparız. Kendine iyi bak, mavi dostum~</Content>
         </Dialog>
-        <Dialog ID="65" Model="аrgalia">
+        <Dialog ID="65" Model="아르갈리아">
           <Teller>Argalia</Teller>
           <Title>Mavi Yankı</Title>
           <VoiceFile>ch5_Smiling_ep1_Argalia30</VoiceFile>
@@ -5629,7 +5629,7 @@ Tren olması gerektiği gibi çalışıyor.</Content>
         <VoiceFile>ch5_Crying_ep1_Oswald8</VoiceFile>
         <Content>Belki önce seni ekibin geri kalanıyla tanıştırmalıyım.</Content>
       </Dialog>
-      <Dialog ID="11" Model="오स्왈드">
+      <Dialog ID="11" Model="오스왈드">
         <Teller>Oswald</Teller>
         <Title>Sirk Direktörü</Title>
         <VoiceFile>ch5_Crying_ep1_Oswald9</VoiceFile>

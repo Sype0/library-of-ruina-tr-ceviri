@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="3">
-    <Title>Capítulo 3–Sehir Efsanesi–‘Ve odami dolduran fedakarlik kokusunun tadini cikariyorum.’</Title>
+    <Title>Capítulo 3–Şehir Efsanesi–‘Ve odamı dolduran fedakarlık kokusunun tadını çıkarıyorum.’</Title>
   </Chapter>
   <Group>
     <GroupName>Prologue</GroupName>
@@ -292,7 +292,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Prol_ep1_angela23</VoiceFile>
-          <Content>Ama net bir amaç olmadan, çoğunlukla gereksiz seylerle dolu kitapları toplamak, verimsiz olmaz mı sence de?</Content>
+          <Content>Ama net bir amaç olmadan, çoğunlukla gereksiz şeylerle dolu kitapları toplamak, verimsiz olmaz mı sence de?</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -343,7 +343,7 @@
           <Teller>San</Teller>
           <Title>Sokak Lambası Operatörü</Title>
           <VoiceFile>ch3_Zwei_ep1_san1</VoiceFile>
-          <Content>Size yalvariyorum, Alt kadrom... Hepsi öldü.</Content>
+          <Content>Size yalvarıyorum, Alt kadrom... Hepsi öldü.</Content>
         </Dialog>
         <Dialog ID="2" Model="이사도라">
           <Teller>Isadora</Teller>
@@ -516,7 +516,7 @@
           <Teller>Isadora</Teller>
           <Title>Zwei G. 6. Bölüm Düzeltici</Title>
           <VoiceFile>ch3_Zwei_ep1_isadora17</VoiceFile>
-          <Content>Ö-önemli degil, tek yaptığım şey, prosedüre uygun şekilde bilgileri derleyip üst makamlara göndermekti.</Content>
+          <Content>Ö-önemli değil, tek yaptığım şey, prosedüre uygun şekilde bilgileri derleyip üst makamlara göndermekti.</Content>
         </Dialog>
         <Dialog ID="31" Model="이사도라">
           <Teller>Isadora</Teller>
@@ -1569,7 +1569,7 @@
           <Teller>Angela</Teller>
           <Title>Kütüphane Direktörü</Title>
           <VoiceFile>ch3_Zwei_ep3_angela5</VoiceFile>
-          <Content>Hoş geldiniz, değerli misafirler. Ben kutuphanenin—</Content>
+          <Content>Hoş geldiniz, değerli misafirler. Ben kütüphanenin—</Content>
         </Dialog>
         <Dialog ID="56" Model="월터">
           <Teller>Walter</Teller>
@@ -2369,7 +2369,7 @@
           <VoiceFile>ch3_Molar_ep1_rain10</VoiceFile>
           <Content>İşte bu, neden içmeye gittiğin konusunda bu kadar gururlu olduğunu açıklıyor.</Content>
         </Dialog>
-        <Dialog ID="28" Model="올गा">
+        <Dialog ID="28" Model="올가">
           <Teller>Olga</Teller>
           <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga10</VoiceFile>
@@ -2604,13 +2604,13 @@
           <Title> </Title>
           <Content>- İçeride 17 Saat -</Content>
         </Dialog>
-        <Dialog ID="67" Model="Yolcu 1">
+        <Dialog ID="67" Model="승객1">
           <Teller>Yolcu 1</Teller>
           <Title>Yolcu</Title>
           <VoiceFile>ch3_Molar_ep1_people1</VoiceFile>
           <Content>Çıldıracağım...</Content>
         </Dialog>
-        <Dialog ID="68" Model="Yolcu 2">
+        <Dialog ID="68" Model="승객2">
           <Teller>Yolcu 2</Teller>
           <Title>Yolcu</Title>
           <VoiceFile>ch3_Molar_ep1_people2</VoiceFile>
@@ -2867,7 +2867,7 @@
           <VoiceFile>ch3_Molar_ep1_mika16</VoiceFile>
           <Content>Rain doğru söylüyor. Belki biraz daha dikkatli ilerlemeliyiz.</Content>
         </Dialog>
-        <Dialog ID="110" Model="올गा">
+        <Dialog ID="110" Model="올가">
           <Teller>Olga</Teller>
           <Title>Azıdişi operatörü</Title>
           <VoiceFile>ch3_Molar_ep1_olga29</VoiceFile>

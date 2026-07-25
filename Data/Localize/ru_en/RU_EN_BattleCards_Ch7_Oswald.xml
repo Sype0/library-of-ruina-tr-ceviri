@@ -6,20 +6,20 @@
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703502">
-      <LocalizedName>¡Sürpriz için hazır mısınız?!&lt;color="red"&gt;♥&lt;/color&gt;</LocalizedName>
+      <LocalizedName>Sürpriz için hazır mısınız?!&lt;color="red"&gt;♥&lt;/color&gt;</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Çarpışma Kazanıldığında] 5 Can yeniler</Behaviour>
       <Behaviour ID="1">[Çarpışma Kazanıldığında] 5 Can yeniler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703503">
-      <LocalizedName>¡Güm! ¡Patlammo!!♣</LocalizedName>
+      <LocalizedName>Güm! Patlammo!!♣</LocalizedName>
       <Ability>[İyi iş] Eğer bu sayfadaki son zar bir çarpışmayı kaybederse, rakip gelecek sahne boyunca 1 Acele ve Dayanıklılık kazanır</Ability>
       <Behaviour ID="0">[Çarpışma Kazanıldığında] Son zar +1 Güç kazanır</Behaviour>
       <Behaviour ID="1">[Çarpışma Kazanıldığında] Son zar +1 Güç kazanır</Behaviour>
       <Behaviour ID="2">[İsabet Halinde] Gelecek sahne boyunca hedefin bir hız zarını mühürler</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703504">
-      <LocalizedName>¡Al, yakala!♣</LocalizedName>
+      <LocalizedName>Al, yakala!♣</LocalizedName>
       <Ability>[Aferin] Eğer bu sayfadaki ilk zar bir çarpışmayı kaybederse, rakip gelecek sahne boyunca 1 Güç kazanır</Ability>
       <Behaviour ID="0">[İsabet Halinde] Hedefin sayfasındaki tüm zarları yok eder</Behaviour>
     </BattleCardDesc>
@@ -32,7 +32,7 @@
       <Ability>[Karşılaşıldığında] Hedefi sersemletir; Hedef gelecek sahne boyunca Şaşkına Döner</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703507">
-      <LocalizedName>¡¡¡DORUK NOKTASI!!!</LocalizedName>
+      <LocalizedName>DORUK NOKTASI!!!</LocalizedName>
       <Ability>[HEPSİNİZ;][BAŞLADIĞINDA] Hedefe şu durumlardan birini uygular: 2 Kırılganlık, 2 Silahsızlandırma, 2 Kırılganlık, 2 Koruma, 2 Güç veya 2 Dayanıklılık</Ability>
     </BattleCardDesc>
 
@@ -41,7 +41,7 @@
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703512">
-      <LocalizedName>X-Kesişi</LocalizedName>
+      <LocalizedName>X-Keşişi</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703513">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="7">
-    <Title>Bölüm 7–Impuritas Civitatis–‘Ve yasama nedenim sadece kaybettigimi ariyor olmam.’</Title>
+    <Title>Bölüm 7–Impuritas Civitatis–‘Ve yaşama nedenim sadece kaybettiğimi arıyor olmam.’</Title>
   </Chapter>
   <Group>
     <GroupName>Prologue</GroupName>
@@ -402,7 +402,7 @@
           <VoiceFile>ch7_Hana_ep1_Mirinae_11</VoiceFile>
           <Content>Başlangıç olarak, mevcut durumu özetleyelim.</Content>
         </Dialog>
-        <Dialog ID="17" Model="올리비ए">
+        <Dialog ID="17" Model="올리비에">
           <Teller>Olivier</Teller>
           <Title>Hana G. Bölüm 3 Tamircisi</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_4</VoiceFile>
@@ -414,7 +414,7 @@
           <VoiceFile>ch7_Hana_ep1_Mirinae_12</VoiceFile>
           <Content>Sanırım Liu'nun güney şubesi şu anda Başparmak'tan misilleme almaktan kaçınmak için son derece pasif davranıyor?</Content>
         </Dialog>
-        <Dialog ID="19" Model="올리비ए">
+        <Dialog ID="19" Model="올리비에">
           <Teller>Olivier</Teller>
           <Title>Hana G. Bölüm 3 Tamircisi</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_5</VoiceFile>
@@ -426,7 +426,7 @@
           <VoiceFile>ch7_Hana_ep1_Harold_4</VoiceFile>
           <Content>Bu da demek oluyor ki, L Şirketi'nin Yuvası'nda kalan tek büyük tehdit...</Content>
         </Dialog>
-        <Dialog ID="21" Model="올리비ए">
+        <Dialog ID="21" Model="올리비에">
           <Teller>Olivier</Teller>
           <Title>Hana G. Bölüm 3 Tamircisi</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_6</VoiceFile>
@@ -1374,7 +1374,7 @@
           <VoiceFile>ch7_Hana_ep2_Olivier_19</VoiceFile>
           <Content>İkimizin de ebeveynleri ya da gerçek bir ailesi yoktu, bu yüzden kimsenin seni umursamayacağını düşündün herhalde.</Content>
         </Dialog>
-        <Dialog ID="37" Model="올리بيए">
+        <Dialog ID="37" Model="올리비에">
           <Teller>Olivier</Teller>
           <Title>Hana G. Bölüm 3 Tamircisi</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_20</VoiceFile>
@@ -3564,7 +3564,7 @@
       <EpisodeName>Netzach vs. Bremen</EpisodeName>
       <Place>
         <PlaceName>Konum: Kütüphane - Sanat Katı</PlaceName>
-        <Dialog ID="0" Model="브레मेन">
+        <Dialog ID="0" Model="브레멘">
           <Teller>Bremen</Teller>
           <Title>Bremen Mızıkacıları</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Bremen_1</VoiceFile>
@@ -3672,7 +3672,7 @@
           <VoiceFile />
           <Content>...</Content>
         </Dialog>
-        <Dialog ID="18" Model="브레мен">
+        <Dialog ID="18" Model="브레멘">
           <Teller>Bremen</Teller>
           <Title>Bremen Mızıkacıları</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Bremen_5</VoiceFile>
@@ -3762,7 +3762,7 @@
           <VoiceFile>ch7_Blue_ep2_NB_Netzach_26</VoiceFile>
           <Content>Yani... bu şekilde karşı karşıya gelmek zorundayız.</Content>
         </Dialog>
-        <Dialog ID="33" Model="브레мен">
+        <Dialog ID="33" Model="브레멘">
           <Teller>Bremen</Teller>
           <Title>Bremen Mızıkacıları</Title>
           <VoiceFile>ch7_Blue_ep2_NB_Bremen_8</VoiceFile>
@@ -3822,7 +3822,7 @@
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_6</VoiceFile>
           <Content>Ay, ne sürpriz! Kalbim neredeyse gözümden fırlayacaktı!</Content>
         </Dialog>
-        <Dialog ID="7" Model="정장 오स्왈드">
+        <Dialog ID="7" Model="정장 오스왈드">
           <Teller>Oswald</Teller>
           <Title>Saat Sekiz Sirki Direktörü</Title>
           <VoiceFile>ch7_Blue_ep2_TO_Oswald_7</VoiceFile>
@@ -7046,7 +7046,7 @@
             <VoiceFile>ch7_Blue_ep3_Eilin_3</VoiceFile>
             <Content>Duyduğumdan farklı bir sıcak yankı... beni sarıyor...</Content>
           </Dialog>
-          <Dialog ID="19" Model="D_ए일린">
+          <Dialog ID="19" Model="D_에일린">
             <Teller>Eileen</Teller>
             <Title>Yankı Meclisi</Title>
             <VoiceFile>ch7_Blue_ep3_Eilin_4</VoiceFile>

@@ -11,11 +11,11 @@
       <LocalizedName>Kesik</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707004">
-      <LocalizedName>Tırpan Kesişi</LocalizedName>
+      <LocalizedName>Tırpan Keşişi</LocalizedName>
     </BattleCardDesc>
     
     <BattleCardDesc ID="707011">
-      <LocalizedName>Kresendo</LocalizedName>
+      <LocalizedName>Kreşendo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707012">
       <LocalizedName>Büyük Final</LocalizedName>
@@ -85,7 +85,7 @@
     </BattleCardDesc>
 
     <BattleCardDesc ID="705011">
-      <LocalizedName>Kresendo</LocalizedName>
+      <LocalizedName>Kreşendo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705012">
       <LocalizedName>Büyük Final</LocalizedName>
@@ -100,7 +100,7 @@
     <BattleCardDesc ID="705016">
       <LocalizedName>Kuzgun Siyahı Baskın</LocalizedName> </BattleCardDesc>
     <BattleCardDesc ID="705017">
-      <LocalizedName>¡¡¡¡DORUK NOKTASI!!!!</LocalizedName>
+      <LocalizedName>DORUK NOKTASI!!!!</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705018">
       <LocalizedName>Donanım Montajı</LocalizedName> </BattleCardDesc>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Chapter ID="1">
-    <Title>Bölüm 1-Dedikodu-‘Disari sokaga çikiyorum, ellerim cebimde.’</Title>
+    <Title>Bölüm 1-Dedikodu-‘Dışarı sokağa çıkıyorum, ellerim cebimde.’</Title>
   </Chapter>
   <Group>
     <GroupName>Prologue</GroupName>
@@ -367,7 +367,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch1_prol2_ep1_roland12</VoiceFile>
-          <Content>Kahretsin, demek bu çılgın bir laboratuvar deneyi gibi bir seymiş.</Content>
+          <Content>Kahretsin, demek bu çılgın bir laboratuvar deneyi gibi bir şeymiş.</Content>
         </Dialog>
         <Dialog ID="28" Model="롤랑">
           <Teller>Roland</Teller>
@@ -493,7 +493,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch1_prol3_ep1_roland4</VoiceFile>
-          <Content>Düzelticilerle alakalı tuhaf fantezilerin falan varmı? 9. Sınıf birinden çok fazla şey beklemiyor musun? Senin düşündüğün kadarda yetenekli degilim, anlarsın ya.</Content>
+          <Content>Düzelticilerle alakalı tuhaf fantezilerin falan varmı? 9. Sınıf birinden çok fazla şey beklemiyor musun? Senin düşündüğün kadarda yetenekli değilim, anlarsın ya.</Content>
         </Dialog>
         <Dialog ID="12" Model="앤젤라">
           <Teller>Angela</Teller>
@@ -1675,7 +1675,7 @@
           <Teller>Düzeltici 1</Teller>
           <Title>Yun’un Ofisi</Title>
           <VoiceFile>ch1_Yun_ep1_Fixer1_1</VoiceFile>
-          <Content>Yine boşa çıktı. Düzeltici olmak için bunca zahmete sıradan angaryalarla uğrasayım diye katlanmadım.</Content>
+          <Content>Yine boşa çıktı. Düzeltici olmak için bunca zahmete sıradan angaryalarla uğraşayım diye katlanmadım.</Content>
         </Dialog>
         <Dialog ID="1" Model="해결사2">
           <Teller>Düzeltici 2</Teller>
@@ -1864,7 +1864,7 @@
           <Teller>Yun</Teller>
           <Title>Ofis Operatörü</Title>
           <VoiceFile>ch1_Yun_ep2_yun6</VoiceFile>
-          <Content>Oh gerçekten mi? Böylesine iyi sezgileri olan 9. Sınıf bir Düzeltici'nin bizim mütevazi Ofisimizde harcanması tam bir trajedi.</Content>
+          <Content>Oh gerçekten mi? Böylesine iyi sezgileri olan 9. Sınıf bir Düzeltici'nin bizim mütevazı Ofisimizde harcanması tam bir trajedi.</Content>
         </Dialog>
         <Dialog ID="9" Model="핀">
           <Teller>Finn</Teller>
@@ -2158,7 +2158,7 @@
           <Teller>Eri</Teller>
           <Title>Yun’un Düzelticisi</Title>
           <VoiceFile>ch1_Yun_ep3_eri4</VoiceFile>
-          <Content>Bu günlerde kendi faturalarını zar zor karşıladığını duydum, Ofis kirasının aylik ücretini hiç sormuyorum bile, yanılıyor muyum?</Content>
+          <Content>Bu günlerde kendi faturalarını zar zor karşıladığını duydum, Ofis kirasının aylık ücretini hiç sormuyorum bile, yanılıyor muyum?</Content>
         </Dialog>
         <Dialog ID="8" Model="윤">
           <Teller>Yun</Teller>
@@ -2227,7 +2227,7 @@
           <Teller>Roland</Teller>
           <Title>Hizmetkar</Title>
           <VoiceFile>ch1_Yun_ep3_roland2</VoiceFile>
-          <Content>Küçük ve değersiz bir Ofis olabilirler, ama Kütüphane'nin suanki haliyle biraz zorluk çıkarabilirler.</Content>
+          <Content>Küçük ve değersiz bir Ofis olabilirler, ama Kütüphane'nin şuanki haliyle biraz zorluk çıkarabilirler.</Content>
         </Dialog>
         <Dialog ID="19" Model="롤랑">
           <Teller>Roland</Teller>

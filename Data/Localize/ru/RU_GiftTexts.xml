@@ -292,7 +292,7 @@
   <GiftText ID="Veteran">
     <Desc>YP +2</Desc>
     <Prefix>Amansız</Prefix>
-    <Postfix>Gazi</Postfix>
+    <Postfix>Gazı</Postfix>
     <AcquireCondition>Oscar'ın ana sayfasındaki 'Durdurulamaz' pasifi etkinken ve başka müttefik yokken bir Şehir Vebası seviyesi resepsiyonunu tamamla.</AcquireCondition>
   </GiftText>
   <GiftText ID="Pierce">
@@ -632,14 +632,14 @@
     <AcquireCondition>Herhangi bir R Corporation resepsiyonunda, Tip-2 kask takarken Ren Geyiği ekibinden {0} asker yen.</AcquireCondition>
   </GiftText>
   <GiftText ID="DangerousReindeer">
-    <Desc>Karakterde 20+ Yük varken delme zarlarının Gücünü +1 artırma şansı %4</Prefix>
+    <Desc>Karakterde 20+ Yük varken delme zarlarının Gücünü +1 artırma şansı %4</Desc>
     <Prefix>Nesli</Prefix>
     <Postfix>Tükenmekte</Postfix>
     <AcquireCondition>Herhangi bir R Corporation resepsiyonunda, Tip-3 kask takarken Ren Geyiği ekibinden {0} asker yen.</AcquireCondition>
   </GiftText>
   <GiftText ID="Commander">
     <Desc>Karakterde 20+ Yük varken hasarı 1 azaltma şansı %5</Desc>
-    <Prefix>Gazi</Prefix>
+    <Prefix>Gazı</Prefix>
     <Postfix>Komutan</Postfix>
     <AcquireCondition>'Son Dokunuş' pasifi ile işaretlenmiş {0} hedefi yen.</AcquireCondition>
   </GiftText>
